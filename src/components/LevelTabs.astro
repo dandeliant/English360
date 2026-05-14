@@ -1,0 +1,144 @@
+---
+import { CEFR_LEVELS, CEFR_DESCRIPTIONS, type CefrLevel } from '../utils/cefr.ts';
+
+interface Props {
+  availableLevels: readonly CefrLevel[];
+}
+
+const { availableLevels } = Astro.props;
+---
+<div class="level-tabs" role="tablist" aria-label="Wybierz poziom CEFR">
+  {CEFR_LEVELS.map((level) => {
+    const isAvailable = availableLevels.includes(level);
+    const longLabel = `Poziom ${level} · ${CEFR_DESCRIPTIONS[level]}`;
+    return (
+      <button
+        type="button"
+        role="tab"
+        id={`tab-${level}`}
+        aria-controls={`panel-${level}`}
+        aria-selected="false"
+        aria-label={isAvailable ? longLabel : `${longLabel} — sekcja w przygotowaniu`}
+        tabindex="-1"
+        data-level={level}
+        class:list={['level-tab', `level-tab--${level.toLowerCase()}`]}
+        disabled={!isAvailable}
+        title={isAvailable ? longLabel : 'Sekcja w przygotowaniu'}
+      >
+        <span class="level-tab__code">{level}</span>
+        <span class="level-tab__desc">{CEFR_DESCRIPTIONS[level]}</span>
+      </button>
+    );
+  })}
+</div>
+
+<p class="level-tabs__hint" id="level-tabs-hint">
+  <kbd>1</kbd>–<kbd>6</kbd> przełącza poziomy.
+  <kbd>←</kbd> <kbd>→</kbd> przewija po zakładkach. <kbd>Space</kbd> startuje odczyt.
+</p>
+
+<style>
+  .level-tabs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-2);
+    padding-block: var(--space-3);
+  }
+
+  @media (min-width: 36rem) {
+    .level-tabs {
+      grid-template-columns: repeat(6, 1fr);
+    }
+  }
+
+  .level-tab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    padding: var(--space-2) var(--space-2);
+    min-block-size: 3.25rem;
+    background: var(--surface-2);
+    color: var(--text);
+    border: 2px solid transparent;
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    cursor: pointer;
+    transition: background-color 120ms ease, border-color 120ms ease, transform 80ms ease;
+  }
+
+  .level-tab__code {
+    font-weight: 800;
+    font-size: var(--text-base);
+    letter-spacing: 0.04em;
+  }
+
+  .level-tab__desc {
+    font-size: 0.6875rem;
+    line-height: 1.1;
+    color: var(--text-muted);
+    text-align: center;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 36rem) {
+    .level-tab__desc { display: none; }
+    .level-tab { min-block-size: 2.75rem; }
+  }
+
+  .level-tab:hover:not(:disabled):not([aria-selected='true']) {
+    border-color: var(--tab-bg, var(--border-strong));
+    transform: translateY(-1px);
+  }
+
+  .level-tab:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  .level-tab[aria-selected='true'] {
+    background: var(--tab-bg);
+    color: var(--tab-fg);
+    border-color: var(--tab-bg);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .level-tab[aria-selected='true'] .level-tab__desc {
+    color: inherit;
+    opacity: 0.85;
+  }
+
+  .level-tab--a1 { --tab-bg: var(--level-a1); --tab-fg: var(--level-a1-fg); }
+  .level-tab--a2 { --tab-bg: var(--level-a2); --tab-fg: var(--level-a2-fg); }
+  .level-tab--b1 { --tab-bg: var(--level-b1); --tab-fg: var(--level-b1-fg); }
+  .level-tab--b2 { --tab-bg: var(--level-b2); --tab-fg: var(--level-b2-fg); }
+  .level-tab--c1 { --tab-bg: var(--level-c1); --tab-fg: var(--level-c1-fg); }
+  .level-tab--c2 { --tab-bg: var(--level-c2); --tab-fg: var(--level-c2-fg); }
+
+  .level-tabs__hint {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    text-align: center;
+    margin-block-end: var(--space-4);
+  }
+
+  .level-tabs__hint kbd {
+    display: inline-block;
+    padding: 1px 5px;
+    margin: 0 1px;
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--text);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+  }
+
+  @media (max-width: 30rem) {
+    .level-tabs__hint { display: none; }
+  }
+</style>

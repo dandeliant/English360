@@ -1,0 +1,141 @@
+---
+import ExerciseMatch from './ExerciseMatch.astro';
+import ExerciseGap from './ExerciseGap.astro';
+import ExerciseTF from './ExerciseTF.astro';
+
+interface Props {
+  exercise?: any;
+}
+
+const { exercise } = Astro.props;
+
+const TYPE_LABELS: Record<string, string> = {
+  match: 'Dopasowanie',
+  gap: 'Uzupełnij luki',
+  tf: 'Prawda czy fałsz',
+  wordform: 'Forma wyrazu',
+  paraphrase: 'Parafraza',
+  cloze: 'Cloze (test luk wielokrotnych)',
+};
+
+const interactiveTypes = new Set(['match', 'gap', 'tf']);
+const isInteractive = exercise && interactiveTypes.has(exercise.type);
+---
+{!exercise ? (
+  <p class="placeholder">— ćwiczenie w przygotowaniu —</p>
+) : (
+  <section class="exercise" aria-labelledby={`ex-h-${exercise.type}`}>
+    <h3 class="exercise__heading" id={`ex-h-${exercise.type}`}>
+      <span class="exercise__type-tag">{TYPE_LABELS[exercise.type] ?? exercise.type}</span>
+    </h3>
+
+    {isInteractive ? (
+      <form class="exercise__form" data-exercise data-exercise-type={exercise.type}>
+        <p class="exercise__prompt">{exercise.prompt}</p>
+
+        {exercise.type === 'match' && (
+          <ExerciseMatch items={exercise.items} choices={exercise.choices} />
+        )}
+        {exercise.type === 'gap' && <ExerciseGap items={exercise.items} />}
+        {exercise.type === 'tf' && <ExerciseTF items={exercise.items} />}
+
+        <div class="exercise__actions">
+          <button type="submit" data-action="check" class="btn btn-primary">Sprawdź</button>
+          <button type="button" data-action="reveal" class="btn">Pokaż odpowiedzi</button>
+          <button type="button" data-action="reset" class="btn" hidden>Wyczyść</button>
+        </div>
+
+        <p class="exercise__score" data-score hidden aria-live="polite"></p>
+      </form>
+    ) : (
+      <div class="exercise__placeholder-block">
+        <p class="exercise__prompt">{exercise.prompt}</p>
+        <p class="exercise__placeholder">
+          — interaktywne ćwiczenie tego typu pojawi się w fazie 2; dane są już gotowe w pliku lekcji —
+        </p>
+      </div>
+    )}
+  </section>
+)}
+
+<script>
+  import '../scripts/exercise.js';
+</script>
+
+<style>
+  .exercise {
+    margin-block: var(--space-6);
+    padding: var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+  }
+
+  .exercise__heading {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-block-end: var(--space-3);
+  }
+
+  .exercise__type-tag {
+    display: inline-block;
+    padding: 2px var(--space-2);
+    background: var(--surface-2);
+    border-radius: var(--radius-sm);
+  }
+
+  .exercise__prompt {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    color: var(--text);
+    margin-block-end: var(--space-4);
+  }
+
+  .exercise__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-block-start: var(--space-5);
+  }
+
+  .exercise__score {
+    margin-block-start: var(--space-3);
+    padding: var(--space-3);
+    border-radius: var(--radius-md);
+    background: var(--surface-2);
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .exercise__score[data-tone='success'] {
+    background: var(--success-bg);
+    color: var(--success);
+  }
+
+  .exercise__score[data-tone='fail'] {
+    background: var(--error-bg);
+    color: var(--error);
+  }
+
+  .exercise__placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: var(--text-sm);
+    padding: var(--space-4);
+    text-align: center;
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  .placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: var(--text-sm);
+    padding-block: var(--space-4);
+    text-align: center;
+  }
+</style>

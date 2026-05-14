@@ -1,0 +1,107 @@
+---
+interface Item {
+  sentence: string;
+  answer: string;
+  alts?: string[];
+}
+
+interface Props {
+  items: Item[];
+}
+
+const { items } = Astro.props;
+---
+<ol class="gap__items">
+  {items.map((item, idx) => {
+    const parts = item.sentence.split('___');
+    return (
+      <li
+        class="gap__item"
+        data-item
+        data-answer={item.answer}
+        data-alts={(item.alts ?? []).join('|')}
+      >
+        <span class="gap__sentence">
+          {parts.map((part, i) => (
+            <>
+              <span class="gap__text">{part}</span>
+              {i < parts.length - 1 && (
+                <input
+                  type="text"
+                  class="gap__input"
+                  data-input
+                  autocomplete="off"
+                  autocapitalize="off"
+                  spellcheck="false"
+                  aria-label={`Luka ${idx + 1}`}
+                  size={Math.max(item.answer.length, 6)}
+                />
+              )}
+            </>
+          ))}
+        </span>
+        <span class="gap__feedback" data-feedback aria-live="polite"></span>
+      </li>
+    );
+  })}
+</ol>
+
+<style>
+  .gap__items {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .gap__item {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  .gap__item[data-state='correct'] { border-color: var(--success); background: var(--success-bg); }
+  .gap__item[data-state='incorrect'] { border-color: var(--error); background: var(--error-bg); }
+
+  .gap__sentence {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    line-height: var(--leading-relaxed);
+  }
+
+  .gap__input {
+    display: inline-block;
+    padding: 2px var(--space-2);
+    margin: 0 2px;
+    background: var(--surface-2);
+    color: var(--text);
+    border: none;
+    border-block-end: 2px solid var(--border-strong);
+    border-radius: 2px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: 600;
+    text-align: center;
+    min-inline-size: 4rem;
+  }
+
+  .gap__input:focus {
+    outline: none;
+    border-block-end-color: var(--accent);
+    background: var(--surface);
+  }
+
+  .gap__feedback {
+    min-inline-size: 1.5rem;
+    text-align: center;
+    font-weight: 700;
+  }
+
+  .gap__item[data-state='correct'] .gap__feedback { color: var(--success); }
+  .gap__item[data-state='incorrect'] .gap__feedback { color: var(--error); }
+</style>

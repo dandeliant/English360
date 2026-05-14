@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="O projekcie · English 360°">
+  <div class="page about">
+    <h1>O projekcie</h1>
+
+    <p class="lead">
+      <strong>English 360°</strong> to codzienna lekcja angielskiego oparta na jednym zdjęciu.
+      Każdego dnia ta sama scena jest opowiedziana w sześciu wersjach — od A1 do C2 — żeby
+      każdy uczeń, niezależnie od poziomu, mógł zostać przy niej tak długo, jak chce.
+    </p>
+
+    <h2>Jak to działa</h2>
+    <ul class="about__list">
+      <li>Jedno zdjęcie — sześć opisów. Wybierasz poziom; reszta zostaje.</li>
+      <li>Słownictwo z brytyjską wymową IPA i tłumaczeniem na polski.</li>
+      <li>Krótkie ćwiczenie sprawdzające — bez logowania, bez pośpiechu.</li>
+      <li>Czytanie na głos przez wbudowane TTS przeglądarki.</li>
+      <li>Działa na telefonie, tablecie, komputerze. Bez instalacji.</li>
+    </ul>
+
+    <h2>Status</h2>
+    <p>
+      Wersja MVP (faza 1) — działa najważniejszy szkielet. Archiwum, kalendarz,
+      progresja i aplikacja PWA pojawią się w fazie 2. Lista planowanych funkcji
+      jest w pliku <code>README.md</code> w repozytorium projektu.
+    </p>
+
+    <h2>Kontakt</h2>
+    <p>
+      Projekt prowadzi nauczyciel angielskiego. Sugestie, błędy w lekcjach,
+      propozycje tematów — wszystko mile widziane (formularz dodam tutaj wkrótce).
+    </p>
+  </div>
+</BaseLayout>
+
+<style>
+  .about {
+    max-inline-size: var(--content-width);
+  }
+
+  .about h1 {
+    margin-block-end: var(--space-5);
+  }
+
+  .about h2 {
+    margin-block-start: var(--space-6);
+    margin-block-end: var(--space-3);
+  }
+
+  .about p,
+  .about li {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    line-height: var(--leading-relaxed);
+  }
+
+  .about .lead {
+    color: var(--text);
+    font-size: var(--text-xl);
+  }
+
+  .about__list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    padding-inline-start: var(--space-5);
+    list-style: disc;
+  }
+
+  .about code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: var(--surface-2);
+    padding: 1px var(--space-2);
+    border-radius: var(--radius-sm);
+  }
+</style>

@@ -1,0 +1,44 @@
+---
+// Theme switcher button. Pairs with src/scripts/theme.js, which finds
+// any element with `data-theme-toggle` and wires up click + aria sync.
+---
+<button
+  type="button"
+  class="theme-toggle"
+  data-theme-toggle
+  data-label-light="Przełącz na ciemny motyw"
+  data-label-dark="Przełącz na jasny motyw"
+  aria-pressed="false"
+  aria-label="Przełącz motyw"
+>
+  <span class="theme-toggle__icon theme-toggle__icon--light" aria-hidden="true">☀️</span>
+  <span class="theme-toggle__icon theme-toggle__icon--dark" aria-hidden="true">🌙</span>
+</button>
+
+<style>
+  .theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    transition: background-color 100ms ease, border-color 100ms ease;
+  }
+
+  .theme-toggle:hover {
+    background: var(--surface-2);
+    border-color: var(--border-strong);
+  }
+
+  .theme-toggle__icon {
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+
+  html[data-theme='dark'] .theme-toggle__icon--light { display: none; }
+  html:not([data-theme='dark']) .theme-toggle__icon--dark { display: none; }
+</style>

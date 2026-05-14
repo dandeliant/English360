@@ -1,0 +1,130 @@
+---
+import TTSButton from './TTSButton.astro';
+
+interface VocabItem {
+  term: string;
+  ipa_br?: string;
+  pl: string;
+  new?: boolean;
+}
+
+interface Props {
+  vocab?: VocabItem[];
+}
+
+const { vocab = [] } = Astro.props;
+const hasVocab = vocab.length > 0;
+---
+{hasVocab ? (
+  <div class="vocab">
+    <h3 class="vocab__heading">Słownictwo</h3>
+    <ul class="vocab__list">
+      {vocab.map((item) => (
+        <li class="vocab__row">
+          <div class="vocab__term">
+            <span class="vocab__term-text">{item.term}</span>
+            {item.new && <span class="badge-new">Nowe</span>}
+          </div>
+          {item.ipa_br && (
+            <div class="vocab__ipa">
+              <span class="ipa">{item.ipa_br}</span>
+            </div>
+          )}
+          <div class="vocab__pl">{item.pl}</div>
+          <div class="vocab__tts">
+            <TTSButton
+              text={item.term}
+              label={`Odsłuchaj słowo: ${item.term}`}
+              size="sm"
+            />
+          </div>
+        </li>
+      ))}
+    </ul>
+  </div>
+) : (
+  <p class="placeholder">— słownictwo w przygotowaniu —</p>
+)}
+
+<style>
+  .vocab {
+    margin-block: var(--space-5);
+  }
+
+  .vocab__heading {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-block-end: var(--space-3);
+  }
+
+  .vocab__list {
+    border-block-start: 1px solid var(--border);
+  }
+
+  .vocab__row {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      'term tts'
+      'ipa  tts'
+      'pl   tts';
+    column-gap: var(--space-3);
+    row-gap: 2px;
+    padding: var(--space-3) 0;
+    border-block-end: 1px solid var(--border);
+  }
+
+  @media (min-width: 36rem) {
+    .vocab__row {
+      grid-template-columns: minmax(8rem, 1fr) minmax(6rem, 1fr) minmax(8rem, 1fr) auto;
+      grid-template-areas: 'term ipa pl tts';
+      align-items: center;
+      column-gap: var(--space-4);
+    }
+  }
+
+  .vocab__term {
+    grid-area: term;
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    flex-wrap: wrap;
+  }
+
+  .vocab__term-text {
+    font-weight: 700;
+    font-size: var(--text-base);
+    color: var(--text);
+  }
+
+  .vocab__ipa {
+    grid-area: ipa;
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .vocab__pl {
+    grid-area: pl;
+    color: var(--text-muted);
+    font-style: italic;
+    font-size: var(--text-sm);
+  }
+
+  .vocab__tts {
+    grid-area: tts;
+    align-self: center;
+    justify-self: end;
+  }
+
+  .placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: var(--text-sm);
+    padding-block: var(--space-4);
+    text-align: center;
+  }
+</style>

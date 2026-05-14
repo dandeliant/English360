@@ -1,0 +1,82 @@
+---
+interface Props {
+  text: string;
+  label?: string;
+  size?: 'sm' | 'md';
+  main?: boolean;
+  rate?: number;
+}
+
+const { text, label = 'Odsłuchaj', size = 'md', main = false, rate } = Astro.props;
+---
+<button
+  type="button"
+  class:list={['tts-btn', `tts-btn--${size}`]}
+  data-tts
+  data-tts-text={text}
+  data-tts-rate={rate?.toString()}
+  data-tts-main={main ? 'true' : undefined}
+  aria-label={label}
+  aria-pressed="false"
+>
+  <span class="tts-btn__icon" aria-hidden="true">🔊</span>
+  {size === 'md' && <span class="tts-btn__label">Listen</span>}
+</button>
+
+<style>
+  .tts-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    transition: background-color 100ms ease, border-color 100ms ease, color 100ms ease;
+  }
+
+  .tts-btn--md {
+    padding: var(--space-2) var(--space-3);
+    min-block-size: 2.5rem;
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .tts-btn--sm {
+    width: 1.75rem;
+    height: 1.75rem;
+    padding: 0;
+    background: transparent;
+    border-color: transparent;
+  }
+
+  .tts-btn--sm:hover {
+    background: var(--surface-2);
+    border-color: var(--border);
+  }
+
+  .tts-btn--md:hover {
+    background: var(--surface-2);
+    border-color: var(--border-strong);
+  }
+
+  .tts-btn[data-tts-playing='true'] {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  .tts-btn[data-tts-playing='true'] .tts-btn__icon {
+    animation: tts-pulse 900ms ease-in-out infinite;
+  }
+
+  @keyframes tts-pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.18); }
+  }
+
+  .tts-btn__icon { font-size: 1rem; line-height: 1; }
+  .tts-btn__label { font-family: var(--font-sans); }
+</style>

@@ -1,14 +1,56 @@
 ---
-// Smoke test page — will be replaced in step 10 with the today's-lesson logic.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LessonCard from '../components/LessonCard.astro';
+
+// "Today" at build time. (Static generation: this is frozen until the next
+// build. Phase 2 will add a daily cron build + JS fallback that redirects to
+// the right lesson when the browser's date no longer matches the build.)
+const today = new Date().toISOString().slice(0, 10);
+
+const lessons = await getCollection('lessons');
+
+// Find lesson(s) assigned to today, prefer exact date_assigned over alternatives.
+const exactMatch = lessons.find((l) => l.data.date_assigned === today);
+const altMatch = lessons.find((l) => l.data.date_alternatives.includes(today));
+
+// Fallback: most recent lesson by date_assigned, descending.
+const sorted = [...lessons].sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
+
+const todaysLesson = exactMatch ?? altMatch ?? sorted[0];
+const isFallback = !exactMatch && !altMatch;
+
+if (!todaysLesson) {
+  throw new Error('Brak żadnej lekcji w src/content/lessons/. Dodaj choć jedną.');
+}
 ---
-<!doctype html>
-<html lang="pl">
-  <head>
-    <meta charset="utf-8" />
-    <title>English 360° — setup OK</title>
-  </head>
-  <body>
-    <h1>English 360° — setup OK</h1>
-    <p>Astro działa. Strona zostanie zbudowana w kolejnych krokach.</p>
-  </body>
-</html>
+<BaseLayout
+  title="Lekcja dnia"
+  description={`English 360° — lekcja na ${today}: ${todaysLesson.data.title_pl}.`}
+  ogImage={todaysLesson.data.image}
+>
+  <div class="page">
+    {isFallback && (
+      <div class="today-banner" role="status">
+        <p>
+          <strong>Dziś nie ma nowej lekcji.</strong> Oto ostatnia dostępna,
+          z dnia {todaysLesson.data.date_assigned}.
+        </p>
+      </div>
+    )}
+
+    <LessonCard lesson={todaysLesson} />
+  </div>
+</BaseLayout>
+
+<style>
+  .today-banner {
+    margin-block-end: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    background: var(--surface-2);
+    border-inline-start: 4px solid var(--accent);
+    border-radius: var(--radius-md);
+    font-size: var(--text-sm);
+    color: var(--text);
+  }
+</style>

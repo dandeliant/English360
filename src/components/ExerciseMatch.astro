@@ -1,0 +1,141 @@
+---
+interface Choice {
+  label: string;
+  text?: string;
+  image?: string;
+}
+
+interface Item {
+  word: string;
+  answer: string;
+}
+
+interface Props {
+  items: Item[];
+  choices: Choice[];
+}
+
+const { items, choices } = Astro.props;
+---
+<div class="match">
+  <ul class="match__choices" aria-label="Obrazki do dopasowania">
+    {choices.map((choice) => (
+      <li class="match__choice">
+        <span class="match__choice-label">{choice.label}</span>
+        {choice.image ? (
+          <img src={choice.image} alt="" class="match__choice-image" />
+        ) : (
+          <span class="match__choice-body" aria-hidden="true">{choice.text}</span>
+        )}
+      </li>
+    ))}
+  </ul>
+
+  <ol class="match__items">
+    {items.map((item, idx) => (
+      <li class="match__item" data-item data-answer={item.answer}>
+        <label for={`match-item-${idx}`} class="match__word">{item.word}</label>
+        <select
+          id={`match-item-${idx}`}
+          class="match__select"
+          data-input
+          aria-label={`Wybierz obrazek dla słowa ${item.word}`}
+        >
+          <option value="">—</option>
+          {choices.map((c) => (
+            <option value={c.label}>{c.label}</option>
+          ))}
+        </select>
+        <span class="match__feedback" data-feedback aria-live="polite"></span>
+      </li>
+    ))}
+  </ol>
+</div>
+
+<style>
+  .match {
+    display: grid;
+    gap: var(--space-5);
+  }
+
+  @media (min-width: 36rem) {
+    .match { grid-template-columns: 1fr 1fr; }
+  }
+
+  .match__choices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    padding: var(--space-3);
+    background: var(--surface-2);
+    border-radius: var(--radius-md);
+  }
+
+  .match__choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-1);
+    min-inline-size: 3.5rem;
+  }
+
+  .match__choice-label {
+    font-weight: 800;
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+
+  .match__choice-body {
+    font-size: 2.25rem;
+    line-height: 1;
+  }
+
+  .match__choice-image {
+    width: 4rem;
+    height: 4rem;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+  }
+
+  .match__items {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .match__item {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  .match__item[data-state='correct'] { border-color: var(--success); background: var(--success-bg); }
+  .match__item[data-state='incorrect'] { border-color: var(--error); background: var(--error-bg); }
+
+  .match__word { font-weight: 600; font-family: var(--font-serif); font-size: var(--text-lg); }
+
+  .match__select {
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    color: var(--text);
+    font-family: var(--font-sans);
+    font-weight: 600;
+    min-inline-size: 4rem;
+  }
+
+  .match__feedback {
+    min-inline-size: 1.5rem;
+    text-align: center;
+    font-weight: 700;
+  }
+
+  .match__item[data-state='correct'] .match__feedback { color: var(--success); }
+  .match__item[data-state='incorrect'] .match__feedback { color: var(--error); }
+</style>

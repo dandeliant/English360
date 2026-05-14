@@ -1,0 +1,121 @@
+/* English 360° — design tokens.
+ *
+ * Light mode is the default. Dark mode activates via [data-theme="dark"] on
+ * <html>, set by src/scripts/theme.js (with no-flash inline init in <head>).
+ *
+ * Level palette is fixed per the project brief; foreground colours per chip
+ * were chosen so every level passes WCAG AA (4.5:1) at body text size.
+ */
+
+:root {
+  /* ── Level palette ─────────────────────────────────────────── */
+  --level-a1: #7dd3a0;
+  --level-a2: #5db8e6;
+  --level-b1: #fbc02d;
+  --level-b2: #ef6c00;
+  --level-c1: #c2185b;
+  --level-c2: #6a1b9a;
+
+  /* Foreground on each chip (computed for WCAG AA against the bg above). */
+  --level-a1-fg: #0c1a13;
+  --level-a2-fg: #0a1820;
+  --level-b1-fg: #2a1e00;
+  --level-b2-fg: #1a0c00;
+  --level-c1-fg: #fff5f9;
+  --level-c2-fg: #f5edfb;
+
+  /* ── Surface / text (light mode) ───────────────────────────── */
+  --bg: #fafafa;
+  --surface: #ffffff;
+  --surface-2: #f3f3f4;
+  --text: #1a1a1a;
+  --text-muted: #555555;
+  --text-faint: #888888;
+  --border: #e5e5e5;
+  --border-strong: #c8c8c8;
+  --accent: #6a1b9a;
+  --accent-fg: #ffffff;
+  --focus: #0066cc;
+
+  /* ── Status / feedback ─────────────────────────────────────── */
+  --success: #1e7d3a;
+  --success-bg: #e6f4ea;
+  --error: #b3261e;
+  --error-bg: #fdecea;
+  --new-badge-bg: #fff3cd;
+  --new-badge-fg: #5c4400;
+
+  /* ── Typography ────────────────────────────────────────────── */
+  --font-serif: 'Source Serif 4', 'Charter', 'Iowan Old Style', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --font-ipa: 'Charis SIL', 'Doulos SIL', 'Lucida Sans Unicode', Georgia, serif;
+  --font-mono: ui-monospace, 'SF Mono', 'Cascadia Mono', 'Liberation Mono', Consolas, monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+
+  --leading-tight: 1.25;
+  --leading-snug: 1.4;
+  --leading-normal: 1.55;
+  --leading-relaxed: 1.7;
+
+  /* ── Spacing ───────────────────────────────────────────────── */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-8: 3rem;
+  --space-10: 4rem;
+
+  /* ── Radius / shadow ───────────────────────────────────────── */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.12);
+
+  /* ── Layout ────────────────────────────────────────────────── */
+  --content-width: 70ch;
+  --page-width: 64rem;
+  --header-height: 4rem;
+}
+
+/* ── Dark mode ─────────────────────────────────────────────────
+ * Levels keep their hue but shift slightly for legibility against
+ * dark backgrounds; chip foregrounds remain the AA-tested values.
+ */
+:root[data-theme='dark'] {
+  --bg: #0f0f10;
+  --surface: #1a1a1b;
+  --surface-2: #242427;
+  --text: #f0f0f0;
+  --text-muted: #b0b0b0;
+  --text-faint: #808080;
+  --border: #2e2e30;
+  --border-strong: #4a4a4d;
+  --accent: #b388eb;
+  --accent-fg: #1a0c2e;
+  --focus: #5dade2;
+
+  --success: #6cd089;
+  --success-bg: #1a3322;
+  --error: #f08a82;
+  --error-bg: #3b1c19;
+  --new-badge-bg: #4a3a00;
+  --new-badge-fg: #ffe17a;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 12px 28px rgba(0, 0, 0, 0.6);
+}

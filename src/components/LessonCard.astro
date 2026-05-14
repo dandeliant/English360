@@ -1,0 +1,315 @@
+---
+import LevelTabs from './LevelTabs.astro';
+import VocabTable from './VocabTable.astro';
+import TTSButton from './TTSButton.astro';
+import Exercise from './Exercise.astro';
+import { CEFR_LEVELS, CEFR_DESCRIPTIONS, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  lesson: CollectionEntry<'lessons'>;
+}
+
+const { lesson } = Astro.props;
+const data = lesson.data;
+
+const availableLevels: CefrLevel[] = CEFR_LEVELS.filter((l) => {
+  const level = data.levels[l];
+  return Boolean(level && (level.text || (level.vocab && level.vocab.length > 0) || level.exercise));
+});
+const availableCsv = availableLevels.join(',');
+
+// Server-side default level: prefer DEFAULT_LEVEL if available, else first.
+const initialLevel =
+  availableLevels.includes(DEFAULT_LEVEL)
+    ? DEFAULT_LEVEL
+    : (availableLevels[0] ?? DEFAULT_LEVEL);
+---
+<article
+  class="lesson-card"
+  data-lesson-card
+  data-available-levels={availableCsv}
+  data-active-level={initialLevel}
+>
+  <header class="lesson-card__header">
+    <figure class="lesson-card__figure">
+      <img
+        src={data.image}
+        alt={data.title_en}
+        class:list={['lesson-card__image', `lesson-card__image--${data.image_orientation}`]}
+        loading="eager"
+        decoding="async"
+        width={data.image_orientation === 'portrait' ? 800 : 1500}
+        height={data.image_orientation === 'portrait' ? 1200 : 1000}
+      />
+    </figure>
+
+    <div class="lesson-card__titles">
+      {data.location && <p class="lesson-card__location">📍 {data.location}</p>}
+      <h1 class="lesson-card__title-en">{data.title_en}</h1>
+      <p class="lesson-card__title-pl">{data.title_pl}</p>
+      {data.tags.length > 0 && (
+        <ul class="lesson-card__tags" aria-label="Tagi">
+          {data.tags.map((tag) => <li><span class="tag">#{tag}</span></li>)}
+        </ul>
+      )}
+    </div>
+  </header>
+
+  <LevelTabs availableLevels={availableLevels} />
+
+  {CEFR_LEVELS.map((level) => {
+    const content = data.levels[level];
+    const isAvailable = availableLevels.includes(level);
+    const isInitial = level === initialLevel;
+    return (
+      <section
+        role="tabpanel"
+        id={`panel-${level}`}
+        aria-labelledby={`tab-${level}`}
+        data-level-panel={level}
+        class:list={['lesson-panel', `lesson-panel--${level.toLowerCase()}`]}
+        hidden={!isInitial}
+      >
+        <div class="lesson-panel__strip" aria-hidden="true">
+          <span class="lesson-panel__strip-code">{level}</span>
+          <span class="lesson-panel__strip-desc">{CEFR_DESCRIPTIONS[level]}</span>
+        </div>
+
+        {!isAvailable || !content ? (
+          <p class="placeholder">— ten poziom jest w przygotowaniu —</p>
+        ) : (
+          <>
+            {content.text ? (
+              <div class="lesson-panel__text-block">
+                <div class="lesson-panel__text-actions">
+                  <TTSButton
+                    text={content.text}
+                    label={`Odsłuchaj tekst poziomu ${level}`}
+                    main
+                  />
+                </div>
+                <div class="lesson-panel__text prose">
+                  {content.text.split(/\n\n+/).map((p) => <p>{p}</p>)}
+                </div>
+              </div>
+            ) : (
+              <p class="placeholder">— tekst w przygotowaniu —</p>
+            )}
+
+            <VocabTable vocab={content.vocab} />
+            <Exercise exercise={content.exercise} />
+          </>
+        )}
+      </section>
+    );
+  })}
+
+  {data.did_you_know && (
+    <aside class="did-you-know" aria-labelledby="dyk-heading">
+      <h2 class="did-you-know__heading" id="dyk-heading">
+        <span aria-hidden="true">💡</span> Czy wiesz, że…
+      </h2>
+      <p class="did-you-know__en">{data.did_you_know.en}</p>
+      <p class="did-you-know__pl">{data.did_you_know.pl}</p>
+    </aside>
+  )}
+</article>
+
+<script>
+  import '../scripts/level-memory.js';
+  import '../scripts/tts.js';
+</script>
+
+<style>
+  .lesson-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .lesson-card__header {
+    display: grid;
+    gap: var(--space-4);
+  }
+
+  @media (min-width: 48rem) {
+    .lesson-card__header {
+      grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+      gap: var(--space-6);
+      align-items: center;
+    }
+  }
+
+  .lesson-card__figure {
+    margin: 0;
+    background: var(--surface-2);
+  }
+
+  .lesson-card__image {
+    width: 100%;
+    height: auto;
+    display: block;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+  }
+
+  .lesson-card__image--portrait { aspect-ratio: 2 / 3; }
+  .lesson-card__image--square { aspect-ratio: 1; }
+
+  @media (min-width: 48rem) {
+    .lesson-card__image {
+      block-size: 100%;
+      min-block-size: 22rem;
+    }
+  }
+
+  .lesson-card__titles {
+    padding: var(--space-2) var(--space-5) var(--space-5);
+  }
+
+  @media (min-width: 48rem) {
+    .lesson-card__titles { padding: var(--space-6); }
+  }
+
+  .lesson-card__location {
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    margin-block-end: var(--space-2);
+  }
+
+  .lesson-card__title-en {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    line-height: 1.15;
+    letter-spacing: -0.015em;
+  }
+
+  @media (min-width: 48rem) {
+    .lesson-card__title-en { font-size: var(--text-4xl); }
+  }
+
+  .lesson-card__title-pl {
+    font-size: var(--text-lg);
+    color: var(--text-muted);
+    margin-block-start: var(--space-2);
+  }
+
+  .lesson-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-block-start: var(--space-4);
+  }
+
+  /* Level tabs sit inside the card on a contrasting strip. */
+  .lesson-card > :global(.level-tabs) {
+    margin-inline: var(--space-5);
+    margin-block-start: var(--space-3);
+  }
+
+  .lesson-card > :global(.level-tabs__hint) {
+    margin-inline: var(--space-5);
+  }
+
+  /* Each level panel = the body of one CEFR section. */
+  .lesson-panel {
+    padding: var(--space-5);
+    border-block-start: 1px solid var(--border);
+  }
+
+  @media (min-width: 48rem) {
+    .lesson-panel { padding: var(--space-6); }
+  }
+
+  .lesson-panel__strip {
+    display: inline-flex;
+    align-items: baseline;
+    gap: var(--space-2);
+    padding: 4px var(--space-3);
+    margin-block-end: var(--space-4);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    background: var(--strip-bg);
+    color: var(--strip-fg);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .lesson-panel__strip-code {
+    font-size: var(--text-sm);
+    letter-spacing: 0.06em;
+  }
+
+  .lesson-panel__strip-desc {
+    font-weight: 500;
+    font-size: var(--text-xs);
+    opacity: 0.85;
+  }
+
+  .lesson-panel--a1 { --strip-bg: var(--level-a1); --strip-fg: var(--level-a1-fg); }
+  .lesson-panel--a2 { --strip-bg: var(--level-a2); --strip-fg: var(--level-a2-fg); }
+  .lesson-panel--b1 { --strip-bg: var(--level-b1); --strip-fg: var(--level-b1-fg); }
+  .lesson-panel--b2 { --strip-bg: var(--level-b2); --strip-fg: var(--level-b2-fg); }
+  .lesson-panel--c1 { --strip-bg: var(--level-c1); --strip-fg: var(--level-c1-fg); }
+  .lesson-panel--c2 { --strip-bg: var(--level-c2); --strip-fg: var(--level-c2-fg); }
+
+  .lesson-panel__text-block {
+    margin-block: var(--space-3);
+  }
+
+  .lesson-panel__text-actions {
+    margin-block-end: var(--space-3);
+  }
+
+  .lesson-panel__text {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    line-height: var(--leading-relaxed);
+    color: var(--text);
+  }
+
+  .lesson-panel__text p + p { margin-block-start: var(--space-4); }
+
+  .placeholder {
+    color: var(--text-faint);
+    font-style: italic;
+    font-size: var(--text-sm);
+    padding-block: var(--space-4);
+    text-align: center;
+  }
+
+  /* Did-you-know box. */
+  .did-you-know {
+    margin: var(--space-6) var(--space-5) var(--space-5);
+    padding: var(--space-5);
+    background: linear-gradient(180deg, color-mix(in srgb, var(--accent) 8%, var(--surface)), var(--surface));
+    border: 1px solid color-mix(in srgb, var(--accent) 25%, var(--border));
+    border-radius: var(--radius-lg);
+  }
+
+  .did-you-know__heading {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    margin-block-end: var(--space-3);
+  }
+
+  .did-you-know__en {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    line-height: var(--leading-relaxed);
+    margin-block-end: var(--space-2);
+  }
+
+  .did-you-know__pl {
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    font-style: italic;
+  }
+</style>

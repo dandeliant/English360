@@ -1,0 +1,156 @@
+---
+import '../styles/global.css';
+import ThemeToggle from '../components/ThemeToggle.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+}
+
+const {
+  title,
+  description = 'Codzienna lekcja angielskiego oparta na zdjęciu, na sześciu poziomach CEFR (A1–C2).',
+  ogImage,
+} = Astro.props;
+
+const fullTitle = title.includes('English 360') ? title : `${title} · English 360°`;
+---
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+
+    <!-- No-flash theme init: runs before CSS paints. -->
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem('english360.theme');
+          var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme = stored || (prefersDark ? 'dark' : 'light');
+          document.documentElement.dataset.theme = theme;
+        } catch (e) {
+          document.documentElement.dataset.theme = 'light';
+        }
+      })();
+    </script>
+
+    <!-- Fonts: Source Serif 4 (lesson text), Inter (UI), Charis SIL (IPA). -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Charis+SIL:wght@400;700&family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@400;600;700&display=swap"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+  </head>
+  <body>
+    <a href="#main" class="skip-link">Przejdź do treści</a>
+
+    <header class="site-header">
+      <div class="page site-header__inner">
+        <a href="/" class="site-logo" aria-label="English 360° — strona główna">
+          <span class="site-logo__mark" aria-hidden="true">EN<span class="site-logo__deg">°</span></span>
+          <span class="site-logo__name">English 360°</span>
+        </a>
+        <ThemeToggle />
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="page">
+        <p>© 2026 English 360° · Codzienna lekcja angielskiego oparta na zdjęciu.</p>
+      </div>
+    </footer>
+
+    <script>
+      import '../scripts/theme.js';
+    </script>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    position: sticky;
+    inset-block-start: 0;
+    z-index: 10;
+    background: color-mix(in srgb, var(--surface) 92%, transparent);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-block-end: 1px solid var(--border);
+  }
+
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    min-block-size: var(--header-height);
+  }
+
+  .site-logo {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-3);
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  .site-logo:hover { text-decoration: none; }
+
+  .site-logo__mark {
+    display: inline-flex;
+    align-items: baseline;
+    padding: 4px var(--space-2);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    line-height: 1;
+  }
+
+  .site-logo__deg {
+    font-size: 0.75rem;
+    margin-inline-start: 1px;
+  }
+
+  .site-logo__name {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    letter-spacing: -0.01em;
+  }
+
+  @media (max-width: 30rem) {
+    .site-logo__name { display: none; }
+  }
+
+  main {
+    min-block-size: calc(100vh - var(--header-height) - 8rem);
+    padding-block: var(--space-6);
+  }
+
+  .site-footer {
+    margin-block-start: var(--space-10);
+    padding-block: var(--space-6);
+    border-block-start: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+    text-align: center;
+  }
+</style>
