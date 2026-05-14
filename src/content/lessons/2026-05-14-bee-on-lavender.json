@@ -1,0 +1,166 @@
+{
+  "id": "2026-05-14-bee-on-lavender",
+  "date_assigned": "2026-05-14",
+  "date_alternatives": ["2026-06-21", "2026-08-10"],
+  "title_en": "A Bee's Quiet Afternoon",
+  "title_pl": "Spokojne popołudnie pszczoły",
+  "location": "Provence, France",
+  "image": "/images/2026-05-14-bee-on-lavender.jpg",
+  "image_orientation": "landscape",
+  "tags": ["nature", "spring", "insects", "purple", "lavender"],
+  "themes": ["pollination", "european-summer", "biodiversity"],
+  "did_you_know": {
+    "en": "A single honey bee visits about two million flowers to make one pound of honey — and on the way back to the hive it can dance to tell other bees exactly where it found the best flowers.",
+    "pl": "Jedna pszczoła miodna odwiedza około dwóch milionów kwiatów, by wyprodukować pół kilo miodu — a w drodze do ula potrafi „zatańczyć" innym pszczołom dokładną informację, gdzie znalazła najlepsze kwiaty."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: pszczoła na lawendzie. Jedno zdjęcie, sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia i ciekawostka, której być może nie znałeś. Zobacz na english360.example",
+    "fb_caption_en": "Today on English 360°: a honey bee on lavender. One photograph, six CEFR levels, vocab with IPA, exercises, and a fact you probably didn't know. Read at english360.example",
+    "hashtags": ["#English360", "#LearnEnglish", "#NaturePhotography", "#Lavender", "#HoneyBee", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "This is a bee. The bee is on a flower. The flower is purple. The bee is small. It has black and yellow stripes. The bee likes the flower. It is a sunny day in summer.",
+      "vocab": [
+        { "term": "bee", "ipa_br": "/biː/", "pl": "pszczoła", "new": true },
+        { "term": "flower", "ipa_br": "/ˈflaʊə/", "pl": "kwiat", "new": true },
+        { "term": "purple", "ipa_br": "/ˈpɜːpəl/", "pl": "fioletowy", "new": true },
+        { "term": "small", "ipa_br": "/smɔːl/", "pl": "mały", "new": false },
+        { "term": "yellow", "ipa_br": "/ˈjeləʊ/", "pl": "żółty", "new": false },
+        { "term": "sunny", "ipa_br": "/ˈsʌni/", "pl": "słoneczny", "new": true }
+      ],
+      "exercise": {
+        "type": "match",
+        "prompt": "Match the word to the picture.",
+        "items": [
+          { "word": "bee", "answer": "A" },
+          { "word": "flower", "answer": "B" },
+          { "word": "sun", "answer": "C" }
+        ],
+        "choices": [
+          { "label": "A", "text": "🐝" },
+          { "label": "B", "text": "🌸" },
+          { "label": "C", "text": "☀️" }
+        ]
+      }
+    },
+    "A2": {
+      "text": "Look at this little bee. It is sitting on a purple lavender flower. The bee is drinking from the flower. Its wings are clear and very thin. There are many flowers in the garden, but this bee is staying on one flower for a long time. The sun is shining and the colours are bright. The bee is busy, but it also looks calm.",
+      "vocab": [
+        { "term": "sit on", "ipa_br": "/sɪt ɒn/", "pl": "siedzieć na", "new": false },
+        { "term": "drink", "ipa_br": "/drɪŋk/", "pl": "pić", "new": false },
+        { "term": "wings", "ipa_br": "/wɪŋz/", "pl": "skrzydła", "new": true },
+        { "term": "thin", "ipa_br": "/θɪn/", "pl": "cienki", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "busy", "ipa_br": "/ˈbɪzi/", "pl": "zajęty", "new": false },
+        { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true }
+      ],
+      "exercise": {
+        "type": "gap",
+        "prompt": "Uzupełnij zdania jednym słowem, które pasuje do tekstu.",
+        "items": [
+          { "sentence": "The bee is ___ on the flower.", "answer": "sitting", "alts": ["sat"] },
+          { "sentence": "The flower is ___.", "answer": "purple", "alts": ["violet"] },
+          { "sentence": "The wings of the bee are very ___.", "answer": "thin" },
+          { "sentence": "The bee is ___ but also calm.", "answer": "busy" }
+        ]
+      }
+    },
+    "B1": {
+      "text": "On a warm afternoon in southern France, a honey bee landed gently on a stalk of lavender. Lavender grows in long, low fields across Provence and gives the region its famous purple colour every summer. The bee moved from one flower to the next, collecting nectar in tiny amounts. It also carried pollen on its back legs — without noticing — which helps new lavender plants grow next year. Bees and lavender depend on each other: the flower feeds the bee, and the bee carries the flower's pollen to other plants nearby.",
+      "vocab": [
+        { "term": "honey bee", "ipa_br": "/ˈhʌni biː/", "pl": "pszczoła miodna", "new": true },
+        { "term": "gently", "ipa_br": "/ˈdʒentli/", "pl": "delikatnie", "new": true },
+        { "term": "stalk", "ipa_br": "/stɔːk/", "pl": "łodyga", "new": true },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": false },
+        { "term": "nectar", "ipa_br": "/ˈnektə/", "pl": "nektar", "new": true },
+        { "term": "pollen", "ipa_br": "/ˈpɒlən/", "pl": "pyłek", "new": true },
+        { "term": "depend on", "ipa_br": "/dɪˈpend ɒn/", "pl": "zależeć od", "new": false },
+        { "term": "nearby", "ipa_br": "/ˌnɪəˈbaɪ/", "pl": "w pobliżu", "new": false }
+      ],
+      "exercise": {
+        "type": "tf",
+        "prompt": "Decide if each statement is true or false based on the text.",
+        "items": [
+          { "statement": "The bee landed on lavender in northern France.", "answer": false },
+          { "statement": "Bees collect nectar from lavender flowers.", "answer": true },
+          { "statement": "Bees carry pollen on their wings.", "answer": false },
+          { "statement": "Lavender turns Provence purple every summer.", "answer": true },
+          { "statement": "Bees and lavender do not need each other.", "answer": false }
+        ]
+      }
+    },
+    "B2": {
+      "text": "Honey bees are not just casual visitors to a lavender field — they are essential pollinators whose quiet work shapes whole landscapes. As the bee in the photograph hovers from one bloom to the next, it transfers pollen between plants in a process called cross-pollination, without which most of our fruit, vegetables and nuts simply would not exist. The bee's body, covered in soft, branched hairs, is perfectly adapted for the job: pollen sticks to it almost effortlessly. After several hours of foraging, the insect grows drowsy in the afternoon heat and may even pause on a warm petal before heading back to the hive, its hind legs heavy with golden cargo.",
+      "vocab": [
+        { "term": "pollinator", "ipa_br": "/ˈpɒlɪneɪtə/", "pl": "zapylacz", "new": true },
+        { "term": "hover", "ipa_br": "/ˈhɒvə/", "pl": "unosić się w powietrzu", "new": true },
+        { "term": "cross-pollination", "ipa_br": "/krɒs ˌpɒlɪˈneɪʃən/", "pl": "zapylenie krzyżowe", "new": true },
+        { "term": "branched", "ipa_br": "/brɑːntʃt/", "pl": "rozgałęziony", "new": false },
+        { "term": "forage", "ipa_br": "/ˈfɒrɪdʒ/", "pl": "szukać pożywienia", "new": true },
+        { "term": "drowsy", "ipa_br": "/ˈdraʊzi/", "pl": "senny", "new": true },
+        { "term": "hive", "ipa_br": "/haɪv/", "pl": "ul", "new": true },
+        { "term": "petal", "ipa_br": "/ˈpetəl/", "pl": "płatek (kwiatu)", "new": true },
+        { "term": "hind legs", "ipa_br": "/haɪnd leɡz/", "pl": "tylne odnóża", "new": true }
+      ],
+      "exercise": {
+        "type": "wordform",
+        "prompt": "Wstaw poprawną formę słowa z nawiasu, tak aby zdanie miało sens.",
+        "items": [
+          { "stem": "pollinate", "sentence": "Bees are essential ___ for many of our food crops.", "answer": "pollinators" },
+          { "stem": "forage", "sentence": "The bee spent the morning ___ among the lavender.", "answer": "foraging" },
+          { "stem": "pollinate", "sentence": "Without cross-___, many crops would disappear.", "answer": "pollination" },
+          { "stem": "drowsy", "sentence": "The afternoon heat made the bee almost ___ on the petal.", "answer": "drowsy", "hint": "no change to the stem is needed" }
+        ]
+      }
+    },
+    "C1": {
+      "text": "The bee in this image embodies a paradox that has fascinated naturalists for centuries: a creature both relentlessly industrious and apparently at ease. Anchored on a single sprig of lavender, it appears momentarily suspended — wings half-folded, antennae barely twitching — and yet its labour is constant. Every visit to a flower represents a tiny, precise transaction: a sip of nectar in exchange for a smear of pollen that will be carried, often miles away, to fertilise a distant bloom. Such partnerships, refined over tens of millions of years, are easy to overlook in a single photograph. Look more closely, however, and the bee becomes a small ambassador of a vast ecological network — one that quietly underpins our meadows, our orchards and, indirectly, our breakfast tables. To watch it linger on lavender is to watch summer doing its work.",
+      "vocab": [
+        { "term": "embody", "ipa_br": "/ɪmˈbɒdi/", "pl": "ucieleśniać", "new": true },
+        { "term": "relentlessly", "ipa_br": "/rɪˈlentləsli/", "pl": "niezmordowanie", "new": true },
+        { "term": "industrious", "ipa_br": "/ɪnˈdʌstriəs/", "pl": "pracowity", "new": true },
+        { "term": "sprig", "ipa_br": "/sprɪɡ/", "pl": "gałązka, witka", "new": true },
+        { "term": "antennae", "ipa_br": "/ænˈteniː/", "pl": "czułki", "new": true },
+        { "term": "transaction", "ipa_br": "/trænˈzækʃən/", "pl": "transakcja, wymiana", "new": false },
+        { "term": "fertilise", "ipa_br": "/ˈfɜːtɪlaɪz/", "pl": "zapłodnić, użyźnić", "new": true },
+        { "term": "underpin", "ipa_br": "/ˌʌndəˈpɪn/", "pl": "stanowić podstawę", "new": true },
+        { "term": "linger", "ipa_br": "/ˈlɪŋɡə/", "pl": "zwlekać, ociągać się", "new": true },
+        { "term": "ambassador", "ipa_br": "/æmˈbæsədə/", "pl": "ambasador (przen.)", "new": false }
+      ],
+      "exercise": {
+        "type": "paraphrase",
+        "prompt": "Przeformułuj zdanie tak, aby zachować znaczenie, używając podanego słowa kluczowego.",
+        "items": [
+          { "original": "The bee works very hard without ever stopping.", "keyword": "industrious", "answer": "The bee is relentlessly industrious." },
+          { "original": "Bees are the foundation of the whole food system.", "keyword": "underpin", "answer": "Bees underpin the whole food system." },
+          { "original": "The bee stays on the flower for a moment longer than expected.", "keyword": "linger", "answer": "The bee lingers on the flower." },
+          { "original": "This creature is a perfect example of industry and calm at the same time.", "keyword": "embody", "answer": "This creature embodies both industry and calm at the same time." }
+        ]
+      }
+    },
+    "C2": {
+      "text": "Few subjects are more inexhaustible than the apian visitor to a lavender field. The slender hairs that gild the bee's thorax catch the light like filaments of spun gold; its wings, almost transparent and laced with veining as delicate as gossamer, hum in a sub-vocal frequency that the human ear barely registers. The lavender, for its part, offers itself with the calm extravagance of midsummer — corollas slightly cupped, calyces dusted with the day's pollen, the whole spike trembling under the weight of even so light a guest. There is something almost ceremonial about the encounter: a moment of intricate mutualism enacted in miniature, against the broader theatre of pollination on which our food systems quietly hinge. Were one inclined to anthropomorphise — and naturalists rightly resist the temptation — one might call the bee's manner courteous: it neither hurries nor lingers, but transacts its business and is gone, leaving the lavender to its slow, fragrant business of being lavender, and the rest of us to mind ours.",
+      "vocab": [
+        { "term": "apian", "ipa_br": "/ˈeɪpiən/", "pl": "pszczeli (lit.)", "new": true },
+        { "term": "gild", "ipa_br": "/ɡɪld/", "pl": "pozłacać", "new": true },
+        { "term": "thorax", "ipa_br": "/ˈθɔːræks/", "pl": "tułów (anat.)", "new": true },
+        { "term": "gossamer", "ipa_br": "/ˈɡɒsəmə/", "pl": "pajęczyna; cienka tkanina", "new": true },
+        { "term": "sub-vocal", "ipa_br": "/sʌb ˈvəʊkəl/", "pl": "podgłosowy, poniżej progu słyszenia", "new": true },
+        { "term": "corolla", "ipa_br": "/kəˈrɒlə/", "pl": "korona kwiatu", "new": true },
+        { "term": "calyx", "ipa_br": "/ˈkeɪlɪks/", "pl": "kielich kwiatu", "new": true },
+        { "term": "mutualism", "ipa_br": "/ˈmjuːtʃʊəlɪzəm/", "pl": "mutualizm (symbioza)", "new": true },
+        { "term": "anthropomorphise", "ipa_br": "/ˌænθrəpəˈmɔːfaɪz/", "pl": "antropomorfizować", "new": true },
+        { "term": "courteous", "ipa_br": "/ˈkɜːtiəs/", "pl": "uprzejmy, kurtuazyjny", "new": true },
+        { "term": "hinge on", "ipa_br": "/hɪndʒ ɒn/", "pl": "zależeć od (przen.)", "new": true }
+      ],
+      "exercise": {
+        "type": "cloze",
+        "prompt": "Uzupełnij luki w tekście jednym słowem na każdą lukę, dopasowując rejestr do oryginału.",
+        "passage": "Few creatures embody the spirit of European summer like the ___ visitor to a lavender field. Its translucent wings hum in a ___ frequency, almost beyond hearing, while its body — dusted with golden ___ — moves with practised precision from bloom to bloom. The relationship between bee and flower is a textbook example of ___, refined over millions of years and quietly essential to the food systems on which our species ultimately ___.",
+        "answers": ["apian", "sub-vocal", "pollen", "mutualism", "hinges"],
+        "hints": ["adj., literary, of bees", "adj., below the threshold of hearing", "noun, what the bee carries", "noun, mutual partnership", "verb, depends on (figurative)"]
+      }
+    }
+  }
+}
