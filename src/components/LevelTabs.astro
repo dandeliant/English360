@@ -1,5 +1,5 @@
 ---
-import { CEFR_LEVELS, CEFR_DESCRIPTIONS, type CefrLevel } from '../utils/cefr.ts';
+import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_LABELS_FULL, type CefrLevel } from '../utils/cefr.ts';
 
 interface Props {
   availableLevels: readonly CefrLevel[];
@@ -10,7 +10,7 @@ const { availableLevels } = Astro.props;
 <div class="level-tabs" role="tablist" aria-label="Wybierz poziom CEFR">
   {CEFR_LEVELS.map((level) => {
     const isAvailable = availableLevels.includes(level);
-    const longLabel = `Poziom ${level} · ${CEFR_DESCRIPTIONS[level]}`;
+    const fullLabel = `Poziom ${level} · ${CEFR_LABELS_FULL[level]}`;
     return (
       <button
         type="button"
@@ -18,12 +18,12 @@ const { availableLevels } = Astro.props;
         id={`tab-${level}`}
         aria-controls={`panel-${level}`}
         aria-selected="false"
-        aria-label={isAvailable ? longLabel : `${longLabel} — sekcja w przygotowaniu`}
+        aria-label={isAvailable ? fullLabel : `${fullLabel} — sekcja w przygotowaniu`}
         tabindex="-1"
         data-level={level}
         class:list={['level-tab', `level-tab--${level.toLowerCase()}`]}
         disabled={!isAvailable}
-        title={isAvailable ? longLabel : 'Sekcja w przygotowaniu'}
+        title={isAvailable ? fullLabel : 'Sekcja w przygotowaniu'}
       >
         <span class="level-tab__code">{level}</span>
         <span class="level-tab__desc">{CEFR_DESCRIPTIONS[level]}</span>

@@ -3,7 +3,7 @@ import LevelTabs from './LevelTabs.astro';
 import VocabTable from './VocabTable.astro';
 import TTSButton from './TTSButton.astro';
 import Exercise from './Exercise.astro';
-import { CEFR_LEVELS, CEFR_DESCRIPTIONS, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
+import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_NAMES_EN, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -73,7 +73,9 @@ const initialLevel =
       >
         <div class="lesson-panel__strip" aria-hidden="true">
           <span class="lesson-panel__strip-code">{level}</span>
-          <span class="lesson-panel__strip-desc">{CEFR_DESCRIPTIONS[level]}</span>
+          <span class="lesson-panel__strip-desc">
+            {CEFR_DESCRIPTIONS[level]}<span class="lesson-panel__strip-en"> ({CEFR_NAMES_EN[level]})</span>
+          </span>
         </div>
 
         {!isAvailable || !content ? (
@@ -247,6 +249,16 @@ const initialLevel =
     font-weight: 500;
     font-size: var(--text-xs);
     opacity: 0.85;
+  }
+
+  /* English (Beginner/Elementary/...) suffix shown next to the Polish
+   * label. Hidden on very narrow viewports so the pill does not overflow. */
+  .lesson-panel__strip-en {
+    font-weight: 400;
+  }
+
+  @media (max-width: 30rem) {
+    .lesson-panel__strip-en { display: none; }
   }
 
   .lesson-panel--a1 { --strip-bg: var(--level-a1); --strip-fg: var(--level-a1-fg); }
