@@ -4,6 +4,7 @@ import VocabTable from './VocabTable.astro';
 import TTSButton from './TTSButton.astro';
 import LangToggle from './LangToggle.astro';
 import Exercise from './Exercise.astro';
+import { tokenize } from '../utils/text-tokenize.ts';
 import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_NAMES_EN, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
 import type { CollectionEntry } from 'astro:content';
 
@@ -94,8 +95,22 @@ const initialLevel =
                   <LangToggle hasPl={Boolean(content.text_pl)} />
                 </div>
 
-                <div class="lesson-panel__text prose" data-text-lang-content="en">
-                  {content.text.split(/\n\n+/).map((p) => <p>{p}</p>)}
+                <div class="lesson-panel__text prose" data-text-lang-content="en" data-tts-wrapped="true">
+                  {content.text.split(/\n\n+/).map((paragraph) => (
+                    <p>
+                      {tokenize(paragraph).map((tok) =>
+                        tok.type === 'word' && tok.slug ? (
+                          <a
+                            class="word-link tts-word"
+                            href={`/slownik/${tok.slug}/`}
+                            data-lemma={tok.lemma}
+                          >{tok.text}</a>
+                        ) : (
+                          tok.text
+                        ),
+                      )}
+                    </p>
+                  ))}
                 </div>
 
                 <div class="lesson-panel__text prose" data-text-lang-content="pl">
