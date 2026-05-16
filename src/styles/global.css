@@ -168,6 +168,20 @@ a:hover { text-decoration-thickness: 2px; }
   background: color-mix(in srgb, var(--accent) 30%, transparent);
 }
 
+/* ── Lesson text language toggle (EN ⇄ PL) ───────────────────────
+ * State is held on <html data-text-lang="en|pl"> by an inline init
+ * in BaseLayout (no-flash). Each level panel renders both languages;
+ * we hide the inactive one and the main TTS button in PL mode.
+ */
+html[data-text-lang='en'] [data-text-lang-content='pl'],
+html[data-text-lang='pl'] [data-text-lang-content='en'] {
+  display: none;
+}
+
+html[data-text-lang='pl'] [data-tts][data-tts-main] {
+  display: none;
+}
+
 /* ── TTS word-by-word highlight ──────────────────────────────────
  * Each word in spoken paragraphs is wrapped in `<span class="tts-word">`
  * at first speak() call. The active word gets `.is-active`. Bold is

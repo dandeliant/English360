@@ -25,7 +25,7 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
 
-    <!-- No-flash theme init: runs before CSS paints. -->
+    <!-- No-flash theme + text-language init: runs before CSS paints. -->
     <script is:inline>
       (function () {
         try {
@@ -35,6 +35,12 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
           document.documentElement.dataset.theme = theme;
         } catch (e) {
           document.documentElement.dataset.theme = 'light';
+        }
+        try {
+          var lang = localStorage.getItem('english360.text_lang');
+          document.documentElement.dataset.textLang = lang === 'pl' ? 'pl' : 'en';
+        } catch (e) {
+          document.documentElement.dataset.textLang = 'en';
         }
       })();
     </script>

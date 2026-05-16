@@ -2,6 +2,7 @@
 import LevelTabs from './LevelTabs.astro';
 import VocabTable from './VocabTable.astro';
 import TTSButton from './TTSButton.astro';
+import LangToggle from './LangToggle.astro';
 import Exercise from './Exercise.astro';
 import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_NAMES_EN, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
 import type { CollectionEntry } from 'astro:content';
@@ -90,9 +91,19 @@ const initialLevel =
                     label={`Odsłuchaj tekst poziomu ${level}`}
                     main
                   />
+                  <LangToggle hasPl={Boolean(content.text_pl)} />
                 </div>
-                <div class="lesson-panel__text prose">
+
+                <div class="lesson-panel__text prose" data-text-lang-content="en">
                   {content.text.split(/\n\n+/).map((p) => <p>{p}</p>)}
+                </div>
+
+                <div class="lesson-panel__text prose" data-text-lang-content="pl">
+                  {content.text_pl ? (
+                    content.text_pl.split(/\n\n+/).map((p) => <p>{p}</p>)
+                  ) : (
+                    <p class="placeholder">— polskie tłumaczenie tego poziomu jeszcze nie zostało dodane —</p>
+                  )}
                 </div>
               </div>
             ) : (
@@ -121,6 +132,7 @@ const initialLevel =
 <script>
   import '../scripts/level-memory.js';
   import '../scripts/tts.js';
+  import '../scripts/text-lang.js';
 </script>
 
 <style>
@@ -273,6 +285,10 @@ const initialLevel =
   }
 
   .lesson-panel__text-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3);
     margin-block-end: var(--space-3);
   }
 

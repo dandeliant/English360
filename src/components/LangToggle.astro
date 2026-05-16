@@ -1,0 +1,81 @@
+---
+// Language toggle for lesson text. State is global (localStorage
+// `english360.text_lang`), but the control renders inside each level
+// panel so users can switch without scrolling away from what they read.
+
+interface Props {
+  hasPl: boolean;
+}
+
+const { hasPl } = Astro.props;
+---
+<div
+  class="lang-toggle"
+  role="radiogroup"
+  aria-label="Język tekstu lekcji"
+>
+  <button
+    type="button"
+    role="radio"
+    class="lang-toggle__btn"
+    data-text-lang-toggle
+    data-lang="en"
+    aria-checked="true"
+  >EN</button>
+  <button
+    type="button"
+    role="radio"
+    class="lang-toggle__btn"
+    data-text-lang-toggle
+    data-lang="pl"
+    aria-checked="false"
+    disabled={!hasPl}
+    title={hasPl ? undefined : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
+    aria-label={hasPl ? 'Pokaż tłumaczenie po polsku' : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
+  >PL</button>
+</div>
+
+<style>
+  .lang-toggle {
+    display: inline-flex;
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    padding: 2px;
+    gap: 2px;
+  }
+
+  .lang-toggle__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-inline-size: 2.5rem;
+    block-size: 2rem;
+    padding: 0 var(--space-3);
+    background: transparent;
+    color: var(--text-muted);
+    border: none;
+    border-radius: var(--radius-pill);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-xs);
+    letter-spacing: 0.08em;
+    cursor: pointer;
+    transition: background-color 100ms ease, color 100ms ease;
+  }
+
+  .lang-toggle__btn:hover:not(:disabled):not([aria-checked='true']) {
+    color: var(--text);
+  }
+
+  .lang-toggle__btn[aria-checked='true'] {
+    background: var(--surface);
+    color: var(--text);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .lang-toggle__btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+</style>

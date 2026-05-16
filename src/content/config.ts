@@ -122,6 +122,9 @@ const exerciseSchema = z.discriminatedUnion('type', [
 const levelSchema = z
   .object({
     text: z.string().optional(),
+    /** Literary Polish translation of `text`. Optional — UI shows a
+     *  disabled "PL" toggle when missing for a given level. */
+    text_pl: z.string().optional(),
     vocab: z.array(vocabItemSchema).optional(),
     exercise: exerciseSchema.optional(),
   })

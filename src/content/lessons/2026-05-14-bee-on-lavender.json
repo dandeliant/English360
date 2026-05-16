@@ -21,6 +21,7 @@
   "levels": {
     "A1": {
       "text": "This is a bee. The bee is on a flower. The flower is purple. The bee is small. It has black and yellow stripes. The bee likes the flower. It is a sunny day in summer.",
+      "text_pl": "To jest pszczoła. Pszczoła siedzi na kwiatku. Kwiatek jest fioletowy. Pszczoła jest mała. Ma czarne i żółte paski. Pszczoła lubi ten kwiatek. Jest słoneczny letni dzień.",
       "vocab": [
         { "term": "bee", "ipa_br": "/biː/", "pl": "pszczoła", "new": true },
         { "term": "flower", "ipa_br": "/ˈflaʊə/", "pl": "kwiat", "new": true },
@@ -46,6 +47,7 @@
     },
     "A2": {
       "text": "Look at this little bee. It is sitting on a purple lavender flower. The bee is drinking from the flower. Its wings are clear and very thin. There are many flowers in the garden, but this bee is staying on one flower for a long time. The sun is shining and the colours are bright. The bee is busy, but it also looks calm.",
+      "text_pl": "Spójrz na tę małą pszczołę. Siedzi na fioletowym kwiatku lawendy i pije z niego nektar. Jej skrzydła są przezroczyste i bardzo cienkie. W ogrodzie jest wiele kwiatków, ale ta pszczoła zostaje na jednym z nich przez długi czas. Słońce świeci, a barwy są jaskrawe. Pszczoła jest zajęta, lecz wygląda też na zupełnie spokojną.",
       "vocab": [
         { "term": "sit on", "ipa_br": "/sɪt ɒn/", "pl": "siedzieć na", "new": false },
         { "term": "drink", "ipa_br": "/drɪŋk/", "pl": "pić", "new": false },
@@ -68,6 +70,7 @@
     },
     "B1": {
       "text": "On a warm afternoon in southern France, a honey bee landed gently on a stalk of lavender. Lavender grows in long, low fields across Provence and gives the region its famous purple colour every summer. The bee moved from one flower to the next, collecting nectar in tiny amounts. It also carried pollen on its back legs — without noticing — which helps new lavender plants grow next year. Bees and lavender depend on each other: the flower feeds the bee, and the bee carries the flower's pollen to other plants nearby.",
+      "text_pl": "Ciepłym popołudniem w południowej Francji pszczoła miodna delikatnie wylądowała na łodydze lawendy. Lawenda rośnie na rozległych, niskich polach w całej Prowansji i każdego lata nadaje temu regionowi sławny fioletowy kolor. Pszczoła przemieszczała się z kwiatka na kwiatek, zbierając nektar w drobnych ilościach. Niosła też pyłek na tylnych odnóżach — nawet o tym nie wiedząc — co pomaga nowym roślinom lawendy wyrosnąć w przyszłym roku. Pszczoły i lawenda są od siebie zależne: kwiat karmi pszczołę, a pszczoła roznosi pyłek tego kwiatu po sąsiednich roślinach.",
       "vocab": [
         { "term": "honey bee", "ipa_br": "/ˈhʌni biː/", "pl": "pszczoła miodna", "new": true },
         { "term": "gently", "ipa_br": "/ˈdʒentli/", "pl": "delikatnie", "new": true },
@@ -92,6 +95,7 @@
     },
     "B2": {
       "text": "Honey bees are not just casual visitors to a lavender field — they are essential pollinators whose quiet work shapes whole landscapes. As the bee in the photograph hovers from one bloom to the next, it transfers pollen between plants in a process called cross-pollination, without which most of our fruit, vegetables and nuts simply would not exist. The bee's body, covered in soft, branched hairs, is perfectly adapted for the job: pollen sticks to it almost effortlessly. After several hours of foraging, the insect grows drowsy in the afternoon heat and may even pause on a warm petal before heading back to the hive, its hind legs heavy with golden cargo.",
+      "text_pl": "Pszczoły miodne nie są zwykłymi gośćmi pola lawendy — to kluczowi zapylacze, których cicha praca kształtuje całe krajobrazy. Pszczoła ze zdjęcia, unosząc się od jednego kwiatu do drugiego, przenosi pyłek między roślinami w procesie zwanym zapyleniem krzyżowym, bez którego większość naszych owoców, warzyw i orzechów po prostu by nie istniała. Ciało pszczoły, pokryte miękkimi, rozgałęzionymi włoskami, jest idealnie przystosowane do tego zadania: pyłek przykleja się do niej niemal bez wysiłku. Po kilku godzinach poszukiwań pokarmu owad robi się senny w popołudniowym upale i potrafi nawet zatrzymać się na ciepłym płatku, zanim wróci do ula z tylnymi odnóżami obciążonymi złotym ładunkiem.",
       "vocab": [
         { "term": "pollinator", "ipa_br": "/ˈpɒlɪneɪtə/", "pl": "zapylacz", "new": true },
         { "term": "hover", "ipa_br": "/ˈhɒvə/", "pl": "unosić się w powietrzu", "new": true },
@@ -116,6 +120,7 @@
     },
     "C1": {
       "text": "The bee in this image embodies a paradox that has fascinated naturalists for centuries: a creature both relentlessly industrious and apparently at ease. Anchored on a single sprig of lavender, it appears momentarily suspended — wings half-folded, antennae barely twitching — and yet its labour is constant. Every visit to a flower represents a tiny, precise transaction: a sip of nectar in exchange for a smear of pollen that will be carried, often miles away, to fertilise a distant bloom. Such partnerships, refined over tens of millions of years, are easy to overlook in a single photograph. Look more closely, however, and the bee becomes a small ambassador of a vast ecological network — one that quietly underpins our meadows, our orchards and, indirectly, our breakfast tables. To watch it linger on lavender is to watch summer doing its work.",
+      "text_pl": "Pszczoła z tego zdjęcia ucieleśnia paradoks, który od stuleci fascynuje przyrodników: stworzenie jednocześnie niezmordowanie pracowite i pozornie spokojne. Zakotwiczona na pojedynczej gałązce lawendy wydaje się przez chwilę zawieszona — skrzydła na wpół złożone, czułki ledwo drgające — a jednak jej praca jest nieprzerwana. Każda wizyta na kwiecie to drobna, precyzyjna wymiana: łyk nektaru w zamian za smużkę pyłku, która zostanie przeniesiona, często wiele kilometrów dalej, by zapłodnić odległy kwiat. Takie partnerstwa, doszlifowane przez dziesiątki milionów lat, łatwo przeoczyć patrząc na jedno zdjęcie. Spójrz jednak uważniej, a pszczoła staje się drobnym ambasadorem rozległej sieci ekologicznej — sieci, która po cichu podpiera nasze łąki, sady i, pośrednio, nasze śniadaniowe stoły. Patrzeć, jak ociąga się na lawendzie, to patrzeć, jak lato wykonuje swoją pracę.",
       "vocab": [
         { "term": "embody", "ipa_br": "/ɪmˈbɒdi/", "pl": "ucieleśniać", "new": true },
         { "term": "relentlessly", "ipa_br": "/rɪˈlentləsli/", "pl": "niezmordowanie", "new": true },
@@ -141,6 +146,7 @@
     },
     "C2": {
       "text": "Few subjects are more inexhaustible than the apian visitor to a lavender field. The slender hairs that gild the bee's thorax catch the light like filaments of spun gold; its wings, almost transparent and laced with veining as delicate as gossamer, hum in a sub-vocal frequency that the human ear barely registers. The lavender, for its part, offers itself with the calm extravagance of midsummer — corollas slightly cupped, calyces dusted with the day's pollen, the whole spike trembling under the weight of even so light a guest. There is something almost ceremonial about the encounter: a moment of intricate mutualism enacted in miniature, against the broader theatre of pollination on which our food systems quietly hinge. Were one inclined to anthropomorphise — and naturalists rightly resist the temptation — one might call the bee's manner courteous: it neither hurries nor lingers, but transacts its business and is gone, leaving the lavender to its slow, fragrant business of being lavender, and the rest of us to mind ours.",
+      "text_pl": "Niewiele tematów jest bardziej niewyczerpanych niż pszczeli gość na polu lawendy. Smukłe włoski, które pozłacają jej tułów, łapią światło niczym pasma przędzonego złota; jej skrzydła, niemal przezroczyste i poprzecinane żyłkowaniem cienkim jak pajęczyna, brzęczą na podgłosowej częstotliwości, której ludzkie ucho prawie nie rejestruje. Lawenda ze swej strony oferuje siebie ze spokojną rozrzutnością środka lata — korony lekko wgłębione, kielichy oprószone pyłkiem tego dnia, cały kłos drżący pod ciężarem nawet tak lekkiego gościa. W tym spotkaniu jest coś niemal ceremonialnego: chwila zawiłego mutualizmu odgrywana w miniaturze, na szerszym tle teatru zapylania, na którym po cichu wspiera się nasze systemy żywnościowe. Gdyby ktoś był skłonny do antropomorfizacji — a przyrodnicy słusznie opierają się tej pokusie — można by nazwać sposób bycia pszczoły uprzejmym: ani się nie spieszy, ani nie zwleka, lecz załatwia swoje sprawy i znika, pozostawiając lawendę jej powolnej, pachnącej trosce o bycie lawendą, a resztę z nas — naszej własnej.",
       "vocab": [
         { "term": "apian", "ipa_br": "/ˈeɪpiən/", "pl": "pszczeli (lit.)", "new": true },
         { "term": "gild", "ipa_br": "/ɡɪld/", "pl": "pozłacać", "new": true },

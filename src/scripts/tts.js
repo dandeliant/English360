@@ -73,12 +73,13 @@ function markIdle(btn) {
 // ── Word wrapping & highlighting ───────────────────────────────────────────
 
 // Look up the highlight target for a button. Main buttons highlight the
-// paragraph(s) inside their panel's `.lesson-panel__text` container.
+// EN paragraph(s) inside their panel — the PL container is also in the
+// DOM but hidden via CSS when text-lang is `en`, so target it directly.
 function getHighlightTarget(btn) {
   if (!btn || btn.dataset.ttsMain !== 'true') return null;
   const panel = btn.closest('[data-level-panel]');
   if (!panel) return null;
-  return panel.querySelector('.lesson-panel__text');
+  return panel.querySelector('[data-text-lang-content="en"]');
 }
 
 // Wrap every word in the container with <span class="tts-word">…</span>.
@@ -280,6 +281,9 @@ function bindSpaceShortcut() {
 
     const t = event.target;
     if (t && t.matches && t.matches('input, textarea, select, button, [contenteditable="true"]')) return;
+
+    // TTS is EN-only — bail if the user has switched the text to PL.
+    if (document.documentElement.dataset.textLang === 'pl') return;
 
     const card = document.querySelector('[data-lesson-card]');
     if (!card) return;
