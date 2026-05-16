@@ -167,3 +167,27 @@ a:hover { text-decoration-thickness: 2px; }
 ::selection {
   background: color-mix(in srgb, var(--accent) 30%, transparent);
 }
+
+/* ── TTS word-by-word highlight ──────────────────────────────────
+ * Each word in spoken paragraphs is wrapped in `<span class="tts-word">`
+ * at first speak() call. The active word gets `.is-active`. Bold is
+ * synthesised via stacked text-shadow so character width does not
+ * change — without this trick, switching to font-weight: 700 would
+ * shift every following word by a pixel and the line would "dance".
+ */
+.tts-word {
+  border-radius: 3px;
+  transition: background-color 80ms linear, color 80ms linear;
+}
+
+.tts-word.is-active {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: var(--accent);
+  text-shadow: 0 0 0.45px currentColor, 0 0 0.45px currentColor;
+  padding: 1px 3px;
+  margin: -1px -3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tts-word { transition: none; }
+}
