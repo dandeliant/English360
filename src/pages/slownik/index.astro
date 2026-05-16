@@ -1,0 +1,169 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { buildWordIndex } from '../../utils/word-index.ts';
+
+const index = await buildWordIndex();
+const entries = [...index.values()].sort((a, b) =>
+  a.lemma.localeCompare(b.lemma, 'en'),
+);
+
+const byLetter = new Map<string, typeof entries>();
+for (const e of entries) {
+  const letter = (e.lemma[0] ?? '#').toUpperCase();
+  const key = /[A-Z]/.test(letter) ? letter : '#';
+  if (!byLetter.has(key)) byLetter.set(key, []);
+  byLetter.get(key)!.push(e);
+}
+
+const letters = [...byLetter.keys()].sort();
+---
+<BaseLayout
+  title="Słownik · English 360°"
+  description="Słownik English 360°: wszystkie słowa z lekcji, z linkami do zdań, w których wystąpiły."
+>
+  <div class="page dict-index">
+    <header class="dict-index__header">
+      <h1>Słownik</h1>
+      <p class="dict-index__intro">
+        Każde słowo, które pojawiło się w jakiejkolwiek lekcji.
+        Klik prowadzi do strony słowa: lista wszystkich zdań, w których
+        wystąpiło, plus tłumaczenie i wymowa, jeśli zostały dodane.
+      </p>
+      <p class="dict-index__count">
+        {entries.length} {entries.length === 1 ? 'hasło' : entries.length < 5 ? 'hasła' : 'haseł'}.
+      </p>
+    </header>
+
+    <nav class="dict-index__nav" aria-label="Skok do litery">
+      {letters.map((letter) => (
+        <a href={`#letter-${letter}`}>{letter}</a>
+      ))}
+    </nav>
+
+    {letters.map((letter) => (
+      <section class="dict-index__section" id={`letter-${letter}`}>
+        <h2 class="dict-index__letter">{letter}</h2>
+        <ul class="dict-index__list">
+          {byLetter.get(letter)!.map((e) => (
+            <li class="dict-index__item">
+              <a class="dict-index__link" href={`/slownik/${e.slug}`}>{e.lemma}</a>
+              <span class="dict-index__meta">{e.occurrences.length}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
+</BaseLayout>
+
+<style>
+  .dict-index {
+    max-inline-size: var(--page-width);
+  }
+
+  .dict-index__header {
+    margin-block-end: var(--space-5);
+  }
+
+  .dict-index__intro {
+    max-inline-size: var(--content-width);
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    line-height: var(--leading-relaxed);
+    color: var(--text-muted);
+    margin-block: var(--space-3);
+  }
+
+  .dict-index__count {
+    color: var(--text-faint);
+    font-size: var(--text-sm);
+  }
+
+  .dict-index__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    padding-block: var(--space-3);
+    border-block: 1px solid var(--border);
+    margin-block-end: var(--space-5);
+    position: sticky;
+    inset-block-start: var(--header-height);
+    background: color-mix(in srgb, var(--bg) 96%, transparent);
+    backdrop-filter: blur(4px);
+    z-index: 5;
+  }
+
+  .dict-index__nav a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-inline-size: 2rem;
+    block-size: 2rem;
+    padding: 0 var(--space-2);
+    background: var(--surface);
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-sm);
+    text-decoration: none;
+    transition: background-color 100ms ease, color 100ms ease;
+  }
+
+  .dict-index__nav a:hover {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  .dict-index__section {
+    margin-block: var(--space-6);
+  }
+
+  .dict-index__letter {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    color: var(--accent);
+    margin-block-end: var(--space-3);
+    scroll-margin-block-start: calc(var(--header-height) + 4rem);
+  }
+
+  .dict-index__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+    gap: var(--space-2);
+    padding: 0;
+  }
+
+  .dict-index__item {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    transition: border-color 100ms ease, background-color 100ms ease;
+  }
+
+  .dict-index__item:hover {
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 6%, var(--surface));
+  }
+
+  .dict-index__link {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .dict-index__meta {
+    font-size: var(--text-xs);
+    color: var(--text-faint);
+    font-variant-numeric: tabular-nums;
+  }
+</style>

@@ -102,7 +102,7 @@ const initialLevel =
                         tok.type === 'word' && tok.slug ? (
                           <a
                             class="word-link tts-word"
-                            href={`/slownik/${tok.slug}/`}
+                            href={`/slownik/${tok.slug}`}
                             data-lemma={tok.lemma}
                           >{tok.text}</a>
                         ) : (
