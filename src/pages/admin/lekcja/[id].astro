@@ -57,6 +57,7 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
       data-admin-form
       data-lesson-id={lesson.id}
       class="admin-form"
+      novalidate
     >
       <script type="application/json" data-initial-data set:html={JSON.stringify(data)} />
 
@@ -71,14 +72,14 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
 
         <label class="admin-form__field">
           <span class="admin-form__label">Data dnia (date_assigned)</span>
-          <input type="text" name="date_assigned" value={data.date_assigned} pattern="\d{4}-\d{2}-\d{2}" class="admin-form__input" />
-          <span class="admin-form__hint">Format YYYY-MM-DD. Określa, w którym dniu kalendarza lekcja jest „lekcją dnia".</span>
+          <input type="date" name="date_assigned" value={data.date_assigned} class="admin-form__input" />
+          <span class="admin-form__hint">Określa, w którym dniu kalendarza lekcja jest „lekcją dnia". Native date picker — nie trzeba pamiętać formatu.</span>
         </label>
 
         <label class="admin-form__field">
           <span class="admin-form__label">Daty alternatywne (jedna na linię)</span>
-          <textarea name="date_alternatives" rows="3" class="admin-form__textarea">{(data.date_alternatives || []).join('\n')}</textarea>
-          <span class="admin-form__hint">Wpisz dodatkowe daty (YYYY-MM-DD), na których lekcja może się pojawić, gdy główna jest zajęta.</span>
+          <textarea name="date_alternatives" rows="3" class="admin-form__textarea" placeholder="2026-05-15&#10;2026-06-21">{(data.date_alternatives || []).join('\n')}</textarea>
+          <span class="admin-form__hint">Dodatkowe daty (YYYY-MM-DD), na których lekcja może się pojawić, gdy główna jest zajęta. Format z myślnikami, np. <code>2026-05-15</code>. Można zostawić puste.</span>
         </label>
       </fieldset>
 
