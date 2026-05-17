@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AdminLoginGate from '../../../components/AdminLoginGate.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -21,10 +22,20 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
 ---
 <BaseLayout title={`Edycja: ${data.title_pl} · Admin`}>
   <div class="page admin admin-edit">
+    <AdminLoginGate />
+
+    <div data-admin-gated hidden>
+
     <p class="admin__breadcrumb">
-      <a href="/admin">← Panel admina</a>
-      {' · '}
-      <a href={`/lekcja/${lesson.id}`} target="_blank" rel="noopener">podgląd lekcji ↗</a>
+      <span>
+        <a href="/admin">← Panel admina</a>
+        {' · '}
+        <a href={`/lekcja/${lesson.id}`} target="_blank" rel="noopener">podgląd lekcji ↗</a>
+      </span>
+      <span class="admin__session">
+        zalogowany jako <strong data-admin-session-user></strong>
+        <button type="button" class="admin__logout" data-admin-logout>wyloguj</button>
+      </span>
     </p>
 
     <header class="admin-edit__header">
@@ -180,22 +191,57 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
         Na razie te pola edytuj bezpośrednio w pliku JSON i zapisuj — strona się przeładuje.
       </p>
     </form>
+
+    </div>
   </div>
 </BaseLayout>
 
 <script>
   import '../../../scripts/admin-form.js';
+  import '../../../scripts/admin-auth.js';
 </script>
 
 <style>
   .admin-edit { max-inline-size: 56rem; }
 
   .admin__breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-3);
     font-size: var(--text-sm);
     margin-block-end: var(--space-3);
   }
 
   .admin__breadcrumb a { color: var(--accent); }
+
+  .admin__session {
+    color: var(--text-muted);
+    font-size: var(--text-xs);
+  }
+
+  .admin__session strong {
+    color: var(--text);
+    font-weight: 700;
+  }
+
+  .admin__logout {
+    margin-inline-start: var(--space-2);
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 2px var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+
+  .admin__logout:hover {
+    color: var(--text);
+    border-color: var(--border-strong);
+  }
 
   .admin-edit__header {
     margin-block-end: var(--space-5);

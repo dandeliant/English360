@@ -1,0 +1,155 @@
+---
+// Login form shown above admin pages until the user authenticates.
+// Pair with `<div data-admin-gated>...content...</div>` for the actual
+// admin UI. The script in src/scripts/admin-auth.js wires up both.
+---
+<section class="admin-login-panel" data-admin-login-panel hidden>
+  <header class="admin-login-panel__header">
+    <h2 class="admin-login-panel__title">🔒 Logowanie</h2>
+    <p class="admin-login-panel__subtitle">
+      Panel admina. Wpisz login i hasło, żeby zobaczyć formularze.
+    </p>
+  </header>
+
+  <form class="admin-login-form" data-admin-login-form autocomplete="on">
+    <label class="admin-login-form__field">
+      <span class="admin-login-form__label">Login</span>
+      <input
+        type="text"
+        name="username"
+        autocomplete="username"
+        required
+        autocapitalize="off"
+        autocorrect="off"
+        spellcheck="false"
+        class="admin-login-form__input"
+      />
+    </label>
+    <label class="admin-login-form__field">
+      <span class="admin-login-form__label">Hasło</span>
+      <input
+        type="password"
+        name="password"
+        autocomplete="current-password"
+        required
+        class="admin-login-form__input"
+      />
+    </label>
+    <button type="submit" class="admin-login-form__submit">Zaloguj</button>
+    <p class="admin-login-form__status" data-admin-login-status aria-live="polite"></p>
+  </form>
+
+  <p class="admin-login-panel__note">
+    Sesja ważna przez 4 godziny. Logowanie jest tylko ukryciem panelu
+    przed losowymi gośćmi — endpoint zapisu i tak działa wyłącznie
+    podczas <code>npm run dev</code>.
+  </p>
+</section>
+
+<style>
+  .admin-login-panel {
+    max-inline-size: 28rem;
+    margin-inline: auto;
+    margin-block: var(--space-8);
+    padding: var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-md);
+  }
+
+  .admin-login-panel__header {
+    margin-block-end: var(--space-4);
+    text-align: center;
+  }
+
+  .admin-login-panel__title {
+    font-family: var(--font-serif);
+    font-size: var(--text-2xl);
+    letter-spacing: -0.01em;
+  }
+
+  .admin-login-panel__subtitle {
+    margin-block-start: var(--space-2);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .admin-login-form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+  }
+
+  .admin-login-form__field {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .admin-login-form__label {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .admin-login-form__input {
+    padding: var(--space-2) var(--space-3);
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    min-block-size: 2.75rem;
+  }
+
+  .admin-login-form__input:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 0;
+    border-color: var(--accent);
+  }
+
+  .admin-login-form__submit {
+    margin-block-start: var(--space-2);
+    padding: var(--space-3) var(--space-5);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border: none;
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-base);
+    cursor: pointer;
+    transition: filter 100ms ease;
+  }
+
+  .admin-login-form__submit:hover { filter: brightness(1.08); }
+
+  .admin-login-form__status {
+    text-align: center;
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    min-block-size: 1.25em;
+  }
+
+  .admin-login-form__status[data-tone='error'] { color: var(--error); }
+  .admin-login-form__status[data-tone='success'] { color: var(--success); }
+
+  .admin-login-panel__note {
+    margin-block-start: var(--space-4);
+    padding-block-start: var(--space-3);
+    border-block-start: 1px dashed var(--border);
+    font-size: var(--text-xs);
+    color: var(--text-faint);
+    text-align: center;
+    line-height: 1.4;
+  }
+
+  .admin-login-panel__note code {
+    font-family: var(--font-mono);
+    background: var(--surface-2);
+    padding: 1px 4px;
+    border-radius: 2px;
+  }
+</style>

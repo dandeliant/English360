@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import AdminLoginGate from '../../components/AdminLoginGate.astro';
 import { getCollection } from 'astro:content';
 
 const lessons = await getCollection('lessons');
@@ -9,19 +10,28 @@ const sorted = [...lessons].sort((a, b) =>
 ---
 <BaseLayout title="Admin · English 360°" description="Panel administracyjny English 360°.">
   <div class="page admin">
-    <header class="admin__header">
-      <p class="admin__breadcrumb"><a href="/">← Strona główna</a></p>
-      <h1>Panel admina</h1>
-      <p class="admin__lead">
-        Edytujesz pliki bezpośrednio w repo. Endpoint zapisu działa
-        <strong>tylko gdy uruchomione <code>npm run dev</code></strong> —
-        na produkcji formularze pokażą błąd. Zmiany trafiają do gitów jako
-        modyfikacje, które sam pushujesz, gdy chcesz deploy.
-      </p>
-    </header>
+    <AdminLoginGate />
 
-    <section class="admin__section">
-      <h2>Lekcje ({sorted.length})</h2>
+    <div data-admin-gated hidden>
+      <header class="admin__header">
+        <p class="admin__breadcrumb">
+          <a href="/">← Strona główna</a>
+          <span class="admin__session">
+            zalogowany jako <strong data-admin-session-user></strong>
+            <button type="button" class="admin__logout" data-admin-logout>wyloguj</button>
+          </span>
+        </p>
+        <h1>Panel admina</h1>
+        <p class="admin__lead">
+          Edytujesz pliki bezpośrednio w repo. Endpoint zapisu działa
+          <strong>tylko gdy uruchomione <code>npm run dev</code></strong> —
+          na produkcji formularze pokażą błąd. Zmiany trafiają do gitów jako
+          modyfikacje, które sam pushujesz, gdy chcesz deploy.
+        </p>
+      </header>
+
+      <section class="admin__section">
+        <h2>Lekcje ({sorted.length})</h2>
       <ul class="admin__list">
         {sorted.map((l) => (
           <li class="admin__list-item">
@@ -35,17 +45,22 @@ const sorted = [...lessons].sort((a, b) =>
       </ul>
     </section>
 
-    <section class="admin__section">
-      <h2>Wskazówki</h2>
-      <ul class="admin__tips">
-        <li>Po zapisie HMR przeładuje stronę lekcji w przeglądarce.</li>
-        <li>Zapis zmienia plik w <code>src/content/lessons/</code> — sprawdź <code>git status</code>, gdy skończysz.</li>
-        <li><code>git commit</code> + <code>git push</code> → Cloudflare zbuduje i wypchnie produkcję.</li>
-        <li>Cofnięcie zmiany: <code>git restore &lt;plik&gt;</code> przed commitem.</li>
-      </ul>
-    </section>
+      <section class="admin__section">
+        <h2>Wskazówki</h2>
+        <ul class="admin__tips">
+          <li>Po zapisie HMR przeładuje stronę lekcji w przeglądarce.</li>
+          <li>Zapis zmienia plik w <code>src/content/lessons/</code> — sprawdź <code>git status</code>, gdy skończysz.</li>
+          <li><code>git commit</code> + <code>git push</code> → Cloudflare zbuduje i wypchnie produkcję.</li>
+          <li>Cofnięcie zmiany: <code>git restore &lt;plik&gt;</code> przed commitem.</li>
+        </ul>
+      </section>
+    </div>
   </div>
 </BaseLayout>
+
+<script>
+  import '../../scripts/admin-auth.js';
+</script>
 
 <style>
   .admin {
@@ -57,11 +72,43 @@ const sorted = [...lessons].sort((a, b) =>
   }
 
   .admin__breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-3);
     font-size: var(--text-sm);
     margin-block-end: var(--space-3);
   }
 
   .admin__breadcrumb a { color: var(--accent); }
+
+  .admin__session {
+    color: var(--text-muted);
+    font-size: var(--text-xs);
+  }
+
+  .admin__session strong {
+    color: var(--text);
+    font-weight: 700;
+  }
+
+  .admin__logout {
+    margin-inline-start: var(--space-2);
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 2px var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+
+  .admin__logout:hover {
+    color: var(--text);
+    border-color: var(--border-strong);
+  }
 
   .admin__lead {
     max-inline-size: var(--content-width);
