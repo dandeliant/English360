@@ -1,7 +1,7 @@
 {
   "lemma": "about",
   "slug": "about",
-  "fetchedAt": "2026-05-17T13:58:03.535Z",
+  "fetchedAt": "2026-05-17T22:23:48.168Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -89,11 +89,11 @@
   ],
   "pl": null,
   "translations": [
+    "o",
     "dookoła",
     "wokoło",
     "wokół",
-    "ponad",
-    "o"
+    "ponad"
   ],
   "fetchTerm": "about"
 }
