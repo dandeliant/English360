@@ -1,0 +1,63 @@
+{
+  "lemma": "nut",
+  "slug": "nut",
+  "fetchedAt": "2026-05-16T23:46:06.024Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Nùng.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of various hard-shelled seeds or hard, dry fruits from various families of plants.",
+          "examples": [
+            "There are many sorts of nuts: peanuts, cashews, pistachios, Brazil nuts and more."
+          ]
+        },
+        {
+          "text": "Such a fruit that is indehiscent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gather nuts.",
+          "examples": []
+        },
+        {
+          "text": "To hit deliberately with the head; to headbutt.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of nuth (“Indian nose ring”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "No.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

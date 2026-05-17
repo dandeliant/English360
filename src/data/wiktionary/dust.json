@@ -1,0 +1,46 @@
+{
+  "lemma": "dust",
+  "slug": "dust",
+  "fetchedAt": "2026-05-16T23:44:07.090Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Fine particles. Fine, dry particles of matter found in the air and covering the surface of objects, typically consisting of soil lifted up by the wind, pollen, hair, fiber debris, dead skin cells, etc. Any substance reduced to fine particles; powder. Submicron particles in outer space, largely silicates and carbon compounds, that contribute greatly to extinction at visible wavelengths. Disintegration of a solid, like silica. Flour. A single fine, dry particle of earth or other material; grain of dust.",
+          "examples": []
+        },
+        {
+          "text": "Fine, dry particles of matter found in the air and covering the surface of objects, typically consisting of soil lifted up by the wind, pollen, hair, fiber debris, dead skin cells, etc.",
+          "examples": []
+        },
+        {
+          "text": "Any substance reduced to fine particles; powder.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove dust from.",
+          "examples": [
+            "The cleaning lady needs a stool to dust the cupboard."
+          ]
+        },
+        {
+          "text": "To remove dust; to clean by removing dust.",
+          "examples": [
+            "Dusting always makes me cough."
+          ]
+        },
+        {
+          "text": "To make dusty, to soil with dust.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

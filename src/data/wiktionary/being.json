@@ -1,0 +1,43 @@
+{
+  "lemma": "being",
+  "slug": "being",
+  "fetchedAt": "2026-05-16T23:43:24.758Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "present participle and gerund of be",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A living creature.",
+          "examples": []
+        },
+        {
+          "text": "The state or fact of existence, consciousness, or life, or something in such a state.",
+          "examples": []
+        },
+        {
+          "text": "That which has actuality (materially or in concept).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Given that; since.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

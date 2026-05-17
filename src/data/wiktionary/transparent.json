@@ -1,0 +1,45 @@
+{
+  "lemma": "transparent",
+  "slug": "transparent",
+  "fetchedAt": "2026-05-16T23:47:36.451Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "See-through, clear; having the property that light passes through it almost undisturbed, such that one can see through it clearly.",
+          "examples": [
+            "The waters of the lake were transparent until the factory dumped waste there."
+          ]
+        },
+        {
+          "text": "Of a graphical image or animated GIF, having parts that allow the background to show through.",
+          "examples": []
+        },
+        {
+          "text": "Open, public; having the property that theories and practices are publicly visible, thereby reducing the chance of corruption.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is transparent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A transgender or transsexual parent.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

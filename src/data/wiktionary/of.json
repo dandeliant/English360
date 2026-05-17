@@ -1,0 +1,41 @@
+{
+  "lemma": "of",
+  "slug": "of",
+  "fetchedAt": "2026-05-16T23:46:06.717Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Expressing distance or motion. From (a place); off. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Take the chicken out of the freezer.",
+            "He hasn't been well of late."
+          ]
+        },
+        {
+          "text": "From (a place); off. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Take the chicken out of the freezer."
+          ]
+        },
+        {
+          "text": "Since, from (a given time, earlier state etc.).",
+          "examples": [
+            "He hasn't been well of late."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Eye dialect spelling of have and 've, chiefly in depictions of colloquial speech.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

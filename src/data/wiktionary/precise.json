@@ -1,0 +1,37 @@
+{
+  "lemma": "precise",
+  "slug": "precise",
+  "fetchedAt": "2026-05-16T23:46:29.510Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Both exact and accurate.",
+          "examples": [
+            "precise definition",
+            "highly precise"
+          ]
+        },
+        {
+          "text": "Consistent, clustered close together, agreeing with each other .",
+          "examples": []
+        },
+        {
+          "text": "Adhering too much to rules; prim or punctilious.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or render precise; to specify.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

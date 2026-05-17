@@ -1,0 +1,53 @@
+{
+  "lemma": "bloom",
+  "slug": "bloom",
+  "fetchedAt": "2026-05-16T23:43:27.612Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A blossom; the flower of a plant; an expanded bud.",
+          "examples": []
+        },
+        {
+          "text": "Flowers.",
+          "examples": []
+        },
+        {
+          "text": "The opening of flowers in general; the state of blossoming or of having the flowers open.",
+          "examples": [
+            "The cherry trees are in bloom."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to blossom; to make flourish.",
+          "examples": []
+        },
+        {
+          "text": "To bestow a bloom upon; to make blooming or radiant.",
+          "examples": []
+        },
+        {
+          "text": "Of a plant, to produce blooms; to open its blooms.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The spongy mass of metal formed in a furnace by the smelting process.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

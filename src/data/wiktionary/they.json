@@ -1,0 +1,53 @@
+{
+  "lemma": "they",
+  "slug": "they",
+  "fetchedAt": "2026-05-16T23:47:25.905Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A group of entities previously mentioned. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Fred and Jane? They just arrived.",
+            "Dogs may bark if they want to be fed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "The, those.",
+          "examples": []
+        },
+        {
+          "text": "Their.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To refer to (someone, sometimes especially someone who does not use gender-neutral pronouns) using they/them pronouns.",
+          "examples": [
+            "I have a pin that says she/her, but I still get theyed all the time."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "There .",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

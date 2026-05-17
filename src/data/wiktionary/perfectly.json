@@ -1,0 +1,25 @@
+{
+  "lemma": "perfectly",
+  "slug": "perfectly",
+  "fetchedAt": "2026-05-16T23:46:21.152Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "With perfection.",
+          "examples": [
+            "They completed the first series perfectly."
+          ]
+        },
+        {
+          "text": "Wholly, completely, totally.",
+          "examples": [
+            "Their performance was perfectly fine."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

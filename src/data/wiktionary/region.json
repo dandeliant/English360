@@ -1,0 +1,28 @@
+{
+  "lemma": "region",
+  "slug": "region",
+  "fetchedAt": "2026-05-16T23:46:37.848Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons.",
+          "examples": [
+            "the equatorial regions",
+            "the temperate regions"
+          ]
+        },
+        {
+          "text": "An administrative subdivision of a city, a territory, a country. Such a division of the city of Rome and of the territory about Rome, of which the number varied at different times; a district, quarter, or ward. An administrative subdivision of the European Union. A subnational region of Chile; equivalent to province. Ellipsis of regional municipality, a county-level municipality. Ellipsis of administrative region. A subprovincial region of Quebec; the primary level subdivision; a prefecture.",
+          "examples": []
+        },
+        {
+          "text": "Such a division of the city of Rome and of the territory about Rome, of which the number varied at different times; a district, quarter, or ward.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

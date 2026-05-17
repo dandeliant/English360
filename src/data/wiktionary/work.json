@@ -1,0 +1,57 @@
+{
+  "lemma": "work",
+  "slug": "work",
+  "fetchedAt": "2026-05-16T23:47:59.010Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Employment. Labour, occupation, job.",
+          "examples": [
+            "My work involves a lot of travel.",
+            "He hasn’t come home yet; he’s still at work."
+          ]
+        },
+        {
+          "text": "Labour, occupation, job.",
+          "examples": [
+            "My work involves a lot of travel."
+          ]
+        },
+        {
+          "text": "The place where one is employed.",
+          "examples": [
+            "He hasn’t come home yet; he’s still at work."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do a specific task by employing physical or mental powers.",
+          "examples": [
+            "He's working in a bar.",
+            "I work in a national park."
+          ]
+        },
+        {
+          "text": "Said of one's workplace (building), or one's department, or one's trade (sphere of business) .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with in or at].",
+          "examples": [
+            "I work in a national park.",
+            "She works in the human resources department."
+          ]
+        },
+        {
+          "text": "Said of one's job title [with as].",
+          "examples": [
+            "I work as a cleaner."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

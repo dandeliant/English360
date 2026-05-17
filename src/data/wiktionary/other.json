@@ -1,0 +1,79 @@
+{
+  "lemma": "other",
+  "slug": "other",
+  "fetchedAt": "2026-05-16T23:46:12.353Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "See other (determiner) below.",
+          "examples": []
+        },
+        {
+          "text": "Second.",
+          "examples": [
+            "I get paid every other week."
+          ]
+        },
+        {
+          "text": "Alien.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An other, another (person, etc), more often rendered as another.",
+          "examples": [
+            "I'm afraid little Robbie does not always play well with others.",
+            "Show me one other."
+          ]
+        },
+        {
+          "text": "The other one; the second of two.",
+          "examples": [
+            "One boat is not better than the other.",
+            "Why not tell one or other of your parents?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Not the one or ones previously referred to.",
+          "examples": [
+            "Earning less than $2,000 a month, I have no other source of income except for gifts from relatives."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Otherwise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To regard, label, or treat as an \"other\", as not part of the same group; to view as different and alien.",
+          "examples": []
+        },
+        {
+          "text": "To treat as different or separate; segregate; ostracise.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

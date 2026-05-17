@@ -1,0 +1,61 @@
+{
+  "lemma": "garden",
+  "slug": "garden",
+  "fetchedAt": "2026-05-16T23:44:40.038Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+          "examples": [
+            "a vegetable garden",
+            "a flower garden"
+          ]
+        },
+        {
+          "text": "Such an ornamental place to which the public have access.",
+          "examples": [
+            "You can spend the afternoon walking around the town gardens."
+          ]
+        },
+        {
+          "text": "Taking place in, or used in, such a garden.",
+          "examples": [
+            "a garden party",
+            "a garden path"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To grow plants in a garden; to create or maintain a garden.",
+          "examples": [
+            "I love to garden—this year I'm going to plant some daffodils."
+          ]
+        },
+        {
+          "text": "Of a batsman, to inspect and tap the pitch lightly with the bat so as to smooth out small rough patches and irregularities.",
+          "examples": []
+        },
+        {
+          "text": "To smoke marijuana.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Common, ordinary, domesticated.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

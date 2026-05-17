@@ -1,0 +1,40 @@
+{
+  "lemma": "image",
+  "slug": "image",
+  "fetchedAt": "2026-05-16T23:45:09.128Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A visual or other representation of the external form of something in art.",
+          "examples": [
+            "The Bible forbids the worship of graven images."
+          ]
+        },
+        {
+          "text": "A file on a computer containing a single frame; an image file.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent by an image or symbol; to portray.",
+          "examples": []
+        },
+        {
+          "text": "To reflect, mirror.",
+          "examples": []
+        },
+        {
+          "text": "To create an image of.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

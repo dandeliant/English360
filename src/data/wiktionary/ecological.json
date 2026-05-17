@@ -1,0 +1,21 @@
+{
+  "lemma": "ecological",
+  "slug": "ecological",
+  "fetchedAt": "2026-05-16T23:44:12.177Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to ecology, the interrelationships of organisms and their environment.",
+          "examples": []
+        },
+        {
+          "text": "Not harmful to the environment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

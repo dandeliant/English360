@@ -1,0 +1,48 @@
+{
+  "lemma": "mind",
+  "slug": "mind",
+  "fetchedAt": "2026-05-16T23:45:47.126Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The capability for rational thought.",
+          "examples": [
+            "Despite advancing age, his mind was still as sharp as ever."
+          ]
+        },
+        {
+          "text": "The ability to be aware of things.",
+          "examples": [
+            "There was no doubt in his mind that they would win."
+          ]
+        },
+        {
+          "text": "The ability to remember things.",
+          "examples": [
+            "My mind just went blank."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring or recall to mind; to remember; bear or keep in mind.",
+          "examples": []
+        },
+        {
+          "text": "To remember. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To remind; put one's mind on.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

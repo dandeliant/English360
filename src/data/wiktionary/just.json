@@ -1,0 +1,75 @@
+{
+  "lemma": "just",
+  "slug": "just",
+  "fetchedAt": "2026-05-16T23:45:22.400Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Factually right, correct; factual.",
+          "examples": [
+            "It is a just assessment of the facts."
+          ]
+        },
+        {
+          "text": "Rationally right, correct.",
+          "examples": []
+        },
+        {
+          "text": "Morally right; upright, righteous, equitable; fair.",
+          "examples": [
+            "It looks like a just solution at first glance."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Only, simply, merely.",
+          "examples": [
+            "Just plant a few tomatoes, unless you can freeze or dry them.",
+            "He calls it vermilion, but it's just red to me."
+          ]
+        },
+        {
+          "text": "Introduces a disappointing or surprising outcome that renders futile something previously mentioned.",
+          "examples": [
+            "I spent two hours cooking my favorite recipe, just to burn the rice and ruin the meal.",
+            "I helped him out, just for him to betray me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Expressing dismay or discontent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A joust, tournament.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To joust, fight a tournament.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "not",
+  "slug": "not",
+  "fetchedAt": "2026-05-16T23:46:03.952Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Nomatsiguenga.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Negates the meaning of the modified verb.",
+          "examples": [
+            "Did you take out the trash? — No, I did not. I do not think it was my turn, was it?",
+            "Not knowing any better, I went ahead."
+          ]
+        },
+        {
+          "text": "To no degree.",
+          "examples": [
+            "That is not red; it's green.",
+            "It's not you, it's me."
+          ]
+        },
+        {
+          "text": "Used to indicate the opposite or near opposite, often in a form of understatement.",
+          "examples": [
+            "That day was not the best day of my life. (meaning the day was bad or awful)",
+            "It was not my favorite movie of all time. (meaning the speaker dislikes or strongly dislikes the movie)"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "And not.",
+          "examples": [
+            "I wanted a plate of shrimp, not a bucket of chicken.",
+            "He painted the car blue and black, not solid purple."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to indicate that the previous phrase was meant sarcastically or ironically.",
+          "examples": [
+            "I really like hanging out with my little brother watching Barney … not!",
+            "Sure, you’re perfect the way you are … not!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of using the word “not”; a negation or denial.",
+          "examples": []
+        },
+        {
+          "text": "Alternative letter-case form of NOT (“unary operation on logical values that changes true to false, and false to true”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,59 @@
+{
+  "lemma": "black",
+  "slug": "black",
+  "fetchedAt": "2026-05-16T23:43:26.769Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Absorbing all light and reflecting none; dark and hueless.",
+          "examples": [
+            "The items around him were black in colour."
+          ]
+        },
+        {
+          "text": "Without light.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+          "examples": [
+            "black:"
+          ]
+        },
+        {
+          "text": "A black dye or pigment.",
+          "examples": []
+        },
+        {
+          "text": "A pen, pencil, crayon, etc., made of black pigment.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make black; to blacken.",
+          "examples": []
+        },
+        {
+          "text": "To apply blacking to (something).",
+          "examples": []
+        },
+        {
+          "text": "To boycott, usually as part of an industrial dispute.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

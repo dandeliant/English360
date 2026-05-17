@@ -1,0 +1,111 @@
+{
+  "lemma": "there",
+  "slug": "there",
+  "fetchedAt": "2026-05-16T23:47:24.923Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or at a place or location (stated, implied or otherwise indicated) that is perceived to be away from, or at a relative distance from, the speaker (compare here).",
+          "examples": [
+            "I know Bristol quite well as I used to live there.",
+            "I looked in the cupboard and my keys were there!"
+          ]
+        },
+        {
+          "text": "At that point, stage, etc., visualised as a distinct place.",
+          "examples": [
+            "He did not stop there, but continued his speech.",
+            "They patched up their differences, but matters did not end there."
+          ]
+        },
+        {
+          "text": "In a notional place where one will provide support or care; see also be there.",
+          "examples": [
+            "You know that I will always be there for you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to offer encouragement or sympathy; see also there, there and there now.",
+          "examples": [
+            "There, there. Everything is going to turn out all right."
+          ]
+        },
+        {
+          "text": "Used to express victory or completion.",
+          "examples": [
+            "There! That knot should hold."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That place (previously mentioned or otherwise implied).",
+          "examples": [
+            "We need someone to take us from here to there."
+          ]
+        },
+        {
+          "text": "That situation; that position.",
+          "examples": [
+            "You rinse and de-string the green beans; I'll take it from there."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Used as an expletive subject of be in its sense of “exist”, with the semantic, usually indefinite subject being postponed or (occasionally) implied.",
+          "examples": [
+            "There are two apples on the table. [=Two apples are on the table.]",
+            "There is no way to do it. [=No way to do it exists.]"
+          ]
+        },
+        {
+          "text": "Used with other intransitive verbs of existence, in the same sense, or with other intransitive verbs, adding a sense of existence.",
+          "examples": [
+            "If x is a positive number, then there exists [=there is] a positive number y less than x.",
+            "There remain several problems with this approach. [=Several problems remain with this approach.]"
+          ]
+        },
+        {
+          "text": "Used with other verbs, when raised.",
+          "examples": [
+            "There seems to be some difficulty with the papers. [=It seems that there is some difficulty with the papers.]",
+            "I expected there to be a simpler solution. [=I expected that there would be a simpler solution.]"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Contraction",
+      "definitions": [
+        {
+          "text": "Misspelling of they’re.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Misspelling of their.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

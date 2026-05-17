@@ -1,0 +1,53 @@
+{
+  "lemma": "shape",
+  "slug": "shape",
+  "fetchedAt": "2026-05-16T23:46:47.392Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The status or condition of something",
+          "examples": [
+            "The used bookshop wouldn’t offer much due to the poor shape of the book."
+          ]
+        },
+        {
+          "text": "Condition of personal health, especially muscular health.",
+          "examples": [
+            "The vet checked to see what kind of shape the animal was in.",
+            "We exercise to keep in good physical shape."
+          ]
+        },
+        {
+          "text": "A graphical representation of an object's form or its external boundary, outline, or external surface.",
+          "examples": [
+            "What shape shall we use for the cookies? Stars, circles, or diamonds?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To create or make.",
+          "examples": [
+            "Earth was shapen by God for God's folk."
+          ]
+        },
+        {
+          "text": "To give something a shape and definition.",
+          "examples": [
+            "Shape the dough into a pretzel. For my art project, I plan to shape my clay lump into a bowl."
+          ]
+        },
+        {
+          "text": "To form or manipulate something into a certain shape.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

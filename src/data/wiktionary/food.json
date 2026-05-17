@@ -1,0 +1,23 @@
+{
+  "lemma": "food",
+  "slug": "food",
+  "fetchedAt": "2026-05-16T23:44:32.086Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.",
+          "examples": [
+            "The innkeeper brought them food and drink."
+          ]
+        },
+        {
+          "text": "A foodstuff, a type of food.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

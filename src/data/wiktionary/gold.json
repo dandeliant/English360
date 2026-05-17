@@ -1,0 +1,75 @@
+{
+  "lemma": "gold",
+  "slug": "gold",
+  "fetchedAt": "2026-05-16T23:44:45.084Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A heavy yellow elemental metal of great value, with atomic number 79 and symbol Au.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "☉ (alchemy)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Made of gold.",
+          "examples": [
+            "a gold chain"
+          ]
+        },
+        {
+          "text": "Having the colour of gold.",
+          "examples": [
+            "gold sticker",
+            "gold socks"
+          ]
+        },
+        {
+          "text": "Premium, superior.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To appear or cause to appear golden.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In a finished state, ready for manufacturing.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "(Can we verify this sense?) of or referring to a gold version of something",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

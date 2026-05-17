@@ -1,0 +1,63 @@
+{
+  "lemma": "neither",
+  "slug": "neither",
+  "fetchedAt": "2026-05-16T23:45:59.001Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Not one of two; not either; not one or the other.",
+          "examples": [
+            "Neither definition seems correct."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Not either (used with nor).",
+          "examples": [
+            "Neither you nor I likes it."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Not either one of two.",
+          "examples": [
+            "I’ve tried on both shirts, but neither fits properly.",
+            "Her words of advice will help neither of us."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Similarly not.",
+          "examples": [
+            "Just as you would not correct it, neither would I.",
+            "Neither can she stop him, nor can he stop her."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Nor.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

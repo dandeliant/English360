@@ -1,0 +1,114 @@
+{
+  "lemma": "but",
+  "slug": "but",
+  "fetchedAt": "2026-05-16T23:43:36.622Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Bungain.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Apart from, except (for), excluding.",
+          "examples": [
+            "Everyone but Father left early.",
+            "I like everything but that."
+          ]
+        },
+        {
+          "text": "Outside of.",
+          "examples": [
+            "Away but the hoose and tell me whae's there."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Merely, only, just, no more than",
+          "examples": [
+            "Christmas comes but once a year, so we can but wait till then."
+          ]
+        },
+        {
+          "text": "Though, however.",
+          "examples": [
+            "I'll have to go home early but."
+          ]
+        },
+        {
+          "text": "Used to repeat an adverb for emphasis; simply; just; absolutely.",
+          "examples": [
+            "I would never, but never do such a thing!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "However, although, nevertheless, on the other hand .",
+          "examples": [
+            "She is very old but still attractive.",
+            "She’s welcomed them but been rude to us."
+          ]
+        },
+        {
+          "text": "On the contrary, rather .",
+          "examples": [
+            "I am not rich but [I am] poor. Not John but Peter went there.",
+            "It’s not so much that we don’t wanna go, but I just haven’t time."
+          ]
+        },
+        {
+          "text": "Used at the beginning of a sentence to express opposition to a remark.",
+          "examples": [
+            "But I never said you could do that!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of using the word \"but\"; an objection or caveat.",
+          "examples": [
+            "It has to be done—no ifs, ands, or buts.",
+            "But—and this is a big but—you have to come home by sundown."
+          ]
+        },
+        {
+          "text": "The outer room of a small two-room cottage.",
+          "examples": []
+        },
+        {
+          "text": "A limit; a boundary.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Use the word \"but\".",
+          "examples": [
+            "But me no buts."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

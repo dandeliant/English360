@@ -1,0 +1,32 @@
+{
+  "lemma": "vein",
+  "slug": "vein",
+  "fetchedAt": "2026-05-16T23:47:43.987Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A blood vessel that transports blood from the capillaries back to the heart.",
+          "examples": [
+            "The nurse hovered her vein finder to locate the veins in the patient's body."
+          ]
+        },
+        {
+          "text": "The entrails of a shrimp.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To mark with veins or a vein-like pattern.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,36 @@
+{
+  "lemma": "intricate",
+  "slug": "intricate",
+  "fetchedAt": "2026-05-16T23:45:16.758Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a great deal of fine detail or complexity.",
+          "examples": [
+            "The architecture of this clock is very intricate."
+          ]
+        },
+        {
+          "text": "Difficult to disentangle, puzzle apart, or resolve; enigmatic, obscure.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become enmeshed or entangled.",
+          "examples": []
+        },
+        {
+          "text": "To enmesh or entangle: to cause to intricate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

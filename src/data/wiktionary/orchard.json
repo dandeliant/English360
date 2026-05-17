@@ -1,0 +1,21 @@
+{
+  "lemma": "orchard",
+  "slug": "orchard",
+  "fetchedAt": "2026-05-16T23:46:11.452Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A garden or an area of land for the cultivation of fruit or nut trees.",
+          "examples": []
+        },
+        {
+          "text": "The trees themselves cultivated in such an area.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

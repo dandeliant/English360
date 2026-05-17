@@ -1,0 +1,63 @@
+{
+  "lemma": "subject",
+  "slug": "subject",
+  "fetchedAt": "2026-05-16T23:47:11.641Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Likely to be affected by or to experience something; liable.",
+          "examples": [
+            "a country subject to extreme heat",
+            "Menu listings and prices are subject to change."
+          ]
+        },
+        {
+          "text": "Conditional upon something; used with to.",
+          "examples": [
+            "The local board sets local policy, subject to approval from the State Board."
+          ]
+        },
+        {
+          "text": "Placed or situated under; lying below, or in a lower situation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The noun, pronoun or noun phrase about whom the statement is made. In active clauses with verbs denoting an action, the subject is the actor. In clauses in the passive voice the subject is the target of the action.",
+          "examples": [
+            "In the active sentence ‘The cat ate the mouse’, ‘the cat’ is the subject and ‘the mouse’ is the object.",
+            "In the passive sentence ‘the mouse was eaten by the cat’, ‘the mouse’ is the subject even though it is the target (patient) of the action, and ‘the cat’ is the agent."
+          ]
+        },
+        {
+          "text": "By extension: an actor or agent; one who takes action.",
+          "examples": [
+            "the subjects and objects of power"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (someone or something) to undergo a particular experience, especially one that is unpleasant or unwanted.",
+          "examples": [
+            "I came here to buy souvenirs, not to be subjected to a tirade of abuse!"
+          ]
+        },
+        {
+          "text": "To make subordinate or subservient; to subdue or enslave; to subjugate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

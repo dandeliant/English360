@@ -1,0 +1,61 @@
+{
+  "lemma": "soft",
+  "slug": "soft",
+  "fetchedAt": "2026-05-16T23:46:59.480Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Easily giving way under pressure.",
+          "examples": [
+            "My head sank easily into the soft pillow."
+          ]
+        },
+        {
+          "text": "Smooth and flexible; not rough, rugged, or harsh.",
+          "examples": [
+            "Polish the silver with a soft cloth to avoid scratching.",
+            "soft silk; a soft skin"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Be quiet; hold; stop; not so fast.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A soft-headed or foolish person; an idiot.",
+          "examples": []
+        },
+        {
+          "text": "A soft drink.",
+          "examples": []
+        },
+        {
+          "text": "A tyre whose compound is softer than mediums, and harder than supersofts.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Softly; without roughness or harshness; gently; quietly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

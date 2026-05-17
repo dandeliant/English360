@@ -1,0 +1,77 @@
+{
+  "lemma": "head",
+  "slug": "head",
+  "fetchedAt": "2026-05-16T23:44:55.861Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of the body of an animal or human which contains the brain, mouth, and main sense organs.",
+          "examples": [
+            "Be careful when you pet that dog on the head; it may bite.",
+            "The company is looking for people with good heads for business."
+          ]
+        },
+        {
+          "text": "To do with heads. Mental or emotional aptitude or skill.",
+          "examples": [
+            "The company is looking for people with good heads for business.",
+            "He has no head for heights."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, or intended for the head.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be in command of. (See also head up.)",
+          "examples": [
+            "Who heads the board of trustees?",
+            "to head an army, an expedition, or a riot"
+          ]
+        },
+        {
+          "text": "To come at the beginning or front of; to commence.",
+          "examples": [
+            "A group of clowns headed the procession.",
+            "The most important items headed the list."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Foremost in rank or importance.",
+          "examples": [
+            "the head cook"
+          ]
+        },
+        {
+          "text": "Placed at the top or the front.",
+          "examples": []
+        },
+        {
+          "text": "Coming from in front.",
+          "examples": [
+            "head sea",
+            "head wind"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

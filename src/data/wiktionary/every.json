@@ -1,0 +1,34 @@
+{
+  "lemma": "every",
+  "slug": "every",
+  "fetchedAt": "2026-05-16T23:44:18.860Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "All of a countable group (considered individually), without exception.",
+          "examples": [
+            "Every person in the room stood and cheered.",
+            "She watches my every move."
+          ]
+        },
+        {
+          "text": "Denotes equal spacing at a stated interval, or a proportion corresponding to such a spacing.",
+          "examples": [
+            "We stopped for refreshments every ten miles.",
+            "The alarm is going off every few minutes."
+          ]
+        },
+        {
+          "text": "Denotes an abundance of something.",
+          "examples": [
+            "We wish you every happiness in the future.",
+            "He shows every sign of becoming an excellent player. I have every confidence in him."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

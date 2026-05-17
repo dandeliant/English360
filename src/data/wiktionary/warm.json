@@ -1,0 +1,64 @@
+{
+  "lemma": "warm",
+  "slug": "warm",
+  "fetchedAt": "2026-05-16T23:47:49.148Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a somewhat high temperature, often but not always connoting that the high temperature is pleasant rather than uncomfortable.",
+          "examples": [
+            "The tea is still warm.",
+            "This is a very warm room."
+          ]
+        },
+        {
+          "text": "Friendly and with affection.",
+          "examples": [
+            "We have a warm friendship."
+          ]
+        },
+        {
+          "text": "Having a color in the part of the visible electromagnetic spectrum between red and yellow-green.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or keep warm.",
+          "examples": []
+        },
+        {
+          "text": "To become warm, to heat up.",
+          "examples": [
+            "My socks are warming by the fire.",
+            "The earth soon warms on a clear summer day."
+          ]
+        },
+        {
+          "text": "To favour increasingly. .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with to]",
+          "examples": [
+            "He is warming to the idea.",
+            "Her classmates are gradually warming to her."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of warming, or the state of being warmed; a heating.",
+          "examples": [
+            "Shall I give your coffee a warm in the microwave?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

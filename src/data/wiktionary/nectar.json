@@ -1,0 +1,32 @@
+{
+  "lemma": "nectar",
+  "slug": "nectar",
+  "fetchedAt": "2026-05-16T23:45:58.127Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The drink of the gods. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Any delicious drink, now especially a type of sweetened fruit juice.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To feed on nectar.",
+          "examples": [
+            "Nectaring is one of butterflies' favourite activities."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

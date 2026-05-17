@@ -1,0 +1,50 @@
+{
+  "lemma": "smear",
+  "slug": "smear",
+  "fetchedAt": "2026-05-16T23:46:57.244Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spread (a substance, especially one that colours or is dirty) across a surface by rubbing.",
+          "examples": [
+            "The artist smeared paint over the canvas in broad strokes."
+          ]
+        },
+        {
+          "text": "To cover (a surface with a layer of some substance) by rubbing.",
+          "examples": [
+            "She smeared her lips with lipstick."
+          ]
+        },
+        {
+          "text": "To make something dirty.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A mark made by smearing.",
+          "examples": [
+            "This detergent cleans windows without leaving smears."
+          ]
+        },
+        {
+          "text": "A false or unsupported, malicious statement intended to injure a person's reputation.",
+          "examples": [
+            "smear campaign"
+          ]
+        },
+        {
+          "text": "A preparation to be examined under a microscope, made by spreading a thin layer of a substance (such as blood, bacterial culture) on a slide.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

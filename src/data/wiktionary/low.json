@@ -1,0 +1,155 @@
+{
+  "lemma": "low",
+  "slug": "low",
+  "fetchedAt": "2026-05-16T23:45:39.506Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Tampias Lobu.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+          "examples": [
+            "standing on low ground",
+            "the low countries"
+          ]
+        },
+        {
+          "text": "Pertaining to (or, especially of a language: spoken in) in an area which is at a lesser elevation, closer to sea level (especially near the sea), than other regions.",
+          "examples": [
+            "the low countries",
+            "Low German"
+          ]
+        },
+        {
+          "text": "Below the batter's knees.",
+          "examples": [
+            "the pitch (or: the ball) was low"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A low point or position, literally (as, a depth) or figuratively (as, a nadir, a time when things are at their worst, least, minimum, etc).",
+          "examples": [
+            "You have achieved a new low in behavior, Frank.",
+            "Economic growth has hit a new low."
+          ]
+        },
+        {
+          "text": "The minimum atmospheric temperature recorded at a particular location, especially during one 24-hour period.",
+          "examples": [
+            "Today's low was 32 °F.",
+            "A cold one out there today, with lows reaching 33 degrees."
+          ]
+        },
+        {
+          "text": "A period of depression; a depressed mood or situation.",
+          "examples": [
+            "He is in a low right now. the highs and lows of bipolar disorder"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Close to the ground.",
+          "examples": []
+        },
+        {
+          "text": "Of a pitch, at a lower frequency.",
+          "examples": []
+        },
+        {
+          "text": "With a low voice or sound; not loudly; gently.",
+          "examples": [
+            "to speak low"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lower; to make low.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past of laugh.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To moo.",
+          "examples": [
+            "The cattle were lowing."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A flame; fire; blaze.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To burn; to blaze.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Barrow, mound, tumulus.",
+          "examples": []
+        },
+        {
+          "text": "A hill.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of 'low.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

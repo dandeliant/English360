@@ -1,0 +1,31 @@
+{
+  "lemma": "fascinate",
+  "slug": "fascinate",
+  "fetchedAt": "2026-05-16T23:44:23.153Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To evoke an intense interest or attraction in someone.",
+          "examples": [
+            "The flickering TV fascinated the cat."
+          ]
+        },
+        {
+          "text": "To make someone hold motionless; to spellbind.",
+          "examples": [
+            "We were fascinated by the potter's skill."
+          ]
+        },
+        {
+          "text": "To be irresistibly charming or attractive to.",
+          "examples": [
+            "Her gait fascinates all men."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

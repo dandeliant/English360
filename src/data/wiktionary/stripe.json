@@ -1,0 +1,44 @@
+{
+  "lemma": "stripe",
+  "slug": "stripe",
+  "fetchedAt": "2026-05-16T23:47:08.838Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A long region of a single colour in a repeating pattern of similar regions.",
+          "examples": [
+            "zebra stripes"
+          ]
+        },
+        {
+          "text": "A long, relatively straight region against a different coloured background.",
+          "examples": []
+        },
+        {
+          "text": "The badge worn by certain officers in the military or other forces.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To mark with stripes.",
+          "examples": []
+        },
+        {
+          "text": "To lash with a whip or strap.",
+          "examples": []
+        },
+        {
+          "text": "To distribute data across several separate physical disks to reduce the time to read and write.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

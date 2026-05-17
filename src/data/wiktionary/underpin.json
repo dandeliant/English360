@@ -1,0 +1,25 @@
+{
+  "lemma": "underpin",
+  "slug": "underpin",
+  "fetchedAt": "2026-05-16T23:47:40.124Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To support from below with props or masonry.",
+          "examples": [
+            "You should underpin the mine roof to prevent further collapse."
+          ]
+        },
+        {
+          "text": "To give support to; to form a basis of; to corroborate.",
+          "examples": [
+            "Public confidence in politicians must underpin our democracy."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,57 @@
+{
+  "lemma": "have",
+  "slug": "have",
+  "fetchedAt": "2026-05-16T23:44:54.476Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To possess, own.",
+          "examples": [
+            "I have a house and a car."
+          ]
+        },
+        {
+          "text": "To hold, as something at someone's disposal.",
+          "examples": [
+            "Look what I have here—a frog I found on the street!",
+            "Do you have the key?"
+          ]
+        },
+        {
+          "text": "To include as a part, ingredient, or feature.",
+          "examples": [
+            "The stove has a handle. The shirt has sleeves.",
+            "The words cow and dog have three letters."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A wealthy or privileged person.",
+          "examples": []
+        },
+        {
+          "text": "One who has some (contextually specified) thing.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fraud or deception; something misleading.",
+          "examples": [
+            "They advertise it as a great deal, but I think it's a bit of a have."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

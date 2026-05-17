@@ -1,0 +1,44 @@
+{
+  "lemma": "encounter",
+  "slug": "encounter",
+  "fetchedAt": "2026-05-16T23:44:15.894Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To meet (someone) or find (something), especially unexpectedly.",
+          "examples": []
+        },
+        {
+          "text": "To confront (someone or something) face to face.",
+          "examples": []
+        },
+        {
+          "text": "To meet one another.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A meeting, especially one that is unplanned or unexpected.",
+          "examples": [
+            "Their encounter was a matter of chance."
+          ]
+        },
+        {
+          "text": "A hostile, often violent meeting; a confrontation, skirmish, or clash, as between combatants.",
+          "examples": []
+        },
+        {
+          "text": "A match between two opposing sides.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "apparently",
+  "slug": "apparently",
+  "fetchedAt": "2026-05-16T23:43:12.388Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Plainly; clearly; manifestly; evidently.",
+          "examples": []
+        },
+        {
+          "text": "Seemingly; in appearance.",
+          "examples": [
+            "A man may be apparently friendly, yet malicious in heart."
+          ]
+        },
+        {
+          "text": "According to what the speaker has read or heard.",
+          "examples": [
+            "Apparently you are quite a good dancer."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

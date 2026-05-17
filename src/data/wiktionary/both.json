@@ -1,0 +1,48 @@
+{
+  "lemma": "both",
+  "slug": "both",
+  "fetchedAt": "2026-05-16T23:43:29.653Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Each of the two; one and the other; referring to two individuals or items.",
+          "examples": [
+            "Both (the/my) children are such dolls.",
+            "Which one do you need? ―I need both of them."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Each of the two, or of the two kinds.",
+          "examples": [
+            "Did you want this one or that one? ―Give me both.",
+            "They were both here."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Including both of (used with and).",
+          "examples": [
+            "I (can) both sing and dance.",
+            "Both you and I are students."
+          ]
+        },
+        {
+          "text": "Including all of (used with and).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

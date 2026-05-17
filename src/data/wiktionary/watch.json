@@ -1,0 +1,50 @@
+{
+  "lemma": "watch",
+  "slug": "watch",
+  "fetchedAt": "2026-05-16T23:47:50.069Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A portable or wearable timepiece.",
+          "examples": [
+            "More people today carry a watch on their wrists than in their pockets; some people today don't use a watch at all, because their smartphone serves the purpose well enough.",
+            "He set the alarm on his watch to 8:00 am."
+          ]
+        },
+        {
+          "text": "The act of guarding and observing someone or something.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To look at, see, or view for a period of time.",
+          "examples": [
+            "Watching the clock will not make time go faster.",
+            "I'm tired of watching TV."
+          ]
+        },
+        {
+          "text": "To observe over a period of time; to notice or pay attention.",
+          "examples": [
+            "Watch this!",
+            "Put a little baking soda in some vinegar and watch what happens."
+          ]
+        },
+        {
+          "text": "To mind, attend, or guard.",
+          "examples": [
+            "Please watch my suitcase for a minute.",
+            "He has to watch the kids that afternoon."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

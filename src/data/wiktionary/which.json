@@ -1,0 +1,70 @@
+{
+  "lemma": "which",
+  "slug": "which",
+  "fetchedAt": "2026-05-16T23:47:51.910Z",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "And.",
+          "examples": [
+            "They only offered me five dollars, which I wouldn’t do it for less than fifteen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "What, of those mentioned or implied.",
+          "examples": [
+            "Which song shall we play?",
+            "They couldn't decide which song to play."
+          ]
+        },
+        {
+          "text": "The/Any ... that; whichever.",
+          "examples": [
+            "Take which one you want.",
+            "You may go which way you please."
+          ]
+        },
+        {
+          "text": "Designates the one(s) previously mentioned.",
+          "examples": [
+            "He once owned a painting of the house, which painting would later be stolen.",
+            "She only speaks Chinese, which language I can hardly follow."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "What one or ones (of those mentioned or implied).",
+          "examples": [
+            "Which is which?",
+            "By now, you must surely know which is which."
+          ]
+        },
+        {
+          "text": "The/Any ones that; whichever.",
+          "examples": [
+            "Please take which you please."
+          ]
+        },
+        {
+          "text": "In a non-restrictive relative clause, referring to something previously mentioned. Referring to a preceding noun.",
+          "examples": [
+            "I dropped a saucepan, which knocked over the eggs, which went all over the kitchen floor.",
+            "I found my camera, which I thought I'd lost, under the bed."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

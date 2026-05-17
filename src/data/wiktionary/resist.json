@@ -1,0 +1,34 @@
+{
+  "lemma": "resist",
+  "slug": "resist",
+  "fetchedAt": "2026-05-16T23:46:42.706Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To attempt to counter the actions or effects of.",
+          "examples": []
+        },
+        {
+          "text": "To withstand the actions of.",
+          "examples": []
+        },
+        {
+          "text": "To oppose; to refuse to accept.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A protective coating or covering.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

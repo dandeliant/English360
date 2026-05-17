@@ -1,0 +1,159 @@
+{
+  "lemma": "like",
+  "slug": "like",
+  "fetchedAt": "2026-05-16T23:45:33.702Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To enjoy, be pleased by; favor; be in favor of.",
+          "examples": [
+            "I like reading books.",
+            "I very much like hamburgers."
+          ]
+        },
+        {
+          "text": "To please .",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that a person likes (prefers).",
+          "examples": [
+            "Tell me your likes and dislikes."
+          ]
+        },
+        {
+          "text": "An individual vote showing support for, approval of, or enjoyment of, something posted on the Internet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Similar.",
+          "examples": [
+            "My partner and I have like minds.",
+            "The two cats were as like as though they had come from the same litter."
+          ]
+        },
+        {
+          "text": "Likely; probable.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Likely.",
+          "examples": []
+        },
+        {
+          "text": "In a like or similar manner.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "(sometimes as the likes of) Someone similar to a given person, or something similar to a given object; a comparative; a type; a sort.",
+          "examples": [
+            "There were bowls full of sweets, chocolates and the like.",
+            "This is something the likes of which I've never seen before, and we should compare like with like instead."
+          ]
+        },
+        {
+          "text": "The stroke that equalizes the number of strokes played by the opposing player or side.",
+          "examples": [
+            "to play the like"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "As, the way.",
+          "examples": []
+        },
+        {
+          "text": "As if; as though; such as.",
+          "examples": [
+            "It looks like you've finished the project.",
+            "It seemed like you didn't care."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Similar to, reminiscent of.",
+          "examples": [
+            "Folk like that I just can’t brook.",
+            "I’m very like my father."
+          ]
+        },
+        {
+          "text": "Typical of.",
+          "examples": [
+            "It would be just like Achilles to be sulking in his tent."
+          ]
+        },
+        {
+          "text": "Approximating.",
+          "examples": [
+            "Popcorn costs something like 10 dollars at the movies."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "A delayed filler.",
+          "examples": [
+            "He was so angry, like."
+          ]
+        },
+        {
+          "text": "Indicating approximation or uncertainty.",
+          "examples": [
+            "There were, like, twenty of them."
+          ]
+        },
+        {
+          "text": "Used to precede an approximate quotation or paraphrase or an expression of something that happened.",
+          "examples": [
+            "I was like, “Why did you do that?” and he's like, “I don't know.”",
+            "A customer walked in like, \"I demand to see the manager!\""
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be likely.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

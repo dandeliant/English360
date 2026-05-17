@@ -1,0 +1,57 @@
+{
+  "lemma": "cup",
+  "slug": "cup",
+  "fetchedAt": "2026-05-16T23:43:58.529Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Cupeño.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A concave vessel for drinking, usually made of opaque material (as opposed to a glass) and with a handle.",
+          "examples": [
+            "Pour the tea into the cup."
+          ]
+        },
+        {
+          "text": "The contents of said vessel.",
+          "examples": [
+            "I drank two cups of water but still felt thirsty."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To form into the shape of a cup, particularly of the hands.",
+          "examples": [
+            "Cup your hands and I'll pour some rice into them."
+          ]
+        },
+        {
+          "text": "To hold something in cupped hands.",
+          "examples": [
+            "He cupped the ball carefully in his hands."
+          ]
+        },
+        {
+          "text": "To pour (a liquid, drink, etc.) into a cup.",
+          "examples": [
+            "We are cupping some new brands of coffee today."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

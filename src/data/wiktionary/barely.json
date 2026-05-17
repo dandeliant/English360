@@ -1,0 +1,32 @@
+{
+  "lemma": "barely",
+  "slug": "barely",
+  "fetchedAt": "2026-05-16T23:43:19.217Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "By a small margin.",
+          "examples": [
+            "I barely completed my homework. However, I got a score of 5 for it."
+          ]
+        },
+        {
+          "text": "Almost not at all.",
+          "examples": [
+            "The plane is so far away now I can barely see it.",
+            "Yes, it is barely visible."
+          ]
+        },
+        {
+          "text": "Recently, just now.",
+          "examples": [
+            "I barely got to the store."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "visit",
+  "slug": "visit",
+  "fetchedAt": "2026-05-16T23:47:46.067Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To habitually go to (someone in distress, sickness etc.) to comfort them. (Now generally merged into later senses, below.) .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To go and meet (a person) as an act of friendliness or sociability.",
+          "examples": [
+            "She decided to visit her grandparents for Christmas."
+          ]
+        },
+        {
+          "text": "Of God: to appear to (someone) to comfort, bless, or chastise or punish them. (Now generally merged into later senses, below.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A single act of visiting.",
+          "examples": [
+            "Next time you're in Manchester, give me a visit.",
+            "We paid a quick visit to James on the way up to Scotland."
+          ]
+        },
+        {
+          "text": "A meeting with a doctor at their surgery or the doctor's at one's home.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

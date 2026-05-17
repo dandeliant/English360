@@ -1,0 +1,28 @@
+{
+  "lemma": "filament",
+  "slug": "filament",
+  "fetchedAt": "2026-05-16T23:44:28.592Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fine thread or wire.",
+          "examples": []
+        },
+        {
+          "text": "Such a wire, as can be heated until it glows, in an incandescent light bulb or a thermionic valve.",
+          "examples": []
+        },
+        {
+          "text": "A massive, thread-like structure, such as those gaseous ones which extend outward from the surface of the sun, or such as those (much larger) ones which form the boundaries between large voids in the universe.",
+          "examples": [
+            "solar filament",
+            "galaxy filament"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

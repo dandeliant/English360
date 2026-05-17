@@ -1,0 +1,31 @@
+{
+  "lemma": "paradox",
+  "slug": "paradox",
+  "fetchedAt": "2026-05-16T23:46:17.261Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An apparently self-contradictory statement, which can only be true if it is false, and vice versa.",
+          "examples": [
+            "\"This sentence is false\" is a paradox."
+          ]
+        },
+        {
+          "text": "A counterintuitive conclusion or outcome.",
+          "examples": [
+            "It is an interesting paradox that drinking a lot of water can often make you feel thirsty."
+          ]
+        },
+        {
+          "text": "A claim that two apparently contradictory ideas are true.",
+          "examples": [
+            "Not having a fashion is a fashion; that's a paradox."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

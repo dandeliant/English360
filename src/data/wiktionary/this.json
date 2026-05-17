@@ -1,0 +1,72 @@
+{
+  "lemma": "this",
+  "slug": "this",
+  "fetchedAt": "2026-05-16T23:47:27.542Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "The (thing) here .",
+          "examples": [
+            "This classroom is where I learned to read and write."
+          ]
+        },
+        {
+          "text": "Referring to oneself.",
+          "examples": []
+        },
+        {
+          "text": "The known (thing) .",
+          "examples": [
+            "They give the appearance of knowing what they're doing. It's this appearance that lets them get away with so much."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To the degree or extent indicated.",
+          "examples": [
+            "I need this much water.",
+            "Do we need this many recommendations?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The thing, item, etc. being indicated.",
+          "examples": [
+            "This isn't the item that I ordered."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something being indicated that is here; one of these.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Indicates the speaker's strong approval or agreement with the previous material.",
+          "examples": [
+            "― I wish trolls could be banned from the forum immediately, without any discussion.― This!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

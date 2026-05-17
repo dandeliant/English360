@@ -1,0 +1,38 @@
+{
+  "lemma": "constant",
+  "slug": "constant",
+  "fetchedAt": "2026-05-16T23:43:50.940Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Unchanged through time or space; permanent.",
+          "examples": []
+        },
+        {
+          "text": "Consistently recurring over time; persistent.",
+          "examples": []
+        },
+        {
+          "text": "Steady in purpose, action, feeling, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is permanent or invariable.",
+          "examples": []
+        },
+        {
+          "text": "A quantity that remains at a fixed value throughout a given discussion or operation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

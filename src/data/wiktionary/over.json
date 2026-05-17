@@ -1,0 +1,144 @@
+{
+  "lemma": "over",
+  "slug": "over",
+  "fetchedAt": "2026-05-16T23:46:15.504Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Finished; ended; concluded.",
+          "examples": [
+            "The show isn't over until the fat lady sings.",
+            "The strawberries are over now. I picked the last few yesterday."
+          ]
+        },
+        {
+          "text": "Of a flower: wilting or withering.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Describing a physical change of position or state. From one position or location to another, horizontally or approximately so, or along a route visualised as \"across\".",
+          "examples": [
+            "That vase isn't exactly central. Could you move it over a couple of inches?",
+            "I slid over to make room for him to sit down."
+          ]
+        },
+        {
+          "text": "From one position or location to another, horizontally or approximately so, or along a route visualised as \"across\".",
+          "examples": [
+            "That vase isn't exactly central. Could you move it over a couple of inches?",
+            "I slid over to make room for him to sit down."
+          ]
+        },
+        {
+          "text": "Across from one side of something to the other.",
+          "examples": [
+            "I need to cross the river. Can you take me over in your boat?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A set of six legal balls bowled.",
+          "examples": [
+            "Jones hit four boundaries in the first over."
+          ]
+        },
+        {
+          "text": "Any surplus amount of money, goods delivered, etc.",
+          "examples": []
+        },
+        {
+          "text": "Something having an excess of a particular property.",
+          "examples": [
+            "I went fishing but caught mostly overs.",
+            "In today's golf tournament we recorded three unders and twenty overs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Expressing spatial relationship or movement. Above; higher than; further up than.",
+          "examples": [
+            "Hold the sign up over your head.",
+            "The mountain towered over the village."
+          ]
+        },
+        {
+          "text": "Above; higher than; further up than.",
+          "examples": [
+            "Hold the sign up over your head.",
+            "The mountain towered over the village."
+          ]
+        },
+        {
+          "text": "Across, from one side to the other.",
+          "examples": [
+            "The guide took us over the border."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A radio procedure word meaning that the station is finished with its transmission and is expecting a response.",
+          "examples": [
+            "Bravo Six, this is Bravo Six Four. Stand by for ten mike report one dash three, over.",
+            "Bravo Six Four, this is Bravo Six Actual. Send your traffic, over."
+          ]
+        },
+        {
+          "text": "Instructs the reader to turn the page and continue reading the other side.",
+          "examples": []
+        },
+        {
+          "text": "Ellipsis of over the left shoulder (“expressing disbelief etc.”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To go over, or jump over.",
+          "examples": [
+            "He overed the fence in good style."
+          ]
+        },
+        {
+          "text": "To run about.",
+          "examples": [
+            "The cattle have been overing all day because of the flies."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shore, riverbank.",
+          "examples": [
+            "The sea's over."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

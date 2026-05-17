@@ -1,0 +1,67 @@
+{
+  "lemma": "sub",
+  "slug": "sub",
+  "fetchedAt": "2026-05-16T23:47:09.865Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Suku.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Abbreviation of submarine.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To substitute for.",
+          "examples": []
+        },
+        {
+          "text": "To work as a substitute teacher, especially in primary and secondary education.",
+          "examples": []
+        },
+        {
+          "text": "To replace (a player) with a substitute.",
+          "examples": [
+            "He never really made a contribution to the match, so it was no surprise when he was subbed at half time."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Under.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To coat with a layer of adhering material; to planarize by means of such a coating.",
+          "examples": []
+        },
+        {
+          "text": "To prepare (a slide) with a layer of transparent substance to support and/or fix the sample.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

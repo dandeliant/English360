@@ -1,0 +1,62 @@
+{
+  "lemma": "summer",
+  "slug": "summer",
+  "fetchedAt": "2026-05-16T23:47:13.611Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as spanning either the period between the summer solstice to the autumnal equinox, or the months of June, July, and August in the Northern Hemisphere and the months of December, January and February in the Southern Hemisphere.",
+          "examples": [
+            "the heat of summer",
+            "Gradually, the end of summer hove into sight."
+          ]
+        },
+        {
+          "text": "year; used to give the age of a person, usually a young one.",
+          "examples": [
+            "He was barely eighteen summers old.",
+            "She had seen not more than twenty summers."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend the summer, as in a particular place on holiday.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A horizontal beam supporting a building.",
+          "examples": []
+        },
+        {
+          "text": "A pack-horse.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who sums.",
+          "examples": []
+        },
+        {
+          "text": "A machine or algorithm that sums.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

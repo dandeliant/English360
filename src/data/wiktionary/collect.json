@@ -1,0 +1,66 @@
+{
+  "lemma": "collect",
+  "slug": "collect",
+  "fetchedAt": "2026-05-16T23:43:49.175Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gather together; amass.",
+          "examples": [
+            "Suzanne collected all the papers she had laid out.",
+            "The team uses special equipment to collect data on temperature, wind speed and rainfall."
+          ]
+        },
+        {
+          "text": "To get; particularly, get from someone.",
+          "examples": [
+            "A bank collects a monthly payment on a client's new car loan. A mortgage company collects a monthly payment on a house."
+          ]
+        },
+        {
+          "text": "To accumulate (a number of similar or related objects), particularly for a hobby or recreation.",
+          "examples": [
+            "John Henry collects stamps.",
+            "I don't think he collects as much as hoards."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "To be paid for by the recipient, as a telephone call or a shipment.",
+          "examples": [
+            "It was to be a collect delivery, but no-one was available to pay."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "With payment due from the recipient.",
+          "examples": [
+            "I had to call collect."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The prayer said before the reading of the epistle lesson, especially one found in a prayerbook, as with the Book of Common Prayer.",
+          "examples": [
+            "He used the day's collect as the basis of his sermon."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

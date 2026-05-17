@@ -1,0 +1,38 @@
+{
+  "lemma": "hair",
+  "slug": "hair",
+  "fetchedAt": "2026-05-16T23:44:49.716Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.",
+          "examples": []
+        },
+        {
+          "text": "The collection or mass of such growths growing from the skin of humans and animals, and forming a covering for any part or the whole body.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove the hair from.",
+          "examples": []
+        },
+        {
+          "text": "To grow hair (where there was a bald spot).",
+          "examples": []
+        },
+        {
+          "text": "To cause to have or bear hair; to provide with hair",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

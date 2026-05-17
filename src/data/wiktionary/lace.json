@@ -1,0 +1,42 @@
+{
+  "lemma": "lace",
+  "slug": "lace",
+  "fetchedAt": "2026-05-16T23:45:24.377Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A light fabric containing patterns of holes, usually built up from a single thread.",
+          "examples": []
+        },
+        {
+          "text": "A cord or ribbon passed through eyelets in a shoe or garment, pulled tight and tied to fasten the shoe or garment firmly.",
+          "examples": [
+            "your laces are untied, do them up!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fasten (something) with laces.",
+          "examples": []
+        },
+        {
+          "text": "To interweave items.",
+          "examples": [
+            "to lace one's fingers together"
+          ]
+        },
+        {
+          "text": "To interweave the spokes of a bicycle wheel.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

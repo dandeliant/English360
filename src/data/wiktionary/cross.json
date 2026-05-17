@@ -1,0 +1,81 @@
+{
+  "lemma": "cross",
+  "slug": "cross",
+  "fetchedAt": "2026-05-16T23:43:55.786Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A geometrical figure consisting of two straight lines or bars intersecting each other such that at least one of them is bisected by the other.",
+          "examples": [
+            "Put a cross for a wrong answer and a tick for a right one."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Transverse; lying across the main direction.",
+          "examples": [
+            "At the end of each row were cross benches which linked the rows."
+          ]
+        },
+        {
+          "text": "Opposite, opposed to.",
+          "examples": [
+            "His actions were perversely cross to his own happiness."
+          ]
+        },
+        {
+          "text": "Opposing, adverse; being contrary to what one would hope or wish for.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Across.",
+          "examples": [
+            "She walked cross the mountains."
+          ]
+        },
+        {
+          "text": "The cross product of the previous vector and the following vector.",
+          "examples": [
+            "The Lorentz force is q times v cross B."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or form a cross. To place across or athwart; to cause to intersect.",
+          "examples": [
+            "She frowned and crossed her arms.",
+            "to cross the letter t"
+          ]
+        },
+        {
+          "text": "To place across or athwart; to cause to intersect.",
+          "examples": [
+            "She frowned and crossed her arms."
+          ]
+        },
+        {
+          "text": "To lay or draw something across, such as a line.",
+          "examples": [
+            "to cross the letter t"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

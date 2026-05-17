@@ -1,0 +1,34 @@
+{
+  "lemma": "landscape",
+  "slug": "landscape",
+  "fetchedAt": "2026-05-16T23:45:26.416Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A portion of land or territory as defined by its landform, its geographical (and architectural) features.",
+          "examples": []
+        },
+        {
+          "text": "A portion of land which the eye can comprehend in a single view, including all the objects thus seen.",
+          "examples": []
+        },
+        {
+          "text": "A sociological aspect of a physical area.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To create or maintain a landscape.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

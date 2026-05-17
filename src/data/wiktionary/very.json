@@ -1,0 +1,57 @@
+{
+  "lemma": "very",
+  "slug": "very",
+  "fetchedAt": "2026-05-16T23:47:44.880Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To a great extent or degree.",
+          "examples": [
+            "That dress is very you.",
+            "Not very many (of them) had been damaged."
+          ]
+        },
+        {
+          "text": "Conforming to fact, reality or rule; true.",
+          "examples": []
+        },
+        {
+          "text": "Used to firmly establish that nothing else surpasses in some respect.",
+          "examples": [
+            "He was the very best runner there.",
+            "This is my very own treehouse."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "True, real, actual.",
+          "examples": [
+            "the fierce hatred of a very woman",
+            "the very blood and bone of our grammar"
+          ]
+        },
+        {
+          "text": "The same; identical.",
+          "examples": [
+            "He proposed marriage in the same restaurant, at the very table where they first met.",
+            "That's the very tool that I need."
+          ]
+        },
+        {
+          "text": "With limiting effect: mere.",
+          "examples": [
+            "The very idea of climbing the ladder brings me out in a sweat.",
+            "The very idea/thought!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

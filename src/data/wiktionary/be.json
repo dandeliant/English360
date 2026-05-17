@@ -1,0 +1,60 @@
+{
+  "lemma": "be",
+  "slug": "be",
+  "fetchedAt": "2026-05-16T23:43:20.728Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Belarusian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "As an auxiliary verb: Used with past participles of verbs to form the passive voice.",
+          "examples": [
+            "The dog was saved by the boy.",
+            "The woman is walking."
+          ]
+        },
+        {
+          "text": "Used with past participles of verbs to form the passive voice.",
+          "examples": [
+            "The dog was saved by the boy."
+          ]
+        },
+        {
+          "text": "Used with present participles of verbs to form the continuous aspect.",
+          "examples": [
+            "The woman is walking.",
+            "I shall be writing to you soon."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Alternative form of by. Also found in compounds, especially oaths, e.g. begorra.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The name of the Cyrillic script letter Б / б",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

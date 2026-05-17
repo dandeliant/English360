@@ -1,0 +1,73 @@
+{
+  "lemma": "it",
+  "slug": "it",
+  "fetchedAt": "2026-05-16T23:45:18.135Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Italian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The third-person singular neuter personal pronoun used to refer to an inanimate object, abstract entity, or non-human living thing.",
+          "examples": [
+            "Take this book and put it on the shelf.",
+            "Take each day as it comes."
+          ]
+        },
+        {
+          "text": "A third-person singular personal pronoun used to refer to a baby or child, especially of unknown gender.",
+          "examples": [
+            "She took the baby and held it in her arms."
+          ]
+        },
+        {
+          "text": "A third-person singular pronoun used to refer to an unspecified person.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Its.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who is neither a he nor a she; a creature; a dehumanized being.",
+          "examples": []
+        },
+        {
+          "text": "The person who chases and tries to catch the other players in the playground game of tag.",
+          "examples": [
+            "In the next game, Adam and Tom will be it…",
+            "Tag, you're it!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Most fashionable, popular, or in vogue.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

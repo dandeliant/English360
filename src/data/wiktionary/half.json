@@ -1,0 +1,109 @@
+{
+  "lemma": "half",
+  "slug": "half",
+  "fetchedAt": "2026-05-16T23:44:53.330Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of two usually roughly equal parts into which anything may be divided, or considered as divided.",
+          "examples": [
+            "I ate the smaller half of the apple.",
+            "You don’t know the half of it."
+          ]
+        },
+        {
+          "text": "One of two equal periods into which a game is divided.",
+          "examples": [
+            "An association football match usually consists of two halves of 45 minutes each."
+          ]
+        },
+        {
+          "text": "One of the two opposite parts of the playing field of various sports, in which each starts the game.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Consisting of a half (½, 50%).",
+          "examples": [
+            "a half kilo",
+            "a half hour"
+          ]
+        },
+        {
+          "text": "Consisting of some indefinite portion resembling a half; approximately a half, whether more or less; partial; imperfect.",
+          "examples": [
+            "a half truth"
+          ]
+        },
+        {
+          "text": "Having one parent (rather than two) in common.",
+          "examples": [
+            "A half brother or half sister"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In two equal parts or to an equal degree.",
+          "examples": []
+        },
+        {
+          "text": "In some part approximating a half.",
+          "examples": []
+        },
+        {
+          "text": "Partially; imperfectly.",
+          "examples": [
+            "half-colored",
+            "The task is only half done."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To halve.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Half past; a half-hour (30 minutes) after the last hour.",
+          "examples": [
+            "The time is 9:30; it is half nine."
+          ]
+        },
+        {
+          "text": "(Discuss this sense) A half-hour to (preceding) the next hour.",
+          "examples": [
+            "In some countries, \"half seven\" means 6:30."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A call reminding performers that the performance will begin in thirty minutes.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

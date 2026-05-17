@@ -1,0 +1,30 @@
+{
+  "lemma": "tiny",
+  "slug": "tiny",
+  "fetchedAt": "2026-05-16T23:47:30.763Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very small.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small child; an infant.",
+          "examples": []
+        },
+        {
+          "text": "Anything very small.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

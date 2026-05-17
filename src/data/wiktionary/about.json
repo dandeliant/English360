@@ -1,0 +1,91 @@
+{
+  "lemma": "about",
+  "slug": "about",
+  "fetchedAt": "2026-05-16T23:42:57.280Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In a circle around; all round; on every side of; on the outside of; around. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The snake was coiled about his ankle."
+          ]
+        },
+        {
+          "text": "Over or upon different parts of; through or over in various directions; here and there in; to and fro in; throughout.",
+          "examples": [
+            "Rubbish was strewn about the place.",
+            "The children were running about the room."
+          ]
+        },
+        {
+          "text": "Indicates that something will happen very soon; indicates a plan or intention to do something. See about to. On the point or verge of.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On all sides, or in every or any direction from a point; around.",
+          "examples": [
+            "I looked about at the scenery that surrounded me."
+          ]
+        },
+        {
+          "text": "Here and there; around; in one place and another; up and down.",
+          "examples": [
+            "Bits of old machinery were lying about."
+          ]
+        },
+        {
+          "text": "From one place or position to another in succession; indicating repeated movement or activity.",
+          "examples": [
+            "walking about; rushing about; jumping about; thrashing about"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Moving around or in motion; astir.",
+          "examples": [
+            "out and about; up and about",
+            "After my bout with Guillan-Barre Syndrome, it took me 6 months to be up and about again."
+          ]
+        },
+        {
+          "text": "In existence; being in evidence; apparent.",
+          "examples": [
+            "This idea has been about for a while but has only recently become fashionable."
+          ]
+        },
+        {
+          "text": "Near; in the vicinity or neighbourhood.",
+          "examples": [
+            "I had my keys just a minute ago, so they must be about somewhere.",
+            "Watch out, there's a thief about."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To change the course of (a ship) to the other tack; to bring (a ship) about.",
+          "examples": []
+        },
+        {
+          "text": "To about-face (turn 180 degrees, like a soldier).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

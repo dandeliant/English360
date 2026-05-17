@@ -1,0 +1,63 @@
+{
+  "lemma": "several",
+  "slug": "several",
+  "fetchedAt": "2026-05-16T23:46:46.441Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Separate, distinct; particular. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A number of different; various.",
+          "examples": []
+        },
+        {
+          "text": "Separable, capable of being treated separately.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Consisting of a number more than one (especially, more than two) but not very many.",
+          "examples": [
+            "Several cars were in the parking lot.",
+            "They had many journals. I subscribed to several."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "By itself; severally.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An area of land in private ownership (as opposed to common land).",
+          "examples": []
+        },
+        {
+          "text": "Each particular taken singly; an item; a detail; an individual. (Can we add an example for this sense?)",
+          "examples": []
+        },
+        {
+          "text": "An enclosed or separate place; enclosure. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

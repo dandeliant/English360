@@ -1,0 +1,23 @@
+{
+  "lemma": "insect",
+  "slug": "insect",
+  "fetchedAt": "2026-05-16T23:45:15.903Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An arthropod (in the Insecta class) characterized by six legs, up to four wings, and a chitinous exoskeleton.",
+          "examples": [
+            "Our shed has several insect infestations, including ants, yellowjackets, and wasps."
+          ]
+        },
+        {
+          "text": "Any small, creeping, crawling, or slithering animal, excluding mammals, birds, and fish. An arthropod or invertebrate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

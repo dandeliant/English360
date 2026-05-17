@@ -1,0 +1,60 @@
+{
+  "lemma": "without",
+  "slug": "without",
+  "fetchedAt": "2026-05-16T23:47:57.888Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Outside, externally.",
+          "examples": []
+        },
+        {
+          "text": "Lacking something; failing.",
+          "examples": [
+            "Being from a large, poor family, he learned to live without.",
+            "We've run out of bread; you'll have to do without until I can get to the bakeshop."
+          ]
+        },
+        {
+          "text": "Without a condom being worn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Outside of, beyond.",
+          "examples": []
+        },
+        {
+          "text": "Not having, containing, characteristic of, etc.",
+          "examples": [
+            "It was a mistake to leave my house without a coat.",
+            "I was without formal education but was well read and articulate."
+          ]
+        },
+        {
+          "text": "Not doing or not having done something.",
+          "examples": [
+            "He likes to eat everything without sharing.",
+            "He shot without warning anyone."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Unless, except (introducing a clause).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

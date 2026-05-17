@@ -76,8 +76,17 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
     </main>
 
     <footer class="site-footer">
-      <div class="page">
+      <div class="page site-footer__inner">
         <p>© 2026 English 360° · Codzienna lekcja angielskiego oparta na zdjęciu.</p>
+        <p class="site-footer__attribution">
+          Definicje i przykłady słów pochodzą z
+          <a href="https://en.wiktionary.org/" target="_blank" rel="noopener noreferrer">Wiktionary</a> oraz
+          <a href="https://pl.wiktionary.org/" target="_blank" rel="noopener noreferrer">Wikisłownika</a>,
+          udostępnione na licencji
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>.
+          Atrybucja per hasło widoczna na stronie każdego słowa w
+          <a href="/slownik">słowniku</a>.
+        </p>
       </div>
     </footer>
 
@@ -158,5 +167,28 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
     color: var(--text-muted);
     font-size: var(--text-sm);
     text-align: center;
+  }
+
+  .site-footer__inner {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-3);
+    align-items: center;
+  }
+
+  .site-footer__attribution {
+    max-inline-size: var(--content-width);
+    font-size: var(--text-xs);
+    color: var(--text-faint);
+    line-height: var(--leading-snug);
+  }
+
+  .site-footer__attribution a {
+    color: var(--text-faint);
+    text-decoration: underline;
+  }
+
+  .site-footer__attribution a:hover {
+    color: var(--accent);
   }
 </style>

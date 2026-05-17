@@ -1,0 +1,28 @@
+{
+  "lemma": "system",
+  "slug": "system",
+  "fetchedAt": "2026-05-16T23:47:17.384Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group or set of related things that operate together as a complex whole. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "the digestive system the nervous system",
+            "There are eight planets in the solar system."
+          ]
+        },
+        {
+          "text": "A set of hardware and software operating in a computer.",
+          "examples": []
+        },
+        {
+          "text": "A set of equations involving the same variables, which are to be solved simultaneously.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

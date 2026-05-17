@@ -1,0 +1,40 @@
+{
+  "lemma": "adapt",
+  "slug": "adapt",
+  "fetchedAt": "2026-05-16T23:42:59.078Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make suitable; to make to correspond; to fit or suit.",
+          "examples": []
+        },
+        {
+          "text": "To fit by alteration; to modify or remodel for a different purpose; to adjust.",
+          "examples": [
+            "to adapt a story for the stage",
+            "to adapt an old machine to a new manufacture"
+          ]
+        },
+        {
+          "text": "To make by altering or fitting something else; to produce by change of form or character.",
+          "examples": [
+            "to bring out a play adapted from the French",
+            "a word of an adapted form"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Adapted; fit; suited; suitable; apt.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

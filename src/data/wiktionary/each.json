@@ -1,0 +1,59 @@
+{
+  "lemma": "each",
+  "slug": "each",
+  "fetchedAt": "2026-05-16T23:44:08.132Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "All; every; qualifying a singular noun, indicating all examples of the thing so named seen as individual or separate items (compare every).",
+          "examples": [
+            "Make sure you wash each bowl well.",
+            "The sun comes up each morning and sets each night."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "For one; apiece; per.",
+          "examples": [
+            "The apples cost 50 cents each."
+          ]
+        },
+        {
+          "text": "Individually; separately; used in a sentence with a plural subject to indicate that the action or state described by the verb applies to all members of the described group individually, rather than collectively to the entire group.",
+          "examples": [
+            "We ordered half a chicken each, but we each got a whole one.",
+            "You are each right in a different way."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Every one/thing individually or one by one.",
+          "examples": [
+            "I'm going to give each of you a chance to win.",
+            "From each according to his ability, to each according to his needs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An individual item: the least quantitative unit in a grouping.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

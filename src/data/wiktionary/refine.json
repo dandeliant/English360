@@ -1,0 +1,31 @@
+{
+  "lemma": "refine",
+  "slug": "refine",
+  "fetchedAt": "2026-05-16T23:46:36.836Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To purify; reduce to a fine, unmixed, or pure state; to free from impurities.",
+          "examples": [
+            "to refine gold",
+            "to refine iron"
+          ]
+        },
+        {
+          "text": "To become pure; to be cleared of impure matter.",
+          "examples": []
+        },
+        {
+          "text": "To purify of coarseness, vulgarity, inelegance, etc.; to polish.",
+          "examples": [
+            "to refine someone's manners",
+            "to refine a language"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

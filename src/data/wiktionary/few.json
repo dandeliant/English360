@@ -1,0 +1,45 @@
+{
+  "lemma": "few",
+  "slug": "few",
+  "fetchedAt": "2026-05-16T23:44:26.396Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "An indefinite, but usually small, number of.",
+          "examples": [
+            "There are a few cars (=some, but a relatively small number) in the street.",
+            "Quite a few people (=a significant number) were pleasantly surprised."
+          ]
+        },
+        {
+          "text": "Not many; a small (in comparison with another number stated or implied) but somewhat indefinite number of.",
+          "examples": [
+            "Very few did she have not to go there, did she?",
+            "I was expecting a big crowd at the party, but very few people (=almost none) turned up."
+          ]
+        },
+        {
+          "text": "Obscuring one to two oktas (eighths) of the sky.",
+          "examples": [
+            "Tonight: A few clouds. Increasing cloudiness overnight.",
+            "NOAA definition of the term few clouds: An official sky cover classification for aviation weather observations, descriptive of a sky cover of 1/8 to 2/8. This is applied only when obscuring phenomena aloft are present--that is, not when obscuring phenomena are surface-based, such as fog."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Few people, few things.",
+          "examples": [
+            "Many are called, but few are chosen."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

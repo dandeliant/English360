@@ -1,0 +1,43 @@
+{
+  "lemma": "hind",
+  "slug": "hind",
+  "fetchedAt": "2026-05-16T23:45:00.014Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Located at the rear (most often said of animals' body parts).",
+          "examples": []
+        },
+        {
+          "text": "Backward; to the rear.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A doe (female deer), especially a red deer at least two years old.",
+          "examples": []
+        },
+        {
+          "text": "A spotted food fish of the genus Epinephelus.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A servant, especially an agricultural labourer.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

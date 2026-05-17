@@ -1,0 +1,71 @@
+{
+  "lemma": "will",
+  "slug": "will",
+  "fetchedAt": "2026-05-16T23:47:55.033Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Used to express the future tense, sometimes with an implication of volition or determination when used in the first person. Compare shall. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Do not forget, will you?",
+            "Will you be doing the shopping this evening? If so, will you do mine too, please?"
+          ]
+        },
+        {
+          "text": "To be able to, to have the capacity to.",
+          "examples": [
+            "Unfortunately, only one of these gloves will actually fit over my hand."
+          ]
+        },
+        {
+          "text": "Expressing a present tense or perfect tense with some conditional or subjective weakening: \"will turn out to\", \"must by inference\".",
+          "examples": [
+            "He will be home by now. He always gets home before 6 o'clock.",
+            "I can't find my umbrella. I will've left it at home this morning."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One's independent faculty of choice; the ability to be able to exercise one's choice or intention.",
+          "examples": [
+            "Of course, man's will is often regulated by his reason."
+          ]
+        },
+        {
+          "text": "The act of choosing to do something; a person’s conscious intent or volition.",
+          "examples": [
+            "Most creatures have a will to live."
+          ]
+        },
+        {
+          "text": "One's intention or decision; someone's orders or commands.",
+          "examples": [
+            "Eventually I submitted to my parents' will."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To instruct (that something be done) in one's will.",
+          "examples": []
+        },
+        {
+          "text": "To bequeath (something) to someone in one's will (legal document).",
+          "examples": [
+            "He willed his stamp collection to the local museum."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

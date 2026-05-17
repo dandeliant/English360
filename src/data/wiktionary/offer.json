@@ -1,0 +1,65 @@
+{
+  "lemma": "offer",
+  "slug": "offer",
+  "fetchedAt": "2026-05-16T23:46:07.603Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A proposal that has been made.",
+          "examples": [
+            "What's in his offer?",
+            "I decline your offer to contract."
+          ]
+        },
+        {
+          "text": "Something put forth, bid, proffered or tendered.",
+          "examples": [
+            "His offer was $3.50 per share."
+          ]
+        },
+        {
+          "text": "An invitation to enter into a binding contract communicated to another party which contains terms sufficiently definite to create an enforceable contract if the other party accepts the invitation.",
+          "examples": [
+            "His first letter was not a real offer, but an attempt to determine interest."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To propose or express one's willingness (to do something).",
+          "examples": [
+            "She offered to help with her homework."
+          ]
+        },
+        {
+          "text": "To present in words; to proffer; to make a proposal of; to suggest.",
+          "examples": [
+            "Everybody offered an opinion."
+          ]
+        },
+        {
+          "text": "To place at someone’s disposal; to present (something) to be either accepted or turned down.",
+          "examples": [
+            "He offered use of his car for the week.",
+            "He offered his good will for the Councilman's vote."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "agent noun of off",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

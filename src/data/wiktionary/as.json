@@ -1,0 +1,136 @@
+{
+  "lemma": "as",
+  "slug": "as",
+  "fetchedAt": "2026-05-16T23:43:14.625Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "Symbol for attosecond, an SI unit of time equal to 10 seconds.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "arcsecond",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Assamese.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To such an extent or degree; to the same extent or degree.",
+          "examples": [
+            "She regards her kids as (being) as holy as saints.",
+            "You’re not as tall as I am, but you are definitely as happy as can be."
+          ]
+        },
+        {
+          "text": "Considered to be, in relation to something else; in the relation (specified).",
+          "examples": []
+        },
+        {
+          "text": "For example; for instance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "In the (same) way or manner that; to the (same) degree that.",
+          "examples": [
+            "Do as I say!",
+            "I'm under a lot of pressure, as you know."
+          ]
+        },
+        {
+          "text": "Used after so or as to introduce a comparison.",
+          "examples": [
+            "She's twice as strong as I was two years ago.",
+            "It's not so complicated as I expected."
+          ]
+        },
+        {
+          "text": "Used to introduce a result: with the result that it is; as to",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Introducing a basis of comparison, with an object in the objective case.",
+          "examples": [
+            "You are not as tall as my sister.",
+            "They are big as houses."
+          ]
+        },
+        {
+          "text": "In the role of.",
+          "examples": [
+            "What is your opinion as a parent?",
+            "As your big sis, I worry about your life too."
+          ]
+        },
+        {
+          "text": "In the form of.",
+          "examples": [
+            "I bought you a new toy as a special treat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A libra, a Roman pound.",
+          "examples": []
+        },
+        {
+          "text": "Any of several coins of Rome, coined in bronze or later copper; or the equivalent value.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of a's.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Used to intensify an adjective; very much; extremely",
+          "examples": [
+            "sweet as"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

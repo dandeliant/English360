@@ -1,0 +1,100 @@
+{
+  "lemma": "under",
+  "slug": "under",
+  "fetchedAt": "2026-05-16T23:47:39.281Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Beneath; below; at or to the bottom of, or the area covered or surmounted by.",
+          "examples": [
+            "We found some shade under a tree.",
+            "Quick, stuff the cash under the mattress!"
+          ]
+        },
+        {
+          "text": "Below the surface of.",
+          "examples": []
+        },
+        {
+          "text": "From one side of to the other, passing beneath.",
+          "examples": [
+            "I crawled under the fence.",
+            "There is a tunnel under the English Channel."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or to a lower or subordinate position, or a position beneath or below something, physically or figuratively.",
+          "examples": [
+            "pulled under by the currents",
+            "weighed under by worry"
+          ]
+        },
+        {
+          "text": "So as to pass beneath something.",
+          "examples": [
+            "There's quite a gap, so you may be able to sneak under."
+          ]
+        },
+        {
+          "text": "Less than what is necessary to be adequate or suitable; insufficient.",
+          "examples": [
+            "The plants were underwatered.",
+            "Women are under-represented."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Lower; beneath something.",
+          "examples": [
+            "This treatment protects the under portion of the car from rust.",
+            "(in compounds) underbelly, underside, undershirt, undersecretary"
+          ]
+        },
+        {
+          "text": "In a state of subordination, submission or defeat.",
+          "examples": [
+            "The army could not keep the people under."
+          ]
+        },
+        {
+          "text": "Under anesthesia, especially general anesthesia; sedated.",
+          "examples": [
+            "Ensure the patient is sufficiently under."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The amount by which an actual total is less than the expected or required amount.",
+          "examples": []
+        },
+        {
+          "text": "Something having a particular property that is low or too low.",
+          "examples": [
+            "I went fishing but caught nothing but unders.",
+            "Usually I am at least ten over on that course, but I have shot a couple of unders."
+          ]
+        },
+        {
+          "text": "A bet that a particular sporting statistic, such as points scored in a game, will be below a certain stated value.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

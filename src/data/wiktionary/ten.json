@@ -1,0 +1,57 @@
+{
+  "lemma": "ten",
+  "slug": "ten",
+  "fetchedAt": "2026-05-16T23:47:20.263Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO, ICAO, ITU IMO radiotelephony code for 10, used only with o'clock to indicate direction.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Tama (Colombia).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The number occurring after nine and before eleven, represented in Arabic numerals (base ten) as 10 and in Roman numerals as X.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A set or group with ten elements.",
+          "examples": [
+            "We divided the chocolates into tens to hand out to Hallowe'en visitors."
+          ]
+        },
+        {
+          "text": "An inexact quantity, typically understood to be between 20 and 100.",
+          "examples": [
+            "Our houses are tens of meters apart, so we don't have to worry about noise from our neighbours.",
+            "tens of thousands of voters"
+          ]
+        },
+        {
+          "text": "A card in a given suit with a value of ten.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

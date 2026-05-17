@@ -1,0 +1,64 @@
+{
+  "lemma": "leg",
+  "slug": "leg",
+  "fetchedAt": "2026-05-16T23:45:31.017Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A limb or appendage that an animal uses for support or locomotion on land.",
+          "examples": [
+            "Insects have six legs."
+          ]
+        },
+        {
+          "text": "In humans, the lower limb extending from the groin to the ankle.",
+          "examples": [
+            "Dan won't be able to come to the party, since he broke his leg last week and is now on crutches."
+          ]
+        },
+        {
+          "text": "The portion of the lower limb of a human that extends from the knee to the ankle.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove the legs from an animal carcass.",
+          "examples": []
+        },
+        {
+          "text": "To build legs onto a platform or stage for support.",
+          "examples": []
+        },
+        {
+          "text": "To put a series of three or more options strikes into the stock market.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of leg..",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Alternative spelling of leg..",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "hinge",
+  "slug": "hinge",
+  "fetchedAt": "2026-05-16T23:45:00.843Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A jointed or flexible device that allows the pivoting of a door etc.",
+          "examples": []
+        },
+        {
+          "text": "A naturally occurring joint resembling such hardware in form or action, as in the shell of a bivalve.",
+          "examples": []
+        },
+        {
+          "text": "A stamp hinge, a folded and gummed paper rectangle for affixing postage stamps in an album.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To attach by, or equip with a hinge.",
+          "examples": []
+        },
+        {
+          "text": "(Should we move, merge or split this sense?) To depend on something.",
+          "examples": []
+        },
+        {
+          "text": "The breaking off of the distal end of a knapped stone flake whose presumed course across the face of the stone core was truncated prematurely, leaving not a feathered distal end but instead the scar of a nearly perpendicular break.",
+          "examples": [
+            "The flake hinged at an inclusion in the core."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

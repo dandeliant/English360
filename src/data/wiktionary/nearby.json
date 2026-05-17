@@ -1,0 +1,39 @@
+{
+  "lemma": "nearby",
+  "slug": "nearby",
+  "fetchedAt": "2026-05-16T23:45:57.224Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Adjacent, near, close by.",
+          "examples": [
+            "He stopped at a nearby store for some groceries."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Next to, close to.",
+          "examples": [
+            "I'm glad my friends live nearby where I can visit them."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A futures contract, of a particular group, whose settlement date is the earliest.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

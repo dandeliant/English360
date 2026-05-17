@@ -1,0 +1,74 @@
+{
+  "lemma": "go",
+  "slug": "go",
+  "fetchedAt": "2026-05-16T23:44:44.156Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move, either physically or in an abstract sense:",
+          "examples": [
+            "Why don’t you go with us?",
+            "This train goes through Cincinnati on its way to Chicago."
+          ]
+        },
+        {
+          "text": "To move through space (especially to or through a place).",
+          "examples": [
+            "Why don’t you go with us?",
+            "This train goes through Cincinnati on its way to Chicago."
+          ]
+        },
+        {
+          "text": "To move or travel through time (either literally—in a fictional or hypothetical situation in which time travel is possible—or in one's mind or knowledge of the historical record).",
+          "examples": [
+            "Yesterday was the second-wettest day on record; you have to go all the way back to 1896 to find a day when more rain fell.",
+            "Fans want to see the Twelfth Doctor go to the 51st century to visit River in the library."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of going.",
+          "examples": []
+        },
+        {
+          "text": "A turn at something, or in something (e.g. a game).",
+          "examples": [
+            "You’ve been on that pinball machine long enough—now let your brother have a go.",
+            "It’s your go."
+          ]
+        },
+        {
+          "text": "An attempt, a try.",
+          "examples": [
+            "I’ll give it a go."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Working correctly and ready to commence operation; approved and able to be put into action.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A strategic board game, originally from China and today also popular in Japan and Korea, in which two players (black and white) attempt to control the largest area of the board with their counters.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,56 @@
+{
+  "lemma": "pause",
+  "slug": "pause",
+  "fetchedAt": "2026-05-16T23:46:20.337Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take a temporary rest, take a break for a short period after an effort.",
+          "examples": []
+        },
+        {
+          "text": "To stop (an activity) for a while.",
+          "examples": []
+        },
+        {
+          "text": "To interrupt an activity and wait.",
+          "examples": [
+            "When telling the scary story, he paused for effect."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A temporary stop or rest; an intermission of action; interruption; suspension; cessation.",
+          "examples": []
+        },
+        {
+          "text": "A short time for relaxing and doing something else.",
+          "examples": []
+        },
+        {
+          "text": "Hesitation; suspense; doubt.",
+          "examples": [
+            "to take pause",
+            "to give pause"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used immediately after a statement to indicate that there was no innuendo or homosexual meaning intended, especially when such a meaning is a reasonable interpretation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

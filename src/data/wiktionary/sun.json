@@ -1,0 +1,80 @@
+{
+  "lemma": "sun",
+  "slug": "sun",
+  "fetchedAt": "2026-05-16T23:47:14.725Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-3 language code for Sundanese.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The star that is closest to the Earth.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A star, especially when seen as the centre of any single solar system.",
+          "examples": []
+        },
+        {
+          "text": "The light and heat which are received from the Sun; sunshine or sunlight.",
+          "examples": []
+        },
+        {
+          "text": "Something like the sun in brightness or splendor.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To expose to the heat and radiation of the sun.",
+          "examples": [
+            "Beautiful bodies lying on the beach, sunning their bronzed limbs."
+          ]
+        },
+        {
+          "text": "To warm or dry in the sunshine.",
+          "examples": []
+        },
+        {
+          "text": "To be exposed to the sun.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A traditional Japanese unit of length, approximately 30.3 millimetres (1.193 inches).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of sunn (“the plant”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "ease",
+  "slug": "ease",
+  "fetchedAt": "2026-05-16T23:44:10.276Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Lack of difficulty; the ability to do something easily.",
+          "examples": [
+            "He played the ukelele with ease.",
+            "The ease of lifting the weight, despite lack of skill, came from her pure strength."
+          ]
+        },
+        {
+          "text": "Comfort, a state or quality lacking unpleasantness, particularly:",
+          "examples": [
+            "She enjoyed the ease of living in a house where the servants did all the work.",
+            "The pension set her mind at ease."
+          ]
+        },
+        {
+          "text": "Freedom from pain, hardship, and annoyance, sometimes idleness, sloth.",
+          "examples": [
+            "She enjoyed the ease of living in a house where the servants did all the work."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To free (something) from pain, worry, agitation, etc.",
+          "examples": [
+            "He eased his conscience by confessing."
+          ]
+        },
+        {
+          "text": "To alleviate, assuage or lessen (pain).",
+          "examples": []
+        },
+        {
+          "text": "To give respite to (someone).",
+          "examples": [
+            "The provision of extra staff eased their workload."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

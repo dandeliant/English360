@@ -1,0 +1,76 @@
+{
+  "lemma": "stalk",
+  "slug": "stalk",
+  "fetchedAt": "2026-05-16T23:47:05.193Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The stem or main axis of a plant.",
+          "examples": [
+            "a stalk of wheat, rye, or oats; the stalks of maize or hemp"
+          ]
+        },
+        {
+          "text": "The petiole, pedicel, or peduncle of a plant.",
+          "examples": [
+            "grape stalks"
+          ]
+        },
+        {
+          "text": "Something resembling the stalk of a plant, such as the stem of a quill.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To approach slowly and quietly in order not to be discovered when getting closer.",
+          "examples": []
+        },
+        {
+          "text": "To (try to) follow or contact someone constantly, often resulting in harassment.",
+          "examples": [
+            "My ex-girlfriend is stalking me.",
+            "villages stalked by the threat of famine"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A particular episode of trying to follow or contact someone.",
+          "examples": []
+        },
+        {
+          "text": "The hunting of a wild animal by stealthy approach.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To walk haughtily.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A haughty style of walking.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

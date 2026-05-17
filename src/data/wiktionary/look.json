@@ -1,0 +1,70 @@
+{
+  "lemma": "look",
+  "slug": "look",
+  "fetchedAt": "2026-05-16T23:45:37.887Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To try to see, to pay attention to with one’s eyes.",
+          "examples": [
+            "They kept looking at me.",
+            "Don’t look in the closet."
+          ]
+        },
+        {
+          "text": "As an intransitive verb, often with \"at\".",
+          "examples": [
+            "They kept looking at me.",
+            "Don’t look in the closet."
+          ]
+        },
+        {
+          "text": "As a transitive verb, often in the imperative; chiefly takes relative clause as direct object.",
+          "examples": [
+            "Look what you did to him!",
+            "Look who's back!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Pay attention.",
+          "examples": [
+            "Look, I'm going to explain what to do, so you have to listen closely."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The action of looking; an attempt to see.",
+          "examples": [
+            "Let’s have a look under the hood of the car."
+          ]
+        },
+        {
+          "text": "Physical appearance, visual impression.",
+          "examples": [
+            "She got her mother’s looks.",
+            "I don’t like the look of the new design."
+          ]
+        },
+        {
+          "text": "A facial expression.",
+          "examples": [
+            "He gave me a dirty look.",
+            "If looks could kill ..."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

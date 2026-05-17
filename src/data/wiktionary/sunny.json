@@ -1,0 +1,50 @@
+{
+  "lemma": "sunny",
+  "slug": "sunny",
+  "fetchedAt": "2026-05-16T23:47:15.583Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Featuring a lot of sunshine.",
+          "examples": [
+            "Whilst it may be sunny today, the weather forecast is predicting rain."
+          ]
+        },
+        {
+          "text": "Receiving a lot of sunshine.",
+          "examples": [
+            "the sunny side of a hill",
+            "I would describe Spain as sunny, but it's nothing in comparison to the Sahara."
+          ]
+        },
+        {
+          "text": "Cheerful.",
+          "examples": [
+            "a person with a sunny disposition"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "sunny side up",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sunfish.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

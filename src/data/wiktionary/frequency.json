@@ -1,0 +1,34 @@
+{
+  "lemma": "frequency",
+  "slug": "frequency",
+  "fetchedAt": "2026-05-16T23:44:36.930Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The rate of occurrence of anything; the relationship between incidence and time period.",
+          "examples": [
+            "With growing confidence, the Viking’s raids increased in frequency.",
+            "The frequency of bus service has been improved from one every 15 to one every 12 minutes."
+          ]
+        },
+        {
+          "text": "The property of occurring often rather than infrequently.",
+          "examples": [
+            "The FAQ addresses questions that come up with some frequency.",
+            "The frequency of the visits was what annoyed him."
+          ]
+        },
+        {
+          "text": "The quotient of the number of times n {\\displaystyle n} a periodic phenomenon occurs over the time t {\\displaystyle t} in which it occurs: f = n / t {\\displaystyle f=n/t} .",
+          "examples": [
+            "The frequency of the musical note A above middle C is 440 oscillations per second.",
+            "The frequency of a wave is its velocity v {\\displaystyle v} divided by its wavelength λ {\\displaystyle \\lambda } : f = v / λ {\\displaystyle f=v/\\lambda } ."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

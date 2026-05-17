@@ -1,0 +1,82 @@
+{
+  "lemma": "quiet",
+  "slug": "quiet",
+  "fetchedAt": "2026-05-16T23:46:33.132Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "With little or no sound; free of disturbing noise.",
+          "examples": [
+            "I can't hear the music; it is too quiet."
+          ]
+        },
+        {
+          "text": "Having little motion or activity; calm.",
+          "examples": [
+            "the sea was quiet",
+            "a quiet night at home"
+          ]
+        },
+        {
+          "text": "Not busy, of low quantity.",
+          "examples": [
+            "The traffic was quiet for a Monday morning.",
+            "Business was quiet for the season."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (someone or something) to become quiet.",
+          "examples": [
+            "Can you quiet your child? He’s making lots of noise.",
+            "The umpire quieted the crowd so the game could continue in peace."
+          ]
+        },
+        {
+          "text": "To become quiet or calm.",
+          "examples": [
+            "When you quiet, we can start talking."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The absence of sound; quietness.",
+          "examples": [
+            "There was a strange quiet in the normally very lively plaza.",
+            "We need a bit of quiet before we can start the show."
+          ]
+        },
+        {
+          "text": "The absence of movement; stillness, tranquility.",
+          "examples": []
+        },
+        {
+          "text": "The absence of disturbance or trouble; peace, security.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Be quiet.",
+          "examples": [
+            "Quiet! The children are sleeping."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,108 @@
+{
+  "lemma": "more",
+  "slug": "more",
+  "fetchedAt": "2026-05-16T23:45:52.667Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "comparative degree of many: in greater number.",
+          "examples": [
+            "There are more ways to do this than I can count."
+          ]
+        },
+        {
+          "text": "comparative degree of much: in greater quantity, amount, or proportion.",
+          "examples": [
+            "There's more caffeine in my coffee than in the coffee you get in most places."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To a greater degree or extent. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I like cake, but I like chocolate more.",
+            "I could no more climb that than fly!"
+          ]
+        },
+        {
+          "text": "Used to form the comparative form of adjectives and adverbs.",
+          "examples": [
+            "You're a great deal more beautiful than I ever imagined.",
+            "I am much more eager to help than you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A greater number or quantity (of something).",
+          "examples": [
+            "We’re running out of napkins. I should have bought more.",
+            "There isn’t enough salt in this. You need to add more."
+          ]
+        },
+        {
+          "text": "An extra or additional quantity (of something).",
+          "examples": [
+            "There aren’t many people here yet, but more should be arriving soon."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "comparative degree of many: in greater number.",
+          "examples": [
+            "Last year’s applications received from new and returning students were more than each of the previous four years."
+          ]
+        },
+        {
+          "text": "comparative degree of much: in greater quantity, amount, or proportion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A carrot; a parsnip.",
+          "examples": []
+        },
+        {
+          "text": "A root; stock.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To root up.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "singular of mores",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

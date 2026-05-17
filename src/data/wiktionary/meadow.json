@@ -1,0 +1,28 @@
+{
+  "lemma": "meadow",
+  "slug": "meadow",
+  "fetchedAt": "2026-05-16T23:45:43.407Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A field or pasture; a piece of land either intentionally cultivated with grass or (especially) naturally covered with grass, especially one that is intended to be mown for hay or to be grazed.",
+          "examples": [
+            "alpine meadows"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cultivate with grass in order to produce hay.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

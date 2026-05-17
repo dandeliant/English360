@@ -1,0 +1,54 @@
+{
+  "lemma": "broad",
+  "slug": "broad",
+  "fetchedAt": "2026-05-16T23:43:33.597Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Wide in extent or scope.",
+          "examples": [
+            "three feet broad",
+            "the broad expanse of ocean"
+          ]
+        },
+        {
+          "text": "Extended, in the sense of diffused; open; clear; full.",
+          "examples": []
+        },
+        {
+          "text": "Having a large measure of any thing or quality; unlimited; unrestrained.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
+          "examples": []
+        },
+        {
+          "text": "A lathe tool for turning down the insides and bottoms of cylinders.",
+          "examples": []
+        },
+        {
+          "text": "A British gold coin worth 20 shillings, issued by the Commonwealth of England in 1656.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prostitute, a woman of loose morals.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

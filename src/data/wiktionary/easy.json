@@ -1,0 +1,72 @@
+{
+  "lemma": "easy",
+  "slug": "easy",
+  "fetchedAt": "2026-05-16T23:44:11.191Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Comfortable; at ease.",
+          "examples": [
+            "Now that I know it's taken care of, I can rest easy at night."
+          ]
+        },
+        {
+          "text": "Requiring little skill or effort.",
+          "examples": [
+            "It's often easy to wake up but hard to get up.",
+            "The teacher gave an easy test to her students."
+          ]
+        },
+        {
+          "text": "Causing ease; giving comfort, or freedom from care or labour.",
+          "examples": [
+            "Rich people live in easy circumstances, that is, the easy life.",
+            "an easy chair"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a relaxed or casual manner.",
+          "examples": [
+            "After his illness, John decided to take it easy.",
+            "Everything comes easy to her."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "(Should we delete this sense?) Something that is easy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Synonym of easy-oar.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Requesting deintensification or a halt.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

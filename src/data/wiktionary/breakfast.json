@@ -1,0 +1,39 @@
+{
+  "lemma": "breakfast",
+  "slug": "breakfast",
+  "fetchedAt": "2026-05-16T23:43:31.542Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The first meal of the day, usually eaten in the morning.",
+          "examples": [
+            "You should put more protein in her breakfast so she will grow.",
+            "I had an early dinner because the breakfast in this hostel is superb."
+          ]
+        },
+        {
+          "text": "A meal consisting of food normally eaten in the morning, which may typically include eggs, sausages, toast, bacon, etc.",
+          "examples": [
+            "We serve breakfast all day."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To eat the morning meal.",
+          "examples": []
+        },
+        {
+          "text": "To serve breakfast to.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

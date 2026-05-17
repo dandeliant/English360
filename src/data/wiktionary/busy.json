@@ -1,0 +1,51 @@
+{
+  "lemma": "busy",
+  "slug": "busy",
+  "fetchedAt": "2026-05-16T23:43:35.567Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Crowded with business or activities; having a great deal going on.",
+          "examples": [
+            "Be careful crossing that busy street."
+          ]
+        },
+        {
+          "text": "Engaged with or preoccupied by an activity or person.",
+          "examples": [
+            "The director cannot see you now: he's busy.",
+            "Her telephone has been busy all day."
+          ]
+        },
+        {
+          "text": "Having much work to do; having much to get done.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A police officer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make somebody busy or active; to occupy.",
+          "examples": [
+            "On my vacation I'll busy myself with gardening.",
+            "The work busied me all afternoon."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

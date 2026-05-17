@@ -1,0 +1,47 @@
+{
+  "lemma": "manner",
+  "slug": "manner",
+  "fetchedAt": "2026-05-16T23:45:40.409Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Mode of action; way of performing or doing anything.",
+          "examples": []
+        },
+        {
+          "text": "Characteristic mode of acting or behaving; bearing.",
+          "examples": [
+            "His natural manner makes him seem like the boss."
+          ]
+        },
+        {
+          "text": "One's customary method of acting; habit.",
+          "examples": [
+            "These people have strange manners."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To instill manners into.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something involving or requiring the specified number of men or people.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

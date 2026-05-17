@@ -1,0 +1,47 @@
+{
+  "lemma": "vocal",
+  "slug": "vocal",
+  "fetchedAt": "2026-05-16T23:47:48.126Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, pertaining to, or resembling the human voice or speech.",
+          "examples": [
+            "vocal problems",
+            "vocal apparatus"
+          ]
+        },
+        {
+          "text": "Used in the production of speech sounds.",
+          "examples": [
+            "vocal apparatus"
+          ]
+        },
+        {
+          "text": "Relating to, composed or arranged for, or sung by the human voice.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A vocal sound; specifically, a purely vocal element of speech, unmodified except by resonance; a vowel or a diphthong; a tonic element; a tonic.",
+          "examples": []
+        },
+        {
+          "text": "A part of a piece of music that is sung.",
+          "examples": []
+        },
+        {
+          "text": "A musical performance involving singing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,32 @@
+{
+  "lemma": "also",
+  "slug": "also",
+  "fetchedAt": "2026-05-16T23:43:03.635Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In addition; besides; as well; further; too. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Everyone had eggs for breakfast, but Alice also had toast."
+          ]
+        },
+        {
+          "text": "To the same degree or extent; so, as.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "and in addition",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

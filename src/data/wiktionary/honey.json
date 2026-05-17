@@ -1,0 +1,57 @@
+{
+  "lemma": "honey",
+  "slug": "honey",
+  "fetchedAt": "2026-05-16T23:45:02.610Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sweet, viscous, gold-colored fluid produced from plant nectar by bees, and often consumed by humans.",
+          "examples": [
+            "The honey in the pot should last for years."
+          ]
+        },
+        {
+          "text": "A variety of this substance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Involving or resembling honey.",
+          "examples": []
+        },
+        {
+          "text": "Of a pale yellow to brownish-yellow color, like most types of honey.",
+          "examples": []
+        },
+        {
+          "text": "Honey-sweet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sweeten; to make agreeable.",
+          "examples": []
+        },
+        {
+          "text": "To add honey to.",
+          "examples": []
+        },
+        {
+          "text": "To be gentle, agreeable, or coaxing; to talk fondly; to use endearments.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

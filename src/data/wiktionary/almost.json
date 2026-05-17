@@ -1,0 +1,45 @@
+{
+  "lemma": "almost",
+  "slug": "almost",
+  "fetchedAt": "2026-05-16T23:43:02.738Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Very close to, but not quite.",
+          "examples": [
+            "Almost all people went there.",
+            "We almost missed the train."
+          ]
+        },
+        {
+          "text": "Up to, except for a negligible set (where negligible is not universally but contextually defined).",
+          "examples": [
+            "almost all",
+            "almost no"
+          ]
+        },
+        {
+          "text": "Up to a null set; except for a set of measure 0.",
+          "examples": [
+            "almost everywhere",
+            "almost nowhere"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something or someone that doesn't quite make it.",
+          "examples": [
+            "In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

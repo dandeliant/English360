@@ -1,0 +1,54 @@
+{
+  "lemma": "such",
+  "slug": "such",
+  "fetchedAt": "2026-05-16T23:47:12.591Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Like this, that, these, those; used to make a comparison with something implied by context.",
+          "examples": [
+            "I’ve never seen such clouds in the sky before.",
+            "Really? Unfortunately, my mind refuses to bring any such memory forward."
+          ]
+        },
+        {
+          "text": "Any.",
+          "examples": [
+            "the above address or at such other address as may be provided"
+          ]
+        },
+        {
+          "text": "Used as an intensifier roughly equivalent to very much (of), quite or rather.",
+          "examples": [
+            "Unfortunately, it wasn't such a good holiday as we thought it would.",
+            "I spent such a lot last night (that) now I can't even afford a burger."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A person, a thing, people, or things like the one or ones already mentioned.",
+          "examples": [
+            "Such is life, such as it is.",
+            "When applied to women, 'handsome' is used mostly of such as are middle-aged or elderly."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something being indicated that is similar to something else.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

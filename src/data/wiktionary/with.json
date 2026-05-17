@@ -1,0 +1,51 @@
+{
+  "lemma": "with",
+  "slug": "with",
+  "fetchedAt": "2026-05-16T23:47:57.024Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Against.",
+          "examples": [
+            "He picked a fight with the class bully."
+          ]
+        },
+        {
+          "text": "In the company of; alongside, close to; near to.",
+          "examples": [
+            "He went with his friends."
+          ]
+        },
+        {
+          "text": "In addition to; as an accessory to.",
+          "examples": [
+            "She owns a motorcycle with a sidecar."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Along, together with others, in a group, etc.",
+          "examples": [
+            "Do you want to come with?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of withe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

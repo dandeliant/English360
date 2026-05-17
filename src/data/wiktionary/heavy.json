@@ -1,0 +1,102 @@
+{
+  "lemma": "heavy",
+  "slug": "heavy",
+  "fetchedAt": "2026-05-16T23:44:58.035Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having great weight.",
+          "examples": [
+            "Can you help me carry this? It's really heavy.",
+            "Use the scales to measure how heavy it is."
+          ]
+        },
+        {
+          "text": "Heavyset: overweight.",
+          "examples": [
+            "When he was a child he was rather heavy, but today he is impressively fit."
+          ]
+        },
+        {
+          "text": "Serious, somber.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a heavy manner; weightily; heavily; gravely.",
+          "examples": [
+            "Heavy-laden with their sins, time hung heavy"
+          ]
+        },
+        {
+          "text": "To a great degree; greatly.",
+          "examples": []
+        },
+        {
+          "text": "very",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A villain or bad guy; the one responsible for evil or aggressive acts.",
+          "examples": [
+            "With his wrinkled, uneven face, the actor always seemed to play the heavy in films."
+          ]
+        },
+        {
+          "text": "A doorman, bouncer or bodyguard.",
+          "examples": [
+            "A fight started outside the bar but the heavies came out and stopped it."
+          ]
+        },
+        {
+          "text": "A prominent figure; a \"major player\".",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make heavier.",
+          "examples": [
+            "They piled their goods on the donkey's back, heavying up an already backbreaking load."
+          ]
+        },
+        {
+          "text": "To sadden. (Can we add an example for this sense?)",
+          "examples": []
+        },
+        {
+          "text": "To use power or wealth to exert influence on, e.g., governments or corporations; to pressure.",
+          "examples": [
+            "The union was well known for the methods it used to heavy many businesses."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having the heaves.",
+          "examples": [
+            "a heavy horse"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,107 @@
+{
+  "lemma": "stick",
+  "slug": "stick",
+  "fetchedAt": "2026-05-16T23:47:07.701Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton.",
+          "examples": [
+            "The beaver's dam was made out of sticks.",
+            "I found several good sticks in the brush heap."
+          ]
+        },
+        {
+          "text": "A small, thin branch from a tree or bush; a twig; a branch.",
+          "examples": [
+            "The beaver's dam was made out of sticks."
+          ]
+        },
+        {
+          "text": "A relatively long, thin piece of wood, of any size.",
+          "examples": [
+            "I found several good sticks in the brush heap.",
+            "What do you call a boomerang that won't come back? A stick."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cut a piece of wood to be the stick member of a cope-and-stick joint.",
+          "examples": []
+        },
+        {
+          "text": "To compose; to set, or arrange, in a composing stick.",
+          "examples": [
+            "to stick type"
+          ]
+        },
+        {
+          "text": "To furnish or set with sticks.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The tendency to stick (remain stuck), stickiness. The traction of tires on the road surface.",
+          "examples": []
+        },
+        {
+          "text": "The traction of tires on the road surface.",
+          "examples": []
+        },
+        {
+          "text": "That which sticks (remains attached to another surface). The amount of fishing line resting on the water surface before a cast; line stick.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become or remain attached; to adhere.",
+          "examples": [
+            "The tape will not stick if it melts."
+          ]
+        },
+        {
+          "text": "To jam; to stop moving.",
+          "examples": [
+            "The lever sticks if you push it too far up."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Likely to stick; sticking, sticky.",
+          "examples": [
+            "A non-stick pan. A stick plaster.",
+            "A sticker type of glue. The stickest kind of gum."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The customary length (according to the material used) of a piece or roll of textile fabrics imported from Flanders.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

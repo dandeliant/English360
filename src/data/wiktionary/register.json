@@ -1,0 +1,44 @@
+{
+  "lemma": "register",
+  "slug": "register",
+  "fetchedAt": "2026-05-16T23:46:38.986Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A formal recording of names, events, transactions, etc.",
+          "examples": [
+            "The teacher took the register by calling out each child's name."
+          ]
+        },
+        {
+          "text": "A book of such entries.",
+          "examples": []
+        },
+        {
+          "text": "An entry in such a book.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To enter in a register; to enlist.",
+          "examples": []
+        },
+        {
+          "text": "To sign-up, especially to vote.",
+          "examples": []
+        },
+        {
+          "text": "To record, especially in writing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

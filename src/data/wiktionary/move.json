@@ -1,0 +1,52 @@
+{
+  "lemma": "move",
+  "slug": "move",
+  "fetchedAt": "2026-05-16T23:45:54.771Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To change place or posture; to go, in any manner, from one place or position to another.",
+          "examples": [
+            "A ship moves rapidly.",
+            "I was sitting on the sofa for a long time, feeling too lazy to move."
+          ]
+        },
+        {
+          "text": "To act; to take action; to begin to act",
+          "examples": [
+            "to move in a matter",
+            "Come on guys, let's move: there's work to do!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of moving; a movement.",
+          "examples": [
+            "A slight move of the tiller, and the boat will go off course.",
+            "The drummer Cynthia praised her best friends' dance moves to the music."
+          ]
+        },
+        {
+          "text": "An act for the attainment of an object; a step in the execution of a plan or purpose.",
+          "examples": [
+            "He made another move towards becoming a naturalized citizen."
+          ]
+        },
+        {
+          "text": "A formalized or practiced action used in athletics, dance, physical exercise, self-defense, hand-to-hand combat, etc.",
+          "examples": [
+            "She always gets spontaneous applause for that one move.",
+            "He can win a match with that one move."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

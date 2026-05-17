@@ -1,0 +1,44 @@
+{
+  "lemma": "labour",
+  "slug": "labour",
+  "fetchedAt": "2026-05-16T23:45:23.410Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An effort expended on a particular task; toil, work.",
+          "examples": []
+        },
+        {
+          "text": "That which requires hard work for its accomplishment; that which demands effort.",
+          "examples": []
+        },
+        {
+          "text": "Workers in general; the working class, the workforce; sometimes specifically the labour movement, organised labour.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To toil, to work.",
+          "examples": []
+        },
+        {
+          "text": "To belabour, to emphasise or expand upon (a point in a debate, etc).",
+          "examples": [
+            "I think we've all got the idea. There's no need to labour the point."
+          ]
+        },
+        {
+          "text": "To be oppressed with difficulties or disease; to do one's work under conditions which make it especially hard or wearisome; to move slowly, as against opposition, or under a burden.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

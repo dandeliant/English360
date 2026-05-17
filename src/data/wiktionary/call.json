@@ -1,0 +1,55 @@
+{
+  "lemma": "call",
+  "slug": "call",
+  "fetchedAt": "2026-05-16T23:43:37.897Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reach out with one's voice. To request, summon, or beckon.",
+          "examples": [
+            "That person is hurt; call for help!",
+            "\"Supper's ready,\" called Dad from the kitchen."
+          ]
+        },
+        {
+          "text": "To request, summon, or beckon.",
+          "examples": [
+            "That person is hurt; call for help!"
+          ]
+        },
+        {
+          "text": "To cry or shout.",
+          "examples": [
+            "\"Supper's ready,\" called Dad from the kitchen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A cry or shout.",
+          "examples": [
+            "He heard a call from the other side of the room."
+          ]
+        },
+        {
+          "text": "The characteristic cry of a bird or other animal.",
+          "examples": [
+            "That sound is the distinctive call of the cuckoo bird."
+          ]
+        },
+        {
+          "text": "A beckoning or summoning.",
+          "examples": [
+            "I had to yield to the call of the wild."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

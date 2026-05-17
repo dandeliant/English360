@@ -1,0 +1,100 @@
+{
+  "lemma": "even",
+  "slug": "even",
+  "fetchedAt": "2026-05-16T23:44:17.729Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Flat and level.",
+          "examples": [
+            "Clear out those rocks. The surface must be even."
+          ]
+        },
+        {
+          "text": "Without great variation.",
+          "examples": [
+            "Despite her fear, she spoke in an even voice."
+          ]
+        },
+        {
+          "text": "Equal in proportion, quantity, size, etc.",
+          "examples": [
+            "The distribution of food must be even.",
+            "Call it even."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make flat and level.",
+          "examples": [
+            "We need to even this playing field; the west goal is too low."
+          ]
+        },
+        {
+          "text": "To equal or equate; to make the same.",
+          "examples": []
+        },
+        {
+          "text": "To be equal.",
+          "examples": [
+            "Thrice nine evens twenty seven."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Exactly; just; fully.",
+          "examples": [
+            "I fulfilled my instructions even as I had promised.",
+            "You are leaving tonight? — Even so."
+          ]
+        },
+        {
+          "text": "In reality (used to imply an extreme example in the case mentioned).",
+          "examples": [
+            "Even a blind squirrel finds an acorn sometimes.",
+            "Did you even make it through the front door?"
+          ]
+        },
+        {
+          "text": "Used to emphasise a comparative.",
+          "examples": [
+            "I was strong before, but now I am even stronger."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An even number.",
+          "examples": [
+            "So let's see. There are two evens here and three odds."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Evening.",
+          "examples": [
+            "We'll meet at even, when the sun is set."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

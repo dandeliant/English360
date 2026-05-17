@@ -1,0 +1,59 @@
+{
+  "lemma": "land",
+  "slug": "land",
+  "fetchedAt": "2026-05-16T23:45:25.576Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of Earth which is not covered by oceans or other bodies of water.",
+          "examples": [
+            "Most insects live on land."
+          ]
+        },
+        {
+          "text": "Real estate or landed property; a partitioned and measurable area which is owned and acquired and on which buildings and structures can be built and erected.",
+          "examples": [
+            "There are 50 acres of land in this estate."
+          ]
+        },
+        {
+          "text": "A country or region.",
+          "examples": [
+            "They come from a faraway land."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To descend to a surface, especially from the air.",
+          "examples": [
+            "The plane is about to land."
+          ]
+        },
+        {
+          "text": "To alight, to descend from a vehicle.",
+          "examples": []
+        },
+        {
+          "text": "To come into rest.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "lant; urine",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

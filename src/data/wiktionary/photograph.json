@@ -1,0 +1,36 @@
+{
+  "lemma": "photograph",
+  "slug": "photograph",
+  "fetchedAt": "2026-05-16T23:46:22.841Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A picture created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take a photograph (of).",
+          "examples": []
+        },
+        {
+          "text": "To fix permanently in the memory etc.",
+          "examples": []
+        },
+        {
+          "text": "To appear in a photograph.",
+          "examples": [
+            "She photographs well. The camera loves her."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

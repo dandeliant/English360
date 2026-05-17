@@ -1,0 +1,65 @@
+{
+  "lemma": "ear",
+  "slug": "ear",
+  "fetchedAt": "2026-05-16T23:44:09.312Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The organ of hearing, consisting of the pinna or auricle, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
+          "examples": []
+        },
+        {
+          "text": "The external part of the organ of hearing, the auricle.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take in with the ears; to hear.",
+          "examples": []
+        },
+        {
+          "text": "To hold by the ears.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The fruiting body of a grain plant.",
+          "examples": [
+            "He is in the fields, harvesting ears of corn."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put forth ears in growing; to form ears, as grain does.",
+          "examples": [
+            "This corn ears well."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To plough.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

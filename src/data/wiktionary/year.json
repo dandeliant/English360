@@ -1,0 +1,36 @@
+{
+  "lemma": "year",
+  "slug": "year",
+  "fetchedAt": "2026-05-16T23:47:59.893Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.",
+          "examples": [
+            "we moved to this town a year ago; I quit smoking exactly one year ago"
+          ]
+        },
+        {
+          "text": "The time taken for the Earth to return to the same position along the ecliptic, completing a full cycle of seasons; a tropical year or solar year.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of here.",
+          "examples": []
+        },
+        {
+          "text": "Pronunciation spelling of hear.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

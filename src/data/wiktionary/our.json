@@ -1,0 +1,41 @@
+{
+  "lemma": "our",
+  "slug": "our",
+  "fetchedAt": "2026-05-16T23:46:13.209Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Belonging to us, excluding the person(s) being addressed .",
+          "examples": [
+            "Sorry, you're not invited to our party."
+          ]
+        },
+        {
+          "text": "Belonging to us, including the person(s) being addressed .",
+          "examples": [
+            "We must try to save our marriage for the sake of our children."
+          ]
+        },
+        {
+          "text": "Of, from, or belonging to any entity that the speaker is a part of or identifies with, such as place of employment or education, nation, region, language, etc.",
+          "examples": [
+            "Our safety record at ABC Widgets is very good.",
+            "In English, our nouns do not generally have gender."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of are.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

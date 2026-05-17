@@ -1,0 +1,149 @@
+{
+  "lemma": "stay",
+  "slug": "stay",
+  "fetchedAt": "2026-05-16T23:47:06.236Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remain in a particular place, especially for a definite or short period of time; sojourn; abide.",
+          "examples": [
+            "We stayed in Hawaii for a week. I can only stay for an hour."
+          ]
+        },
+        {
+          "text": "To continue to have a particular quality.",
+          "examples": [
+            "Wear gloves so your hands stay warm.",
+            "Promise me you'll always stay/remain my little prince."
+          ]
+        },
+        {
+          "text": "To prop; support; sustain; hold up; steady.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Continuance or a period of time spent in a place; abode for an indefinite time.",
+          "examples": [
+            "I hope you enjoyed your stay in Hawaii."
+          ]
+        },
+        {
+          "text": "A postponement, especially of an execution or other punishment.",
+          "examples": [
+            "The governor granted a stay of execution."
+          ]
+        },
+        {
+          "text": "A stop; a halt; a break or cessation of action, motion, or progress.",
+          "examples": [
+            "stand at a stay"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prop; a support.",
+          "examples": []
+        },
+        {
+          "text": "A piece of stiff material, such as plastic or whalebone, used to stiffen a piece of clothing.",
+          "examples": [
+            "Where are the stays for my collar?"
+          ]
+        },
+        {
+          "text": "A corset.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Aspect marker indicating frequency or permanence.",
+          "examples": [
+            "He stay fighting."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A strong rope or wire supporting a mast, and leading from one masthead down to some other, or other part of the vessel.",
+          "examples": []
+        },
+        {
+          "text": "A guy, rope, or wire supporting or stabilizing a platform, such as a bridge, a pole, such as a tentpole, the mast of a derrick, or other structural element.",
+          "examples": [
+            "The engineer insisted on using stays for the scaffolding."
+          ]
+        },
+        {
+          "text": "The transverse piece in a chain-cable link.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To brace or support with a stay or stays",
+          "examples": [
+            "stay a mast"
+          ]
+        },
+        {
+          "text": "To incline forward, aft, or to one side by means of stays.",
+          "examples": []
+        },
+        {
+          "text": "To tack; put on the other tack.",
+          "examples": [
+            "to stay ship"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Steep; ascending.",
+          "examples": []
+        },
+        {
+          "text": "Steeply pitched.",
+          "examples": []
+        },
+        {
+          "text": "Difficult to negotiate; not easy to access; sheer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Steeply.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

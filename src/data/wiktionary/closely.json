@@ -1,0 +1,24 @@
+{
+  "lemma": "closely",
+  "slug": "closely",
+  "fetchedAt": "2026-05-16T23:43:48.137Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a close manner.",
+          "examples": [
+            "Finnish and Estonian are closely related languages.",
+            "The borderline between East and West Berlin was very closely guarded."
+          ]
+        },
+        {
+          "text": "secretly; privately",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

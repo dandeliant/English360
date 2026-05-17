@@ -1,0 +1,45 @@
+{
+  "lemma": "than",
+  "slug": "than",
+  "fetchedAt": "2026-05-16T23:47:21.220Z",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Used in comparisons, to introduce the basis of comparison.",
+          "examples": [
+            "The artist worried more than was necessary: there were a lot of people at the exhibition, more than came last year.",
+            "she's taller than I am; she found his advice more witty than helpful; we have less work today than we had yesterday; We had no (other) choice than to return home; I love you more than (what) she does, but less than he, or than I do your sisters."
+          ]
+        },
+        {
+          "text": "Because; for.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Introduces a comparison, and is associated with comparatives, and with words such as more, less, and fewer. Typically, it seeks to measure the force of an adjective or similar description between two predicates.",
+          "examples": [
+            "Patients diagnosed more recently are probably surviving an average of longer than two years.",
+            "No player is more skillful than Greg."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At that time; then.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

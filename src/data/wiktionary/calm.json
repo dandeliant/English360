@@ -1,0 +1,58 @@
+{
+  "lemma": "calm",
+  "slug": "calm",
+  "fetchedAt": "2026-05-16T23:43:39.250Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Peaceful, quiet, especially free from anger and anxiety.",
+          "examples": []
+        },
+        {
+          "text": "Free of noise and disturbance.",
+          "examples": []
+        },
+        {
+          "text": "with few or no waves on the surface; not rippled.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of being calm; peacefulness; absence of worry, anger, fear or other strong negative emotion.",
+          "examples": []
+        },
+        {
+          "text": "The state of being calm; absence of noise and disturbance.",
+          "examples": []
+        },
+        {
+          "text": "The absence of wind; a period of time without wind.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make calm.",
+          "examples": [
+            "to calm a crying baby",
+            "to calm the passions"
+          ]
+        },
+        {
+          "text": "To become calm.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

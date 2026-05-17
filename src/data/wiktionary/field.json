@@ -1,0 +1,44 @@
+{
+  "lemma": "field",
+  "slug": "field",
+  "fetchedAt": "2026-05-16T23:44:27.684Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A land area free of woodland, cities, and towns; an area of open country.",
+          "examples": [
+            "There are several species of wild flowers growing in this field."
+          ]
+        },
+        {
+          "text": "The open country near or belonging to a town or city.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To intercept or catch (a ball) and play it.",
+          "examples": []
+        },
+        {
+          "text": "To be the team catching and throwing the ball, as opposed to hitting it.",
+          "examples": [
+            "The blue team are fielding first, while the reds are batting."
+          ]
+        },
+        {
+          "text": "To place in a game.",
+          "examples": [
+            "The away team fielded two new players and the second-choice goalkeeper."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

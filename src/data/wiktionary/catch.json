@@ -1,0 +1,55 @@
+{
+  "lemma": "catch",
+  "slug": "catch",
+  "fetchedAt": "2026-05-16T23:43:44.216Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of seizing or capturing.",
+          "examples": [
+            "The catch of the perpetrator was the product of a year of police work."
+          ]
+        },
+        {
+          "text": "The act of catching an object in motion, especially a ball.",
+          "examples": [
+            "The player made an impressive catch.",
+            "Nice catch!"
+          ]
+        },
+        {
+          "text": "The act of noticing, understanding or hearing.",
+          "examples": [
+            "Good catch. I never would have remembered that."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To capture, overtake. To capture or snare (someone or something which would rather escape). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I hope I catch a fish.",
+            "He ran but we caught him at the exit."
+          ]
+        },
+        {
+          "text": "To capture or snare (someone or something which would rather escape). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I hope I catch a fish.",
+            "He ran but we caught him at the exit."
+          ]
+        },
+        {
+          "text": "To entrap or trip up a person; to deceive.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

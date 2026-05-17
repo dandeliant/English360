@@ -1,0 +1,26 @@
+{
+  "lemma": "hour",
+  "slug": "hour",
+  "fetchedAt": "2026-05-16T23:45:03.511Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A unit of time of one twenty-fourth of a day (sixty minutes).",
+          "examples": [
+            "I spent an hour at lunch.",
+            "There's a bus at 20 past the hour."
+          ]
+        },
+        {
+          "text": "A season, moment, or time.",
+          "examples": [
+            "Don't come home ever again at this unearthly hour."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

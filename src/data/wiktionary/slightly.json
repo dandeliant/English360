@@ -1,0 +1,25 @@
+{
+  "lemma": "slightly",
+  "slug": "slightly",
+  "fetchedAt": "2026-05-16T23:46:54.192Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Slenderly; delicately.",
+          "examples": [
+            "He was slightly built, but tall."
+          ]
+        },
+        {
+          "text": "To a small extent or degree.",
+          "examples": [
+            "He weighed slightly less than his wife who was a foot shorter."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

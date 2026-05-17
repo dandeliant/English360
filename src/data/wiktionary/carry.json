@@ -1,0 +1,50 @@
+{
+  "lemma": "carry",
+  "slug": "carry",
+  "fetchedAt": "2026-05-16T23:43:42.013Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lift (something) and take it to another place; to transport (something) by lifting.",
+          "examples": []
+        },
+        {
+          "text": "To notionally transfer from one place (such as a country, book, or column) to another.",
+          "examples": [
+            "to carry the war from Greece into Asia",
+            "to carry an account to the ledger"
+          ]
+        },
+        {
+          "text": "To convey by extension or continuance; to extend.",
+          "examples": [
+            "The builders are going to carry the chimney through the roof.",
+            "They would have carried the road ten miles further, but ran out of materials."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A manner of transporting or lifting something; the grip or position in which something is carried.",
+          "examples": [
+            "Adjust your carry from time to time so that you don’t tire too quickly."
+          ]
+        },
+        {
+          "text": "A tract of land over which boats or goods are carried between two bodies of navigable water; a portage.",
+          "examples": []
+        },
+        {
+          "text": "The bit or digit that is carried in an addition operation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

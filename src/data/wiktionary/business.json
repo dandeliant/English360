@@ -1,0 +1,52 @@
+{
+  "lemma": "business",
+  "slug": "business",
+  "fetchedAt": "2026-05-16T23:43:34.666Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A specific commercial enterprise or establishment.",
+          "examples": [
+            "I left my father's business."
+          ]
+        },
+        {
+          "text": "A person's occupation, work, or trade.",
+          "examples": [
+            "He is in the motor and insurance businesses.",
+            "I'm going to Las Vegas on business."
+          ]
+        },
+        {
+          "text": "Commercial, industrial, or professional activity.",
+          "examples": [
+            "He's such a poor cook, I can't believe he's still in business!",
+            "We do business all over the world."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, to, pertaining to, or used for purposes of conducting trade, commerce, governance, advocacy or other professional purposes.",
+          "examples": [
+            "Please do not use this phone for personal calls; it is a business phone."
+          ]
+        },
+        {
+          "text": "Professional, businesslike, having concern for good business practice.",
+          "examples": []
+        },
+        {
+          "text": "Supporting business, conducive to the conduct of business.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

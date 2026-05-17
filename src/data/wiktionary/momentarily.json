@@ -1,0 +1,27 @@
+{
+  "lemma": "momentarily",
+  "slug": "momentarily",
+  "fetchedAt": "2026-05-16T23:45:51.643Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a momentary manner; for a moment or instant.",
+          "examples": []
+        },
+        {
+          "text": "In a moment or very soon; any minute now, any time now.",
+          "examples": [
+            "The system will restart momentarily."
+          ]
+        },
+        {
+          "text": "Progressively; moment by moment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

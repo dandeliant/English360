@@ -1,0 +1,34 @@
+{
+  "lemma": "pollen",
+  "slug": "pollen",
+  "fetchedAt": "2026-05-16T23:46:24.683Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fine, granular substance produced in flowers.",
+          "examples": []
+        },
+        {
+          "text": "Pollen grains (microspores) produced in the anthers of flowering plants. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Fine powder in general, fine flour.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover with, or as if with, pollen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

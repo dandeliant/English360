@@ -1,0 +1,62 @@
+{
+  "lemma": "for",
+  "slug": "for",
+  "fetchedAt": "2026-05-16T23:44:33.296Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Fore.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Because.",
+          "examples": [
+            "I had to stay with my wicked stepmother, for I had nowhere else to go."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Towards; in the direction of.",
+          "examples": [
+            "The astronauts headed for the moon.",
+            "Run for the hills!"
+          ]
+        },
+        {
+          "text": "Leading towards in time or circumstance.",
+          "examples": [
+            "We're heading for bankruptcy.",
+            "He's set for graduating this year."
+          ]
+        },
+        {
+          "text": "Directed at; intended to belong to.",
+          "examples": [
+            "I have something for you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "To; (the particle for marking the following verb as an infinitive).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

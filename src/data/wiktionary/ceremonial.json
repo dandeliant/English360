@@ -1,0 +1,34 @@
+{
+  "lemma": "ceremonial",
+  "slug": "ceremonial",
+  "fetchedAt": "2026-05-16T23:43:45.978Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, consisting of, or used in a ceremony.",
+          "examples": []
+        },
+        {
+          "text": "Used only for the purpose of ceremony; symbolic.",
+          "examples": []
+        },
+        {
+          "text": "Synonym of ceremonious (“of a person: fond of ceremony or ritual, or of observing strict etiquette or formality; punctilious”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A ceremony, or series of ceremonies, prescribed by ritual.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

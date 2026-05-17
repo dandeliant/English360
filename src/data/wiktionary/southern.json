@@ -1,0 +1,36 @@
+{
+  "lemma": "southern",
+  "slug": "southern",
+  "fetchedAt": "2026-05-16T23:47:01.203Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, facing, situated in, or related to the south.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to a southern region, especially Southern Europe or the southern United States.",
+          "examples": [
+            "The southern climate."
+          ]
+        },
+        {
+          "text": "Of a wind: blowing from the south; southerly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of southerner.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

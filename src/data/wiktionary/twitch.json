@@ -1,0 +1,57 @@
+{
+  "lemma": "twitch",
+  "slug": "twitch",
+  "fetchedAt": "2026-05-16T23:47:38.227Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A brief, small (sometimes involuntary) movement out of place and then back again; a spasm.",
+          "examples": [
+            "I saw a little twitch in the man's face, and knew he was lying."
+          ]
+        },
+        {
+          "text": "Action of spotting or seeking out a bird, especially a rare one.",
+          "examples": []
+        },
+        {
+          "text": "A stick with a hole in one end through which passes a loop, which can be drawn tightly over the upper lip or an ear of a horse and twisted to keep the animal quiet during minor surgery.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To perform a twitch; spasm.",
+          "examples": [
+            "His fingers were nervously twitching."
+          ]
+        },
+        {
+          "text": "To cause to twitch; spasm.",
+          "examples": []
+        },
+        {
+          "text": "To jerk sharply and briefly.",
+          "examples": [
+            "to twitch somebody's sleeve for attention"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "couch grass (Elymus repens; a species of grass, often considered as a weed)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

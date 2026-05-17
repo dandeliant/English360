@@ -1,0 +1,81 @@
+{
+  "lemma": "something",
+  "slug": "something",
+  "fetchedAt": "2026-05-16T23:47:00.353Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "An uncertain or unspecified thing; one thing.",
+          "examples": [
+            "I must have forgotten to pack something, but I can't think what.",
+            "I have something for you in my bag."
+          ]
+        },
+        {
+          "text": "A quality to a moderate degree.",
+          "examples": [
+            "The performance was something of a disappointment.",
+            "That child is something of a genius."
+          ]
+        },
+        {
+          "text": "A talent or quality that is difficult to specify.",
+          "examples": [
+            "She has a certain something."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a characteristic that the speaker cannot specify.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Somewhat; to a degree.",
+          "examples": [
+            "The baby looks something like his father."
+          ]
+        },
+        {
+          "text": "Used to adverbialise a following adjective",
+          "examples": [
+            "I miss them something terrible/rotten. (I miss them terribly)"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Designates an action whose name is forgotten by, unknown or unimportant to the user, e.g. from words of a song.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An object whose nature is yet to be defined.",
+          "examples": []
+        },
+        {
+          "text": "An object whose name is forgotten by, unknown or unimportant to the user, e.g., from words of a song. Also used to refer to an object earlier indefinitely referred to as 'something' (pronoun sense).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

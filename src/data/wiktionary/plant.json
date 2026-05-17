@@ -1,0 +1,44 @@
+{
+  "lemma": "plant",
+  "slug": "plant",
+  "fetchedAt": "2026-05-16T23:46:23.787Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An organism that is not an animal, especially an organism capable of photosynthesis, and typically a small or herbaceous organism of this kind, rather than a tree.",
+          "examples": [
+            "The garden had a couple of trees, and a cluster of colourful plants around the border."
+          ]
+        },
+        {
+          "text": "An organism of the kingdom Plantae, and now specifically, a living organism of the Embryophyta (land plants) or of the Chlorophyta (green algae), a eukaryote that includes double-membraned chloroplasts in its cells containing chlorophyll a and b, or any organism closely related to such an organism.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place (a seed or plant) in soil or other substrate in order that it may live and grow.",
+          "examples": []
+        },
+        {
+          "text": "To furnish or supply with plants.",
+          "examples": [
+            "to plant a garden, an orchard, or a forest"
+          ]
+        },
+        {
+          "text": "To place (an object, or sometimes a person), often with the implication of intending deceit.",
+          "examples": [
+            "That gun’s not mine! It was planted there by the real murderer!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

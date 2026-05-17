@@ -1,0 +1,71 @@
+{
+  "lemma": "do",
+  "slug": "do",
+  "fetchedAt": "2026-05-16T23:44:04.111Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "A syntactic marker. A syntactic marker in a question whose main verb is not another auxiliary verb or be.",
+          "examples": [
+            "Do you go there often?",
+            "I do not go there often."
+          ]
+        },
+        {
+          "text": "A syntactic marker in a question whose main verb is not another auxiliary verb or be.",
+          "examples": [
+            "Do you go there often?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A party, celebration, social function; usually of moderate size and formality.",
+          "examples": [
+            "We’re having a bit of a do on Saturday to celebrate my birthday."
+          ]
+        },
+        {
+          "text": "Clipping of hairdo.",
+          "examples": [
+            "Nice do!",
+            "I don't like to spend time on my hairstyle, so I usually just wear a do-rag."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A syllable used in solfège to represent the first and eighth tonic of a major scale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Abbreviation of ditto.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after el and before do one in a duodecimal system. Written 10, decimal value 12.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

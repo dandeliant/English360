@@ -1,0 +1,47 @@
+{
+  "lemma": "miniature",
+  "slug": "miniature",
+  "fetchedAt": "2026-05-16T23:45:48.030Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Greatly diminished size or form; reduced scale.",
+          "examples": []
+        },
+        {
+          "text": "A small version of something; a model of reduced scale.",
+          "examples": [
+            "There was a miniature of a whaling ship in a glass bottle over the mantelpiece."
+          ]
+        },
+        {
+          "text": "A small, highly detailed painting, a portrait miniature.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Smaller than normal.",
+          "examples": [
+            "I find miniature dogs annoying; they seem to yap more than full-size dogs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make smaller than normal; to reproduce in miniature.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

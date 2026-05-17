@@ -1,0 +1,29 @@
+{
+  "lemma": "itself",
+  "slug": "itself",
+  "fetchedAt": "2026-05-16T23:45:20.139Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "it; A thing as the object of a verb or preposition that also appears as the subject",
+          "examples": [
+            "When the opportunity presented itself, no feasible course of action suggested itself (to us)."
+          ]
+        },
+        {
+          "text": "it; used to intensify the subject, especially to emphasize that it is the only participant in the predicate",
+          "examples": [
+            "The door itself is quite heavy."
+          ]
+        },
+        {
+          "text": "it; used to refer back to an earlier subject",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

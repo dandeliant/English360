@@ -1,0 +1,34 @@
+{
+  "lemma": "petal",
+  "slug": "petal",
+  "fetchedAt": "2026-05-16T23:46:21.979Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the component parts of the corolla of a flower. It applies particularly, but not necessarily only, when the corolla consists of separate parts, that is when the petals are not connately fused. Petals are often brightly colored.",
+          "examples": []
+        },
+        {
+          "text": "The labia (majora).",
+          "examples": []
+        },
+        {
+          "text": "Term of endearment.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spread out from, like the petals of a flower",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

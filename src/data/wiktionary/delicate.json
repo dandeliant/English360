@@ -1,0 +1,52 @@
+{
+  "lemma": "delicate",
+  "slug": "delicate",
+  "fetchedAt": "2026-05-16T23:44:00.568Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Easily damaged or requiring careful handling.",
+          "examples": [
+            "Those clothes are made from delicate lace.",
+            "The negotiations were very delicate."
+          ]
+        },
+        {
+          "text": "Characterized by a fine structure or thin lines.",
+          "examples": [
+            "Her face was delicate.",
+            "The spider wove a delicate web."
+          ]
+        },
+        {
+          "text": "Intended for use with fragile items.",
+          "examples": [
+            "Set the washing machine to the delicate cycle."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A delicate item of clothing, especially underwear or lingerie.",
+          "examples": [
+            "Don't put that in with your jeans: it's a delicate!"
+          ]
+        },
+        {
+          "text": "A choice dainty; a delicacy.",
+          "examples": []
+        },
+        {
+          "text": "A delicate, luxurious, or effeminate person.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

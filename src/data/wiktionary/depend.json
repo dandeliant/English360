@@ -1,0 +1,26 @@
+{
+  "lemma": "depend",
+  "slug": "depend",
+  "fetchedAt": "2026-05-16T23:44:01.442Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be contingent or conditioned; to have something as a necessary condition .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with on or upon; or with of]",
+          "examples": [
+            "We would like to go skiing, but it depends on the amount of snow."
+          ]
+        },
+        {
+          "text": "To trust; to have confidence; to rely. [with on or upon ]",
+          "examples": [
+            "we should all be able to depend on the word or assurance of our friends",
+            "we depend on the mailman to come at the usual time."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

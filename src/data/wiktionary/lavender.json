@@ -1,0 +1,50 @@
+{
+  "lemma": "lavender",
+  "slug": "lavender",
+  "fetchedAt": "2026-05-16T23:45:28.841Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of a group of European plants, genus, Lavandula, of the mint family.",
+          "examples": []
+        },
+        {
+          "text": "A pale bluish purple colour, like that of the lavender flower.",
+          "examples": [
+            "lavender:",
+            "web lavender:"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a pale purple colour.",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to LGBT people and rights.",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to lesbian feminism; opposing heterosexism. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate or perfume with lavender.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

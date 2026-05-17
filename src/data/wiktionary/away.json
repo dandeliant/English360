@@ -1,0 +1,86 @@
+{
+  "lemma": "away",
+  "slug": "away",
+  "fetchedAt": "2026-05-16T23:43:16.875Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "From a place, hence.",
+          "examples": [
+            "He went away on vacation."
+          ]
+        },
+        {
+          "text": "Aside; off; in another direction.",
+          "examples": [
+            "I tried to approach him, but he turned away."
+          ]
+        },
+        {
+          "text": "Aside, so as to discard something.",
+          "examples": [
+            "throw away, chuck away, toss away"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Away with you! Go away! Begone!",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not here, gone, absent, unavailable, traveling; on vacation.",
+          "examples": [
+            "The master is away from home.",
+            "Would you pick up my mail while I'm away."
+          ]
+        },
+        {
+          "text": "At a specified distance in space, time, or figuratively.",
+          "examples": [
+            "He's miles away by now.",
+            "Spring is still a month away."
+          ]
+        },
+        {
+          "text": "Not on one's home territory.",
+          "examples": [
+            "This is the entrance for away supporters.",
+            "Next, they are playing away in Dallas."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To depart; to go to another place.",
+          "examples": [
+            "At 9 o'clock sharp he awayed to bed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Misspelling of aweigh.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "rest",
+  "slug": "rest",
+  "fetchedAt": "2026-05-16T23:46:43.917Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Relief from work or activity by sleeping; sleep.",
+          "examples": [
+            "I need to get a good rest tonight; I was up late last night.",
+            "The sun sets, and the workers go to their rest."
+          ]
+        },
+        {
+          "text": "Any relief from exertion; a state of quiet and relaxation.",
+          "examples": [
+            "We took a rest at the top of the hill to get our breath back."
+          ]
+        },
+        {
+          "text": "Peace; freedom from worry, anxiety, annoyances; tranquility.",
+          "examples": [
+            "It was nice to have a rest from the phone ringing when I unplugged it for a while."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cease from action, motion, work, or performance of any kind; stop; desist; be without motion.",
+          "examples": [
+            "My day's work is over; now I will rest.",
+            "I shall not rest until I have uncovered the truth."
+          ]
+        },
+        {
+          "text": "To come to a pause or an end; end.",
+          "examples": []
+        },
+        {
+          "text": "To be free from that which harasses or disturbs; be quiet or still; be undisturbed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which remains.",
+          "examples": [
+            "She ate some of the food, but was not hungry enough to eat it all, so she put the rest in the refrigerator to finish later."
+          ]
+        },
+        {
+          "text": "Those not included in a proposition or description; the remainder; others.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To continue to be, remain, be left in a certain way.",
+          "examples": [
+            "You can rest assured that a sick child will say when it's again ready to eat, so it won't starve and doesn't need to be cajoled into eating.",
+            "Rest you merry."
+          ]
+        },
+        {
+          "text": "To keep a certain way.",
+          "examples": [
+            "God rest you merry, gentlemen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To arrest.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

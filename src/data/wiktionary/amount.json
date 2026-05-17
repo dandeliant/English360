@@ -1,0 +1,52 @@
+{
+  "lemma": "amount",
+  "slug": "amount",
+  "fetchedAt": "2026-05-16T23:43:05.465Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The total, aggregate or sum of material .",
+          "examples": [
+            "The amount of atmospheric pollution threatens a health crisis."
+          ]
+        },
+        {
+          "text": "A quantity or volume.",
+          "examples": [
+            "Pour a small amount of water into the dish.",
+            "The dogs need different amounts of food."
+          ]
+        },
+        {
+          "text": "The number (the sum) of elements in a set.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To total or evaluate.",
+          "examples": [
+            "The money in my pocket amounts to three dollars and change."
+          ]
+        },
+        {
+          "text": "To be the tantamount to; to reach up to the level of.",
+          "examples": [
+            "He was a pretty good student, but never amounted to much professionally.",
+            "His response amounted to gross insubordination."
+          ]
+        },
+        {
+          "text": "To go up; to ascend.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,50 @@
+{
+  "lemma": "incline",
+  "slug": "incline",
+  "fetchedAt": "2026-05-16T23:45:11.573Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bend or move (something) out of a given plane or direction, often the horizontal or vertical.",
+          "examples": [
+            "He had to incline his body against the gusts to avoid being blown down in the storm.",
+            "The people following the coffin inclined their heads in grief."
+          ]
+        },
+        {
+          "text": "To slope.",
+          "examples": [
+            "Over the centuries the wind made the walls of the farmhouse incline."
+          ]
+        },
+        {
+          "text": "To tend to do or believe something, or move or be moved in a certain direction, away from a point of view, attitude, etc.",
+          "examples": [
+            "He inclines to believe anything he reads in the newspapers.",
+            "I'm inclined to give up smoking after hearing of the risks to my health."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A slope.",
+          "examples": [
+            "To reach the building, we had to climb a steep incline."
+          ]
+        },
+        {
+          "text": "A portal of a subway tunnel.",
+          "examples": [
+            "the Pleasant Street Incline"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

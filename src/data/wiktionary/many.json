@@ -1,0 +1,62 @@
+{
+  "lemma": "many",
+  "slug": "many",
+  "fetchedAt": "2026-05-16T23:45:41.481Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "before a countable noun: A large, indefinite number of.",
+          "examples": [
+            "Not many such people enjoyed playing chess.",
+            "There are very many different ways to cook a meal."
+          ]
+        },
+        {
+          "text": "before a countable noun: Used to indicate, demonstrate or compare the number of people or things.",
+          "examples": [
+            "We don't need this many bananas. Put some back.",
+            "There may be as many as ten million species of insect."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A large, indefinite number of people or things.",
+          "examples": [
+            "Many are called, but few are chosen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A multitude; a great aggregate; a mass of people; the generality; the common herd.",
+          "examples": [
+            "Democracy must balance the rights of the few against the will of the many."
+          ]
+        },
+        {
+          "text": "A considerable number.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Existing in large number; numerous.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

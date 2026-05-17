@@ -1,0 +1,62 @@
+{
+  "lemma": "anchor",
+  "slug": "anchor",
+  "fetchedAt": "2026-05-16T23:43:06.418Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A tool used to moor a vessel to the bottom of a sea or river to resist movement.",
+          "examples": []
+        },
+        {
+          "text": "An iron device so shaped as to grip the bottom and hold a vessel at her berth by the chain or rope attached.",
+          "examples": []
+        },
+        {
+          "text": "The combined anchoring gear (anchor, rode, bill/peak and fittings such as bitts, cat, and windlass.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To connect an object, especially a ship or a boat, to a fixed point.",
+          "examples": []
+        },
+        {
+          "text": "To cast anchor; to come to anchor.",
+          "examples": [
+            "Our ship (or the captain) anchored in the stream."
+          ]
+        },
+        {
+          "text": "To stop; to fix or rest.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An anchorite or anchoress.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of anker.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

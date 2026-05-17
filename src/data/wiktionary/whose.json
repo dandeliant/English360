@@ -1,0 +1,60 @@
+{
+  "lemma": "whose",
+  "slug": "whose",
+  "fetchedAt": "2026-05-16T23:47:53.627Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Of whom, belonging to whom; which person's or people's.",
+          "examples": [
+            "Whose (wallet) is this?",
+            "We should buy a house. ~ With whose money?"
+          ]
+        },
+        {
+          "text": "Of whom, belonging to whom.",
+          "examples": [
+            "This is the man whose dog caused the accident.",
+            "Venus, whose sister is Serena, won the latest championship."
+          ]
+        },
+        {
+          "text": "Of which, belonging to which.",
+          "examples": [
+            "We saw several houses whose roofs were falling off."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "That or those of whom or belonging to whom.",
+          "examples": [
+            "Several people have lost their suitcases. Whose have you found?",
+            "He asked whose the umbrella was."
+          ]
+        },
+        {
+          "text": "That or those of whom or belonging to whom.",
+          "examples": [
+            "This car is blocking the way, but Mr Smith, whose it is, will be here shortly."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Contraction",
+      "definitions": [
+        {
+          "text": "Misspelling of who's.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

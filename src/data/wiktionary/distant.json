@@ -1,0 +1,38 @@
+{
+  "lemma": "distant",
+  "slug": "distant",
+  "fetchedAt": "2026-05-16T23:44:02.325Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Far off (physically, logically or mentally).",
+          "examples": [
+            "We heard a distant rumbling but didn't pay any more attention to it. She was surprised to find that her fiancé was a distant relative of hers. His distant look showed that he was not listening to me."
+          ]
+        },
+        {
+          "text": "Emotionally unresponsive or unwilling to express genuine feelings.",
+          "examples": [
+            "Ever since our argument, she has been totally distant toward me."
+          ]
+        },
+        {
+          "text": "Imported into a cable television system from a different market (and thus possibly incurring a copyright royalty).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "This term needs a definition. Please help out and add a definition, then remove the text {{rfdef}}.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

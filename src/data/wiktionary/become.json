@@ -1,0 +1,27 @@
+{
+  "lemma": "become",
+  "slug": "become",
+  "fetchedAt": "2026-05-16T23:43:21.696Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "begin to be; turn into . .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "She became a doctor when she was 25.",
+            "The weather will become cold after the sun goes down."
+          ]
+        },
+        {
+          "text": "To come about; happen; come into being; arise.",
+          "examples": [
+            "What became of him after he was let go?",
+            "It hath becomen so that many a man had to sterve."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

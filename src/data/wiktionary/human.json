@@ -1,0 +1,48 @@
+{
+  "lemma": "human",
+  "slug": "human",
+  "fetchedAt": "2026-05-16T23:45:07.089Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or belonging to the species Homo sapiens or its closest relatives.",
+          "examples": []
+        },
+        {
+          "text": "Having the nature or attributes of a human being.",
+          "examples": [
+            "To err is human; to forgive, divine.",
+            "She's only human, so give her a break!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A highly intelligent ape with fine and short body hair; the most abundant species of primate, with members found on every continent (Homo sapiens).",
+          "examples": [
+            "Humans share common ancestors with other apes."
+          ]
+        },
+        {
+          "text": "A human as contrasted from superficially similar but typically more powerful humanoid creatures; a member of the human race.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To behave as or become, or to cause to behave as or become, a human.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

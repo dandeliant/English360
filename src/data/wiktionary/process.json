@@ -1,0 +1,49 @@
+{
+  "lemma": "process",
+  "slug": "process",
+  "fetchedAt": "2026-05-16T23:46:30.417Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A series of events leading to a result or product.",
+          "examples": [
+            "This product of last month's quality standards committee is quite good, even though the process was flawed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To perform a particular process on a thing.",
+          "examples": []
+        },
+        {
+          "text": "To retrieve, store, classify, manipulate, transmit etc. (data, signals, etc.), especially using computer techniques.",
+          "examples": [
+            "We have processed the data using our proven techniques, and have come to the following conclusions."
+          ]
+        },
+        {
+          "text": "To think about a piece of information, or a concept, in order to assimilate it, and perhaps accept it in a modified state.",
+          "examples": [
+            "I didn't know she had a criminal record. That will take me a while to process."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To walk in a procession, especially in a liturgical context.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

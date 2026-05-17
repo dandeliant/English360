@@ -1,0 +1,106 @@
+{
+  "lemma": "that",
+  "slug": "that",
+  "fetchedAt": "2026-05-16T23:47:22.404Z",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.",
+          "examples": [
+            "He told me that the book is a good read.",
+            "I believe that it is true."
+          ]
+        },
+        {
+          "text": "Introducing a clause that is the subject of a verb, especially the 'be' verb or a verb expressing judgement, opinion, etc. As delayed subject.",
+          "examples": [
+            "It is almost certain that she will come.",
+            "It amazes me that people still believe this nonsense."
+          ]
+        },
+        {
+          "text": "As delayed subject.",
+          "examples": [
+            "It is almost certain that she will come.",
+            "It amazes me that people still believe this nonsense."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "The (thing, person, idea, etc) indicated or understood from context, especially if more remote physically, temporally or mentally than one designated as \"this\", or if expressing distinction.",
+          "examples": [
+            "That book is a good read. This one isn't.",
+            "That battle was in 1450."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The thing, person, idea, quality, event, action, or time indicated or understood from context, especially if more remote geographically, temporally or mentally than one designated as \"this\", or if expressing distinction. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "That's my car over there.",
+            "He went home, and after that I never saw him again."
+          ]
+        },
+        {
+          "text": "Used to refer to a noun phrase or statement just made.",
+          "examples": [
+            "They're getting divorced. What do you think about that?",
+            "They gave me the book about whales. That I've not yet read."
+          ]
+        },
+        {
+          "text": "Used to emphatically affirm or deny a previous statement or question.",
+          "examples": [
+            "The water is so cold! — That it is.",
+            "Would you like another piece of cake? — That I would!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To a given extent or degree. Denoting an equal degree.",
+          "examples": [
+            "Here's the measurement – the ribbon must be that long, no longer and no shorter.",
+            "She said we waited for three hours, but I'm sure it wasn't that long."
+          ]
+        },
+        {
+          "text": "Denoting an equal degree.",
+          "examples": [
+            "Here's the measurement – the ribbon must be that long, no longer and no shorter."
+          ]
+        },
+        {
+          "text": "Denoting 'as much', 'no less'.",
+          "examples": [
+            "She said we waited for three hours, but I'm sure it wasn't that long.",
+            "It didn't seem like ten miles, but actually it was that far."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something being indicated that is there; one of those.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

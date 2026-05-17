@@ -1,0 +1,167 @@
+{
+  "lemma": "one",
+  "slug": "one",
+  "fetchedAt": "2026-05-16T23:46:10.619Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO ICAO radiotelephony clear code (spelling-alphabet name) for the digit 1.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Oneida.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The number represented by the Arabic numeral 1; the numerical value equal to that cardinal number.",
+          "examples": [
+            "In some religions, there is more than one god.",
+            "In many cultures, a baby turns one year old a year after its birth."
+          ]
+        },
+        {
+          "text": "The first positive number in the set of natural numbers.",
+          "examples": []
+        },
+        {
+          "text": "The cardinality of the smallest nonempty set.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "One thing (among a group of others); one member of a group.",
+          "examples": [
+            "Any one of the boys.",
+            "Every one of the bank’s employees."
+          ]
+        },
+        {
+          "text": "The first mentioned of two things or people, as opposed to the other.",
+          "examples": [
+            "She offered him an apple and an orange; he took (the) one and left the other.",
+            "I am one of the few women who've climbed Everest."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The digit or figure 1.",
+          "examples": []
+        },
+        {
+          "text": "Used to briefly refer to a noun phrase understood by context A one-dollar bill.",
+          "examples": [
+            "I need some ones to make change.",
+            "Did you hear the one about the agnostic dyslexic insomniac?"
+          ]
+        },
+        {
+          "text": "A one-dollar bill.",
+          "examples": [
+            "I need some ones to make change."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a period of time, being particular.",
+          "examples": [
+            "One day the prince set forth to kill the dragon that had brought terror to his father’s kingdom for centuries."
+          ]
+        },
+        {
+          "text": "Being a single, unspecified thing; a; any.",
+          "examples": [
+            "My aunt used to say, \"One day is just like the other.\""
+          ]
+        },
+        {
+          "text": "Sole, only.",
+          "examples": [
+            "He is the one man who can help you.",
+            "The one male audience member at the concert is invited on stage."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "A single.",
+          "examples": [
+            "There was one box of biscuits available."
+          ]
+        },
+        {
+          "text": "Used for emphasis in place of a Being a preeminent example.",
+          "examples": [
+            "He is one hell of a guy.",
+            "The town records from 1843 showed the overnight incarceration of one “A. Lincoln”."
+          ]
+        },
+        {
+          "text": "Being a preeminent example.",
+          "examples": [
+            "He is one hell of a guy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to become one; to gather into a single whole; to unite.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Used at the end of a sentence to highlight the characteristics of someone or something.",
+          "examples": [
+            "Got almonds one.",
+            "How come so heavy one ah?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Used as a relative pronoun at the end of a relative clause.",
+          "examples": [
+            "The bird that make a lot of noise one is gone already."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

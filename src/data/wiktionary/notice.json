@@ -1,0 +1,51 @@
+{
+  "lemma": "notice",
+  "slug": "notice",
+  "fetchedAt": "2026-05-16T23:46:04.860Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of observing; perception.",
+          "examples": [
+            "He took no notice of the changes, and went on as though nothing had happened."
+          ]
+        },
+        {
+          "text": "A written or printed announcement.",
+          "examples": [
+            "A series of notices signpost patients to the X-ray department.",
+            "A notice was attached to the building reminding the residents about the five hour water shortage that was happening today."
+          ]
+        },
+        {
+          "text": "A formal notification or warning.",
+          "examples": [
+            "The sidewalk adjacent to the damaged bridge stonework shall be closed until further notice."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remark upon; to mention. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To become aware of; to observe.",
+          "examples": [
+            "Did you notice the flowers in her yard?"
+          ]
+        },
+        {
+          "text": "To lavish attention upon; to treat (someone) favourably.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

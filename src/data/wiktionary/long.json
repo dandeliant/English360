@@ -1,0 +1,124 @@
+{
+  "lemma": "long",
+  "slug": "long",
+  "fetchedAt": "2026-05-16T23:45:36.703Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having much distance in space from one end to the other.",
+          "examples": [
+            "I need a long piece of wood.",
+            "It’s a long way from the Earth to the Moon."
+          ]
+        },
+        {
+          "text": "Specifically, having much distance in a horizontal dimension (see also Usage Notes below).",
+          "examples": [
+            "This table is long but not very high."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A long vowel.",
+          "examples": []
+        },
+        {
+          "text": "A long syllable.",
+          "examples": []
+        },
+        {
+          "text": "A note formerly used in music, one half the length of a large, twice that of a breve.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take a long position in.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Over a great distance in space.",
+          "examples": [
+            "Every golfer wants to hit the ball long and straight.",
+            "She hit her return long and lost the point."
+          ]
+        },
+        {
+          "text": "Over too great a distance, beyond the target.",
+          "examples": [
+            "She hit her return long and lost the point."
+          ]
+        },
+        {
+          "text": "For a particular duration .",
+          "examples": [
+            "How long is it until the next bus arrives?",
+            "She has known us as long as you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To await, aspire, desire greatly (something to occur or to be true).",
+          "examples": [
+            "She longed for him to come back."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "On account of, because of.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be appropriate to, to pertain or belong to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Abbreviation of longitude.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To belong.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

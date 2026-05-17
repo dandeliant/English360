@@ -1,0 +1,73 @@
+{
+  "lemma": "help",
+  "slug": "help",
+  "fetchedAt": "2026-05-16T23:44:59.065Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Action given to provide assistance; aid.",
+          "examples": [
+            "I need some help with my homework."
+          ]
+        },
+        {
+          "text": "Something or someone which provides assistance with a task.",
+          "examples": [
+            "He was a great help to me when I was moving house."
+          ]
+        },
+        {
+          "text": "Documentation provided with computer software that could be accessed using the computer.",
+          "examples": [
+            "I can't find anything in the help about rotating an image."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To provide assistance to (someone or something).",
+          "examples": [
+            "He helped his grandfather cook breakfast."
+          ]
+        },
+        {
+          "text": "To assist (a person) in getting something, especially food or drink at table; used with to.",
+          "examples": [
+            "It is polite to help your guests to food before serving yourself.",
+            "Help yourself to whatever's in the fridge."
+          ]
+        },
+        {
+          "text": "To contribute in some way to.",
+          "examples": [
+            "The white paint on the walls helps make the room look brighter.",
+            "If you want to get a job, it helps to have some prior experience."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A cry of distress or an urgent request for assistance.",
+          "examples": [
+            "— Take that, you scoundrel.— Help! Robin, help!"
+          ]
+        },
+        {
+          "text": "A way to signal uncontrollable laughter; implying the risk of dying of laughter and needing assistance.",
+          "examples": [
+            "helpppp that's too funny, did she rlly say that?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

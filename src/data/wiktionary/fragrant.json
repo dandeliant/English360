@@ -1,0 +1,24 @@
+{
+  "lemma": "fragrant",
+  "slug": "fragrant",
+  "fetchedAt": "2026-05-16T23:44:35.218Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Sweet-smelling; having a pleasant (usually strong) scent or fragrance.",
+          "examples": [
+            "fragrant flower",
+            "fragrant smell"
+          ]
+        },
+        {
+          "text": "Attractive (British, sometimes ironic or patronising)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

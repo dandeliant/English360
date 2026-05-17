@@ -1,0 +1,29 @@
+{
+  "lemma": "transaction",
+  "slug": "transaction",
+  "fetchedAt": "2026-05-16T23:47:34.177Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of conducting or carrying out (business, negotiations, plans).",
+          "examples": [
+            "The transaction was made on Friday with the supplier."
+          ]
+        },
+        {
+          "text": "A deal or business agreement. (Can we add an example for this sense?)",
+          "examples": []
+        },
+        {
+          "text": "An exchange or trade, as of ideas, money, goods, etc.; personal interaction.",
+          "examples": [
+            "I made the transaction with the vendor as soon as she showed me the pearls."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

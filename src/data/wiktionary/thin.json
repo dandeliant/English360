@@ -1,0 +1,77 @@
+{
+  "lemma": "thin",
+  "slug": "thin",
+  "fetchedAt": "2026-05-16T23:47:26.866Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having little thickness or extent from one surface to its opposite.",
+          "examples": [
+            "thin plate of metal; thin paper; thin board; thin covering"
+          ]
+        },
+        {
+          "text": "Very narrow in all diameters; having a cross section that is small in all directions.",
+          "examples": [
+            "thin wire; thin string"
+          ]
+        },
+        {
+          "text": "Having little body fat or flesh; slim; slender; lean; gaunt.",
+          "examples": [
+            "thin person"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A loss or tearing of paper from the back of a stamp, although not sufficient to create a complete hole.",
+          "examples": []
+        },
+        {
+          "text": "Any food produced or served in thin slices.",
+          "examples": [
+            "chocolate mint thins",
+            "potato thins"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make thin or thinner.",
+          "examples": []
+        },
+        {
+          "text": "To become thin or thinner.",
+          "examples": [
+            "The crowds thinned after the procession had passed: there was nothing more to see."
+          ]
+        },
+        {
+          "text": "To dilute.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not thickly or closely; in a scattered state.",
+          "examples": [
+            "seed sown thin"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

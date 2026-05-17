@@ -1,0 +1,53 @@
+{
+  "lemma": "its",
+  "slug": "its",
+  "fetchedAt": "2026-05-16T23:45:19.313Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Itsekiri.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Belonging to it. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The one (or ones) belonging to it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Contraction",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of it's.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of it",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

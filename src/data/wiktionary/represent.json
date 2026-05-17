@@ -1,0 +1,47 @@
+{
+  "lemma": "represent",
+  "slug": "represent",
+  "fetchedAt": "2026-05-16T23:46:41.836Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To present again or anew; to present by means of something standing in the place of; to exhibit the counterpart or image of; to typify.",
+          "examples": []
+        },
+        {
+          "text": "To portray visually; to delineate",
+          "examples": [
+            "a landscape can be represented in a picture.",
+            "The sculptor represented a horse in bronze."
+          ]
+        },
+        {
+          "text": "To portray by mimicry or acting; to act the part or character of",
+          "examples": [
+            "It has always been his dream to represent Hamlet on Broadway."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To present again, for instance for medical attention.",
+          "examples": [
+            "represented to the emergency department"
+          ]
+        },
+        {
+          "text": "To present again, possibly in an altered form.",
+          "examples": [
+            "video game represented as live-action television"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

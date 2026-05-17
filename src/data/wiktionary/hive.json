@@ -1,0 +1,45 @@
+{
+  "lemma": "hive",
+  "slug": "hive",
+  "fetchedAt": "2026-05-16T23:45:01.721Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A structure, whether artificial or natural, for housing a swarm of honeybees.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To collect (bees) into a hive.",
+          "examples": [
+            "to hive a swarm of bees"
+          ]
+        },
+        {
+          "text": "To store (something other than bees) in, or as if in, a hive.",
+          "examples": []
+        },
+        {
+          "text": "To form a hive-like entity.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An itchy, red, swollen area of the skin; singular or attributive form of hives.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

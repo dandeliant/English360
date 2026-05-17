@@ -1,0 +1,85 @@
+{
+  "lemma": "yet",
+  "slug": "yet",
+  "fetchedAt": "2026-05-16T23:48:01.773Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Yetfa.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Thus far; up to the present; up to some unspecified time. In negative or interrogative use, often with an expectation or potential of something happening in the future.",
+          "examples": [
+            "I haven't finished yet.",
+            "Have you finished yet?"
+          ]
+        },
+        {
+          "text": "In negative or interrogative use, often with an expectation or potential of something happening in the future.",
+          "examples": [
+            "I haven't finished yet.",
+            "Have you finished yet?"
+          ]
+        },
+        {
+          "text": "In negative imperative use, asking for an action to be delayed.",
+          "examples": [
+            "Don't switch it on yet – wait until I've reconnected the pump."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Nevertheless; however; but; despite that.",
+          "examples": [
+            "I thought I knew you, yet how wrong was I!",
+            "It’s incredible yet true."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pour.",
+          "examples": []
+        },
+        {
+          "text": "To melt; found; cast (e.g. metal, by pouring it into a mould when molten).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A metal pan or boiler; yetling.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To get.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

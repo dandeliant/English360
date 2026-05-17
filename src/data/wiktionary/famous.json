@@ -1,0 +1,36 @@
+{
+  "lemma": "famous",
+  "slug": "famous",
+  "fetchedAt": "2026-05-16T23:44:22.338Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Well known.",
+          "examples": []
+        },
+        {
+          "text": "In the public eye.",
+          "examples": [
+            "Some people are only famous within their city."
+          ]
+        },
+        {
+          "text": "Excellent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make famous; to bring renown to.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

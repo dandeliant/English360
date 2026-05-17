@@ -1,0 +1,40 @@
+{
+  "lemma": "vegetable",
+  "slug": "vegetable",
+  "fetchedAt": "2026-05-16T23:47:43.041Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any plant.",
+          "examples": []
+        },
+        {
+          "text": "A plant raised for some edible part of it, such as the leaves, roots, fruit or flowers, but excluding any plant considered to be a fruit, grain, herb, or spice in the culinary sense.",
+          "examples": []
+        },
+        {
+          "text": "The edible part of such a plant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to plants.",
+          "examples": [
+            "This substance is vegetable, not mineral."
+          ]
+        },
+        {
+          "text": "Of or relating to vegetables.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,40 @@
+{
+  "lemma": "sprig",
+  "slug": "sprig",
+  "fetchedAt": "2026-05-16T23:47:04.227Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small shoot or twig of a tree or other plant; a spray.",
+          "examples": [
+            "a sprig of laurel or of parsley"
+          ]
+        },
+        {
+          "text": "An ornament resembling a small shoot or twig.",
+          "examples": []
+        },
+        {
+          "text": "One of the separate pieces of lace fastened on a ground in applique lace.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate with sprigs, or with representations of sprigs, as in embroidery or pottery.",
+          "examples": []
+        },
+        {
+          "text": "To nail the sole onto a shoe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

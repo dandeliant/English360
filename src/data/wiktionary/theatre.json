@@ -1,0 +1,21 @@
+{
+  "lemma": "theatre",
+  "slug": "theatre",
+  "fetchedAt": "2026-05-16T23:47:23.904Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of theater.",
+          "examples": []
+        },
+        {
+          "text": "A cinema; movie theatre.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

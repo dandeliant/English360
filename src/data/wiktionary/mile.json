@@ -1,0 +1,28 @@
+{
+  "lemma": "mile",
+  "slug": "mile",
+  "fetchedAt": "2026-05-16T23:45:45.225Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The international mile: a unit of length precisely equal to 1.609344 kilometers established by treaty among Anglophone nations in 1959, divided into 5,280 feet or 1,760 yards.",
+          "examples": [
+            "Turn left in 1.2 miles.",
+            "You need to go about three mile down the road."
+          ]
+        },
+        {
+          "text": "Any of several customary units of length derived from the 1593 English statute mile of 8 furlongs, equivalent to 5,280 feet or 1,760 yards of various precise values.",
+          "examples": []
+        },
+        {
+          "text": "Any of many customary units of length derived from the Roman mile (mille passus) of 8 stades or 5,000 Roman feet.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

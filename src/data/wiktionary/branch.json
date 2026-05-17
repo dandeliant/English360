@@ -1,0 +1,40 @@
+{
+  "lemma": "branch",
+  "slug": "branch",
+  "fetchedAt": "2026-05-16T23:43:30.632Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The woody part of a tree arising from the trunk and usually dividing.",
+          "examples": []
+        },
+        {
+          "text": "Any of the parts of something that divides like the branch of a tree.",
+          "examples": [
+            "the branch of an antler, a chandelier, or a railway"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To arise from the trunk or a larger branch of a tree.",
+          "examples": []
+        },
+        {
+          "text": "To produce branches.",
+          "examples": []
+        },
+        {
+          "text": "To (cause to) divide into separate parts or subdivisions.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

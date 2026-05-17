@@ -1,0 +1,50 @@
+{
+  "lemma": "transfer",
+  "slug": "transfer",
+  "fetchedAt": "2026-05-16T23:47:35.440Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move or pass from one place, person or thing to another.",
+          "examples": [
+            "to transfer the laws of one country to another; to transfer suspicion"
+          ]
+        },
+        {
+          "text": "To convey the impression of (something) from one surface to another.",
+          "examples": [
+            "to transfer drawings or engravings to a lithographic stone"
+          ]
+        },
+        {
+          "text": "To exit one mass transit vehicle and board another (typically one belonging to a different line or mode of transportation) to continue a journey.",
+          "examples": [
+            "transfer to the Blue Line"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of conveying or removing something from one place, person or thing to another.",
+          "examples": []
+        },
+        {
+          "text": "An instance of conveying or removing from one place, person or thing to another; a transferal.",
+          "examples": []
+        },
+        {
+          "text": "An act of exiting one mass transit vehicle and boarding another (typically one belonging to a different line or mode of transportation) to continue a journey.",
+          "examples": [
+            "Free transfers can be made between the Red and Orange Lines by walking from one of the station's platforms to another; in addition, riders using a fare card also get free transfers between bus and subway at the station."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

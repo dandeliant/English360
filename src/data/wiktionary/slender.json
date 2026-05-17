@@ -1,0 +1,39 @@
+{
+  "lemma": "slender",
+  "slug": "slender",
+  "fetchedAt": "2026-05-16T23:46:53.333Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Thin; slim.",
+          "examples": [
+            "A rod is a long slender pole used for angling.",
+            "She is very slender."
+          ]
+        },
+        {
+          "text": "Meagre; deficient.",
+          "examples": [
+            "Being a person of slender means, he was unable to afford any luxuries."
+          ]
+        },
+        {
+          "text": "Palatalized.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To attenuate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

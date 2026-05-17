@@ -1,0 +1,59 @@
+{
+  "lemma": "whole",
+  "slug": "whole",
+  "fetchedAt": "2026-05-16T23:47:52.785Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Entire, undivided.",
+          "examples": [
+            "I ate a whole fish.",
+            "I brought a whole lot of balloons for the party. She ate a whole bunch of french fries."
+          ]
+        },
+        {
+          "text": "Used as an intensifier.",
+          "examples": [
+            "I brought a whole lot of balloons for the party. She ate a whole bunch of french fries."
+          ]
+        },
+        {
+          "text": "Sound, uninjured, healthy.",
+          "examples": [
+            "He is of whole mind, but the same cannot be said about his physical state."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In entirety; entirely; wholly.",
+          "examples": [
+            "I ate a fish whole!",
+            "That’s a whole other story."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something complete, without any parts missing.",
+          "examples": [
+            "This variety of fascinating details didn't fall together into an enjoyable, coherent whole."
+          ]
+        },
+        {
+          "text": "An entirety.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

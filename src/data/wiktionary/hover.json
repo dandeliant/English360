@@ -1,0 +1,42 @@
+{
+  "lemma": "hover",
+  "slug": "hover",
+  "fetchedAt": "2026-05-16T23:45:04.523Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To keep (something, such as an aircraft) in a stationary state in the air. Of a bird: to shelter (chicks) under its body and wings; of a thing: to cover or surround (something). Of a bird or insect: to flap (its wings) so it can remain stationary in the air.",
+          "examples": []
+        },
+        {
+          "text": "To keep (something, such as an aircraft) in a stationary state in the air.",
+          "examples": []
+        },
+        {
+          "text": "Of a bird: to shelter (chicks) under its body and wings; of a thing: to cover or surround (something).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act, or the state, of remaining stationary in the air or some other place.",
+          "examples": []
+        },
+        {
+          "text": "A flock of birds fluttering in the air in one place.",
+          "examples": []
+        },
+        {
+          "text": "An act, or the state, of being suspended; a suspension.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

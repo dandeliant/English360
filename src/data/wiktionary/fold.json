@@ -1,0 +1,86 @@
+{
+  "lemma": "fold",
+  "slug": "fold",
+  "fetchedAt": "2026-05-16T23:44:31.094Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bend (any thin material, such as paper) over so that it comes in contact with itself.",
+          "examples": []
+        },
+        {
+          "text": "To make the proper arrangement (in a thin material) by bending.",
+          "examples": [
+            "If you fold the sheets, they'll fit more easily in the drawer."
+          ]
+        },
+        {
+          "text": "To draw or coil (one’s arms, a snake’s body, etc.) around something so as to enclose or embrace it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of folding.",
+          "examples": [
+            "give the bedsheets a fold before putting them in the cupboard.",
+            "After two reraises in quick succession, John realised his best option was probably a fold."
+          ]
+        },
+        {
+          "text": "Any correct move in origami.",
+          "examples": []
+        },
+        {
+          "text": "That which is folded together, or which enfolds or envelops. A bend or crease.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pen or enclosure for sheep or other domestic animals.",
+          "examples": []
+        },
+        {
+          "text": "Any enclosed piece of land belonging to a farm or mill; yard, farmyard.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To confine (animals) in a fold, to pen in.",
+          "examples": []
+        },
+        {
+          "text": "To include in a spiritual ‘flock’ or group of the saved, etc.",
+          "examples": []
+        },
+        {
+          "text": "To place sheep on (a piece of land) in order to manure it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The Earth; earth; land, country.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

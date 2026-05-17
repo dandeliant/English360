@@ -1,0 +1,115 @@
+{
+  "lemma": "on",
+  "slug": "on",
+  "fetchedAt": "2026-05-16T23:46:09.419Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In the state of being active, functioning or operating.",
+          "examples": [
+            "All the lights are on, so they must be home."
+          ]
+        },
+        {
+          "text": "Happening; taking place; being or due to be put into action.",
+          "examples": [
+            "We had to ration our food because there was a war on.",
+            "Some of the cast went down with flu, but the show's still on."
+          ]
+        },
+        {
+          "text": "Of a person, used to express agreement to or acceptance of a proposal or challenge made by that person; most commonly with subject \"you\" (see you're on).",
+          "examples": [
+            "\"Five bucks says the Cavs win tonight.\" ―\"You're on!\"",
+            "If he wants a fight, he's on!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To an operating state.",
+          "examples": [
+            "turn the television on"
+          ]
+        },
+        {
+          "text": "So as to cover or be fitted.",
+          "examples": [
+            "The lid wasn't screwed on properly.",
+            "Put on your hat and gloves."
+          ]
+        },
+        {
+          "text": "Along, forwards (continuing an action), onwards.",
+          "examples": [
+            "The policeman moved the tramp on.",
+            "Drive on past the railway station."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Indicating position or location. Positioned at the upper surface of, touching from above.",
+          "examples": [
+            "A vase of flowers stood on the table.",
+            "Please lie down on the couch."
+          ]
+        },
+        {
+          "text": "Positioned at the upper surface of, touching from above.",
+          "examples": [
+            "A vase of flowers stood on the table.",
+            "Please lie down on the couch."
+          ]
+        },
+        {
+          "text": "Positioned at or resting against the outer surface of; attached to.",
+          "examples": [
+            "He had a scar on the side of his face.",
+            "There is a dirty smudge on this window."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To switch on.",
+          "examples": [
+            "Can you on the light?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Without. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "In the Japanese language, a pronunciation, or reading, of a kanji character that was originally based on the character's pronunciation in Chinese, contrasted with kun.",
+          "examples": [
+            "Most kanji have two kinds of reading, called \"on\" and \"kun\"."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

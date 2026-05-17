@@ -1,0 +1,46 @@
+{
+  "lemma": "spike",
+  "slug": "spike",
+  "fetchedAt": "2026-05-16T23:47:02.299Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sort of very large nail.",
+          "examples": []
+        },
+        {
+          "text": "A piece of pointed metal etc. set with points upward or outward.",
+          "examples": [
+            "The trap was lined with spikes."
+          ]
+        },
+        {
+          "text": "Anything resembling such a nail in shape.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fasten with spikes, or long, large nails.",
+          "examples": [
+            "to spike down planks"
+          ]
+        },
+        {
+          "text": "To set or furnish with spikes.",
+          "examples": []
+        },
+        {
+          "text": "To embed nails into (a tree) so that any attempt to cut it down will damage equipment or injure people.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

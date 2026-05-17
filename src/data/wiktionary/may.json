@@ -1,0 +1,65 @@
+{
+  "lemma": "may",
+  "slug": "may",
+  "fetchedAt": "2026-05-16T23:45:42.534Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2/B language code for Malay.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be strong; to have power (over). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To be able; can.",
+          "examples": []
+        },
+        {
+          "text": "To be able to go.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The hawthorn bush or its blossoms.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gather may, or flowers in general.",
+          "examples": []
+        },
+        {
+          "text": "To celebrate May Day.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A maiden.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

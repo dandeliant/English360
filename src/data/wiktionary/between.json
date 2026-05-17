@@ -1,0 +1,41 @@
+{
+  "lemma": "between",
+  "slug": "between",
+  "fetchedAt": "2026-05-16T23:43:25.687Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In the position or interval that separates (two things), or intermediate in quantity or degree. (See Usage notes below.)",
+          "examples": [
+            "John stood between Amy and Mary. Let’s meet between two and three.",
+            "I want to buy one that costs somewhere between forty and fifty dollars."
+          ]
+        },
+        {
+          "text": "Done together or reciprocally.",
+          "examples": [
+            "conversation between friends"
+          ]
+        },
+        {
+          "text": "Shared in confidence.",
+          "examples": [
+            "Between you and me, I think the boss is crazy. Let's keep this between ourselves."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

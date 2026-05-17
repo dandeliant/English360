@@ -1,0 +1,81 @@
+{
+  "lemma": "after",
+  "slug": "after",
+  "fetchedAt": "2026-05-16T23:43:00.088Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Behind; later in time; following.",
+          "examples": [
+            "I left the room, and the dog bounded after.",
+            "They lived happily ever after."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Subsequently to; following in time; later than.",
+          "examples": [
+            "We had a few beers after the game.",
+            "The time is a quarter after eight."
+          ]
+        },
+        {
+          "text": "Subsequently to and as a result of.",
+          "examples": [
+            "After your bad behaviour, you will be punished."
+          ]
+        },
+        {
+          "text": "Subsequently to and considering.",
+          "examples": [
+            "I’m not putting you in charge again after the last disaster."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Signifies that the action of the clause it starts takes place before the action of the other clause.",
+          "examples": [
+            "The show ends after the fat lady sings.",
+            "After we had decided to call it a day, I went home."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Later; second (of two); next, following, subsequent",
+          "examples": []
+        },
+        {
+          "text": "At or towards the stern of a ship or the rear of an aircraft.",
+          "examples": [
+            "The after gun is mounted aft.",
+            "The after gun is abaft the forward gun."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Of before-and-after images: the one that shows the difference after a specified treatment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

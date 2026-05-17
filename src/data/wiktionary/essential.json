@@ -1,0 +1,40 @@
+{
+  "lemma": "essential",
+  "slug": "essential",
+  "fetchedAt": "2026-05-16T23:44:16.720Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Necessary.",
+          "examples": []
+        },
+        {
+          "text": "Very important; of high importance.",
+          "examples": []
+        },
+        {
+          "text": "Necessary for survival but not synthesized by the organism, thus needing to be ingested.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A necessary ingredient.",
+          "examples": []
+        },
+        {
+          "text": "A fundamental ingredient.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

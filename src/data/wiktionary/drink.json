@@ -1,0 +1,48 @@
+{
+  "lemma": "drink",
+  "slug": "drink",
+  "fetchedAt": "2026-05-16T23:44:05.168Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To consume (a liquid) through the mouth.",
+          "examples": [
+            "He drank the water I gave him.",
+            "You can lead a horse to water but you can't make him drink."
+          ]
+        },
+        {
+          "text": "To consume the liquid contained within (a bottle, glass, etc.).",
+          "examples": [
+            "Jack drank the whole bottle by himself."
+          ]
+        },
+        {
+          "text": "To consume alcoholic beverages.",
+          "examples": [
+            "You've been drinking, haven't you?",
+            "No thanks, I don't drink."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A beverage.",
+          "examples": [
+            "I’d like another drink please."
+          ]
+        },
+        {
+          "text": "Drinks in general; something to drink.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "flower",
+  "slug": "flower",
+  "fetchedAt": "2026-05-16T23:44:30.088Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may not be used for sexual reproduction.",
+          "examples": []
+        },
+        {
+          "text": "A reproductive structure in angiosperms (flowering plants), often conspicuously colourful and typically including sepals, petals, and either or both stamens and/or a pistil.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put forth blooms.",
+          "examples": [
+            "This plant flowers in June."
+          ]
+        },
+        {
+          "text": "To decorate with pictures of flowers.",
+          "examples": []
+        },
+        {
+          "text": "To reach a state of full development or achievement.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that flows, such as a river.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

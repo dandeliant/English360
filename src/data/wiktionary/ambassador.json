@@ -1,0 +1,27 @@
+{
+  "lemma": "ambassador",
+  "slug": "ambassador",
+  "fetchedAt": "2026-05-16T23:43:04.568Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A diplomat of the highest rank sent to a foreign court to represent there their sovereign or country. (Sometimes called ambassador-in-residence)",
+          "examples": []
+        },
+        {
+          "text": "An official messenger and representative.",
+          "examples": []
+        },
+        {
+          "text": "A corporate representative, often the public face of the company.",
+          "examples": [
+            "As front hall porter, you are an ambassador for the hotel."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

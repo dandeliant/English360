@@ -1,0 +1,51 @@
+{
+  "lemma": "exchange",
+  "slug": "exchange",
+  "fetchedAt": "2026-05-16T23:44:19.794Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of exchanging or trading.",
+          "examples": [
+            "All in all, it was an even exchange.",
+            "an exchange of cattle for grain"
+          ]
+        },
+        {
+          "text": "A place for conducting trading.",
+          "examples": [
+            "The stock exchange is open for trading.",
+            "The old corn exchange has been converted into a music venue."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To trade or barter.",
+          "examples": [
+            "I'll gladly exchange my place for yours."
+          ]
+        },
+        {
+          "text": "To mutually direct at each other.",
+          "examples": [
+            "The opposing soldiers exchanged fire across the burning streets."
+          ]
+        },
+        {
+          "text": "To replace with, as a substitute.",
+          "examples": [
+            "I'd like to exchange this shirt for one in a larger size.",
+            "Since his arrest, the mob boss has exchanged a mansion for a jail cell."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "yellow",
+  "slug": "yellow",
+  "fetchedAt": "2026-05-16T23:48:00.793Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The color of sunflower petals and lemons; the color obtained by mixing green and red light, or by subtracting blue from white light; the color evoked by light of wavelength around 580 nm; one of the three primary colors in subtractive color systems.",
+          "examples": [
+            "yellow:"
+          ]
+        },
+        {
+          "text": "The middle light in a set of three traffic lights, the lighting of which indicates that drivers should stop short of the intersection if it is safe to do so.",
+          "examples": []
+        },
+        {
+          "text": "One of the color balls used in snooker, with a value of 2 points.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a yellow hue.",
+          "examples": [
+            "He had a yellow laptop in his bag."
+          ]
+        },
+        {
+          "text": "Lacking courage.",
+          "examples": []
+        },
+        {
+          "text": "Characterized by sensationalism, lurid content, and doubtful accuracy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become yellow or yellower.",
+          "examples": []
+        },
+        {
+          "text": "To make (something) yellow or yellower.",
+          "examples": []
+        },
+        {
+          "text": "To promote (a captain) to flag rank without command of a squadron, ending his career; to make him a yellow admiral.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to indicate that the speaker needs a temporary break from current sexual activity.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

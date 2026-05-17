@@ -1,0 +1,50 @@
+{
+  "lemma": "hurry",
+  "slug": "hurry",
+  "fetchedAt": "2026-05-16T23:45:07.949Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rushed action.",
+          "examples": [
+            "Why are you in such a big hurry?"
+          ]
+        },
+        {
+          "text": "An urgency.",
+          "examples": [
+            "There is no hurry on that paperwork."
+          ]
+        },
+        {
+          "text": "An incidence of a defensive pressure that forces the quarterback to throw the ball earlier than intended or rush their decision, often leading to an incomplete pass or failed play.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do things quickly.",
+          "examples": [
+            "He's hurrying because he's late."
+          ]
+        },
+        {
+          "text": "Often with up, to speed up the rate of doing something.",
+          "examples": [
+            "If you don't hurry (up) you won't finish on time."
+          ]
+        },
+        {
+          "text": "To cause to be done quickly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

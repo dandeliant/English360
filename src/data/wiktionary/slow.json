@@ -1,0 +1,74 @@
+{
+  "lemma": "slow",
+  "slug": "slow",
+  "fetchedAt": "2026-05-16T23:46:55.098Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Taking a long time to move or go a short distance, or to perform an action; not quick in motion; proceeding at a low speed.",
+          "examples": [
+            "a slow train; a slow computer",
+            "Turkey should always be cooked in a slow oven."
+          ]
+        },
+        {
+          "text": "Not happening in a short time; spread over a comparatively long time.",
+          "examples": []
+        },
+        {
+          "text": "Of reduced intellectual capacity; not quick to comprehend.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (something) run, move, etc. less quickly; to reduce the speed of.",
+          "examples": [
+            "slow the process"
+          ]
+        },
+        {
+          "text": "To keep from going quickly; to hinder the progress of.",
+          "examples": [
+            "slow the traffic"
+          ]
+        },
+        {
+          "text": "To become slow; to slacken in speed; to decelerate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who is slow; a sluggard.",
+          "examples": []
+        },
+        {
+          "text": "A slow song.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Slowly.",
+          "examples": [
+            "That clock is running slow.",
+            "I want to dance with you nice and slow."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

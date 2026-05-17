@@ -1,0 +1,89 @@
+{
+  "lemma": "before",
+  "slug": "before",
+  "fetchedAt": "2026-05-16T23:43:23.873Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Earlier than (in time).",
+          "examples": [
+            "I want this done before Monday."
+          ]
+        },
+        {
+          "text": "In front of in space.",
+          "examples": [
+            "He stood before me.",
+            "We sat before the fire to warm ourselves."
+          ]
+        },
+        {
+          "text": "In the presence of.",
+          "examples": [
+            "He performed before the troops in North Africa.",
+            "He spoke before a joint session of Congress."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At an earlier time.",
+          "examples": [
+            "I've never done this before.",
+            "This achievement far exceeded anything that had come before."
+          ]
+        },
+        {
+          "text": "In advance in position or sequence; ahead.",
+          "examples": [
+            "We walked behind while they went before."
+          ]
+        },
+        {
+          "text": "At the front end.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "In advance of the time when.",
+          "examples": [
+            "Brush your teeth before you go to bed."
+          ]
+        },
+        {
+          "text": "Rather or sooner than.",
+          "examples": [
+            "I'll die before I('ll) tell you anything about it."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Of before-and-after images: the one that shows the difference before a specified treatment.",
+          "examples": []
+        },
+        {
+          "text": "That which occurred or existed previously.",
+          "examples": []
+        },
+        {
+          "text": "A previous form or instance.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

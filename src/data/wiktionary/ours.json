@@ -1,0 +1,34 @@
+{
+  "lemma": "ours",
+  "slug": "ours",
+  "fetchedAt": "2026-05-16T23:46:14.130Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "That or those belonging to us. Excluding the person(s) being addressed",
+          "examples": [
+            "You can't take that! It's ours!",
+            "Could we ask you to move, please. These seats are ours."
+          ]
+        },
+        {
+          "text": "Excluding the person(s) being addressed",
+          "examples": [
+            "You can't take that! It's ours!",
+            "Could we ask you to move, please. These seats are ours."
+          ]
+        },
+        {
+          "text": "Including the person(s) being addressed .",
+          "examples": [
+            "We should ask for it back. After all, it is ours.",
+            "Don't you think that ours looks much nicer than theirs?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

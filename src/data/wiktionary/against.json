@@ -1,0 +1,41 @@
+{
+  "lemma": "against",
+  "slug": "against",
+  "fetchedAt": "2026-05-16T23:43:01.867Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In a contrary direction to.",
+          "examples": [
+            "It is hard work to swim against the current."
+          ]
+        },
+        {
+          "text": "In physical opposition to; in collision with.",
+          "examples": [
+            "The rain pounds against the window."
+          ]
+        },
+        {
+          "text": "In physical contact with, so as to abut or be supported by.",
+          "examples": [
+            "The ladder was leaning against the wall.",
+            "The puppy rested its head against a paw."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "By the time that (something happened); before.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

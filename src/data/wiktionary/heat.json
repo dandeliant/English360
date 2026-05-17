@@ -1,0 +1,55 @@
+{
+  "lemma": "heat",
+  "slug": "heat",
+  "fetchedAt": "2026-05-16T23:44:56.933Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Thermal energy.",
+          "examples": [
+            "This furnace puts out 5000 BTUs of heat. That engine is really throwing off some heat. Removal of heat from the liquid caused it to turn into a solid."
+          ]
+        },
+        {
+          "text": "The condition or quality of being hot.",
+          "examples": [
+            "Stay out of the heat of the sun!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause an increase in temperature of (an object or space); to cause to become hot .",
+          "examples": [
+            "I'll heat up the water."
+          ]
+        },
+        {
+          "text": "To become hotter.",
+          "examples": [
+            "There's a pot of soup heating on the stove."
+          ]
+        },
+        {
+          "text": "To excite or make hot by action or emotion; to make feverish.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of heat",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

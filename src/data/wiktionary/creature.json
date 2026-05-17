@@ -1,0 +1,29 @@
+{
+  "lemma": "creature",
+  "slug": "creature",
+  "fetchedAt": "2026-05-16T23:43:54.660Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A living being, such as an animal, monster, or alien.",
+          "examples": [
+            "insects and other creatures"
+          ]
+        },
+        {
+          "text": "An unidentified, mysterious, and often monstrous animal or being.",
+          "examples": []
+        },
+        {
+          "text": "A human.",
+          "examples": [
+            "He's a creature of habit."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

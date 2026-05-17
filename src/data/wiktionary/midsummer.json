@@ -1,0 +1,34 @@
+{
+  "lemma": "midsummer",
+  "slug": "midsummer",
+  "fetchedAt": "2026-05-16T23:45:44.229Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The period around the summer solstice; around June 21st in the northern hemisphere.",
+          "examples": []
+        },
+        {
+          "text": "The first day of summer.",
+          "examples": []
+        },
+        {
+          "text": "The middle of summer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or occurring in the middle of summer.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

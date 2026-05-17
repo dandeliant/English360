@@ -1,0 +1,66 @@
+{
+  "lemma": "single",
+  "slug": "single",
+  "fetchedAt": "2026-05-16T23:46:50.267Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not accompanied by anything else; one in number.",
+          "examples": [
+            "Can you give me a single reason not to leave right now?",
+            "The vase contained a single long-stemmed rose."
+          ]
+        },
+        {
+          "text": "Not divided in parts.",
+          "examples": [
+            "The potatoes left the spoon and landed in a single big lump on the plate."
+          ]
+        },
+        {
+          "text": "Designed for the use of only one.",
+          "examples": [
+            "a single room"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A 45 RPM vinyl record with one song on side A and one on side B.",
+          "examples": []
+        },
+        {
+          "text": "A popular song released and sold (on any format) nominally on its own though usually having at least one extra track.",
+          "examples": [
+            "The Offspring released four singles from their most recent album."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To get a hit that advances the batter exactly one base.",
+          "examples": [
+            "Pedro singled in the bottom of the eighth inning, which, if converted to a run, would put the team back into contention."
+          ]
+        },
+        {
+          "text": "To thin out.",
+          "examples": []
+        },
+        {
+          "text": "To take the irregular gait called singlefoot.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

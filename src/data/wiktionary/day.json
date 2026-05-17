@@ -1,0 +1,43 @@
+{
+  "lemma": "day",
+  "slug": "day",
+  "fetchedAt": "2026-05-16T23:43:59.585Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-5 language code for Land Dayak languages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The time when the Sun is above the horizon and it lights the sky.",
+          "examples": [
+            "day and night; I work at night and sleep during the day."
+          ]
+        },
+        {
+          "text": "A period of time equal or almost equal to a full day-night cycle, being 24 hours long.",
+          "examples": [
+            "I've been here for two days and a bit."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend a day (in a place).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

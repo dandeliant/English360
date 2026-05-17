@@ -1,0 +1,29 @@
+{
+  "lemma": "often",
+  "slug": "often",
+  "fetchedAt": "2026-05-16T23:46:08.726Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Frequently; many times on different occasions.",
+          "examples": [
+            "I often walk to work when the weather is nice.",
+            "I’ve been going to the movies more often since a new theatre opened near me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Frequent.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

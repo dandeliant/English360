@@ -1,0 +1,37 @@
+{
+  "lemma": "vast",
+  "slug": "vast",
+  "fetchedAt": "2026-05-16T23:47:42.106Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very large or wide (literally or figuratively).",
+          "examples": [
+            "The Sahara desert is vast.",
+            "There is a vast difference between them."
+          ]
+        },
+        {
+          "text": "Very great in size, amount, degree, intensity, or especially extent.",
+          "examples": []
+        },
+        {
+          "text": "Waste; desert; desolate; lonely.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A vast space.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

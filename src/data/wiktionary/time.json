@@ -1,0 +1,67 @@
+{
+  "lemma": "time",
+  "slug": "time",
+  "fetchedAt": "2026-05-16T23:47:29.660Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The inevitable progression into the future with the passing of present and past events.",
+          "examples": [
+            "Time stops for nobody. the ebb and flow of time",
+            "Time flies when you're having fun."
+          ]
+        },
+        {
+          "text": "The feeling of the passage of events and their relative duration, as experienced by an individual.",
+          "examples": [
+            "Time flies when you're having fun."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To measure or record the time, duration, or rate of something.",
+          "examples": [
+            "I used a stopwatch to time myself running around the block."
+          ]
+        },
+        {
+          "text": "To choose when something commences or its duration.",
+          "examples": [
+            "The President timed his speech badly, coinciding with the Super Bowl.",
+            "The bomb was timed to explode at 9:20 p.m."
+          ]
+        },
+        {
+          "text": "To keep or beat time; to proceed or move in time.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Reminder by the umpire for the players to continue playing after their pause.",
+          "examples": []
+        },
+        {
+          "text": "The umpire's call in prizefights, etc.",
+          "examples": []
+        },
+        {
+          "text": "A call by a bartender to warn patrons that the establishment is closing and no more drinks will be served.",
+          "examples": [
+            "Time gentlemen please!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

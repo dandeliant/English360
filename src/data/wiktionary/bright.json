@@ -1,0 +1,80 @@
+{
+  "lemma": "bright",
+  "slug": "bright",
+  "fetchedAt": "2026-05-16T23:43:32.618Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Emitting much light; visually dazzling; luminous, lucent, radiant.",
+          "examples": [
+            "The sky was remarkably bright and blue on that beautiful summer day."
+          ]
+        },
+        {
+          "text": "Of light: brilliant, intense.",
+          "examples": [
+            "Could you please dim the light? It’s far too bright."
+          ]
+        },
+        {
+          "text": "Of an object, surface, etc.: reflecting much light; having a high lustre; gleaming, shiny.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Brightness, glow. Glory, splendour.",
+          "examples": []
+        },
+        {
+          "text": "Brightness, glow.",
+          "examples": []
+        },
+        {
+          "text": "Glory, splendour.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a bright manner; brightly, glowingly, luminously, lustrously.",
+          "examples": []
+        },
+        {
+          "text": "Referring to colour: with bold or vivid colours; brightly, boldly, vividly. Referring to sight, sound, understanding, etc.: clearly, distinctly; brightly.",
+          "examples": []
+        },
+        {
+          "text": "Referring to colour: with bold or vivid colours; brightly, boldly, vividly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Often followed by up: to cast light on (someone or something); to brighten, to illuminate.",
+          "examples": []
+        },
+        {
+          "text": "Often followed by up: to cause (someone or something) to be bright (in various senses); to brighten; specifically, to make (someone or something) energetic, or happy and optimistic.",
+          "examples": []
+        },
+        {
+          "text": "Often followed by up: to become bright (in various senses); to brighten.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

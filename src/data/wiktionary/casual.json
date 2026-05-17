@@ -1,0 +1,48 @@
+{
+  "lemma": "casual",
+  "slug": "casual",
+  "fetchedAt": "2026-05-16T23:43:42.873Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Happening by chance.",
+          "examples": [
+            "They only had casual meetings."
+          ]
+        },
+        {
+          "text": "Coming without regularity; occasional or incidental.",
+          "examples": [
+            "The purchase of donuts was just a casual expense."
+          ]
+        },
+        {
+          "text": "Employed irregularly.",
+          "examples": [
+            "He was just a casual worker."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A worker who is only working for a company occasionally, not as its permanent employee.",
+          "examples": []
+        },
+        {
+          "text": "A worker who is doing a particular type of job temporarily, not as a lifetime career.",
+          "examples": []
+        },
+        {
+          "text": "A soldier temporarily at a place of duty, usually en route to another place of duty.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

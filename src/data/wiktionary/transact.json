@@ -1,0 +1,25 @@
+{
+  "lemma": "transact",
+  "slug": "transact",
+  "fetchedAt": "2026-05-16T23:47:33.281Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do, carry through, conduct or perform.",
+          "examples": []
+        },
+        {
+          "text": "To carry over, hand over or transfer something.",
+          "examples": []
+        },
+        {
+          "text": "To conduct business.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

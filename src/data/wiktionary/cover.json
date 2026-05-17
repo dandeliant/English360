@@ -1,0 +1,64 @@
+{
+  "lemma": "cover",
+  "slug": "cover",
+  "fetchedAt": "2026-05-16T23:43:53.808Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A lid.",
+          "examples": []
+        },
+        {
+          "text": "Area or situation which screens a person or thing from view.",
+          "examples": [
+            "The soldiers took cover behind a ruined building."
+          ]
+        },
+        {
+          "text": "The front and back of a book, magazine, CD package, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the front cover of a book or magazine.",
+          "examples": []
+        },
+        {
+          "text": "Of, pertaining to, or consisting of cover versions.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place something over or upon, as to conceal or protect.",
+          "examples": [
+            "He covered the baby with a blanket.",
+            "When the pot comes to a boil, cover it and reduce the heat to medium."
+          ]
+        },
+        {
+          "text": "To be over or upon, as to conceal or protect.",
+          "examples": [
+            "The blanket covered the baby."
+          ]
+        },
+        {
+          "text": "To be upon all of, so as to completely conceal.",
+          "examples": [
+            "Regular hexagons can cover the plane."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

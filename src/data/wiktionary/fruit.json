@@ -1,0 +1,30 @@
+{
+  "lemma": "fruit",
+  "slug": "fruit",
+  "fetchedAt": "2026-05-16T23:44:39.008Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A product of fertilization in a plant, specifically: The seed-bearing part of a plant; often edible, colourful, fragrant, and sweet or sour; produced from a floral ovary after fertilization. The spores of cryptogams and their accessory organs.",
+          "examples": []
+        },
+        {
+          "text": "The seed-bearing part of a plant; often edible, colourful, fragrant, and sweet or sour; produced from a floral ovary after fertilization.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To produce fruit, seeds, or spores.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

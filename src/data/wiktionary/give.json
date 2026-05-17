@@ -1,0 +1,55 @@
+{
+  "lemma": "give",
+  "slug": "give",
+  "fetchedAt": "2026-05-16T23:44:42.791Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move, shift, provide something abstract or concrete to someone or something or somewhere. To transfer one's possession or holding of (something) to (someone).",
+          "examples": [
+            "I gave him my coat.",
+            "I gave my coat to the beggar."
+          ]
+        },
+        {
+          "text": "To transfer one's possession or holding of (something) to (someone).",
+          "examples": [
+            "I gave him my coat.",
+            "I gave my coat to the beggar."
+          ]
+        },
+        {
+          "text": "To make a present or gift of.",
+          "examples": [
+            "I'm going to give my wife a necklace for her birthday.",
+            "She gave a pair of shoes to her husband for their anniversary."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The amount of bending that something undergoes when a force is applied to it; a tendency to yield under pressure; resilience.",
+          "examples": [
+            "This chair doesn't have much give.",
+            "There is no give in his dogmatic religious beliefs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of gyve.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

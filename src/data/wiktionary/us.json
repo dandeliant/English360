@@ -1,0 +1,83 @@
+{
+  "lemma": "us",
+  "slug": "us",
+  "fetchedAt": "2026-05-16T23:47:41.196Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "Alternative form of μs.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Me and at least one other person, excluding the person(s) being addressed.",
+          "examples": [
+            "Don't treat us like idiots."
+          ]
+        },
+        {
+          "text": "Me and at least one other person, including the person(s) being addressed.",
+          "examples": [
+            "Let's ask him if he'll give us a lift."
+          ]
+        },
+        {
+          "text": "We, used in the same circumstances where \"me\" would be used instead of \"I\", e.g. for the pronoun in isolation or as the complement of the copula:",
+          "examples": [
+            "Who's there? — Us. (or) — It's us.",
+            "Who's going to go? — Us. We'll go."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Designates the speaker(s)/writer(s) as constituting or belonging to the stated category of people (objective case).",
+          "examples": [
+            "It's not good enough for us teachers."
+          ]
+        },
+        {
+          "text": "Designates the speaker(s)/writer(s) as constituting or belonging to the stated category of people (subjective case).",
+          "examples": []
+        },
+        {
+          "text": "Our.",
+          "examples": [
+            "We'll have to throw us food out."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The relationship (usually romantic) between the speaker and listener or some other unspecified person.",
+          "examples": [
+            "There is no us.",
+            "Us is the best thing that's ever happened to me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of u's.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

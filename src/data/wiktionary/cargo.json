@@ -1,0 +1,32 @@
+{
+  "lemma": "cargo",
+  "slug": "cargo",
+  "fetchedAt": "2026-05-16T23:43:40.955Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Freight carried by a ship, aircraft, or motor vehicle.",
+          "examples": [
+            "The plane was overloaded with cargo. It was a cargo of live animals."
+          ]
+        },
+        {
+          "text": "Western material goods.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To load with freight.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

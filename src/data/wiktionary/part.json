@@ -1,0 +1,80 @@
+{
+  "lemma": "part",
+  "slug": "part",
+  "fetchedAt": "2026-05-16T23:46:18.460Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A portion; a component. A fraction of a whole.",
+          "examples": [
+            "Gaul is divided into three parts.",
+            "I was in Australia part of last year."
+          ]
+        },
+        {
+          "text": "A fraction of a whole.",
+          "examples": [
+            "Gaul is divided into three parts.",
+            "I was in Australia part of last year."
+          ]
+        },
+        {
+          "text": "A distinct element of something larger.",
+          "examples": [
+            "The parts of a chainsaw include the chain, engine, and handle."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To leave the company of (each other, or someone/something .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with with or from]).",
+          "examples": []
+        },
+        {
+          "text": "To divide in two.",
+          "examples": [
+            "to part the curtains"
+          ]
+        },
+        {
+          "text": "To cut hair with a parting.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Fractional; partial.",
+          "examples": [
+            "Fred was part owner of the car."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Partly; partially; fractionally.",
+          "examples": [
+            "Part finished"
+          ]
+        },
+        {
+          "text": "(with reference to a person's ethnicity) to a partial degree.",
+          "examples": [
+            "My Native American friend is also part German and part French."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

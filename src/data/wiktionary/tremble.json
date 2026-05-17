@@ -1,0 +1,33 @@
+{
+  "lemma": "tremble",
+  "slug": "tremble",
+  "fetchedAt": "2026-05-16T23:47:37.356Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shake, quiver, or vibrate.",
+          "examples": [
+            "Her lip started to tremble as she burst into tears",
+            "The dog was trembling from being in the cold weather all day."
+          ]
+        },
+        {
+          "text": "To fear; to be afraid.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shake, quiver, or vibration.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

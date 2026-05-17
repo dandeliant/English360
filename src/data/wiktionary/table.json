@@ -1,0 +1,37 @@
+{
+  "lemma": "table",
+  "slug": "table",
+  "fetchedAt": "2026-05-16T23:47:18.463Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Furniture with a top surface to accommodate a variety of uses. An item of furniture with a flat top surface raised above the ground, usually on one or more legs.",
+          "examples": [
+            "Set that dish on the table over there, please.",
+            "The baron kept a fine table and often held large banquets."
+          ]
+        },
+        {
+          "text": "An item of furniture with a flat top surface raised above the ground, usually on one or more legs.",
+          "examples": [
+            "Set that dish on the table over there, please."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To tabulate; to put into a table or grid. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "to table fines"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

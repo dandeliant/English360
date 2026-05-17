@@ -1,0 +1,48 @@
+{
+  "lemma": "nor",
+  "slug": "nor",
+  "fetchedAt": "2026-05-16T23:46:02.821Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-3 language code for Norwegian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "And... not (introducing a negative statement, without necessarily following one).",
+          "examples": [
+            "Nor did I stop to think, but ran.",
+            "They are happy, nor need we worry."
+          ]
+        },
+        {
+          "text": "A function word introducing each except the first term of a series, indicating none of them is true.",
+          "examples": [
+            "I am neither hungry nor thirsty."
+          ]
+        },
+        {
+          "text": "Neither.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of NOR.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

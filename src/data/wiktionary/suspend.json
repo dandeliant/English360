@@ -1,0 +1,29 @@
+{
+  "lemma": "suspend",
+  "slug": "suspend",
+  "fetchedAt": "2026-05-16T23:47:16.449Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To halt something temporarily.",
+          "examples": [
+            "The meeting was suspended for lunch."
+          ]
+        },
+        {
+          "text": "To hold in an undetermined or undecided state.",
+          "examples": []
+        },
+        {
+          "text": "To discontinue or interrupt a function, task, position, or event.",
+          "examples": [
+            "to suspend a thread of execution in a computer program"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

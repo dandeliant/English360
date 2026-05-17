@@ -1,0 +1,58 @@
+{
+  "lemma": "spin",
+  "slug": "spin",
+  "fetchedAt": "2026-05-16T23:47:03.386Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rotate, revolve, gyrate (usually quickly); to partially or completely rotate to face another direction.",
+          "examples": [
+            "I spun myself around a few times.",
+            "Spin the ball on the floor."
+          ]
+        },
+        {
+          "text": "To enter, or remain in, a spin (abnormal stalled flight mode).",
+          "examples": []
+        },
+        {
+          "text": "To cause one's aircraft to enter or remain in a spin (abnormal stalled flight mode).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Rapid circular motion.",
+          "examples": [
+            "The car went into a spin.",
+            "The skaters demonstrated their spins."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Clipping of spinnaker.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A special interest of an autistic person.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "hum",
+  "slug": "hum",
+  "fetchedAt": "2026-05-16T23:45:06.126Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Hungana.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hummed tune, i.e. created orally with lips closed.",
+          "examples": []
+        },
+        {
+          "text": "An often indistinct sound resembling human humming.",
+          "examples": [
+            "They could hear a hum coming from the kitchen, and found the dishwasher on."
+          ]
+        },
+        {
+          "text": "Busy activity, like the buzz of a beehive.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a sound from the vocal cords without pronouncing any real words, with one's lips closed.",
+          "examples": [
+            "We are humming happily along with the music."
+          ]
+        },
+        {
+          "text": "To express by humming.",
+          "examples": [
+            "to hum a tune",
+            "The team hummed “We Shall Overcome” as they came back onto the field after the break."
+          ]
+        },
+        {
+          "text": "To drone like certain insects naturally do in motion, or sounding similarly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Synonym of hmm: a noise indicating thought, consideration, c.",
+          "examples": []
+        },
+        {
+          "text": "Synonym of um: a noise indicating doubt, uncertainty, c.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of see hum (“blood cockles, ark clams”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

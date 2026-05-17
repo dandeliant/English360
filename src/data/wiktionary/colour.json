@@ -1,0 +1,35 @@
+{
+  "lemma": "colour",
+  "slug": "colour",
+  "fetchedAt": "2026-05-16T23:43:50.007Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Commonwealth and Ireland standard spelling of color.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Commonwealth and Ireland standard spelling of color.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Commonwealth and Ireland standard spelling of color.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

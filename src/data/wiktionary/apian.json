@@ -1,0 +1,26 @@
+{
+  "lemma": "apian",
+  "slug": "apian",
+  "fetchedAt": "2026-05-16T23:43:11.528Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to bees.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bee.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

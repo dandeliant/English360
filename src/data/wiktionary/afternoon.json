@@ -1,0 +1,43 @@
+{
+  "lemma": "afternoon",
+  "slug": "afternoon",
+  "fetchedAt": "2026-05-16T23:43:00.936Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.",
+          "examples": []
+        },
+        {
+          "text": "The later part of anything, often with implications of decline.",
+          "examples": []
+        },
+        {
+          "text": "A party or social event held in the afternoon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In the afternoon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Ellipsis of good afternoon.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

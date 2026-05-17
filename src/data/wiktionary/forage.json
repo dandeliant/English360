@@ -1,0 +1,42 @@
+{
+  "lemma": "forage",
+  "slug": "forage",
+  "fetchedAt": "2026-05-16T23:44:34.162Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Fodder for animals, especially cattle and horses.",
+          "examples": []
+        },
+        {
+          "text": "An act or instance of foraging.",
+          "examples": []
+        },
+        {
+          "text": "The demand for fodder, etc., by an army from the local population.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To search for and gather food for animals, particularly cattle and horses.",
+          "examples": []
+        },
+        {
+          "text": "To rampage through, gathering and destroying as one goes.",
+          "examples": []
+        },
+        {
+          "text": "To rummage.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

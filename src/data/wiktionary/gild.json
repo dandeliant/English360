@@ -1,0 +1,34 @@
+{
+  "lemma": "gild",
+  "slug": "gild",
+  "fetchedAt": "2026-05-16T23:44:41.734Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover with a thin layer of gold; to cover with gold leaf.",
+          "examples": []
+        },
+        {
+          "text": "To adorn.",
+          "examples": []
+        },
+        {
+          "text": "To decorate with a golden surface appearance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Archaic spelling of guild.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

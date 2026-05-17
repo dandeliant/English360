@@ -1,0 +1,142 @@
+{
+  "lemma": "light",
+  "slug": "light",
+  "fetchedAt": "2026-05-16T23:45:32.489Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Electromagnetic radiation in the wavelength range visible to the human eye (about 400–750 nanometers): visible light.",
+          "examples": [
+            "As you can see, this spacious dining-room gets a lot of light in the mornings."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To start (a fire).",
+          "examples": [
+            "We lit the fire to get some heat."
+          ]
+        },
+        {
+          "text": "To set fire to; to set burning.",
+          "examples": [
+            "She lit her last match."
+          ]
+        },
+        {
+          "text": "To illuminate; to provide light for when it is dark.",
+          "examples": [
+            "I used my torch to light the way home through the woods in the night."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having light; bright; clear; not dark or obscure.",
+          "examples": [
+            "The room is light when the Sun shines through the window."
+          ]
+        },
+        {
+          "text": "Pale or whitish in color; highly luminous and more or less deficient in chroma.",
+          "examples": [
+            "She had light skin."
+          ]
+        },
+        {
+          "text": "Served with extra milk or cream.",
+          "examples": [
+            "I like my coffee light."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having little or relatively little actual weight; not heavy; not cumbrous or unwieldy.",
+          "examples": [
+            "a light load ; a lighter backpack after having removed the books ; light weapons"
+          ]
+        },
+        {
+          "text": "Having little weight as compared with bulk; of little density or specific gravity.",
+          "examples": [
+            "feathers and cork are light ; oil is lighter than water"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Carrying little.",
+          "examples": [
+            "I prefer to travel light."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A stone that is not thrown hard enough.",
+          "examples": []
+        },
+        {
+          "text": "See lights (“lungs”).",
+          "examples": []
+        },
+        {
+          "text": "A low-alcohol lager.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To unload a ship, or to jettison material to make it lighter",
+          "examples": []
+        },
+        {
+          "text": "To lighten; to ease of a burden; to take off.",
+          "examples": []
+        },
+        {
+          "text": "To leave; to depart.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To find by chance.",
+          "examples": [
+            "I lit upon a rare book in a second-hand bookseller's."
+          ]
+        },
+        {
+          "text": "To stop upon (of eyes or a glance); to notice",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "job",
+  "slug": "job",
+  "fetchedAt": "2026-05-16T23:45:21.291Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Joba.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A task.",
+          "examples": [
+            "I've got a job for you: could you wash the dishes?",
+            "I didn't speak to many coworkers for the ﬁrst year on the job."
+          ]
+        },
+        {
+          "text": "An economic role for which a person is paid.",
+          "examples": [
+            "That surgeon has a great job.",
+            "He's been out of a job since being made redundant in January."
+          ]
+        },
+        {
+          "text": "Plastic surgery.",
+          "examples": [
+            "He had a nose job."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do odd jobs or occasional work for hire.",
+          "examples": []
+        },
+        {
+          "text": "To work as a jobber.",
+          "examples": []
+        },
+        {
+          "text": "To take the loss, usually in a demeaning or submissive manner.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To peck (of a bird); to poke or prod . .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To pierce or poke (someone or something), typically with a sharp or pointed object; to stab.",
+          "examples": []
+        },
+        {
+          "text": "To hit (someone) with a quick, sharp punch; to jab.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sudden thrust or stab; a jab or punch.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

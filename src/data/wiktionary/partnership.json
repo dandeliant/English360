@@ -1,0 +1,29 @@
+{
+  "lemma": "partnership",
+  "slug": "partnership",
+  "fetchedAt": "2026-05-16T23:46:19.305Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of being associated with a partner.",
+          "examples": [
+            "scientists working in close partnership with colleagues overseas"
+          ]
+        },
+        {
+          "text": "An association of two or more people to conduct a business.",
+          "examples": [
+            "forge a partnership"
+          ]
+        },
+        {
+          "text": "The period when two specific batsmen are batting, from the fall of one wicket until the fall of the next; the number of runs scored during this period.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

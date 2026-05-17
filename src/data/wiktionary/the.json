@@ -1,0 +1,89 @@
+{
+  "lemma": "the",
+  "slug": "the",
+  "fetchedAt": "2026-05-16T23:47:23.085Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Chitwania Tharu.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Article",
+      "definitions": [
+        {
+          "text": "Used before a noun phrase, including a simple noun The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable... ...because it has already been mentioned, is to be completely specified in the same sentence, or very shortly thereafter. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+            "You live on Main Street, don't you? You know, you should tell the mayor the street needs cleaning."
+          ]
+        },
+        {
+          "text": "The definite grammatical article that shows that the noun phrase that immediately follows it is definitely identifiable... ...because it has already been mentioned, is to be completely specified in the same sentence, or very shortly thereafter. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+            "You live on Main Street, don't you? You know, you should tell the mayor the street needs cleaning."
+          ]
+        },
+        {
+          "text": "...because it has already been mentioned, is to be completely specified in the same sentence, or very shortly thereafter. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I’m reading the book Mary reviewed. (Compare I’m reading a book Mary reviewed.)",
+            "You live on Main Street, don't you? You know, you should tell the mayor the street needs cleaning."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+          "examples": [
+            "The hotter(,) the better. (comma usually omitted in such very short expressions)",
+            "The more I think about it, the weaker it looks."
+          ]
+        },
+        {
+          "text": "With a comparative, and often with for it, indicates a result more like said comparative. This can be negated with none.",
+          "examples": [
+            "It was a difficult time, but I’m the wiser for it.",
+            "It was a difficult time, and I’m {none - not any} the wiser for it."
+          ]
+        },
+        {
+          "text": "Beyond all others.",
+          "examples": [
+            "We went the furthest under her leadership.",
+            "They trusted him the most."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "For each; per.",
+          "examples": [
+            "valued at half a pound the bushel; paying seven dollars the year interest"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Early Modern form of thee.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

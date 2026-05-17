@@ -1,0 +1,30 @@
+{
+  "lemma": "embody",
+  "slug": "embody",
+  "fetchedAt": "2026-05-16T23:44:14.022Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent in a physical or concrete form; to incarnate or personify.",
+          "examples": [
+            "As the car salesman approached, wearing a plaid suit and slicked-back hair, he seemed to embody sleaze."
+          ]
+        },
+        {
+          "text": "To represent in some other form, such as a code of laws.",
+          "examples": [
+            "The US Constitution aimed to embody the ideals of diverse groups of people, from Puritans to Deists.",
+            "The principle was recognized by some of the early Greek philosophers who embodied it in their systems."
+          ]
+        },
+        {
+          "text": "To comprise or include as part of a cohesive whole; to be made up of.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

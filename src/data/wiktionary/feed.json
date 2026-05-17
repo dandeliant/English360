@@ -1,0 +1,51 @@
+{
+  "lemma": "feed",
+  "slug": "feed",
+  "fetchedAt": "2026-05-16T23:44:24.116Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give (someone or something) food to eat.",
+          "examples": [
+            "Feed the dog every evening."
+          ]
+        },
+        {
+          "text": "To eat .",
+          "examples": [
+            "Spiders feed on gnats and flies."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Food given to (especially herbivorous) non-human animals.",
+          "examples": [
+            "They sell feed, riding helmets, and everything else for horses."
+          ]
+        },
+        {
+          "text": "Something supplied continuously.",
+          "examples": [
+            "a satellite feed"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of fee",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

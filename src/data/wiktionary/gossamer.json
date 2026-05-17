@@ -1,0 +1,34 @@
+{
+  "lemma": "gossamer",
+  "slug": "gossamer",
+  "fetchedAt": "2026-05-16T23:44:46.870Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fine film made up of cobwebs, seen floating in the air or caught on bushes, etc.",
+          "examples": []
+        },
+        {
+          "text": "A soft, sheer fabric.",
+          "examples": []
+        },
+        {
+          "text": "Anything delicate, light and flimsy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Tenuous, light, filmy or delicate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,60 @@
+{
+  "lemma": "purple",
+  "slug": "purple",
+  "fetchedAt": "2026-05-16T23:46:32.219Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A colour between red and blue; violet, though often closer to magenta.",
+          "examples": [
+            "web color:"
+          ]
+        },
+        {
+          "text": "Any non-spectral colour on the line of purples on a colour chromaticity diagram or a colour wheel between violet and red.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a purple hue.",
+          "examples": []
+        },
+        {
+          "text": "Not predominantly red or blue, but having a mixture of Democrat and Republican support.",
+          "examples": [
+            "purple state",
+            "purple city"
+          ]
+        },
+        {
+          "text": "Mixed between social democrats and liberals.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn purple in colour.",
+          "examples": []
+        },
+        {
+          "text": "To dye purple.",
+          "examples": []
+        },
+        {
+          "text": "To clothe in purple.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

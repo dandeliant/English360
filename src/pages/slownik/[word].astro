@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { buildWordIndex } from '../../utils/word-index.ts';
 import { tokenize } from '../../utils/text-tokenize.ts';
 import { CEFR_DESCRIPTIONS } from '../../utils/cefr.ts';
+import { loadWiktionary } from '../../utils/wiktionary-cache.ts';
 
 export async function getStaticPaths() {
   const index = await buildWordIndex();
@@ -14,6 +15,8 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const lessonCount = new Set(entry.occurrences.map((o) => o.lessonId)).size;
+const wikt = await loadWiktionary(entry.slug);
+const enWiktUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(entry.lemma)}`;
 ---
 <BaseLayout
   title={`${entry.lemma} · Słownik · English 360°`}
@@ -39,6 +42,44 @@ const lessonCount = new Set(entry.occurrences.map((o) => o.lessonId)).size;
         </p>
       )}
     </header>
+
+    {wikt?.en && wikt.en.length > 0 && (
+      <section class="word-page__section wiktionary wiktionary--en" aria-labelledby="wikt-en-h">
+        <h2 id="wikt-en-h" class="word-page__heading">Definicje (Wiktionary EN)</h2>
+        {wikt.en.map((part) => (
+          <article class="wikt-pos">
+            <h3 class="wikt-pos__heading">{part.partOfSpeech}</h3>
+            <ol class="wikt-defs">
+              {part.definitions.map((def) => (
+                <li class="wikt-def">
+                  <p class="wikt-def__text">{def.text}</p>
+                  {def.examples && def.examples.length > 0 && (
+                    <ul class="wikt-def__examples">
+                      {def.examples.map((ex) => <li><em>{ex}</em></li>)}
+                    </ul>
+                  )}
+                </li>
+              ))}
+            </ol>
+          </article>
+        ))}
+        <p class="wiktionary__attribution">
+          Źródło: <a href={enWiktUrl} target="_blank" rel="noopener noreferrer">Wiktionary (EN)</a>
+          {' · '}licencja <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
+        </p>
+      </section>
+    )}
+
+    {wikt?.pl && (
+      <section class="word-page__section wiktionary wiktionary--pl" aria-labelledby="wikt-pl-h">
+        <h2 id="wikt-pl-h" class="word-page__heading">Wikisłownik (PL)</h2>
+        <p class="wikt-pl-extract">{wikt.pl.extract}</p>
+        <p class="wiktionary__attribution">
+          Źródło: <a href={wikt.pl.url} target="_blank" rel="noopener noreferrer">Wikisłownik</a>
+          {' · '}licencja <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
+        </p>
+      </section>
+    )}
 
     <section class="word-page__section" aria-labelledby="occ-h">
       <h2 id="occ-h" class="word-page__heading">
@@ -217,4 +258,73 @@ const lessonCount = new Set(entry.occurrences.map((o) => o.lessonId)).size;
   .occurrence__level--b2 { background: var(--level-b2); color: var(--level-b2-fg); }
   .occurrence__level--c1 { background: var(--level-c1); color: var(--level-c1-fg); }
   .occurrence__level--c2 { background: var(--level-c2); color: var(--level-c2-fg); }
+
+  /* ── Wiktionary sections ─────────────────────────────────── */
+
+  .wiktionary {
+    margin-block-end: var(--space-6);
+    padding: var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+  }
+
+  .wikt-pos { margin-block-end: var(--space-4); }
+  .wikt-pos:last-child { margin-block-end: 0; }
+
+  .wikt-pos__heading {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    margin-block-end: var(--space-2);
+  }
+
+  .wikt-defs {
+    padding-inline-start: var(--space-5);
+    list-style: decimal;
+  }
+
+  .wikt-def {
+    margin-block-end: var(--space-3);
+  }
+
+  .wikt-def__text {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+  }
+
+  .wikt-def__examples {
+    margin-block-start: var(--space-2);
+    padding-inline-start: var(--space-4);
+    border-inline-start: 2px solid var(--border);
+    list-style: none;
+  }
+
+  .wikt-def__examples li {
+    font-family: var(--font-serif);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-1);
+  }
+
+  .wikt-pl-extract {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+  }
+
+  .wiktionary__attribution {
+    margin-block-start: var(--space-4);
+    padding-block-start: var(--space-3);
+    border-block-start: 1px dashed var(--border);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+  }
+
+  .wiktionary__attribution a { color: var(--text-muted); }
+  .wiktionary__attribution a:hover { color: var(--accent); }
 </style>

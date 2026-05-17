@@ -1,0 +1,47 @@
+{
+  "lemma": "sip",
+  "slug": "sip",
+  "fetchedAt": "2026-05-16T23:46:51.129Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Sikkimese.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small mouthful of drink.",
+          "examples": []
+        },
+        {
+          "text": "An event at which people drink alcohol in small, usually subintoxicating amounts.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To drink slowly, small mouthfuls at a time.",
+          "examples": []
+        },
+        {
+          "text": "To drink a small quantity.",
+          "examples": []
+        },
+        {
+          "text": "To taste the liquor of; to drink out of.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

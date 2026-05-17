@@ -1,0 +1,49 @@
+{
+  "lemma": "guest",
+  "slug": "guest",
+  "fetchedAt": "2026-05-16T23:44:48.696Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A recipient of hospitality, especially someone staying by invitation at the house of another.",
+          "examples": [
+            "The guests were let in by the butler."
+          ]
+        },
+        {
+          "text": "A patron or customer in a hotel etc.",
+          "examples": [
+            "Guests must vacate their rooms by 10 o'clock on their day of departure."
+          ]
+        },
+        {
+          "text": "An invited visitor or performer to an institution or to a broadcast.",
+          "examples": [
+            "special guest",
+            "The guest for the broadcast was a leading footballer."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To appear as a guest, especially on a broadcast.",
+          "examples": []
+        },
+        {
+          "text": "As a musician: to play as a guest, providing an instrument that a band/orchestra does not normally have in its line up (for instance, percussion in a string band).",
+          "examples": []
+        },
+        {
+          "text": "To receive or entertain hospitably.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

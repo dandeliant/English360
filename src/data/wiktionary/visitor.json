@@ -1,0 +1,25 @@
+{
+  "lemma": "visitor",
+  "slug": "visitor",
+  "fetchedAt": "2026-05-16T23:47:47.134Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who visits someone else; someone staying as a guest.",
+          "examples": []
+        },
+        {
+          "text": "Someone who pays a visit to a specific place or event; a sightseer or tourist.",
+          "examples": []
+        },
+        {
+          "text": "Someone, or a team, that is playing away from home.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

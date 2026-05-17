@@ -1,0 +1,27 @@
+{
+  "lemma": "appear",
+  "slug": "appear",
+  "fetchedAt": "2026-05-16T23:43:13.077Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To come or be in sight; to be in view; to become visible.",
+          "examples": []
+        },
+        {
+          "text": "To come before the public.",
+          "examples": [
+            "A great writer appeared at that time."
+          ]
+        },
+        {
+          "text": "To stand in presence of some authority, tribunal, or superior person, to answer a charge, plead a cause, etc.; to present oneself as a party or advocate before a court, or as a person to be tried.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

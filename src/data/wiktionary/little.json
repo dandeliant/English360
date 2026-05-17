@@ -1,0 +1,94 @@
+{
+  "lemma": "little",
+  "slug": "little",
+  "fetchedAt": "2026-05-16T23:45:35.518Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Small, not large, limited, particularly:",
+          "examples": [
+            "This is a little table.",
+            "It’s only a little ways now."
+          ]
+        },
+        {
+          "text": "Small, limited in size.",
+          "examples": [
+            "This is a little table."
+          ]
+        },
+        {
+          "text": "Short, limited in extent.",
+          "examples": [
+            "It’s only a little ways now."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not much.",
+          "examples": [
+            "This is a little-known fact: the new model is little faster than the old one.",
+            "She spoke little and listened less."
+          ]
+        },
+        {
+          "text": "Not at all.",
+          "examples": [
+            "Little did he know that the burglar was creeping upstairs at that very moment.",
+            "She little knew what awaited her."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Not much, only a little: only a small amount (of).",
+          "examples": [
+            "There is (very) little water left.",
+            "We had very little to do."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Not much; not a large amount.",
+          "examples": [
+            "Little is known about his early life."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small amount.",
+          "examples": [
+            "I hope the little we've done will be useful.",
+            "Little did he do to make me comfortable."
+          ]
+        },
+        {
+          "text": "A child, particularly an infant.",
+          "examples": []
+        },
+        {
+          "text": "An adult in a child-like role, or in the more junior of two paired roles.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

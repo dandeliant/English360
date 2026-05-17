@@ -1,0 +1,21 @@
+{
+  "lemma": "century",
+  "slug": "century",
+  "fetchedAt": "2026-05-16T23:43:45.127Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A period of one hundred consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100.",
+          "examples": []
+        },
+        {
+          "text": "A unit in ancient Roman army, originally of one hundred army soldiers as part of a cohort, later of more varied sizes (but typically containing sixty to seventy or eighty) soldiers or other men (guards, police, firemen), commanded by a centurion.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

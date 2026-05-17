@@ -1,0 +1,20 @@
+{
+  "lemma": "rightly",
+  "slug": "rightly",
+  "fetchedAt": "2026-05-16T23:46:45.585Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a right manner; correctly, justifiably.",
+          "examples": [
+            "She was quite rightly disappointed in not being promoted.",
+            "I don't rightly know what he meant by that remark."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

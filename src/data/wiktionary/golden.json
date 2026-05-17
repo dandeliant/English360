@@ -1,0 +1,56 @@
+{
+  "lemma": "golden",
+  "slug": "golden",
+  "fetchedAt": "2026-05-16T23:44:46.015Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Made of, or relating to, gold.",
+          "examples": [
+            "She wore a golden crown."
+          ]
+        },
+        {
+          "text": "Having a color or other richness suggestive of gold.",
+          "examples": [
+            "Under a golden sun.",
+            "golden:"
+          ]
+        },
+        {
+          "text": "Of a beverage, flavoured or colored with turmeric. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Kyphosus vaigiensis, a fish found in southeast Asia.",
+          "examples": []
+        },
+        {
+          "text": "Ellipsis of golden retriever.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become gold or golden (in color).",
+          "examples": []
+        },
+        {
+          "text": "To make golden or like gold.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,40 @@
+{
+  "lemma": "wing",
+  "slug": "wing",
+  "fetchedAt": "2026-05-16T23:47:56.003Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An appendage of an animal's (bird, bat, insect) body that enables it to fly.",
+          "examples": [
+            "The bird was flapping its wings"
+          ]
+        },
+        {
+          "text": "A fin at the side of a ray or similar fish.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To injure slightly (as with a gunshot), especially in the wing or arm.",
+          "examples": []
+        },
+        {
+          "text": "To fly.",
+          "examples": []
+        },
+        {
+          "text": "To travel swiftly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

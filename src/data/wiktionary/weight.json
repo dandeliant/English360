@@ -1,0 +1,38 @@
+{
+  "lemma": "weight",
+  "slug": "weight",
+  "fetchedAt": "2026-05-16T23:47:50.982Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The downwards force an object experiences due to gravity.",
+          "examples": []
+        },
+        {
+          "text": "An object used to make something heavier.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To add weight to something; to make something heavier. To load (fabrics) with barite, etc. to increase the weight.",
+          "examples": []
+        },
+        {
+          "text": "To load (fabrics) with barite, etc. to increase the weight.",
+          "examples": []
+        },
+        {
+          "text": "To load, burden or oppress someone.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

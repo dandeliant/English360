@@ -1,0 +1,21 @@
+{
+  "lemma": "pollinator",
+  "slug": "pollinator",
+  "fetchedAt": "2026-05-16T23:46:28.640Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "the agent that pollinates a plant; often an insect",
+          "examples": []
+        },
+        {
+          "text": "the plant that is the source of pollen for cross-pollination",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

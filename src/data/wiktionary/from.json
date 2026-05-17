@@ -1,0 +1,33 @@
+{
+  "lemma": "from",
+  "slug": "from",
+  "fetchedAt": "2026-05-16T23:44:37.884Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Used to indicate source or provenance.",
+          "examples": [
+            "Paul is from New Zealand.",
+            "I got a letter from my brother."
+          ]
+        },
+        {
+          "text": "Originating at (a year, time, etc.)",
+          "examples": [
+            "This manuscript is from the 1980s."
+          ]
+        },
+        {
+          "text": "Used to indicate a starting point or initial reference.",
+          "examples": [
+            "He had books piled from floor to ceiling.",
+            "He departed yesterday from Chicago."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

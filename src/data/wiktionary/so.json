@@ -1,0 +1,146 @@
+{
+  "lemma": "so",
+  "slug": "so",
+  "fetchedAt": "2026-05-16T23:46:58.470Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Somali.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Reduced form of 'so that', used to express purpose; in order that.",
+          "examples": [
+            "I got an earlier train to work so I'd have plenty of time to prepare for the meeting.",
+            "Eat your broccoli so you can have dessert."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To the (explicitly stated) extent.",
+          "examples": [
+            "It was so hot outside that all the plants died.",
+            "He was so good, they hired him on the spot."
+          ]
+        },
+        {
+          "text": "To the (implied) extent.",
+          "examples": [
+            "I need a piece of cloth so long. [= this long]"
+          ]
+        },
+        {
+          "text": "Very (positive or negative clause).",
+          "examples": [
+            "I feel so much better now.",
+            "I so nearly lost my temper."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Agreeing with actual facts or reality; true.",
+          "examples": [
+            "That is so.",
+            "You are responsible for this, is that not so?"
+          ]
+        },
+        {
+          "text": "In that state or manner; with that attribute. A proadjective that replaces the aforementioned adjective phrase.",
+          "examples": [
+            "\"You're definitely not right about that.\" \"I am so!\" (→I am right about that)."
+          ]
+        },
+        {
+          "text": "Homosexual.",
+          "examples": [
+            "Is he so?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used after a pause for thought to introduce a new topic, question or story, or a new thought or question in continuation of an existing topic.",
+          "examples": [
+            "So, let's go home.",
+            "So, what'll you have?"
+          ]
+        },
+        {
+          "text": "Used as a question to ask for further explanation of something said, often rhetorically or in a dismissive or impolite manner.",
+          "examples": [
+            "\"You park your car in front of my house every morning.\" — \"So?\""
+          ]
+        },
+        {
+          "text": "Used as a meaningless filler word to begin a response to a question.",
+          "examples": [
+            "What are you doing? / So I'm just fixing this shelf.",
+            "What time does the train leave? / So it leaves at 10 o'clock."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "That which was previously mentioned; that.",
+          "examples": [
+            "I'll become a loyal friend and remain so.",
+            "If that's what you really mean, then just say so."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Abbreviation of someone.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A syllable used in solfège to represent the fifth note of a major scale. Sometimes syllable for both the second and the fifth.",
+          "examples": []
+        },
+        {
+          "text": "Sometimes syllable for both the second and the fifth.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A type of dairy product, made especially in Japan between the seventh and tenth centuries, by reducing milk by boiling it.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "however",
+  "slug": "however",
+  "fetchedAt": "2026-05-16T23:45:05.194Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Nevertheless; yet, still; in spite of that.",
+          "examples": [
+            "He told me not to do it. However, I did it anyway. / I did it anyway, however. / I, however, did it anyway."
+          ]
+        },
+        {
+          "text": "In contrast.",
+          "examples": [
+            "The conference itself went very well. The party afterwards, however, was a disaster."
+          ]
+        },
+        {
+          "text": "Regardless of how; no matter how",
+          "examples": [
+            "However clear you think you've been, and however many questions you may've answered, there'll always remain some doubts.",
+            "Any rule of thumb, however true (it is), is useless unless you understand its underlying logic."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "But, yet, though, although.",
+          "examples": [
+            "*She wanted to go, however she decided against it."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

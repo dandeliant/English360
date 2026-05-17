@@ -1,0 +1,68 @@
+{
+  "lemma": "and",
+  "slug": "and",
+  "fetchedAt": "2026-05-16T23:43:07.318Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Ansus.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other. Used simply to connect two noun phrases, adjectives or adverbs. .mw-parser-output .defdate{font-size:smaller} Simply connecting two clauses or sentences. Introducing a clause or sentence which follows on in time or consequence from the first.",
+          "examples": [
+            "I'd been walking since sunrise, and I was hungry.",
+            "Two and two is/are four."
+          ]
+        },
+        {
+          "text": "Used simply to connect two noun phrases, adjectives or adverbs. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Simply connecting two clauses or sentences.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "In rhythm, the second half of a divided beat.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Breath.",
+          "examples": []
+        },
+        {
+          "text": "Sea smoke; steam fog.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To breathe; whisper; devise; imagine.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

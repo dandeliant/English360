@@ -1,0 +1,69 @@
+{
+  "lemma": "at",
+  "slug": "at",
+  "fetchedAt": "2026-05-16T23:43:15.913Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In, near, or in the general vicinity of (a particular place).",
+          "examples": [
+            "Caesar was at Rome.",
+            "A climate treaty was signed at Kyoto in 1997."
+          ]
+        },
+        {
+          "text": "Attending (an educational institution).",
+          "examples": [
+            "She's at Oxford University, studying chemistry."
+          ]
+        },
+        {
+          "text": "Working for (a company) or in (a place or situation).",
+          "examples": [
+            "He used to be at Lehman Brothers. Now he's at Merrill Lynch.",
+            "'Where does he work?' — 'I think he's still at the solicitors.'"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The at sign (@).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Rare form of @; to reply to or talk to someone, either online or face-to-face.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Alternative form of 'at (relative pronoun; reduced form of “that” and/or “what”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of att (Laos currency unit)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

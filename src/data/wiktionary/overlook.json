@@ -1,0 +1,40 @@
+{
+  "lemma": "overlook",
+  "slug": "overlook",
+  "fetchedAt": "2026-05-16T23:46:16.386Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A vista or point that gives a view down toward something else.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To offer a view (of something) from a higher position.",
+          "examples": [
+            "Our hotel room overlooks the lake."
+          ]
+        },
+        {
+          "text": "To fail to notice; to look over and beyond (anything) without seeing it.",
+          "examples": [
+            "These errors were overlooked by the proofreaders."
+          ]
+        },
+        {
+          "text": "To pretend not to have noticed (something, especially a mistake or flaw); to pass over (something) without censure or punishment.",
+          "examples": [
+            "I’m not willing to overlook such bad behaviour."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

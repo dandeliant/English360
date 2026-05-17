@@ -1,0 +1,27 @@
+{
+  "lemma": "extravagance",
+  "slug": "extravagance",
+  "fetchedAt": "2026-05-16T23:44:21.473Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Excessive or superfluous expenditure of money.",
+          "examples": []
+        },
+        {
+          "text": "Prodigality, as of anger, love, expression, imagination, or demands.",
+          "examples": []
+        },
+        {
+          "text": "Something extravagant; something done out of extravagance.",
+          "examples": [
+            "That luxury car is an extravagance you can't afford."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}
