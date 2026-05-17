@@ -1,0 +1,102 @@
+{
+  "lemma": "lead",
+  "slug": "lead",
+  "fetchTerm": "lead",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A heavy, pliable, inelastic metal element, having a bright, bluish color, but easily tarnished; both malleable and ductile, though with little tenacity. It is easily fusible, forms alloys with other metals, and is an ingredient of solder and type metal. Atomic number 82, symbol Pb (from Latin plumbum).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover, fill, or affect with lead.",
+          "examples": [
+            "continuous firing leads the grooves of a rifle."
+          ]
+        },
+        {
+          "text": "To place leads between the lines of.",
+          "examples": [
+            "to lead a page",
+            "leaded matter"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To guide or conduct. To guide or conduct with the hand, or by means of some physical contact connection.",
+          "examples": [
+            "a father leads a child",
+            "a jockey leads a horse with a halter"
+          ]
+        },
+        {
+          "text": "To guide or conduct with the hand, or by means of some physical contact connection.",
+          "examples": [
+            "a father leads a child",
+            "a jockey leads a horse with a halter"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of leading or conducting; guidance; direction, course",
+          "examples": [
+            "to take the lead",
+            "to be under the lead of another"
+          ]
+        },
+        {
+          "text": "Precedence; advance position; also, the measure of precedence; the state of being ahead in a race; the highest score in an incomplete game.",
+          "examples": [
+            "the white horse had the lead.",
+            "to be in the lead"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Foremost.",
+          "examples": [
+            "The contestants are all tied; no one has the lead position."
+          ]
+        },
+        {
+          "text": "Main, principal, primary, first, chief, foremost.",
+          "examples": [
+            "the lead guitarist in band",
+            "the lead developer on a software project"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of led.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:12:17.315Z"
+}

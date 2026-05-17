@@ -1,0 +1,81 @@
+{
+  "lemma": "aim",
+  "slug": "aim",
+  "fetchTerm": "aim",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Aimol.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The pointing of a weapon, as a gun, a dart, or an arrow, or object, in the line of direction with the object intended to be struck; the line of fire; the direction of anything, such as a spear, a blow, a discourse, a remark, towards a particular point or object, with a view to strike or affect it.",
+          "examples": [
+            "to take aim",
+            "Take time with the aim of your gun."
+          ]
+        },
+        {
+          "text": "The point intended to be hit, or object intended to be attained or affected.",
+          "examples": []
+        },
+        {
+          "text": "Intention or goal.",
+          "examples": [
+            "My number one aim in life is to make money to make my parents, siblings, and kids happy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To point or direct a missile, or a weapon which propels as missile, towards an object or spot with the intent of hitting it",
+          "examples": [
+            "He aimed at the target, but the arrow flew straight over it."
+          ]
+        },
+        {
+          "text": "To direct the intention or purpose; to attempt the accomplishment of a purpose; to try to gain; to endeavor;—followed by at, or by an infinitive",
+          "examples": [
+            "to aim at a pass",
+            "to aim to do well in life"
+          ]
+        },
+        {
+          "text": "To direct or point (e.g. a weapon), at a particular object; to direct, as a missile, an act, or a proceeding, at, to, or against an object",
+          "examples": [
+            "to aim an arrow at the deer",
+            "She aimed a punch at her ex-boyfriend."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Initialism of America Online AIM; AOL Instant Messenger.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tarcza",
+    "cel",
+    "celować",
+    "wycelować",
+    "mierzyć"
+  ],
+  "fetchedAt": "2026-05-17T21:10:48.796Z"
+}

@@ -1,0 +1,122 @@
+{
+  "lemma": "still",
+  "slug": "still",
+  "fetchTerm": "still",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not moving; calm.",
+          "examples": [
+            "Sit there and stay still!",
+            "Still waters run deep."
+          ]
+        },
+        {
+          "text": "Not effervescing; not sparkling.",
+          "examples": [
+            "still water; still wines"
+          ]
+        },
+        {
+          "text": "Uttering no sound; silent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Without motion.",
+          "examples": [
+            "They stood still until the guard was out of sight."
+          ]
+        },
+        {
+          "text": "Up to a time, as in the preceding time.",
+          "examples": [
+            "Is it still raining? It was still raining five minutes ago.",
+            "We’ve seen most of the sights, but we are still visiting the museum."
+          ]
+        },
+        {
+          "text": "To an even greater degree. Used to modify comparative adjectives or adverbs.",
+          "examples": [
+            "Tom is tall; Dick is taller; Harry is still taller / Harry is taller still."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A period of calm or silence.",
+          "examples": [
+            "the still of the night"
+          ]
+        },
+        {
+          "text": "A photograph, as opposed to movie footage. A single frame from a film.",
+          "examples": []
+        },
+        {
+          "text": "A single frame from a film.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A device for distilling liquids.",
+          "examples": []
+        },
+        {
+          "text": "A large water boiler used to make tea and coffee.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To calm down, to quiet.",
+          "examples": [
+            "to still the raging sea"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To trickle, drip.",
+          "examples": []
+        },
+        {
+          "text": "To cause to fall by drops.",
+          "examples": []
+        },
+        {
+          "text": "To expel spirit from by heat, or to evaporate and condense in a refrigeratory; to distill.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nieruchomy",
+    "niegazowany",
+    "nadal",
+    "wciąż",
+    "dalej"
+  ],
+  "fetchedAt": "2026-05-17T21:13:35.747Z"
+}

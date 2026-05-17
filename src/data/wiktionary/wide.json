@@ -1,0 +1,67 @@
+{
+  "lemma": "wide",
+  "slug": "wide",
+  "fetchTerm": "wide",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a large physical extent from side to side.",
+          "examples": [
+            "We walked down a wide corridor."
+          ]
+        },
+        {
+          "text": "Large in scope.",
+          "examples": [
+            "The inquiry had a wide remit."
+          ]
+        },
+        {
+          "text": "Overweight, obese.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "extensively",
+          "examples": [
+            "He travelled far and wide."
+          ]
+        },
+        {
+          "text": "completely",
+          "examples": [
+            "He was wide awake."
+          ]
+        },
+        {
+          "text": "away from or to one side of a given goal",
+          "examples": [
+            "The arrow fell wide of the mark.",
+            "A few shots were fired but they all went wide."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A ball that passes so far from the batsman that the umpire deems it unplayable; the arm signal used by an umpire to signal a wide; the extra run added to the batting side's score",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szeroki",
+    "szeroko"
+  ],
+  "fetchedAt": "2026-05-17T21:14:16.002Z"
+}

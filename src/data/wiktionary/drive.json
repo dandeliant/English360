@@ -1,0 +1,54 @@
+{
+  "lemma": "drive",
+  "slug": "drive",
+  "fetchTerm": "drive",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To operate a vehicle: To operate (a wheeled motorized vehicle).",
+          "examples": [
+            "The bridges weren't strong enough to drive (campers) over."
+          ]
+        },
+        {
+          "text": "To operate (a wheeled motorized vehicle).",
+          "examples": [
+            "The bridges weren't strong enough to drive (campers) over."
+          ]
+        },
+        {
+          "text": "To travel by operating a wheeled motorized vehicle.",
+          "examples": [
+            "I drive to work every day."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Planned, usually long-lasting, effort to achieve something; ability coupled with ambition, determination, and motivation.",
+          "examples": [
+            "Crassus had wealth and wit, but Pompey had drive and Caesar as much again."
+          ]
+        },
+        {
+          "text": "Violent or rapid motion; a rushing onward or away; a forced or hurried dispatch of business.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prowadzić",
+    "kierować",
+    "gnać",
+    "wbijać",
+    "wbić"
+  ],
+  "fetchedAt": "2026-05-17T21:11:25.791Z"
+}

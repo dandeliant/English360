@@ -1,0 +1,34 @@
+{
+  "lemma": "nearly",
+  "slug": "nearly",
+  "fetchTerm": "nearly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In close approximation; almost, virtually. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "He left a nearly full beer on the bar.",
+            "I nearly didn't go to work yesterday."
+          ]
+        },
+        {
+          "text": "With great scrutiny; carefully.",
+          "examples": []
+        },
+        {
+          "text": "With close relation; intimately.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prawie",
+    "bez mała",
+    "blisko"
+  ],
+  "fetchedAt": "2026-05-17T21:12:36.028Z"
+}

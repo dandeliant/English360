@@ -1,0 +1,110 @@
+{
+  "lemma": "peak",
+  "slug": "peak",
+  "fetchTerm": "peak",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A point; the sharp end or top of anything that terminates in a point; as, the peak, or front, of a cap.",
+          "examples": []
+        },
+        {
+          "text": "The highest value reached by some quantity in a time period.",
+          "examples": [
+            "The stock market reached a peak in September 1929."
+          ]
+        },
+        {
+          "text": "The top, or one of the tops, of a hill, mountain, or range, ending in a point.",
+          "examples": [
+            "They reached the peak after 8 hours of climbing."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To raise the point of (a gaff) closer to perpendicular.",
+          "examples": []
+        },
+        {
+          "text": "To exceed the maximum signal amplitude of (a piece of equipment), resulting in clipping of the signal.",
+          "examples": []
+        },
+        {
+          "text": "To reach a highest degree or maximum.",
+          "examples": [
+            "Historians argue about when the Roman Empire began to peak and ultimately decay."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "At the greatest extent; maximum.",
+          "examples": [
+            "peak oil, Peak TV"
+          ]
+        },
+        {
+          "text": "Maximal, quintessential, archetypical, strictly with positive connotations; representing the culmination of its type.",
+          "examples": [
+            "Knowing obscure 19th-century slang is peak nerd."
+          ]
+        },
+        {
+          "text": "Bad.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become sick or wan.",
+          "examples": []
+        },
+        {
+          "text": "To acquire sharpness of figure or features; hence, to look thin or sickly.",
+          "examples": []
+        },
+        {
+          "text": "To pry; to peep slyly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of peag (“wampum”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of pique.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczyt",
+    "wierzchołek",
+    "wierch"
+  ],
+  "fetchedAt": "2026-05-17T21:12:50.373Z"
+}

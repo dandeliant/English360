@@ -1,0 +1,100 @@
+{
+  "lemma": "near",
+  "slug": "near",
+  "fetchTerm": "near",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Physically close.",
+          "examples": [
+            "I can't see near objects very clearly without my glasses.",
+            "Stay near at all times."
+          ]
+        },
+        {
+          "text": "Close in time.",
+          "examples": [
+            "The end is near.",
+            "We're getting near to Christmas."
+          ]
+        },
+        {
+          "text": "Closely connected or related.",
+          "examples": [
+            "The deceased man had no near relatives."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At or towards a position close in space or time. (Can we add an example for this sense?)",
+          "examples": []
+        },
+        {
+          "text": "Nearly; almost.",
+          "examples": [
+            "He was near unconscious when I found him.",
+            "I jumped into the near-freezing water."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Physically close to, in close proximity to.",
+          "examples": [
+            "There are habitable planets orbiting many of the stars near our Sun."
+          ]
+        },
+        {
+          "text": "Close to in time.",
+          "examples": [
+            "The voyage was near completion."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To come closer to; to approach.",
+          "examples": [
+            "The ship nears the land."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The left side of a horse or of a team of horses pulling a carriage etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Kidney.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bliski",
+    "blisko"
+  ],
+  "fetchedAt": "2026-05-17T21:12:32.589Z"
+}

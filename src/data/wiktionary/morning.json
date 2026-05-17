@@ -1,0 +1,42 @@
+{
+  "lemma": "morning",
+  "slug": "morning",
+  "fetchTerm": "morning",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The early part of the day, especially from midnight to noon. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I'll see you tomorrow morning.",
+            "I'm working in the morning, so let's meet in the afternoon."
+          ]
+        },
+        {
+          "text": "The early part of anything.",
+          "examples": []
+        },
+        {
+          "text": "That part of the day from dawn until the main meal (typically in late afternoon).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Ellipsis of good morning.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ranek",
+    "rano"
+  ],
+  "fetchedAt": "2026-05-17T21:12:29.393Z"
+}

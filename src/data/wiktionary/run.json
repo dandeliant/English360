@@ -1,0 +1,88 @@
+{
+  "lemma": "run",
+  "slug": "run",
+  "fetchTerm": "run",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-3 language code for Kirundi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move swiftly. To move forward quickly upon two feet by alternately making a short jump off either foot.",
+          "examples": [
+            "Run, and you might still catch the train!",
+            "I have been running all over the building looking for him."
+          ]
+        },
+        {
+          "text": "To move forward quickly upon two feet by alternately making a short jump off either foot.",
+          "examples": [
+            "Run, and you might still catch the train!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Act or instance of running, of moving rapidly using the feet.",
+          "examples": [
+            "I just got back from my morning run."
+          ]
+        },
+        {
+          "text": "Act or instance of hurrying (to or from a place) ; dash or errand, trip.",
+          "examples": [
+            "I need to make a run to the store."
+          ]
+        },
+        {
+          "text": "A pleasure trip.",
+          "examples": [
+            "Let's go for a run in the car."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In a liquid state; melted or molten.",
+          "examples": [
+            "Put some run butter on the vegetables."
+          ]
+        },
+        {
+          "text": "Cast in a mould.",
+          "examples": []
+        },
+        {
+          "text": "Exhausted; depleted .",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "past participle of rin",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:13:16.307Z"
+}

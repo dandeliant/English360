@@ -1,0 +1,43 @@
+{
+  "lemma": "curious",
+  "slug": "curious",
+  "fetchTerm": "curious",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Tending to ask questions, or to want to explore or investigate; inquisitive; nosy, prying.",
+          "examples": [
+            "Young children are naturally curious about the world and everything in it."
+          ]
+        },
+        {
+          "text": "Caused by curiosity.",
+          "examples": []
+        },
+        {
+          "text": "Leading one to ask questions about; somewhat odd, out of the ordinary, or unusual.",
+          "examples": [
+            "The platypus is a curious creature, with fur like a mammal and a beak like a bird."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Containing or pertaining to trivalent curium.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciekawy",
+    "dociekliwy"
+  ],
+  "fetchedAt": "2026-05-17T21:11:14.470Z"
+}

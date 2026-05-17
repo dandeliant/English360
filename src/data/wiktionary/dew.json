@@ -1,0 +1,38 @@
+{
+  "lemma": "dew",
+  "slug": "dew",
+  "fetchTerm": "dew",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any moisture from the atmosphere condensed by cool bodies upon their surfaces.",
+          "examples": []
+        },
+        {
+          "text": "Moisture in the air that settles on plants, etc in the morning or evening, resulting in drops.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To wet with, or as if with, dew; to moisten.",
+          "examples": []
+        },
+        {
+          "text": "To deposit dew.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rosa"
+  ],
+  "fetchedAt": "2026-05-17T21:11:20.795Z"
+}

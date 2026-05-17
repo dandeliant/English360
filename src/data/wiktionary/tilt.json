@@ -1,0 +1,68 @@
+{
+  "lemma": "tilt",
+  "slug": "tilt",
+  "fetchTerm": "tilt",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To slope or incline (something); to slant. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Tilt the barrel to pour out its contents."
+          ]
+        },
+        {
+          "text": "To be at an angle.",
+          "examples": []
+        },
+        {
+          "text": "To charge (at someone) with a lance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A slope or inclination.",
+          "examples": []
+        },
+        {
+          "text": "The inclination of part of the body, such as backbone, pelvis, head, etc.",
+          "examples": []
+        },
+        {
+          "text": "The controlled vertical movement of a camera, or a device to achieve this.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A canvas covering for carts, boats, etc.",
+          "examples": []
+        },
+        {
+          "text": "Any covering overhead; especially, a tent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover with a tilt, or awning.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:13:50.563Z"
+}

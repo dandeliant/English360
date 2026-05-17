@@ -1,0 +1,54 @@
+{
+  "lemma": "vanish",
+  "slug": "vanish",
+  "fetchTerm": "vanish",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become invisible or to move out of view unnoticed.",
+          "examples": []
+        },
+        {
+          "text": "To become equal to zero.",
+          "examples": [
+            "The function f {\\displaystyle f} such as f ( x ) = x 2 {\\displaystyle f(x)=x^{2}} vanishes at x = 0 {\\displaystyle x=0} ."
+          ]
+        },
+        {
+          "text": "To disappear; to kidnap.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The brief terminal part of a vowel or vocal element, differing more or less in quality from the main part.",
+          "examples": [
+            "a as in ale ordinarily ends with a vanish of i as in ill.",
+            "o as in old ordinarily ends with a vanish of oo as in foot."
+          ]
+        },
+        {
+          "text": "A magic trick in which something seems to disappear.",
+          "examples": [
+            "The French drop is a well-known vanish involving sleight of hand."
+          ]
+        },
+        {
+          "text": "A disappearance; a vanishment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "znikać",
+    "zniknąć"
+  ],
+  "fetchedAt": "2026-05-17T21:14:06.141Z"
+}

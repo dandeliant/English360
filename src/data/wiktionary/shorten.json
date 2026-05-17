@@ -1,0 +1,32 @@
+{
+  "lemma": "shorten",
+  "slug": "shorten",
+  "fetchTerm": "shorten",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make shorter; to abbreviate.",
+          "examples": []
+        },
+        {
+          "text": "To become shorter.",
+          "examples": []
+        },
+        {
+          "text": "To make deficient (as to); to deprive (of).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "skracać",
+    "skrócić",
+    "skracać się",
+    "skrócić się"
+  ],
+  "fetchedAt": "2026-05-17T21:13:26.548Z"
+}

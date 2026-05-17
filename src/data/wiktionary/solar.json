@@ -1,0 +1,55 @@
+{
+  "lemma": "solar",
+  "slug": "solar",
+  "fetchTerm": "solar",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the sun; proceeding from the sun.",
+          "examples": [
+            "solar light",
+            "solar rays"
+          ]
+        },
+        {
+          "text": "Born under the predominant influence of the sun.",
+          "examples": []
+        },
+        {
+          "text": "Measured by the progress or revolution of the sun in the ecliptic; as, the solar year.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ellipsis of solar energy.",
+          "examples": []
+        },
+        {
+          "text": "A fictional currency used in science fiction.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A loft or upper chamber forming the private accommodation of the head of the household in a medieval hall; a garret room.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "słoneczny",
+    "solarny"
+  ],
+  "fetchedAt": "2026-05-17T21:13:30.062Z"
+}

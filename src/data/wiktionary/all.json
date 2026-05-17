@@ -1,0 +1,127 @@
+{
+  "lemma": "all",
+  "slug": "all",
+  "fetchTerm": "all",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Allar.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Every individual or anything of the given class, with no exceptions (the noun or noun phrase denoting the class must be plural or uncountable).",
+          "examples": [
+            "All contestants must register for the footrace: we've arranged numbers for them all.",
+            "List all books of which you were the sole or co-author."
+          ]
+        },
+        {
+          "text": "Throughout the whole of (a stated period of time; generally used with units of a day or longer).",
+          "examples": [
+            "The store is open all day and all night.",
+            "I’ve been working on this all year."
+          ]
+        },
+        {
+          "text": "Only; alone; nothing but.",
+          "examples": [
+            "He's all talk; he never puts his ideas into practice."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Everything.",
+          "examples": [
+            "Some gave all they had.",
+            "She knows all and sees all."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Wholly; entirely; completely; totally.",
+          "examples": [
+            "She was sitting all alone. It suddenly went all quiet.I'm all done, Mommy! I did it all by myself."
+          ]
+        },
+        {
+          "text": "Apiece; each.",
+          "examples": [
+            "The score was 30 all when the rain delay started."
+          ]
+        },
+        {
+          "text": "So much; used with \"the\" and a comparative.",
+          "examples": [
+            "Don't want to go? All the better since I lost the tickets.",
+            "If he leave the company, I'll have to work all the harder."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Everything that one is capable of.",
+          "examples": [
+            "She gave her all, and collapsed at the finish line."
+          ]
+        },
+        {
+          "text": "The totality of one's possessions.",
+          "examples": []
+        },
+        {
+          "text": "Everything in general; all that matters.",
+          "examples": [
+            "I will die fighting for my people, because my people are all."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Although.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "All gone; dead.",
+          "examples": [
+            "The butter is all."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wszystek",
+    "cały",
+    "całkowicie",
+    "zupełnie",
+    "kompletnie"
+  ],
+  "fetchedAt": "2026-05-17T21:10:53.062Z"
+}

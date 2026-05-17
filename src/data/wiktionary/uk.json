@@ -1,0 +1,19 @@
+{
+  "lemma": "uk",
+  "slug": "uk",
+  "fetchTerm": "uk",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Ukrainian.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:13:57.589Z"
+}

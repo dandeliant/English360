@@ -1,0 +1,102 @@
+{
+  "lemma": "w",
+  "slug": "w",
+  "fetchTerm": "w",
+  "en": [
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The twenty-third letter of the basic modern Latin alphabet.",
+          "examples": []
+        },
+        {
+          "text": "The first letter of callsigns allocated to American broadcast television and radio stations east of the Mississippi river.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "a voiced labial-velar (or, more precisely, labialized velar) approximant.",
+          "examples": []
+        },
+        {
+          "text": "labialization ([w]-coloring) or a consonant or vowel; or a weak, fleeting or epenthetic [w].",
+          "examples": [
+            "Specifically, on a vowel letter: an [u] off-glide (diphthong) or a protruded (as opposed to compressed) vowel, e.g. Swedish /yʷː/."
+          ]
+        },
+        {
+          "text": "labialization.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The twenty-third letter of the English alphabet, called double-u and written in the Latin script.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "watt",
+          "examples": []
+        },
+        {
+          "text": "west",
+          "examples": []
+        },
+        {
+          "text": "witness",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "wide",
+          "examples": []
+        },
+        {
+          "text": "white",
+          "examples": []
+        },
+        {
+          "text": "(from noun sense 5) successful, admirable, good",
+          "examples": [
+            "W rizz."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Abbreviation of with.",
+          "examples": []
+        },
+        {
+          "text": "with a wing (on the Enneagram)",
+          "examples": [
+            "When Sharon took the Enneagram test, she came out as a 3w2."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:14:07.855Z"
+}

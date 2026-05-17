@@ -1,0 +1,35 @@
+{
+  "lemma": "asphalt",
+  "slug": "asphalt",
+  "fetchTerm": "asphalt",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sticky, black to brown and highly viscous liquid or semi-solid, composed almost entirely of bitumen with small mineral particles, that is present in most crude petroleums and in some natural deposits.",
+          "examples": [
+            "The mining of asphalt was big business in this area in the early twentieth century."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pave with asphalt.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "asfalt",
+    "asfaltować",
+    "wyasfaltować",
+    "zaasfaltować"
+  ],
+  "fetchedAt": "2026-05-17T21:10:57.301Z"
+}

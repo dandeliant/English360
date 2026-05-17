@@ -1,0 +1,48 @@
+{
+  "lemma": "st",
+  "slug": "st",
+  "fetchTerm": "st",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Sotho.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "(Can we verify this sense?) Expressing a sudden desire for silence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of st. and St.; abbreviation of street.",
+          "examples": []
+        },
+        {
+          "text": "Abbreviation of state.",
+          "examples": []
+        },
+        {
+          "text": "Abbreviation of stone; not capitalized or usually spaced.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ul.",
+    "św."
+  ],
+  "fetchedAt": "2026-05-17T21:13:32.805Z"
+}

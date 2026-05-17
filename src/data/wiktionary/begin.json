@@ -1,0 +1,38 @@
+{
+  "lemma": "begin",
+  "slug": "begin",
+  "fetchTerm": "begin",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To start, to initiate or take the first step into something.",
+          "examples": [
+            "I began playing the piano at the age of five.",
+            "Now that everyone is here, we should begin the presentation."
+          ]
+        },
+        {
+          "text": "To come into existence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Beginning; start.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zaczynać",
+    "zacząć"
+  ],
+  "fetchedAt": "2026-05-17T21:11:00.762Z"
+}

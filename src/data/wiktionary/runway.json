@@ -1,0 +1,27 @@
+{
+  "lemma": "runway",
+  "slug": "runway",
+  "fetchTerm": "runway",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A defined, narrow section of land or an artificial structure used for access.",
+          "examples": []
+        },
+        {
+          "text": "The usual path taken by deer or other wild animals, such as from a forest to a water source.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wybieg",
+    "droga startowa",
+    "pas startowy"
+  ],
+  "fetchedAt": "2026-05-17T21:13:17.708Z"
+}

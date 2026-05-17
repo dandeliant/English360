@@ -1,0 +1,85 @@
+{
+  "lemma": "reach",
+  "slug": "reach",
+  "fetchTerm": "reach",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To extend, stretch, or thrust out (for example a limb or object held in the hand).",
+          "examples": [
+            "He reached for a weapon that was on the table.",
+            "He reached for his shoe with his legs."
+          ]
+        },
+        {
+          "text": "To give to someone by stretching out a limb, especially the hand; to give with the hand; to pass to another person; to hand over.",
+          "examples": [
+            "to reach someone a book"
+          ]
+        },
+        {
+          "text": "To stretch out the hand.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of stretching or extending; extension.",
+          "examples": []
+        },
+        {
+          "text": "The ability to reach or touch with the person, a limb, or something held or thrown.",
+          "examples": [
+            "The fruit is beyond my reach.",
+            "to be within reach of cannon shot"
+          ]
+        },
+        {
+          "text": "The power of stretching out or extending action, influence, or the like; power of attainment or management; extent of force or capacity.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of retch.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of retch.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of riichi.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "docierać",
+    "dotrzeć",
+    "sięgać",
+    "sięgnąć",
+    "dosięgać"
+  ],
+  "fetchedAt": "2026-05-17T21:13:08.451Z"
+}

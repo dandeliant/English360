@@ -1,0 +1,74 @@
+{
+  "lemma": "read",
+  "slug": "read",
+  "fetchTerm": "read",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To look at and interpret letters or other information that is written.",
+          "examples": [
+            "Have you read this book?",
+            "He doesn’t like to read."
+          ]
+        },
+        {
+          "text": "To be understood or physically read in a specific way.",
+          "examples": [
+            "Arabic reads right to left.",
+            "That sentence reads strangely."
+          ]
+        },
+        {
+          "text": "To read a work or works written by the named author.",
+          "examples": [
+            "At the moment I'm reading Milton."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A reading or an act of reading, especially of an actor's part of a play or a piece of stored data.",
+          "examples": [
+            "I had a read of the evening papers."
+          ]
+        },
+        {
+          "text": "Something to be read; a written work.",
+          "examples": [
+            "His thrillers are always a gripping read."
+          ]
+        },
+        {
+          "text": "A person's interpretation or impression of something.",
+          "examples": [
+            "What's your read of the current political situation?",
+            "On the quarterback's first read of the situation, his target receiver was not open."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of read",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czytać",
+    "przeczytać",
+    "odczytywać",
+    "odczytać",
+    "studiować"
+  ],
+  "fetchedAt": "2026-05-17T21:13:10.209Z"
+}

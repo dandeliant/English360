@@ -1,0 +1,31 @@
+{
+  "lemma": "luminous",
+  "slug": "luminous",
+  "fetchTerm": "luminous",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Emitting light; glowing brightly; shining.",
+          "examples": []
+        },
+        {
+          "text": "Brightly illuminated.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        },
+        {
+          "text": "Clear; enlightening; easy to understand.",
+          "examples": [
+            "a luminous explanation"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:12:20.237Z"
+}

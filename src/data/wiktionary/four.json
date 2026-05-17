@@ -1,0 +1,59 @@
+{
+  "lemma": "four",
+  "slug": "four",
+  "fetchTerm": "four",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO ICAO radiotelephony clear code (spelling-alphabet name) for the digit 4.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "A numerical value equal to 4; the number after three and before five; two plus two. This many dots (••••)",
+          "examples": [
+            "There are four seasons: spring, summer, autumn and winter."
+          ]
+        },
+        {
+          "text": "Describing a set or group with four elements.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The digit or figure 4; an occurrence thereof.",
+          "examples": []
+        },
+        {
+          "text": "Anything measuring four units, as length.",
+          "examples": [
+            "Do you have any more fours? I want to make this a little taller."
+          ]
+        },
+        {
+          "text": "Four o'clock.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cztery",
+    "czworo",
+    "czwórka",
+    "czterolatek",
+    "czterolatka"
+  ],
+  "fetchedAt": "2026-05-17T21:11:34.907Z"
+}

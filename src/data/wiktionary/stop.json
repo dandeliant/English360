@@ -1,0 +1,81 @@
+{
+  "lemma": "stop",
+  "slug": "stop",
+  "fetchTerm": "stop",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "ITU IMO radiotelephony clear code (spelling-alphabet name) for full stop / period.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cease moving.",
+          "examples": [
+            "I stopped at the traffic lights."
+          ]
+        },
+        {
+          "text": "Not to continue.",
+          "examples": [
+            "The riots stopped when police moved in.",
+            "Soon the rain will stop."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A (usually marked) place where buses, trams or trains halt to let passengers get on and off, usually smaller than a station.",
+          "examples": [
+            "Related terms: halt, station.",
+            "They agreed to meet at the bus stop."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Punctuation mark",
+      "definitions": [
+        {
+          "text": "Used to indicate the end of a sentence in a telegram.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small well-bucket; a milk-pail.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The squark that is the superpartner of a top quark.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zatrzymać się",
+    "przestać",
+    "zatrzymać",
+    "przystanek"
+  ],
+  "fetchedAt": "2026-05-17T21:13:36.916Z"
+}

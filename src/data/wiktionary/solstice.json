@@ -1,0 +1,21 @@
+{
+  "lemma": "solstice",
+  "slug": "solstice",
+  "fetchTerm": "solstice",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the two points in the ecliptic at which the sun is furthest from the celestial equator. This corresponds to one of two days in the year when the day is either longest or shortest.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przesilenie"
+  ],
+  "fetchedAt": "2026-05-17T21:13:31.418Z"
+}

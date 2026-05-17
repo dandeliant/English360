@@ -1,0 +1,50 @@
+{
+  "lemma": "onward",
+  "slug": "onward",
+  "fetchTerm": "onward",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Moving forward.",
+          "examples": [
+            "There was an onward rush as the gates opened."
+          ]
+        },
+        {
+          "text": "Advanced in a forward direction or toward an end.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a forward direction.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To keep going; to progress or persevere.",
+          "examples": []
+        },
+        {
+          "text": "To pass (something) onward; to forward.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "w przód",
+    "do przodu"
+  ],
+  "fetchedAt": "2026-05-17T21:12:42.729Z"
+}

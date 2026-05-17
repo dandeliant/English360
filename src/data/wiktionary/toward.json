@@ -1,0 +1,56 @@
+{
+  "lemma": "toward",
+  "slug": "toward",
+  "fetchTerm": "toward",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In the direction of.",
+          "examples": [
+            "She moved toward the door."
+          ]
+        },
+        {
+          "text": "In relation to (someone or something).",
+          "examples": [
+            "What are your feelings toward him?"
+          ]
+        },
+        {
+          "text": "For the purpose of attaining (an aim).",
+          "examples": [
+            "I'm saving money toward retirement."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Yielding, pliant; docile; ready or apt to learn; not froward.",
+          "examples": []
+        },
+        {
+          "text": "Approaching, coming near; impending; present, at hand.",
+          "examples": []
+        },
+        {
+          "text": "Promising, likely.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ku",
+    "do",
+    "w stronę",
+    "w kierunku",
+    "o"
+  ],
+  "fetchedAt": "2026-05-17T21:13:53.528Z"
+}

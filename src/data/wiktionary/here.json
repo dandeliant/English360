@@ -1,0 +1,92 @@
+{
+  "lemma": "here",
+  "slug": "here",
+  "fetchTerm": "here",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In, on, or at this place (a place perceived to be close to the speaker); compare there.",
+          "examples": [
+            "You wait here while I fetch my coat.",
+            "Ms. Doe is not here at the moment."
+          ]
+        },
+        {
+          "text": "At this point or stage (in a process, argument, narration, etc.)",
+          "examples": [
+            "I've had enough of peeling potatoes. I'm stopping here.",
+            "Here endeth the lesson."
+          ]
+        },
+        {
+          "text": "In this matter.",
+          "examples": [
+            "You say that all men are born equal, but here I must disagree with you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Alive",
+          "examples": [
+            "I'm not dead yet! I'm still here!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "This place; this location.",
+          "examples": [
+            "Here is where I met my spouse twelve years ago.",
+            "An Alzheimer patient's here may in his mind be anywhere he called home in the time he presently re-lives."
+          ]
+        },
+        {
+          "text": "This point or stage in time, conceptualised as a location.",
+          "examples": [
+            "I'd like to continue my story, but here is where I must stop.",
+            "I've done as much as I can; you'll have to take it from here."
+          ]
+        },
+        {
+          "text": "(Can we verify this sense?) This time, the present situation. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used semi-assertively to offer something to the listener.",
+          "examples": [
+            "Here, now I'm giving it to you."
+          ]
+        },
+        {
+          "text": "Used for emphasis at the beginning of a sentence when expressing an opinion or want.",
+          "examples": [
+            "Here, I'm tired and I want a drink."
+          ]
+        },
+        {
+          "text": "Used to attract someone's attention, often in a hostile way.",
+          "examples": [
+            "Here! You! Stop doing that!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:11:45.799Z"
+}

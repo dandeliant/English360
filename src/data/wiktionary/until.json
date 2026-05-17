@@ -1,0 +1,51 @@
+{
+  "lemma": "until",
+  "slug": "until",
+  "fetchTerm": "until",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Up to the time of (something happening); pending.",
+          "examples": [
+            "If you can wait until after my meeting with her, we'll talk then."
+          ]
+        },
+        {
+          "text": "Up to (a certain place)",
+          "examples": [
+            "Keep walking until the second set of traffic lights, then turn left."
+          ]
+        },
+        {
+          "text": "Before (a time).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Up to the time that (a condition becomes true).",
+          "examples": [
+            "Not until I got his email did I fully understand his disappointment.",
+            "It took us a week before/until we got the house repainted."
+          ]
+        },
+        {
+          "text": "Before (a condition becoming true).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "do",
+    "aż",
+    "dopóki nie"
+  ],
+  "fetchedAt": "2026-05-17T21:13:59.333Z"
+}

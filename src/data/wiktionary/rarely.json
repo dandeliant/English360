@@ -1,0 +1,36 @@
+{
+  "lemma": "rarely",
+  "slug": "rarely",
+  "fetchTerm": "rarely",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not occurring at a regular interval; seldom; not often. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "We rarely go to the theatre.",
+            "Rarely do you ever find an eagle this far up the river."
+          ]
+        },
+        {
+          "text": "Unusually well; excellently.",
+          "examples": [
+            "After all the schooling, I can finally write rarely now."
+          ]
+        },
+        {
+          "text": "To a rare degree; very.",
+          "examples": [
+            "I became a rarely good judge of the best in modern painting."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rzadko"
+  ],
+  "fetchedAt": "2026-05-17T21:13:06.888Z"
+}

@@ -1,0 +1,67 @@
+{
+  "lemma": "late",
+  "slug": "late",
+  "fetchTerm": "late",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Near the end of a period of time.",
+          "examples": [
+            "The seedlings appeared to be coming along nicely until a late frost killed them.",
+            "The meeting is convened for late morning."
+          ]
+        },
+        {
+          "text": "Specifically, near the end of the day.",
+          "examples": [
+            "It was getting late and I was tired."
+          ]
+        },
+        {
+          "text": "Associated with the end of a period.",
+          "examples": [
+            "Late Latin is less fully inflected than Classical Latin."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shift (scheduled work period) that takes place late in the day or at night.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "After a deadline has passed, past a designated time.",
+          "examples": [
+            "We drove as fast as we could, but we still arrived late."
+          ]
+        },
+        {
+          "text": "Formerly, especially in the context of service in a military unit.",
+          "examples": [
+            "Colonel Easterwood, late of the 34th Carbines, was a guest at the dinner party.",
+            "The Hendersons will all be there / Late of Pablo Fanque's Fair / What a scene!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "późny",
+    "spóźniony",
+    "zmarły",
+    "świętej pamięci",
+    "późno"
+  ],
+  "fetchedAt": "2026-05-17T21:12:15.575Z"
+}

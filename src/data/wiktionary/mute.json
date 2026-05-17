@@ -1,0 +1,89 @@
+{
+  "lemma": "mute",
+  "slug": "mute",
+  "fetchTerm": "mute",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not having the power of speech; dumb. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Silent; not making a sound.",
+          "examples": []
+        },
+        {
+          "text": "Not uttered; unpronounced; silent; also, produced by complete closure of the mouth organs which interrupt the passage of breath; said of certain letters.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A stopped consonant; a stop.",
+          "examples": []
+        },
+        {
+          "text": "An actor who does not speak; a mime performer.",
+          "examples": []
+        },
+        {
+          "text": "A person who does not have the power of speech.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To silence, to make quiet.",
+          "examples": []
+        },
+        {
+          "text": "To turn off the sound of.",
+          "examples": [
+            "Please mute the music while I make a call."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a bird: to defecate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The faeces of a hawk or falcon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cast off; to moult.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "niemy",
+    "milczący"
+  ],
+  "fetchedAt": "2026-05-17T21:12:31.047Z"
+}

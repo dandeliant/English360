@@ -1,0 +1,59 @@
+{
+  "lemma": "tone",
+  "slug": "tone",
+  "fetchTerm": "tone",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A specific pitch.",
+          "examples": []
+        },
+        {
+          "text": "(in the diatonic scale) An interval of a major second.",
+          "examples": []
+        },
+        {
+          "text": "(in a Gregorian chant) A recitational melody.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "to give a particular tone to",
+          "examples": []
+        },
+        {
+          "text": "to change the colour of",
+          "examples": []
+        },
+        {
+          "text": "to make (something) firmer",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "the one (of two)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ton",
+    "barwa",
+    "brzmienie",
+    "zabarwienie",
+    "odcień"
+  ],
+  "fetchedAt": "2026-05-17T21:13:52.112Z"
+}

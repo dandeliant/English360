@@ -1,0 +1,40 @@
+{
+  "lemma": "maximum",
+  "slug": "maximum",
+  "fetchTerm": "maximum",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The highest limit.",
+          "examples": []
+        },
+        {
+          "text": "The greatest value of a set or other mathematical structure, especially the global maximum or a local maximum of a function.",
+          "examples": []
+        },
+        {
+          "text": "An upper bound of a set which is also an element of that set.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "To the highest degree.",
+          "examples": [
+            "Use the proper dose for the maximum effect."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "maksimum"
+  ],
+  "fetchedAt": "2026-05-17T21:12:23.320Z"
+}

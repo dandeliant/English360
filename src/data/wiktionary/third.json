@@ -1,0 +1,57 @@
+{
+  "lemma": "third",
+  "slug": "third",
+  "fetchTerm": "third",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "The ordinal form of the cardinal number three; Coming after the second.",
+          "examples": [
+            "The third tree from the left is my favorite."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The person or thing in the third position.",
+          "examples": [
+            "Jones came in third."
+          ]
+        },
+        {
+          "text": "One of three equal parts of a whole.",
+          "examples": [
+            "He ate a third of the pie. Divided by two-thirds."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To agree with a proposition or statement after it has already been seconded.",
+          "examples": []
+        },
+        {
+          "text": "To divide into three equal parts.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trzeci",
+    "trzecia",
+    "tercja",
+    "popierać coś jako trzecia osoba",
+    "poprzeć coś jako trzecia osoba"
+  ],
+  "fetchedAt": "2026-05-17T21:13:47.806Z"
+}

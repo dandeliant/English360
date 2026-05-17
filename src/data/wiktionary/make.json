@@ -1,0 +1,85 @@
+{
+  "lemma": "make",
+  "slug": "make",
+  "fetchTerm": "make",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To create. To build, construct, produce, or originate.",
+          "examples": [
+            "We made a bird feeder for our yard.",
+            "I'll make a man out of him yet."
+          ]
+        },
+        {
+          "text": "To build, construct, produce, or originate.",
+          "examples": [
+            "We made a bird feeder for our yard.",
+            "I'll make a man out of him yet."
+          ]
+        },
+        {
+          "text": "To write or compose.",
+          "examples": [
+            "I made a poem for her wedding.",
+            "He made a will."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Brand; marque; manufacturer; maker.",
+          "examples": [
+            "we service all makes and models",
+            "Q: What make and model of car do you drive? A: It's a Buick LaCrosse."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Past, present, or future target of seduction (usually female).",
+          "examples": []
+        },
+        {
+          "text": "Mate; a spouse or companion; a match.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A halfpenny.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An agricultural tool resembling a scythe, used to cut (harvest) certain plants such as peas, reeds, or tares.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "konstruować",
+    "wytwarzać",
+    "wytworzyć",
+    "wyrabiać",
+    "wyrobić"
+  ],
+  "fetchedAt": "2026-05-17T21:12:22.016Z"
+}

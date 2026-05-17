@@ -1,0 +1,55 @@
+{
+  "lemma": "melt",
+  "slug": "melt",
+  "fetchTerm": "melt",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To change (or to be changed) from a solid state to a liquid state, usually by a gradual heat.",
+          "examples": [
+            "I melted butter to make a cake.",
+            "When the weather is warm, the snowman will disappear; he will melt."
+          ]
+        },
+        {
+          "text": "To dissolve, disperse, vanish.",
+          "examples": [
+            "His troubles melted away."
+          ]
+        },
+        {
+          "text": "To soften, as by a warming or kindly influence; to relax; to render gentle or susceptible to mild influences; sometimes, in a bad sense, to take away the firmness of; to weaken.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Molten material, the product of melting.",
+          "examples": []
+        },
+        {
+          "text": "The transition of matter from a solid state to a liquid state.",
+          "examples": []
+        },
+        {
+          "text": "The springtime snow runoff in mountain regions.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "topnieć",
+    "stopnieć",
+    "topić się",
+    "stopić się",
+    "topić"
+  ],
+  "fetchedAt": "2026-05-17T21:12:26.319Z"
+}

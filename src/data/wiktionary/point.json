@@ -1,0 +1,78 @@
+{
+  "lemma": "point",
+  "slug": "point",
+  "fetchTerm": "point",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small dot or mark. Something tiny, as a pinprick; a very small mark. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The stars showed as tiny points of yellow light.",
+            "10.5 is \"ten point five\", or ten and a half."
+          ]
+        },
+        {
+          "text": "Something tiny, as a pinprick; a very small mark. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The stars showed as tiny points of yellow light."
+          ]
+        },
+        {
+          "text": "A full stop or other terminal punctuation mark.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "point taken; understood; got it",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+          "examples": [
+            "It's rude to point at other people."
+          ]
+        },
+        {
+          "text": "To draw attention to something or indicate a direction.",
+          "examples": [
+            "The arrow of a compass points north",
+            "The skis were pointing uphill."
+          ]
+        },
+        {
+          "text": "To face in a particular direction.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To appoint.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chwila",
+    "moment",
+    "punkt widzenia",
+    "racja",
+    "argument"
+  ],
+  "fetchedAt": "2026-05-17T21:12:58.629Z"
+}

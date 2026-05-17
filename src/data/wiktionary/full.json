@@ -1,0 +1,92 @@
+{
+  "lemma": "full",
+  "slug": "full",
+  "fetchTerm": "full",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Containing the maximum possible amount that can fit in the space available.",
+          "examples": [
+            "The jugs were full to the point of overflowing."
+          ]
+        },
+        {
+          "text": "Complete; with nothing omitted.",
+          "examples": [
+            "Our book gives full treatment to the subject of angling."
+          ]
+        },
+        {
+          "text": "Surjective as a map of morphisms",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Fully; quite; very; thoroughly; completely; exactly; entirely.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Utmost measure or extent; highest state or degree; the state, position, or moment of fullness; fill.",
+          "examples": [
+            "I was fed to the full."
+          ]
+        },
+        {
+          "text": "The phase of the moon when its entire face is illuminated, full moon.",
+          "examples": []
+        },
+        {
+          "text": "A flip involving a complete turn in midair.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become full or wholly illuminated.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To baptise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make cloth denser and firmer by soaking, beating and pressing; to waulk or walk.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pełny",
+    "cały",
+    "syty",
+    "pełnia",
+    "folować"
+  ],
+  "fetchedAt": "2026-05-17T21:11:38.562Z"
+}

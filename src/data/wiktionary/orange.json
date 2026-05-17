@@ -1,0 +1,50 @@
+{
+  "lemma": "orange",
+  "slug": "orange",
+  "fetchTerm": "orange",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An evergreen tree of the genus Citrus such as Citrus sinensis which yields oranges (the fruit).",
+          "examples": []
+        },
+        {
+          "text": "Any round citrus fruit with a yellow-red colour when ripe and a sour-sweet taste; the fruit of the orange tree. Specifically, a sweet orange or Citrus sinensis.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having the colour of the fruit of an orange tree; yellowred; reddish-yellow.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To colour orange.",
+          "examples": []
+        },
+        {
+          "text": "To become orange.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pomarańcza",
+    "drzewo pomarańczowe",
+    "pomarańcz",
+    "pomarańczowy"
+  ],
+  "fetchedAt": "2026-05-17T21:12:44.119Z"
+}

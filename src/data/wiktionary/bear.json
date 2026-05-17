@@ -1,0 +1,92 @@
+{
+  "lemma": "bear",
+  "slug": "bear",
+  "fetchTerm": "bear",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large, generally omnivorous mammal (a few species are purely carnivorous or herbivorous) of the family Ursidae; having shaggy fur, a very small tail, and flat feet. The meat of this animal.",
+          "examples": [
+            "We had barbecued bear for dinner."
+          ]
+        },
+        {
+          "text": "The meat of this animal.",
+          "examples": [
+            "We had barbecued bear for dinner."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To endeavour to depress the price of, or prices in.",
+          "examples": [
+            "to bear a railroad stock",
+            "to bear the market"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Characterized by declining prices in securities markets or by belief that the prices will fall.",
+          "examples": [
+            "The great bear market starting in 1929 scared a whole generation of investors."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To carry or convey, literally or figuratively.",
+          "examples": [
+            "They came bearing gifts.",
+            "Judging from the look on his face, he wasn't bearing good news."
+          ]
+        },
+        {
+          "text": "To carry (weapons, flags or symbols of rank, office, etc.) upon one's person, especially visibly; to be equipped with (weapons, etc.).",
+          "examples": [
+            "the right to bear arms"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of bere (“barley”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of bere (“pillowcase”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nosić",
+    "zeznawać",
+    "znosić",
+    "znieść",
+    "cierpieć"
+  ],
+  "fetchedAt": "2026-05-17T21:10:59.241Z"
+}

@@ -1,0 +1,64 @@
+{
+  "lemma": "fade",
+  "slug": "fade",
+  "fetchTerm": "fade",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Weak; insipid; tasteless.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A golf shot that curves intentionally to the player's right (if they are right-handed) or to the left (if left-handed).",
+          "examples": []
+        },
+        {
+          "text": "A haircut where the hair is short or shaved on the sides of the head and longer on top. See also high-top fade and low fade.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hit the ball with the shot called a fade.",
+          "examples": []
+        },
+        {
+          "text": "To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.",
+          "examples": []
+        },
+        {
+          "text": "To lose freshness, color, or brightness; to become faint in hue or tint; hence, to be wanting in color.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Strong; bold; doughty.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "więdnąć",
+    "zwiędnąć",
+    "blaknąć",
+    "wyblaknąć",
+    "zblaknąć"
+  ],
+  "fetchedAt": "2026-05-17T21:11:33.179Z"
+}

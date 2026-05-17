@@ -1,0 +1,67 @@
+{
+  "lemma": "young",
+  "slug": "young",
+  "fetchTerm": "young",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In the early part of growth or life; born not long ago.",
+          "examples": [
+            "a lamb is a young sheep",
+            "these picture books are for young readers"
+          ]
+        },
+        {
+          "text": "At an early stage of existence or development; having recently come into existence.",
+          "examples": [
+            "the age of space travel is still young",
+            "a young business"
+          ]
+        },
+        {
+          "text": "(Not) advanced in age; (far towards or) at a specified stage of existence or age.",
+          "examples": [
+            "How young is your dog?",
+            "Her grandmother turned 70 years young last month."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Offspring, especially the immature offspring of animals.",
+          "examples": [
+            "The lion caught a gnu to feed its young.",
+            "The lion's young are curious about the world around them."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become or seem to become younger.",
+          "examples": []
+        },
+        {
+          "text": "To cause to appear younger.",
+          "examples": []
+        },
+        {
+          "text": "To exhibit younging.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "młode"
+  ],
+  "fetchedAt": "2026-05-17T21:14:21.680Z"
+}

@@ -1,0 +1,52 @@
+{
+  "lemma": "if",
+  "slug": "if",
+  "fetchTerm": "if",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Supposing that, assuming that, in the circumstances that; used to introduce a condition that may be (or prove to be) either true or false.",
+          "examples": [
+            "If crossing the road, make sure you look both ways.",
+            "If I give you the money would/will you buy it for me?"
+          ]
+        },
+        {
+          "text": "A keyword that invokes conditional processing: in the event that a given condition is true, execute the given statement(s) (otherwise execute other statements).",
+          "examples": [
+            "if A then B else C"
+          ]
+        },
+        {
+          "text": "Supposing that; used with past or past perfect subjunctive to indicate a counterfactual or hypothetical condition.",
+          "examples": [
+            "If she hadn't told me, I wouldn't know.",
+            "\"You would be healthier if you would give up smoking\" \"Well, if I were rich, I'd go to one of those hypnosis therapies to quit\"."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An uncertainty, possibility, condition, doubt etc.",
+          "examples": [
+            "The board can't approve this project; there are too many ifs."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jeśli",
+    "jeżeli",
+    "gdyby",
+    "jak",
+    "tyle że"
+  ],
+  "fetchedAt": "2026-05-17T21:11:48.656Z"
+}

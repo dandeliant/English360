@@ -1,0 +1,60 @@
+{
+  "lemma": "twilight",
+  "slug": "twilight",
+  "fetchTerm": "twilight",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The soft light in the sky seen before the rising and (especially) after the setting of the sun, occasioned by the illumination of the earth’s atmosphere by the direct rays of the sun and their reflection on the earth.",
+          "examples": [
+            "I could just make out her face in the twilight."
+          ]
+        },
+        {
+          "text": "The time when said light is visible; the period between daylight and darkness.",
+          "examples": [
+            "It was twilight by the time I got back home."
+          ]
+        },
+        {
+          "text": "Any faint light through which something is seen.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to or resembling twilight; faintly illuminated; obscure.",
+          "examples": []
+        },
+        {
+          "text": "Synonym of mesopelagic (“Describing the pelagic zone of the ocean between the photic epipelagic and the aphotic bathypelagic zones, characterized by very minimal light.”)",
+          "examples": [
+            "twilight zone"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To illuminate faintly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zmierzch",
+    "zmrok",
+    "półmrok",
+    "półzmrok"
+  ],
+  "fetchedAt": "2026-05-17T21:13:56.325Z"
+}

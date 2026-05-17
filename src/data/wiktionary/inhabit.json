@@ -1,0 +1,33 @@
+{
+  "lemma": "inhabit",
+  "slug": "inhabit",
+  "fetchTerm": "inhabit",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To live or reside in.",
+          "examples": [
+            "The Inuit inhabit the Arctic."
+          ]
+        },
+        {
+          "text": "To be present in.",
+          "examples": [
+            "Strange thoughts inhabit my mind."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zamieszkiwać",
+    "zamieszkać",
+    "zajmować",
+    "zająć",
+    "wypełniać"
+  ],
+  "fetchedAt": "2026-05-17T21:11:52.411Z"
+}

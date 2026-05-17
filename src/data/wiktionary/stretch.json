@@ -1,0 +1,63 @@
+{
+  "lemma": "stretch",
+  "slug": "stretch",
+  "fetchTerm": "stretch",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lengthen by pulling.",
+          "examples": [
+            "I stretched the rubber band until it almost broke."
+          ]
+        },
+        {
+          "text": "To lengthen when pulled.",
+          "examples": [
+            "The rubber band stretched almost to the breaking point."
+          ]
+        },
+        {
+          "text": "To pull tight.",
+          "examples": [
+            "First, stretch the skin over the frame of the drum."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of stretching.",
+          "examples": [
+            "I was right in the middle of a stretch when the phone rang."
+          ]
+        },
+        {
+          "text": "The ability to lengthen when pulled.",
+          "examples": [
+            "That rubber band has quite a bit of stretch."
+          ]
+        },
+        {
+          "text": "A course of thought which diverts from straightforward logic, or requires extraordinary belief or exaggeration.",
+          "examples": [
+            "It's a bit of a stretch to call Boris Karloff a comedian.",
+            "To say crossing the street was brave was quite a stretch."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rozciąganie",
+    "rozciągliwość",
+    "elastyczność",
+    "rozciągalność",
+    "odcinek"
+  ],
+  "fetchedAt": "2026-05-17T21:13:40.164Z"
+}

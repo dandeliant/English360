@@ -1,0 +1,23 @@
+{
+  "lemma": "imperceptibly",
+  "slug": "imperceptibly",
+  "fetchTerm": "imperceptibly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not noticeably; such that it cannot be detected, through being too small or too fast, etc.",
+          "examples": [
+            "No one noticed that he had moved imperceptibly backwards."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "niezauważalnie"
+  ],
+  "fetchedAt": "2026-05-17T21:11:51.119Z"
+}

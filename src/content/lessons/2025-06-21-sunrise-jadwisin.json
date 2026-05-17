@@ -1,0 +1,202 @@
+{
+  "id": "2025-06-21-sunrise-jadwisin",
+  "date_assigned": "2025-06-21",
+  "date_alternatives": [],
+  "title_en": "Where Summer Begins",
+  "title_pl": "Pierwszy dzień lata",
+  "location": "Jadwisin, gmina Łuków, Poland",
+  "image": "/images/2025-06-21-sunrise-jadwisin.jpg",
+  "image_orientation": "portrait",
+  "tags": ["nature", "summer", "sunrise", "road", "solstice", "poland", "sun", "horizon"],
+  "themes": ["new-beginnings", "summer-solstice", "polish-countryside"],
+  "did_you_know": {
+    "en": "On the summer solstice the sun appears to 'stand still' in the sky for a moment before turning back south. The word 'solstice' comes from Latin sol (sun) + sistere (to stand still) — literally, 'the sun stops'.",
+    "pl": "W dniu przesilenia letniego słońce wydaje się przez chwilę „stać w miejscu” na niebie, zanim zacznie zawracać na południe. Słowo „przesilenie” w łacinie to solstitium — sol (słońce) + sistere (stać nieruchomo), dosłownie: „słońce się zatrzymuje”."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: pusta wiejska droga prosto w stronę wschodzącego słońca. 21 czerwca — przesilenie letnie, najdłuższy dzień w roku, pierwszy dzień lata. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia. english360.example",
+    "fb_caption_en": "Today on English 360°: an empty country road aimed at the rising sun. June 21 — the summer solstice, the year's longest day, the first day of summer. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunrise", "#SummerSolstice", "#PolishCountryside", "#LongestDay", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the road. It is morning. The sun is rising. The sky is yellow and blue. The road is empty. The fields are green. It is the first day of summer. A new day begins.",
+      "text_pl": "Spójrz na drogę. Jest rano. Słońce wschodzi. Niebo jest żółte i niebieskie. Droga jest pusta. Pola są zielone. To pierwszy dzień lata. Zaczyna się nowy dzień.",
+      "vocab": [
+        { "term": "road", "ipa_br": "/rəʊd/", "pl": "droga", "new": true },
+        { "term": "morning", "ipa_br": "/ˈmɔːnɪŋ/", "pl": "rano, poranek", "new": true },
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": false },
+        { "term": "rise", "ipa_br": "/raɪz/", "pl": "wschodzić, wstawać", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "empty", "ipa_br": "/ˈempti/", "pl": "pusty", "new": true },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": false },
+        { "term": "summer", "ipa_br": "/ˈsʌmə/", "pl": "lato", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "road", "answer": "A" },
+            { "word": "sun", "answer": "B" },
+            { "word": "field", "answer": "C" },
+            { "word": "summer", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🛣️" },
+            { "label": "B", "text": "☀️" },
+            { "label": "C", "text": "🌾" },
+            { "label": "D", "text": "🌻" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "Look at this empty country road. The sun is rising in front of it. The sky is full of warm colours — yellow, gold, light blue. On both sides of the road, there are wide green fields. There are no cars and no people. It is very quiet. This is a perfect moment for a new beginning.",
+      "text_pl": "Spójrz na tę pustą wiejską drogę. Słońce wschodzi naprzeciwko niej. Niebo jest pełne ciepłych kolorów — żółtego, złotego, jasnoniebieskiego. Po obu stronach drogi rozciągają się szerokie, zielone pola. Nie ma samochodów ani ludzi. Jest bardzo cicho. To idealny moment na nowy początek.",
+      "vocab": [
+        { "term": "country", "ipa_br": "/ˈkʌntri/", "pl": "wiejski; kraj", "new": true },
+        { "term": "in front of", "ipa_br": "/ɪn frʌnt əv/", "pl": "naprzeciwko, przed", "new": false },
+        { "term": "gold", "ipa_br": "/ɡəʊld/", "pl": "złoty, złoto", "new": true },
+        { "term": "both", "ipa_br": "/bəʊθ/", "pl": "obaj, obie, oba", "new": false },
+        { "term": "side", "ipa_br": "/saɪd/", "pl": "strona", "new": true },
+        { "term": "wide", "ipa_br": "/waɪd/", "pl": "szeroki", "new": true },
+        { "term": "car", "ipa_br": "/kɑː/", "pl": "samochód", "new": false },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪət/", "pl": "cichy, spokojny", "new": true },
+        { "term": "moment", "ipa_br": "/ˈməʊmənt/", "pl": "chwila, moment", "new": false },
+        { "term": "beginning", "ipa_br": "/bɪˈɡɪnɪŋ/", "pl": "początek", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The road is ___.", "answer": "empty" },
+            { "sentence": "The sky is full of warm ___.", "answer": "colours", "alts": ["colors"] },
+            { "sentence": "On both ___ of the road, there are wide green fields.", "answer": "sides" },
+            { "sentence": "It is a perfect moment for a new ___.", "answer": "beginning" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "Early in the morning on the 21st of June, a quiet country road in eastern Poland stretches out toward the rising sun. This is the longest day of the year — the summer solstice — when the sun rises before half past four and stays in the sky until late evening. The fields are green on both sides, and the air feels cool and fresh. The straight road looks like a path leading directly into the morning light. For many people, a sunrise on this day feels like a quiet promise that something new can begin.",
+      "text_pl": "Wczesnym rankiem 21 czerwca cicha wiejska droga we wschodniej Polsce ciągnie się prosto w stronę wschodzącego słońca. To najdłuższy dzień w roku — przesilenie letnie — kiedy słońce wschodzi przed wpół do piątej i zostaje na niebie do późnego wieczora. Pola są zielone po obu stronach, a powietrze jest chłodne i rześkie. Prosta droga wygląda jak ścieżka prowadząca prosto w poranne światło. Dla wielu ludzi wschód słońca tego dnia jest jak cicha obietnica, że coś nowego może się zacząć.",
+      "vocab": [
+        { "term": "early", "ipa_br": "/ˈɜːli/", "pl": "wczesny, wcześnie", "new": true },
+        { "term": "stretch", "ipa_br": "/stretʃ/", "pl": "rozciągać się", "new": true },
+        { "term": "toward", "ipa_br": "/təˈwɔːd/", "pl": "w kierunku, ku", "new": true },
+        { "term": "solstice", "ipa_br": "/ˈsɒlstɪs/", "pl": "przesilenie", "new": true },
+        { "term": "straight", "ipa_br": "/streɪt/", "pl": "prosty (kierunek)", "new": false },
+        { "term": "fresh", "ipa_br": "/freʃ/", "pl": "świeży, rześki", "new": false },
+        { "term": "path", "ipa_br": "/pɑːθ/", "pl": "ścieżka", "new": true },
+        { "term": "lead", "ipa_br": "/liːd/", "pl": "prowadzić", "new": false },
+        { "term": "promise", "ipa_br": "/ˈprɒmɪs/", "pl": "obietnica", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The sunrise in the photo was taken on the longest day of the year.", "answer": true },
+            { "statement": "The location of the scene is eastern Poland.", "answer": true },
+            { "statement": "The road is full of traffic at the time the photo was taken.", "answer": false },
+            { "statement": "On the summer solstice the sun sets before half past four in the morning.", "answer": false },
+            { "statement": "The straight road looks like a path leading into the morning light.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "This image captures the kind of moment most of us notice but rarely stop to photograph: a country road in summer, pointing straight at a rising sun. The picture was taken on the 21st of June in eastern Poland, the day of the summer solstice, when daylight reaches its yearly peak. The road is utterly empty, the fields on either side are heavy with early-summer green, and the sky carries that particular gradient — soft blue overhead, fading through orange to molten gold near the horizon — that lasts only the first half hour after sunrise. There is something almost ceremonial about driving an empty road into such a sun, as if the asphalt itself were a runway leading toward the longest day of the year, with all its quiet promise of starting over.",
+      "text_pl": "To zdjęcie uchwyciło moment, który większość z nas zauważa, ale rzadko zatrzymuje się, by go sfotografować: wiejska droga w lecie, prowadząca prosto na wschodzące słońce. Zdjęcie zrobiono 21 czerwca we wschodniej Polsce, w dniu przesilenia letniego, gdy światło dzienne osiąga swój roczny szczyt. Droga jest zupełnie pusta, pola po obu stronach są ciężkie od wczesnoletniej zieleni, a niebo nosi ten szczególny gradient — miękki błękit nad głową, przechodzący przez pomarańcz w roztopione złoto przy horyzoncie — który trwa tylko przez pierwsze pół godziny po wschodzie. Jest coś niemal ceremonialnego w jeździe pustą drogą w stronę takiego słońca, jakby sam asfalt był pasem startowym wiodącym ku najdłuższemu dniu roku, z całą jego cichą obietnicą rozpoczynania od nowa.",
+      "vocab": [
+        { "term": "capture", "ipa_br": "/ˈkæptʃə/", "pl": "uchwycić, zarejestrować", "new": true },
+        { "term": "utterly", "ipa_br": "/ˈʌtəli/", "pl": "zupełnie, całkowicie", "new": true },
+        { "term": "gradient", "ipa_br": "/ˈɡreɪdiənt/", "pl": "gradient, stopniowanie barw", "new": true },
+        { "term": "fade", "ipa_br": "/feɪd/", "pl": "płowieć, blaknąć, zanikać", "new": true },
+        { "term": "molten", "ipa_br": "/ˈməʊltən/", "pl": "stopiony, roztopiony", "new": true },
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": true },
+        { "term": "ceremonial", "ipa_br": "/ˌserɪˈməʊniəl/", "pl": "ceremonialny, uroczysty", "new": true },
+        { "term": "asphalt", "ipa_br": "/ˈæsfælt/", "pl": "asfalt", "new": true },
+        { "term": "runway", "ipa_br": "/ˈrʌnweɪ/", "pl": "pas startowy", "new": true },
+        { "term": "peak", "ipa_br": "/piːk/", "pl": "szczyt, kulminacja", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photo was taken on the summer solstice.", "answer": true },
+            { "statement": "The road in the picture has many cars driving along it.", "answer": false },
+            { "statement": "The sky's gradient described in the text lasts all day long.", "answer": false },
+            { "statement": "The colours of the sky fade from soft blue through orange to molten gold near the horizon.", "answer": true },
+            { "statement": "The author compares the asphalt of the road to a runway.", "answer": true },
+            { "statement": "The summer solstice is described as the day when daylight reaches its yearly minimum.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Few photographs of a country road feel as charged as one taken at sunrise on the summer solstice. The image here was captured at four in the morning on the 21st of June in Jadwisin, a hamlet in eastern Poland, where the lane runs east-west with such precision that the sun appears to set itself in the middle of the road. On this particular day, light reaches its yearly maximum — almost seventeen waking hours before twilight returns. The fields on either side, planted with young summer crops, are still cool from the night; the asphalt, still bearing the dew, returns the sun's colour in muted, polished tones. There is a curious psychology to such pictures: an empty road and a sunrise read, in nearly every culture, as an invitation to leave behind whatever was and turn, however quietly, toward whatever might begin.",
+      "text_pl": "Niewiele zdjęć wiejskiej drogi niesie tyle ładunku, co to zrobione o wschodzie słońca w dniu przesilenia letniego. Obraz powstał o czwartej rano 21 czerwca w Jadwisinie, niewielkiej miejscowości we wschodniej Polsce, gdzie szosa biegnie ze wschodu na zachód z taką precyzją, że słońce wydaje się usadowić wprost na środku drogi. Tego konkretnego dnia światło osiąga swój roczny szczyt — niemal siedemnaście godzin dnia, zanim wróci zmierzch. Pola po obu stronach, obsadzone młodymi letnimi uprawami, są jeszcze chłodne po nocy; asfalt, wciąż okryty rosą, odbija barwę słońca w stłumionych, wypolerowanych tonach. Jest pewna szczególna psychologia takich obrazów: pusta droga i wschód słońca czytane są — niemal w każdej kulturze — jako zaproszenie, by zostawić za sobą to, co było, i zwrócić się, choćby cicho, w stronę tego, co może się zacząć.",
+      "vocab": [
+        { "term": "charged", "ipa_br": "/tʃɑːdʒd/", "pl": "naładowany (emocjonalnie)", "new": true },
+        { "term": "hamlet", "ipa_br": "/ˈhæmlət/", "pl": "przysiółek, niewielka wieś", "new": true },
+        { "term": "lane", "ipa_br": "/leɪn/", "pl": "szosa, dróżka, pas ruchu", "new": true },
+        { "term": "precision", "ipa_br": "/prɪˈsɪʒən/", "pl": "precyzja, dokładność", "new": true },
+        { "term": "twilight", "ipa_br": "/ˈtwaɪlaɪt/", "pl": "zmierzch", "new": true },
+        { "term": "dew", "ipa_br": "/djuː/", "pl": "rosa", "new": true },
+        { "term": "muted", "ipa_br": "/ˈmjuːtɪd/", "pl": "stłumiony, wyciszony", "new": true },
+        { "term": "polished", "ipa_br": "/ˈpɒlɪʃt/", "pl": "wypolerowany, wygładzony", "new": true },
+        { "term": "psychology", "ipa_br": "/saɪˈkɒlədʒi/", "pl": "psychologia", "new": false },
+        { "term": "invitation", "ipa_br": "/ˌɪnvɪˈteɪʃən/", "pl": "zaproszenie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The picture was captured at four in the morning.", "answer": true },
+            { "statement": "Jadwisin is described as a hamlet in eastern Poland.", "answer": true },
+            { "statement": "According to the text, the road runs north to south.", "answer": false },
+            { "statement": "The fields on either side are planted with young summer crops.", "answer": true },
+            { "statement": "The author calls the sunrise on this day an invitation to begin again.", "answer": true },
+            { "statement": "After almost seventeen waking hours of daylight, twilight returns.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a particular kind of photograph that arrests the eye not by its content but by its geometry: a perfectly straight road aimed at a sun that has just cleared the horizon, the lane and the light meeting at a single luminous point near the upper third of the frame. This is one such image. It was made just after four in the morning on the twenty-first of June — the summer solstice — outside Jadwisin in the Łuków district of eastern Poland. The composition is almost too symmetrical to be accidental: a dashed centre line, fields of nearly identical green on either side, low telegraph poles tilted toward the vanishing point. And yet what gives the picture its weight is not the geometry but the date. The twenty-first of June marks the year's longest day, a hinge after which the days, imperceptibly, begin to shorten again. To stand on such a road, in such a sunrise, is to inhabit for a few minutes the highest point of the solar year, and to recognise, perhaps without articulating it, that everything from this moment onward is a slow turning back.",
+      "text_pl": "Istnieje pewien szczególny rodzaj fotografii, który zatrzymuje wzrok nie treścią, lecz geometrią: idealnie prosta droga wycelowana w słońce, które dopiero co przekroczyło horyzont, a szosa i światło spotykają się w jednym świetlistym punkcie blisko górnej tercji kadru. To właśnie takie zdjęcie. Powstało tuż po czwartej rano 21 czerwca — w dniu przesilenia letniego — pod Jadwisinem w powiecie łukowskim we wschodniej Polsce. Kompozycja jest niemal zbyt symetryczna, by była przypadkowa: przerywana linia środkowa, pola o niemal identycznej zieleni po obu stronach, niskie słupy telegraficzne pochylone ku punktowi zbiegu. A jednak to nie geometria nadaje zdjęciu ciężar, lecz data. Dwudziesty pierwszy czerwca wyznacza najdłuższy dzień roku — zawias, po którym dni, niezauważalnie, zaczynają się znów skracać. Stanąć na takiej drodze, w takim wschodzie, to przez kilka minut zamieszkać w najwyższym punkcie roku słonecznego i rozpoznać, być może nawet tego nie nazywając, że wszystko od tej chwili jest powolnym zawracaniem.",
+      "vocab": [
+        { "term": "arrest", "ipa_br": "/əˈrest/", "pl": "zatrzymywać, przykuwać (uwagę)", "new": true },
+        { "term": "geometry", "ipa_br": "/dʒiˈɒmətri/", "pl": "geometria", "new": true },
+        { "term": "luminous", "ipa_br": "/ˈluːmɪnəs/", "pl": "świetlisty, jaśniejący", "new": true },
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "kadr, ramka, rama", "new": false },
+        { "term": "composition", "ipa_br": "/ˌkɒmpəˈzɪʃən/", "pl": "kompozycja, układ", "new": true },
+        { "term": "symmetrical", "ipa_br": "/sɪˈmetrɪkəl/", "pl": "symetryczny", "new": true },
+        { "term": "telegraph", "ipa_br": "/ˈtelɪɡrɑːf/", "pl": "telegraf; (~ pole) słup telegraficzny", "new": true },
+        { "term": "hinge", "ipa_br": "/hɪndʒ/", "pl": "zawias; punkt zwrotny", "new": true },
+        { "term": "imperceptibly", "ipa_br": "/ˌɪmpəˈseptəbli/", "pl": "niezauważalnie", "new": true },
+        { "term": "inhabit", "ipa_br": "/ɪnˈhæbɪt/", "pl": "zamieszkiwać, przebywać w", "new": true },
+        { "term": "articulate", "ipa_br": "/ɑːˈtɪkjʊleɪt/", "pl": "wyrażać słowami, artykułować", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The road and the light meet at a point near the upper third of the frame.", "answer": true },
+            { "statement": "The photograph was taken in western Poland.", "answer": false },
+            { "statement": "The composition is described as too symmetrical to be accidental.", "answer": true },
+            { "statement": "The author claims the picture's weight comes from its geometry rather than its date.", "answer": false },
+            { "statement": "After 21 June, the days imperceptibly begin to shorten again.", "answer": true },
+            { "statement": "The text suggests that, from the solstice onward, everything is a slow turning back.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}

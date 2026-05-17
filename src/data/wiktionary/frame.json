@@ -1,0 +1,48 @@
+{
+  "lemma": "frame",
+  "slug": "frame",
+  "fetchTerm": "frame",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fit, as for a specific end or purpose; make suitable or comfortable; adapt; adjust.",
+          "examples": []
+        },
+        {
+          "text": "To construct by fitting together or uniting various parts; fabricate by union of constituent parts.",
+          "examples": []
+        },
+        {
+          "text": "To bring or put into form or order; adjust the parts or elements of; compose; contrive; plan; devise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The structural elements of a building or other constructed object.",
+          "examples": [
+            "Now that the frame is complete, we can start on the walls."
+          ]
+        },
+        {
+          "text": "Anything composed of parts fitted and united together; a fabric; a structure.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "oprawiać",
+    "komponować",
+    "wrabiać",
+    "rama",
+    "klatka"
+  ],
+  "fetchedAt": "2026-05-17T21:11:36.579Z"
+}

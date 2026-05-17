@@ -1,0 +1,25 @@
+{
+  "lemma": "psychology",
+  "slug": "psychology",
+  "fetchTerm": "psychology",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The study of the human mind.",
+          "examples": []
+        },
+        {
+          "text": "The study of human or animal behavior.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "psychologia"
+  ],
+  "fetchedAt": "2026-05-17T21:13:05.619Z"
+}

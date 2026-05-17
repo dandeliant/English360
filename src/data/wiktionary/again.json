@@ -1,0 +1,49 @@
+{
+  "lemma": "again",
+  "slug": "again",
+  "fetchTerm": "again",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Another time: indicating a repeat of an action. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I enjoyed it so much I went again the next day."
+          ]
+        },
+        {
+          "text": "Back (to a former place or state).",
+          "examples": [
+            "We need to bring the old customs to life again.",
+            "The South will rise again."
+          ]
+        },
+        {
+          "text": "Over and above a factor of one.",
+          "examples": [
+            "This stick is quite long, but that other one is half as long again."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Against.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ponownie",
+    "znowu",
+    "jeszcze raz",
+    "znów",
+    "apiać"
+  ],
+  "fetchedAt": "2026-05-17T21:10:43.407Z"
+}

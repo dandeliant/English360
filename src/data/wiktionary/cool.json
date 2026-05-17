@@ -1,0 +1,73 @@
+{
+  "lemma": "cool",
+  "slug": "cool",
+  "fetchTerm": "cool",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a mildly low temperature.",
+          "examples": [
+            "I like cool weather the most 'cause it's not too hot to wear a jacket but I won't be too cold in my shorts."
+          ]
+        },
+        {
+          "text": "Allowing or suggesting heat relief.",
+          "examples": [
+            "Linen has made cool and breathable clothing for millennia."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+          "examples": [
+            "in the cool of the morning"
+          ]
+        },
+        {
+          "text": "A calm temperament.",
+          "examples": []
+        },
+        {
+          "text": "The property of being cool, popular or in fashion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lose heat, to get colder.",
+          "examples": [
+            "I like to let my tea cool before drinking it so I don't burn my tongue."
+          ]
+        },
+        {
+          "text": "To make cooler, less warm.",
+          "examples": []
+        },
+        {
+          "text": "To become less intense, e.g. less amicable or passionate.",
+          "examples": [
+            "Relations cooled between the USA and the USSR after 1980."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chłodny",
+    "opanowany",
+    "spokojny",
+    "kozak",
+    "chwat"
+  ],
+  "fetchedAt": "2026-05-17T21:11:11.084Z"
+}

@@ -1,0 +1,61 @@
+{
+  "lemma": "dash",
+  "slug": "dash",
+  "fetchTerm": "dash",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of the following symbols: ‒ (figure dash), – (en dash), — (em dash), or ― (horizontal bar).",
+          "examples": []
+        },
+        {
+          "text": "A hyphen or minus sign.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To run quickly or for a short distance.",
+          "examples": [
+            "He dashed across the field."
+          ]
+        },
+        {
+          "text": "To leave or depart.",
+          "examples": [
+            "I have to dash now. See you soon."
+          ]
+        },
+        {
+          "text": "To destroy by striking (against).",
+          "examples": [
+            "He dashed the bottle against the bar and turned about to fight."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Damn!",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "myślnik",
+    "półpauza",
+    "pauza",
+    "kreska",
+    "sprint"
+  ],
+  "fetchedAt": "2026-05-17T21:11:16.013Z"
+}

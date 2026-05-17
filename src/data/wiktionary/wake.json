@@ -1,0 +1,71 @@
+{
+  "lemma": "wake",
+  "slug": "wake",
+  "fetchTerm": "wake",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "(often followed by up) To stop sleeping.",
+          "examples": [
+            "I woke up at four o'clock this morning."
+          ]
+        },
+        {
+          "text": "(often followed by up) To make somebody stop sleeping; to rouse from sleep.",
+          "examples": [
+            "The neighbour's car alarm woke me from a strange dream."
+          ]
+        },
+        {
+          "text": "To put in motion or action; to arouse; to excite.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A period after a person's death before or after the body is buried, cremated, etc.; in some cultures accompanied by a party or collectively sorting through the deceased's personal effects.",
+          "examples": []
+        },
+        {
+          "text": "The state of forbearing sleep, especially for solemn or festive purposes; a vigil.",
+          "examples": []
+        },
+        {
+          "text": "A yearly parish festival formerly held in commemoration of the dedication of a church. Originally, prayers were said on the evening preceding, and hymns were sung during the night, in the church; subsequently, these vigils were discontinued, and the day itself, often with succeeding days, was occupied in rural pastimes and exercises, attended by eating and drinking.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The path left behind a ship on the surface of the water.",
+          "examples": []
+        },
+        {
+          "text": "The disturbance which follows an object, person or animal moving through water.",
+          "examples": []
+        },
+        {
+          "text": "The turbulent air left behind a flying aircraft.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "budzić się",
+    "obudzić się",
+    "przebudzić się",
+    "zbudzić się",
+    "budzić"
+  ],
+  "fetchedAt": "2026-05-17T21:14:09.300Z"
+}

@@ -1,0 +1,29 @@
+{
+  "lemma": "invitation",
+  "slug": "invitation",
+  "fetchTerm": "invitation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of inviting; solicitation; the requesting of a person's company.",
+          "examples": [
+            "an invitation to a party, to a dinner, or to visit a friend"
+          ]
+        },
+        {
+          "text": "A document or verbal message conveying an invitation.",
+          "examples": [
+            "We need to print off fifty invitations for the party."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zaproszenie"
+  ],
+  "fetchedAt": "2026-05-17T21:11:55.117Z"
+}

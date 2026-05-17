@@ -1,0 +1,56 @@
+{
+  "lemma": "yearly",
+  "slug": "yearly",
+  "fetchTerm": "yearly",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Happening once every year.",
+          "examples": [
+            "Christmas is a yearly celebration.",
+            "We deep-clean the kitchen lustrally, on a five-yearly basis."
+          ]
+        },
+        {
+          "text": "Over the course of one year",
+          "examples": [
+            "a yearly income"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Once a year.",
+          "examples": []
+        },
+        {
+          "text": "Every year.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is published once a year.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "roczny",
+    "coroczny",
+    "doroczny",
+    "corocznie",
+    "rocznie"
+  ],
+  "fetchedAt": "2026-05-17T21:14:20.311Z"
+}

@@ -1,0 +1,67 @@
+{
+  "lemma": "articulate",
+  "slug": "articulate",
+  "fetchTerm": "articulate",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make clear or effective.",
+          "examples": []
+        },
+        {
+          "text": "To speak clearly; to enunciate.",
+          "examples": [
+            "I wish he’d articulate his words more clearly."
+          ]
+        },
+        {
+          "text": "To explain; to put into words; to make something specific.",
+          "examples": [
+            "I like this painting, but I can’t articulate why."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Clear; effective.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        },
+        {
+          "text": "Speaking in a clear and effective manner; having both good articulation and good elocution.",
+          "examples": [
+            "She’s a bright, articulate young woman."
+          ]
+        },
+        {
+          "text": "Consisting of segments united by joints.",
+          "examples": [
+            "jointed articulate animals",
+            "The robot arm was articulate in two directions."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An animal of the subkingdom Articulata.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "artykułować",
+    "wyartykułować"
+  ],
+  "fetchedAt": "2026-05-17T21:10:55.956Z"
+}

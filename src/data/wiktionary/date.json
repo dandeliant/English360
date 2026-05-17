@@ -1,0 +1,73 @@
+{
+  "lemma": "date",
+  "slug": "date",
+  "fetchTerm": "date",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "We made a nice cake from dates."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The addition to a writing, inscription, coin, etc., which specifies the time (especially the day, month, and year) when the writing or inscription was given, executed, or made.",
+          "examples": [
+            "the date of a letter, of a will, of a deed, of a coin, etc.",
+            "US date : 05/24/08 = Tuesday, May 24th, 2008. UK date : 24/05/08 = Tuesday 24th May 2008."
+          ]
+        },
+        {
+          "text": "A specific day in time at which a transaction or event takes place, or is appointed to take place; a given point of time.",
+          "examples": [
+            "the date for pleading",
+            "The start date for the festival is September 2."
+          ]
+        },
+        {
+          "text": "A point in time.",
+          "examples": [
+            "You may need that at a later date."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To note the time or place of writing or executing; to express in an instrument the time of its execution.",
+          "examples": [
+            "to date a letter, a bond, a deed, or a charter"
+          ]
+        },
+        {
+          "text": "To note or fix the time of (an event); to give the date of.",
+          "examples": []
+        },
+        {
+          "text": "To determine the age of something.",
+          "examples": [
+            "to date the building of the pyramids"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "daktyl",
+    "data",
+    "randka",
+    "spotkanie",
+    "schadzka"
+  ],
+  "fetchedAt": "2026-05-17T21:11:17.931Z"
+}

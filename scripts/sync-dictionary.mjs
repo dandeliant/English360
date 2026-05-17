@@ -151,7 +151,8 @@ async function collectLemmas() {
         lower += count;
       }
     }
-    const fetchTerm = capped > lower && bestCap ? bestCap : lemma;
+    // Tie-break toward proper noun (see word-index.ts for rationale).
+    const fetchTerm = capped > 0 && capped >= lower && bestCap ? bestCap : lemma;
     out.push({ lemma, fetchTerm });
   }
   out.sort((a, b) => a.lemma.localeCompare(b.lemma));

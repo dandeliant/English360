@@ -1,0 +1,96 @@
+{
+  "lemma": "through",
+  "slug": "through",
+  "fetchTerm": "through",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "From one side or end of (something) to the other. So as to enter (something), pass within or across, and then leave.",
+          "examples": [
+            "I drove through Lausanne on my way from Geneva to Zurich.",
+            "The bullet went right through his leg."
+          ]
+        },
+        {
+          "text": "So as to enter (something), pass within or across, and then leave.",
+          "examples": [
+            "I drove through Lausanne on my way from Geneva to Zurich.",
+            "The bullet went right through his leg."
+          ]
+        },
+        {
+          "text": "So as to progress within (something) or towards the end or limit of (something).",
+          "examples": [
+            "The virus broke out in the capital city and is now spreading quickly through the country.",
+            "I'm working through this box set of 'Downton Abbey'."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Passing from one side of something to the other.",
+          "examples": [
+            "Interstate highways form a nationwide system of through roads."
+          ]
+        },
+        {
+          "text": "Finished; complete.",
+          "examples": [
+            "They were through with laying the subroof by noon."
+          ]
+        },
+        {
+          "text": "Along the course of a task etc.; used in expressions of progress towards the end.",
+          "examples": [
+            "It's a big job but we're halfway through."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "From one side of something to the other. By way of the interior.",
+          "examples": [
+            "The arrow went straight through.",
+            "I didn't like the look of the place, so I drove through without stopping."
+          ]
+        },
+        {
+          "text": "By way of the interior.",
+          "examples": [
+            "The arrow went straight through.",
+            "I didn't like the look of the place, so I drove through without stopping."
+          ]
+        },
+        {
+          "text": "By way of an opening.",
+          "examples": [
+            "I opened the window and climbed through."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A coffin, sarcophagus or tomb of stone; a large slab of stone laid on a tomb, or in a dry-stone wall from one side to the other; a perpend.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przez",
+    "poprzez"
+  ],
+  "fetchedAt": "2026-05-17T21:13:49.221Z"
+}

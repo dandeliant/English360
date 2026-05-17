@@ -1,0 +1,37 @@
+{
+  "lemma": "lane",
+  "slug": "lane",
+  "fetchTerm": "lane",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A road, street, or similar thoroughfare.",
+          "examples": [
+            "Penny Lane"
+          ]
+        },
+        {
+          "text": "A narrow passageway between fences, walls, hedges or trees.",
+          "examples": [
+            "There's a shortcut to the shops through this leafy lane."
+          ]
+        },
+        {
+          "text": "A narrow road, as in the country.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "aleja",
+    "alejka",
+    "uliczka",
+    "pas",
+    "dróżka"
+  ],
+  "fetchedAt": "2026-05-17T21:11:59.207Z"
+}

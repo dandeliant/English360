@@ -1,0 +1,22 @@
+{
+  "lemma": "utterly",
+  "slug": "utterly",
+  "fetchTerm": "utterly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Completely; entirely; to the fullest extent.",
+          "examples": [
+            "Well, now we are utterly lost.",
+            "I have failed you utterly."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:14:02.117Z"
+}

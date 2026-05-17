@@ -1,0 +1,32 @@
+{
+  "lemma": "hamlet",
+  "slug": "hamlet",
+  "fetchTerm": "hamlet",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small settlement or a group of houses, often defined as a settlement smaller than a village.",
+          "examples": []
+        },
+        {
+          "text": "A village that does not have its own church.",
+          "examples": []
+        },
+        {
+          "text": "An unincorporated community of whatever size, lacking its own municipal government, but with defined boundaries.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przysiółek",
+    "sioło",
+    "osada",
+    "Hypoplectrus"
+  ],
+  "fetchedAt": "2026-05-17T21:11:44.055Z"
+}

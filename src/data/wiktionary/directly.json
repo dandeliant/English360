@@ -1,0 +1,46 @@
+{
+  "lemma": "directly",
+  "slug": "directly",
+  "fetchTerm": "directly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a direct manner; in a straight line or course.",
+          "examples": [
+            "He drove directly to the office, and didn't stop off at the petrol station."
+          ]
+        },
+        {
+          "text": "In a straightforward way; without anything intervening; not by secondary but by direct means.",
+          "examples": [
+            "I'm sick of asking you to fire him; I'll just do it directly."
+          ]
+        },
+        {
+          "text": "Plainly, without circumlocution or ambiguity; absolutely; in express terms.",
+          "examples": [
+            "I'm going to tell Natalie directly that I love her.",
+            "To put it more directly: he's not 'made redundant' but sacked."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "As soon as; immediately (elliptical for directly that/as/when)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wprost",
+    "bezpośrednio"
+  ],
+  "fetchedAt": "2026-05-17T21:11:22.170Z"
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "upper",
+  "slug": "upper",
+  "fetchTerm": "upper",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "At a higher physical position, level, rank or order.",
+          "examples": []
+        },
+        {
+          "text": "Situated on higher ground, further inland, more upstream, or more northerly.",
+          "examples": []
+        },
+        {
+          "text": "Younger, more recent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A stimulant, such as amphetamine, that increases energy and decreases appetite.",
+          "examples": []
+        },
+        {
+          "text": "Anything that cheers one up.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "górny",
+    "wierzchni",
+    "cholewka"
+  ],
+  "fetchedAt": "2026-05-17T21:14:00.838Z"
+}

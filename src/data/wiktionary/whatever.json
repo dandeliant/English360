@@ -1,0 +1,114 @@
+{
+  "lemma": "whatever",
+  "slug": "whatever",
+  "fetchTerm": "whatever",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thing or person whose actual name is unknown or forgotten.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "What ever; emphatic form of 'what'.",
+          "examples": [
+            "Good heavens! Whatever time is it?!"
+          ]
+        },
+        {
+          "text": "Regardless of the ... that; for any ... that.",
+          "examples": [
+            "Whatever your choice, there will be consequences.",
+            "I will stick with you, whatever fate befalls us."
+          ]
+        },
+        {
+          "text": "Any ... that; of no matter what type or kind that.",
+          "examples": [
+            "Whatever doubts I had were quickly dispelled.",
+            "Write down whatever thoughts come into your mind."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "What ever; emphasised form of 'what', used to ask which thing, event, circumstance, etc.",
+          "examples": [
+            "Whatever do you mean?"
+          ]
+        },
+        {
+          "text": "Regardless of anything that.",
+          "examples": [
+            "Whatever he does, he will still lose the game.",
+            "Whatever happens, stay calm."
+          ]
+        },
+        {
+          "text": "Anything that; all that.",
+          "examples": [
+            "Do whatever works.",
+            "I’ll do whatever I can."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At all; in any way; whatsoever.",
+          "examples": [
+            "There is no point whatever in going on with this discussion."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A holophrastic expression used to dismiss something that the speaker doesn't care about, doesn't think important, or doesn't want to consider or discuss any further. Sometimes conceived as an ellipsis of whatever you say, implying feigned deference: whatever you say [apparently must be true].",
+          "examples": [
+            "So you broke it? Whatever! Get a grip.",
+            "Go brush your teeth. – Whatever!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Unexceptional or unimportant; blah.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something whose exact kind or nature is unimportant; a thingy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cokolwiek",
+    "oj tam",
+    "jeden pies"
+  ],
+  "fetchedAt": "2026-05-17T21:14:14.501Z"
+}

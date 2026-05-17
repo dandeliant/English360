@@ -1,0 +1,108 @@
+{
+  "lemma": "only",
+  "slug": "only",
+  "fetchTerm": "only",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Alone in a category.",
+          "examples": [
+            "He is the only doctor for miles.",
+            "The only people in the stadium were the fans: no players, coaches, or officials."
+          ]
+        },
+        {
+          "text": "Singularly superior; the best.",
+          "examples": []
+        },
+        {
+          "text": "Without sibling; without a sibling of the same gender.",
+          "examples": [
+            "He is their only son, in fact, an only child."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Without others or anything further; exclusively.",
+          "examples": [
+            "My heart is hers, and hers only.",
+            "I threw out only him."
+          ]
+        },
+        {
+          "text": "No more than; just.",
+          "examples": [
+            "The cat only sat on the mat. It didn't scratch it.",
+            "If there were only one more ticket!"
+          ]
+        },
+        {
+          "text": "As recently as.",
+          "examples": [
+            "He left only moments ago."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Introduces a clause with negative polarity, often one which upsets the listener's expectations. Under the condition that; but. (clarification of this definition is needed)",
+          "examples": [
+            "You're welcome to borrow my bicycle, only please take care of it.",
+            "I would enjoy running, only I have this broken leg."
+          ]
+        },
+        {
+          "text": "Under the condition that; but. (clarification of this definition is needed)",
+          "examples": [
+            "You're welcome to borrow my bicycle, only please take care of it."
+          ]
+        },
+        {
+          "text": "But, except; but in fact. (clarification of this definition is needed)",
+          "examples": [
+            "I would enjoy running, only I have this broken leg.",
+            "She would get good results only she gets nervous."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An only child.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Placed at the end of a sentence to emphasize that something is trivial, small, undemanding or deserving of belittlement.",
+          "examples": [
+            "Just need to replace the filter only."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jedyny",
+    "najlepszy",
+    "tylko",
+    "dopiero",
+    "tyle że"
+  ],
+  "fetchedAt": "2026-05-17T21:12:39.379Z"
+}

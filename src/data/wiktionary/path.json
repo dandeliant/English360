@@ -1,0 +1,49 @@
+{
+  "lemma": "path",
+  "slug": "path",
+  "fetchTerm": "path",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A trail for the use of, or worn by, pedestrians.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a path in, or on (something), or for (someone).",
+          "examples": []
+        },
+        {
+          "text": "To navigate through a file system directory tree (to a desired file or folder).",
+          "examples": [
+            "Next, you need to path to the location of the executable and run it from there."
+          ]
+        },
+        {
+          "text": "To pathfind.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Pathology.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ścieżka"
+  ],
+  "fetchedAt": "2026-05-17T21:12:48.844Z"
+}

@@ -1,0 +1,56 @@
+{
+  "lemma": "district",
+  "slug": "district",
+  "fetchTerm": "district",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An administrative division of an area.",
+          "examples": [
+            "Soho is a district of London"
+          ]
+        },
+        {
+          "text": "An area or region marked by some distinguishing feature.",
+          "examples": [
+            "the Lake District in Cumbria"
+          ]
+        },
+        {
+          "text": "An administrative division of a county without the status of a borough.",
+          "examples": [
+            "South Oxfordshire District Council"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To divide into administrative or other districts.",
+          "examples": [
+            "A county districted for voting purposes."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "rigorous; stringent; harsh",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dzielnica",
+    "dystrykt"
+  ],
+  "fetchedAt": "2026-05-17T21:11:23.688Z"
+}

@@ -1,0 +1,46 @@
+{
+  "lemma": "sunrise",
+  "slug": "sunrise",
+  "fetchTerm": "sunrise",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The time of day when the sun appears above the eastern horizon.",
+          "examples": [
+            "I'll meet you at the docks at sunrise."
+          ]
+        },
+        {
+          "text": "The change in color of the sky at dawn.",
+          "examples": [
+            "Did you see the beautiful sunrise this morning?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To phase in.",
+          "examples": []
+        },
+        {
+          "text": "To awake.",
+          "examples": []
+        },
+        {
+          "text": "To cheer up, brighten, or illuminate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wschód słońca"
+  ],
+  "fetchedAt": "2026-05-17T21:13:43.576Z"
+}

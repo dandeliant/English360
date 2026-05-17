@@ -1,0 +1,99 @@
+{
+  "lemma": "start",
+  "slug": "start",
+  "fetchTerm": "start",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The beginning of an activity.",
+          "examples": [
+            "The movie was entertaining from start to finish."
+          ]
+        },
+        {
+          "text": "A sudden involuntary movement.",
+          "examples": [
+            "He woke with a start."
+          ]
+        },
+        {
+          "text": "The beginning point of a race, a board game, etc.",
+          "examples": [
+            "Captured pieces are returned to the start of the board."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To begin, commence, initiate. To set in motion.",
+          "examples": [
+            "to start a stream of water; to start a rumour; to start a business",
+            "The President fired the gun to start the footrace."
+          ]
+        },
+        {
+          "text": "To set in motion.",
+          "examples": [
+            "to start a stream of water; to start a rumour; to start a business"
+          ]
+        },
+        {
+          "text": "To begin.",
+          "examples": [
+            "The President fired the gun to start the footrace.",
+            "The rain started at 9:00."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of starting.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A projection or protrusion; that which pokes out.",
+          "examples": []
+        },
+        {
+          "text": "The curved or inclined front and bottom of a water wheel bucket.",
+          "examples": []
+        },
+        {
+          "text": "The arm, or level, of a gin, drawn around by a horse.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Completely, utterly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "początek",
+    "zaczątek",
+    "start",
+    "zacząć",
+    "ruszyć"
+  ],
+  "fetchedAt": "2026-05-17T21:13:34.516Z"
+}

@@ -1,0 +1,96 @@
+{
+  "lemma": "past",
+  "slug": "past",
+  "fetchTerm": "past",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The period of time that has already happened, in contrast to the present and the future.",
+          "examples": [
+            "a book about a time machine that can transport people back into the past"
+          ]
+        },
+        {
+          "text": "The past tense.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having already happened; in the past; finished. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "past glories"
+          ]
+        },
+        {
+          "text": "Following expressions of time to indicate how long ago something happened; ago.",
+          "examples": []
+        },
+        {
+          "text": "Of a period of time: having just gone by; previous.",
+          "examples": [
+            "during the past year"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a direction that passes.",
+          "examples": [
+            "I watched him walk past."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Beyond in place or quantity.",
+          "examples": [
+            "the room past mine",
+            "count past twenty"
+          ]
+        },
+        {
+          "text": "Any number of minutes after the last hour.",
+          "examples": [
+            "What's the time? - It's now quarter past twelve midday (or 12.15pm) -O,K., we'll stop at half (past) twelve"
+          ]
+        },
+        {
+          "text": "No longer capable of.",
+          "examples": [
+            "I'm past caring what he thinks of me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of pass",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przeszłość",
+    "czas przeszły",
+    "przeszły",
+    "ubiegły",
+    "miniony"
+  ],
+  "fetchedAt": "2026-05-17T21:12:47.258Z"
+}

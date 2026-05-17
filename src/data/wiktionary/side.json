@@ -1,0 +1,102 @@
+{
+  "lemma": "side",
+  "slug": "side",
+  "fetchTerm": "side",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bounding straight edge of a two-dimensional shape.",
+          "examples": [
+            "A square has four sides."
+          ]
+        },
+        {
+          "text": "A flat surface of a three-dimensional object; a face.",
+          "examples": [
+            "A cube has six sides."
+          ]
+        },
+        {
+          "text": "One half (left or right, top or bottom, front or back, etc.) of something or someone.",
+          "examples": [
+            "Which side of the tray shall I put it on? The patient was bleeding on the right side."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being on the left or right, or toward the left or right; lateral.",
+          "examples": []
+        },
+        {
+          "text": "Indirect; oblique; incidental.",
+          "examples": [
+            "a side issue; a side view or remark"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ally oneself, be in an alliance, usually with \"with\" or rarely \"in with\"",
+          "examples": [
+            "Which will you side with, good or evil?"
+          ]
+        },
+        {
+          "text": "To lean on one side.",
+          "examples": []
+        },
+        {
+          "text": "To be or stand at the side of; to be on the side toward.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Wide; large; long, pendulous, hanging low, trailing; far-reaching.",
+          "examples": []
+        },
+        {
+          "text": "Far; distant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Widely; wide; far.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To clear, tidy or sort.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "strona",
+    "bok",
+    "boczny"
+  ],
+  "fetchedAt": "2026-05-17T21:13:28.421Z"
+}

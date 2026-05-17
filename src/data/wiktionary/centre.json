@@ -1,0 +1,28 @@
+{
+  "lemma": "centre",
+  "slug": "centre",
+  "fetchTerm": "centre",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Australia, UK, Canada, Ireland, New Zealand, and South Africa standard spelling of center.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative spelling of center.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:11:05.755Z"
+}

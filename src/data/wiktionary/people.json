@@ -1,0 +1,49 @@
+{
+  "lemma": "people",
+  "slug": "people",
+  "fetchTerm": "people",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of person: a body of persons considered generally or collectively; a group of two or more persons.",
+          "examples": [
+            "There were so many people at the restaurant last night.",
+            "These six people are waiting for the bus."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To interact with people; to socialize.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To stock with people or inhabitants; to fill as with people; to populate.",
+          "examples": []
+        },
+        {
+          "text": "To become populous or populated.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ludzie",
+    "naród",
+    "lud",
+    "ogół"
+  ],
+  "fetchedAt": "2026-05-17T21:12:51.585Z"
+}

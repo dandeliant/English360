@@ -58,7 +58,14 @@ function pickDisplayForm(forms: Map<string, number>, lemma: string): string {
       lower += count;
     }
   }
-  return capped > lower && bestCap ? bestCap : lemma;
+  // Tie-break toward proper noun: if a word is EVER capitalised mid-sentence
+  // (`capped > 0`) and capitalised forms aren't strictly outnumbered by
+  // lowercase ones, treat it as a proper noun. This catches cases like
+  // "Polish" (1 cap as adjective) clashing with "polished" (1 lower as verb
+  // past participle) — both lemmatise to "polish"; we prefer the Wiktionary
+  // proper-noun page since it carries more information. Author can override
+  // via vocab.term if they want the lowercase sense.
+  return capped > 0 && capped >= lower && bestCap ? bestCap : lemma;
 }
 
 /** Split a vocab.pl string into individual senses. The author may write

@@ -1,0 +1,57 @@
+{
+  "lemma": "east",
+  "slug": "east",
+  "fetchTerm": "east",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The direction of the earth's rotation, specifically 90°.",
+          "examples": [
+            "Portsmouth is to the east of Southampton.",
+            "We live in the east of the country."
+          ]
+        },
+        {
+          "text": "The eastern region or area; the inhabitants thereof. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Situated or lying in or towards the east; eastward.",
+          "examples": []
+        },
+        {
+          "text": "Blowing (as wind) from the east.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to the east; eastern.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Towards the east; eastwards.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wschód",
+    "wschodni",
+    "na wschód",
+    "ku [[wschód"
+  ],
+  "fetchedAt": "2026-05-17T21:11:28.709Z"
+}

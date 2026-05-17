@@ -1,0 +1,78 @@
+{
+  "lemma": "straight",
+  "slug": "straight",
+  "fetchTerm": "straight",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not crooked, curly, or bent; having a constant direction throughout its length. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Direct, undeviating.",
+          "examples": []
+        },
+        {
+          "text": "Perfectly horizontal or vertical; not diagonal or oblique.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Of a direction relative to the subject, precisely; as if following a direct line.",
+          "examples": [
+            "The door will be straight ahead of you.",
+            "Go straight back."
+          ]
+        },
+        {
+          "text": "Directly; without pause, delay or detour.",
+          "examples": [
+            "On arriving at work, he went straight to his office."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is not crooked or bent such as a part of a road or track.",
+          "examples": []
+        },
+        {
+          "text": "Five cards in sequence.",
+          "examples": []
+        },
+        {
+          "text": "A heterosexual.",
+          "examples": [
+            "My friends call straights \"heteros\"."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To straighten.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prosty",
+    "hetero",
+    "prosto",
+    "strit"
+  ],
+  "fetchedAt": "2026-05-17T21:13:38.683Z"
+}

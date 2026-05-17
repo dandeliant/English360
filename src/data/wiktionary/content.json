@@ -1,0 +1,93 @@
+{
+  "lemma": "content",
+  "slug": "content",
+  "fetchTerm": "content",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Satisfied, pleased, contented.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Satisfaction, contentment; pleasure.",
+          "examples": [
+            "They were in a state of sleepy content after supper."
+          ]
+        },
+        {
+          "text": "Acquiescence without examination.",
+          "examples": []
+        },
+        {
+          "text": "That which contents or satisfies; that which if attained would make one happy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Alright, agreed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give contentment or satisfaction to; to satisfy; to make happy.",
+          "examples": [
+            "You can't have any more. You'll have to content yourself with what you already have."
+          ]
+        },
+        {
+          "text": "To satisfy the expectations of; to pay; to requite.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Contained.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is contained.",
+          "examples": []
+        },
+        {
+          "text": "Subject matter; semantic information (or a portion or body thereof); that which is contained in writing, speech, video, etc.",
+          "examples": [
+            "Although eloquently delivered, the content of the speech was objectionable.",
+            "You can look up the chapter on special relativity in the table of contents."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zadowolony",
+    "kontent",
+    "ukontentowany",
+    "zadowalać",
+    "zadowolić"
+  ],
+  "fetchedAt": "2026-05-17T21:11:09.387Z"
+}

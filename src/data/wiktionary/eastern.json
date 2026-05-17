@@ -1,0 +1,29 @@
+{
+  "lemma": "eastern",
+  "slug": "eastern",
+  "fetchTerm": "eastern",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, facing, situated in, or related to the east.",
+          "examples": []
+        },
+        {
+          "text": "Blowing from the east; easterly.",
+          "examples": []
+        },
+        {
+          "text": "Oriental.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wschodni"
+  ],
+  "fetchedAt": "2026-05-17T21:11:29.979Z"
+}

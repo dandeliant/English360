@@ -1,0 +1,45 @@
+{
+  "lemma": "twenty",
+  "slug": "twenty",
+  "fetchTerm": "twenty",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number 20, occurring after nineteen and before twenty-one.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The numbers twenty (20) to twenty-nine (29).",
+          "examples": [
+            "She looks like she's in her early twenties, perhaps 21 or 22 years old?"
+          ]
+        },
+        {
+          "text": "A banknote with a denomination of 20.",
+          "examples": [
+            "The waiter’s face lit up when I gave him a twenty."
+          ]
+        },
+        {
+          "text": "10-20 (location).",
+          "examples": [
+            "What’s your twenty, good buddy?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dwadzieścia",
+    "dwadzieścioro"
+  ],
+  "fetchedAt": "2026-05-17T21:13:55.003Z"
+}

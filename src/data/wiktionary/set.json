@@ -1,0 +1,107 @@
+{
+  "lemma": "set",
+  "slug": "set",
+  "fetchTerm": "set",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Sentani.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put (something) down, to rest.",
+          "examples": [
+            "Set the tray there.",
+            "He helped his mother set the table for lunch."
+          ]
+        },
+        {
+          "text": "To attach or affix (something) to something else, or in or upon a certain place.",
+          "examples": [
+            "I have set my heart on running the marathon."
+          ]
+        },
+        {
+          "text": "To put in a specified condition or state; to cause to be.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A punch for setting nails in wood.",
+          "examples": [
+            "nail set"
+          ]
+        },
+        {
+          "text": "A device for receiving broadcast radio waves (or, more recently, broadcast data); a radio or television.",
+          "examples": [
+            "television set"
+          ]
+        },
+        {
+          "text": "Alternative form of sett (“a hole made and lived in by a badger”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Fixed in position.",
+          "examples": []
+        },
+        {
+          "text": "Rigid, solidified.",
+          "examples": []
+        },
+        {
+          "text": "Ready, prepared.",
+          "examples": [
+            "on your marks, get set, go!; on your marks, set, go!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A young plant fit for setting out; a slip; shoot.",
+          "examples": []
+        },
+        {
+          "text": "A rudimentary fruit.",
+          "examples": []
+        },
+        {
+          "text": "The setting of the sun or other luminary; the close of the day.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To divide a class group in a subject according to ability",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:13:19.739Z"
+}

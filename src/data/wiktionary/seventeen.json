@@ -1,0 +1,22 @@
+{
+  "lemma": "seventeen",
+  "slug": "seventeen",
+  "fetchTerm": "seventeen",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after sixteen and before eighteen, represented in Roman numerals as XVII and in Arabic numerals as 17.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "siedemnaście",
+    "siedemnaścioro"
+  ],
+  "fetchedAt": "2026-05-17T21:13:23.579Z"
+}

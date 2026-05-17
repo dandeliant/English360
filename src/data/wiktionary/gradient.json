@@ -1,0 +1,49 @@
+{
+  "lemma": "gradient",
+  "slug": "gradient",
+  "fetchTerm": "gradient",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A slope or incline.",
+          "examples": []
+        },
+        {
+          "text": "A rate of inclination or declination of a slope.",
+          "examples": []
+        },
+        {
+          "text": "The ratio of the rates of change of a dependent variable and an independent variable, the slope of a curve's tangent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Moving by steps; walking.",
+          "examples": []
+        },
+        {
+          "text": "Rising or descending by regular degrees of inclination.",
+          "examples": [
+            "the gradient line of a railroad"
+          ]
+        },
+        {
+          "text": "Adapted for walking, as the feet of certain birds.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zbocze",
+    "gradient"
+  ],
+  "fetchedAt": "2026-05-17T21:11:42.718Z"
+}

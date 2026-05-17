@@ -1,0 +1,63 @@
+{
+  "lemma": "empty",
+  "slug": "empty",
+  "fetchTerm": "empty",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Devoid of content; containing nothing or nobody; vacant.",
+          "examples": [
+            "an empty purse",
+            "an empty jug"
+          ]
+        },
+        {
+          "text": "Containing no elements (as of a string, array, or set), opposed to being null (having no valid value).",
+          "examples": []
+        },
+        {
+          "text": "Free; clear; devoid; often with of.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make empty; to remove the contents of.",
+          "examples": [
+            "to empty a well or a cistern",
+            "The cinema emptied quickly after the end of the film."
+          ]
+        },
+        {
+          "text": "Of a river, duct, etc: to drain or flow toward an ultimate destination.",
+          "examples": [
+            "Salmon River empties on the W shore about 2 miles below Bear River."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A container, especially a bottle, whose contents have been used up, leaving it empty.",
+          "examples": [
+            "Put the empties out to be recycled."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pusty",
+    "próżny",
+    "opróżnić"
+  ],
+  "fetchedAt": "2026-05-17T21:11:31.460Z"
+}

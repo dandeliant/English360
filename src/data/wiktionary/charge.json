@@ -1,0 +1,59 @@
+{
+  "lemma": "charge",
+  "slug": "charge",
+  "fetchTerm": "charge",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The amount of money levied for a service.",
+          "examples": [
+            "There will be a charge of five dollars."
+          ]
+        },
+        {
+          "text": "An attack in which combatants rush towards an enemy in an attempt to engage in close combat.",
+          "examples": [
+            "Pickett's Charge; the Charge of the Light Brigade"
+          ]
+        },
+        {
+          "text": "A forceful forward movement.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assign a duty or responsibility to; to order.",
+          "examples": []
+        },
+        {
+          "text": "To assign (a debit) to an account.",
+          "examples": [
+            "Let's charge this to marketing."
+          ]
+        },
+        {
+          "text": "To require payment (of) (a price or fee, for goods, services, etc.).",
+          "examples": [
+            "to charge high for goods",
+            "I won't charge you for the wheat."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "opłata",
+    "szarża",
+    "oskarżenie",
+    "ładunek elektryczny",
+    "podopieczny"
+  ],
+  "fetchedAt": "2026-05-17T21:11:07.674Z"
+}

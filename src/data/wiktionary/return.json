@@ -1,0 +1,60 @@
+{
+  "lemma": "return",
+  "slug": "return",
+  "fetchTerm": "return",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To come or go back (to a place or person).",
+          "examples": [
+            "Although the birds fly north for the summer, they return here in winter."
+          ]
+        },
+        {
+          "text": "To go back in thought, narration, or argument.",
+          "examples": [
+            "To return to my story […]"
+          ]
+        },
+        {
+          "text": "To recur; to come again.",
+          "examples": [
+            "Winter returns every year."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of returning.",
+          "examples": [
+            "I expect the house to be spotless upon my return."
+          ]
+        },
+        {
+          "text": "A return ticket.",
+          "examples": [
+            "Do you want a one-way or a return?"
+          ]
+        },
+        {
+          "text": "An item that is returned, e.g. due to a defect.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wracać",
+    "wrócić",
+    "cofać",
+    "cofnąć",
+    "wycofywać"
+  ],
+  "fetchedAt": "2026-05-17T21:13:14.300Z"
+}

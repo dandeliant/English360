@@ -1,0 +1,67 @@
+{
+  "lemma": "meet",
+  "slug": "meet",
+  "fetchTerm": "meet",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make contact (with someone) while in proximity. To come face to face with by accident; to encounter.",
+          "examples": [
+            "Fancy meeting you here! Guess who I met at the supermarket today?",
+            "Let's meet at the station at 9 o'clock."
+          ]
+        },
+        {
+          "text": "To come face to face with by accident; to encounter.",
+          "examples": [
+            "Fancy meeting you here! Guess who I met at the supermarket today?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sports competition, especially for track and field or swimming.",
+          "examples": [
+            "track meet",
+            "swim meet"
+          ]
+        },
+        {
+          "text": "A gathering of riders, horses and hounds for foxhunting; a field meet for hunting.",
+          "examples": []
+        },
+        {
+          "text": "A meeting of two trains in opposite directions on a single track, when one is put into a siding to let the other cross.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Suitable; right; proper.",
+          "examples": []
+        },
+        {
+          "text": "Submissive; passive.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "spotykać",
+    "spotkać",
+    "spotykać się",
+    "spotkać się",
+    "widzieć się"
+  ],
+  "fetchedAt": "2026-05-17T21:12:24.974Z"
+}

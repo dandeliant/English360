@@ -1,0 +1,36 @@
+{
+  "lemma": "june",
+  "slug": "june",
+  "fetchTerm": "June",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The sixth month of the Gregorian calendar, following May and preceding July, containing the northern solstice.",
+          "examples": [
+            "this glad June day"
+          ]
+        },
+        {
+          "text": "A female given name transferred from the month name [in turn from English], for a girl born in June, used since the end of the 19th century.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A male given name, or more often nickname, for a boy who is junior to someone else, especially someone with the same name, such as his father.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czerwiec"
+  ],
+  "fetchedAt": "2026-05-17T21:11:57.668Z"
+}

@@ -1,0 +1,52 @@
+{
+  "lemma": "picture",
+  "slug": "picture",
+  "fetchTerm": "picture",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.",
+          "examples": []
+        },
+        {
+          "text": "An image; a representation as in the imagination.",
+          "examples": []
+        },
+        {
+          "text": "A painting.",
+          "examples": [
+            "There was a picture hanging above the fireplace."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent in or with a picture.",
+          "examples": []
+        },
+        {
+          "text": "To imagine or envision.",
+          "examples": []
+        },
+        {
+          "text": "To depict or describe vividly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obraz",
+    "rysunek",
+    "zdjęcie",
+    "fotografia",
+    "film"
+  ],
+  "fetchedAt": "2026-05-17T21:12:56.416Z"
+}

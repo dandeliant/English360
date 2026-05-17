@@ -1,0 +1,51 @@
+{
+  "lemma": "identical",
+  "slug": "identical",
+  "fetchTerm": "identical",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bearing full likeness by having precisely the same set of characteristics; indistinguishable.",
+          "examples": [
+            "My car is identical with the one my mom has just bought."
+          ]
+        },
+        {
+          "text": "Not different or other; not another or others; not different as regards self; selfsame; numerically identical.",
+          "examples": []
+        },
+        {
+          "text": "Of twins, sharing the same genetic code.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something which has exactly the same properties as something else.",
+          "examples": []
+        },
+        {
+          "text": "An identical twin.",
+          "examples": []
+        },
+        {
+          "text": "A rhyme on the same syllable, such as \"leave\" and \"believe\".",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "identyczny",
+    "jednaki",
+    "jednakowy",
+    "przystający"
+  ],
+  "fetchedAt": "2026-05-17T21:11:47.073Z"
+}

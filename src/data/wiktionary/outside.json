@@ -1,0 +1,102 @@
+{
+  "lemma": "outside",
+  "slug": "outside",
+  "fetchTerm": "outside",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of something that faces out; the outer surface.",
+          "examples": [
+            "He's repainting the outside of his house."
+          ]
+        },
+        {
+          "text": "The external appearance of someone or something.",
+          "examples": [
+            "Her outside was stern, but inside was a heart of gold."
+          ]
+        },
+        {
+          "text": "The space beyond some limit or boundary.",
+          "examples": [
+            "Viewed from the outside, the building seemed unremarkable."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the outer surface, limit or boundary.",
+          "examples": [
+            "The outside surface looks good."
+          ]
+        },
+        {
+          "text": "Of, pertaining to or originating from beyond the outer surface, limit or boundary.",
+          "examples": []
+        },
+        {
+          "text": "Away from the interior or center of something.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To or in the outdoors or outside; to or in an area that is beyond the scope, limits, or borders of a given place.",
+          "examples": [
+            "I am going outside.",
+            "Residents of the city rarely ventured outside."
+          ]
+        },
+        {
+          "text": "Not in prison.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "On the outside of, not inside (something, such as a building).",
+          "examples": []
+        },
+        {
+          "text": "Beyond the scope, limits, or borders of.",
+          "examples": [
+            "tourists from outside the country"
+          ]
+        },
+        {
+          "text": "Near, but not in.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ostracize or exclude.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "na zewnątrz",
+    "na dworze",
+    "na pole",
+    "na dwór",
+    "poza"
+  ],
+  "fetchedAt": "2026-05-17T21:12:45.754Z"
+}

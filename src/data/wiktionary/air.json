@@ -1,0 +1,78 @@
+{
+  "lemma": "air",
+  "slug": "air",
+  "fetchTerm": "air",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Airoran.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The substance constituting Earth's atmosphere: a gaseous mixture of nitrogen, oxygen, and various trace gases.",
+          "examples": [
+            "This drill runs on compressed air.",
+            "As you ascend, the air gets thinner."
+          ]
+        },
+        {
+          "text": "The substance of the atmosphere seen as an agency of freshness.",
+          "examples": [
+            "I'm going outside to get some air.",
+            "Open the window and let some air into the room."
+          ]
+        },
+        {
+          "text": "One of the four elements of the ancient Greeks and Romans.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring (something) into contact with the air, so as to freshen or dry it.",
+          "examples": [
+            "I'll hang these clothes on the rack to air them."
+          ]
+        },
+        {
+          "text": "To let fresh air into (a room or a building), to ventilate.",
+          "examples": [
+            "It's getting quite stuffy in this room: let's open the windows and air it."
+          ]
+        },
+        {
+          "text": "To make public (an opinion, concern, issue, secret, differences, etc); to present to public view (and sometimes discussion).",
+          "examples": [
+            "Residents used the public meeting to air their concerns about the poor state of the roads."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of are.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wietrzyć",
+    "napowietrzać",
+    "emitować"
+  ],
+  "fetchedAt": "2026-05-17T21:10:50.803Z"
+}

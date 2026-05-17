@@ -1,0 +1,39 @@
+{
+  "lemma": "perhaps",
+  "slug": "perhaps",
+  "fetchTerm": "perhaps",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Possibly.",
+          "examples": [
+            "Perhaps John will come over for dinner.",
+            "There was a perhaps credible witness."
+          ]
+        },
+        {
+          "text": "By chance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An uncertainty.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "może",
+    "bodaj",
+    "zapewne"
+  ],
+  "fetchedAt": "2026-05-17T21:12:54.879Z"
+}

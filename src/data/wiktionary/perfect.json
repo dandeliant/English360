@@ -1,0 +1,76 @@
+{
+  "lemma": "perfect",
+  "slug": "perfect",
+  "fetchTerm": "perfect",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Fitting its definition precisely.",
+          "examples": [
+            "a perfect circle"
+          ]
+        },
+        {
+          "text": "Having all of its parts in harmony with a common purpose.",
+          "examples": [
+            "That bucket with the hole in the bottom is a poor bucket, but it is perfect for watering plants."
+          ]
+        },
+        {
+          "text": "Without fault or mistake; without flaw, of supreme quality.",
+          "examples": [
+            "The gymnast performed a perfect somersault.",
+            "I think I'm in love—I can't stop thinking about her. She's perfect!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The perfect tense, or a form in that tense.",
+          "examples": []
+        },
+        {
+          "text": "A perfect score; the achievement of finishing a stage or task with no mistakes.",
+          "examples": []
+        },
+        {
+          "text": "A leader of the Cathar movement.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make perfect; to improve or hone.",
+          "examples": [
+            "I am going to perfect this article.",
+            "You spend too much time trying to perfect your dancing."
+          ]
+        },
+        {
+          "text": "To take an action, usually the filing of a document in the correct venue, that secures a legal right.",
+          "examples": [
+            "perfect an appeal",
+            "perfect an interest"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "doskonały",
+    "perfekcyjny",
+    "idealny",
+    "dokonany",
+    "doskonalić"
+  ],
+  "fetchedAt": "2026-05-17T21:12:53.178Z"
+}

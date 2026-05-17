@@ -1,0 +1,50 @@
+{
+  "lemma": "car",
+  "slug": "car",
+  "fetchTerm": "car",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-3 language code for Kari'na.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation but relatively smaller than a truck/lorry and a bus.",
+          "examples": [
+            "in a car",
+            "He drove his car to the theatre."
+          ]
+        },
+        {
+          "text": "A wheeled vehicle, drawn by a horse or other animal. A cart. A chariot. A four-wheeled cab, as opposed to a (two-wheeled) Hansom cab.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The first part of a cons in Lisp. The first element of a list.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "samochód",
+    "auto",
+    "wóz",
+    "bryka",
+    "gablota"
+  ],
+  "fetchedAt": "2026-05-17T21:11:04.416Z"
+}

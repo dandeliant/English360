@@ -1,0 +1,42 @@
+{
+  "lemma": "daylight",
+  "slug": "daylight",
+  "fetchTerm": "daylight",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The natural light that is ambient in daytime, being mostly sunlight (both direct and indirect, on either sunny days or cloudy days).",
+          "examples": [
+            "In those days the entire factory was lit only by daylight and was closed at night."
+          ]
+        },
+        {
+          "text": "A light source that simulates daylight.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To expose to daylight",
+          "examples": []
+        },
+        {
+          "text": "To provide sources of natural illumination such as skylights or windows.",
+          "examples": []
+        },
+        {
+          "text": "To allow light in, as by opening drapes.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:11:19.239Z"
+}

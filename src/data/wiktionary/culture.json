@@ -1,0 +1,35 @@
+{
+  "lemma": "culture",
+  "slug": "culture",
+  "fetchTerm": "culture",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The arts, customs, lifestyles, background, and habits that characterize humankind, or a particular society or nation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "to maintain in an environment suitable for growth",
+          "examples": []
+        },
+        {
+          "text": "to increase the artistic or scientific interest",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kultura",
+    "obyczajowość"
+  ],
+  "fetchedAt": "2026-05-17T21:11:13.041Z"
+}

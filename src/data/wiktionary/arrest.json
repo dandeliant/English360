@@ -1,0 +1,56 @@
+{
+  "lemma": "arrest",
+  "slug": "arrest",
+  "fetchTerm": "arrest",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A check; a stop; an act or instance of arresting something.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        },
+        {
+          "text": "The condition of being stopped, standstill.",
+          "examples": [
+            "cardiac arrest, respiratory arrest"
+          ]
+        },
+        {
+          "text": "The process of arresting a criminal, suspect etc.",
+          "examples": [
+            "State police made a total of 15 drug-related arrests across the city."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To stop the motion of (a person, animal, or body part). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To stay, remain.",
+          "examples": []
+        },
+        {
+          "text": "To stop or slow (a process, course etc.).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "areszt",
+    "zatrzymanie",
+    "aresztowanie",
+    "powstrzymać",
+    "aresztować"
+  ],
+  "fetchedAt": "2026-05-17T21:10:54.667Z"
+}

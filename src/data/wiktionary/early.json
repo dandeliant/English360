@@ -1,0 +1,64 @@
+{
+  "lemma": "early",
+  "slug": "early",
+  "fetchTerm": "early",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "At a time in advance of the usual or expected event.",
+          "examples": [
+            "at eleven, we went for an early lunch; she began reading at an early age; his mother suffered an early death"
+          ]
+        },
+        {
+          "text": "Arriving a time before expected; sooner than on time.",
+          "examples": [
+            "You're early today! I don't usually see you before nine o'clock.",
+            "The early guests sipped their punch and avoided each other's eyes."
+          ]
+        },
+        {
+          "text": "After but close to the start of a period of time.",
+          "examples": [
+            "The play \"Two Gentlemen of Verona\" is one of Shakespeare's early works.",
+            "Early results showed their winning 245 out of 300 seats in parliament. The main opponent locked up only 31 seats."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shift (scheduled work period) that takes place early in the day.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At a time before expected; sooner than usual.",
+          "examples": [
+            "We finished the project an hour sooner than scheduled, so we left early.",
+            "I had children too early (in life), so my first baby arrived early."
+          ]
+        },
+        {
+          "text": "Soon; in good time; seasonably.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wczesny",
+    "początkowy",
+    "wcześnie"
+  ],
+  "fetchedAt": "2026-05-17T21:11:27.309Z"
+}

@@ -1,0 +1,59 @@
+{
+  "lemma": "minute",
+  "slug": "minute",
+  "fetchTerm": "minute",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A unit of time which is one sixtieth of an hour (sixty seconds).",
+          "examples": [
+            "You have twenty minutes to complete the test."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of an event, to write in a memo or the minutes of a meeting.",
+          "examples": [
+            "I’ll minute this evening’s meeting."
+          ]
+        },
+        {
+          "text": "To set down a short sketch or note of; to jot down; to make a minute or a brief summary of.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very small.",
+          "examples": [
+            "They found only minute quantities of chemical residue on his clothing."
+          ]
+        },
+        {
+          "text": "Very careful and exact, giving small details.",
+          "examples": [
+            "The lawyer gave the witness a minute examination."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "minuta",
+    "minutka",
+    "chwila",
+    "moment",
+    "protokół"
+  ],
+  "fetchedAt": "2026-05-17T21:12:27.833Z"
+}

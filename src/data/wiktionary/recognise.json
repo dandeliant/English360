@@ -1,0 +1,19 @@
+{
+  "lemma": "recognise",
+  "slug": "recognise",
+  "fetchTerm": "recognise",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Non-Oxford British English standard spelling of recognize.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:13:12.677Z"
+}

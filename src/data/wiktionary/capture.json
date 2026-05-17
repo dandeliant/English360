@@ -1,0 +1,56 @@
+{
+  "lemma": "capture",
+  "slug": "capture",
+  "fetchTerm": "capture",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of capturing; a seizing by force or stratagem.",
+          "examples": []
+        },
+        {
+          "text": "The securing of an object of strife or desire, as by the power of some attraction.",
+          "examples": [
+            "the capture of a lover’s heart"
+          ]
+        },
+        {
+          "text": "Something that has been captured; a captive.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take control of; to seize by force or stratagem.",
+          "examples": [
+            "to capture an enemy, a vessel, or a criminal"
+          ]
+        },
+        {
+          "text": "To take hold of.",
+          "examples": [
+            "The paintings in the gallery really captured my imagination."
+          ]
+        },
+        {
+          "text": "To store (as in sounds or image) for later revisitation.",
+          "examples": [
+            "She captured the sounds of a subway station on tape.",
+            "She captured the details of the fresco in a series of photographs."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zająć",
+    "zbić"
+  ],
+  "fetchedAt": "2026-05-17T21:11:02.665Z"
+}
