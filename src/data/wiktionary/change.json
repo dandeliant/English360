@@ -1,0 +1,60 @@
+{
+  "lemma": "change",
+  "slug": "change",
+  "fetchTerm": "change",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become something different.",
+          "examples": [
+            "The tadpole changed into a frog.",
+            "Stock prices are constantly changing."
+          ]
+        },
+        {
+          "text": "To make something into something else.",
+          "examples": [
+            "The fairy changed the frog into a prince.",
+            "I had to change the wording of the ad so it would fit."
+          ]
+        },
+        {
+          "text": "To replace.",
+          "examples": [
+            "Ask the janitor to come and change the lightbulb.",
+            "After a brisk walk, I washed up and changed my shirt."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process or result of becoming different.",
+          "examples": [
+            "The product is undergoing a change in order to improve it.",
+            "Such much-needed changes to the exam format might have a serious effect on candidates' performance."
+          ]
+        },
+        {
+          "text": "Small denominations of money given in exchange for a larger denomination.",
+          "examples": [
+            "Can I get change for this $100 bill, please?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zmieniać",
+    "zmienić",
+    "zamieniać",
+    "zamienić",
+    "przebierać"
+  ],
+  "fetchedAt": "2026-05-17T22:12:19.101Z"
+}

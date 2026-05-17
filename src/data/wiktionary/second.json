@@ -1,0 +1,138 @@
+{
+  "lemma": "second",
+  "slug": "second",
+  "fetchTerm": "second",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Number-two; following after the first one with nothing between them. The ordinal number corresponding to the cardinal number two.",
+          "examples": [
+            "He lives on Second Street.",
+            "The second volume in \"The Lord of the Rings\" series is called \"The Two Towers\"."
+          ]
+        },
+        {
+          "text": "Next to the first in value, power, excellence, dignity, or rank; secondary; subordinate; inferior.",
+          "examples": []
+        },
+        {
+          "text": "Being of the same kind as one that has preceded; another.",
+          "examples": [
+            "Residents of Texas prepared for Hurricane Harvey, which would in some ways turn out to become the second Hurricane Katrina."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "After the first; at the second rank.",
+          "examples": [
+            "Saturn is the second largest planet in the solar system."
+          ]
+        },
+        {
+          "text": "After the first occurrence but before the third.",
+          "examples": [
+            "He is batting second today."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is number two in a series.",
+          "examples": []
+        },
+        {
+          "text": "Something that is next in rank, quality, precedence, position, status, or authority.",
+          "examples": []
+        },
+        {
+          "text": "The place that is next below or after first in a race or contest.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "(Should we move, merge or split this sense?) To agree as a second person to (a proposal), usually to reach a necessary quorum of two. (See etymology 3 for translations.)",
+          "examples": [
+            "I second the motion."
+          ]
+        },
+        {
+          "text": "To follow in the next place; to succeed.",
+          "examples": []
+        },
+        {
+          "text": "To climb after a lead climber.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A unit of time historically and commonly defined as a sixtieth of a minute which the International System of Units more precisely defines as the duration of 9,192,631,770 periods of radiation corresponding to the transition between two hyperfine levels of caesium-133 in a ground state at a temperature of absolute zero and at rest.",
+          "examples": []
+        },
+        {
+          "text": "A unit of angle equal to one-sixtieth of a minute of arc or one part in 3600 of a degree.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To transfer temporarily to alternative employment.",
+          "examples": [
+            "The army officer was seconded while he held civil office."
+          ]
+        },
+        {
+          "text": "To assist or support; to back.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who supports another in a contest or combat, such as a dueller's assistant.",
+          "examples": []
+        },
+        {
+          "text": "One who supports or seconds a motion, or the act itself, as required in certain meetings to pass judgement etc.",
+          "examples": [
+            "If we want the motion to pass, we will need a second."
+          ]
+        },
+        {
+          "text": "Aid; assistance; help.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "drugi",
+    "sekunda",
+    "chwila",
+    "moment",
+    "sekundant"
+  ],
+  "fetchedAt": "2026-05-17T22:13:55.940Z"
+}

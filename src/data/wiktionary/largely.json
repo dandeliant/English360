@@ -1,0 +1,29 @@
+{
+  "lemma": "largely",
+  "slug": "largely",
+  "fetchTerm": "largely",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a widespread or large manner.",
+          "examples": []
+        },
+        {
+          "text": "For the most part; mainly or chiefly.",
+          "examples": [
+            "They were largely successful in their efforts."
+          ]
+        },
+        {
+          "text": "On a large scale; amply.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:03:15.778Z"
+}

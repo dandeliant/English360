@@ -1,0 +1,59 @@
+{
+  "lemma": "three",
+  "slug": "three",
+  "fetchTerm": "three",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO ICAO radiotelephony clear code (spelling-alphabet name) for the digit 3.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "A numerical value after two and before four. Represented in Arabic digits as 3; this many dots (•••).",
+          "examples": []
+        },
+        {
+          "text": "Describing a set or group with three elements.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The digit/figure 3.",
+          "examples": []
+        },
+        {
+          "text": "Anything measuring three units, as length.",
+          "examples": [
+            "Put all the threes in a separate container."
+          ]
+        },
+        {
+          "text": "A person who is three years old.",
+          "examples": [
+            "All the threes will go in Mrs. Smith's class, while I'll take the fours and fives."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trzy",
+    "troje",
+    "trójka",
+    "trzylatek",
+    "trzylatka"
+  ],
+  "fetchedAt": "2026-05-17T22:04:56.690Z"
+}

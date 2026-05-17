@@ -1,0 +1,25 @@
+{
+  "lemma": "leave-taking",
+  "slug": "leavetaking",
+  "fetchTerm": "leave-taking",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of saying goodbye.",
+          "examples": [
+            "The diplomat's formal leave-taking took up most of the day."
+          ]
+        },
+        {
+          "text": "The act or process of taking leave",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:13:37.562Z"
+}

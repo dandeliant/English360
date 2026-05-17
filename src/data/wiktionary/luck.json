@@ -1,0 +1,48 @@
+{
+  "lemma": "luck",
+  "slug": "luck",
+  "fetchTerm": "luck",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that happens to someone by chance, a chance occurrence.",
+          "examples": [
+            "The raffle is just a matter of luck.",
+            "Gilbert had some bad luck yesterday — he got pick-pocketed and lost fifty dollars."
+          ]
+        },
+        {
+          "text": "A favourable chance occurrence.",
+          "examples": [
+            "Sometimes it takes a bit of luck to get success.",
+            "I couldn't believe my luck when I found a fifty dollar bill on the street."
+          ]
+        },
+        {
+          "text": "A superstitious feeling that brings fortune or success.",
+          "examples": [
+            "He blew on the dice for luck.",
+            "I wish you lots of luck for the exam tomorrow."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To find something through good fortune; used with into, on, onto or upon.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczęście",
+    "sukces"
+  ],
+  "fetchedAt": "2026-05-17T22:03:25.080Z"
+}

@@ -1,0 +1,31 @@
+{
+  "lemma": "fidelity",
+  "slug": "fidelity",
+  "fetchTerm": "fidelity",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Faithfulness to one's moral or civic duties.",
+          "examples": [
+            "the fidelity of the civil servants"
+          ]
+        },
+        {
+          "text": "Loyalty to one's spouse or partner, including abstention from cheating or extramarital affairs.",
+          "examples": []
+        },
+        {
+          "text": "Accuracy, or exact correspondence to some given quality or fact.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wierność"
+  ],
+  "fetchedAt": "2026-05-17T22:02:33.994Z"
+}

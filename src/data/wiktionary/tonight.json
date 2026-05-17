@@ -1,0 +1,43 @@
+{
+  "lemma": "tonight",
+  "slug": "tonight",
+  "fetchTerm": "tonight",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "During the night following the current day; during the evening of today.",
+          "examples": [
+            "I want to party tonight!",
+            "I had a wonderful time with you tonight."
+          ]
+        },
+        {
+          "text": "Last night.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The nighttime of the current day or date; this night.",
+          "examples": [
+            "Tonight is the night.",
+            "I have high hopes for tonight."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziś wieczorem",
+    "tego wieczoru",
+    "dziś w nocy",
+    "tej nocy"
+  ],
+  "fetchedAt": "2026-05-17T22:05:05.927Z"
+}

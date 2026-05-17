@@ -1,0 +1,49 @@
+{
+  "lemma": "others",
+  "slug": "others",
+  "fetchTerm": "others",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of other",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Other people.",
+          "examples": [
+            "I treat others like I treat myself."
+          ]
+        },
+        {
+          "text": "Those remaining after one or more people or items have left, or done something else, or been excluded.",
+          "examples": [
+            "Two decided to hide, the others surrendered.",
+            "I kept two special jars and threw away all the others."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "third-person singular simple present indicative of other",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "inni",
+    "inne"
+  ],
+  "fetchedAt": "2026-05-17T22:03:56.147Z"
+}

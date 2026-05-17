@@ -1,0 +1,47 @@
+{
+  "lemma": "parent",
+  "slug": "parent",
+  "fetchTerm": "parent",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who raises a child (which they have made, adopted, fostered, taken as their own, etc.). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "After both her parents were killed in a forest fire, Sonia was adopted by her aunt and uncle."
+          ]
+        },
+        {
+          "text": "A person who has had a baby; this person in relation to their child or children.",
+          "examples": []
+        },
+        {
+          "text": "A surrogate parent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To act as parent, to raise or rear.",
+          "examples": []
+        },
+        {
+          "text": "To provide a parent object for one or more other objects, which become the children.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rodzic",
+    "opiekun",
+    "opiekunka",
+    "roślina mateczna"
+  ],
+  "fetchedAt": "2026-05-17T22:04:01.996Z"
+}

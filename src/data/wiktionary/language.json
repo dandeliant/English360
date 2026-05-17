@@ -1,0 +1,55 @@
+{
+  "lemma": "language",
+  "slug": "language",
+  "fetchTerm": "language",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.",
+          "examples": [
+            "The English and German languages are both members of the West Germanic language family.",
+            "Deaf and mute people communicate using sign language."
+          ]
+        },
+        {
+          "text": "The ability to communicate using words.",
+          "examples": [
+            "the gift of language"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To communicate by language; to express in language.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An admonishment said in response to someone using vulgar language during a conversation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A languet, a flat plate in or below the flue pipe of an organ.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:03:14.434Z"
+}

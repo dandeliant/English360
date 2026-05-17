@@ -1,0 +1,86 @@
+{
+  "lemma": "lower",
+  "slug": "lower",
+  "fetchTerm": "lower",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "comparative form of low: more low",
+          "examples": []
+        },
+        {
+          "text": "Bottom; more towards the bottom than the middle of an object.",
+          "examples": []
+        },
+        {
+          "text": "Situated on lower ground, nearer a coast, or more southerly.",
+          "examples": [
+            "Lower Manhattan",
+            "Lower Burgundy"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "comparative form of low: more low",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To let descend by its own weight, as something suspended; to let down",
+          "examples": [
+            "lower a bucket into a well",
+            "to lower a sail of a boat"
+          ]
+        },
+        {
+          "text": "To pull down",
+          "examples": [
+            "to lower a flag"
+          ]
+        },
+        {
+          "text": "To reduce the height of",
+          "examples": [
+            "lower a fence or wall",
+            "lower a chimney or turret"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bicycle suspension fork component.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative spelling of lour.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dolny",
+    "opuszczać",
+    "opuścić"
+  ],
+  "fetchedAt": "2026-05-17T22:13:39.053Z"
+}

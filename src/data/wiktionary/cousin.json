@@ -1,0 +1,45 @@
+{
+  "lemma": "cousin",
+  "slug": "cousin",
+  "fetchTerm": "cousin",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Chiefly with a qualifying word: Any relation (especially a distant one) who is not a direct ancestor or descendant but part of a person's extended family; a kinsman or kinswoman. Preceded by an ordinal number, as first, second, third, etc.: a person descended from a common ancestor by the same number of generations as another person. When used without a qualifying word: the child of a person's parent's brother (that is, an uncle) or sister (an aunt); a cousin-german, a first cousin.",
+          "examples": [
+            "Although we were cousins, we grew up like sisters."
+          ]
+        },
+        {
+          "text": "Preceded by an ordinal number, as first, second, third, etc.: a person descended from a common ancestor by the same number of generations as another person.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To address (someone) as \"cousin\". To regard (oneself or someone) as a cousin to another person.",
+          "examples": []
+        },
+        {
+          "text": "To address (someone) as \"cousin\".",
+          "examples": []
+        },
+        {
+          "text": "To regard (oneself or someone) as a cousin to another person.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kuzyn",
+    "kuzynka"
+  ],
+  "fetchedAt": "2026-05-17T22:12:35.482Z"
+}

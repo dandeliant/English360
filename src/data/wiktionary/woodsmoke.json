@@ -1,0 +1,19 @@
+{
+  "lemma": "woodsmoke",
+  "slug": "woodsmoke",
+  "fetchTerm": "woodsmoke",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Smoke from burning wood.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:05:30.198Z"
+}

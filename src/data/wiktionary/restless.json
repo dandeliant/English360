@@ -1,0 +1,38 @@
+{
+  "lemma": "restless",
+  "slug": "restless",
+  "fetchTerm": "restless",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not allowing or affording rest.",
+          "examples": [
+            "The night before his wedding was a restless one."
+          ]
+        },
+        {
+          "text": "Without rest; unable to be still or quiet; uneasy; continually moving.",
+          "examples": [
+            "He was a restless child.",
+            "She sat, restless and nervous, and tried to concentrate."
+          ]
+        },
+        {
+          "text": "Not satisfied to be at rest or in peace; averse to repose; eager for change; discontented.",
+          "examples": [
+            "A restless ambition."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bez odpoczynku",
+    "niespokojny",
+    "niezaspokojony"
+  ],
+  "fetchedAt": "2026-05-17T22:04:22.481Z"
+}

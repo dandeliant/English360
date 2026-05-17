@@ -1,0 +1,39 @@
+{
+  "lemma": "platform",
+  "slug": "platform",
+  "fetchTerm": "platform",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A raised stage from which speeches are made and on which musical and other performances are made.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To furnish with or shape into a platform",
+          "examples": []
+        },
+        {
+          "text": "To place on, or as if on, a platform.",
+          "examples": []
+        },
+        {
+          "text": "To place a train alongside a station platform.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "platforma",
+    "peron"
+  ],
+  "fetchedAt": "2026-05-17T22:04:06.926Z"
+}

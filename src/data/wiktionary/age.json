@@ -1,0 +1,75 @@
+{
+  "lemma": "age",
+  "slug": "age",
+  "fetchTerm": "age",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Angal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The amount of time that some being has been alive, or that some thing has been in existence, as measured from its birth or origin until the present or until some other given reference point. (Often measured in number of years; alternatively in months, days, hours, etc.; see also the usage notes)",
+          "examples": [
+            "\"What is the age of your oldest child?\" — \"He's ten.\" (ten years old)",
+            "What were their ages at the time of their marriage?"
+          ]
+        },
+        {
+          "text": "The state of being old; the latter part of life.",
+          "examples": [
+            "Wisdom doesn't necessarily come with age, sometimes age just shows up all by itself."
+          ]
+        },
+        {
+          "text": "Any particular stage of life.",
+          "examples": [
+            "the age of infancy"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To grow aged; to become old or older; to show marks of age.",
+          "examples": [
+            "He grew fat as he aged.",
+            "His prediction that we didn't stand a chance hasn't aged well, now that we've won the cup."
+          ]
+        },
+        {
+          "text": "To suffer the passage of time so as to later be viewed or turn out in a certain way.",
+          "examples": [
+            "His prediction that we didn't stand a chance hasn't aged well, now that we've won the cup.",
+            "The sitcom was made in the 1970s and its casual sexism has not aged well."
+          ]
+        },
+        {
+          "text": "To cause to grow old; to impart the characteristics of age to.",
+          "examples": [
+            "Grief ages us.",
+            "We age the whiskey for five years."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wiek",
+    "starość",
+    "etap",
+    "dorosłość",
+    "pełnoletniość"
+  ],
+  "fetchedAt": "2026-05-17T22:01:15.629Z"
+}

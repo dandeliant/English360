@@ -1,0 +1,70 @@
+{
+  "lemma": "today",
+  "slug": "today",
+  "fetchTerm": "today",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On the current day or date.",
+          "examples": [
+            "I want this done today.",
+            "Today, my brother went to the shops."
+          ]
+        },
+        {
+          "text": "In the current era; nowadays; these days.",
+          "examples": [
+            "In the 1500s, people had to do things by hand, but today we have electric can openers."
+          ]
+        },
+        {
+          "text": "On the day of a recurring cycle or event which is currently happening.",
+          "examples": [
+            "We used to prepare everything today, but now we split it over two days."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The current day or date.",
+          "examples": [
+            "Today is the day we'll fix this once and for all.",
+            "We could've spent today at the seaside if it weren't gusty."
+          ]
+        },
+        {
+          "text": "The 24-hour period beginning at 5 or 6 a.m. or sunrise of the current day.",
+          "examples": []
+        },
+        {
+          "text": "The present era; nowadays.",
+          "examples": [
+            "This is the sporty jacket for today's modern man on the go.",
+            "The youth of today have never known what life is like without a cell phone."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Current; up to date.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dzisiaj",
+    "dziś",
+    "w dzisiejszych czasach"
+  ],
+  "fetchedAt": "2026-05-17T22:04:59.302Z"
+}

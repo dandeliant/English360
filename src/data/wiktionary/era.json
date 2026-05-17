@@ -1,0 +1,38 @@
+{
+  "lemma": "era",
+  "slug": "era",
+  "fetchTerm": "era",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Eravallan.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A time period of indeterminate length, generally more than one year.",
+          "examples": []
+        },
+        {
+          "text": "A geochronologic unit of tens to hundreds of millions of years; a subdivision of an eon, and subdivided into periods.",
+          "examples": []
+        },
+        {
+          "text": "An indefinite period of time in one’s life characterized by a particular interest.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "era"
+  ],
+  "fetchedAt": "2026-05-17T22:02:22.574Z"
+}

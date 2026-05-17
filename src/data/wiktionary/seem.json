@@ -1,0 +1,31 @@
+{
+  "lemma": "seem",
+  "slug": "seem",
+  "fetchTerm": "seem",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To appear; to look outwardly; to be perceived as.",
+          "examples": [
+            "She is seeming a bit down these days. Her eyes seem blue. It must have seemed to her she was safe. How'd she seem to you? He seems not to be at home. \"It seems like rain\". \"It seems to me (to be) rather sleety.\"; \"There seem to be a few problems.\"",
+            "It seems a pity, but I can't see you this weekend."
+          ]
+        },
+        {
+          "text": "To befit; to beseem.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wydawać się",
+    "wydać się",
+    "zdawać się",
+    "zdać się"
+  ],
+  "fetchedAt": "2026-05-17T22:13:58.550Z"
+}

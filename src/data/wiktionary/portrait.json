@@ -1,0 +1,51 @@
+{
+  "lemma": "portrait",
+  "slug": "portrait",
+  "fetchTerm": "portrait",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A painting or other picture of a person, especially the head and shoulders.",
+          "examples": []
+        },
+        {
+          "text": "An accurate depiction of a person, a mood, etc.",
+          "examples": [
+            "The author painted a good portrait of urban life in New York in his latest book."
+          ]
+        },
+        {
+          "text": "A print orientation where the vertical sides are longer than the horizontal sides.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To portray; to draw.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Representing the actual features of an individual; not ideal.",
+          "examples": [
+            "a portrait bust; a portrait statue"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "portret"
+  ],
+  "fetchedAt": "2026-05-17T22:13:48.077Z"
+}

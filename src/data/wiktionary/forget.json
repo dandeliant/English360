@@ -1,0 +1,36 @@
+{
+  "lemma": "forget",
+  "slug": "forget",
+  "fetchTerm": "forget",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lose remembrance of.",
+          "examples": [
+            "I have forgotten most of the things I learned in school."
+          ]
+        },
+        {
+          "text": "To unintentionally not do, neglect.",
+          "examples": [
+            "I forgot to buy flowers for my wife at our 14th wedding anniversary."
+          ]
+        },
+        {
+          "text": "To unintentionally leave something behind.",
+          "examples": [
+            "I forgot my car keys in the living room."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zapominać",
+    "zapomnieć"
+  ],
+  "fetchedAt": "2026-05-17T22:13:02.652Z"
+}

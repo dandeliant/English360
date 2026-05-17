@@ -1,0 +1,79 @@
+{
+  "lemma": "game",
+  "slug": "game",
+  "fetchTerm": "game",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A playful or competitive activity. A playful activity that may be unstructured; an amusement or pastime.",
+          "examples": [
+            "Being a child is all fun and games.",
+            "Games in the classroom can make learning fun."
+          ]
+        },
+        {
+          "text": "A playful activity that may be unstructured; an amusement or pastime.",
+          "examples": [
+            "Being a child is all fun and games."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Willing and able to participate.",
+          "examples": []
+        },
+        {
+          "text": "That shows a tendency to continue to fight against another animal, despite being wounded, often severely.",
+          "examples": []
+        },
+        {
+          "text": "Persistent, especially in senses similar to the above.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gamble.",
+          "examples": []
+        },
+        {
+          "text": "To play card games, board games, or video games.",
+          "examples": []
+        },
+        {
+          "text": "To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.",
+          "examples": [
+            "We'll bury them in paperwork, and game the system."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Injured, lame.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gra",
+    "zabawa",
+    "dziczyzna",
+    "zwierzyna łowna",
+    "grać"
+  ],
+  "fetchedAt": "2026-05-17T22:13:10.395Z"
+}

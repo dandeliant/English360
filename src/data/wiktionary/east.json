@@ -1,46 +1,22 @@
 {
   "lemma": "east",
   "slug": "east",
-  "fetchTerm": "east",
+  "fetchTerm": "East",
+  "fetchedAt": "2026-05-17T22:02:16.548Z",
   "en": [
     {
-      "partOfSpeech": "Noun",
+      "partOfSpeech": "Proper noun",
       "definitions": [
         {
-          "text": "The direction of the earth's rotation, specifically 90°.",
-          "examples": [
-            "Portsmouth is to the east of Southampton.",
-            "We live in the east of the country."
-          ]
-        },
-        {
-          "text": "The eastern region or area; the inhabitants thereof. .mw-parser-output .defdate{font-size:smaller}",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "partOfSpeech": "Adjective",
-      "definitions": [
-        {
-          "text": "Situated or lying in or towards the east; eastward.",
+          "text": "Any of various particular regions named for the cardinal direction in which they lie.",
           "examples": []
         },
         {
-          "text": "Blowing (as wind) from the east.",
+          "text": "The Eastern world; the regions, primarily situated in the Eastern Hemisphere, whose culture is derived from Arabia, India, Persia or China.",
           "examples": []
         },
         {
-          "text": "Of or pertaining to the east; eastern.",
-          "examples": []
-        }
-      ]
-    },
-    {
-      "partOfSpeech": "Adverb",
-      "definitions": [
-        {
-          "text": "Towards the east; eastwards.",
+          "text": "The Eastern Bloc; the eastern countries of Europe.",
           "examples": []
         }
       ]
@@ -48,10 +24,7 @@
   ],
   "pl": null,
   "translations": [
-    "wschód",
-    "wschodni",
-    "na wschód",
-    "ku [[wschód"
-  ],
-  "fetchedAt": "2026-05-17T21:11:28.709Z"
+    "Orient",
+    "Wschód"
+  ]
 }

@@ -1,0 +1,62 @@
+{
+  "lemma": "ready",
+  "slug": "ready",
+  "fetchTerm": "ready",
+  "en": [
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "The command to make ready, regardless of language of competitors, used in multiple sports to get contestants to their marks in preparation to start.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Prepared for immediate action or use.",
+          "examples": [
+            "I made ready to set out on my journey.",
+            "The troops are ready for battle."
+          ]
+        },
+        {
+          "text": "first only used predicatively, freely used from the end of the 17th century .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "a loaf of ready-sliced bread",
+            "The cave was like a ready-made home for us."
+          ]
+        },
+        {
+          "text": "Inclined; apt to happen.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To prepare; to make ready for action.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ready money; cash.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gotowy"
+  ],
+  "fetchedAt": "2026-05-17T22:04:16.909Z"
+}

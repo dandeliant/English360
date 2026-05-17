@@ -1,0 +1,27 @@
+{
+  "lemma": "camera",
+  "slug": "camera",
+  "fetchTerm": "camera",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A device for taking still or moving pictures or photographs.",
+          "examples": []
+        },
+        {
+          "text": "The viewpoint in a three-dimensional game or simulation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "aparat fotograficzny",
+    "kamera",
+    "kamera wideo"
+  ],
+  "fetchedAt": "2026-05-17T22:12:17.104Z"
+}

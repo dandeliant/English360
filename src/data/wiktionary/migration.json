@@ -1,0 +1,31 @@
+{
+  "lemma": "migration",
+  "slug": "migration",
+  "fetchTerm": "migration",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of moving to live in another place for a while.",
+          "examples": []
+        },
+        {
+          "text": "Seasonal moving of animals, as mammals, birds or fish, especially between breeding and non-breeding areas.",
+          "examples": []
+        },
+        {
+          "text": "Movement in general.",
+          "examples": [
+            "The migration of lead from a can to the food inside it can cause lead poisoning."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "migracja"
+  ],
+  "fetchedAt": "2026-05-17T22:03:38.479Z"
+}

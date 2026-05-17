@@ -1,0 +1,34 @@
+{
+  "lemma": "electricity",
+  "slug": "electricity",
+  "fetchTerm": "electricity",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Originally, a property of amber and certain other nonconducting substances to attract lightweight material when rubbed, or the cause of this property; now understood to be a phenomenon caused by the distribution and movement of charged subatomic particles and their interaction with the electromagnetic field. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "The study of electrical phenomena; the branch of science dealing with such phenomena.",
+          "examples": [
+            "He took up the job of studying electricity in college."
+          ]
+        },
+        {
+          "text": "A feeling of excitement; a thrill.",
+          "examples": [
+            "Opening night for the new production had an electricity unlike other openings."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "elektryczność",
+    "prąd"
+  ],
+  "fetchedAt": "2026-05-17T22:02:19.421Z"
+}

@@ -1,0 +1,35 @@
+{
+  "lemma": "those",
+  "slug": "those",
+  "fetchTerm": "those",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "plural of that",
+          "examples": [
+            "Those bolts go with these parts."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "plural of that",
+          "examples": [
+            "those who serve [those persons who serve]",
+            "don't touch those [those objects over there]"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tamte"
+  ],
+  "fetchedAt": "2026-05-17T22:14:13.548Z"
+}

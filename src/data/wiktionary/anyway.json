@@ -1,0 +1,33 @@
+{
+  "lemma": "anyway",
+  "slug": "anyway",
+  "fetchTerm": "anyway",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Regardless; anyhow. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "He didn't enjoy washing his car, but it was so dirty that he did it anyway."
+          ]
+        },
+        {
+          "text": "Used to indicate that a statement explains or supports a previous statement. See anyhow and at least.",
+          "examples": [
+            "I don't think that's true. I haven't found any evidence, anyway."
+          ]
+        },
+        {
+          "text": "Used to indicate a change of subject.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "i tak"
+  ],
+  "fetchedAt": "2026-05-17T22:12:04.311Z"
+}

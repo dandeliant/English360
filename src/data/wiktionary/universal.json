@@ -1,0 +1,43 @@
+{
+  "lemma": "universal",
+  "slug": "universal",
+  "fetchTerm": "universal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the universe.",
+          "examples": []
+        },
+        {
+          "text": "Common to all members of a group or class.",
+          "examples": []
+        },
+        {
+          "text": "Common to all society; worldwide.",
+          "examples": [
+            "She achieved universal fame."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A characteristic or property that particular things have in common.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kosmiczny",
+    "ogólny",
+    "powszechny",
+    "uniwersalny"
+  ],
+  "fetchedAt": "2026-05-17T22:14:18.211Z"
+}

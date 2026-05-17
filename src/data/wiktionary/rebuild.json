@@ -1,0 +1,43 @@
+{
+  "lemma": "rebuild",
+  "slug": "rebuild",
+  "fetchTerm": "rebuild",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To build again or anew.",
+          "examples": []
+        },
+        {
+          "text": "To attempt to improve one's performance during a period of struggling.",
+          "examples": [
+            "After missing the playoffs for the seventh straight season in a row, the Detroit Red Wings are trying to rebuild."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A process or result of rebuilding.",
+          "examples": []
+        },
+        {
+          "text": "(said of sports teams) A period during which an attempt is made to improve during a period of struggling.",
+          "examples": [
+            "Since they failed to make it to the playoffs after five consecutive seasons, the team has gone through a lengthy rebuild."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "odbudowywać",
+    "odbudować"
+  ],
+  "fetchedAt": "2026-05-17T22:04:18.213Z"
+}

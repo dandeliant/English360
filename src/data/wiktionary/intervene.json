@@ -1,0 +1,40 @@
+{
+  "lemma": "intervene",
+  "slug": "intervene",
+  "fetchTerm": "intervene",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become involved in a situation, so as to alter or prevent an action. .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with in]",
+          "examples": [
+            "The police had to be called to intervene in the fight."
+          ]
+        },
+        {
+          "text": "To occur, fall, or come between, points of time, or events.",
+          "examples": [
+            "An instant intervened between the flash and the report.",
+            "I hadn't seen him since we were in school, and the intervening years had not been kind to him."
+          ]
+        },
+        {
+          "text": "To occur or act as an obstacle or delay.",
+          "examples": [
+            "Nothing intervened to prevent the undertaking."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wkroczyć",
+    "wkraczać",
+    "interweniować",
+    "przeszkodzić",
+    "powstrzymać"
+  ],
+  "fetchedAt": "2026-05-17T22:03:09.714Z"
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "clatter",
+  "slug": "clatter",
+  "fetchTerm": "clatter",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a rattling sound.",
+          "examples": []
+        },
+        {
+          "text": "To chatter noisily or rapidly.",
+          "examples": []
+        },
+        {
+          "text": "To hit; to smack.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rattling noise; a repetition of abrupt, sharp sounds.",
+          "examples": []
+        },
+        {
+          "text": "A loud disturbance.",
+          "examples": []
+        },
+        {
+          "text": "Noisy talk or chatter.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:01:55.227Z"
+}

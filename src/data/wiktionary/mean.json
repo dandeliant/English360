@@ -1,0 +1,95 @@
+{
+  "lemma": "mean",
+  "slug": "mean",
+  "fetchTerm": "mean",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To intend. To intend, to plan (to do); to have as one's intention. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I didn't mean to knock your tooth out.",
+            "I mean to go to Arévalo in Spain this summer; I’ve been meaning to tell you for weeks, but I’ve just found the time."
+          ]
+        },
+        {
+          "text": "To intend, to plan (to do); to have as one's intention. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I didn't mean to knock your tooth out.",
+            "I mean to go to Arévalo in Spain this summer; I’ve been meaning to tell you for weeks, but I’ve just found the time."
+          ]
+        },
+        {
+          "text": "To have as intentions of a given kind.",
+          "examples": [
+            "Don't be angry; she meant well."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Common; general.",
+          "examples": []
+        },
+        {
+          "text": "Of a common or low origin, grade, or quality; common; humble.",
+          "examples": [
+            "a man of mean parentage",
+            "a mean abode"
+          ]
+        },
+        {
+          "text": "Low in quality or degree; inferior; poor; shabby.",
+          "examples": [
+            "a mean appearance",
+            "a mean dress"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having the mean as its value; average.",
+          "examples": [
+            "The mean family has 2.4 children."
+          ]
+        },
+        {
+          "text": "Middling; intermediate; moderately good, tolerable.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A method or course of action used to achieve some result.",
+          "examples": []
+        },
+        {
+          "text": "An intermediate step or intermediate steps.",
+          "examples": []
+        },
+        {
+          "text": "Something which is intermediate or in the middle; an intermediate value or range of values; a medium.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chcieć",
+    "znaczyć",
+    "mieć na myśli",
+    "średni"
+  ],
+  "fetchedAt": "2026-05-17T22:03:26.784Z"
+}

@@ -1,0 +1,73 @@
+{
+  "lemma": "pose",
+  "slug": "pose",
+  "fetchTerm": "pose",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Common cold, head cold; catarrh.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place in an attitude or fixed position, for the sake of effect.",
+          "examples": [
+            "To pose a model for a picture."
+          ]
+        },
+        {
+          "text": "To ask; to set (a test, quiz, riddle, etc.).",
+          "examples": []
+        },
+        {
+          "text": "To constitute (a danger, a threat, a risk, etc.).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Position, posture, arrangement (especially of the human body).",
+          "examples": [
+            "Please adopt a more graceful pose for my camera."
+          ]
+        },
+        {
+          "text": "Affectation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ask (someone) questions; to interrogate.",
+          "examples": []
+        },
+        {
+          "text": "to puzzle, non-plus, or embarrass with difficult questions.",
+          "examples": []
+        },
+        {
+          "text": "To perplex or confuse (someone).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pozować",
+    "poza"
+  ],
+  "fetchedAt": "2026-05-17T22:13:49.905Z"
+}

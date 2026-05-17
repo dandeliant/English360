@@ -1,0 +1,122 @@
+{
+  "lemma": "way",
+  "slug": "way",
+  "fetchTerm": "way",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Wayana.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "To do with a place or places. A road, a direction, a (physical or conceptual) path from one place to another.",
+          "examples": [
+            "Do you know the way to the airport? Come this way and I'll show you a shortcut. It's a long way from here.",
+            "Twenty miles surely is a long way to walk."
+          ]
+        },
+        {
+          "text": "A road, a direction, a (physical or conceptual) path from one place to another.",
+          "examples": [
+            "Do you know the way to the airport? Come this way and I'll show you a shortcut. It's a long way from here.",
+            "Twenty miles surely is a long way to walk."
+          ]
+        },
+        {
+          "text": "A means to enter or leave a place.",
+          "examples": [
+            "We got into the cinema through the back way."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Yes; it is true; it is possible.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To travel.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Far.",
+          "examples": [
+            "I used to live way over there.",
+            "The farmhouse is way down the bottom of the hill."
+          ]
+        },
+        {
+          "text": "Much, far, by a great degree.",
+          "examples": [
+            "I'm a way better singer than Emma.",
+            "I'm way too tired to do that."
+          ]
+        },
+        {
+          "text": "Very.",
+          "examples": [
+            "I'm way tired.",
+            "String theory is way cool, except for the math."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Extreme, far",
+          "examples": [
+            "Sitting in the way back of the bus"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A seventeenth-century unit of Rhenish glass containing 60 bunches.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The letter for the w sound in Pitman shorthand.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "droga",
+    "sposób",
+    "metoda",
+    "rozwiązanie"
+  ],
+  "fetchedAt": "2026-05-17T22:05:20.093Z"
+}

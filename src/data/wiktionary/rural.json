@@ -1,0 +1,32 @@
+{
+  "lemma": "rural",
+  "slug": "rural",
+  "fetchTerm": "rural",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to the countryside or to agriculture.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person from the countryside; a rustic.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wiejski",
+    "wioskowy",
+    "sielski"
+  ],
+  "fetchedAt": "2026-05-17T22:04:27.858Z"
+}

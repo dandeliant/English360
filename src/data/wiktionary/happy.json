@@ -1,0 +1,55 @@
+{
+  "lemma": "happy",
+  "slug": "happy",
+  "fetchTerm": "happy",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a feeling arising from a consciousness of well-being or of enjoyment; enjoying good of any kind, such as comfort, peace, or tranquillity; blissful, contented, joyous.",
+          "examples": [
+            "Music makes me feel happy."
+          ]
+        },
+        {
+          "text": "Experiencing the effect of favourable fortune; favored by fortune or luck; fortunate, lucky.",
+          "examples": []
+        },
+        {
+          "text": "Elect or saved after death, blessed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A happy event, thing, person, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Often followed by up: to become happy; to brighten up, to cheer up.",
+          "examples": []
+        },
+        {
+          "text": "Often followed by up: to make happy; to brighten, to cheer, to enliven.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczęśliwy",
+    "radosny",
+    "zadowolony"
+  ],
+  "fetchedAt": "2026-05-17T22:02:55.008Z"
+}

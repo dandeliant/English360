@@ -1,0 +1,61 @@
+{
+  "lemma": "season",
+  "slug": "season",
+  "fetchTerm": "season",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Each of the divisions of a year based on the prevailing weather: spring, summer, autumn (fall) and winter; or the rainy (monsoon) and dry season, depending on the climate.",
+          "examples": []
+        },
+        {
+          "text": "A period of the year when something particular happens.",
+          "examples": [
+            "mating season",
+            "the football season"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To habituate, accustom, or inure (someone or something) to a particular use, purpose, or circumstance.",
+          "examples": [
+            "to season oneself to a climate"
+          ]
+        },
+        {
+          "text": "To prepare by drying or hardening, or removal of natural juices.",
+          "examples": [
+            "The timber needs to be seasoned."
+          ]
+        },
+        {
+          "text": "To become mature; to grow fit for use; to become adapted to a climate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To flavour food with spices, herbs or salt.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pora roku",
+    "sezon",
+    "przyprawić",
+    "przyprawiać"
+  ],
+  "fetchedAt": "2026-05-17T22:04:35.519Z"
+}

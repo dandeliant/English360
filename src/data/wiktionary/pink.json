@@ -1,0 +1,160 @@
+{
+  "lemma": "pink",
+  "slug": "pink",
+  "fetchTerm": "pink",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A color reminiscent of pinks, the flowers.",
+          "examples": [
+            "My new dress is a wonderful shade of pink.",
+            "pink:"
+          ]
+        },
+        {
+          "text": "Magenta, the colour evoked by red and blue light when combined.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a colour between red and white; pale red.",
+          "examples": []
+        },
+        {
+          "text": "Of a fox-hunter's jacket: scarlet.",
+          "examples": []
+        },
+        {
+          "text": "Having conjunctivitis.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become pink in color, to redden.",
+          "examples": []
+        },
+        {
+          "text": "To turn (something) pink.",
+          "examples": []
+        },
+        {
+          "text": "To turn (a topaz or other gemstone) pink by the application of heat.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The common minnow, Phoxinus phoxinus.",
+          "examples": []
+        },
+        {
+          "text": "A young Atlantic salmon, Salmo salar, before it becomes a smolt; a parr.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A narrow boat.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate a piece of clothing or fabric by adding holes or by scalloping the fringe.",
+          "examples": []
+        },
+        {
+          "text": "To prick with a sword.",
+          "examples": []
+        },
+        {
+          "text": "To wound by irony, criticism, or ridicule.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small hole made by puncturing something, as with a rapier, dagger, or pinking iron. A small hole or puncture made by a sharp, slender instrument such as a rapier, poniard or dagger, or (by extension) a bullet; a stab. A small hole or eyelet punched in a garment for decoration, as with a pinking iron; a scallop.",
+          "examples": []
+        },
+        {
+          "text": "A small hole or puncture made by a sharp, slender instrument such as a rapier, poniard or dagger, or (by extension) a bullet; a stab.",
+          "examples": []
+        },
+        {
+          "text": "A small hole or eyelet punched in a garment for decoration, as with a pinking iron; a scallop.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a motor car, to emit a high \"pinking\" noise, usually as a result of ill-set ignition timing for the fuel used (in a spark ignition engine).",
+          "examples": []
+        },
+        {
+          "text": "Of a musical instrument, to sound a very high-pitched, short note.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To wink; to blink.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Half-shut; winking.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of various lake pigments or dyes in yellow, yellowish green or brown shades, made with plant coloring and a metallic oxide base.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "róż",
+    "goździk",
+    "różowy"
+  ],
+  "fetchedAt": "2026-05-17T22:13:46.761Z"
+}

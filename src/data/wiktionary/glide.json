@@ -1,0 +1,44 @@
+{
+  "lemma": "glide",
+  "slug": "glide",
+  "fetchTerm": "glide",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move softly, smoothly, or effortlessly.",
+          "examples": []
+        },
+        {
+          "text": "To fly unpowered, as of an aircraft. Also relates to gliding birds and flying fish.",
+          "examples": []
+        },
+        {
+          "text": "To cause to glide.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of gliding.",
+          "examples": []
+        },
+        {
+          "text": "A transitional sound, especially a semivowel.",
+          "examples": []
+        },
+        {
+          "text": "An attack or preparatory movement made by sliding down the opponent’s blade, keeping it in constant contact.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:02:48.688Z"
+}

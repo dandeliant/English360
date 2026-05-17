@@ -1,0 +1,33 @@
+{
+  "lemma": "genre",
+  "slug": "genre",
+  "fetchTerm": "genre",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A kind; a stylistic category or sort, especially of literature or other artworks.",
+          "examples": [
+            "The still life has been a popular genre in painting since the 17th century.",
+            "This film is a cross-genre piece, dark and funny at the same time."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assign or conform to a genre, to make genre-specific.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gatunek"
+  ],
+  "fetchedAt": "2026-05-17T22:13:13.558Z"
+}

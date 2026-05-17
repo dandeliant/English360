@@ -1,0 +1,39 @@
+{
+  "lemma": "ago",
+  "slug": "ago",
+  "fetchTerm": "ago",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Tainae.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Gone; gone by; gone away; passed; passed away.",
+          "examples": [
+            "in days ago / in days agone"
+          ]
+        },
+        {
+          "text": "Nearly gone; dead.",
+          "examples": [
+            "Woe the day—she is agone!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "temu",
+    "wcześniej"
+  ],
+  "fetchedAt": "2026-05-17T22:01:16.874Z"
+}

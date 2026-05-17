@@ -1,0 +1,87 @@
+{
+  "lemma": "none",
+  "slug": "none",
+  "fetchTerm": "none",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Not any of a given number or group.",
+          "examples": [
+            "None of those is a good example. None are even acceptable.",
+            "None of this meat tastes right."
+          ]
+        },
+        {
+          "text": "No one, nobody.",
+          "examples": [
+            "None of those people is my father."
+          ]
+        },
+        {
+          "text": "No person.",
+          "examples": [
+            "None of those people are my parents. None shall pass."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Not any; no (usually used only before a vowel or h):",
+          "examples": [
+            "Thou shalt have none other gods but me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To no extent, in no way.",
+          "examples": [
+            "I felt none the worse for my recent illness."
+          ]
+        },
+        {
+          "text": "Not at all, not very.",
+          "examples": [
+            "He was none too pleased with the delays in the program that was supposed to be his legacy.",
+            "We could hear none too well from the back."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person without religious affiliation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of nones: the ninth hour after dawn; the religious service appointed to this hour.",
+          "examples": []
+        },
+        {
+          "text": "Synonym of midafternoon: the time around or following noon or nones.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żaden"
+  ],
+  "fetchedAt": "2026-05-17T22:03:47.548Z"
+}

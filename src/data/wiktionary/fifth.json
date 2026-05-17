@@ -1,0 +1,55 @@
+{
+  "lemma": "fifth",
+  "slug": "fifth",
+  "fetchTerm": "fifth",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "The ordinal form of the number five.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The person or thing in the fifth position. The fifth gear of a transmission.",
+          "examples": []
+        },
+        {
+          "text": "The fifth gear of a transmission.",
+          "examples": []
+        },
+        {
+          "text": "One of five equal parts of a whole: one-fifth.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sing in the fifth voice in a polyphonic melody.",
+          "examples": []
+        },
+        {
+          "text": "To support something fifth, after four others have already done so.",
+          "examples": []
+        },
+        {
+          "text": "To divide by five.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "piąty"
+  ],
+  "fetchedAt": "2026-05-17T22:12:59.428Z"
+}

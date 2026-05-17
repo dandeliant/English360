@@ -1,0 +1,50 @@
+{
+  "lemma": "practise",
+  "slug": "practise",
+  "fetchTerm": "practise",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To repeat (an activity) as a way of improving one's skill in that activity.",
+          "examples": [
+            "You should practise playing piano every day."
+          ]
+        },
+        {
+          "text": "To repeat an activity in this way.",
+          "examples": [
+            "If you want to speak French well, you need to practise."
+          ]
+        },
+        {
+          "text": "To perform or observe in an habitual fashion.",
+          "examples": [
+            "They gather to practise religion every Saturday."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of practice.",
+          "examples": []
+        },
+        {
+          "text": "Misspelling of practice.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ćwiczyć",
+    "praktykować",
+    "zajmować się"
+  ],
+  "fetchedAt": "2026-05-17T22:04:08.339Z"
+}

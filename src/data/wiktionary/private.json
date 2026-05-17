@@ -1,0 +1,65 @@
+{
+  "lemma": "private",
+  "slug": "private",
+  "fetchTerm": "private",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Belonging or pertaining to an individual person, group of people, or entity that is not the state.",
+          "examples": [
+            "In some countries, healthcare is provided by both the government and private companies."
+          ]
+        },
+        {
+          "text": "Relating to an individual or group of individuals outside of their official roles; often, sensitive or personal.",
+          "examples": [
+            "This book is her private journal."
+          ]
+        },
+        {
+          "text": "Not publicly known or divulged; secret, confidential; intended only for a specific person or group.",
+          "examples": [
+            "The identity of the beneficiaries of the trust is private."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A soldier of the lowest rank in the army.",
+          "examples": []
+        },
+        {
+          "text": "A doctor working in privately rather than publicly funded health care.",
+          "examples": []
+        },
+        {
+          "text": "The genitals.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make something hidden from the public (without deleting it permanently).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "osobisty",
+    "prywatny",
+    "niejawny",
+    "poufny",
+    "szeregowy"
+  ],
+  "fetchedAt": "2026-05-17T22:04:11.138Z"
+}

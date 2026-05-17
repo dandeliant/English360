@@ -1,0 +1,55 @@
+{
+  "lemma": "roof",
+  "slug": "roof",
+  "fetchTerm": "roof",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The external covering at the top of a building.",
+          "examples": [
+            "The roof was blown off by the tornado."
+          ]
+        },
+        {
+          "text": "The top external level of a building.",
+          "examples": [
+            "Let's go up to the roof."
+          ]
+        },
+        {
+          "text": "The upper part of a cavity.",
+          "examples": [
+            "The palate is the roof of the mouth."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover or furnish with a roof.",
+          "examples": []
+        },
+        {
+          "text": "To traverse buildings by walking or climbing across their roofs.",
+          "examples": []
+        },
+        {
+          "text": "To put into prison, to bird.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dach",
+    "strzecha",
+    "strop",
+    "sklepienie"
+  ],
+  "fetchedAt": "2026-05-17T22:04:25.212Z"
+}

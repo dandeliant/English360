@@ -1,0 +1,108 @@
+{
+  "lemma": "dead",
+  "slug": "dead",
+  "fetchTerm": "dead",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "No longer living; deceased.",
+          "examples": [
+            "All of my grandparents are dead.",
+            "Have respect for the dead."
+          ]
+        },
+        {
+          "text": "Devoid of living things; barren.",
+          "examples": [
+            "a dead planet"
+          ]
+        },
+        {
+          "text": "Figuratively, not alive; lacking life.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Exactly.",
+          "examples": [
+            "dead right; dead level; dead flat; dead straight; dead left",
+            "He hit the target dead in the centre."
+          ]
+        },
+        {
+          "text": "Very, absolutely, extremely.",
+          "examples": [
+            "dead wrong; dead set; dead serious; dead drunk; dead broke; dead earnest; dead certain; dead slow; dead sure; dead simple; dead honest; dead accurate; dead easy"
+          ]
+        },
+        {
+          "text": "Suddenly and completely.",
+          "examples": [
+            "He stopped dead.",
+            "She cut me dead again at the last party."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Time when coldness, darkness, or stillness is most intense.",
+          "examples": [
+            "the dead of night",
+            "the dead of winter"
+          ]
+        },
+        {
+          "text": "Those who have died: dead people.",
+          "examples": [
+            "the quick and the dead",
+            "Will the dead rise again?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Sterile mining waste, often present as many large rocks stacked inside the workings.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To prevent by disabling; to stop.",
+          "examples": []
+        },
+        {
+          "text": "To make dead; to deaden; to deprive of life, force, or vigour.",
+          "examples": []
+        },
+        {
+          "text": "To kill.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "martwy",
+    "zmarły",
+    "nieżywy",
+    "zmartwiały",
+    "nieruchomy"
+  ],
+  "fetchedAt": "2026-05-17T22:02:04.171Z"
+}

@@ -1,0 +1,19 @@
+{
+  "lemma": "savannah",
+  "slug": "savannah",
+  "fetchTerm": "savannah",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of savanna.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:04:33.976Z"
+}

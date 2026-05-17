@@ -1,0 +1,51 @@
+{
+  "lemma": "support",
+  "slug": "support",
+  "fetchTerm": "support",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To help keep from falling.",
+          "examples": [
+            "Don’t move that beam! It supports the whole platform.",
+            "He staggered away from the accident site, supported by one friend on each side."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something which supports.",
+          "examples": [
+            "Don't move that beam! It's a support for the whole platform."
+          ]
+        },
+        {
+          "text": "Financial or other help.",
+          "examples": [
+            "The government provides support to the arts in several ways."
+          ]
+        },
+        {
+          "text": "Answers to questions and resolution of problems regarding something sold.",
+          "examples": [
+            "Sure they sell the product, but do they provide support?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wspierać",
+    "wesprzeć",
+    "popierać",
+    "poprzeć",
+    "kibicować"
+  ],
+  "fetchedAt": "2026-05-17T22:04:53.215Z"
+}

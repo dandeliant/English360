@@ -1,0 +1,25 @@
+{
+  "lemma": "sahel",
+  "slug": "sahel",
+  "fetchTerm": "Sahel",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A region of Africa, between the Sahara to the north and a more humid zone (Sudan) to the south.",
+          "examples": []
+        },
+        {
+          "text": "An administrative region of Tunisia, in the central east part of the country.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Sahel"
+  ],
+  "fetchedAt": "2026-05-17T22:04:30.357Z"
+}

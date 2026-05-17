@@ -1,0 +1,32 @@
+{
+  "lemma": "generation",
+  "slug": "generation",
+  "fetchTerm": "generation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of creating something or bringing something into being; production, creation. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "The act of creating a living creature or organism; procreation.",
+          "examples": []
+        },
+        {
+          "text": "Race, family; breed.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "generowanie",
+    "wytwarzanie",
+    "pokolenie",
+    "generacja"
+  ],
+  "fetchedAt": "2026-05-17T22:02:45.364Z"
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "nothing",
+  "slug": "nothing",
+  "fetchTerm": "nothing",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Not any thing; no thing.",
+          "examples": [
+            "Don't just say nothing. Tell me what's going on.",
+            "Nothing bad will happen, will it?"
+          ]
+        },
+        {
+          "text": "An absence of anything, including empty space, brightness, darkness, matter, or a vacuum.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something trifling, or of no consequence or importance.",
+          "examples": [
+            "- What happened to your face?- It's nothing."
+          ]
+        },
+        {
+          "text": "A trivial remark especially in the term sweet nothings.",
+          "examples": []
+        },
+        {
+          "text": "A nobody (insignificant person).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not at all; in no way.",
+          "examples": [
+            "Nothing too much out of the ordinary.",
+            "Nothing dismayed, I repeated my query."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Completely unimportant.",
+          "examples": [
+            "Dallas scored on what had seemed until then like a nothing play."
+          ]
+        },
+        {
+          "text": "Lacking effort or commitment.",
+          "examples": [
+            "The cricketer played a nothing shot."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Never mind; it's not important; forget what I said.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nic",
+    "nic takiego"
+  ],
+  "fetchedAt": "2026-05-17T22:03:50.511Z"
+}

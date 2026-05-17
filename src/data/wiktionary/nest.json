@@ -1,0 +1,54 @@
+{
+  "lemma": "nest",
+  "slug": "nest",
+  "fetchTerm": "nest",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A structure built by a bird as a place to incubate eggs and rear young.",
+          "examples": []
+        },
+        {
+          "text": "A place used by a monotreme, fish, amphibian or insect, for depositing eggs and hatching young.",
+          "examples": []
+        },
+        {
+          "text": "A snug, comfortable, or cosy residence or job situation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To build or settle into a nest.",
+          "examples": []
+        },
+        {
+          "text": "To settle into a home.",
+          "examples": [
+            "We loved the new house and were nesting there in two days!"
+          ]
+        },
+        {
+          "text": "To successively neatly fit inside another.",
+          "examples": [
+            "I bought a set of nesting mixing bowls for my mother."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gniazdo",
+    "gniazdko",
+    "kryjówka",
+    "gnieździć",
+    "znaleźć schronienie"
+  ],
+  "fetchedAt": "2026-05-17T22:03:45.982Z"
+}

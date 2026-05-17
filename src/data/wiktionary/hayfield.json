@@ -1,0 +1,19 @@
+{
+  "lemma": "hayfield",
+  "slug": "hayfield",
+  "fetchTerm": "hayfield",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A field of hay.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:02:58.892Z"
+}

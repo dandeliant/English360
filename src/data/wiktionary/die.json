@@ -1,0 +1,92 @@
+{
+  "lemma": "die",
+  "slug": "die",
+  "fetchTerm": "die",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To stop living; to become dead; to undergo death. followed by of as an indication of direct cause; general use:",
+          "examples": [
+            "He died of malaria.",
+            "He died from heart failure."
+          ]
+        },
+        {
+          "text": "followed by of as an indication of direct cause; general use:",
+          "examples": [
+            "He died of malaria."
+          ]
+        },
+        {
+          "text": "followed by from as an indication of direct cause; general use, though somewhat more common in the context of medicine or the sciences:",
+          "examples": [
+            "He died from heart failure."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The cubical part of a pedestal; a plinth.",
+          "examples": []
+        },
+        {
+          "text": "A device for cutting into a specified shape.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An isohedral polyhedron, usually a cube, with numbers or symbols on each side and thrown in games of chance.",
+          "examples": [
+            "Most dice are six-sided.",
+            "I rolled the die and moved 2 spaces on the board."
+          ]
+        },
+        {
+          "text": "That which is, or might be, determined, by a throw of the die; hazard; chance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of dye.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of dye.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "per day",
+          "examples": [
+            "Clozapine 100 mg die a.m."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:02:09.039Z"
+}

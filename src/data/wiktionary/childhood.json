@@ -1,0 +1,25 @@
+{
+  "lemma": "childhood",
+  "slug": "childhood",
+  "fetchTerm": "childhood",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of being a child.",
+          "examples": []
+        },
+        {
+          "text": "The time during which one is a child, from between infancy and puberty.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dzieciństwo"
+  ],
+  "fetchedAt": "2026-05-17T22:12:24.802Z"
+}

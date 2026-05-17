@@ -1,0 +1,36 @@
+{
+  "lemma": "deeply",
+  "slug": "deeply",
+  "fetchTerm": "deeply",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To a deep extent or degree; very greatly.",
+          "examples": [
+            "I am deeply concerned about this matter.",
+            "I deeply regret my behaviour."
+          ]
+        },
+        {
+          "text": "So as to extend far down or far into something.",
+          "examples": [
+            "The surface of the planet was deeply cratered."
+          ]
+        },
+        {
+          "text": "At depth.",
+          "examples": [
+            "In this part of the river salmon swim deeply."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "głęboko"
+  ],
+  "fetchedAt": "2026-05-17T22:02:06.977Z"
+}

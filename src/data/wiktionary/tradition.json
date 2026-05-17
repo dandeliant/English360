@@ -1,0 +1,36 @@
+{
+  "lemma": "tradition",
+  "slug": "tradition",
+  "fetchTerm": "tradition",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A part of culture that is passed from person to person or generation to generation, possibly differing in detail from family to family, such as the way to celebrate holidays.",
+          "examples": []
+        },
+        {
+          "text": "A commonly held system. (Can we add an example for this sense?)",
+          "examples": [
+            "They followed the tradition of lighting candles for special occasions."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To transmit by way of tradition; to hand down.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tradycja"
+  ],
+  "fetchedAt": "2026-05-17T22:05:07.393Z"
+}

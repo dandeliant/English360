@@ -1,0 +1,41 @@
+{
+  "lemma": "beneath",
+  "slug": "beneath",
+  "fetchTerm": "beneath",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Below or underneath.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Below.",
+          "examples": []
+        },
+        {
+          "text": "In a position that is lower in rank, dignity, etc.",
+          "examples": [
+            "Their despicable behaviour is beneath contempt."
+          ]
+        },
+        {
+          "text": "Covered up or concealed by something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pod",
+    "poniżej"
+  ],
+  "fetchedAt": "2026-05-17T22:12:10.276Z"
+}

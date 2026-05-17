@@ -1,0 +1,49 @@
+{
+  "lemma": "bring",
+  "slug": "bring",
+  "fetchTerm": "bring",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To transport toward somebody/somewhere.",
+          "examples": [
+            "Waiter, please bring me a single malt whiskey."
+          ]
+        },
+        {
+          "text": "To supply or contribute.",
+          "examples": [
+            "The new company director brought a fresh perspective on sales and marketing."
+          ]
+        },
+        {
+          "text": "To occasion or bring about.",
+          "examples": [
+            "Let's bring our differences to an issue.",
+            "The controversial TV broadcast brought a storm of complaints."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "The sound of a telephone ringing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przynosić",
+    "przynieść",
+    "przyprowadzać",
+    "przyprowadzić",
+    "przywozić"
+  ],
+  "fetchedAt": "2026-05-17T22:01:41.947Z"
+}

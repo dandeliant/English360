@@ -1,0 +1,38 @@
+{
+  "lemma": "unmoored",
+  "slug": "unmoored",
+  "fetchTerm": "unmoored",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not moored.",
+          "examples": [
+            "Left unmoored, the boat gradually drifted out to sea."
+          ]
+        },
+        {
+          "text": "Mentally immature, unstable, or lacking in emotional connections.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of unmoor",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "niezacumowany",
+    "niepewny",
+    "zagubiony"
+  ],
+  "fetchedAt": "2026-05-17T22:05:13.378Z"
+}

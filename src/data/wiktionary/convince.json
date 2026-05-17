@@ -1,0 +1,32 @@
+{
+  "lemma": "convince",
+  "slug": "convince",
+  "fetchTerm": "convince",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",
+          "examples": [
+            "I wouldn't have or do something, unless I'm convinced that it's good."
+          ]
+        },
+        {
+          "text": "To persuade.",
+          "examples": []
+        },
+        {
+          "text": "To overcome, conquer, vanquish.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przekonywać",
+    "przekonać"
+  ],
+  "fetchedAt": "2026-05-17T22:12:32.124Z"
+}

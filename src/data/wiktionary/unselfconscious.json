@@ -1,0 +1,25 @@
+{
+  "lemma": "unselfconscious",
+  "slug": "unselfconscious",
+  "fetchTerm": "unselfconscious",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not self-conscious; natural and genuine.",
+          "examples": [
+            "After a minute's silence he spoke again in Tibetan, in a voice creaky with age but curiously vibrant with the unselfconscious habit of authority."
+          ]
+        },
+        {
+          "text": "Lacking a sense of self.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:14:20.876Z"
+}

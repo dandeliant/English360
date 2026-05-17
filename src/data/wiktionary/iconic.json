@@ -1,0 +1,32 @@
+{
+  "lemma": "iconic",
+  "slug": "iconic",
+  "fetchTerm": "iconic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to, or having the characteristics of, an icon.",
+          "examples": []
+        },
+        {
+          "text": "Distinctive, characteristic, indicative of identity.",
+          "examples": [
+            "an iconic move in martial arts"
+          ]
+        },
+        {
+          "text": "Famously and distinctively representative of its type.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ikoniczny",
+    "ikonowy"
+  ],
+  "fetchedAt": "2026-05-17T22:03:06.997Z"
+}

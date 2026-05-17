@@ -1,0 +1,48 @@
+{
+  "lemma": "continent",
+  "slug": "continent",
+  "fetchTerm": "continent",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the main contiguous landmasses, separated by water or geological features, on the surface of a planet, sometimes including its continental shelves and the islands on them.",
+          "examples": []
+        },
+        {
+          "text": "Each of the traditional main regions into which the Earth’s land surface is divided, including both an extent of mainland and various conventionally associated islands, etc; namely, Africa, Europe, Asia, Australasia/Oceania, North America, South America, and Antarctica.",
+          "examples": []
+        },
+        {
+          "text": "A large contiguous landmass as opposed to its islands, peninsulas, and so forth; mainland. Also specifically, the Old World continent of Europe–Asia–Africa: see the Continent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Exercising self-restraint; controlled, temperate with respect to one’s bodily needs or passions, especially sex.",
+          "examples": []
+        },
+        {
+          "text": "Having voluntary control over one’s urination or defecation.",
+          "examples": []
+        },
+        {
+          "text": "Not interrupted; connected; continuous, whether in time or space.",
+          "examples": [
+            "a continent fever"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kontynent"
+  ],
+  "fetchedAt": "2026-05-17T22:01:58.338Z"
+}

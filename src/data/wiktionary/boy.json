@@ -1,0 +1,55 @@
+{
+  "lemma": "boy",
+  "slug": "boy",
+  "fetchTerm": "boy",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Bodo (Central Africa).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A male child. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Kieran plays football with other boys in his school."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Exclamation of surprise, pleasure or longing.",
+          "examples": [
+            "Boy, that was close!",
+            "Boy, that tastes good!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To act as a boy .",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chłopiec",
+    "chłopak",
+    "chłopczyk"
+  ],
+  "fetchedAt": "2026-05-17T22:12:12.448Z"
+}

@@ -1,0 +1,42 @@
+{
+  "lemma": "august",
+  "slug": "august",
+  "fetchTerm": "August",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The eighth month of the Roman, Julian, and Gregorian calendars, following July and preceding September.",
+          "examples": []
+        },
+        {
+          "text": "A female given name from English derived from the month (of birth).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A male given name from Latin.",
+          "examples": []
+        },
+        {
+          "text": "A surname from Latin.",
+          "examples": []
+        },
+        {
+          "text": "A census-designated place in San Joaquin County, California, United States.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sierpień"
+  ],
+  "fetchedAt": "2026-05-17T22:01:27.553Z"
+}

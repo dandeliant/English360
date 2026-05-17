@@ -1,0 +1,84 @@
+{
+  "lemma": "same",
+  "slug": "same",
+  "fetchTerm": "same",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+          "examples": [
+            "I realised I was the same age as my grandfather had been when he joined the air force.",
+            "Even if the twins are identical, they are still not the same person, unlike Mark Twain and Samuel Clemens."
+          ]
+        },
+        {
+          "text": "Lacking variety from; indistinguishable.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "The same way; in the same manner; to the same extent, unchanged; equally.",
+          "examples": [
+            "A mother loves all her children the same.",
+            "My hometown looked much the same as when I'd left 10 years ago."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The identical thing, ditto.",
+          "examples": [
+            "The same can be said of him.",
+            "It's the same everywhere."
+          ]
+        },
+        {
+          "text": "Something similar, something of the identical type.",
+          "examples": [
+            "She's having apple pie? I'll have the same. You two are just the same."
+          ]
+        },
+        {
+          "text": "It or them, without a connotation of similarity.",
+          "examples": [
+            "The question is his credibility or lack of same.",
+            "Light valve suspensions and films containing UV absorbers and light valves containing the same"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Indicates approval or agreement with the previous material, especially in reference to the previous speaker's viewpoint.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Together.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ten sam",
+    "taki sam"
+  ],
+  "fetchedAt": "2026-05-17T22:04:31.981Z"
+}

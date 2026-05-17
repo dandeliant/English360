@@ -1,0 +1,25 @@
+{
+  "lemma": "europe",
+  "slug": "europe",
+  "fetchTerm": "Europe",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A continent located west of Asia (separated by the Urals), north of Africa and east of the Atlantic Ocean.",
+          "examples": []
+        },
+        {
+          "text": "A political entity; the European Union.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Europa"
+  ],
+  "fetchedAt": "2026-05-17T22:02:24.389Z"
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "fraction",
+  "slug": "fraction",
+  "fetchTerm": "fraction",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A part of a whole, especially a comparatively small part.",
+          "examples": []
+        },
+        {
+          "text": "A ratio of two numbers (numerator and denominator), usually written one above the other and separated by a horizontal bar called the vinculum or, alternatively, in sequence on the same line and separated by a solidus (diagonal bar).",
+          "examples": [
+            "Gasoline prices show the mill as a fraction, for example $3.59+⁄10."
+          ]
+        },
+        {
+          "text": "A component of a mixture, separated by fractionation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To divide or break into fractions.",
+          "examples": []
+        },
+        {
+          "text": "To fractionate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ułamek",
+    "cząstka",
+    "frakcja",
+    "łamanie chleba",
+    "dzielić"
+  ],
+  "fetchedAt": "2026-05-17T22:13:06.543Z"
+}

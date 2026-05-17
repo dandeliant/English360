@@ -1,0 +1,40 @@
+{
+  "lemma": "decode",
+  "slug": "decode",
+  "fetchTerm": "decode",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To convert from an encrypted form to plain text.",
+          "examples": [
+            "The cryptographer decoded the secret message and sent the result to the officer."
+          ]
+        },
+        {
+          "text": "To figure out something difficult to interpret.",
+          "examples": [
+            "I finally managed to decode the nearly illegible doctor's prescription."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A product of decoding",
+          "examples": []
+        },
+        {
+          "text": "Output from a program or device used to interpret communication protocols",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:12:43.412Z"
+}

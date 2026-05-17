@@ -1,0 +1,65 @@
+{
+  "lemma": "course",
+  "slug": "course",
+  "fetchTerm": "course",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sequence of events.",
+          "examples": [
+            "The normal course of events seems to be just one damned thing after another.",
+            "I need to take a French course."
+          ]
+        },
+        {
+          "text": "A normal or customary sequence.",
+          "examples": []
+        },
+        {
+          "text": "A programme, a chosen manner of proceeding.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To run or flow (especially of liquids and more particularly blood).",
+          "examples": [
+            "The oil coursed through the engine.",
+            "Blood pumped around the human body courses throughout all its veins and arteries."
+          ]
+        },
+        {
+          "text": "To run through or over.",
+          "examples": []
+        },
+        {
+          "text": "To pursue by tracking or estimating the course taken by one's prey; to follow or chase after.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Ellipsis of of course.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciąg",
+    "bieg",
+    "kurs",
+    "danie",
+    "trajektoria"
+  ],
+  "fetchedAt": "2026-05-17T22:02:01.142Z"
+}

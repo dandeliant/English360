@@ -1,0 +1,54 @@
+{
+  "lemma": "farm",
+  "slug": "farm",
+  "fetchTerm": "farm",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
+          "examples": []
+        },
+        {
+          "text": "A tract of land held on lease for the purpose of cultivation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To work on a farm, especially in the growing and harvesting of crops.",
+          "examples": []
+        },
+        {
+          "text": "To devote (land) to farming.",
+          "examples": []
+        },
+        {
+          "text": "To grow (a particular crop).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cleanse; clean out; put in order; empty; empty out",
+          "examples": [
+            "Farm out the stable and pigsty."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gospodarstwo",
+    "farma"
+  ],
+  "fetchedAt": "2026-05-17T22:12:58.119Z"
+}

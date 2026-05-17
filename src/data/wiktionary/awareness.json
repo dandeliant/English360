@@ -1,0 +1,30 @@
+{
+  "lemma": "awareness",
+  "slug": "awareness",
+  "fetchTerm": "awareness",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state or level of consciousness where sense data can be confirmed by an observer.",
+          "examples": [
+            "I gradually passed from sleep to full awareness."
+          ]
+        },
+        {
+          "text": "The state or quality of being aware of something.",
+          "examples": [
+            "raise awareness of a topic",
+            "The awareness of one type of idea naturally fosters an awareness of another idea"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "świadomość"
+  ],
+  "fetchedAt": "2026-05-17T22:12:07.425Z"
+}

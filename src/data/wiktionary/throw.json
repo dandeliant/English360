@@ -1,0 +1,89 @@
+{
+  "lemma": "throw",
+  "slug": "throw",
+  "fetchTerm": "throw",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hurl; to release (an object) with some force from one’s hands, an apparatus, etc. so that it moves rapidly through the air.",
+          "examples": [
+            "throw a shoe; throw a javelin; the horse threw its rider"
+          ]
+        },
+        {
+          "text": "To eject or cause to fall off.",
+          "examples": []
+        },
+        {
+          "text": "To move to another position or condition; to displace.",
+          "examples": [
+            "throw the switch"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of throwing something.",
+          "examples": [
+            "With an accurate throw, he lassoed the cow.",
+            "What a great throw by the quarterback!"
+          ]
+        },
+        {
+          "text": "A move in which one lifts or unbalances one’s opponent and then brings him down to the ground.",
+          "examples": []
+        },
+        {
+          "text": "One’s ability to throw.",
+          "examples": [
+            "He’s always had a pretty decent throw."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A moment, time, occasion.",
+          "examples": []
+        },
+        {
+          "text": "A period of time; a while.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of throe.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of throe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rzucać",
+    "rzucić",
+    "miotać",
+    "narzuta"
+  ],
+  "fetchedAt": "2026-05-17T22:14:15.173Z"
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "cut",
+  "slug": "cut",
+  "fetchTerm": "cut",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Teutila Cuicatec.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To incise, to cut into the surface of something. To perform an incision on, for example with a knife. To divide with a knife, scissors, or another sharp instrument.",
+          "examples": [
+            "Would you please cut the cake?",
+            "I have three diamonds to cut today."
+          ]
+        },
+        {
+          "text": "To perform an incision on, for example with a knife.",
+          "examples": []
+        },
+        {
+          "text": "To divide with a knife, scissors, or another sharp instrument.",
+          "examples": [
+            "Would you please cut the cake?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having been cut.",
+          "examples": []
+        },
+        {
+          "text": "Reduced.",
+          "examples": [
+            "The pitcher threw a cut fastball that was slower than his usual pitch.",
+            "Cut brandy is a liquor made of brandy and hard grain liquor."
+          ]
+        },
+        {
+          "text": "Carved into a shape; not raw.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of cutting.",
+          "examples": [
+            "He made a fine cut with his sword."
+          ]
+        },
+        {
+          "text": "An attack made with a chopping motion of the blade, landing with its edge or point.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An instruction to cease recording.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciąć",
+    "kroić",
+    "przycinać",
+    "przyciąć",
+    "rozciąć"
+  ],
+  "fetchedAt": "2026-05-17T22:12:40.852Z"
+}

@@ -1,0 +1,55 @@
+{
+  "lemma": "possible",
+  "slug": "possible",
+  "fetchTerm": "possible",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Able but not certain to happen; neither inevitable nor impossible.",
+          "examples": [
+            "Rain tomorrow is possible, but I wouldn't bet on it.",
+            "It's not just possible, it's probable that there will be rain tomorrow."
+          ]
+        },
+        {
+          "text": "Capable of being done or achieved; feasible.",
+          "examples": [
+            "It's possible for anyone to learn to play the bagpipes."
+          ]
+        },
+        {
+          "text": "Being considered, e.g. for a position.",
+          "examples": [
+            "Jones and Smith are both possible for the opening in sales."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A possible choice, notably someone being considered for a position.",
+          "examples": [
+            "Jones is a possible for the new opening in sales."
+          ]
+        },
+        {
+          "text": "That which is possible for somebody.",
+          "examples": []
+        },
+        {
+          "text": "A particular event that may happen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "możliwy"
+  ],
+  "fetchedAt": "2026-05-17T22:13:52.578Z"
+}

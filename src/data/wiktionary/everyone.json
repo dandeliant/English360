@@ -1,0 +1,23 @@
+{
+  "lemma": "everyone",
+  "slug": "everyone",
+  "fetchTerm": "everyone",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Every person.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "każdy",
+    "wszyscy",
+    "wszelaki"
+  ],
+  "fetchedAt": "2026-05-17T22:12:54.433Z"
+}

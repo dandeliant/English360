@@ -1,0 +1,48 @@
+{
+  "lemma": "entire",
+  "slug": "entire",
+  "fetchTerm": "entire",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Whole; complete.",
+          "examples": [
+            "We had the entire building to ourselves for the evening."
+          ]
+        },
+        {
+          "text": "Having a smooth margin without any indentation.",
+          "examples": []
+        },
+        {
+          "text": "Consisting of a single piece, as a corolla.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The whole of something; the entirety.",
+          "examples": []
+        },
+        {
+          "text": "An uncastrated horse; a stallion.",
+          "examples": []
+        },
+        {
+          "text": "A complete envelope with stamps and all official markings: (prior to the use of envelopes) a page folded and posted.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cały"
+  ],
+  "fetchedAt": "2026-05-17T22:12:53.111Z"
+}

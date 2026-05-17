@@ -1,0 +1,45 @@
+{
+  "lemma": "pang",
+  "slug": "pang",
+  "fetchTerm": "pang",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A paroxysm of extreme physical pain or anguish; a feeling of sudden and transitory agony; a throe.",
+          "examples": []
+        },
+        {
+          "text": "A sudden sharp feeling of an emotional or mental nature, as of joy or sorrow.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to have great pain or suffering; to torment, to torture.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past of ping",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "skurcz",
+    "ukłucie",
+    "męczyć"
+  ],
+  "fetchedAt": "2026-05-17T22:04:00.505Z"
+}

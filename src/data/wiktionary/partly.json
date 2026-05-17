@@ -1,0 +1,26 @@
+{
+  "lemma": "partly",
+  "slug": "partly",
+  "fetchTerm": "partly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In part, or to some degree, but not completely.",
+          "examples": [
+            "They had partly finished the house, so they could move in before winter.",
+            "The car was partly visible in the garage."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "częściowo",
+    "po części",
+    "w części"
+  ],
+  "fetchedAt": "2026-05-17T22:13:41.948Z"
+}

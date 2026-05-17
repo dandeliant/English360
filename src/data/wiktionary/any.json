@@ -1,0 +1,74 @@
+{
+  "lemma": "any",
+  "slug": "any",
+  "fetchTerm": "any",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Anyi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To even the slightest extent, at all.",
+          "examples": [
+            "If you get any taller, you'll start having to duck through doorways!",
+            "That doesn't bother me any. (chiefly US usage)"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "One at all; at least one; at least one kind of; some; a positive quantity of.",
+          "examples": [
+            "Do you have any biscuits?",
+            "Do you have any food?"
+          ]
+        },
+        {
+          "text": "A/an, each or some, no matter its/their identity or nature.",
+          "examples": [
+            "Choose any item you want.",
+            "Any person may apply."
+          ]
+        },
+        {
+          "text": "An unspecified but imminent (second, minute, day etc.).",
+          "examples": [
+            "They'll be arriving any day.",
+            "I expect the phone to ring at any moment."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Any thing(s) or person(s).",
+          "examples": [
+            "Any may apply."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jeszcze",
+    "jakiś",
+    "żaden",
+    "którykolwiek",
+    "jakikolwiek"
+  ],
+  "fetchedAt": "2026-05-17T22:01:19.896Z"
+}

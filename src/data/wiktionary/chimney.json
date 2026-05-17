@@ -1,0 +1,39 @@
+{
+  "lemma": "chimney",
+  "slug": "chimney",
+  "fetchTerm": "chimney",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A vertical tube or hollow column used to emit environmentally polluting gaseous and solid matter (including but not limited to by-products of burning carbon- or hydrocarbon-based fuels); a flue.",
+          "examples": []
+        },
+        {
+          "text": "The glass flue surrounding the flame of an oil lamp.",
+          "examples": []
+        },
+        {
+          "text": "The smokestack of a steam locomotive.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To negotiate a chimney (narrow vertical cave passage) by pushing against the sides with back, feet, hands, etc.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "komin",
+    "dymnik"
+  ],
+  "fetchedAt": "2026-05-17T22:01:50.681Z"
+}

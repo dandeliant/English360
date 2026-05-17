@@ -1,0 +1,97 @@
+{
+  "lemma": "enough",
+  "slug": "enough",
+  "fetchTerm": "enough",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Sufficient; all that is required, needed, or appropriate. Used before a noun in the manner of words like some, a bit of, and so on.",
+          "examples": [
+            "I've already had enough coffee today.",
+            "There is food enough for us all."
+          ]
+        },
+        {
+          "text": "Used before a noun in the manner of words like some, a bit of, and so on.",
+          "examples": [
+            "I've already had enough coffee today."
+          ]
+        },
+        {
+          "text": "Used after a noun.",
+          "examples": [
+            "There is food enough for us all."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Sufficiently.",
+          "examples": [
+            "Those pears aren't ripe enough for the children to eat (them).",
+            "You've worked enough; rest for a bit."
+          ]
+        },
+        {
+          "text": "Fully; quite; used after adjectives to express slight augmentation of the positive degree, and sometimes equivalent to very.",
+          "examples": [
+            "He is ready enough to accept the offer."
+          ]
+        },
+        {
+          "text": "Used after certain adverbs to emphasise that a quality is notable, unexpected, etc.",
+          "examples": [
+            "Talking of Mr Smith, funnily enough, I saw him just the other day.",
+            "I left my camera on the train, but luckily enough someone handed it in to lost property."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A sufficient or adequate number, amount, etc.",
+          "examples": [
+            "I have enough (of it) to keep me going.",
+            "Enough of you are here to begin the class."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Stop! Don't do that any more! It is too much!",
+          "examples": [
+            "I'm sick of you complaining! Enough!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of being sufficient, or of doing something sufficiently.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dość",
+    "wystarczająco",
+    "dosyć",
+    "na tyle",
+    "starczy"
+  ],
+  "fetchedAt": "2026-05-17T22:12:51.805Z"
+}

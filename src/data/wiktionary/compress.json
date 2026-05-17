@@ -1,0 +1,50 @@
+{
+  "lemma": "compress",
+  "slug": "compress",
+  "fetchTerm": "compress",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make smaller; to press or squeeze together, or to make something occupy a smaller space or volume.",
+          "examples": [
+            "The force required to compress a spring varies linearly with the displacement."
+          ]
+        },
+        {
+          "text": "To be pressed together or folded by compression into a more economic, easier format.",
+          "examples": [
+            "Our new model compresses easily, ideal for storage and travel"
+          ]
+        },
+        {
+          "text": "To condense into a more economic, easier format.",
+          "examples": [
+            "This chart compresses the entire audit report into a few lines on a single diagram."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A multiply folded piece of cloth, a pouch of ice, etc., used to apply to a patient's skin, cover the dressing of wounds, and placed with the aid of a bandage to apply pressure on an injury.",
+          "examples": [
+            "He held a cold compress over the sprain."
+          ]
+        },
+        {
+          "text": "A machine for compressing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "okład"
+  ],
+  "fetchedAt": "2026-05-17T22:12:30.830Z"
+}

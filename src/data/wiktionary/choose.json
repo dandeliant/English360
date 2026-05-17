@@ -1,0 +1,63 @@
+{
+  "lemma": "choose",
+  "slug": "choose",
+  "fetchTerm": "choose",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pick; to make the choice of; to select.",
+          "examples": [
+            "I chose a nice ripe apple from the fruit bowl."
+          ]
+        },
+        {
+          "text": "To elect.",
+          "examples": [
+            "He was chosen as president in 1990."
+          ]
+        },
+        {
+          "text": "To decide to act in a certain way.",
+          "examples": [
+            "I chose to walk to work today."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "The binomial coefficient of the previous and following number.",
+          "examples": [
+            "The number of distinct subsets of size k from a set of size n is ( n k ) {\\displaystyle {\\tbinom {n}{k}}} or \"n choose k\"."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of choosing; selection.",
+          "examples": []
+        },
+        {
+          "text": "The power, right, or privilege of choosing; election.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wybierać",
+    "wybrać",
+    "decydować",
+    "zdecydować",
+    "decydować się na"
+  ],
+  "fetchedAt": "2026-05-17T22:01:52.167Z"
+}

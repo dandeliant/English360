@@ -1,0 +1,43 @@
+{
+  "lemma": "theatrical",
+  "slug": "theatrical",
+  "fetchTerm": "theatrical",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to the theatre.",
+          "examples": []
+        },
+        {
+          "text": "Fake and exaggerated.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A stage performance, especially one by amateurs.",
+          "examples": []
+        },
+        {
+          "text": "A commercially produced film to be shown in movie theaters.",
+          "examples": []
+        },
+        {
+          "text": "A person who works in theatre.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "teatralny",
+    "aktorski"
+  ],
+  "fetchedAt": "2026-05-17T22:14:10.927Z"
+}

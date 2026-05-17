@@ -1,0 +1,60 @@
+{
+  "lemma": "harvest",
+  "slug": "harvest",
+  "fetchTerm": "harvest",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of gathering the ripened crop; harvesting.",
+          "examples": [
+            "The constant rain made the harvest a nightmare this year."
+          ]
+        },
+        {
+          "text": "The yield of harvesting, i.e., the gathered crops or fruits.",
+          "examples": [
+            "This year's cotton harvest was great but the corn harvest was disastrous."
+          ]
+        },
+        {
+          "text": "The product or result of any exertion or course of action; reward or consequences.",
+          "examples": [
+            "The surveillance mission yielded a healthy harvest of intel."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring in a harvest; reap; glean.",
+          "examples": [
+            "We harvested the apples in September already."
+          ]
+        },
+        {
+          "text": "To take a living organism as part of a managed process to gather food or resources, often with the intention of maintaining a healthy population.",
+          "examples": [
+            "An efficient rifle or shotgun can harvest a deer for venison."
+          ]
+        },
+        {
+          "text": "To take (an organ) from an organ donor.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żniwa",
+    "żniwo",
+    "plon",
+    "urodzaj",
+    "zbierać"
+  ],
+  "fetchedAt": "2026-05-17T22:02:56.528Z"
+}

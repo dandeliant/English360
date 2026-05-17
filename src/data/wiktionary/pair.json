@@ -1,0 +1,71 @@
+{
+  "lemma": "pair",
+  "slug": "pair",
+  "fetchTerm": "pair",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Two alike or identical things taken together; often followed by of.",
+          "examples": [
+            "I couldn't decide which of the pair of designer shirts I preferred, so I bought the pair."
+          ]
+        },
+        {
+          "text": "One of the constituent items that make up a pair.",
+          "examples": []
+        },
+        {
+          "text": "Two people in a relationship, partnership or friendship.",
+          "examples": [
+            "Spouses should make a great pair."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To group into one or more sets of two.",
+          "examples": [
+            "The wedding guests were paired boy/girl and groom's party/bride's party."
+          ]
+        },
+        {
+          "text": "to link two electronic devices wirelessly together, especially through a protocol such as Bluetooth.",
+          "examples": [
+            "It was not possible to pair my smartphone with an incompatible smartwatch."
+          ]
+        },
+        {
+          "text": "To bring two (animals, notably dogs) together for mating.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To impair, to make worse.",
+          "examples": []
+        },
+        {
+          "text": "To become worse, to deteriorate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "para",
+    "dwoje",
+    "dwójka",
+    "stadło",
+    "parować"
+  ],
+  "fetchedAt": "2026-05-17T22:03:59.132Z"
+}

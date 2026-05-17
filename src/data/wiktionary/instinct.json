@@ -1,0 +1,39 @@
+{
+  "lemma": "instinct",
+  "slug": "instinct",
+  "fetchTerm": "instinct",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A natural or inherent impulse or behaviour.",
+          "examples": [
+            "Many animals fear fire by instinct."
+          ]
+        },
+        {
+          "text": "An intuitive reaction not based on rational conscious thought.",
+          "examples": [
+            "an instinct for order; to be modest by instinct",
+            "Debbie's instinct was to distrust John."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Imbued, charged (with something).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "instynkt"
+  ],
+  "fetchedAt": "2026-05-17T22:13:35.129Z"
+}

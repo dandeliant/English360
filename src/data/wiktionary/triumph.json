@@ -1,0 +1,52 @@
+{
+  "lemma": "triumph",
+  "slug": "triumph",
+  "fetchTerm": "triumph",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest.",
+          "examples": [
+            "the triumph of knowledge",
+            "After being defeated in three previous finals, Roger finally tasted triumph at this year's competition."
+          ]
+        },
+        {
+          "text": "A magnificent and imposing ceremonial performed in honor of a victor.",
+          "examples": []
+        },
+        {
+          "text": "Any triumphal procession; a pompous exhibition; a stately show or pageant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To celebrate victory with pomp; to rejoice over success; to exult in an advantage gained; to exhibit exultation.",
+          "examples": []
+        },
+        {
+          "text": "To prevail over rivals, challenges, or difficulties.",
+          "examples": []
+        },
+        {
+          "text": "To succeed, win, or attain ascendancy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "triumf",
+    "gra [[atutowy",
+    "triumfować",
+    "zatriumfować"
+  ],
+  "fetchedAt": "2026-05-17T22:14:16.644Z"
+}

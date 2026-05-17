@@ -1,0 +1,38 @@
+{
+  "lemma": "considerable",
+  "slug": "considerable",
+  "fetchTerm": "considerable",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Significant; worth considering.",
+          "examples": [
+            "Soon I became a considerable figure in the music industry."
+          ]
+        },
+        {
+          "text": "Large in amount.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thing to be considered, consideration.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "znaczny",
+    "znaczący",
+    "spory"
+  ],
+  "fetchedAt": "2026-05-17T22:01:56.587Z"
+}

@@ -1,0 +1,25 @@
+{
+  "lemma": "april",
+  "slug": "april",
+  "fetchTerm": "April",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The fourth month of the Gregorian calendar, following March and preceding May.",
+          "examples": []
+        },
+        {
+          "text": "A female given name transferred from the month name [in turn from English]; used since the early 20th century.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kwiecień"
+  ],
+  "fetchedAt": "2026-05-17T22:01:24.567Z"
+}

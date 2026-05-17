@@ -1,0 +1,48 @@
+{
+  "lemma": "else",
+  "slug": "else",
+  "fetchTerm": "else",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Other; in addition to previously mentioned items.",
+          "examples": [
+            "The instructor is busy. Can anyone else help me?",
+            "Whatever else she may be, she is not a surgeon."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Otherwise, if not.",
+          "examples": [
+            "How else (= in what other way) can it be done?",
+            "I'm busy Friday; when else (= what other time) works for you?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "For otherwise; or else.",
+          "examples": [
+            "Then the Wronskian of f and g must be nonzero, else they could not be linearly independent."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "inny",
+    "inaczej"
+  ],
+  "fetchedAt": "2026-05-17T22:02:20.728Z"
+}

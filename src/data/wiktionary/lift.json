@@ -1,0 +1,60 @@
+{
+  "lemma": "lift",
+  "slug": "lift",
+  "fetchTerm": "lift",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To raise or rise.",
+          "examples": [
+            "The fog eventually lifted, leaving the streets clear.",
+            "You never lift a finger to help me!"
+          ]
+        },
+        {
+          "text": "To cause to move upwards.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of lifting or raising.",
+          "examples": []
+        },
+        {
+          "text": "The act of transporting someone in a vehicle; a ride; a trip.",
+          "examples": [
+            "He gave me a lift to the bus station."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Air.",
+          "examples": []
+        },
+        {
+          "text": "The sky; the heavens; firmament; atmosphere.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podnosić",
+    "podnieść",
+    "dźwigać",
+    "dźwignąć",
+    "wznosić"
+  ],
+  "fetchedAt": "2026-05-17T22:03:20.345Z"
+}

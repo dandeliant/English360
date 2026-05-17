@@ -1,0 +1,37 @@
+{
+  "lemma": "decade",
+  "slug": "decade",
+  "fetchTerm": "decade",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group, set, or series of ten .mw-parser-output .defdate{font-size:smaller}, particularly:",
+          "examples": [
+            "a decade of soldiers",
+            "The 1960s was a turbulent decade."
+          ]
+        },
+        {
+          "text": "A period of ten years , particularly such a period beginning with a year ending in 0 and ending with a year ending in 9.",
+          "examples": [
+            "The 1960s was a turbulent decade.",
+            "I haven’t seen my cousin in over a decade!"
+          ]
+        },
+        {
+          "text": "A period of ten days, particularly those in the ancient Egyptian, Coptic, and French Revolutionary calendars.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziesiątka",
+    "dziesięciolecie",
+    "dekada"
+  ],
+  "fetchedAt": "2026-05-17T22:02:05.706Z"
+}

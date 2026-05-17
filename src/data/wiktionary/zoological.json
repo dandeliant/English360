@@ -1,0 +1,25 @@
+{
+  "lemma": "zoological",
+  "slug": "zoological",
+  "fetchTerm": "zoological",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, or relating to, animals.",
+          "examples": []
+        },
+        {
+          "text": "Of, or relating to, zoology.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zoologiczny"
+  ],
+  "fetchedAt": "2026-05-17T22:05:32.982Z"
+}

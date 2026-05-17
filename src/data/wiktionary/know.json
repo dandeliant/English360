@@ -1,0 +1,74 @@
+{
+  "lemma": "know",
+  "slug": "know",
+  "fetchTerm": "know",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To perceive the truth or factuality of; to be certain of; to be certain that.",
+          "examples": [
+            "I know that I’m right and you’re wrong.",
+            "He knew something terrible was going to happen."
+          ]
+        },
+        {
+          "text": "To be or become aware or cognizant.",
+          "examples": [
+            "Did you know Michelle and Jack were getting divorced? ― Yes, I knew.",
+            "Malware's sometimes been known to sit dormant for a long time."
+          ]
+        },
+        {
+          "text": "To be aware of; to be cognizant of.",
+          "examples": [
+            "Did you know Michelle and Jack were getting divorced? ― Yes, I knew.",
+            "She knows where I live."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Knowledge; the state of knowing.",
+          "examples": []
+        },
+        {
+          "text": "Knowledge; the state of knowing. (Now confined to the fixed phrase in the know.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of knowe (“hill, knoll”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Used at the end of a sentence to draw attention to information one thinks the listener should keep in mind.",
+          "examples": [
+            "Make sure you water the plants, know…",
+            "I was a naval diver know!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wiedzieć",
+    "znać",
+    "znać się"
+  ],
+  "fetchedAt": "2026-05-17T22:03:13.091Z"
+}

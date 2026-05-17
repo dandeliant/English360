@@ -1,0 +1,30 @@
+{
+  "lemma": "threshold",
+  "slug": "threshold",
+  "fetchTerm": "threshold",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The lowermost part of a doorway that one crosses to enter; a sill.",
+          "examples": []
+        },
+        {
+          "text": "An entrance; the door or gate of a house.",
+          "examples": []
+        },
+        {
+          "text": "Any end or boundary.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "próg",
+    "przedsionek"
+  ],
+  "fetchedAt": "2026-05-17T22:04:57.991Z"
+}

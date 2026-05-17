@@ -1,0 +1,58 @@
+{
+  "lemma": "climb",
+  "slug": "climb",
+  "fetchTerm": "climb",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ascend; rise; to go up.",
+          "examples": [
+            "Prices climbed steeply.",
+            "The hit song has climbed to the number one spot."
+          ]
+        },
+        {
+          "text": "To move to a higher position on a chart or hierarchy.",
+          "examples": [
+            "The hit song has climbed to the number one spot."
+          ]
+        },
+        {
+          "text": "To mount; to move upwards on.",
+          "examples": [
+            "climbing a tree",
+            "They climbed the mountain."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of climbing.",
+          "examples": []
+        },
+        {
+          "text": "The act of getting to somewhere more elevated.",
+          "examples": []
+        },
+        {
+          "text": "An effort of moving upward.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rosnąć",
+    "wzrosnąć",
+    "włazić",
+    "wleźć",
+    "wspinać"
+  ],
+  "fetchedAt": "2026-05-17T22:12:27.367Z"
+}

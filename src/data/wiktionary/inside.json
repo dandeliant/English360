@@ -1,0 +1,99 @@
+{
+  "lemma": "inside",
+  "slug": "inside",
+  "fetchTerm": "inside",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The interior or inner part.",
+          "examples": [
+            "The inside of the building has been extensively restored."
+          ]
+        },
+        {
+          "text": "The left-hand side of a road if one drives on the left, or right-hand side if one drives on the right.",
+          "examples": [
+            "On a motorway, you should never pass another vehicle on the inside."
+          ]
+        },
+        {
+          "text": "The side of a curved road, racetrack etc. that has the shorter arc length; the side of a racetrack nearer the interior of the course or some other point of reference.",
+          "examples": [
+            "The car in front drifted wide on the bend, so I darted up the inside to take the lead."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the inner surface, limit or boundary.",
+          "examples": [
+            "The inside surface of the cup is unpainted."
+          ]
+        },
+        {
+          "text": "Nearer to the interior or centre of something.",
+          "examples": [
+            "Because of the tighter bend, it's harder to run in an inside lane.",
+            "All the window seats were occupied, so she took an inside seat."
+          ]
+        },
+        {
+          "text": "Originating from, arranged by, or being someone inside an organisation.",
+          "examples": [
+            "The reporter had received inside information about the forthcoming takeover.",
+            "The robbery was planned by the security guard: it was an inside job."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Within or towards the interior of something; within the scope or limits of something (a place), especially a building.",
+          "examples": [
+            "It started raining, so I went inside.",
+            "The secretive residents of the massive city-ship tended to stay inside."
+          ]
+        },
+        {
+          "text": "In or to prison.",
+          "examples": [
+            "He spent ten years inside, doing a stretch for burglary."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Within the interior of something, closest to the center or to a specific point of reference.",
+          "examples": [
+            "He placed the letter inside the envelope."
+          ]
+        },
+        {
+          "text": "Within a period of time.",
+          "examples": [
+            "The job was finished inside two weeks."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wnętrze",
+    "środek",
+    "wewnętrzny",
+    "wewnątrz",
+    "w środku"
+  ],
+  "fetchedAt": "2026-05-17T22:13:31.678Z"
+}

@@ -1,0 +1,25 @@
+{
+  "lemma": "energy",
+  "slug": "energy",
+  "fetchTerm": "energy",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The impetus behind all motion and all activity.",
+          "examples": []
+        },
+        {
+          "text": "The capacity to do work.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "energia"
+  ],
+  "fetchedAt": "2026-05-17T22:12:48.234Z"
+}

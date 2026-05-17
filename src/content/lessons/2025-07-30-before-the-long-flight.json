@@ -1,0 +1,181 @@
+{
+  "id": "2025-07-30-before-the-long-flight",
+  "date_assigned": "2025-07-30",
+  "date_alternatives": ["2025-08-24", "2025-08-28"],
+  "title_en": "Before the Long Flight",
+  "title_pl": "Zanim odlecą",
+  "location": "Paskudy, gmina Ulan-Majorat, Poland",
+  "image": "/images/2025-07-30-before-the-long-flight.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["birds", "white-stork", "sunset", "migration", "late-summer", "poland", "countryside", "silhouette", "folklore"],
+  "themes": ["migration", "seasons-change", "folklore", "departure", "rural-life"],
+  "did_you_know": {
+    "en": "Poland is home to roughly one in four of Europe's white storks, and the small village of Żywkowo in the north-east of the country is sometimes called the stork village because in summer the birds outnumber the people. White storks do not really sing or call — instead, they communicate by clattering their beaks, a dry, rattling sound that country children in Poland grow up with.",
+    "pl": "W Polsce gniazduje mniej więcej co czwarty bocian biały Europy, a małą wieś Żywkowo na Warmii nazywa się czasem bocianią wsią, bo latem bocianów jest tam więcej niż ludzi. Bociany białe właściwie nie wydają głosu — porozumiewają się klekotem, czyli suchym, terkoczącym dźwiękiem, który polskie dzieci ze wsi znają od urodzenia."
+  },
+  "social": {
+    "fb_caption_pl": "Koniec lipca. Słońce zachodzi za gniazdem na słupie, a bociany powoli zbierają się do drogi. Za kilka dni nasze niebo będzie pustsze, a wieś trochę cichsza. Stare przysłowie mówi: na świętego Bartłomieja bocian łąki pożegna. Lekcja English 360° na sześciu poziomach (A1–C2). english360.example",
+    "fb_caption_en": "Late summer in eastern Poland. The sun sinks behind a stork nest on a wooden pole, and the birds are quietly getting ready to leave. In a few days, our sky will feel emptier and the village a little quieter. An old Polish proverb says it best: the stork says goodbye to the meadows around St Bartholomew's Day. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#WhiteStork", "#BocianyPolskie", "#PolskaWieś", "#SunsetPhotography", "#Migration", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "It is evening. There is a stork in the sky. It has big wings. The sun is big and orange. Other storks are on a nest. The nest is on a tall pole. There is a tree, too.",
+      "text_pl": "Jest wieczór. Na niebie jest bocian. Ma duże skrzydła. Słońce jest duże i pomarańczowe. Inne bociany są w gnieździe. Gniazdo jest na wysokim słupie. Jest też drzewo.",
+      "vocab": [
+        { "term": "stork", "ipa_br": "/stɔːk/", "pl": "bocian", "new": true },
+        { "term": "nest", "ipa_br": "/nest/", "pl": "gniazdo", "new": true },
+        { "term": "wings", "ipa_br": "/wɪŋz/", "pl": "skrzydła", "new": true },
+        { "term": "pole", "ipa_br": "/pəʊl/", "pl": "słup", "new": true },
+        { "term": "evening", "ipa_br": "/ˈiːv.nɪŋ/", "pl": "wieczór", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the description (A–D).",
+          "items": [
+            { "word": "stork", "answer": "C" },
+            { "word": "sun", "answer": "B" },
+            { "word": "nest", "answer": "A" },
+            { "word": "wings", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "the home of the birds, on a pole" },
+            { "label": "B", "text": "the big orange light in the sky" },
+            { "label": "C", "text": "the big white bird with long legs" },
+            { "label": "D", "text": "the long parts that help the bird fly" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "Today the storks are ready to leave. They came to Poland in spring. They built a nest on an electric pole. Now it is evening and the sun is red. One stork can fly higher than the others. Tomorrow they will start a long trip to Africa. The sky is beautiful tonight.",
+      "text_pl": "Dziś bociany są gotowe do odlotu. Przyleciały do Polski na wiosnę. Zbudowały gniazdo na słupie elektrycznym. Teraz jest wieczór i słońce jest czerwone. Jeden bocian potrafi latać wyżej niż pozostałe. Jutro zaczną długą podróż do Afryki. Niebo dziś wieczorem jest piękne.",
+      "vocab": [
+        { "term": "leave", "ipa_br": "/liːv/", "pl": "wyjeżdżać, odlatywać", "new": true },
+        { "term": "build", "ipa_br": "/bɪld/", "pl": "budować", "new": true },
+        { "term": "electric pole", "ipa_br": "/ɪˌlek.trɪk ˈpəʊl/", "pl": "słup elektryczny", "new": true },
+        { "term": "trip", "ipa_br": "/trɪp/", "pl": "podróż, wycieczka", "new": true },
+        { "term": "higher than", "ipa_br": "/ˈhaɪ.ə ðən/", "pl": "wyżej niż", "new": false },
+        { "term": "ready", "ipa_br": "/ˈred.i/", "pl": "gotowy", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowem z banku: built · evening · higher · leave · nest.",
+          "items": [
+            { "sentence": "It is ___ and the sun is red.", "answer": "evening" },
+            { "sentence": "The storks have ___ a big home on a pole.", "answer": "built" },
+            { "sentence": "This home is called a ___.", "answer": "nest" },
+            { "sentence": "Soon the storks will ___ Poland.", "answer": "leave" },
+            { "sentence": "One stork can fly ___ than the others.", "answer": "higher" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "Every summer, white storks have lived in our village. They have built nests on chimneys and electricity poles, and people have welcomed them. In Polish tradition, storks bring good luck. If a stork chooses your roof, you will have a happy year — that's what farmers used to say. Now, at the end of August, the storks are getting ready. The young birds have grown strong, and the parents have taught them how to fly. Tonight, the sun sets behind the nest. One stork flies home for the last time before the long journey south.",
+      "text_pl": "Każdego lata w naszej wsi mieszkają białe bociany. Budują gniazda na kominach i słupach elektrycznych, a ludzie ich witają. W polskiej tradycji bociany przynoszą szczęście. Jeśli bocian wybierze twój dach, czeka cię szczęśliwy rok — tak mawiali kiedyś rolnicy. Teraz, pod koniec sierpnia, bociany przygotowują się do odlotu. Młode ptaki nabrały sił, a rodzice nauczyli je latać. Dziś wieczorem słońce zachodzi za gniazdem. Jeden bocian wraca do domu po raz ostatni przed długą podróżą na południe.",
+      "vocab": [
+        { "term": "welcome", "ipa_br": "/ˈwel.kəm/", "pl": "witać", "new": true },
+        { "term": "chimney", "ipa_br": "/ˈtʃɪm.ni/", "pl": "komin", "new": true },
+        { "term": "get ready", "ipa_br": "/ɡet ˈred.i/", "pl": "przygotowywać się", "new": true },
+        { "term": "long journey", "ipa_br": "/lɒŋ ˈdʒɜː.ni/", "pl": "długa podróż", "new": true },
+        { "term": "sun sets", "ipa_br": "/sʌn ˈsets/", "pl": "słońce zachodzi", "new": true },
+        { "term": "good luck", "ipa_br": "/ɡʊd ˈlʌk/", "pl": "szczęście", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text. (Note: in the original this was T/F/Not-Given — for now Not-Given items are collapsed to False because the text does not state them.)",
+          "items": [
+            { "statement": "White storks come to Polish villages every summer.", "answer": true },
+            { "statement": "Polish farmers traditionally thought storks brought bad luck.", "answer": false },
+            { "statement": "The text says the storks fly to South America for winter.", "answer": false },
+            { "statement": "By the end of August, the young storks can already fly.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "The photograph was taken on a warm evening at the end of August, when the light turns gold for half an hour and then vanishes. A single stork glides home with wings stretched wide, its body reduced to a silhouette against the burning disc of the sun. The nest, built years ago on an old wooden pole, holds three or four shapes that might be its family. They could already be restless. They might have spent the afternoon circling the field, practising for what is coming. Within days, perhaps a week, the sky above this village will be empty. The storks will have flown south, carried by warm air over the Bosphorus and down through the Levant, all the way to the savannahs of East Africa. For now, though, nothing has been decided. The sun is still here. The nest is still home. The journey can wait one more night.",
+      "text_pl": "Zdjęcie zostało zrobione ciepłym wieczorem pod koniec sierpnia, gdy światło staje się złote na pół godziny, a potem znika. Pojedynczy bocian szybuje do domu z szeroko rozpostartymi skrzydłami, jego ciało sprowadzone do sylwetki na tle płonącej tarczy słońca. Gniazdo, zbudowane lata temu na starym drewnianym słupie, mieści trzy lub cztery sylwetki, które mogą być jego rodziną. Mogą już być niespokojne. Możliwe, że spędziły popołudnie krążąc nad polem, ćwicząc to, co nadchodzi. W ciągu kilku dni, może tygodnia, niebo nad tą wsią będzie puste. Bociany odlecą na południe, niesione ciepłym powietrzem nad Bosforem i w dół przez Lewant, aż do sawann Afryki Wschodniej. Na razie jednak nic nie zostało postanowione. Słońce wciąż tu jest. Gniazdo wciąż jest domem. Podróż może poczekać jeszcze jeden wieczór.",
+      "vocab": [
+        { "term": "glide", "ipa_br": "/ɡlaɪd/", "pl": "szybować", "new": true },
+        { "term": "silhouette", "ipa_br": "/ˌsɪl.uˈet/", "pl": "sylwetka, kontur", "new": true },
+        { "term": "restless", "ipa_br": "/ˈrest.ləs/", "pl": "niespokojny", "new": true },
+        { "term": "savannah", "ipa_br": "/səˈvæn.ə/", "pl": "sawanna", "new": true },
+        { "term": "circle", "ipa_br": "/ˈsɜː.kəl/", "pl": "krążyć", "new": true },
+        { "term": "reduce to", "ipa_br": "/rɪˈdjuːs tuː/", "pl": "sprowadzać do", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "wordform",
+          "prompt": "Wstaw poprawną formę wyrazu z nawiasu, aby zdanie miało sens.",
+          "items": [
+            { "stem": "arrive", "sentence": "The stork made its ___ from Africa in late April.", "answer": "arrival" },
+            { "stem": "migrate", "sentence": "The birds will soon begin their long ___.", "answer": "migration" },
+            { "stem": "breath", "sentence": "The whole scene was absolutely ___.", "answer": "breathtaking" },
+            { "stem": "respect", "sentence": "We watched the bird in ___ silence.", "answer": "respectful" },
+            { "stem": "patient", "sentence": "The nest had been built with great ___.", "answer": "patience" }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Rarely does the Polish countryside offer a more iconic image than this: a white stork returning to its nest as the sun melts into the horizon. It is the bird's silhouette, more than any other, that signals the rhythm of the rural year. The storks arrive in late April, often to the very same nest they left the previous summer, and they leave in the closing days of August, sometimes earlier. What sets these birds apart from most other migrants is not so much their distance — though it is considerable — as the precision with which they keep to the calendar.\n\nSo deeply rooted is the stork in Polish folklore that its departure was once read as a forecast: a late stork meant a long autumn; an early one warned of frost. The pole on which this nest sits has likely supported the same family for decades, each generation rebuilding on the same foundation of sticks and feathers. What the photograph captures, then, is not a single moment but the closing of a chapter — the threshold between two seasons, two continents, two ways of being. Only when the last bird lifts off will summer truly end, and the village will fall back into the quieter business of harvest, woodsmoke and waiting for spring.",
+      "text_pl": "Niewiele jest w polskiej wsi obrazów bardziej ikonicznych niż ten: biały bocian wracający do gniazda, gdy słońce roztapia się na horyzoncie. To właśnie sylwetka tego ptaka, bardziej niż jakakolwiek inna, wyznacza rytm wiejskiego roku. Bociany przylatują pod koniec kwietnia, często do tego samego gniazda, które opuściły poprzedniego lata, a odlatują w ostatnich dniach sierpnia, czasem wcześniej. To, co wyróżnia te ptaki spośród większości innych migrantów, to nie tyle odległość — choć jest ona pokaźna — ile precyzja, z jaką trzymają się kalendarza.\n\nBocian jest tak głęboko zakorzeniony w polskim folklorze, że jego odlot bywał kiedyś odczytywany jak prognoza: późny bocian oznaczał długą jesień, wczesny ostrzegał przed mrozami. Słup, na którym stoi to gniazdo, prawdopodobnie podtrzymuje tę samą rodzinę od dziesięcioleci — każde pokolenie przebudowuje to samo fundamentowanie z patyków i piór. To, co zatem uchwyciła fotografia, nie jest pojedynczą chwilą, lecz zamknięciem pewnego rozdziału — progiem między dwiema porami roku, dwoma kontynentami, dwoma sposobami istnienia. Dopiero gdy ostatni ptak poderwie się do lotu, lato naprawdę się skończy, a wieś powróci do cichszych spraw: żniw, dymu z palonego drewna i czekania na wiosnę.",
+      "vocab": [
+        { "term": "keep to the calendar", "ipa_br": "/kiːp tuː ðə ˈkæl.ɪn.də/", "pl": "trzymać się kalendarza", "new": true },
+        { "term": "deeply rooted", "ipa_br": "/ˌdiːp.li ˈruː.tɪd/", "pl": "głęboko zakorzeniony", "new": true },
+        { "term": "threshold", "ipa_br": "/ˈθreʃ.həʊld/", "pl": "próg (też w sensie przenośnym)", "new": true },
+        { "term": "closing of a chapter", "ipa_br": "/ˈkləʊ.zɪŋ əv ə ˈtʃæp.tə/", "pl": "zamknięcie rozdziału", "new": true },
+        { "term": "set apart", "ipa_br": "/set əˈpɑːt/", "pl": "wyróżniać", "new": true },
+        { "term": "woodsmoke", "ipa_br": "/ˈwʊd.sməʊk/", "pl": "dym z palonego drewna", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie, ale zmieniając konstrukcję.",
+          "items": [
+            { "original": "Rarely does the Polish countryside offer a more iconic image than this.", "answer": "The Polish countryside hardly ever offers a more iconic image than this." },
+            { "original": "It is the bird's silhouette, more than any other, that signals the rhythm of the rural year.", "answer": "No other detail signals the rhythm of the rural year as clearly as the bird's silhouette." },
+            { "original": "So deeply rooted is the stork in Polish folklore that its departure was once read as a forecast.", "answer": "The stork is so deeply rooted in Polish folklore that its departure used to be read as a forecast." },
+            { "original": "Only when the last bird lifts off will summer truly end.", "answer": "Summer will not truly end until the last bird lifts off." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a peculiar grief reserved for the end of August in this part of Europe, and the storks are largely to blame. For five months they have been our neighbours — clattering their beaks at dawn, gliding over hayfields at noon, ferrying frogs and grass-snakes in their long red bills — and then, almost without warning, they are gone. The empty nest, perched absurdly on a leaning pole, becomes one of the more melancholy fixtures of the Polish landscape, a sort of weathered punctuation mark left standing over the fields until April.\n\nThe bird in this photograph, caught mid-glide against the bruised orange of the dying sun, belongs to a species whose private life we have spent centuries projecting our own meanings onto. The stork brings babies; the stork brings luck; the stork is the soul of a dead farmer returning to check on his land. None of this, of course, is true in any zoological sense — and yet, watching one of them lift off for the last time, even the most rational observer can be forgiven a small, irrational pang.\n\nWhat is most striking about white storks is not really their migration, impressive though it is. It is their fidelity. Pair by pair, they come back not to a country, not to a region, but to a specific stick-and-mud platform on a specific pole outside a specific Polish village, year after year, until age or accident intervenes. In an era when so much else has come unmoored — landscapes, languages, weather itself — there is something quietly steadying about a creature that still insists on knowing its way home.\n\nTomorrow, or the day after, this stork will be over the Bosphorus. By October, it will be hunting locusts in the Sahel. And next April, give or take a week, it will be back on this very pole, as if no time had passed at all.",
+      "text_pl": "Jest pewien szczególny smutek, jaki w tej części Europy nadchodzi pod koniec sierpnia, i bociany są mu w dużej mierze winne. Przez pięć miesięcy były naszymi sąsiadami — klekotały dziobami o świcie, szybowały nad łąkami w południe, przenosiły żaby i zaskrońce w swoich długich czerwonych dziobach — a potem, niemal bez ostrzeżenia, już ich nie ma. Puste gniazdo, sterczące absurdalnie na pochylonym słupie, staje się jednym z bardziej melancholijnych elementów polskiego krajobrazu, swego rodzaju zwietrzałym znakiem przestankowym pozostawionym nad polami aż do kwietnia.\n\nPtak z tego zdjęcia, uchwycony w trakcie szybowania na tle posiniaczonego pomarańczu zachodzącego słońca, należy do gatunku, na którego prywatne życie projektujemy własne znaczenia od stuleci. Bocian przynosi dzieci; bocian przynosi szczęście; bocian jest duszą zmarłego gospodarza, który wrócił sprawdzić, co dzieje się z jego ziemią. Nic z tego oczywiście nie jest prawdą w jakimkolwiek sensie zoologicznym — a jednak, patrząc jak jeden z nich podrywa się do lotu po raz ostatni, nawet najbardziej racjonalny obserwator może sobie wybaczyć drobne, irracjonalne ukłucie żalu.\n\nNajbardziej uderzające w bocianach białych nie jest tak naprawdę ich migracja, jakkolwiek robi ona wrażenie. To ich wierność. Para po parze wracają nie do kraju, nie do regionu, lecz do konkretnej platformy z patyków i błota, na konkretnym słupie pod konkretną polską wsią, rok po roku, dopóki nie wkroczy wiek lub wypadek. W erze, w której tyle innych rzeczy zerwało swoje cumy — krajobrazy, języki, sama pogoda — jest coś cicho uspokajającego w stworzeniu, które wciąż upiera się, by znać drogę do domu.\n\nJutro albo pojutrze ten bocian będzie nad Bosforem. Do października będzie polował na szarańczę w Sahelu. A w kwietniu przyszłego roku, plus minus tydzień, znów będzie na tym samym słupie, jakby nie minęło ani chwili.",
+      "vocab": [
+        { "term": "peculiar grief", "ipa_br": "/pɪˈkjuː.li.ə ˈɡriːf/", "pl": "osobliwy smutek", "new": true },
+        { "term": "clatter", "ipa_br": "/ˈklæt.ə/", "pl": "klekotać (dziobem)", "new": true },
+        { "term": "melancholy fixture", "ipa_br": "/ˈmel.ən.kə.li ˈfɪks.tʃə/", "pl": "melancholijny stały element", "new": true },
+        { "term": "irrational pang", "ipa_br": "/ɪˈræʃ.ən.əl ˈpæŋ/", "pl": "irracjonalne ukłucie (uczucia)", "new": true },
+        { "term": "come unmoored", "ipa_br": "/kʌm ʌnˈmʊəd/", "pl": "zerwać cumy, oderwać się od kotwicy", "new": true },
+        { "term": "fidelity", "ipa_br": "/fɪˈdel.ə.ti/", "pl": "wierność", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "cloze",
+          "prompt": "Open cloze — wpisz po JEDNYM słowie w każdą lukę. Bez banku.",
+          "passage": "There is something about the moment ___ a stork lifts off from its nest for the last time that catches even the most hardened observer ___ guard. For months we have ___ used to their presence — to the clatter of beaks at dawn, to the slow circles ___ over hayfields. Now, with little warning, they ___ gone. The nest, ___ was full of life only days ago, sits empty against a paler sky. Only when the last stork has departed ___ the village quietly accept ___ summer is finally over.",
+          "answers": ["when", "off", "grown", "drawn", "are", "which", "does", "that"],
+          "hints": [
+            "relative adverb of time",
+            "preposition — collocation with 'guard'",
+            "past participle of 'grow' (… used to)",
+            "past participle for 'circles ___ over hayfields'",
+            "auxiliary verb (plural, present)",
+            "relative pronoun introducing a non-defining clause",
+            "auxiliary 'do' — inversion after 'Only when …'",
+            "conjunction introducing a noun clause"
+          ]
+        }
+      ]
+    }
+  }
+}

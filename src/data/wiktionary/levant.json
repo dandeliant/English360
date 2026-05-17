@@ -1,0 +1,34 @@
+{
+  "lemma": "levant",
+  "slug": "levant",
+  "fetchTerm": "Levant",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A cultural region of West Asia, consisting of the countries bordering the eastern Mediterranean Sea, namely Syria, Lebanon, Israel, Palestine, Jordan and Cyprus (and sometimes, especially in a historical context, also including Turkey and Egypt, then part of the Ottoman Empire).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An easterly wind, generally in the western Mediterranean Sea.",
+          "examples": []
+        },
+        {
+          "text": "A type of leather.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Lewant"
+  ],
+  "fetchedAt": "2026-05-17T22:03:18.659Z"
+}

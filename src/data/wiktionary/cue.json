@@ -1,0 +1,85 @@
+{
+  "lemma": "cue",
+  "slug": "cue",
+  "fetchTerm": "cue",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The name of the Latin script letter Q/q.",
+          "examples": []
+        },
+        {
+          "text": "A small portion of bread or beer; the quantity bought with a farthing or half farthing and noted with a q (for Latin quadrāns (“farthing”)) in the buttery books.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An action or event that is a signal for somebody to do something.",
+          "examples": []
+        },
+        {
+          "text": "The last words of a play actor's speech, serving as an intimation for the next actor to speak; any word or words which serve to remind an actor to speak or to do something; a catchword.",
+          "examples": []
+        },
+        {
+          "text": "A marker or signal that triggers something, such as the start of an audio recording.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give someone a cue signal.",
+          "examples": [
+            "Cue the cameraman, and action!"
+          ]
+        },
+        {
+          "text": "To spark or provoke.",
+          "examples": [
+            "These techniques can cue an open dialogue with your interviewer."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A straight tapering stick used to hit the balls in various games.",
+          "examples": []
+        },
+        {
+          "text": "The tail; the end of a thing; especially, a tail-like twist of hair worn at the back of the head; a queue.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take aim on the cue ball with the cue and hit it.",
+          "examples": []
+        },
+        {
+          "text": "To form into a cue; to braid; to twist.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kij"
+  ],
+  "fetchedAt": "2026-05-17T22:12:36.968Z"
+}

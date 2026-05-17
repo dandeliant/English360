@@ -1,0 +1,36 @@
+{
+  "lemma": "observer",
+  "slug": "observer",
+  "fetchTerm": "observer",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who makes observations, monitors or takes notice.",
+          "examples": [
+            "Most impartial observers agreed that Sampras had not served well."
+          ]
+        },
+        {
+          "text": "One who adheres or follows laws, guidelines, etc.",
+          "examples": [
+            "I shall be an observer of the local customs."
+          ]
+        },
+        {
+          "text": "A person sent as a representative, to a meeting or other function to monitor but not to participate.",
+          "examples": [
+            "The UN sent many observers to the country's first elections."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obserwator",
+    "obserwatorka"
+  ],
+  "fetchedAt": "2026-05-17T22:03:51.833Z"
+}

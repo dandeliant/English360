@@ -1,0 +1,74 @@
+{
+  "lemma": "live",
+  "slug": "live",
+  "fetchTerm": "live",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be alive; to have life.",
+          "examples": [
+            "He's not expected to live for more than a few months."
+          ]
+        },
+        {
+          "text": "To have permanent residence somewhere, to inhabit, to reside.",
+          "examples": [
+            "I live at 2a Acacia Avenue. At that time I'd been living in a camper for about six months.",
+            "I washed your gravy boat. Where does it live?"
+          ]
+        },
+        {
+          "text": "(of an object) to have its proper place; to normally be stored.",
+          "examples": [
+            "I washed your gravy boat. Where does it live?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having life; that is alive.",
+          "examples": [
+            "The post office will not ship live animals."
+          ]
+        },
+        {
+          "text": "Being in existence; actual.",
+          "examples": [
+            "He is a live example of the consequences of excessive drinking."
+          ]
+        },
+        {
+          "text": "Having active properties; being energized.",
+          "examples": [
+            "Because the vaccinia virus is live, it is important to follow care instructions for the vaccination site."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Of an event, as it happens; in real time; direct.",
+          "examples": [
+            "The concert was broadcast live by radio."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żyć",
+    "mieszkać",
+    "przetrwać",
+    "przeżyć",
+    "żywy"
+  ],
+  "fetchedAt": "2026-05-17T22:03:22.304Z"
+}

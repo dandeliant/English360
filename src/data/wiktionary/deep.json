@@ -1,0 +1,101 @@
+{
+  "lemma": "deep",
+  "slug": "deep",
+  "fetchTerm": "deep",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Extending, reaching or positioned far from a point of reference, especially downwards. Extending far down from the top, or surface, to the bottom, literally or figuratively.",
+          "examples": [
+            "The lake is extremely deep.",
+            "We hiked into a deep valley between tall mountains."
+          ]
+        },
+        {
+          "text": "Extending far down from the top, or surface, to the bottom, literally or figuratively.",
+          "examples": [
+            "The lake is extremely deep.",
+            "We hiked into a deep valley between tall mountains."
+          ]
+        },
+        {
+          "text": "Positioned far from the surface or other reference point, especially down through something or into something.",
+          "examples": [
+            "Diving down to deep wrecks can be dangerous.",
+            "I can't get the bullet out – it's too deep."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Far, especially far down through something or into something, physically or figuratively.",
+          "examples": [
+            "The ogre lived in a cave deep underground.",
+            "We ventured deep into the forest."
+          ]
+        },
+        {
+          "text": "In a profound, not superficial, manner.",
+          "examples": [
+            "I thought long and deep.",
+            "deep-laid"
+          ]
+        },
+        {
+          "text": "In large volume.",
+          "examples": [
+            "breathe deep, drink deep"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The deep part of a lake, sea, etc.",
+          "examples": [
+            "creatures of the deep"
+          ]
+        },
+        {
+          "text": "The sea, the ocean.",
+          "examples": []
+        },
+        {
+          "text": "A deep hole or pit, a water well; an abyss.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To overthink; to treat as being deeper (“more profound, significant”) than in reality.",
+          "examples": [
+            "― Ugh, why are these road markings so awfully arranged?― Quit deeping it bro, just drive, innit."
+          ]
+        },
+        {
+          "text": "To think about, especially deeply (“profoundly”); to consider.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "głęboki",
+    "niski",
+    "pochłonięty",
+    "zaabsorbowany",
+    "głęboko"
+  ],
+  "fetchedAt": "2026-05-17T22:12:45.347Z"
+}

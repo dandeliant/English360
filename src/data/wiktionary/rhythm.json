@@ -1,0 +1,45 @@
+{
+  "lemma": "rhythm",
+  "slug": "rhythm",
+  "fetchTerm": "rhythm",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The variation of strong and weak elements (such as duration, accent) of sounds, notably in speech or music, over time; a beat or meter.",
+          "examples": [
+            "Dance to the rhythm of the music.",
+            "The audience clapped in rhythm as I sang."
+          ]
+        },
+        {
+          "text": "A specifically defined pattern of such variation.",
+          "examples": [
+            "Most dances have a rhythm as distinctive as the Iambic verse in poetry"
+          ]
+        },
+        {
+          "text": "A flow, repetition or regularity.",
+          "examples": [
+            "Once you get the rhythm of it, the job will become easy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To impart a (particular) rhythm to.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rytm"
+  ],
+  "fetchedAt": "2026-05-17T22:04:23.824Z"
+}

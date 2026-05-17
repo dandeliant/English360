@@ -1,0 +1,67 @@
+{
+  "lemma": "adult",
+  "slug": "adult",
+  "fetchTerm": "adult",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An animal that is full-grown.",
+          "examples": []
+        },
+        {
+          "text": "A person who has reached the legal age of majority.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Fully grown.",
+          "examples": [
+            "an adult human, animal, or plant"
+          ]
+        },
+        {
+          "text": "Intended for or restricted to adults rather than children due to size, maturity, knowledge level, judgement, etc.",
+          "examples": [
+            "adult clothes; adult cereal; an adult documentary",
+            "adult situations; adult discussions"
+          ]
+        },
+        {
+          "text": "Containing situations or discussions intended primarily for adults, such as serious crime, illicit drug use, extramarital affairs, etc.",
+          "examples": [
+            "adult situations; adult discussions"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To behave like an adult.",
+          "examples": [
+            "Adulting is hard!"
+          ]
+        },
+        {
+          "text": "To (cause to) be or become an adult.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dorosły",
+    "dorosła",
+    "osoba dorosła",
+    "dla dorosłych"
+  ],
+  "fetchedAt": "2026-05-17T22:12:01.085Z"
+}

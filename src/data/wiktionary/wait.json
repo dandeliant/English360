@@ -1,0 +1,72 @@
+{
+  "lemma": "wait",
+  "slug": "wait",
+  "fetchTerm": "wait",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To delay movement or action until some event or time; to remain neglected or in readiness.",
+          "examples": [
+            "Wait here until your car arrives.",
+            "I’m still waiting for you to pay me back the money I lent you.."
+          ]
+        },
+        {
+          "text": "To wait tables; to serve customers in a restaurant or other eating establishment.",
+          "examples": [
+            "She used to wait in this joint."
+          ]
+        },
+        {
+          "text": "To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)",
+          "examples": [
+            "to wait one’s turn"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A delay.",
+          "examples": [
+            "I had a very long wait at the airport security check."
+          ]
+        },
+        {
+          "text": "An ambush.",
+          "examples": [
+            "They lay in wait for the patrol."
+          ]
+        },
+        {
+          "text": "Ellipsis of wait state.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Tells the other speaker to stop talking, typing etc. for a moment, often to allow clarification.",
+          "examples": [
+            "- And so I went upstairs—- Wait. Your house has two floors?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czekać",
+    "oczekiwać",
+    "kelnerować",
+    "obsługiwać",
+    "obsłużyć"
+  ],
+  "fetchedAt": "2026-05-17T22:05:14.805Z"
+}

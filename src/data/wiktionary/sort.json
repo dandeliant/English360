@@ -1,0 +1,44 @@
+{
+  "lemma": "sort",
+  "slug": "sort",
+  "fetchTerm": "sort",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A general type.",
+          "examples": []
+        },
+        {
+          "text": "Manner, way; form of being or acting.",
+          "examples": []
+        },
+        {
+          "text": "Condition above the vulgar; rank.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To separate items into different categories according to certain criteria that determine their sorts.",
+          "examples": [
+            "Sort the letters in those bags into a separate pile for each language."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "typ",
+    "rodzaj",
+    "sort",
+    "sortowanie",
+    "sortować"
+  ],
+  "fetchedAt": "2026-05-17T22:04:41.442Z"
+}

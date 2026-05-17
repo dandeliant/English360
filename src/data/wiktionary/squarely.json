@@ -1,0 +1,27 @@
+{
+  "lemma": "squarely",
+  "slug": "squarely",
+  "fetchTerm": "squarely",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In the shape of a square; at right angles.",
+          "examples": []
+        },
+        {
+          "text": "Firmly and solidly.",
+          "examples": []
+        },
+        {
+          "text": "In a direct, straightforward and honest manner.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:14:03.368Z"
+}

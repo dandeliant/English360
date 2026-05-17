@@ -1,0 +1,38 @@
+{
+  "lemma": "forgive",
+  "slug": "forgive",
+  "fetchTerm": "forgive",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pardon (someone); to waive any negative feeling towards or desire for punishment or retribution against.",
+          "examples": [
+            "Please forgive me if my phone goes off - I'm expecting an urgent call from my boss.",
+            "Forgive others, not because they deserve forgiveness, but because you deserve peace."
+          ]
+        },
+        {
+          "text": "To pardon (something); to waive any negative feeling over or retribution for.",
+          "examples": []
+        },
+        {
+          "text": "To waive or remit (a debt), to absolve from payment or compensation of.",
+          "examples": [
+            "Forgive a debt, that is, tell a debtor that a repayment of a loan is no longer needed."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przebaczać",
+    "przebaczyć",
+    "odpuszczać",
+    "odpuścić",
+    "darowywać"
+  ],
+  "fetchedAt": "2026-05-17T22:02:39.337Z"
+}

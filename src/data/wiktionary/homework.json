@@ -1,0 +1,35 @@
+{
+  "lemma": "homework",
+  "slug": "homework",
+  "fetchTerm": "homework",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Exercises assigned by a teacher to a student which review concepts studied in class.",
+          "examples": [
+            "You must do your homework before you can watch television.",
+            "The speaker had certainly done his homework before delivering the lecture."
+          ]
+        },
+        {
+          "text": "Something which one is encouraged to learn or study on one's own.",
+          "examples": [
+            "The speaker had certainly done his homework before delivering the lecture."
+          ]
+        },
+        {
+          "text": "Any work that is done at home; housework.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zadanie domowe",
+    "praca domowa"
+  ],
+  "fetchedAt": "2026-05-17T22:13:26.987Z"
+}

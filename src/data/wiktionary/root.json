@@ -1,0 +1,93 @@
+{
+  "lemma": "root",
+  "slug": "root",
+  "fetchTerm": "root",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of a plant, generally underground, that anchors and supports the plant body, absorbs and stores water and nutrients, and in some plants is able to perform vegetative reproduction.",
+          "examples": [
+            "This tree's roots can go as deep as twenty metres underground."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To grow roots; to enter the earth, as roots; to take root and begin to grow.",
+          "examples": [
+            "The cuttings are starting to root."
+          ]
+        },
+        {
+          "text": "To prepare, oversee, or otherwise cause the rooting of cuttings.",
+          "examples": [
+            "We rooted some cuttings last summer."
+          ]
+        },
+        {
+          "text": "To fix firmly; to establish.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn up or dig with the snout.",
+          "examples": [
+            "A pig roots the earth for truffles."
+          ]
+        },
+        {
+          "text": "To seek favour or advancement by low arts or grovelling servility; to fawn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of rummaging or searching.",
+          "examples": []
+        },
+        {
+          "text": "An act of sexual intercourse.",
+          "examples": [
+            "Fancy a root?"
+          ]
+        },
+        {
+          "text": "A sexual partner.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cheer (on); to show support (for) and hope for the success of. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I'm rooting for you, don't let me down!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "korzeń",
+    "cebulka",
+    "źródło",
+    "pierwiastek",
+    "miejsce zerowe"
+  ],
+  "fetchedAt": "2026-05-17T22:04:26.523Z"
+}

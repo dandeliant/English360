@@ -1,0 +1,50 @@
+{
+  "lemma": "own",
+  "slug": "own",
+  "fetchTerm": "own",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Belonging to; possessed; acquired; proper to; property of; titled to; held in one's name; under/using the name of. Often marks a possessive determiner as reflexive, referring back to the subject of the clause or sentence.",
+          "examples": []
+        },
+        {
+          "text": "Not shared.",
+          "examples": [
+            "When we move into the new house, the kids will each have their own bedroom."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have rightful possession of (property, goods or capital); to have legal title to; to acquire a property or asset.",
+          "examples": [
+            "I own this car."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A crushing insult.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "swój",
+    "własny",
+    "posiadać",
+    "mieć"
+  ],
+  "fetchedAt": "2026-05-17T22:03:57.591Z"
+}

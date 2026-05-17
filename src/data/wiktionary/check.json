@@ -1,0 +1,98 @@
+{
+  "lemma": "check",
+  "slug": "check",
+  "fetchTerm": "check",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An inspection or examination.",
+          "examples": [
+            "I don't know if she will be there, but it's worth a check."
+          ]
+        },
+        {
+          "text": "A control; a limit or stop.",
+          "examples": [
+            "checks and balances",
+            "The castle moat should hold the enemy in check."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To inspect; to examine.",
+          "examples": [
+            "Check the oil in your car once a month.",
+            "Check whether this page has a watermark."
+          ]
+        },
+        {
+          "text": "To verify the accuracy of a text or translation, usually making some corrections (proofread) or many (copyedit).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An expression showing that a requirement has been satisfied.",
+          "examples": [
+            "Keys? Check. Batteries? Check. We are all ready to go!"
+          ]
+        },
+        {
+          "text": "An expression that indicates that the speaker wishes to pay the bill (e.g. in a restaurant).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pattern made up of a grid of squares of alternating colors; a checkered pattern.",
+          "examples": [
+            "The tablecloth had red and white checks."
+          ]
+        },
+        {
+          "text": "Any fabric woven with such a pattern.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To mark with a check pattern.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Checky, i.e. chequy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sprawdzenie",
+    "inspekcja",
+    "kontrola",
+    "szach",
+    "znaczek"
+  ],
+  "fetchedAt": "2026-05-17T22:01:49.337Z"
+}

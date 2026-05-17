@@ -1,0 +1,195 @@
+{
+  "id": "2025-08-05-boy-on-haybale",
+  "date_assigned": "2025-08-05",
+  "date_alternatives": ["2025-09-01"],
+  "title_en": "In the Glow",
+  "title_pl": "W blasku",
+  "location": "Paskudy, gmina Ulan-Majorat, Poland",
+  "image": "/images/2025-08-05-boy-on-haybale.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["youth", "summer", "sunset", "hay-bale", "sunflowers", "triumph", "possibility", "poland", "countryside", "evening", "silhouette"],
+  "themes": ["youth", "possibility", "summer-evening", "polish-countryside", "childhood"],
+  "did_you_know": {
+    "en": "A large round bale of hay weighs between 500 and 700 kilograms — about the same as a small car. Children growing up on Polish farms learn early which bales are safe to climb and which are likely to roll the moment you take a foot off the ground.",
+    "pl": "Duża okrągła bela siana waży od 500 do 700 kilogramów, czyli mniej więcej tyle co mały samochód. Dzieci dorastające w polskich gospodarstwach wcześnie uczą się, na które bele można bezpiecznie wejść, a które gotowe są się stoczyć w chwili, gdy podniesie się stopę."
+  },
+  "social": {
+    "fb_caption_pl": "Sierpniowy wieczór w Paskudach. Chłopiec na beli siana, ręce w górę, słońce zachodzące za rzędem słoneczników. W blasku zachodzącego słońca wszystko wydaje się możliwe. Lekcja English 360° na sześciu poziomach (A1–C2). english360.example",
+    "fb_caption_en": "An August evening in eastern Poland. A boy on a hay bale, arms raised, the sun setting behind a row of sunflowers. In the glow of the setting sun, anything seems possible. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#PolishCountryside", "#Childhood", "#Summer", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "A boy is on a big hay bale. He has his hands up. The sun is going down. The sky is orange. Behind him there are sunflowers. He is happy. He feels free.",
+      "text_pl": "Chłopiec stoi na dużej beli siana. Trzyma ręce w górze. Słońce zachodzi. Niebo jest pomarańczowe. Za nim są słoneczniki. Jest szczęśliwy. Czuje się wolny.",
+      "vocab": [
+        { "term": "boy", "ipa_br": "/bɔɪ/", "pl": "chłopiec", "new": true },
+        { "term": "hay bale", "ipa_br": "/ˈheɪ beɪl/", "pl": "bela siana", "new": true },
+        { "term": "hand", "ipa_br": "/hænd/", "pl": "ręka, dłoń", "new": true },
+        { "term": "up", "ipa_br": "/ʌp/", "pl": "w górę, na górę", "new": false },
+        { "term": "sunflower", "ipa_br": "/ˈsʌn.flaʊ.ə/", "pl": "słonecznik", "new": true },
+        { "term": "happy", "ipa_br": "/ˈhæp.i/", "pl": "szczęśliwy, wesoły", "new": true },
+        { "term": "free", "ipa_br": "/friː/", "pl": "wolny, swobodny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "boy", "answer": "A" },
+            { "word": "sunflower", "answer": "B" },
+            { "word": "sun", "answer": "C" },
+            { "word": "sky", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🧒" },
+            { "label": "B", "text": "🌻" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "☁️" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "It is the end of a summer day. A boy is standing on a big round bale of hay in a field. He is raising both his arms because he feels happy and free. Behind him, the sky is orange and pink, and the sun is going down between rows of sunflowers. He looks like the winner of a quiet game with the sky.",
+      "text_pl": "Jest koniec letniego dnia. Chłopiec stoi na dużej okrągłej beli siana na polu. Podnosi obie ręce, bo czuje się szczęśliwy i wolny. Za nim niebo jest pomarańczowe i różowe, a słońce zachodzi między rzędami słoneczników. Wygląda jak zwycięzca cichej gry z niebem.",
+      "vocab": [
+        { "term": "round", "ipa_br": "/raʊnd/", "pl": "okrągły", "new": true },
+        { "term": "raise", "ipa_br": "/reɪz/", "pl": "podnosić, unosić", "new": true },
+        { "term": "arm", "ipa_br": "/ɑːm/", "pl": "ramię, ręka", "new": true },
+        { "term": "feel", "ipa_br": "/fiːl/", "pl": "czuć (się)", "new": false },
+        { "term": "pink", "ipa_br": "/pɪŋk/", "pl": "różowy", "new": true },
+        { "term": "row", "ipa_br": "/rəʊ/", "pl": "rząd", "new": false },
+        { "term": "winner", "ipa_br": "/ˈwɪn.ə/", "pl": "zwycięzca", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪ.ət/", "pl": "cichy, spokojny", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowami z tekstu.",
+          "items": [
+            { "sentence": "The boy is standing on a big ___ bale of hay.", "answer": "round" },
+            { "sentence": "He is raising both his ___.", "answer": "arms" },
+            { "sentence": "The sky is orange and ___.", "answer": "pink" },
+            { "sentence": "He looks like the ___ of a quiet game.", "answer": "winner" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "On a warm August evening, a boy climbed onto an old hay bale at the edge of his family's field. The sun was setting behind a long line of sunflowers, painting the sky in deep orange and gold. For a moment, he forgot about everything — his homework, his summer chores, the cousins who had teased him earlier — and lifted both arms toward the sky. It is a gesture every child knows: arms up, head back, eyes half-closed. In the glow of the setting sun, anything seems possible. Tomorrow can wait.",
+      "text_pl": "Ciepłym sierpniowym wieczorem chłopiec wspiął się na starą belę siana na skraju pola swoich rodziców. Słońce zachodziło za długim rzędem słoneczników, malując niebo na głęboki pomarańcz i złoto. Na chwilę zapomniał o wszystkim — o zadaniach, o letnich obowiązkach, o kuzynach, którzy dokuczali mu wcześniej — i uniósł obie ręce ku niebu. To gest, który zna każde dziecko: ręce w górę, głowa odchylona, oczy przymknięte. W blasku zachodzącego słońca wszystko wydaje się możliwe. Jutro może poczekać.",
+      "vocab": [
+        { "term": "climb", "ipa_br": "/klaɪm/", "pl": "wspinać się", "new": true },
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "skraj, krawędź", "new": false },
+        { "term": "paint", "ipa_br": "/peɪnt/", "pl": "malować", "new": false },
+        { "term": "chore", "ipa_br": "/tʃɔː/", "pl": "obowiązek domowy", "new": true },
+        { "term": "tease", "ipa_br": "/tiːz/", "pl": "dokuczać, drażnić", "new": true },
+        { "term": "gesture", "ipa_br": "/ˈdʒes.tʃə/", "pl": "gest", "new": true },
+        { "term": "glow", "ipa_br": "/ɡləʊ/", "pl": "blask, poświata", "new": true },
+        { "term": "possible", "ipa_br": "/ˈpɒs.ə.bəl/", "pl": "możliwy", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph shows a quiet moment at the end of a summer day.", "answer": true },
+            { "statement": "The boy is climbing a tree.", "answer": false },
+            { "statement": "Behind him there are sunflowers.", "answer": true },
+            { "statement": "The text says the sun was rising in the photo.", "answer": false },
+            { "statement": "At that moment the boy forgot about everything.", "answer": true },
+            { "statement": "The text says: in the glow of the setting sun, anything seems possible.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a particular kind of photograph that you only take in late summer: a child silhouetted against an enormous setting sun, arms raised in some private gesture of triumph. This image — made on a warm evening in early August on a farm in eastern Poland — is exactly that. The boy has hauled himself onto a round bale of hay that smells of dust and grass, and from there the world looks bigger than it usually does. Behind him a row of sunflowers leans westward, their heads tracking the last warmth of the day. He is doing what every photographer secretly hopes their subject will do: forgetting, for thirty seconds, that the camera is even there. In that brief unselfconscious gesture is the entire summer, compressed into a silhouette.",
+      "text_pl": "Jest pewien rodzaj fotografii, jaki robi się tylko późnym latem: dziecko w sylwetce na tle ogromnego zachodzącego słońca, z uniesionymi w prywatnym geście triumfu rękami. To zdjęcie — zrobione ciepłym wieczorem na początku sierpnia w gospodarstwie we wschodniej Polsce — jest dokładnie tym. Chłopiec wgramolił się na okrągłą belę siana, która pachnie kurzem i trawą, i stamtąd świat wygląda na większy niż zwykle. Za nim rząd słoneczników pochyla się na zachód, głowami śledząc ostatnie ciepło dnia. Robi to, na co każdy fotograf po cichu liczy ze swoim modelem: zapomina przez trzydzieści sekund, że aparat w ogóle tam jest. W tym krótkim, nieświadomym geście mieści się całe lato, sprasowane do sylwetki.",
+      "vocab": [
+        { "term": "silhouetted", "ipa_br": "/ˌsɪl.uˈet.ɪd/", "pl": "widoczny w sylwetce", "new": true },
+        { "term": "enormous", "ipa_br": "/ɪˈnɔː.məs/", "pl": "ogromny", "new": true },
+        { "term": "triumph", "ipa_br": "/ˈtraɪ.əmf/", "pl": "triumf, zwycięstwo", "new": true },
+        { "term": "haul", "ipa_br": "/hɔːl/", "pl": "wciągać, wgramolić się", "new": true },
+        { "term": "dust", "ipa_br": "/dʌst/", "pl": "kurz, pył", "new": true },
+        { "term": "track", "ipa_br": "/træk/", "pl": "śledzić, podążać za; tor", "new": false },
+        { "term": "westward", "ipa_br": "/ˈwest.wəd/", "pl": "na zachód, ku zachodowi", "new": true },
+        { "term": "unselfconscious", "ipa_br": "/ˌʌn.selfˈkɒn.ʃəs/", "pl": "nieświadomy siebie, naturalny", "new": true },
+        { "term": "compress", "ipa_br": "/kəmˈpres/", "pl": "ściskać, sprasować", "new": true },
+        { "term": "secretly", "ipa_br": "/ˈsiː.krət.li/", "pl": "skrycie, w tajemnicy", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photo was taken in early August in eastern Poland.", "answer": true },
+            { "statement": "The boy is described as climbing a tall ladder.", "answer": false },
+            { "statement": "The sunflowers behind the boy lean westward, tracking the last warmth of the day.", "answer": true },
+            { "statement": "The text says the boy is posing intensely for the camera.", "answer": false },
+            { "statement": "The hay bale is described as smelling of dust and grass.", "answer": true },
+            { "statement": "The narrator claims this is a winter scene.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Photographs of children at sunset are one of those small genres that everyone, on first encounter, mistakes for cliché — and then takes anyway. The instinct is correct, the timing is universal, and the symbolism is so easily decoded that it almost reads itself: youth, possibility, the last light of a long day. This particular image was taken on the fifth of August in Paskudy, a hamlet in the Lublin Voivodeship of eastern Poland, where the road runs straight enough that the sun seems to set on a single point on the horizon. The boy on the hay bale, his arms raised in that ancient, wordless gesture of arrival, gives the cliché back its first energy. He is not posing in the usual sense; he is, briefly, the kind of person who can stand on a bale of cut grass and convince himself that the entire field, the entire sky, has been put there for him alone.",
+      "text_pl": "Zdjęcia dzieci o zachodzie słońca to jeden z tych małych gatunków, które przy pierwszym zetknięciu wszyscy biorą za kliszę — i robią je mimo to. Instynkt jest słuszny, moment uniwersalny, a symbolika tak łatwa do odczytania, że niemal czyta się sama: młodość, możliwość, ostatnie światło długiego dnia. To konkretne zdjęcie zostało wykonane piątego sierpnia w Paskudach, niewielkiej wsi w województwie lubelskim we wschodniej Polsce, gdzie droga biegnie na tyle prosto, że słońce wydaje się zachodzić w jednym punkcie na horyzoncie. Chłopiec na beli siana, z uniesionymi w tym pradawnym, bezsłownym geście przybycia rękami, oddaje kliszy jej pierwotną energię. Nie pozuje w zwykłym sensie; jest, przez chwilę, kimś, kto może stanąć na beli ściętej trawy i przekonać samego siebie, że całe pole, całe niebo, zostało tam umieszczone wyłącznie dla niego.",
+      "vocab": [
+        { "term": "encounter", "ipa_br": "/ɪnˈkaʊn.tə/", "pl": "spotkanie, zetknięcie", "new": true },
+        { "term": "decode", "ipa_br": "/ˌdiːˈkəʊd/", "pl": "odkodowywać, odczytywać", "new": true },
+        { "term": "universal", "ipa_br": "/ˌjuː.nɪˈvɜː.səl/", "pl": "uniwersalny, powszechny", "new": true },
+        { "term": "pose", "ipa_br": "/pəʊz/", "pl": "pozować; stwarzać (problem)", "new": true },
+        { "term": "wordless", "ipa_br": "/ˈwɜːd.ləs/", "pl": "bezsłowny, niemy", "new": true },
+        { "term": "ancient", "ipa_br": "/ˈeɪn.ʃənt/", "pl": "pradawny, starożytny", "new": true },
+        { "term": "arrival", "ipa_br": "/əˈraɪ.vəl/", "pl": "przybycie, przyjazd", "new": true },
+        { "term": "briefly", "ipa_br": "/ˈbriːf.li/", "pl": "krótko, przez chwilę", "new": true },
+        { "term": "convince", "ipa_br": "/kənˈvɪns/", "pl": "przekonywać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie.",
+          "items": [
+            { "original": "Photographs of children at sunset are one of those small genres that everyone, on first encounter, mistakes for cliché.", "answer": "Almost everyone, when first seeing photographs of children at sunset, mistakes them for cliché." },
+            { "original": "The boy on the hay bale gives the cliché back its first energy.", "answer": "Thanks to the boy on the hay bale, the cliché regains its original energy." },
+            { "original": "He is not posing in the usual sense.", "answer": "He is not really posing — at least not in the ordinary meaning of the word." },
+            { "original": "The road runs straight enough that the sun seems to set on a single point on the horizon.", "answer": "Because the road is so straight, it looks as though the sun is setting on one single point on the horizon." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a moment, somewhere in the middle of every adult life, when the photographs we take of our own children begin to feel different from photographs of children in general. We aim the camera at the same scenes — a small body crowning the same hay bale, a face turned toward the same theatrical sky — but what we hope to capture changes. This image, made on the fifth of August outside the village of Paskudy in eastern Poland, sits squarely on that threshold. It is, on first reading, a portrait of childhood: arms thrown up, hay bale beneath the feet, the sun lowering itself between rows of sunflowers as if cued. On a closer look, however, the picture is partly about the photographer's own awareness that the boy will not always be small, that the sunflowers will not always be in bloom, that the August evening currently held inside a fraction of a second will, before long, exist only here. What looks like a gesture of triumph turns out, by degrees, to be a gesture of leave-taking — though the boy himself, of course, has no idea yet.",
+      "text_pl": "Jest pewna chwila, gdzieś w środku każdego dorosłego życia, gdy fotografie, jakie robimy naszym własnym dzieciom, zaczynają być inne od fotografii dzieci w ogóle. Celujemy aparatem w te same sceny — drobne ciało wieńczące tę samą belę siana, twarz odwróconą ku temu samemu teatralnemu niebu — ale to, co pragniemy uchwycić, się zmienia. To zdjęcie, zrobione piątego sierpnia pod wsią Paskudy we wschodniej Polsce, stoi dokładnie na tym progu. Na pierwszy rzut oka jest portretem dzieciństwa: ręce w górze, bela siana pod stopami, słońce schodzące między rzędami słoneczników jak na zawołanie. Przy bliższym spojrzeniu jednak zdjęcie częściowo opowiada o własnej świadomości fotografa, że chłopiec nie zawsze będzie mały, że słoneczniki nie zawsze będą kwitły, że sierpniowy wieczór zamknięty obecnie w ułamku sekundy wkrótce będzie istniał tylko tutaj. To, co wygląda jak gest triumfu, okazuje się stopniowo gestem pożegnania — choć sam chłopiec, oczywiście, jeszcze o tym nie wie.",
+      "vocab": [
+        { "term": "crown", "ipa_br": "/kraʊn/", "pl": "wieńczyć, koronować", "new": true },
+        { "term": "theatrical", "ipa_br": "/θiˈæt.rɪ.kəl/", "pl": "teatralny", "new": true },
+        { "term": "threshold", "ipa_br": "/ˈθreʃ.həʊld/", "pl": "próg (też przenośnie)", "new": false },
+        { "term": "portrait", "ipa_br": "/ˈpɔː.trət/", "pl": "portret", "new": true },
+        { "term": "cue", "ipa_br": "/kjuː/", "pl": "wskazówka, sygnał; jak na zawołanie", "new": true },
+        { "term": "awareness", "ipa_br": "/əˈweə.nəs/", "pl": "świadomość", "new": true },
+        { "term": "bloom", "ipa_br": "/bluːm/", "pl": "kwitnienie; kwitnąć", "new": false },
+        { "term": "fraction", "ipa_br": "/ˈfræk.ʃən/", "pl": "ułamek, część", "new": true },
+        { "term": "leave-taking", "ipa_br": "/ˈliːv ˌteɪ.kɪŋ/", "pl": "pożegnanie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author claims that photographs of one's own children eventually feel different from photographs of children in general.", "answer": true },
+            { "statement": "The sun is described as setting between rows of sunflowers as if cued.", "answer": true },
+            { "statement": "According to the text, the boy is fully aware that this scene will not last.", "answer": false },
+            { "statement": "The text suggests the picture is partly about the photographer's awareness of impermanence.", "answer": true },
+            { "statement": "The image was taken in early September.", "answer": false },
+            { "statement": "The narrator argues that what looks like a gesture of triumph is, by degrees, a gesture of leave-taking.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}

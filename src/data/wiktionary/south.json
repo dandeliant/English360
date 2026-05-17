@@ -1,0 +1,81 @@
+{
+  "lemma": "south",
+  "slug": "south",
+  "fetchTerm": "south",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The direction towards the pole to the right-hand side of someone facing east, specifically 180°, or (on another celestial object) the direction towards the pole lying on the southern side of the invariable plane.",
+          "examples": [
+            "Germany is south of Denmark."
+          ]
+        },
+        {
+          "text": "The southern region or area; the inhabitants thereof. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Toward the south; southward.",
+          "examples": []
+        },
+        {
+          "text": "from the south.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to the south; southern.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Toward the south; southward.",
+          "examples": []
+        },
+        {
+          "text": "Downward.",
+          "examples": []
+        },
+        {
+          "text": "In an adverse direction or trend.",
+          "examples": [
+            "His fortunes have been going south ever since he was tricked into investing in that ostrich farm."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn or move toward the south; to veer toward the south.",
+          "examples": []
+        },
+        {
+          "text": "To come to the meridian; to cross the north and south line.",
+          "examples": [
+            "The moon souths at nine."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "południe",
+    "południowy",
+    "na południe",
+    "z południa"
+  ],
+  "fetchedAt": "2026-05-17T22:04:44.618Z"
+}

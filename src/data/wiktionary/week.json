@@ -1,0 +1,34 @@
+{
+  "lemma": "week",
+  "slug": "week",
+  "fetchTerm": "week",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any period of seven consecutive days.",
+          "examples": []
+        },
+        {
+          "text": "A period of seven days beginning with Sunday or Monday.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "The squeal of a pig.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tydzień"
+  ],
+  "fetchedAt": "2026-05-17T22:05:25.131Z"
+}

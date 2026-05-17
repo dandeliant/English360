@@ -1,0 +1,50 @@
+{
+  "lemma": "noon",
+  "slug": "noon",
+  "fetchTerm": "noon",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The time of day when the Sun seems to reach its highest point in the sky; solar noon.",
+          "examples": [
+            "On Saturdays, I love to have a lie-in until noon.",
+            "The race is due to start at noon sharp."
+          ]
+        },
+        {
+          "text": "The mean time of solar noon, marked as twelve o'clock on most clocks.",
+          "examples": []
+        },
+        {
+          "text": "The corresponding time in the middle of the night; midnight.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To relax or sleep around midday.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The letter ن in the Arabic script.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "południe"
+  ],
+  "fetchedAt": "2026-05-17T22:03:49.014Z"
+}

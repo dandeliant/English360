@@ -1,0 +1,29 @@
+{
+  "lemma": "month",
+  "slug": "month",
+  "fetchTerm": "month",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A period into which a year is divided, historically based on the phases of the moon.",
+          "examples": [
+            "July is my favourite month."
+          ]
+        },
+        {
+          "text": "A period of 30 days, 31 days, or some alternation thereof.",
+          "examples": [
+            "We went on holiday for two months."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "miesiąc"
+  ],
+  "fetchedAt": "2026-05-17T22:03:39.912Z"
+}

@@ -1,0 +1,31 @@
+{
+  "lemma": "absurdly",
+  "slug": "absurdly",
+  "fetchTerm": "absurdly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In an absurd fashion. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "He orated absurdly.",
+            "Absurdly, he concluded his oration with a song."
+          ]
+        },
+        {
+          "text": "To an extreme degree.",
+          "examples": [
+            "The critics were absurdly extravagant with their praise."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "absurdalnie",
+    "bezsensownie"
+  ],
+  "fetchedAt": "2026-05-17T22:01:10.375Z"
+}

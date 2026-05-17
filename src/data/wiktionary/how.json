@@ -1,0 +1,102 @@
+{
+  "lemma": "how",
+  "slug": "how",
+  "fetchTerm": "how",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Honi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To what degree or extent.",
+          "examples": [
+            "How often do you practice?",
+            "The gauge indicated how hot the oven was."
+          ]
+        },
+        {
+          "text": "In what manner: By what means.",
+          "examples": [
+            "How do you solve this puzzle? –Sorry, I can't remember how.",
+            "How else can we get this finished?"
+          ]
+        },
+        {
+          "text": "By what means.",
+          "examples": [
+            "How do you solve this puzzle? –Sorry, I can't remember how.",
+            "How else can we get this finished?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "That, the fact that.",
+          "examples": [
+            "She told me how her father was a doctor."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "What?, pardon?",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The means by which something is accomplished.",
+          "examples": [
+            "I am not interested in the why, but in the how."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An artificial barrow or tumulus; in later folklore, associated with fairies.",
+          "examples": []
+        },
+        {
+          "text": "In northern England, a low hill.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A greeting, used in representations of Native American speech.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jak",
+    "ale",
+    "w jaki sposób"
+  ],
+  "fetchedAt": "2026-05-17T22:03:04.176Z"
+}

@@ -1,0 +1,76 @@
+{
+  "lemma": "get",
+  "slug": "get",
+  "fetchTerm": "get",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To obtain; to acquire.",
+          "examples": [
+            "I'm going to get a computer tomorrow from the discount store.",
+            "Lance is going to get Mary a ring."
+          ]
+        },
+        {
+          "text": "To receive.",
+          "examples": [
+            "I got a computer from my parents for my birthday.",
+            "He got a severe reprimand for that."
+          ]
+        },
+        {
+          "text": "To have. See usage notes.",
+          "examples": [
+            "I've got a concert ticket for you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Offspring, especially illegitimate.",
+          "examples": []
+        },
+        {
+          "text": "Lineage.",
+          "examples": []
+        },
+        {
+          "text": "A difficult return or block of a shot.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of git (“contemptible person”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A Jewish writ of divorce.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dostawać",
+    "dostać",
+    "otrzymywać",
+    "otrzymać",
+    "dorwać"
+  ],
+  "fetchedAt": "2026-05-17T22:02:47.370Z"
+}

@@ -1,0 +1,62 @@
+{
+  "lemma": "weather",
+  "slug": "weather",
+  "fetchTerm": "weather",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The short-term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
+          "examples": [
+            "What's the weather like today?",
+            "We'll go for a walk when the weather's better."
+          ]
+        },
+        {
+          "text": "Unpleasant or destructive atmospheric conditions, and their effects.",
+          "examples": [
+            "Wooden garden furniture must be well oiled as it is continuously exposed to weather."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Facing towards the flow of a fluid, usually air.",
+          "examples": [
+            "weather side, weather helm"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To expose to the weather, or show the effects of such exposure, or to withstand such effects.",
+          "examples": []
+        },
+        {
+          "text": "To sustain the trying effect of; to bear up against and overcome; to endure; to resist.",
+          "examples": []
+        },
+        {
+          "text": "To break down, of rocks and other materials, under the effects of exposure to rain, sunlight, temperature, and air.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pogoda",
+    "aura",
+    "niepogoda",
+    "wietrzeć",
+    "zwietrzeć"
+  ],
+  "fetchedAt": "2026-05-17T22:05:23.588Z"
+}

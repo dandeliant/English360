@@ -1,0 +1,68 @@
+{
+  "lemma": "ancient",
+  "slug": "ancient",
+  "fetchTerm": "ancient",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having lasted from a remote period; having been of long duration; of great age, very old.",
+          "examples": [
+            "an ancient city",
+            "an ancient forest"
+          ]
+        },
+        {
+          "text": "Existent or occurring in time long past, usually in remote ages; belonging to or associated with antiquity; old, as opposed to modern.",
+          "examples": [
+            "an ancient author",
+            "an ancient empire"
+          ]
+        },
+        {
+          "text": "Relating to antiquity as a primarily European historical period; the time before the Middle Ages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who is very old.",
+          "examples": []
+        },
+        {
+          "text": "A person who lived in ancient times.",
+          "examples": []
+        },
+        {
+          "text": "One of the senior members of the Inns of Court or of Chancery.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A flag, banner, standard or ensign.",
+          "examples": []
+        },
+        {
+          "text": "The bearer of a flag; ensign.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "starożytny",
+    "antyczny",
+    "starodawny",
+    "pradawny"
+  ],
+  "fetchedAt": "2026-05-17T22:12:02.839Z"
+}

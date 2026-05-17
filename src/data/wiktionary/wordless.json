@@ -1,0 +1,26 @@
+{
+  "lemma": "wordless",
+  "slug": "wordless",
+  "fetchTerm": "wordless",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Conveyed without the use of words; unspoken or unsaid.",
+          "examples": []
+        },
+        {
+          "text": "Unable or unwilling to speak; dumb, silent or inarticulate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bezsłowny",
+    "bezwyrazowy"
+  ],
+  "fetchedAt": "2026-05-17T22:14:32.757Z"
+}

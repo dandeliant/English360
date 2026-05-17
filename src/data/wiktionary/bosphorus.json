@@ -1,0 +1,21 @@
+{
+  "lemma": "bosphorus",
+  "slug": "bosphorus",
+  "fetchTerm": "Bosphorus",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The narrow strait beside Istanbul, Turkey connecting the Black Sea to the Sea of Marmara, the northern end of the Turkish Straits connecting the Black Sea with the Aegean and Mediterranean.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Bosfor"
+  ],
+  "fetchedAt": "2026-05-17T22:01:40.346Z"
+}

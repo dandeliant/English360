@@ -1,0 +1,57 @@
+{
+  "lemma": "chore",
+  "slug": "chore",
+  "fetchTerm": "chore",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A task, especially a regularly needed task for the upkeep of a home or similar, such as cleaning or preparing meals.",
+          "examples": [
+            "Before we moved in together, my partner and I divided up the chores: he cooks and vacuums, and I do the dishes and laundry.",
+            "The children were made to do their daily chores before being allowed to play games."
+          ]
+        },
+        {
+          "text": "A task that is difficult, unpleasant, or tediously routine.",
+          "examples": [
+            "I used to enjoy being self-employed, but it's become a bit of a chore recently."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do chores.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To steal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A choir or chorus.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zadanie"
+  ],
+  "fetchedAt": "2026-05-17T22:12:26.197Z"
+}

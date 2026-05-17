@@ -1,0 +1,48 @@
+{
+  "lemma": "electric",
+  "slug": "electric",
+  "fetchTerm": "electric",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, produced by, operated with, or utilising electricity; electrical.",
+          "examples": []
+        },
+        {
+          "text": "Of or relating to an electronic version of a musical instrument that has an acoustic equivalent.",
+          "examples": []
+        },
+        {
+          "text": "Emotionally thrilling; electrifying.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Electricity; the electricity supply.",
+          "examples": [
+            "We had to sit in the dark because the electric was cut off."
+          ]
+        },
+        {
+          "text": "An electric powered version of something that was originally or is more commonly not electric. An electric car, locomotive, train etc. An electric toothbrush. An electric typewriter.",
+          "examples": []
+        },
+        {
+          "text": "An electric car, locomotive, train etc.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "elektryczny"
+  ],
+  "fetchedAt": "2026-05-17T22:02:17.980Z"
+}

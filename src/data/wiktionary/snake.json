@@ -1,0 +1,46 @@
+{
+  "lemma": "snake",
+  "slug": "snake",
+  "fetchTerm": "snake",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of the suborder Serpentes of legless reptiles with long, thin bodies and fork-shaped tongues.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To follow or move in a winding route.",
+          "examples": [
+            "The path snaked through the forest.",
+            "The river snakes through the valley."
+          ]
+        },
+        {
+          "text": "To steal slyly.",
+          "examples": [
+            "He snaked my DVD!"
+          ]
+        },
+        {
+          "text": "To clean using a plumbing snake.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wąż",
+    "bazyliszek",
+    "żmija",
+    "wić się"
+  ],
+  "fetchedAt": "2026-05-17T22:04:38.195Z"
+}

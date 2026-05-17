@@ -1,0 +1,56 @@
+{
+  "lemma": "spend",
+  "slug": "spend",
+  "fetchTerm": "spend",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pay out (money).",
+          "examples": [
+            "I've already spent hundreds of dollars buying dog chow.",
+            "He spends far more on gambling than he does on living proper."
+          ]
+        },
+        {
+          "text": "To bestow; to employ; often with on or upon.",
+          "examples": []
+        },
+        {
+          "text": "To squander.",
+          "examples": [
+            "to spend an estate in gambling"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Amount of money spent (during a period); expenditure.",
+          "examples": [
+            "I’m sorry, boss, but the advertising spend exceeded the budget again this month."
+          ]
+        },
+        {
+          "text": "Expenditures; money or pocket money.",
+          "examples": []
+        },
+        {
+          "text": "Discharged semen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wydawać",
+    "wydać",
+    "spędzać",
+    "spędzić"
+  ],
+  "fetchedAt": "2026-05-17T22:04:48.872Z"
+}

@@ -1,0 +1,35 @@
+{
+  "lemma": "foundation",
+  "slug": "foundation",
+  "fetchTerm": "foundation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of founding, fixing, establishing, or beginning to erect.",
+          "examples": [
+            "The foundation of his institute has been wrought with difficulty."
+          ]
+        },
+        {
+          "text": "That upon which anything is founded; that on which anything stands, and by which it is supported; the lowest and supporting layer of a superstructure; underbuilding.",
+          "examples": []
+        },
+        {
+          "text": "The result of the work to begin something; that which stabilizes and allows an enterprise or system to develop.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "założenie",
+    "ufundowanie",
+    "fundament",
+    "podstawa",
+    "podwalina"
+  ],
+  "fetchedAt": "2026-05-17T22:02:40.757Z"
+}

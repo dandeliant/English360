@@ -1,0 +1,41 @@
+{
+  "lemma": "irrational",
+  "slug": "irrational",
+  "fetchTerm": "irrational",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not rational; unfounded, nonsensical or wrong-headed.",
+          "examples": [
+            "an irrational decision"
+          ]
+        },
+        {
+          "text": "Of a real number, that cannot be written as the ratio of two integers.",
+          "examples": [
+            "The number π is irrational."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A real number that can not be expressed as the quotient of two integers, an irrational number.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nieracjonalny",
+    "irracjonalny",
+    "niewymierny",
+    "liczba niewymierna"
+  ],
+  "fetchedAt": "2026-05-17T22:03:11.053Z"
+}

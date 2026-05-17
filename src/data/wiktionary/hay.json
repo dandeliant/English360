@@ -1,0 +1,78 @@
+{
+  "lemma": "hay",
+  "slug": "hay",
+  "fetchTerm": "hay",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Haya.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Grass cut and dried for use as animal fodder.",
+          "examples": []
+        },
+        {
+          "text": "Any mix of green leafy plants used for fodder.",
+          "examples": []
+        },
+        {
+          "text": "Cannabis; marijuana.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cut grasses or herb plants for use as animal fodder.",
+          "examples": []
+        },
+        {
+          "text": "To lay snares for rabbits.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hedge.",
+          "examples": []
+        },
+        {
+          "text": "A net placed around the lair or burrow of an animal.",
+          "examples": []
+        },
+        {
+          "text": "An enclosure, haw.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The letter for the h sound in Pitman shorthand.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "siano",
+    "kosić"
+  ],
+  "fetchedAt": "2026-05-17T22:13:21.502Z"
+}

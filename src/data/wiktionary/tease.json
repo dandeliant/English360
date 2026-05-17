@@ -1,0 +1,47 @@
+{
+  "lemma": "tease",
+  "slug": "tease",
+  "fetchTerm": "tease",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To separate the fibres of (a fibrous material).",
+          "examples": []
+        },
+        {
+          "text": "To comb (originally with teasels) so that the fibres all lie in one direction.",
+          "examples": []
+        },
+        {
+          "text": "To backcomb.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who teases.",
+          "examples": []
+        },
+        {
+          "text": "A single act of teasing.",
+          "examples": []
+        },
+        {
+          "text": "One who deliberately arouses others (usually men) sexually with no intention of satisfying that arousal.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "drażnić",
+    "dokuczać"
+  ],
+  "fetchedAt": "2026-05-17T22:14:09.609Z"
+}

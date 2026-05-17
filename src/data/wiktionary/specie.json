@@ -1,0 +1,32 @@
+{
+  "lemma": "specie",
+  "slug": "specie",
+  "fetchTerm": "specie",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Type or kind, in various uses of the phrase in specie.",
+          "examples": []
+        },
+        {
+          "text": "Money in the form of coins made from precious metal that has an intrinsic value; coinage.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "singular of species",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:04:47.387Z"
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "blame",
+  "slug": "blame",
+  "fetchTerm": "blame",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Censure.",
+          "examples": [
+            "Blame came from all directions."
+          ]
+        },
+        {
+          "text": "Culpability for something negative or undesirable.",
+          "examples": [
+            "The blame for starting the fire lies with the arsonist."
+          ]
+        },
+        {
+          "text": "Responsibility for something meriting censure.",
+          "examples": [
+            "They accepted the blame, but it was an accident."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assert or consider that someone is the cause of something negative; to place blame; to attribute responsibility (for something negative or for doing something negative).",
+          "examples": [
+            "The student driver was blamed for the accident.",
+            "After what happened at the wedding, I wouldn't blame you if you never spoke to them again."
+          ]
+        },
+        {
+          "text": "To assert the cause of some bad event.",
+          "examples": [
+            "We blamed the accident on the student driver."
+          ]
+        },
+        {
+          "text": "To censure (someone or something); to criticize.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "euphemism of damn (intensifier)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wina",
+    "winić",
+    "obwiniać",
+    "obwinić"
+  ],
+  "fetchedAt": "2026-05-17T22:01:35.371Z"
+}

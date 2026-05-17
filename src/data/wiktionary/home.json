@@ -1,0 +1,93 @@
+{
+  "lemma": "home",
+  "slug": "home",
+  "fetchTerm": "home",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A dwelling. One’s own dwelling place; the house or structure in which one lives; especially the house in which one lives with one's family; the habitual abode of one’s family. The place (residence, settlement, country, etc.), where a person was born or raised; childhood or parental home; home of one’s parents or guardian.",
+          "examples": [
+            "Does she still live at home? - No, she moved out and got an apartment when she was 18, but she still lives in the city.",
+            "It's what you bring into a house that makes it a home"
+          ]
+        },
+        {
+          "text": "One’s own dwelling place; the house or structure in which one lives; especially the house in which one lives with one's family; the habitual abode of one’s family.",
+          "examples": []
+        },
+        {
+          "text": "The place (residence, settlement, country, etc.), where a person was born or raised; childhood or parental home; home of one’s parents or guardian.",
+          "examples": [
+            "Does she still live at home? - No, she moved out and got an apartment when she was 18, but she still lives in the city."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To return to its owner.",
+          "examples": [
+            "The dog homed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, from, or pertaining to one’s dwelling or country; domestic; not foreign. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "home manufactures"
+          ]
+        },
+        {
+          "text": "That strikes home; direct, pointed.",
+          "examples": [
+            "a home truth"
+          ]
+        },
+        {
+          "text": "Personal, intimate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To one's home. To one's place of residence or one's customary or official location.",
+          "examples": [
+            "go home",
+            "come home"
+          ]
+        },
+        {
+          "text": "To one's place of residence or one's customary or official location.",
+          "examples": [
+            "go home",
+            "come home"
+          ]
+        },
+        {
+          "text": "To one's place of birth.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dom",
+    "ojczyzna",
+    "macierz",
+    "dom rodzinny",
+    "w domu"
+  ],
+  "fetchedAt": "2026-05-17T22:03:02.535Z"
+}

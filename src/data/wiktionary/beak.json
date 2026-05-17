@@ -1,0 +1,55 @@
+{
+  "lemma": "beak",
+  "slug": "beak",
+  "fetchTerm": "beak",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rigid structure projecting from the front of a bird's face, used for pecking, grooming, foraging, carrying items, eating food, etc.",
+          "examples": []
+        },
+        {
+          "text": "A rigid structure projecting from the front of a bird's face, used for pecking, grooming, foraging, carrying items, eating food, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To strike with the beak.",
+          "examples": []
+        },
+        {
+          "text": "To seize with the beak.",
+          "examples": []
+        },
+        {
+          "text": "To play truant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A justice of the peace; a magistrate.",
+          "examples": []
+        },
+        {
+          "text": "A schoolmaster (originally, at Eton).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziób"
+  ],
+  "fetchedAt": "2026-05-17T22:01:32.471Z"
+}

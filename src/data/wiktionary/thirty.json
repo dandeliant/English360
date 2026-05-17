@@ -1,0 +1,34 @@
+{
+  "lemma": "thirty",
+  "slug": "thirty",
+  "fetchTerm": "thirty",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after twenty-nine and before thirty-one, represented in Arabic numerals as 30.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rack of thirty beers.",
+          "examples": []
+        },
+        {
+          "text": "A commercial lasting 30 seconds.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trzydzieści"
+  ],
+  "fetchedAt": "2026-05-17T22:14:12.277Z"
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "tomorrow",
+  "slug": "tomorrow",
+  "fetchTerm": "tomorrow",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On the day after the present day.",
+          "examples": []
+        },
+        {
+          "text": "At some point in the future; later on",
+          "examples": [
+            "If you don’t get your life on track today, you’re going to be very sorry tomorrow."
+          ]
+        },
+        {
+          "text": "On next (period of time other than a day, such as a week or a month), following the present (period of time).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The day after the present day.",
+          "examples": [
+            "Tomorrow will be sunny."
+          ]
+        },
+        {
+          "text": "A future period or time.",
+          "examples": [
+            "Live for what tomorrow has to offer, not for what yesterday has taken away."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jutro"
+  ],
+  "fetchedAt": "2026-05-17T22:05:01.115Z"
+}

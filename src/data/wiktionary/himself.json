@@ -1,0 +1,31 @@
+{
+  "lemma": "himself",
+  "slug": "himself",
+  "fetchTerm": "himself",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Him; the male object of a verb or preposition that also appears as the subject",
+          "examples": [
+            "He injured himself."
+          ]
+        },
+        {
+          "text": "He; used as an intensifier, often to emphasize that the referent is the exclusive participant in the predicate",
+          "examples": [
+            "He was injured himself."
+          ]
+        },
+        {
+          "text": "The subject or non-reflexive object of a predicate; he himself.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:13:25.630Z"
+}

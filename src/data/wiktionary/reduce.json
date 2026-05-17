@@ -1,0 +1,37 @@
+{
+  "lemma": "reduce",
+  "slug": "reduce",
+  "fetchTerm": "reduce",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+          "examples": [
+            "to reduce weight, speed, heat, expenses, price, personnel etc."
+          ]
+        },
+        {
+          "text": "To lose weight.",
+          "examples": []
+        },
+        {
+          "text": "To bring to an inferior rank; to degrade, to demote.",
+          "examples": [
+            "to reduce a sergeant to the ranks"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zmniejszać",
+    "zmniejszyć",
+    "obniżać",
+    "obniżyć",
+    "stracić na wadzę"
+  ],
+  "fetchedAt": "2026-05-17T22:04:19.699Z"
+}

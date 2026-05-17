@@ -1,0 +1,40 @@
+{
+  "lemma": "warn",
+  "slug": "warn",
+  "fetchTerm": "warn",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (someone) aware of (something impending); especially: To make (someone) aware of impending danger, evil, etc. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "We waved a flag to warn the oncoming traffic about the accident.",
+            "I phoned to warn him of the road closure."
+          ]
+        },
+        {
+          "text": "To make (someone) aware of impending danger, evil, etc. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "We waved a flag to warn the oncoming traffic about the accident.",
+            "I phoned to warn him of the road closure."
+          ]
+        },
+        {
+          "text": "To notify or inform (someone, about something).",
+          "examples": [
+            "I warned him he'd be getting a huge box of birthday presents from me."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ostrzegać",
+    "ostrzec",
+    "uprzedzać",
+    "uprzedzić"
+  ],
+  "fetchedAt": "2026-05-17T22:05:18.500Z"
+}

@@ -1,0 +1,25 @@
+{
+  "lemma": "sunflower",
+  "slug": "sunflower",
+  "fetchTerm": "sunflower",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any plant of the genus Helianthus, so called probably from the form and color of its floral head, having the form of a large disk surrounded by yellow ray flowers. The commonly cultivated species, Helianthus annuus, a native of America.",
+          "examples": []
+        },
+        {
+          "text": "The commonly cultivated species, Helianthus annuus, a native of America.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "słonecznik"
+  ],
+  "fetchedAt": "2026-05-17T22:14:04.647Z"
+}

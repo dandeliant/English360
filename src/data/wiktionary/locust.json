@@ -1,0 +1,34 @@
+{
+  "lemma": "locust",
+  "slug": "locust",
+  "fetchTerm": "locust",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of the grasshoppers, often polyphenic and usually swarming, in the family Acrididae that are very destructive to crops and other vegetation, especially migratory locusts (Locusta migratoria). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A fruit or pod of a carob tree .",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To come in a swarm.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szarańcza"
+  ],
+  "fetchedAt": "2026-05-17T22:03:23.639Z"
+}

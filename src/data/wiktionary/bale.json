@@ -1,0 +1,76 @@
+{
+  "lemma": "bale",
+  "slug": "bale",
+  "fetchTerm": "bale",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Evil, especially considered as an active force for destruction or death.",
+          "examples": []
+        },
+        {
+          "text": "Suffering, woe, torment.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large fire, a conflagration or bonfire.",
+          "examples": []
+        },
+        {
+          "text": "A funeral pyre.",
+          "examples": []
+        },
+        {
+          "text": "A beacon-fire.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rounded bundle or package of goods in a cloth cover, and corded for storage or transportation.",
+          "examples": []
+        },
+        {
+          "text": "A bundle of compressed fibers (especially hay, straw, cotton, or wool), compacted for shipping and handling and bound by twine or wire.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To wrap into a bale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove water from a boat with buckets etc.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "balot",
+    "bela",
+    "balotować",
+    "belować"
+  ],
+  "fetchedAt": "2026-05-17T22:12:08.936Z"
+}

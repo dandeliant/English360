@@ -1,0 +1,87 @@
+{
+  "lemma": "much",
+  "slug": "much",
+  "fetchTerm": "much",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "A large amount of. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Do you think I have much chance of catching the train on time?",
+            "After much discussion, we decided to set about the task with much enthusiasm."
+          ]
+        },
+        {
+          "text": "Used to indicate, demonstrate or compare the quantity of something.",
+          "examples": [
+            "Add this much water and no more.",
+            "Take as much time as you like."
+          ]
+        },
+        {
+          "text": "A great number of; many (people).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Large, great.",
+          "examples": []
+        },
+        {
+          "text": "Long in duration.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To a great extent.",
+          "examples": [
+            "I don't like melon much, and I don’t much care for milk chocolate either: I find them both much too sweet.",
+            "However much I eat, I never get fat."
+          ]
+        },
+        {
+          "text": "for emphasis or to indicate a great difference",
+          "examples": [
+            "He is much fatter than I remember him.",
+            "Honestly, I can't stand much more of this."
+          ]
+        },
+        {
+          "text": "Often; frequently.",
+          "examples": [
+            "Does he get drunk much?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A large amount or great extent.",
+          "examples": [
+            "From those to whom much has been given much is expected.",
+            "We lay awake for much of the night."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dużo",
+    "wiele",
+    "bardzo"
+  ],
+  "fetchedAt": "2026-05-17T22:03:41.179Z"
+}

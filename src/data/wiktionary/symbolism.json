@@ -1,0 +1,30 @@
+{
+  "lemma": "symbolism",
+  "slug": "symbolism",
+  "fetchTerm": "symbolism",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Representation of a concept through symbols or underlying meanings of objects or qualities. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "An art movement originating in late 19th-century France and Belgium, seeking to represent absolute truths symbolically through language and metaphorical images, mainly as a reaction against naturalism and realism.",
+          "examples": []
+        },
+        {
+          "text": "A combining together of parts or ingredients.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "symbolizm",
+    "symbolika"
+  ],
+  "fetchedAt": "2026-05-17T22:14:08.272Z"
+}

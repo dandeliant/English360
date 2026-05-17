@@ -1,0 +1,51 @@
+{
+  "lemma": "chapter",
+  "slug": "chapter",
+  "fetchTerm": "chapter",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the main sections into which a published work is divided, especially a book.",
+          "examples": [
+            "Detective novel writers try to keep up the suspense until the last chapter."
+          ]
+        },
+        {
+          "text": "A section of a work, a collection of works, or fragments of works, often manuscripts or transcriptions, created by scholars or advocates, not the original authors, to aid in finding portions of the texts.",
+          "examples": []
+        },
+        {
+          "text": "Certain ecclesiastical bodies (under canon law) An assembly of monks, prebendaries and/or other clergymen connected with a cathedral, conventual or collegiate church, or of a diocese, usually presided over by the dean. A community of canons or canonesses. A bishop's council.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To divide into chapters.",
+          "examples": []
+        },
+        {
+          "text": "To put into a chapter.",
+          "examples": []
+        },
+        {
+          "text": "To use administrative procedure to remove someone.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rozdział",
+    "kapituła",
+    "dział",
+    "filia"
+  ],
+  "fetchedAt": "2026-05-17T22:01:47.597Z"
+}

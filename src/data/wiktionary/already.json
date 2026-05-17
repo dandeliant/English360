@@ -1,0 +1,37 @@
+{
+  "lemma": "already",
+  "slug": "already",
+  "fetchTerm": "already",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Prior to some specified time, either past, present, or future; by this time; previously.",
+          "examples": [
+            "I was surprised that she hadn’t already told me the news.",
+            "Much of what he said I knew already."
+          ]
+        },
+        {
+          "text": "So soon.",
+          "examples": [
+            "Are you quitting already?"
+          ]
+        },
+        {
+          "text": "An intensifier used to emphasize impatience or express exasperation.",
+          "examples": [
+            "I wish they'd finish already, so we can get going.",
+            "Enough already!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "już"
+  ],
+  "fetchedAt": "2026-05-17T22:01:18.347Z"
+}

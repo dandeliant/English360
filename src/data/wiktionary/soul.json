@@ -1,0 +1,66 @@
+{
+  "lemma": "soul",
+  "slug": "soul",
+  "fetchTerm": "soul",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The spirit or essence of a person usually thought to consist of one's thoughts and personality, often believed to live on after the person's death.",
+          "examples": []
+        },
+        {
+          "text": "The spirit or essence of anything.",
+          "examples": []
+        },
+        {
+          "text": "Life, energy, vigor.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Characteristic of or pertaining to African American culture.",
+          "examples": [
+            "soul music",
+            "soul food"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To endow with a soul or mind.",
+          "examples": []
+        },
+        {
+          "text": "To beg on All Soul's Day.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To feed or nourish.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dusza",
+    "życie",
+    "soul",
+    "osoba"
+  ],
+  "fetchedAt": "2026-05-17T22:04:42.977Z"
+}

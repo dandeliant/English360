@@ -1,0 +1,44 @@
+{
+  "lemma": "fixture",
+  "slug": "fixture",
+  "fetchTerm": "fixture",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is fixed in place, especially a permanent appliance or other item of personal property that is considered part of a house and is sold with it; compare fitting, furnishing.",
+          "examples": [
+            "The residence was sold with fixtures and fittings."
+          ]
+        },
+        {
+          "text": "A regular patron of a place or institution; a person constantly present at a certain place.",
+          "examples": []
+        },
+        {
+          "text": "A lighting unit; a luminaire.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To furnish with, as, or in a fixture.",
+          "examples": [
+            "The device is available in both handheld and fixtured models."
+          ]
+        },
+        {
+          "text": "To schedule (a match).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:02:35.312Z"
+}

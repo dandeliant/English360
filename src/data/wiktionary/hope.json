@@ -1,0 +1,84 @@
+{
+  "lemma": "hope",
+  "slug": "hope",
+  "fetchTerm": "hope",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To want (something) to happen, with a sense of expectation that it might .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with that (+ clause); or with clause; or with so or not].",
+          "examples": [
+            "They are hoping it does not rain, but I expect it will.",
+            "He's still hoping that everything will turn out fine."
+          ]
+        },
+        {
+          "text": "To intend to do something and look forward to the prospect of having done it [with to (+ infinitive)].",
+          "examples": [
+            "I hope to succeed.",
+            "I hope to be going back again soon."
+          ]
+        },
+        {
+          "text": "To expect optimistically that one might get something [with for].",
+          "examples": [
+            "They're hoping for the best, but I don't think it's looking very good.",
+            "I'm hoping for my boss to offer me a pay raise."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The feeling of trust, confidence, belief or expectation that something wished for can or will happen.",
+          "examples": [
+            "All hopes for a truce are gone after the latest attack.",
+            "After losing my job, there's frail hope of affording my world cruise."
+          ]
+        },
+        {
+          "text": "The actual thing wished for.",
+          "examples": []
+        },
+        {
+          "text": "A person or thing that is a source of hope.",
+          "examples": [
+            "We still have one hope left: my roommate might see the note I left on the table."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "(Should we move, merge or split this sense?) A hollow; a valley, especially the upper end of a narrow mountain valley when it is nearly encircled by smooth, green slopes; a combe.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "(Should we move, merge or split this sense?) A sloping plain between mountain ridges.",
+          "examples": []
+        },
+        {
+          "text": "A small bay; an inlet; a haven.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "mieć nadzieję",
+    "spodziewać się",
+    "nadzieja"
+  ],
+  "fetchedAt": "2026-05-17T22:13:28.564Z"
+}

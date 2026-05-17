@@ -1,0 +1,95 @@
+{
+  "lemma": "frog",
+  "slug": "frog",
+  "fetchTerm": "frog",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of a class of small tailless amphibians of the order Anura that typically hop.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hunt or trap frogs.",
+          "examples": []
+        },
+        {
+          "text": "To use a pronged plater to transfer (cells) to another plate.",
+          "examples": []
+        },
+        {
+          "text": "To spatchcock (a chicken).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A French person.",
+          "examples": []
+        },
+        {
+          "text": "A French-speaking person from Quebec.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A leather or fabric loop used to attach a sword or bayonet, or its scabbard, to a waist or shoulder belt.",
+          "examples": []
+        },
+        {
+          "text": "An ornate fastener for clothing consisting of an oblong button, toggle, or knot, that fits through a loop.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ornament or fasten a coat, etc. with frogs.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To unravel part of (a knitted garment), either to correct a mistake or to reclaim the thread or yarn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have sex with; fuck.",
+          "examples": [
+            "If you see a necktie hanging on the door, don't knock. I'll be in there frogging someone."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żaba",
+    "strzałka",
+    "żabojad"
+  ],
+  "fetchedAt": "2026-05-17T22:02:42.557Z"
+}

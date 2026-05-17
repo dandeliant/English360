@@ -1,0 +1,65 @@
+{
+  "lemma": "reserve",
+  "slug": "reserve",
+  "fetchTerm": "reserve",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A restriction. The act of reserving or keeping back; reservation; exception.",
+          "examples": [
+            "The book is on reserve.",
+            "I accept your view with one reserve."
+          ]
+        },
+        {
+          "text": "The act of reserving or keeping back; reservation; exception.",
+          "examples": [
+            "The book is on reserve.",
+            "I accept your view with one reserve."
+          ]
+        },
+        {
+          "text": "Restraint of freedom in words or actions; backwardness; caution in personal behavior.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To keep back; to retain.",
+          "examples": [
+            "We reserve the right to make modifications.",
+            "I will reserve judgment until I have actually read his book."
+          ]
+        },
+        {
+          "text": "To keep in store for future or special use.",
+          "examples": [
+            "This cake is reserved for the guests!",
+            "Please reserve me a parking space if you can."
+          ]
+        },
+        {
+          "text": "To keep in store for future or special use.",
+          "examples": [
+            "This cake is reserved for the guests!",
+            "Please reserve me a parking space if you can."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rezerwacja",
+    "zastrzeżenie",
+    "rezerwa",
+    "zapas",
+    "zapasy"
+  ],
+  "fetchedAt": "2026-05-17T22:04:21.193Z"
+}

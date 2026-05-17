@@ -1,0 +1,48 @@
+{
+  "lemma": "ferry",
+  "slug": "ferry",
+  "fetchTerm": "ferry",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To carry; transport; convey.",
+          "examples": [
+            "Trucks plowed through the water to ferry flood victims to safety."
+          ]
+        },
+        {
+          "text": "To move someone or something from one place to another, usually repeatedly.",
+          "examples": [
+            "Being a good waiter takes more than the ability to ferry plates of food around a restaurant."
+          ]
+        },
+        {
+          "text": "To carry or transport over a contracted body of water, as a river or strait, in a boat or other floating conveyance plying between opposite shores.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A boat or ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule.",
+          "examples": [
+            "Islanders normally have to queue for half an hour to get on the ferry."
+          ]
+        },
+        {
+          "text": "A place where passengers are transported across water in such a ship.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prom"
+  ],
+  "fetchedAt": "2026-05-17T22:02:32.715Z"
+}

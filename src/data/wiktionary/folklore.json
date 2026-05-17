@@ -1,0 +1,30 @@
+{
+  "lemma": "folklore",
+  "slug": "folklore",
+  "fetchTerm": "folklore",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The tales, legends, superstitions, and traditions of a particular ethnic population.",
+          "examples": []
+        },
+        {
+          "text": "The tales, superstitions etc. of any particular group or community.",
+          "examples": []
+        },
+        {
+          "text": "The collective of proofs or techniques which are widely known among mathematicians, but have never been formally published.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "folklor",
+    "tradycja ludowa"
+  ],
+  "fetchedAt": "2026-05-17T22:02:36.649Z"
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "your",
+  "slug": "your",
+  "fetchTerm": "your",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Belonging to you; of you; related to you (singular; one owner).",
+          "examples": [
+            "Let’s meet tomorrow at your convenience.",
+            "Is this your cat?"
+          ]
+        },
+        {
+          "text": "Belonging to you; of you; related to you (plural; more owners).",
+          "examples": []
+        },
+        {
+          "text": "A determiner that conveys familiarity and mutual knowledge of the modified noun.",
+          "examples": [
+            "Not your average Tom, Dick and Harry.",
+            "Your Show of Shows"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Contraction",
+      "definitions": [
+        {
+          "text": "Misspelling of you're.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "twój",
+    "pana",
+    "pański",
+    "pani",
+    "wasz"
+  ],
+  "fetchedAt": "2026-05-17T22:05:31.740Z"
+}

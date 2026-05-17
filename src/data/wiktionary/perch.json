@@ -1,0 +1,69 @@
+{
+  "lemma": "perch",
+  "slug": "perch",
+  "fetchTerm": "perch",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of the three species of spiny-finned freshwater fish in the genus Perca.",
+          "examples": []
+        },
+        {
+          "text": "Any of the about 200 related species of fish in the taxonomic family Percidae, especially: Acanthopagrus berda Distichodus engycephalus, Distichodus rostratus Johnius belangerii, Macquaria ambigua, Macquaria colonorum, Macquaria novemaculeata, Nemadactylus macropterus Kyphosus azureus Lateolabrax japonicus, Tautogolabrus adspersus",
+          "examples": []
+        },
+        {
+          "text": "Acanthopagrus berda",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rod, staff, tree branch, ledge, etc., used as a roost by a bird.",
+          "examples": []
+        },
+        {
+          "text": "A pole connecting the fore gear and hind gear of a spring carriage; a reach.",
+          "examples": []
+        },
+        {
+          "text": "A position that is secure and advantageous, especially one which is prominent or elevated.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rest on a perch (especially, of a bird); to roost.",
+          "examples": [
+            "The macaw perched on Jim's shoulder."
+          ]
+        },
+        {
+          "text": "To sit upon the edge of something.",
+          "examples": []
+        },
+        {
+          "text": "To stay in an elevated position.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "okoń",
+    "grzęda",
+    "żerdź",
+    "przysiadać",
+    "przysiąść"
+  ],
+  "fetchedAt": "2026-05-17T22:04:04.591Z"
+}

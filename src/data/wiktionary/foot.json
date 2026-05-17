@@ -1,0 +1,56 @@
+{
+  "lemma": "foot",
+  "slug": "foot",
+  "fetchTerm": "foot",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.",
+          "examples": [
+            "A spider has eight feet."
+          ]
+        },
+        {
+          "text": "Specifically, a human foot, which is found below the ankle and is used for standing and walking.",
+          "examples": [
+            "Southern Italy is shaped like a foot."
+          ]
+        },
+        {
+          "text": "Travel by walking.",
+          "examples": [
+            "We went there by foot because we could not afford a taxi.",
+            "There is a lot of foot traffic on this street."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To use the foot to kick (usually a ball).",
+          "examples": []
+        },
+        {
+          "text": "To pay (a bill).",
+          "examples": []
+        },
+        {
+          "text": "To tread to measure of music; to dance; to trip; to skip.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stopa",
+    "łapa",
+    "lik dolny",
+    "bulić"
+  ],
+  "fetchedAt": "2026-05-17T22:13:01.243Z"
+}

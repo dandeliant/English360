@@ -1,0 +1,58 @@
+{
+  "lemma": "hunt",
+  "slug": "hunt",
+  "fetchTerm": "hunt",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To find or search for an animal in the wild with the intention of killing the animal for its meat or for sport.",
+          "examples": [
+            "State Wildlife Management areas often offer licensed hunters the opportunity to hunt on public lands.",
+            "Her uncle will go out and hunt for deer, now that it is open season."
+          ]
+        },
+        {
+          "text": "To try to find something; search (for).",
+          "examples": [
+            "The little girl was hunting for shells on the beach.",
+            "The police are hunting for evidence."
+          ]
+        },
+        {
+          "text": "To drive; to chase; with down, from, away, etc.",
+          "examples": [
+            "to hunt down a criminal",
+            "He was hunted from the parish."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of hunting.",
+          "examples": []
+        },
+        {
+          "text": "A hunting expedition.",
+          "examples": []
+        },
+        {
+          "text": "An organization devoted to hunting, or the people belonging to it.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "polować",
+    "polowanie",
+    "myślistwo",
+    "łów"
+  ],
+  "fetchedAt": "2026-05-17T22:03:05.693Z"
+}

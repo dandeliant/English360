@@ -1,0 +1,35 @@
+{
+  "lemma": "briefly",
+  "slug": "briefly",
+  "fetchTerm": "briefly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a brief manner, summarily.",
+          "examples": [
+            "He covered the subject briefly in his book."
+          ]
+        },
+        {
+          "text": "For a brief period.",
+          "examples": [
+            "He only worked here briefly."
+          ]
+        },
+        {
+          "text": "To be brief, in short.",
+          "examples": [
+            "Briefly, I am not happy about what happened, but no one will be losing their job."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pokrótce"
+  ],
+  "fetchedAt": "2026-05-17T22:12:15.501Z"
+}

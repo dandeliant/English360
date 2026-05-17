@@ -1,0 +1,39 @@
+{
+  "lemma": "migrant",
+  "slug": "migrant",
+  "fetchTerm": "migrant",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A migratory animal, in particular a migratory bird.",
+          "examples": []
+        },
+        {
+          "text": "Traveller or worker who moves from one region or country to another.",
+          "examples": []
+        },
+        {
+          "text": "A person who leaves one place in order to permanently settle in another.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Migratory.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "migrant",
+    "migrantka"
+  ],
+  "fetchedAt": "2026-05-17T22:03:36.451Z"
+}

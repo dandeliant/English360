@@ -1,0 +1,32 @@
+{
+  "lemma": "possibility",
+  "slug": "possibility",
+  "fetchTerm": "possibility",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The quality of being possible.",
+          "examples": [
+            "'There is little possibility of that happening' 'I'd say there's rather a strongish possibility that it won't.'"
+          ]
+        },
+        {
+          "text": "A thing possible; that which may take place or come into being.",
+          "examples": []
+        },
+        {
+          "text": "An option or choice, usually used in context with future events.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "możliwość",
+    "możność"
+  ],
+  "fetchedAt": "2026-05-17T22:13:51.214Z"
+}

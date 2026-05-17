@@ -1,0 +1,60 @@
+{
+  "lemma": "signal",
+  "slug": "signal",
+  "fetchTerm": "signal",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sequence of states representing an encoded message in a communication channel.",
+          "examples": []
+        },
+        {
+          "text": "Any variation of a quantity or change in an entity over time that conveys information upon detection.",
+          "examples": []
+        },
+        {
+          "text": "A sign made to give notice of some occurrence, command, or danger, or to indicate the start of a concerted action.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To indicate; to convey or communicate by a signal.",
+          "examples": [
+            "I signalled my acquiescence with a nod.",
+            "He whistled to signal that we should stop."
+          ]
+        },
+        {
+          "text": "To communicate with (a person or system) by a signal.",
+          "examples": [
+            "Seeing the flames, he ran to the control room and signalled headquarters."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Standing above others in rank, importance, or achievement.",
+          "examples": [
+            "a signal exploit; a signal success; a signal act of benevolence"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sygnał",
+    "sygnalizować",
+    "zasygnalizować"
+  ],
+  "fetchedAt": "2026-05-17T22:04:36.663Z"
+}

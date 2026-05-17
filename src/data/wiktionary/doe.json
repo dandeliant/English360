@@ -1,0 +1,60 @@
+{
+  "lemma": "doe",
+  "slug": "doe",
+  "fetchTerm": "doe",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Doe.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A female deer; also used of similar animals such as antelope (less commonly a goat, as nanny is also used).",
+          "examples": []
+        },
+        {
+          "text": "A female fallow deer.",
+          "examples": []
+        },
+        {
+          "text": "A female rabbit or hare.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of do.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "though",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "łania",
+    "samica daniel",
+    "sarna",
+    "królica",
+    "zajęczyca"
+  ],
+  "fetchedAt": "2026-05-17T22:02:15.232Z"
+}

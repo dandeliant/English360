@@ -1,0 +1,53 @@
+{
+  "lemma": "him",
+  "slug": "him",
+  "fetchTerm": "him",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-5 language code for Himachali languages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A masculine pronoun; he as a grammatical object. With dative effect or as an indirect object. .mw-parser-output .defdate{font-size:smaller} Following a preposition. With accusative effect or as a direct object.",
+          "examples": []
+        },
+        {
+          "text": "With dative effect or as an indirect object. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Following a preposition.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A male person or animal.",
+          "examples": [
+            "I think this bird is a him, but it may be a her."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jemu",
+    "mu",
+    "niego",
+    "niemu",
+    "nim"
+  ],
+  "fetchedAt": "2026-05-17T22:13:24.281Z"
+}

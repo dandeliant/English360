@@ -1,0 +1,50 @@
+{
+  "lemma": "previous",
+  "slug": "previous",
+  "fetchTerm": "previous",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Prior; occurring before something else, either in time or order.",
+          "examples": [
+            "He is no better than the previous Prime Minister."
+          ]
+        },
+        {
+          "text": "Premature; acting or occurring too soon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An existing criminal record (short for \"previous convictions\")",
+          "examples": [
+            "It turned out the shoplifter had a lot of previous."
+          ]
+        },
+        {
+          "text": "A track record of similar behaviour, especially bad behaviour.",
+          "examples": []
+        },
+        {
+          "text": "A record of previous hostility or conflict (between people).",
+          "examples": [
+            "The two players refused to shake hands — there's a bit of previous there."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poprzedni",
+    "ubiegły",
+    "przedwczesny"
+  ],
+  "fetchedAt": "2026-05-17T22:04:09.641Z"
+}

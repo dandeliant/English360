@@ -1,0 +1,54 @@
+{
+  "lemma": "project",
+  "slug": "project",
+  "fetchTerm": "project",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+          "examples": []
+        },
+        {
+          "text": "An urban, low-income housing building.",
+          "examples": [
+            "Projects like Pruitt-Igoe were considered irreparably dangerous and demolished."
+          ]
+        },
+        {
+          "text": "An idle scheme; an impracticable design.",
+          "examples": [
+            "a man given to projects"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To extend beyond a surface.",
+          "examples": []
+        },
+        {
+          "text": "To cast (an image or shadow) upon a surface; to throw or cast forward; to shoot forth.",
+          "examples": []
+        },
+        {
+          "text": "To extend (a protrusion or appendage) outward.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "projekt",
+    "plan",
+    "wystawać",
+    "rzucać",
+    "rzucić"
+  ],
+  "fetchedAt": "2026-05-17T22:04:12.582Z"
+}

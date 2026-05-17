@@ -1,0 +1,27 @@
+{
+  "lemma": "africa",
+  "slug": "africa",
+  "fetchTerm": "Africa",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The continent that is south of Europe, east of the Atlantic Ocean, west of the Indian Ocean and north of Antarctica.",
+          "examples": [
+            "the Maghreb and sub-Saharan Africa"
+          ]
+        },
+        {
+          "text": "Sub-Saharan Africa, contrasted with the Maghreb.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Afryka"
+  ],
+  "fetchedAt": "2026-05-17T22:01:13.623Z"
+}

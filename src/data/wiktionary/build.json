@@ -1,0 +1,50 @@
+{
+  "lemma": "build",
+  "slug": "build",
+  "fetchTerm": "build",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To form (something) by combining materials or parts.",
+          "examples": []
+        },
+        {
+          "text": "To develop or give form to (something) according to a plan or process.",
+          "examples": []
+        },
+        {
+          "text": "To increase or strengthen (something) by adding gradually to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The physique of a human or animal body, or other object; constitution or structure.",
+          "examples": [
+            "Rugby players are of sturdy build."
+          ]
+        },
+        {
+          "text": "Any of various versions of a software product as it is being developed for release to users.",
+          "examples": [
+            "The computer company has introduced a new prototype build to beta testers."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "budować",
+    "zbudować",
+    "wybudować",
+    "stawiać",
+    "postawić"
+  ],
+  "fetchedAt": "2026-05-17T22:01:44.740Z"
+}

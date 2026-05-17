@@ -1,0 +1,30 @@
+{
+  "lemma": "wooden",
+  "slug": "wooden",
+  "fetchTerm": "wooden",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Made of wood.",
+          "examples": [
+            "a wooden boat",
+            "On a recent windy day, hundreds of visitors climbed wooden stairs to take pictures in front of the glacier."
+          ]
+        },
+        {
+          "text": "As if made of wood; moving awkwardly, or speaking with dull lack of emotion.",
+          "examples": [
+            "wooden acting"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "drewniany"
+  ],
+  "fetchedAt": "2026-05-17T22:05:27.903Z"
+}

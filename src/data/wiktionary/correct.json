@@ -1,0 +1,85 @@
+{
+  "lemma": "correct",
+  "slug": "correct",
+  "fetchTerm": "correct",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Free from error; true; accurate.",
+          "examples": [
+            "Your test was completely correct, you get 10 out of 10",
+            "We all agreed they'd made the correct decision."
+          ]
+        },
+        {
+          "text": "With good manners; well behaved; conforming with accepted standards of behaviour.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Correctly.",
+          "examples": [
+            "Hope I spelt your name correct."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to indicate acknowledgement or acceptance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A correct response.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make something that was wrong become right; to remove error from.",
+          "examples": [
+            "You'll need to correct your posture if you're going to be a professional dancer.",
+            "The navigator corrected the course of the ship."
+          ]
+        },
+        {
+          "text": "To grade (examination papers).",
+          "examples": [
+            "The teacher stayed up all night correcting exams."
+          ]
+        },
+        {
+          "text": "To inform (someone) of their error.",
+          "examples": [
+            "It's rude to correct your parents."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prawidłowy",
+    "właściwy",
+    "poprawny",
+    "poprawiać",
+    "poprawić"
+  ],
+  "fetchedAt": "2026-05-17T22:12:33.692Z"
+}

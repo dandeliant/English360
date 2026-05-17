@@ -1,0 +1,83 @@
+{
+  "lemma": "mud",
+  "slug": "mud",
+  "fetchTerm": "mud",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Mednyj Aleut.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A mixture of water and soil or fine grained sediment.",
+          "examples": []
+        },
+        {
+          "text": "A plaster-like mixture used to texture or smooth drywall.",
+          "examples": []
+        },
+        {
+          "text": "Wet concrete as it is being mixed, delivered and poured.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make muddy or dirty; to apply mud to (something).",
+          "examples": []
+        },
+        {
+          "text": "To make turbid.",
+          "examples": []
+        },
+        {
+          "text": "To go under the mud, as an eel does.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A traditional Dutch unit of dry measure of variable size, frequently about 3 bushels.",
+          "examples": []
+        },
+        {
+          "text": "A traditional Dutch unit of land area, vaguely reckoned as the amount of land required to sow a mud of seed.",
+          "examples": []
+        },
+        {
+          "text": "A kind of box traditionally used in the Netherlands for measuring muds.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To participate in a MUD or multi-user dungeon.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "błoto",
+    "bagno",
+    "błocić"
+  ],
+  "fetchedAt": "2026-05-17T22:03:42.692Z"
+}

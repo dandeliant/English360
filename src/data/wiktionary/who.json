@@ -1,0 +1,59 @@
+{
+  "lemma": "who",
+  "slug": "who",
+  "fetchTerm": "who",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "What person or people; which person or people; asks for the identity of someone; used in a direct or indirect question.",
+          "examples": [
+            "You're getting married‽ Who to? (direct question)",
+            "I don't know who it is. (indirect question)"
+          ]
+        },
+        {
+          "text": "Introduces a relative clause having a human antecedent. With antecedent as subject.",
+          "examples": [
+            "That's the man who works at the newsagent. (defining)",
+            "My sister, who works in the accounts department, just got promoted to manager. (non-defining)"
+          ]
+        },
+        {
+          "text": "With antecedent as subject.",
+          "examples": [
+            "That's the man who works at the newsagent. (defining)",
+            "My sister, who works in the accounts department, just got promoted to manager. (non-defining)"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person under discussion; a question of which person.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "whose",
+          "examples": [
+            "Who phone just rang?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kto",
+    "który"
+  ],
+  "fetchedAt": "2026-05-17T22:14:27.644Z"
+}

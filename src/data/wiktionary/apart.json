@@ -1,0 +1,52 @@
+{
+  "lemma": "apart",
+  "slug": "apart",
+  "fetchTerm": "apart",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Placed separately (in regard to space or time).",
+          "examples": []
+        },
+        {
+          "text": "Separately, exclusively, not together.",
+          "examples": [
+            "Consider the two propositions apart."
+          ]
+        },
+        {
+          "text": "In or into two or more parts.",
+          "examples": [
+            "We took the computer apart and put it back together."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Exceptional, distinct.",
+          "examples": [
+            "In aristocracies, servants are a class apart."
+          ]
+        },
+        {
+          "text": "Having been taken apart; disassembled, in pieces.",
+          "examples": []
+        },
+        {
+          "text": "Separate, on the side.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "osobno"
+  ],
+  "fetchedAt": "2026-05-17T22:01:23.084Z"
+}

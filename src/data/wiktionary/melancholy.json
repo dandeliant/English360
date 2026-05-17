@@ -1,0 +1,40 @@
+{
+  "lemma": "melancholy",
+  "slug": "melancholy",
+  "fetchTerm": "melancholy",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Black bile, formerly thought to be one of the four \"cardinal humours\" of animal bodies.",
+          "examples": []
+        },
+        {
+          "text": "Great sadness or depression, especially of a thoughtful or introspective nature.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Affected with great sadness or depression.",
+          "examples": [
+            "Melancholy people don't talk much."
+          ]
+        },
+        {
+          "text": "Suggestive of wistfulness or subdued emotion.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "melancholia"
+  ],
+  "fetchedAt": "2026-05-17T22:03:29.824Z"
+}

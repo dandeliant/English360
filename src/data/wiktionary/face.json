@@ -1,0 +1,66 @@
+{
+  "lemma": "face",
+  "slug": "face",
+  "fetchTerm": "face",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The front part of the head of a human or other animal, featuring the eyes, nose, and mouth, and the surrounding area.",
+          "examples": [
+            "That girl has a pretty face.",
+            "The monkey pressed its face against the railings."
+          ]
+        },
+        {
+          "text": "One's facial expression.",
+          "examples": [
+            "Why the sad face?",
+            "Children! Stop making faces at each other!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To position oneself or itself so as to have one's face closest to (something).",
+          "examples": [
+            "Face the sun."
+          ]
+        },
+        {
+          "text": "To have its front closest to, or in the direction of (something else).",
+          "examples": [
+            "Turn the chair so it faces the table."
+          ]
+        },
+        {
+          "text": "To cause (something) to turn or present a face or front, as in a particular direction.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Intensely.",
+          "examples": [
+            "He's tripping face.",
+            "She must be rolling face."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obrócić się (w stronę/do czegoś)",
+    "stawiać czoła",
+    "stawić czoła"
+  ],
+  "fetchedAt": "2026-05-17T22:12:56.394Z"
+}

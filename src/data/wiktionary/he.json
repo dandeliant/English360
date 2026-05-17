@@ -1,0 +1,90 @@
+{
+  "lemma": "he",
+  "slug": "he",
+  "fetchTerm": "he",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Hebrew.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A person who identifies as male, or animal already known or implied.",
+          "examples": [
+            "That friend of your cousin's, he's on the phone."
+          ]
+        },
+        {
+          "text": "They; he or she (a person whose gender is unknown or irrelevant).",
+          "examples": [
+            "The rulebook clearly states that \"if any student is caught cheating, he will be expelled\", and you were caught cheating, were you not, Anna?"
+          ]
+        },
+        {
+          "text": "It; an animal whose gender is unknown.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Synonym of his.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The game of tag, or it, in which the player attempting to catch the others is called \"he\".",
+          "examples": []
+        },
+        {
+          "text": "The player who chases and attempts to catch the others in this game.",
+          "examples": []
+        },
+        {
+          "text": "A male.",
+          "examples": [
+            "Is your cat a he or a she?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The name of the fifth letter of many Semitic alphabets (Phoenician, Aramaic, Hebrew, Syriac, Arabic and others).",
+          "examples": []
+        },
+        {
+          "text": "The name of the first letter of the Old South Arabian abjad.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An expression of laughter.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:13:22.744Z"
+}

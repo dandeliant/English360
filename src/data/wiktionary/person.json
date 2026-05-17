@@ -1,0 +1,49 @@
+{
+  "lemma": "person",
+  "slug": "person",
+  "fetchTerm": "person",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An individual who has been granted personhood; usually a human being. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Each person is unique, both mentally and physically.",
+            "Jack's always been a dog person, but I prefer cats."
+          ]
+        },
+        {
+          "text": "A character or part, as in a play; a specific kind or manifestation of individual character, whether in real life, or in literary or dramatic representation; an assumed character.",
+          "examples": []
+        },
+        {
+          "text": "Any one of the three hypostases of the Holy Trinity: the Father, Son, or Holy Spirit.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent as a person; to personify; to impersonate.",
+          "examples": []
+        },
+        {
+          "text": "To man, to supply with staff or crew.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "osoba",
+    "persona",
+    "człowiek",
+    "istota ludzka",
+    "indywidualność"
+  ],
+  "fetchedAt": "2026-05-17T22:13:45.071Z"
+}

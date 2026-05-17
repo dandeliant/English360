@@ -1,0 +1,45 @@
+{
+  "lemma": "grief",
+  "slug": "grief",
+  "fetchTerm": "grief",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Suffering, hardship. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The neighbour's teenagers give me grief every time they see me."
+          ]
+        },
+        {
+          "text": "Emotional pain, generally arising from misfortune, significant personal loss, bereavement, misconduct of oneself or others, etc.; sorrow; sadness.",
+          "examples": [
+            "She was worn out from so much grief.",
+            "The betrayal caused Jeff grief."
+          ]
+        },
+        {
+          "text": "A cause or instance of sorrow or pain; that which afflicts or distresses; a trial.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To deliberately harass and annoy or cause grief to other players of a game in order to interfere with their enjoyment of it; especially, to do this as one’s primary activity in the game, and especially by exploiting game mechanics without using cheats to do so, often through acts of destruction or vandalism.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żal",
+    "smutek",
+    "zmartwienie"
+  ],
+  "fetchedAt": "2026-05-17T22:02:53.515Z"
+}

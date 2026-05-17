@@ -1,0 +1,45 @@
+{
+  "lemma": "different",
+  "slug": "different",
+  "fetchTerm": "different",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not the same; exhibiting a difference.",
+          "examples": [
+            "— Is your grandpa any better?— No different. Still ill."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The different ideal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Differently.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "różny",
+    "inny",
+    "odmienny",
+    "niezwykły",
+    "rozmaity"
+  ],
+  "fetchedAt": "2026-05-17T22:12:46.770Z"
+}

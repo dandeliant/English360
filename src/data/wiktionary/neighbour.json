@@ -1,0 +1,56 @@
+{
+  "lemma": "neighbour",
+  "slug": "neighbour",
+  "fetchTerm": "neighbour",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position.",
+          "examples": [
+            "My neighbour has two noisy cats.",
+            "They′re our neighbours across the street."
+          ]
+        },
+        {
+          "text": "One who is near in sympathy or confidence.",
+          "examples": []
+        },
+        {
+          "text": "A fellow human being.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be adjacent to",
+          "examples": [
+            "Though France neighbours Germany, its culture is significantly different."
+          ]
+        },
+        {
+          "text": "To be similar to, to be almost the same as.",
+          "examples": [
+            "That sort of talk is neighbouring on treason."
+          ]
+        },
+        {
+          "text": "To associate intimately with; to be close to.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sąsiad",
+    "sąsiadka",
+    "bliźni",
+    "sąsiadować"
+  ],
+  "fetchedAt": "2026-05-17T22:03:44.193Z"
+}

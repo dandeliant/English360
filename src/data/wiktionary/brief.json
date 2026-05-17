@@ -1,0 +1,77 @@
+{
+  "lemma": "brief",
+  "slug": "brief",
+  "fetchTerm": "brief",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of short duration; happening quickly. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Her reign was brief but spectacular."
+          ]
+        },
+        {
+          "text": "Concise; taking few words.",
+          "examples": [
+            "His speech of acceptance was brief but moving."
+          ]
+        },
+        {
+          "text": "Occupying a small distance, area or spatial extent; short.",
+          "examples": [
+            "Her skirt was extremely brief but doubtless cool."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A writ summoning one to answer; an official letter or mandate. A short papal letter.",
+          "examples": []
+        },
+        {
+          "text": "A short papal letter.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To summarize a recent development to some person with decision-making power.",
+          "examples": [
+            "The U.S. president was briefed on the military coup and its implications on African stability."
+          ]
+        },
+        {
+          "text": "To write a legal argument and submit it to a court.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Briefly.",
+          "examples": []
+        },
+        {
+          "text": "Soon; quickly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "krótki",
+    "zwięzły"
+  ],
+  "fetchedAt": "2026-05-17T22:12:13.865Z"
+}

@@ -1,0 +1,68 @@
+{
+  "lemma": "raise",
+  "slug": "raise",
+  "fetchTerm": "raise",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to rise; to lift or elevate.",
+          "examples": [
+            "to raise your hand if you want to say something; to raise your walking stick to defend yourself",
+            "the flag was raised"
+          ]
+        },
+        {
+          "text": "To form by the accumulation of materials or constituent parts; to build up; to erect.",
+          "examples": [
+            "to raise a wall, or a heap of stones"
+          ]
+        },
+        {
+          "text": "To cause something to come to the surface of water.",
+          "examples": [
+            "The ship was raised ten years after it had sunk."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ellipsis of pay raise (“an increase in wages or salary”).",
+          "examples": [
+            "The boss gave me a raise."
+          ]
+        },
+        {
+          "text": "A shot in which the delivered stone bumps another stone forward.",
+          "examples": []
+        },
+        {
+          "text": "A bet that increases the previous bet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A cairn or pile of stones.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podnosić",
+    "podnieść",
+    "zebrać",
+    "uzyskać",
+    "wychowywać"
+  ],
+  "fetchedAt": "2026-05-17T22:13:54.094Z"
+}

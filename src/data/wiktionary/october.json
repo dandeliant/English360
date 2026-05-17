@@ -1,0 +1,43 @@
+{
+  "lemma": "october",
+  "slug": "october",
+  "fetchTerm": "October",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The tenth month of the Gregorian calendar, following September and preceding November.",
+          "examples": []
+        },
+        {
+          "text": "A female given name transferred from the month name.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A type of ale traditionally brewed in October. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "In the early Soviet Union, to give a child a name tinged with Soviet revolutionary thought, as opposed to religious christening.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "październik"
+  ],
+  "fetchedAt": "2026-05-17T22:03:53.341Z"
+}

@@ -1,0 +1,96 @@
+{
+  "lemma": "lean",
+  "slug": "lean",
+  "fetchTerm": "lean",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To incline, deviate, or bend, from a vertical position; to be in a position thus inclining or deviating.",
+          "examples": [
+            "a leaning column",
+            "She leaned out of the window."
+          ]
+        },
+        {
+          "text": "To incline in opinion or desire; to conform in conduct; often with to, toward, etc.",
+          "examples": [
+            "I’m leaning towards voting Conservative in the next election.",
+            "The Hispanic vote leans Democratic."
+          ]
+        },
+        {
+          "text": "To rest or rely, for support, comfort, to use as a hard surface for writing, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An inclination away from the vertical.",
+          "examples": [
+            "The trees had various leans toward gaps in the canopy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Slim; not fleshy.",
+          "examples": []
+        },
+        {
+          "text": "Having little fat.",
+          "examples": [
+            "lean steak cuts"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Meat with no fat on it.",
+          "examples": []
+        },
+        {
+          "text": "An organism that is lean in stature.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To thin out (a fuel-air mixture): to reduce the fuel flow into the mixture so that there is more air or oxygen.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A recreational drug composed of codeine-promethazine cough syrup mixed with usually soda and associated with the hip-hop culture of the Southern United States.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pochylać się",
+    "pochylić się",
+    "nachylać się",
+    "nachylić się",
+    "skłaniać się"
+  ],
+  "fetchedAt": "2026-05-17T22:03:17.399Z"
+}

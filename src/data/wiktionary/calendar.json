@@ -1,0 +1,50 @@
+{
+  "lemma": "calendar",
+  "slug": "calendar",
+  "fetchTerm": "calendar",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any system by which time is divided into days, weeks, months, and years.",
+          "examples": [
+            "The three principal calendars are the Gregorian, Jewish, and Islamic calendars."
+          ]
+        },
+        {
+          "text": "A means to determine the date consisting of a document containing dates and other temporal information.",
+          "examples": [
+            "Write his birthday on the calendar hanging on the wall."
+          ]
+        },
+        {
+          "text": "A list of planned events.",
+          "examples": [
+            "The club has a busy calendar this year."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To set a date for a proceeding in court, usually done by a judge at a calendar call.",
+          "examples": [
+            "The judge agreed to calendar a hearing for pretrial motions for the week of May 15, but did not agree to calendar the trial itself on a specific date."
+          ]
+        },
+        {
+          "text": "To enter or write in a calendar; to register.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kalendarz"
+  ],
+  "fetchedAt": "2026-05-17T22:01:46.199Z"
+}

@@ -1,0 +1,45 @@
+{
+  "lemma": "westward",
+  "slug": "westward",
+  "fetchTerm": "westward",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Lying toward the west.",
+          "examples": []
+        },
+        {
+          "text": "Moving or oriented toward the west.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Toward the west.",
+          "examples": [
+            "ride westward."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The western region or countries; the west.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "na zachód"
+  ],
+  "fetchedAt": "2026-05-17T22:14:26.197Z"
+}

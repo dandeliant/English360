@@ -1,0 +1,51 @@
+{
+  "lemma": "mistake",
+  "slug": "mistake",
+  "fetchTerm": "mistake",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To understand wrongly, taking one thing or person for another.",
+          "examples": [
+            "Sorry, I mistook you for my brother. You look very similar.",
+            "Don't mistake my kindness for weakness."
+          ]
+        },
+        {
+          "text": "To misunderstand (someone).",
+          "examples": []
+        },
+        {
+          "text": "To commit an unintentional error; to do or think something wrong.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An error.",
+          "examples": [
+            "There were too many mistakes in the test, that unfortunately you failed.",
+            "He always did mistakes on purpose."
+          ]
+        },
+        {
+          "text": "A pitch which was intended to be pitched in a hard-to-hit location, but instead ends up in an easy-to-hit place.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pomylić",
+    "pomylić się",
+    "pomyłka",
+    "błąd"
+  ],
+  "fetchedAt": "2026-05-17T22:13:40.596Z"
+}

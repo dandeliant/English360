@@ -1,0 +1,32 @@
+{
+  "lemma": "punctuation",
+  "slug": "punctuation",
+  "fetchTerm": "punctuation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A set of symbols and marks which are used to clarify meaning in text by separating strings of words into clauses, phrases and sentences; examples include commas, hyphens, and stops (periods).",
+          "examples": [
+            "Different languages have different rules for punctuation."
+          ]
+        },
+        {
+          "text": "Nikud",
+          "examples": []
+        },
+        {
+          "text": "An act of punctuating.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "interpunkcja",
+    "przestankowanie"
+  ],
+  "fetchedAt": "2026-05-17T22:04:13.965Z"
+}

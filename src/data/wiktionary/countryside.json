@@ -1,0 +1,32 @@
+{
+  "lemma": "countryside",
+  "slug": "countryside",
+  "fetchTerm": "countryside",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An area located outside of towns and cities; an area that is not urban or suburban; a rural area.",
+          "examples": []
+        },
+        {
+          "text": "Such part of a larger area.",
+          "examples": [
+            "We live in the Swedish countryside."
+          ]
+        },
+        {
+          "text": "A rural landscape.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wieś",
+    "krajobraz wiejski"
+  ],
+  "fetchedAt": "2026-05-17T22:01:59.854Z"
+}

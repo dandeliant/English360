@@ -1,0 +1,32 @@
+{
+  "lemma": "impressive",
+  "slug": "impressive",
+  "fetchTerm": "impressive",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Making, or tending to make, a positive impression; having power to impress.",
+          "examples": [
+            "an impressive speech",
+            "an impressive movie"
+          ]
+        },
+        {
+          "text": "Capable of being impressed.",
+          "examples": []
+        },
+        {
+          "text": "Appealing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "imponujący"
+  ],
+  "fetchedAt": "2026-05-17T22:03:08.281Z"
+}

@@ -1,0 +1,43 @@
+{
+  "lemma": "teach",
+  "slug": "teach",
+  "fetchTerm": "teach",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pass on knowledge to.",
+          "examples": [
+            "Can you teach me to sew? Can you teach sewing to me?"
+          ]
+        },
+        {
+          "text": "To pass on knowledge generally, especially as one's profession; to act as a teacher.",
+          "examples": [
+            "She used to teach at university."
+          ]
+        },
+        {
+          "text": "To cause (someone) to learn or understand (something).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "teacher",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "uczyć",
+    "nauczyć"
+  ],
+  "fetchedAt": "2026-05-17T22:04:54.686Z"
+}

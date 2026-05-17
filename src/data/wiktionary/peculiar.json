@@ -1,0 +1,48 @@
+{
+  "lemma": "peculiar",
+  "slug": "peculiar",
+  "fetchTerm": "peculiar",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Out of the ordinary; odd; strange; unusual.",
+          "examples": [
+            "The sky had a peculiar appearance before the storm.",
+            "It would be rather peculiar to see a kangaroo hopping down a city street."
+          ]
+        },
+        {
+          "text": "Common or usual for a certain place or circumstance; specific or particular.",
+          "examples": [
+            "Kangaroos are peculiar to Australia."
+          ]
+        },
+        {
+          "text": "One's own; belonging solely or especially to an individual; not shared or possessed by others.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is peculiar; a sole or exclusive property; a prerogative; a characteristic.",
+          "examples": []
+        },
+        {
+          "text": "an ecclesiastical district, parish, chapel or church outside the jurisdiction of the bishop of the diocese in which it is situated.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "osobliwy",
+    "specyficzny"
+  ],
+  "fetchedAt": "2026-05-17T22:04:03.340Z"
+}

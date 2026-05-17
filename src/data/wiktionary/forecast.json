@@ -1,0 +1,56 @@
+{
+  "lemma": "forecast",
+  "slug": "forecast",
+  "fetchTerm": "forecast",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To estimate how something will be in the future.",
+          "examples": [
+            "to forecast the weather, or a storm",
+            "to forecast a rise in prices"
+          ]
+        },
+        {
+          "text": "To foreshadow; to suggest something in advance.",
+          "examples": []
+        },
+        {
+          "text": "To contrive or plan beforehand.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An estimation of a future condition. A prediction of the weather.",
+          "examples": [
+            "The forecast said it'll be blowy tomorrow"
+          ]
+        },
+        {
+          "text": "A prediction of the weather.",
+          "examples": [
+            "The forecast said it'll be blowy tomorrow"
+          ]
+        },
+        {
+          "text": "exacta",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przepowiadać",
+    "przepowiedzieć",
+    "prognoza",
+    "zapowiedź"
+  ],
+  "fetchedAt": "2026-05-17T22:02:37.993Z"
+}

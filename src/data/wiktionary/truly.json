@@ -1,0 +1,38 @@
+{
+  "lemma": "truly",
+  "slug": "truly",
+  "fetchTerm": "truly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In accordance with the facts; truthfully, accurately.",
+          "examples": []
+        },
+        {
+          "text": "Honestly, genuinely, in fact, really.",
+          "examples": [
+            "That is truly all I know.",
+            "Truly, that is all I know."
+          ]
+        },
+        {
+          "text": "Very.",
+          "examples": [
+            "You are truly silly."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "autentycznie",
+    "naprawdę",
+    "serio",
+    "szczerze",
+    "prawdziwie"
+  ],
+  "fetchedAt": "2026-05-17T22:05:12.132Z"
+}

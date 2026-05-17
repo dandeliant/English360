@@ -1,0 +1,89 @@
+{
+  "lemma": "welcome",
+  "slug": "welcome",
+  "fetchTerm": "welcome",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Whose arrival is a cause of joy; received with gladness; admitted willingly to the house, entertainment, or company.",
+          "examples": [
+            "a welcome visitor",
+            "Refugees are welcome in our city!"
+          ]
+        },
+        {
+          "text": "Producing gladness.",
+          "examples": [
+            "a welcome turn of events; welcome news"
+          ]
+        },
+        {
+          "text": "Followed by to: free to have or enjoy gratuitously.",
+          "examples": [
+            "You are welcome to the use of my library."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Greeting given upon someone's arrival.",
+          "examples": [
+            "Welcome to the life of Electra Heart!"
+          ]
+        },
+        {
+          "text": "Ellipsis of you're welcome..",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+          "examples": []
+        },
+        {
+          "text": "The utterance of such a greeting.",
+          "examples": []
+        },
+        {
+          "text": "Kind reception of a guest or newcomer.",
+          "examples": [
+            "We entered the house and found a ready welcome."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To affirm or greet the arrival of someone, especially by saying \"Welcome!\".",
+          "examples": []
+        },
+        {
+          "text": "To accept something willingly or gladly.",
+          "examples": [
+            "We welcome suggestions for improvement."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "mile widziany",
+    "witaj!",
+    "witajcie!",
+    "witamy",
+    "powitanie"
+  ],
+  "fetchedAt": "2026-05-17T22:05:26.592Z"
+}

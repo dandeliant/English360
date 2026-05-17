@@ -1,0 +1,49 @@
+{
+  "lemma": "strong",
+  "slug": "strong",
+  "fetchTerm": "strong",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Capable of producing great physical force.",
+          "examples": [
+            "a big strong man; Jake was tall and strong",
+            "The man was nearly drowned after a strong undercurrent swept him out to sea."
+          ]
+        },
+        {
+          "text": "Capable of withstanding great physical force.",
+          "examples": [
+            "a strong foundation; good strong shoes"
+          ]
+        },
+        {
+          "text": "Possessing power, might, or strength.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a strong manner.",
+          "examples": [
+            "As a salesperson I always come on strong."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "silny",
+    "krzepki",
+    "mocny",
+    "wytrzymały",
+    "solidny"
+  ],
+  "fetchedAt": "2026-05-17T22:04:51.528Z"
+}

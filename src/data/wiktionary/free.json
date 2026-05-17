@@ -1,0 +1,93 @@
+{
+  "lemma": "free",
+  "slug": "free",
+  "fetchTerm": "free",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Unconstrained.",
+          "examples": [
+            "He was given free rein to do whatever he wanted.",
+            "Free Blacks"
+          ]
+        },
+        {
+          "text": "Not imprisoned or enslaved.",
+          "examples": [
+            "Free Blacks",
+            "a free man"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Without needing to pay.",
+          "examples": [
+            "I got this bike free."
+          ]
+        },
+        {
+          "text": "Freely; willingly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make free; set at liberty; release.",
+          "examples": []
+        },
+        {
+          "text": "To rid of something that confines or oppresses. .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with from]",
+          "examples": []
+        },
+        {
+          "text": "To relinquish (previously allocated memory) to the system.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Abbreviation of free kick.",
+          "examples": []
+        },
+        {
+          "text": "A free transfer.",
+          "examples": []
+        },
+        {
+          "text": "The usual means of restarting play after a foul is committed, where the non-offending team restarts from where the foul was committed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of three",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wolny",
+    "swobodny",
+    "bez",
+    "za darmo",
+    "bezpłatnie"
+  ],
+  "fetchedAt": "2026-05-17T22:13:08.628Z"
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "meaning",
+  "slug": "meaning",
+  "fetchTerm": "meaning",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The denotation, referent, or idea connected with a word, expression, or symbol. The connotation associated with a word, expression, or symbol.",
+          "examples": []
+        },
+        {
+          "text": "The denotation, referent, or idea connected with a word, expression, or symbol.",
+          "examples": []
+        },
+        {
+          "text": "The connotation associated with a word, expression, or symbol.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "present participle and gerund of mean",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a (specified) intention.",
+          "examples": [
+            "Well/ill meaning."
+          ]
+        },
+        {
+          "text": "Expressing some intention or significance; meaningful.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "znaczenie",
+    "sens"
+  ],
+  "fetchedAt": "2026-05-17T22:03:28.531Z"
+}

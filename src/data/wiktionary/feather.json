@@ -1,0 +1,44 @@
+{
+  "lemma": "feather",
+  "slug": "feather",
+  "fetchTerm": "feather",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A branching, hair-like structure that grows on the bodies of birds, used for flight, swimming, protection and display.",
+          "examples": []
+        },
+        {
+          "text": "Long hair on the lower legs of a dog or horse, especially a draft horse, notably the Clydesdale breed. Narrowly only the rear hair.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover or furnish with feathers; to fletch.",
+          "examples": []
+        },
+        {
+          "text": "To adorn, as if with feathers; to fringe.",
+          "examples": []
+        },
+        {
+          "text": "To arrange in the manner or appearance of feathers.",
+          "examples": [
+            "The stylist feathered my hair."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pióro"
+  ],
+  "fetchedAt": "2026-05-17T22:02:27.735Z"
+}

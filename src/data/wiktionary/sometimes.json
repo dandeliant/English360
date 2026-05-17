@@ -1,0 +1,39 @@
+{
+  "lemma": "sometimes",
+  "slug": "sometimes",
+  "fetchTerm": "sometimes",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On some occasions, over some periods, or in certain circumstances, but not always. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Sometimes I sit and think, but mostly I just sit."
+          ]
+        },
+        {
+          "text": "On a certain occasion in the past; once.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Former; sometime.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czasem",
+    "niekiedy",
+    "czasami",
+    "od czasu do czasu"
+  ],
+  "fetchedAt": "2026-05-17T22:04:39.746Z"
+}

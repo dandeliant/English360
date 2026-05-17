@@ -1,0 +1,85 @@
+{
+  "lemma": "trip",
+  "slug": "trip",
+  "fetchTerm": "trip",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A journey; an excursion or jaunt.",
+          "examples": [
+            "We made a trip to the beach.",
+            "I took a weekend trip to Seville."
+          ]
+        },
+        {
+          "text": "A stumble or misstep.",
+          "examples": [
+            "He was injured due to a trip down the stairs."
+          ]
+        },
+        {
+          "text": "An error; a failure; a mistake.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fall over or stumble over an object as a result of striking it with one's foot",
+          "examples": [
+            "Be careful not to trip on those tree roots. You tripped over the cat and fell downstairs just last week."
+          ]
+        },
+        {
+          "text": "To cause (a person or animal) to fall or stumble by knocking their feet from under them.",
+          "examples": [
+            "A pedestrian was able to trip the burglar as he was running away."
+          ]
+        },
+        {
+          "text": "To be guilty of a misstep or mistake; to commit an offence against morality, propriety, etc",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to trips (three of a kind).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A herd or flock of sheep, goats, etc.",
+          "examples": []
+        },
+        {
+          "text": "A troop of men; a host.",
+          "examples": []
+        },
+        {
+          "text": "A flock of wigeons.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podróż",
+    "wycieczka",
+    "potknięcie",
+    "haj",
+    "kop"
+  ],
+  "fetchedAt": "2026-05-17T22:05:09.143Z"
+}

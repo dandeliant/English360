@@ -1,0 +1,40 @@
+{
+  "lemma": "usual",
+  "slug": "usual",
+  "fetchTerm": "usual",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Most commonly occurring; typical.",
+          "examples": [
+            "The preference of a boy to a girl is a usual occurrence in some parts of China.",
+            "It is becoming more usual these days to rear children as bilingual."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The typical state of something, or something that is typical.",
+          "examples": []
+        },
+        {
+          "text": "A specific good or service (e.g. a drink) that someone typically orders.",
+          "examples": [
+            "I'll just have the usual.",
+            "Two usuals, please."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zwykły"
+  ],
+  "fetchedAt": "2026-05-17T22:14:22.013Z"
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "fall",
+  "slug": "fall",
+  "fetchTerm": "fall",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be moved downwards. To move to a lower position under the effect of gravity.",
+          "examples": [
+            "Thrown from a cliff, the stone fell 100 feet before hitting the ground.",
+            "I fell unconscious on the floor."
+          ]
+        },
+        {
+          "text": "To move to a lower position under the effect of gravity.",
+          "examples": [
+            "Thrown from a cliff, the stone fell 100 feet before hitting the ground.",
+            "I fell unconscious on the floor."
+          ]
+        },
+        {
+          "text": "To come down, to drop or descend.",
+          "examples": [
+            "The rain fell at dawn."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of moving to a lower position under the effect of gravity.",
+          "examples": [
+            "the fall of the snow",
+            "the fall of the water"
+          ]
+        },
+        {
+          "text": "A reduction in quantity, pitch, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "The cry given when a whale is sighted, or harpooned.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The chasing of a hunted whale.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "spadać",
+    "spaść",
+    "padać",
+    "paść",
+    "polegnąć"
+  ],
+  "fetchedAt": "2026-05-17T22:02:26.218Z"
+}

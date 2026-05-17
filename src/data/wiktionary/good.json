@@ -1,0 +1,117 @@
+{
+  "lemma": "good",
+  "slug": "good",
+  "fetchTerm": "good",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a person or an animal: Acting in the interest of what is beneficial, ethical, or moral.",
+          "examples": [
+            "good intentions",
+            "a good swimmer"
+          ]
+        },
+        {
+          "text": "Acting in the interest of what is beneficial, ethical, or moral.",
+          "examples": [
+            "good intentions"
+          ]
+        },
+        {
+          "text": "Competent or talented.",
+          "examples": [
+            "a good swimmer"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "That is good; an elliptical exclamation of satisfaction or commendation.",
+          "examples": [
+            "Good! I can leave now."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Well; satisfactorily or thoroughly.",
+          "examples": [
+            "When you're cleaning these racks, you've got to get in there good, because the quality system specifies it.",
+            "The boy done good."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The forces or behaviours that are the enemy of evil. Usually consists of helping others and general benevolence.",
+          "examples": []
+        },
+        {
+          "text": "A result that is positive in the view of the speaker.",
+          "examples": []
+        },
+        {
+          "text": "The abstract instantiation of goodness; that which possesses desirable qualities, promotes success, welfare, or happiness, is serviceable, fit, excellent, kind, benevolent, etc.",
+          "examples": [
+            "The best is the enemy of the good.",
+            "He is an influence for good on those girls."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To thrive; fatten; prosper; improve.",
+          "examples": []
+        },
+        {
+          "text": "To make good; turn to good; improve.",
+          "examples": []
+        },
+        {
+          "text": "To make improvements or repairs.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To furnish with dung; manure; fatten with manure; fertilise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a black person, dead or killed.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dobry",
+    "smaczny",
+    "dobro",
+    "dobroć"
+  ],
+  "fetchedAt": "2026-05-17T22:02:50.696Z"
+}

@@ -1,0 +1,61 @@
+{
+  "lemma": "his",
+  "slug": "his",
+  "fetchTerm": "his",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Belonging to him. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Belonging to a person of unspecified gender.",
+          "examples": []
+        },
+        {
+          "text": "Its; belonging to it. (Now only when implying personification.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "That or those belonging to him; the possessive case of he, used without a following noun.",
+          "examples": [
+            "This pen is his. These books are also his.",
+            "The decision was his to live with."
+          ]
+        },
+        {
+          "text": "His house or home.",
+          "examples": [
+            "After our night out, I went back to his."
+          ]
+        },
+        {
+          "text": "Alternative spelling of His.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of hi",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jego",
+    "swój"
+  ],
+  "fetchedAt": "2026-05-17T22:03:00.701Z"
+}

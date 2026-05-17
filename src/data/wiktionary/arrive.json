@@ -1,0 +1,40 @@
+{
+  "lemma": "arrive",
+  "slug": "arrive",
+  "fetchTerm": "arrive",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reach; to get to a certain place.",
+          "examples": [
+            "We've just arrived at the hotel to book in, so we should arrive at Mike’s in time for lunch.",
+            "He arrived home for two days."
+          ]
+        },
+        {
+          "text": "To obtain a level of success or fame; to succeed.",
+          "examples": [
+            "He had finally arrived on Broadway."
+          ]
+        },
+        {
+          "text": "To come; said of time.",
+          "examples": [
+            "The time has arrived for us to depart."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dochodzić",
+    "dojść",
+    "dojeżdżać",
+    "dojechać",
+    "dolatywać"
+  ],
+  "fetchedAt": "2026-05-17T22:01:25.987Z"
+}

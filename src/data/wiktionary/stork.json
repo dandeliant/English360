@@ -1,0 +1,29 @@
+{
+  "lemma": "stork",
+  "slug": "stork",
+  "fetchTerm": "stork",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large wading bird with long legs and a long beak of the order Ciconiiformes and its family Ciconiidae.",
+          "examples": []
+        },
+        {
+          "text": "The mythical bringer of babies to families, or good news.",
+          "examples": [
+            "My sister's expecting a visit from the stork."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bocian",
+    "bociek",
+    "bocianica"
+  ],
+  "fetchedAt": "2026-05-17T22:04:50.278Z"
+}

@@ -1,0 +1,60 @@
+{
+  "lemma": "glow",
+  "slug": "glow",
+  "fetchTerm": "glow",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To emit heat and light without a flame.",
+          "examples": [
+            "Iron glows red hot when heated to near its melting point.",
+            "The fire was still glowing after ten hours."
+          ]
+        },
+        {
+          "text": "To emit heat and light without a flame.",
+          "examples": [
+            "Iron glows red hot when heated to near its melting point."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A state of heat and light being emitted by a hot object.",
+          "examples": []
+        },
+        {
+          "text": "A state of heat being emitted by a person or an animal's body.",
+          "examples": []
+        },
+        {
+          "text": "A state of light being emitted by something (for example, a bioluminescent animal or fungus, or a mineral) which is not hot; luminescence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To look intently; to stare.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jarzyć się",
+    "żarzyć się",
+    "świecić",
+    "lśnić",
+    "pałać"
+  ],
+  "fetchedAt": "2026-05-17T22:13:18.297Z"
+}

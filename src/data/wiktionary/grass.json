@@ -1,0 +1,49 @@
+{
+  "lemma": "grass",
+  "slug": "grass",
+  "fetchTerm": "grass",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
+          "examples": []
+        },
+        {
+          "text": "Any of the various plants that are not in the family Poaceae that resemble grasses.",
+          "examples": []
+        },
+        {
+          "text": "A lawn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lay out on the grass; to knock down (an opponent etc.).",
+          "examples": []
+        },
+        {
+          "text": "To act as a grass or informer, to betray; to report on (criminals etc) to the authorities.",
+          "examples": []
+        },
+        {
+          "text": "To cover with grass or with turf.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trawa",
+    "trawnik",
+    "trawka",
+    "kapuś"
+  ],
+  "fetchedAt": "2026-05-17T22:02:52.185Z"
+}

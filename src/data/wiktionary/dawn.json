@@ -1,0 +1,50 @@
+{
+  "lemma": "dawn",
+  "slug": "dawn",
+  "fetchTerm": "dawn",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To begin to brighten with daylight.",
+          "examples": [
+            "A new day dawns."
+          ]
+        },
+        {
+          "text": "To start to appear or become obvious.",
+          "examples": [
+            "I don’t want to be there when the truth dawns on him.",
+            "The realization dawned on him that few would pass that final exam."
+          ]
+        },
+        {
+          "text": "To begin to give promise; to begin to appear or to expand.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The morning twilight period immediately before sunrise.",
+          "examples": []
+        },
+        {
+          "text": "The rising of the sun.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "świtać",
+    "świt",
+    "brzask",
+    "zaranie"
+  ],
+  "fetchedAt": "2026-05-17T22:02:02.425Z"
+}

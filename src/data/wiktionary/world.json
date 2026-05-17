@@ -1,0 +1,52 @@
+{
+  "lemma": "world",
+  "slug": "world",
+  "fetchTerm": "world",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The subjective human experience, regarded collectively; human collective existence; existence in general; the reality we live in.",
+          "examples": [
+            "In retrospect, the process of economic globalization has meant the end of the world as we knew it.",
+            "There will always be lovers, till the world’s end."
+          ]
+        },
+        {
+          "text": "The subjective human experience, regarded individually.",
+          "examples": [
+            "The period immediately following my divorce seemed like the end of my world.",
+            "He was my world! [said of a slain companion]"
+          ]
+        },
+        {
+          "text": "A majority of people.",
+          "examples": [
+            "Running after God is the only life worth living. Even though the world believes that living for God is boring, we believe that there is nothing more exciting."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To consider or cause to be considered from a global perspective; to consider as a global whole, rather than making or focusing on national or other distinctions; compare globalize.",
+          "examples": []
+        },
+        {
+          "text": "To make real; to make worldly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "świat",
+    "wszechświat",
+    "uniwersum"
+  ],
+  "fetchedAt": "2026-05-17T22:14:35.055Z"
+}

@@ -1,0 +1,59 @@
+{
+  "lemma": "general",
+  "slug": "general",
+  "fetchTerm": "general",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Including or involving every part or member of a given or implied entity, whole, etc.; common to all, universal. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Applied to a person (as a postmodifier or a normal preceding adjective) to indicate supreme rank, in civil or military titles, and later in other terms; pre-eminent.",
+          "examples": []
+        },
+        {
+          "text": "Prevalent or widespread among a given class or area; common, usual.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The holder of a senior military title, originally designating the commander of an army and now a specific rank falling under field marshal (in the British army) and below general of the army or general of the air force in the US army and air forces.",
+          "examples": [
+            "General Eisenhower was the first SACEUR."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lead (soldiers) as a general.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a general or collective manner or sense; in most cases; upon the whole.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ogólny",
+    "generał"
+  ],
+  "fetchedAt": "2026-05-17T22:13:12.035Z"
+}

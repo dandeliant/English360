@@ -1,0 +1,61 @@
+{
+  "lemma": "once",
+  "slug": "once",
+  "fetchTerm": "once",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "One and only one time.",
+          "examples": [
+            "I have only once eaten pizza."
+          ]
+        },
+        {
+          "text": "Formerly; during some period in the past.",
+          "examples": [
+            "He was once the most handsome man around.",
+            "I once had a motorbicycle."
+          ]
+        },
+        {
+          "text": "At any time; ever.",
+          "examples": [
+            "If the facts once became known, we'd be in trouble."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "As soon as; when; after.",
+          "examples": [
+            "We'll get a move on once we find the damn car keys!",
+            "Once you have obtained the elven bow, return to the troll bridge and trade it for the sleeping potion."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Obsolete form of ounce.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "raz",
+    "jeden raz",
+    "wcześniej",
+    "gdy tylko",
+    "jak tylko"
+  ],
+  "fetchedAt": "2026-05-17T22:03:54.834Z"
+}

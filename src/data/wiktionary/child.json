@@ -1,0 +1,38 @@
+{
+  "lemma": "child",
+  "slug": "child",
+  "fetchTerm": "child",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority).",
+          "examples": [
+            "Go easy on him: he is but a child.",
+            "Regular chores can be appropriate for children, given age-appropriate limits on difficulty level and time on task."
+          ]
+        },
+        {
+          "text": "A youth aged 1 to 9 years, whereas neonates are aged 0 to 1 month, infants are aged 1 to 12 months, and adolescents are aged 10 to 20 years.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give birth; to beget or procreate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziecko",
+    "dziecię"
+  ],
+  "fetchedAt": "2026-05-17T22:12:20.932Z"
+}

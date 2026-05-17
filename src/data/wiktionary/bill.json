@@ -1,0 +1,100 @@
+{
+  "lemma": "bill",
+  "slug": "bill",
+  "fetchTerm": "bill",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A written list or inventory. (Now obsolete except in specific senses or set phrases; bill of lading, bill of goods, etc.)",
+          "examples": []
+        },
+        {
+          "text": "A document, originally sealed; a formal statement or official memorandum. (Now obsolete except with certain qualifying words; bill of health, bill of sale etc.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To advertise by a bill or public notice.",
+          "examples": []
+        },
+        {
+          "text": "To charge; to send a bill to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The beak of a bird, especially when small or flattish; sometimes also used with reference to a platypus, turtle, or other animal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "to peck",
+          "examples": []
+        },
+        {
+          "text": "to stroke bill against bill, with reference to doves; to caress in fondness",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of various bladed or pointed hand weapons, originally designating an Anglo-Saxon sword, and later a weapon of infantry, especially in the 14th and 15th centuries, commonly consisting of a broad, heavy, double-edged, hook-shaped blade, with a short pike at the back and another at the top, attached to the end of a long staff.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To dig, chop, etc., with a bill.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The bell, or boom, of the bittern.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To roll up a marijuana cigarette.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "projekt ustawy",
+    "faktura",
+    "rachunek",
+    "afisz",
+    "dziób"
+  ],
+  "fetchedAt": "2026-05-17T22:01:34.023Z"
+}

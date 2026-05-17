@@ -1,0 +1,54 @@
+{
+  "lemma": "we",
+  "slug": "we",
+  "fetchTerm": "we",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Two or more people including or consisting of the speaker(s)/writer(s). Excluding the person(s) being addressed.",
+          "examples": [
+            "We are here to arrest you.",
+            "We need to have a talk, you and me."
+          ]
+        },
+        {
+          "text": "Excluding the person(s) being addressed.",
+          "examples": [
+            "We are here to arrest you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Designates the speaker(s)/writer(s) as belonging to or constituting the stated category of people.",
+          "examples": [
+            "We Canadians like to think of ourselves as different.",
+            "We the undersigned wish to express our disapproval."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "us",
+          "examples": [
+            "He was a propa gadgie, and always bought we drinks after a long shift.",
+            "And what have you done for we since? Nowt!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "my"
+  ],
+  "fetchedAt": "2026-05-17T22:05:22.176Z"
+}

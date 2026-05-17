@@ -1,0 +1,98 @@
+{
+  "lemma": "arm",
+  "slug": "arm",
+  "fetchTerm": "arm",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2/B language code for Armenian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.",
+          "examples": [
+            "She stood with her right arm extended and her palm forward to indicate “Stop!”"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take by the arm; to take up in one's arms.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Poor; lacking in riches or wealth.",
+          "examples": []
+        },
+        {
+          "text": "To be pitied; pitiful; wretched.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A weapon.",
+          "examples": []
+        },
+        {
+          "text": "Heraldic bearings or insignia.",
+          "examples": [
+            "The Duke's arms were a sable gryphon rampant on an argent field."
+          ]
+        },
+        {
+          "text": "War; hostilities; deeds or exploits of war. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To supply with armour or (later especially) weapons.",
+          "examples": [
+            "The king armed his knights with swords and shields."
+          ]
+        },
+        {
+          "text": "To supply with the equipment, knowledge, authority, or other tools needed for a particular task; to furnish with capability; to equip.",
+          "examples": []
+        },
+        {
+          "text": "To prepare (a tool, weapon, or system) for action; to activate.",
+          "examples": [
+            "Remember to arm the alarm system before leaving for work."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "broń",
+    "uzbrojenie",
+    "zbroić",
+    "uzbrajać",
+    "uzbroić"
+  ],
+  "fetchedAt": "2026-05-17T22:12:06.073Z"
+}

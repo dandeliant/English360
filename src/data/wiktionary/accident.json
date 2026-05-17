@@ -1,0 +1,38 @@
+{
+  "lemma": "accident",
+  "slug": "accident",
+  "fetchTerm": "accident",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences, and (in the strict sense) not directly caused by humans.",
+          "examples": [
+            "to die by an accident such as an act of God"
+          ]
+        },
+        {
+          "text": "casus; such unforeseen, extraordinary, extraneous interference as is out of the range of ordinary calculation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Designating any form of transportation involved in an accident.",
+          "examples": [
+            "The NTSB report revealed that the accident airplane was a Cessna 172."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wypadek"
+  ],
+  "fetchedAt": "2026-05-17T22:01:12.033Z"
+}
