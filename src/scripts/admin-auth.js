@@ -62,9 +62,16 @@ async function tryLogin(username, password) {
 
 function applyGate(isAuthed) {
   document.documentElement.dataset.adminAuthed = isAuthed ? 'true' : 'false';
+  // [data-admin-gated] — page sections that are HIDDEN until login.
   document.querySelectorAll('[data-admin-gated]').forEach((el) => {
     el.hidden = !isAuthed;
   });
+  // [data-admin-only] — small UI bits (e.g. "Edytuj" link on /slownik/<word>)
+  // that should appear ONLY when admin is authed; otherwise hidden.
+  document.querySelectorAll('[data-admin-only]').forEach((el) => {
+    el.hidden = !isAuthed;
+  });
+  // [data-admin-login-panel] — the login form itself; visible only when NOT authed.
   document.querySelectorAll('[data-admin-login-panel]').forEach((el) => {
     el.hidden = isAuthed;
   });

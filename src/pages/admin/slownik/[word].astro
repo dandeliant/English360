@@ -1,0 +1,467 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import AdminLoginGate from '../../../components/AdminLoginGate.astro';
+import { buildWordIndex, type DictEntry } from '../../../utils/word-index.ts';
+import { loadWiktionary } from '../../../utils/wiktionary-cache.ts';
+
+export async function getStaticPaths() {
+  const index = await buildWordIndex();
+  return [...index.values()].map((entry) => ({
+    params: { word: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: DictEntry;
+}
+
+const { entry } = Astro.props;
+const wikt = await loadWiktionary(entry.slug);
+
+// translationsPl already merges vocab (first) + Wiktionary cache.
+const translations = entry.translationsPl;
+---
+<BaseLayout title={`Edycja: ${entry.displayForm} · Słownik · Admin`}>
+  <div class="page admin admin-edit">
+    <AdminLoginGate />
+
+    <div data-admin-gated hidden>
+      <p class="admin__breadcrumb">
+        <span>
+          <a href="/admin">← Panel admina</a>
+          {' · '}
+          <a href={`/slownik/${entry.slug}`} target="_blank" rel="noopener">podgląd ↗</a>
+        </span>
+        <span class="admin__session">
+          zalogowany jako <strong data-admin-session-user></strong>
+          <button type="button" class="admin__logout" data-admin-logout>wyloguj</button>
+        </span>
+      </p>
+
+      <header class="admin-edit__header">
+        <h1 class="admin-edit__title">{entry.displayForm}</h1>
+        <p class="admin-edit__id">
+          slug: <code>{entry.slug}</code>
+          {entry.displayForm !== entry.lemma && (
+            <> · lemma: <code>{entry.lemma}</code> · <small>(wykryto jako proper noun)</small></>
+          )}
+        </p>
+      </header>
+
+      <p class="admin-edit__notice admin-edit__notice--dev-only">
+        Zapis działa wyłącznie podczas <code>npm run dev</code>. Edycje są sticky:
+        następne <code>npm run sync-dictionary</code> ich nie nadpisze.
+      </p>
+
+      <form
+        data-admin-dict-form
+        data-slug={entry.slug}
+        class="admin-form"
+        novalidate
+      >
+        <fieldset class="admin-form__fieldset">
+          <legend>Tłumaczenia polskie ({translations.length})</legend>
+          <p class="admin-form__hint">
+            Pierwsze tłumaczenie staje się „głównym" — pojawia się w nagłówku
+            strony słownika i jako pierwsze w tooltipie. Strzałki ↑ ↓ zmieniają
+            kolejność, × usuwa wiersz.
+          </p>
+
+          <div class="trans-editor">
+            <div class="trans-editor__list" data-translations-list>
+              {translations.length === 0 && (
+                <p class="trans-editor__empty">— brak tłumaczeń — dodaj pierwsze przyciskiem niżej</p>
+              )}
+              {translations.map((t) => (
+                <div class="trans-editor__row" data-translation-row>
+                  <div class="trans-editor__order">
+                    <button type="button" class="trans-editor__move" data-move-up aria-label="Wyżej">↑</button>
+                    <button type="button" class="trans-editor__move" data-move-down aria-label="Niżej">↓</button>
+                  </div>
+                  <input
+                    type="text"
+                    data-field="value"
+                    value={t}
+                    class="admin-form__input trans-editor__input"
+                    placeholder="np. pszczoła"
+                  />
+                  <button
+                    type="button"
+                    class="trans-editor__remove"
+                    data-remove-translation
+                    aria-label="Usuń"
+                  >×</button>
+                </div>
+              ))}
+            </div>
+            <button type="button" class="trans-editor__add" data-add-translation>
+              + dodaj tłumaczenie
+            </button>
+          </div>
+
+          <template data-translation-template>
+            <div class="trans-editor__row" data-translation-row>
+              <div class="trans-editor__order">
+                <button type="button" class="trans-editor__move" data-move-up aria-label="Wyżej">↑</button>
+                <button type="button" class="trans-editor__move" data-move-down aria-label="Niżej">↓</button>
+              </div>
+              <input
+                type="text"
+                data-field="value"
+                class="admin-form__input trans-editor__input"
+                placeholder="np. pszczoła"
+              />
+              <button
+                type="button"
+                class="trans-editor__remove"
+                data-remove-translation
+                aria-label="Usuń"
+              >×</button>
+            </div>
+          </template>
+        </fieldset>
+
+        <div class="admin-form__actions">
+          <button type="submit" class="admin-form__save" data-action="save">💾 Zapisz tłumaczenia</button>
+          <p class="admin-form__status" data-status aria-live="polite"></p>
+        </div>
+      </form>
+
+      {wikt?.en && wikt.en.length > 0 && (
+        <details class="admin-form__raw">
+          <summary>Definicje EN (read-only — z Wiktionary)</summary>
+          <ul class="admin-form__defs">
+            {wikt.en.map((entry) => (
+              <li>
+                <strong>{entry.partOfSpeech}</strong>
+                <ol>
+                  {entry.definitions.map((d) => <li>{d.text}</li>)}
+                </ol>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
+
+      <details class="admin-form__raw">
+        <summary>Surowy cache (read-only)</summary>
+        <pre>{JSON.stringify(wikt, null, 2)}</pre>
+      </details>
+
+      <p class="admin-form__deferred">
+        Inne pola (definicje EN, IPA, „proper noun" flag) edytuj na razie
+        bezpośrednio w pliku <code>src/data/wiktionary/{entry.slug}.json</code> —
+        edytor jest dla najczęstszej operacji (zmiana/kolejność tłumaczeń).
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<script>
+  import '../../../scripts/admin-auth.js';
+  import '../../../scripts/admin-dict-form.js';
+</script>
+
+<style>
+  .admin-edit { max-inline-size: 48rem; }
+
+  .admin__breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-3);
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-3);
+  }
+  .admin__breadcrumb a { color: var(--accent); }
+
+  .admin__session { color: var(--text-muted); font-size: var(--text-xs); }
+  .admin__session strong { color: var(--text); font-weight: 700; }
+  .admin__logout {
+    margin-inline-start: var(--space-2);
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 2px var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .admin__logout:hover { color: var(--text); border-color: var(--border-strong); }
+
+  .admin-edit__header {
+    margin-block-end: var(--space-5);
+    padding-block-end: var(--space-4);
+    border-block-end: 1px solid var(--border);
+  }
+  .admin-edit__title {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    letter-spacing: -0.015em;
+  }
+  .admin-edit__id {
+    margin-block-start: var(--space-2);
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+
+  .admin-edit__notice {
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-4);
+  }
+  .admin-edit__notice--dev-only {
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+    color: var(--accent);
+    border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  }
+  .admin-edit__notice code {
+    font-family: var(--font-mono);
+    background: var(--surface);
+    padding: 1px 4px;
+    border-radius: 2px;
+    font-size: 0.9em;
+  }
+
+  /* ── Form basics (same look as lesson admin) ──────────────── */
+
+  .admin-form__fieldset {
+    margin-block-end: var(--space-5);
+    padding: var(--space-4) var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+  .admin-form__fieldset legend {
+    padding-inline: var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+  }
+  .admin-form__hint {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+    margin-block-end: var(--space-3);
+  }
+  .admin-form__input {
+    padding: var(--space-2) var(--space-3);
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: 1.4;
+  }
+  .admin-form__input:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 0;
+    border-color: var(--accent);
+  }
+
+  .admin-form__actions {
+    position: sticky;
+    inset-block-end: 0;
+    margin-block: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    background: color-mix(in srgb, var(--bg) 95%, transparent);
+    backdrop-filter: blur(8px);
+    border-block-start: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+  .admin-form__save {
+    padding: var(--space-3) var(--space-5);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border: none;
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-base);
+    cursor: pointer;
+  }
+  .admin-form__save:hover:not(:disabled) { filter: brightness(1.08); }
+  .admin-form__save:disabled { opacity: 0.6; cursor: not-allowed; }
+  .admin-form__status {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+  .admin-form__status[data-tone='success'] { color: var(--success); }
+  .admin-form__status[data-tone='error'] { color: var(--error); }
+
+  .admin-form__raw {
+    margin-block: var(--space-4);
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+  }
+  .admin-form__raw summary {
+    cursor: pointer;
+    color: var(--text-muted);
+    padding-block: var(--space-1);
+  }
+  .admin-form__raw pre {
+    margin-block-start: var(--space-2);
+    padding: var(--space-3);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    overflow-x: auto;
+    font-size: var(--text-xs);
+    line-height: 1.4;
+    max-height: 24rem;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  .admin-form__defs {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-3) 0 0;
+  }
+  .admin-form__defs > li {
+    margin-block: var(--space-3);
+  }
+  .admin-form__defs strong {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+  }
+  .admin-form__defs ol {
+    margin-block-start: var(--space-2);
+    padding-inline-start: var(--space-5);
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+  }
+
+  .admin-form__deferred {
+    margin-block-start: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    background: var(--surface-2);
+    border-radius: var(--radius-md);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+  }
+  .admin-form__deferred code {
+    font-family: var(--font-mono);
+    background: var(--surface);
+    padding: 1px 4px;
+    border-radius: 2px;
+    font-size: 0.9em;
+  }
+
+  /* ── Translations editor ──────────────────────────────────── */
+
+  .trans-editor {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .trans-editor__list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .trans-editor__empty {
+    padding: var(--space-3);
+    color: var(--text-faint);
+    font-style: italic;
+    text-align: center;
+    border: 1px dashed var(--border);
+    border-radius: var(--radius-sm);
+  }
+
+  .trans-editor__row {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: var(--space-2);
+    align-items: center;
+  }
+
+  .trans-editor__order {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+
+  .trans-editor__move {
+    inline-size: 1.5rem;
+    block-size: 1rem;
+    padding: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    border-radius: 3px;
+    font-size: 0.7rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .trans-editor__move:hover {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  .trans-editor__input {
+    inline-size: 100%;
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+  }
+
+  .trans-editor__row:first-child .trans-editor__input {
+    font-weight: 700;
+    background: color-mix(in srgb, var(--accent) 5%, var(--bg));
+  }
+
+  .trans-editor__remove {
+    inline-size: 2.25rem;
+    block-size: 2.25rem;
+    padding: 0;
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-faint);
+    border-radius: var(--radius-sm);
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .trans-editor__remove:hover {
+    background: var(--error-bg);
+    color: var(--error);
+    border-color: var(--error);
+  }
+
+  .trans-editor__add {
+    align-self: flex-start;
+    padding: var(--space-2) var(--space-4);
+    background: var(--surface);
+    color: var(--accent);
+    border: 1px dashed var(--border-strong);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: var(--text-sm);
+    cursor: pointer;
+  }
+  .trans-editor__add:hover {
+    background: color-mix(in srgb, var(--accent) 6%, var(--surface));
+    border-color: var(--accent);
+  }
+</style>

@@ -29,6 +29,12 @@ const wordIndex = await buildWordIndex();
   <div class="page word-page">
     <p class="word-page__breadcrumb">
       <a href="/slownik">← Słownik</a>
+      <a
+        href={`/admin/slownik/${entry.slug}`}
+        class="word-page__edit-link"
+        data-admin-only
+        hidden
+      >✏ Edytuj</a>
     </p>
 
     <header class="word-page__header">
@@ -143,6 +149,11 @@ const wordIndex = await buildWordIndex();
   }
 
   .word-page__breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-3);
     font-size: var(--text-sm);
     color: var(--text-muted);
     margin-block-end: var(--space-4);
@@ -150,6 +161,20 @@ const wordIndex = await buildWordIndex();
 
   .word-page__breadcrumb a {
     color: var(--accent);
+  }
+
+  .word-page__edit-link {
+    padding: 2px var(--space-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    font-size: var(--text-xs);
+  }
+
+  .word-page__edit-link:hover {
+    background: color-mix(in srgb, var(--accent) 8%, var(--surface));
+    border-color: var(--accent);
+    text-decoration: none;
   }
 
   .word-page__header {

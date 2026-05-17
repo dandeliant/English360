@@ -16,8 +16,10 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '../..');
 const LESSONS_DIR = join(ROOT, 'src/content/lessons');
+const WIKT_DIR = join(ROOT, 'src/data/wiktionary');
 
 const LESSON_ID_RE = /^\d{4}-\d{2}-\d{2}-[a-z0-9-]+$/;
+const SLUG_RE = /^[a-z0-9]+$/;
 const CEFR_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 
 function respond(res, status, body) {
@@ -110,6 +112,52 @@ function stripUndefined(obj) {
   return obj;
 }
 
+async function handleSaveTranslations(req, res) {
+  if (req.method !== 'POST') return respond(res, 405, { error: 'Method not allowed' });
+  const body = await readJsonBody(req);
+  if (!body || typeof body !== 'object') return respond(res, 400, { error: 'Missing body' });
+  const { slug, translations } = body;
+  if (typeof slug !== 'string' || !SLUG_RE.test(slug)) {
+    return respond(res, 400, { error: 'Invalid slug (lowercase alphanumeric only)' });
+  }
+  if (!Array.isArray(translations)) {
+    return respond(res, 400, { error: 'translations must be an array' });
+  }
+  const cleaned = translations
+    .map((t) => (typeof t === 'string' ? t.trim() : ''))
+    .filter(Boolean);
+
+  const path = join(WIKT_DIR, `${slug}.json`);
+  await mkdir(WIKT_DIR, { recursive: true });
+
+  let cache;
+  try {
+    const existing = await readFile(path, 'utf8');
+    cache = JSON.parse(existing);
+  } catch {
+    // Word with no cache file yet (rare — usually built at first sync).
+    cache = {
+      lemma: slug,
+      slug,
+      fetchedAt: new Date().toISOString(),
+      en: null,
+      pl: null,
+    };
+  }
+
+  cache.translations = cleaned;
+  cache.fetchedAt = new Date().toISOString();
+
+  const formatted = JSON.stringify(cache, null, 2) + '\n';
+  await writeFile(path, formatted, 'utf8');
+
+  return respond(res, 200, {
+    ok: true,
+    path: `src/data/wiktionary/${slug}.json`,
+    count: cleaned.length,
+  });
+}
+
 export default function adminApi() {
   return {
     name: 'admin-api',
@@ -123,6 +171,16 @@ export default function adminApi() {
           } catch (err) {
             // eslint-disable-next-line no-console
             console.error('[admin-api] save-lesson failed:', err);
+            respond(res, 500, { error: err.message || 'Internal error' });
+          }
+        });
+
+        server.middlewares.use('/api/admin/save-translations', async (req, res, next) => {
+          try {
+            await handleSaveTranslations(req, res);
+          } catch (err) {
+            // eslint-disable-next-line no-console
+            console.error('[admin-api] save-translations failed:', err);
             respond(res, 500, { error: err.message || 'Internal error' });
           }
         });
