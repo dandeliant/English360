@@ -1,7 +1,7 @@
 {
   "lemma": "temptation",
   "slug": "temptation",
-  "fetchedAt": "2026-05-17T13:25:32.665Z",
+  "fetchedAt": "2026-05-17T13:58:20.230Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -26,5 +26,6 @@
     "kuszenie",
     "pokuszenie",
     "pokusa"
-  ]
+  ],
+  "fetchTerm": "temptation"
 }

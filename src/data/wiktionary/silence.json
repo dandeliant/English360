@@ -1,7 +1,7 @@
 {
   "lemma": "silence",
   "slug": "silence",
-  "fetchedAt": "2026-05-17T13:25:06.624Z",
+  "fetchedAt": "2026-05-17T13:58:20.078Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -69,5 +69,6 @@
     "milczenie",
     "uciszać",
     "uciszyć"
-  ]
+  ],
+  "fetchTerm": "silence"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "exasperation",
   "slug": "exasperation",
-  "fetchedAt": "2026-05-17T13:23:00.800Z",
+  "fetchedAt": "2026-05-17T13:58:10.982Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -22,5 +22,6 @@
     "rozdrażnienie",
     "irytacja",
     "egzasperacja"
-  ]
+  ],
+  "fetchTerm": "exasperation"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "extravagance",
   "slug": "extravagance",
-  "fetchedAt": "2026-05-17T13:23:02.991Z",
+  "fetchedAt": "2026-05-17T13:58:10.995Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -28,5 +28,6 @@
     "ekstrawagancja",
     "rozrzutność",
     "przesada"
-  ]
+  ],
+  "fetchTerm": "extravagance"
 }

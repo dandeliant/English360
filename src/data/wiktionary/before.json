@@ -1,7 +1,7 @@
 {
   "lemma": "before",
   "slug": "before",
-  "fetchedAt": "2026-05-17T13:22:03.452Z",
+  "fetchedAt": "2026-05-17T13:58:05.477Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -90,5 +90,6 @@
     "przed",
     "nim",
     "zanim"
-  ]
+  ],
+  "fetchTerm": "before"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "hawk",
   "slug": "hawk",
-  "fetchedAt": "2026-05-17T13:23:30.491Z",
+  "fetchedAt": "2026-05-17T13:58:14.740Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -84,5 +84,6 @@
   "translations": [
     "jastrząb",
     "deska do zaprawy murarskiej"
-  ]
+  ],
+  "fetchTerm": "hawk"
 }

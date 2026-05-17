@@ -1,7 +1,7 @@
 {
   "lemma": "insect",
   "slug": "insect",
-  "fetchedAt": "2026-05-17T13:23:44.844Z",
+  "fetchedAt": "2026-05-17T13:58:14.858Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -25,5 +25,6 @@
     "robak",
     "insekt",
     "zero"
-  ]
+  ],
+  "fetchTerm": "insect"
 }

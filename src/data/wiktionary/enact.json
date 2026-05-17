@@ -1,7 +1,7 @@
 {
   "lemma": "enact",
   "slug": "enact",
-  "fetchedAt": "2026-05-17T13:22:57.484Z",
+  "fetchedAt": "2026-05-17T13:58:09.721Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -22,5 +22,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "enact"
 }

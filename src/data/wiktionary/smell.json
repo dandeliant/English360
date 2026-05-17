@@ -1,7 +1,7 @@
 {
   "lemma": "smell",
   "slug": "smell",
-  "fetchedAt": "2026-05-17T13:25:13.591Z",
+  "fetchedAt": "2026-05-17T13:58:20.139Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -46,5 +46,6 @@
     "pach",
     "węch",
     "zmysł powonienia"
-  ]
+  ],
+  "fetchTerm": "smell"
 }

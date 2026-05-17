@@ -1,7 +1,7 @@
 {
   "lemma": "miniature",
   "slug": "miniature",
-  "fetchedAt": "2026-05-17T13:24:10.962Z",
+  "fetchedAt": "2026-05-17T13:58:15.037Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -46,5 +46,6 @@
   "pl": null,
   "translations": [
     "miniatura"
-  ]
+  ],
+  "fetchTerm": "miniature"
 }

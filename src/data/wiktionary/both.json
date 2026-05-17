@@ -1,7 +1,7 @@
 {
   "lemma": "both",
   "slug": "both",
-  "fetchedAt": "2026-05-17T13:22:10.162Z",
+  "fetchedAt": "2026-05-17T13:58:06.748Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -51,5 +51,6 @@
     "obie",
     "obaj",
     "obydwaj"
-  ]
+  ],
+  "fetchTerm": "both"
 }

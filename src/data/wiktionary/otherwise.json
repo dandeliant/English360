@@ -1,7 +1,7 @@
 {
   "lemma": "otherwise",
   "slug": "otherwise",
-  "fetchedAt": "2026-05-17T13:24:30.043Z",
+  "fetchedAt": "2026-05-17T13:58:15.144Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -46,5 +46,6 @@
     "inaczej",
     "w przeciwnym razie",
     "poza tym"
-  ]
+  ],
+  "fetchTerm": "otherwise"
 }

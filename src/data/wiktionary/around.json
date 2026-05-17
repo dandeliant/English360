@@ -1,7 +1,7 @@
 {
   "lemma": "around",
   "slug": "around",
-  "fetchedAt": "2026-05-17T13:21:55.084Z",
+  "fetchedAt": "2026-05-17T13:58:05.443Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -78,5 +78,6 @@
     "około",
     "wokół",
     "dookoła"
-  ]
+  ],
+  "fetchTerm": "around"
 }

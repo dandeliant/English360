@@ -1,7 +1,7 @@
 {
   "lemma": "close",
   "slug": "close",
-  "fetchedAt": "2026-05-17T13:22:28.280Z",
+  "fetchedAt": "2026-05-17T13:58:09.547Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -122,5 +122,6 @@
     "zamykać",
     "zamknąć",
     "bliski"
-  ]
+  ],
+  "fetchTerm": "close"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "transfer",
   "slug": "transfer",
-  "fetchedAt": "2026-05-17T13:25:44.962Z",
+  "fetchedAt": "2026-05-17T13:58:21.530Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -53,5 +53,6 @@
     "przepisywać",
     "przepisać",
     "przenoszenie"
-  ]
+  ],
+  "fetchTerm": "transfer"
 }

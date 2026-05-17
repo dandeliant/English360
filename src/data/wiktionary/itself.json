@@ -1,7 +1,7 @@
 {
   "lemma": "itself",
   "slug": "itself",
-  "fetchedAt": "2026-05-17T13:23:49.087Z",
+  "fetchedAt": "2026-05-17T13:58:14.882Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -29,5 +29,6 @@
   "translations": [
     "się",
     "ono samo"
-  ]
+  ],
+  "fetchTerm": "itself"
 }

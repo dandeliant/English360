@@ -1,7 +1,7 @@
 {
   "lemma": "mark",
   "slug": "mark",
-  "fetchedAt": "2026-05-17T13:24:06.733Z",
+  "fetchedAt": "2026-05-17T13:58:15.005Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -87,5 +87,6 @@
     "ocena",
     "kryć",
     "marka"
-  ]
+  ],
+  "fetchTerm": "mark"
 }

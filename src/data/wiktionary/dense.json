@@ -1,7 +1,7 @@
 {
   "lemma": "dense",
   "slug": "dense",
-  "fetchedAt": "2026-05-17T13:22:46.106Z",
+  "fetchedAt": "2026-05-17T13:58:09.645Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -37,5 +37,6 @@
     "zwarty",
     "zbity",
     "tępy"
-  ]
+  ],
+  "fetchTerm": "dense"
 }

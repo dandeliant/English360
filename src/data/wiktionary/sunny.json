@@ -1,7 +1,7 @@
 {
   "lemma": "sunny",
   "slug": "sunny",
-  "fetchedAt": "2026-05-17T13:25:27.479Z",
+  "fetchedAt": "2026-05-17T13:58:20.207Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -49,5 +49,6 @@
   "pl": null,
   "translations": [
     "słoneczny"
-  ]
+  ],
+  "fetchTerm": "sunny"
 }

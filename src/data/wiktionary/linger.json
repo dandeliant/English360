@@ -1,7 +1,7 @@
 {
   "lemma": "linger",
   "slug": "linger",
-  "fetchedAt": "2026-05-17T13:24:01.088Z",
+  "fetchedAt": "2026-05-17T13:58:14.981Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -22,5 +22,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "linger"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "nectar",
   "slug": "nectar",
-  "fetchedAt": "2026-05-17T13:24:18.139Z",
+  "fetchedAt": "2026-05-17T13:58:15.086Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -31,5 +31,6 @@
   "pl": null,
   "translations": [
     "nektar"
-  ]
+  ],
+  "fetchTerm": "nectar"
 }

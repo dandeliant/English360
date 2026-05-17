@@ -1,7 +1,7 @@
 {
   "lemma": "country",
   "slug": "country",
-  "fetchedAt": "2026-05-17T13:22:33.480Z",
+  "fetchedAt": "2026-05-17T13:58:09.573Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -37,5 +37,6 @@
     "państwo",
     "wieś",
     "prowincja"
-  ]
+  ],
+  "fetchTerm": "country"
 }

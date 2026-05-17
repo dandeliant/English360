@@ -1,7 +1,7 @@
 {
   "lemma": "acreage",
   "slug": "acreage",
-  "fetchedAt": "2026-05-17T13:21:44.858Z",
+  "fetchedAt": "2026-05-17T13:58:03.653Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -21,5 +21,6 @@
   "translations": [
     "areał",
     "powierzchnia"
-  ]
+  ],
+  "fetchTerm": "acreage"
 }

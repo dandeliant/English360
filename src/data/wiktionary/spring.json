@@ -1,7 +1,7 @@
 {
   "lemma": "spring",
   "slug": "spring",
-  "fetchedAt": "2026-05-17T13:25:19.226Z",
+  "fetchedAt": "2026-05-17T13:58:20.168Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -56,5 +56,6 @@
     "zdrój",
     "krynica",
     "sprężyna"
-  ]
+  ],
+  "fetchTerm": "spring"
 }

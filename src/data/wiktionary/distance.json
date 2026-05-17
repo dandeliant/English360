@@ -1,7 +1,7 @@
 {
   "lemma": "distance",
   "slug": "distance",
-  "fetchedAt": "2026-05-17T13:22:47.485Z",
+  "fetchedAt": "2026-05-17T13:58:09.654Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -46,5 +46,6 @@
     "odległość",
     "oddal",
     "dal"
-  ]
+  ],
+  "fetchTerm": "distance"
 }

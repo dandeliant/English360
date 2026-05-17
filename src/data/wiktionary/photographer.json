@@ -1,7 +1,7 @@
 {
   "lemma": "photographer",
   "slug": "photographer",
-  "fetchedAt": "2026-05-17T13:24:39.251Z",
+  "fetchedAt": "2026-05-17T13:58:15.205Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,6 @@
   "translations": [
     "fotograf",
     "fotografka"
-  ]
+  ],
+  "fetchTerm": "photographer"
 }

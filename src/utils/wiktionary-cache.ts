@@ -27,6 +27,10 @@ export type WiktionaryPlSummary = {
 export type WiktionaryCache = {
   lemma: string;
   slug: string;
+  /** Surface form used to fetch this entry from Wiktionary. For most
+   *  words equals `lemma`; for proper nouns it's the capitalised form
+   *  (e.g. `Polish` rather than `polish`) so we hit the right page. */
+  fetchTerm?: string;
   fetchedAt: string;
   en: WiktionaryEnEntry[] | null;
   pl: WiktionaryPlSummary | null;

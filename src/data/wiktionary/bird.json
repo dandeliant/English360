@@ -1,7 +1,7 @@
 {
   "lemma": "bird",
   "slug": "bird",
-  "fetchedAt": "2026-05-17T13:22:07.446Z",
+  "fetchedAt": "2026-05-17T13:58:06.719Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -70,5 +70,6 @@
     "ptak",
     "środkowy palec",
     "fak"
-  ]
+  ],
+  "fetchTerm": "bird"
 }

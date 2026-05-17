@@ -1,7 +1,7 @@
 {
   "lemma": "also",
   "slug": "also",
-  "fetchedAt": "2026-05-17T13:21:49.384Z",
+  "fetchedAt": "2026-05-17T13:58:05.389Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -33,5 +33,6 @@
     "też",
     "również",
     "także"
-  ]
+  ],
+  "fetchTerm": "also"
 }

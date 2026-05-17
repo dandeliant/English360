@@ -1,7 +1,7 @@
 {
   "lemma": "buzzard",
   "slug": "buzzard",
-  "fetchedAt": "2026-05-17T13:22:18.069Z",
+  "fetchedAt": "2026-05-17T13:58:09.485Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -35,5 +35,6 @@
     "myszołów",
     "piernik",
     "zgred"
-  ]
+  ],
+  "fetchTerm": "buzzard"
 }

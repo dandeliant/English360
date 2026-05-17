@@ -1,7 +1,7 @@
 {
   "lemma": "leaf",
   "slug": "leaf",
-  "fetchedAt": "2026-05-17T13:23:56.168Z",
+  "fetchedAt": "2026-05-17T13:58:14.929Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -44,5 +44,6 @@
   "translations": [
     "liść",
     "kartka"
-  ]
+  ],
+  "fetchTerm": "leaf"
 }

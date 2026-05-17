@@ -1,7 +1,7 @@
 {
   "lemma": "these",
   "slug": "these",
-  "fetchedAt": "2026-05-17T13:25:37.947Z",
+  "fetchedAt": "2026-05-17T13:58:21.478Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -26,5 +26,6 @@
   "translations": [
     "te",
     "ci"
-  ]
+  ],
+  "fetchTerm": "these"
 }

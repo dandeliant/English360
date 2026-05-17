@@ -1,7 +1,7 @@
 {
   "lemma": "stalk",
   "slug": "stalk",
-  "fetchedAt": "2026-05-17T13:25:19.756Z",
+  "fetchedAt": "2026-05-17T13:58:20.171Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -79,5 +79,6 @@
     "zakradać się",
     "nękać",
     "stalkować"
-  ]
+  ],
+  "fetchTerm": "stalk"
 }

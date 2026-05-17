@@ -1,7 +1,7 @@
 {
   "lemma": "simply",
   "slug": "simply",
-  "fetchedAt": "2026-05-17T13:25:08.011Z",
+  "fetchedAt": "2026-05-17T13:58:20.089Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -24,5 +24,6 @@
   "pl": null,
   "translations": [
     "po prostu"
-  ]
+  ],
+  "fetchTerm": "simply"
 }

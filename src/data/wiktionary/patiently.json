@@ -1,7 +1,7 @@
 {
   "lemma": "patiently",
   "slug": "patiently",
-  "fetchedAt": "2026-05-17T13:24:36.514Z",
+  "fetchedAt": "2026-05-17T13:58:15.186Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "cierpliwie"
-  ]
+  ],
+  "fetchTerm": "patiently"
 }

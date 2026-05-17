@@ -1,7 +1,7 @@
 {
   "lemma": "than",
   "slug": "than",
-  "fetchedAt": "2026-05-17T13:25:33.731Z",
+  "fetchedAt": "2026-05-17T13:58:20.236Z",
   "en": [
     {
       "partOfSpeech": "Conjunction",
@@ -45,5 +45,6 @@
   "translations": [
     "niż",
     "aniżeli"
-  ]
+  ],
+  "fetchTerm": "than"
 }

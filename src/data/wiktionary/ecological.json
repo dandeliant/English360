@@ -1,7 +1,7 @@
 {
   "lemma": "ecological",
   "slug": "ecological",
-  "fetchedAt": "2026-05-17T13:22:54.600Z",
+  "fetchedAt": "2026-05-17T13:58:09.708Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -20,5 +20,6 @@
   "pl": null,
   "translations": [
     "ekologiczny"
-  ]
+  ],
+  "fetchTerm": "ecological"
 }

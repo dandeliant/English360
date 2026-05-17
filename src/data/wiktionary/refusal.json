@@ -1,7 +1,7 @@
 {
   "lemma": "refusal",
   "slug": "refusal",
-  "fetchedAt": "2026-05-17T13:24:50.097Z",
+  "fetchedAt": "2026-05-17T13:58:19.959Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -22,5 +22,6 @@
   "pl": null,
   "translations": [
     "odmowa"
-  ]
+  ],
+  "fetchTerm": "refusal"
 }

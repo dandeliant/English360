@@ -1,7 +1,7 @@
 {
   "lemma": "some",
   "slug": "some",
-  "fetchedAt": "2026-05-17T13:25:15.786Z",
+  "fetchedAt": "2026-05-17T13:58:20.151Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -79,5 +79,6 @@
     "kilka",
     "niektórzy",
     "niektóre"
-  ]
+  ],
+  "fetchTerm": "some"
 }

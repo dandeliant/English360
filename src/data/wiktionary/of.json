@@ -1,7 +1,7 @@
 {
   "lemma": "of",
   "slug": "of",
-  "fetchedAt": "2026-05-17T13:24:25.229Z",
+  "fetchedAt": "2026-05-17T13:58:15.122Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -42,5 +42,6 @@
     "z",
     "o",
     "na temat"
-  ]
+  ],
+  "fetchTerm": "of"
 }

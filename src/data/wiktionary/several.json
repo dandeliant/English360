@@ -1,7 +1,7 @@
 {
   "lemma": "several",
   "slug": "several",
-  "fetchedAt": "2026-05-17T13:25:03.412Z",
+  "fetchedAt": "2026-05-17T13:58:20.041Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -62,5 +62,6 @@
   "pl": null,
   "translations": [
     "kilka"
-  ]
+  ],
+  "fetchTerm": "several"
 }

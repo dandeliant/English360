@@ -1,7 +1,7 @@
 {
   "lemma": "out",
   "slug": "out",
-  "fetchedAt": "2026-05-17T13:24:31.698Z",
+  "fetchedAt": "2026-05-17T13:58:15.152Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -121,5 +121,6 @@
     "na zewnątrz",
     "autować",
     "wyautować"
-  ]
+  ],
+  "fetchTerm": "out"
 }

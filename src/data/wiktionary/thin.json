@@ -1,7 +1,7 @@
 {
   "lemma": "thin",
   "slug": "thin",
-  "fetchedAt": "2026-05-17T13:25:39.005Z",
+  "fetchedAt": "2026-05-17T13:58:21.483Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -80,5 +80,6 @@
     "chudy",
     "rzadki",
     "rozcieńczyć"
-  ]
+  ],
+  "fetchTerm": "thin"
 }

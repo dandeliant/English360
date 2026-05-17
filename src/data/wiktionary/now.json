@@ -1,7 +1,7 @@
 {
   "lemma": "now",
   "slug": "now",
-  "fetchedAt": "2026-05-17T13:24:23.127Z",
+  "fetchedAt": "2026-05-17T13:58:15.111Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -117,5 +117,6 @@
     "obecnie",
     "nynie",
     "w tej chwili"
-  ]
+  ],
+  "fetchTerm": "now"
 }

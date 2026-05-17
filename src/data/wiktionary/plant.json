@@ -1,7 +1,7 @@
 {
   "lemma": "plant",
   "slug": "plant",
-  "fetchedAt": "2026-05-17T13:24:40.906Z",
+  "fetchedAt": "2026-05-17T13:58:15.214Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -41,5 +41,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "plant"
 }

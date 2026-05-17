@@ -1,7 +1,7 @@
 {
   "lemma": "solitary",
   "slug": "solitary",
-  "fetchedAt": "2026-05-17T13:25:15.197Z",
+  "fetchedAt": "2026-05-17T13:58:20.148Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -61,5 +61,6 @@
     "samotny",
     "samodzielny",
     "odludny"
-  ]
+  ],
+  "fetchTerm": "solitary"
 }

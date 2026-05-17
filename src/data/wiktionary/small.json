@@ -1,7 +1,7 @@
 {
   "lemma": "small",
   "slug": "small",
-  "fetchedAt": "2026-05-17T13:25:12.570Z",
+  "fetchedAt": "2026-05-17T13:58:20.132Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -83,5 +83,6 @@
   "translations": [
     "mały",
     "młody"
-  ]
+  ],
+  "fetchTerm": "small"
 }

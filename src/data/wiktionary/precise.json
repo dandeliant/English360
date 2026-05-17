@@ -1,7 +1,7 @@
 {
   "lemma": "precise",
   "slug": "precise",
-  "fetchedAt": "2026-05-17T13:24:44.386Z",
+  "fetchedAt": "2026-05-17T13:58:18.579Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -38,5 +38,6 @@
     "dokładny",
     "precyzyjny",
     "precyzować"
-  ]
+  ],
+  "fetchTerm": "precise"
 }

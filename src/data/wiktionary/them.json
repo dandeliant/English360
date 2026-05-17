@@ -1,7 +1,7 @@
 {
   "lemma": "them",
   "slug": "them",
-  "fetchedAt": "2026-05-17T13:25:36.413Z",
+  "fetchedAt": "2026-05-17T13:58:20.249Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -43,5 +43,6 @@
   "translations": [
     "ich",
     "je"
-  ]
+  ],
+  "fetchTerm": "them"
 }

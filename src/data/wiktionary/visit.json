@@ -1,7 +1,7 @@
 {
   "lemma": "visit",
   "slug": "visit",
-  "fetchedAt": "2026-05-17T13:25:54.082Z",
+  "fetchedAt": "2026-05-17T13:58:21.570Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -46,5 +46,6 @@
     "złożyć wizytę",
     "nawiedzić",
     "wizyta"
-  ]
+  ],
+  "fetchTerm": "visit"
 }

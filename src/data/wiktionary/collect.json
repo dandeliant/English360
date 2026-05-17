@@ -1,7 +1,7 @@
 {
   "lemma": "collect",
   "slug": "collect",
-  "fetchedAt": "2026-05-17T13:22:29.663Z",
+  "fetchedAt": "2026-05-17T13:58:09.554Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -69,5 +69,6 @@
     "gromadzić",
     "zgromadzić",
     "odbierać"
-  ]
+  ],
+  "fetchTerm": "collect"
 }

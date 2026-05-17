@@ -60,8 +60,34 @@ function uniqueLemmasInText(text) {
   return out;
 }
 
+/** Same split logic as src/utils/word-index.ts so proper-noun detection
+ *  uses identical sentence boundaries. */
+function splitSentences(text) {
+  return text
+    .split(/(?<=[.!?])\s+(?=[A-Z"„'(])/u)
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+
+/** Returns sorted [{ lemma, fetchTerm }] where fetchTerm is the surface
+ *  form to send to Wiktionary. For most words fetchTerm === lemma; for
+ *  proper nouns (Polish, Poland, France, May, Brassicaceae...) fetchTerm
+ *  is the capitalised form so we hit the correct disambiguation page. */
 async function collectLemmas() {
-  const lemmas = new Set();
+  // slug -> { lemma, forms: Map<surface, count> }
+  const stats = new Map();
+
+  function record(lemma, surface) {
+    const slug = slugOf(lemma);
+    if (!slug) return;
+    let s = stats.get(slug);
+    if (!s) {
+      s = { lemma, forms: new Map() };
+      stats.set(slug, s);
+    }
+    s.forms.set(surface, (s.forms.get(surface) || 0) + 1);
+  }
+
   const files = await readdir(LESSONS_DIR);
   for (const file of files) {
     if (!file.endsWith('.json')) continue;
@@ -71,19 +97,65 @@ async function collectLemmas() {
     for (const level of Object.values(data.levels)) {
       if (!level) continue;
       if (typeof level.text === 'string') {
-        for (const l of uniqueLemmasInText(level.text)) lemmas.add(l);
+        // Walk sentence by sentence so we can skip the first word of each
+        // (it would always be capitalised regardless of part of speech).
+        for (const sentence of splitSentences(level.text)) {
+          TOKEN_RE.lastIndex = 0;
+          let m;
+          let isFirstWord = true;
+          while ((m = TOKEN_RE.exec(sentence))) {
+            if (!m[1]) continue;
+            const surface = m[1];
+            if (!isFirstWord) record(lemmaOf(surface), surface);
+            else {
+              // Still ensure the lemma is in stats (so we don't miss
+              // proper nouns that appear only at sentence start) — but
+              // without recording a misleading capitalised form.
+              const lemma = lemmaOf(surface);
+              const slug = slugOf(lemma);
+              if (slug && !stats.has(slug)) stats.set(slug, { lemma, forms: new Map() });
+            }
+            isFirstWord = false;
+          }
+        }
       }
       if (Array.isArray(level.vocab)) {
+        // Vocab terms only ensure the lemma is in the index — don't let
+        // them sway proper-noun detection one way or the other (the
+        // author's chosen case here is usually meaningless).
         for (const v of level.vocab) {
           if (typeof v.term !== 'string') continue;
           if (/\s/.test(v.term)) continue;
-          const l = lemmaOf(v.term);
-          if (slugOf(l)) lemmas.add(l);
+          const lemma = lemmaOf(v.term);
+          const slug = slugOf(lemma);
+          if (slug && !stats.has(slug)) stats.set(slug, { lemma, forms: new Map() });
         }
       }
     }
   }
-  return [...lemmas].sort();
+
+  const out = [];
+  for (const { lemma, forms } of stats.values()) {
+    let capped = 0;
+    let lower = 0;
+    let bestCap = '';
+    let bestCapN = 0;
+    for (const [surface, count] of forms) {
+      if (/^[A-Z]/.test(surface)) {
+        capped += count;
+        if (count > bestCapN) {
+          bestCapN = count;
+          bestCap = surface;
+        }
+      } else {
+        lower += count;
+      }
+    }
+    const fetchTerm = capped > lower && bestCap ? bestCap : lemma;
+    out.push({ lemma, fetchTerm });
+  }
+  out.sort((a, b) => a.lemma.localeCompare(b.lemma));
+  return out;
 }
 
 // ── HTTP helpers ───────────────────────────────────────────────────────────
@@ -183,8 +255,8 @@ function parsePolishTranslations(wikitext) {
 
 // ── Per-field fetchers ─────────────────────────────────────────────────────
 
-async function fetchEnDefinitions(lemma) {
-  const url = `https://en.wiktionary.org/api/rest_v1/page/definition/${encodeURIComponent(lemma)}`;
+async function fetchEnDefinitions(fetchTerm) {
+  const url = `https://en.wiktionary.org/api/rest_v1/page/definition/${encodeURIComponent(fetchTerm)}`;
   try {
     const r = await fetchJsonWithRetry(url);
     if (r.notFound || !r.data) return null;
@@ -195,8 +267,8 @@ async function fetchEnDefinitions(lemma) {
   }
 }
 
-async function fetchPlSummary(lemma) {
-  const url = `https://pl.wiktionary.org/api/rest_v1/page/summary/${encodeURIComponent(lemma)}`;
+async function fetchPlSummary(fetchTerm) {
+  const url = `https://pl.wiktionary.org/api/rest_v1/page/summary/${encodeURIComponent(fetchTerm)}`;
   try {
     const r = await fetchJsonWithRetry(url);
     if (r.notFound || !r.data) return null;
@@ -207,8 +279,8 @@ async function fetchPlSummary(lemma) {
   }
 }
 
-async function fetchEnTranslations(lemma) {
-  const url = `https://en.wiktionary.org/w/api.php?action=parse&page=${encodeURIComponent(lemma)}&prop=wikitext&format=json&formatversion=2`;
+async function fetchEnTranslations(fetchTerm) {
+  const url = `https://en.wiktionary.org/w/api.php?action=parse&page=${encodeURIComponent(fetchTerm)}&prop=wikitext&format=json&formatversion=2`;
   try {
     const r = await fetchJsonWithRetry(url);
     if (r.notFound) return [];
@@ -233,7 +305,7 @@ async function fileExists(path) {
   }
 }
 
-async function syncOne(lemma) {
+async function syncOne(lemma, fetchTerm) {
   const slug = slugOf(lemma);
   const cachePath = join(CACHE_DIR, `${slug}.json`);
 
@@ -247,13 +319,32 @@ async function syncOne(lemma) {
   }
 
   let changed = isNew;
+  let invalidated = false;
   let fetchedEn = false;
   let fetchedPl = false;
   let fetchedTr = false;
 
+  // If the fetch term changed (proper-noun detection flipped, e.g. "polish"
+  // -> "Polish"), drop the existing fields so they get re-fetched against
+  // the correct Wiktionary page. Legacy caches without `fetchTerm` are
+  // treated as if they were fetched with the lowercase lemma, which is true.
+  const cachedFetchTerm = cache.fetchTerm || lemma;
+  if (cachedFetchTerm !== fetchTerm) {
+    delete cache.en;
+    delete cache.pl;
+    delete cache.translations;
+    cache.fetchTerm = fetchTerm;
+    invalidated = true;
+    changed = true;
+  } else if (cache.fetchTerm !== fetchTerm) {
+    // Same value, but field missing — back-fill without invalidating data.
+    cache.fetchTerm = fetchTerm;
+    changed = true;
+  }
+
   // EN definitions
   if (!('en' in cache)) {
-    cache.en = await fetchEnDefinitions(lemma);
+    cache.en = await fetchEnDefinitions(fetchTerm);
     changed = true;
     fetchedEn = true;
     await sleep(RATE_LIMIT_MS);
@@ -261,7 +352,7 @@ async function syncOne(lemma) {
 
   // PL Wikisłownik summary
   if (!('pl' in cache)) {
-    cache.pl = await fetchPlSummary(lemma);
+    cache.pl = await fetchPlSummary(fetchTerm);
     changed = true;
     fetchedPl = true;
     await sleep(RATE_LIMIT_MS);
@@ -270,7 +361,7 @@ async function syncOne(lemma) {
   // EN-page Polish translations — retry on null (fetch error), not on []
   // (no-translation result is final).
   if (!('translations' in cache) || cache.translations === null) {
-    cache.translations = await fetchEnTranslations(lemma);
+    cache.translations = await fetchEnTranslations(fetchTerm);
     changed = true;
     fetchedTr = true;
     await sleep(RATE_LIMIT_MS);
@@ -284,6 +375,7 @@ async function syncOne(lemma) {
   return {
     isNew,
     changed,
+    invalidated,
     fetchedEn,
     fetchedPl,
     fetchedTr,
@@ -302,17 +394,19 @@ async function main() {
 
   let newCount = 0,
     migratedCount = 0,
+    invalidatedCount = 0,
     unchanged = 0,
     errored = 0;
   const errors = [];
 
   for (let i = 0; i < lemmas.length; i++) {
-    const lemma = lemmas[i];
+    const { lemma, fetchTerm } = lemmas[i];
     const pos = `[${String(i + 1).padStart(3)}/${lemmas.length}]`;
-    process.stdout.write(`${pos} ${lemma.padEnd(28)}`);
+    const label = fetchTerm !== lemma ? `${lemma} → ${fetchTerm}` : lemma;
+    process.stdout.write(`${pos} ${label.padEnd(32)}`);
     let r;
     try {
-      r = await syncOne(lemma);
+      r = await syncOne(lemma, fetchTerm);
     } catch (err) {
       errored++;
       errors.push({ lemma, msg: err.message });
@@ -322,6 +416,9 @@ async function main() {
     if (r.isNew) {
       newCount++;
       process.stdout.write(`  ✓ new   EN:${r.hasEn ? 'y' : '-'} PL:${r.hasPl ? 'y' : '-'} tr:${r.translationCount}\n`);
+    } else if (r.invalidated) {
+      invalidatedCount++;
+      process.stdout.write(`  ↻ re-fetched (proper noun)  EN:${r.hasEn ? 'y' : '-'} PL:${r.hasPl ? 'y' : '-'} tr:${r.translationCount}\n`);
     } else if (r.changed) {
       migratedCount++;
       const tags = [];
@@ -336,10 +433,11 @@ async function main() {
   }
 
   console.log(`\nDone.`);
-  console.log(`  new:        ${newCount}`);
-  console.log(`  back-filled: ${migratedCount}`);
-  console.log(`  unchanged:  ${unchanged}`);
-  console.log(`  errored:    ${errored}`);
+  console.log(`  new:           ${newCount}`);
+  console.log(`  back-filled:   ${migratedCount}`);
+  console.log(`  re-fetched:    ${invalidatedCount}`);
+  console.log(`  unchanged:     ${unchanged}`);
+  console.log(`  errored:       ${errored}`);
   if (errors.length) {
     console.log(`\nErrored lemmas:`);
     for (const e of errors) console.log(`  - ${e.lemma}: ${e.msg}`);

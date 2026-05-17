@@ -1,7 +1,7 @@
 {
   "lemma": "suspend",
   "slug": "suspend",
-  "fetchedAt": "2026-05-17T13:25:29.382Z",
+  "fetchedAt": "2026-05-17T13:58:20.216Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -29,5 +29,6 @@
   "translations": [
     "zawieszać",
     "zawiesić"
-  ]
+  ],
+  "fetchTerm": "suspend"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "subject",
   "slug": "subject",
-  "fetchedAt": "2026-05-17T13:25:25.356Z",
+  "fetchedAt": "2026-05-17T13:58:20.197Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -66,5 +66,6 @@
     "przedmiot",
     "poddany",
     "poddana"
-  ]
+  ],
+  "fetchTerm": "subject"
 }

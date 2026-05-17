@@ -1,7 +1,7 @@
 {
   "lemma": "between",
   "slug": "between",
-  "fetchedAt": "2026-05-17T13:22:06.005Z",
+  "fetchedAt": "2026-05-17T13:58:06.714Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -41,5 +41,6 @@
   "translations": [
     "pomiędzy",
     "między"
-  ]
+  ],
+  "fetchTerm": "between"
 }

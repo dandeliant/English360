@@ -1,7 +1,7 @@
 {
   "lemma": "region",
   "slug": "region",
-  "fetchedAt": "2026-05-17T13:24:51.180Z",
+  "fetchedAt": "2026-05-17T13:58:19.978Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -31,5 +31,6 @@
     "region",
     "rejon",
     "obwód"
-  ]
+  ],
+  "fetchTerm": "region"
 }

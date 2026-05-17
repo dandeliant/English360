@@ -1,7 +1,7 @@
 {
   "lemma": "from",
   "slug": "from",
-  "fetchedAt": "2026-05-17T13:23:17.968Z",
+  "fetchedAt": "2026-05-17T13:58:14.641Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -33,5 +33,6 @@
   "translations": [
     "z",
     "od"
-  ]
+  ],
+  "fetchTerm": "from"
 }

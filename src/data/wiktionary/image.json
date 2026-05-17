@@ -1,7 +1,7 @@
 {
   "lemma": "image",
   "slug": "image",
-  "fetchedAt": "2026-05-17T13:23:40.641Z",
+  "fetchedAt": "2026-05-17T13:58:14.837Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -41,5 +41,6 @@
     "obraz",
     "wizerunek",
     "image"
-  ]
+  ],
+  "fetchTerm": "image"
 }

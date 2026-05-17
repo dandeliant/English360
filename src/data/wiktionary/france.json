@@ -1,8 +1,25 @@
 {
   "lemma": "france",
   "slug": "france",
-  "fetchedAt": "2026-05-17T13:23:16.480Z",
-  "en": null,
+  "fetchedAt": "2026-05-17T13:58:14.623Z",
+  "fetchTerm": "France",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A country located primarily in Western Europe. Official name: French Republic. Capital and largest city: Paris. In particular, metropolitan France, the part of France which is in Europe.",
+          "examples": []
+        },
+        {
+          "text": "In particular, metropolitan France, the part of France which is in Europe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
   "pl": null,
-  "translations": []
+  "translations": [
+    "Francja"
+  ]
 }

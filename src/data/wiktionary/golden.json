@@ -1,7 +1,7 @@
 {
   "lemma": "golden",
   "slug": "golden",
-  "fetchedAt": "2026-05-17T13:23:26.046Z",
+  "fetchedAt": "2026-05-17T13:58:14.706Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -57,5 +57,6 @@
     "złoty",
     "złocisty",
     "wielki"
-  ]
+  ],
+  "fetchTerm": "golden"
 }

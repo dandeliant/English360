@@ -1,7 +1,7 @@
 {
   "lemma": "pollinator",
   "slug": "pollinator",
-  "fetchedAt": "2026-05-17T13:24:43.942Z",
+  "fetchedAt": "2026-05-17T13:58:18.576Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -20,5 +20,6 @@
   "pl": null,
   "translations": [
     "zapylacz"
-  ]
+  ],
+  "fetchTerm": "pollinator"
 }

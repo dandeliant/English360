@@ -1,7 +1,7 @@
 {
   "lemma": "antenna",
   "slug": "antenna",
-  "fetchedAt": "2026-05-17T13:21:52.736Z",
+  "fetchedAt": "2026-05-17T13:58:05.430Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,6 @@
   "translations": [
     "czułek",
     "antena"
-  ]
+  ],
+  "fetchTerm": "antenna"
 }

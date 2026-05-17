@@ -1,7 +1,7 @@
 {
   "lemma": "slow",
   "slug": "slow",
-  "fetchedAt": "2026-05-17T13:25:11.522Z",
+  "fetchedAt": "2026-05-17T13:58:20.125Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -74,5 +74,6 @@
   "translations": [
     "wolny",
     "powolny"
-  ]
+  ],
+  "fetchTerm": "slow"
 }

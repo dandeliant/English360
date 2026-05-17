@@ -1,7 +1,7 @@
 {
   "lemma": "eye",
   "slug": "eye",
-  "fetchedAt": "2026-05-17T13:23:03.536Z",
+  "fetchedAt": "2026-05-17T13:58:11.001Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -64,5 +64,6 @@
   "pl": null,
   "translations": [
     "przypatrywać się"
-  ]
+  ],
+  "fetchTerm": "eye"
 }

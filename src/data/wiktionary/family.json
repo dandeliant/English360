@@ -1,7 +1,7 @@
 {
   "lemma": "family",
   "slug": "family",
-  "fetchedAt": "2026-05-17T13:23:04.635Z",
+  "fetchedAt": "2026-05-17T13:58:11.013Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -43,5 +43,6 @@
     "ród",
     "rodzinny",
     "familijny"
-  ]
+  ],
+  "fetchTerm": "family"
 }

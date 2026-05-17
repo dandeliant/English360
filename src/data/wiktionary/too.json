@@ -1,7 +1,7 @@
 {
   "lemma": "too",
   "slug": "too",
-  "fetchedAt": "2026-05-17T13:25:43.547Z",
+  "fetchedAt": "2026-05-17T13:58:21.522Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -41,5 +41,6 @@
     "też",
     "zbyt",
     "za"
-  ]
+  ],
+  "fetchTerm": "too"
 }

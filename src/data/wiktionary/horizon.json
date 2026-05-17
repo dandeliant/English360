@@ -1,7 +1,7 @@
 {
   "lemma": "horizon",
   "slug": "horizon",
-  "fetchedAt": "2026-05-17T13:23:36.433Z",
+  "fetchedAt": "2026-05-17T13:58:14.791Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -28,5 +28,6 @@
     "horyzont",
     "widnokrąg",
     "nieboskłon"
-  ]
+  ],
+  "fetchTerm": "horizon"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "yet",
   "slug": "yet",
-  "fetchedAt": "2026-05-17T13:26:14.814Z",
+  "fetchedAt": "2026-05-17T13:58:21.651Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -88,5 +88,6 @@
     "jakże",
     "jakżem",
     "jednak"
-  ]
+  ],
+  "fetchTerm": "yet"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "rise",
   "slug": "rise",
-  "fetchedAt": "2026-05-17T13:24:56.717Z",
+  "fetchedAt": "2026-05-17T13:58:20.009Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -68,5 +68,6 @@
     "wschodzić",
     "zmartwychwstać",
     "zmartwychwstawać"
-  ]
+  ],
+  "fetchTerm": "rise"
 }

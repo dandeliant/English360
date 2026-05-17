@@ -1,7 +1,7 @@
 {
   "lemma": "likely",
   "slug": "likely",
-  "fetchedAt": "2026-05-17T13:23:59.995Z",
+  "fetchedAt": "2026-05-17T13:58:14.975Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -57,5 +57,6 @@
   "pl": null,
   "translations": [
     "prawdopodobny"
-  ]
+  ],
+  "fetchTerm": "likely"
 }

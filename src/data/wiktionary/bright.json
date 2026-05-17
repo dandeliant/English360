@@ -1,7 +1,7 @@
 {
   "lemma": "bright",
   "slug": "bright",
-  "fetchedAt": "2026-05-17T13:22:14.104Z",
+  "fetchedAt": "2026-05-17T13:58:09.461Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -79,5 +79,6 @@
   "pl": null,
   "translations": [
     "jasny"
-  ]
+  ],
+  "fetchTerm": "bright"
 }

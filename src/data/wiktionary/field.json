@@ -1,7 +1,7 @@
 {
   "lemma": "field",
   "slug": "field",
-  "fetchedAt": "2026-05-17T13:23:09.548Z",
+  "fetchedAt": "2026-05-17T13:58:12.760Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,6 @@
     "boisko",
     "dziedzina",
     "ciało"
-  ]
+  ],
+  "fetchTerm": "field"
 }

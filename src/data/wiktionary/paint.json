@@ -1,7 +1,7 @@
 {
   "lemma": "paint",
   "slug": "paint",
-  "fetchedAt": "2026-05-17T13:24:33.886Z",
+  "fetchedAt": "2026-05-17T13:58:15.162Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,6 @@
     "malować",
     "pomalować",
     "namalować"
-  ]
+  ],
+  "fetchTerm": "paint"
 }

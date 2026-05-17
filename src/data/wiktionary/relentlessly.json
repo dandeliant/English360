@@ -1,7 +1,7 @@
 {
   "lemma": "relentlessly",
   "slug": "relentlessly",
-  "fetchedAt": "2026-05-17T13:24:52.597Z",
+  "fetchedAt": "2026-05-17T13:58:19.986Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "bezustannie"
-  ]
+  ],
+  "fetchTerm": "relentlessly"
 }

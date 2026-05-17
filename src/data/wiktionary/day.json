@@ -1,7 +1,7 @@
 {
   "lemma": "day",
   "slug": "day",
-  "fetchedAt": "2026-05-17T13:22:44.589Z",
+  "fetchedAt": "2026-05-17T13:58:09.637Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -40,5 +40,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "day"
 }

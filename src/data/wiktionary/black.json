@@ -1,7 +1,7 @@
 {
   "lemma": "black",
   "slug": "black",
-  "fetchedAt": "2026-05-17T13:22:08.006Z",
+  "fetchedAt": "2026-05-17T13:58:06.722Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -56,5 +56,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "black"
 }

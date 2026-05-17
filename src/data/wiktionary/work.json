@@ -1,7 +1,7 @@
 {
   "lemma": "work",
   "slug": "work",
-  "fetchedAt": "2026-05-17T13:26:10.060Z",
+  "fetchedAt": "2026-05-17T13:58:21.636Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "work"
 }

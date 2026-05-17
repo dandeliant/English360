@@ -1,7 +1,7 @@
 {
   "lemma": "resound",
   "slug": "resound",
-  "fetchedAt": "2026-05-17T13:24:54.548Z",
+  "fetchedAt": "2026-05-17T13:58:19.995Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -48,5 +48,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "resound"
 }

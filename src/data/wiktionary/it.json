@@ -1,7 +1,7 @@
 {
   "lemma": "it",
   "slug": "it",
-  "fetchedAt": "2026-05-17T13:23:48.212Z",
+  "fetchedAt": "2026-05-17T13:58:14.875Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -73,5 +73,6 @@
   "translations": [
     "to",
     "berek"
-  ]
+  ],
+  "fetchTerm": "it"
 }

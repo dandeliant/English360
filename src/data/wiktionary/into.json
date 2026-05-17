@@ -1,7 +1,7 @@
 {
   "lemma": "into",
   "slug": "into",
-  "fetchedAt": "2026-05-17T13:23:46.413Z",
+  "fetchedAt": "2026-05-17T13:58:14.867Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -36,5 +36,6 @@
     "do",
     "na",
     "po [[rozpoczęcie"
-  ]
+  ],
+  "fetchTerm": "into"
 }

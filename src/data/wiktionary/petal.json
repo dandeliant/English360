@@ -1,7 +1,7 @@
 {
   "lemma": "petal",
   "slug": "petal",
-  "fetchedAt": "2026-05-17T13:24:38.254Z",
+  "fetchedAt": "2026-05-17T13:58:15.198Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -34,5 +34,6 @@
   "translations": [
     "płatek",
     "płatek korony"
-  ]
+  ],
+  "fetchTerm": "petal"
 }

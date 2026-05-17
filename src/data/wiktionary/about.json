@@ -1,7 +1,7 @@
 {
   "lemma": "about",
   "slug": "about",
-  "fetchedAt": "2026-05-17T13:21:42.368Z",
+  "fetchedAt": "2026-05-17T13:58:03.535Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -94,5 +94,6 @@
     "wokół",
     "ponad",
     "o"
-  ]
+  ],
+  "fetchTerm": "about"
 }

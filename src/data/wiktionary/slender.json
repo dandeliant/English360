@@ -1,7 +1,7 @@
 {
   "lemma": "slender",
   "slug": "slender",
-  "fetchedAt": "2026-05-17T13:25:10.555Z",
+  "fetchedAt": "2026-05-17T13:58:20.118Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -39,5 +39,6 @@
   "translations": [
     "szczupły",
     "smukły"
-  ]
+  ],
+  "fetchTerm": "slender"
 }

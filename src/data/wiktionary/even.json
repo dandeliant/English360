@@ -1,7 +1,7 @@
 {
   "lemma": "even",
   "slug": "even",
-  "fetchedAt": "2026-05-17T13:22:59.369Z",
+  "fetchedAt": "2026-05-17T13:58:09.731Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -103,5 +103,6 @@
     "płaski",
     "równomierny",
     "jednolity"
-  ]
+  ],
+  "fetchTerm": "even"
 }

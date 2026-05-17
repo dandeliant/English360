@@ -1,7 +1,7 @@
 {
   "lemma": "million",
   "slug": "million",
-  "fetchedAt": "2026-05-17T13:24:09.845Z",
+  "fetchedAt": "2026-05-17T13:58:15.023Z",
   "en": [
     {
       "partOfSpeech": "Numeral",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "milion"
-  ]
+  ],
+  "fetchTerm": "million"
 }

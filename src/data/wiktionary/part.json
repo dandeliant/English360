@@ -1,7 +1,7 @@
 {
   "lemma": "part",
   "slug": "part",
-  "fetchedAt": "2026-05-17T13:24:35.111Z",
+  "fetchedAt": "2026-05-17T13:58:15.167Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -83,5 +83,6 @@
     "przedziałek",
     "rozstawać",
     "rozstać"
-  ]
+  ],
+  "fetchTerm": "part"
 }

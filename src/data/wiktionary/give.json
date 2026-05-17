@@ -1,7 +1,7 @@
 {
   "lemma": "give",
   "slug": "give",
-  "fetchedAt": "2026-05-17T13:23:23.663Z",
+  "fetchedAt": "2026-05-17T13:58:14.693Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -57,5 +57,6 @@
     "dać",
     "przekazywać",
     "przekazać"
-  ]
+  ],
+  "fetchTerm": "give"
 }

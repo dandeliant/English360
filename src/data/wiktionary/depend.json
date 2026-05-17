@@ -1,7 +1,7 @@
 {
   "lemma": "depend",
   "slug": "depend",
-  "fetchedAt": "2026-05-17T13:22:46.989Z",
+  "fetchedAt": "2026-05-17T13:58:09.651Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -26,5 +26,6 @@
   "translations": [
     "zależeć",
     "polegać"
-  ]
+  ],
+  "fetchTerm": "depend"
 }

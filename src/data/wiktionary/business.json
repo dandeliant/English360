@@ -1,7 +1,7 @@
 {
   "lemma": "business",
   "slug": "business",
-  "fetchedAt": "2026-05-17T13:22:16.323Z",
+  "fetchedAt": "2026-05-17T13:58:09.472Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -55,5 +55,6 @@
     "biznes",
     "przedsiębiorstwo",
     "zajęcie"
-  ]
+  ],
+  "fetchTerm": "business"
 }

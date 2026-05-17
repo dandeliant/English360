@@ -1,7 +1,7 @@
 {
   "lemma": "easy",
   "slug": "easy",
-  "fetchedAt": "2026-05-17T13:22:54.160Z",
+  "fetchedAt": "2026-05-17T13:58:09.705Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -74,5 +74,6 @@
     "lekki",
     "prosty",
     "łatwa"
-  ]
+  ],
+  "fetchTerm": "easy"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "sky",
   "slug": "sky",
-  "fetchedAt": "2026-05-17T13:25:10.121Z",
+  "fetchedAt": "2026-05-17T13:58:20.115Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -58,5 +58,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "sky"
 }

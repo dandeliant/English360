@@ -1,7 +1,7 @@
 {
   "lemma": "brush",
   "slug": "brush",
-  "fetchedAt": "2026-05-17T13:22:15.244Z",
+  "fetchedAt": "2026-05-17T13:58:09.467Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,6 @@
     "czesanie",
     "szczotkowanie",
     "kita"
-  ]
+  ],
+  "fetchTerm": "brush"
 }

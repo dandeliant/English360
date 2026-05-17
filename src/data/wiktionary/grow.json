@@ -1,7 +1,7 @@
 {
   "lemma": "grow",
   "slug": "grow",
-  "fetchedAt": "2026-05-17T13:23:27.472Z",
+  "fetchedAt": "2026-05-17T13:58:14.723Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -35,5 +35,6 @@
     "powiększać",
     "powiększyć",
     "zapuszczać"
-  ]
+  ],
+  "fetchTerm": "grow"
 }

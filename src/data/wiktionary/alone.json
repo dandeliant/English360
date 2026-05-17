@@ -1,7 +1,7 @@
 {
   "lemma": "alone",
   "slug": "alone",
-  "fetchedAt": "2026-05-17T13:21:48.871Z",
+  "fetchedAt": "2026-05-17T13:58:05.385Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -55,5 +55,6 @@
     "sam",
     "samotnie",
     "samodzielnie"
-  ]
+  ],
+  "fetchTerm": "alone"
 }

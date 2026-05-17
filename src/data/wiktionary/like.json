@@ -1,7 +1,7 @@
 {
   "lemma": "like",
   "slug": "like",
-  "fetchedAt": "2026-05-17T13:23:59.559Z",
+  "fetchedAt": "2026-05-17T13:58:14.972Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -162,5 +162,6 @@
     "podobać się",
     "lajkować",
     "dać lajka"
-  ]
+  ],
+  "fetchTerm": "like"
 }

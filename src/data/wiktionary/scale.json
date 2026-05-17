@@ -1,7 +1,7 @@
 {
   "lemma": "scale",
   "slug": "scale",
-  "fetchedAt": "2026-05-17T13:25:00.529Z",
+  "fetchedAt": "2026-05-17T13:58:20.028Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -84,5 +84,6 @@
     "wdrapać",
     "łuska",
     "ociągać"
-  ]
+  ],
+  "fetchTerm": "scale"
 }

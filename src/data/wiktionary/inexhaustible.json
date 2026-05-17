@@ -1,7 +1,7 @@
 {
   "lemma": "inexhaustible",
   "slug": "inexhaustible",
-  "fetchedAt": "2026-05-17T13:23:44.281Z",
+  "fetchedAt": "2026-05-17T13:58:14.855Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "niewyczerpany"
-  ]
+  ],
+  "fetchTerm": "inexhaustible"
 }

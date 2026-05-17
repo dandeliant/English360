@@ -1,7 +1,7 @@
 {
   "lemma": "low",
   "slug": "low",
-  "fetchedAt": "2026-05-17T13:24:04.549Z",
+  "fetchedAt": "2026-05-17T13:58:14.996Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -154,5 +154,6 @@
   "pl": null,
   "translations": [
     "niski"
-  ]
+  ],
+  "fetchTerm": "low"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "quietly",
   "slug": "quietly",
-  "fetchedAt": "2026-05-17T13:24:48.774Z",
+  "fetchedAt": "2026-05-17T13:58:19.951Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "cicho"
-  ]
+  ],
+  "fetchTerm": "quietly"
 }

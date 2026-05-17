@@ -1,7 +1,7 @@
 {
   "lemma": "belong",
   "slug": "belong",
-  "fetchedAt": "2026-05-17T13:22:05.007Z",
+  "fetchedAt": "2026-05-17T13:58:06.708Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -40,5 +40,6 @@
   "pl": null,
   "translations": [
     "należeć"
-  ]
+  ],
+  "fetchTerm": "belong"
 }

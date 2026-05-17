@@ -1,8 +1,25 @@
 {
   "lemma": "poland",
   "slug": "poland",
-  "fetchedAt": "2026-05-17T13:24:41.326Z",
-  "en": null,
+  "fetchedAt": "2026-05-17T13:58:17.138Z",
+  "fetchTerm": "Poland",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A country in Central Europe. Official name: Republic of Poland. Capital and largest city: Warsaw.",
+          "examples": []
+        },
+        {
+          "text": "A number of places in the United States: An unincorporated community in Cass Township, Clay County, Indiana. A town in Androscoggin County, Maine. A town in Chautauqua County, New York. A village in Herkimer County, New York. A village and township in Mahoning County, Ohio. An unincorporated community in Eaton, Brown County, Wisconsin.",
+          "examples": []
+        }
+      ]
+    }
+  ],
   "pl": null,
-  "translations": []
+  "translations": [
+    "Polska"
+  ]
 }

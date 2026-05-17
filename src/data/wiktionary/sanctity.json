@@ -1,7 +1,7 @@
 {
   "lemma": "sanctity",
   "slug": "sanctity",
-  "fetchedAt": "2026-05-17T13:24:59.374Z",
+  "fetchedAt": "2026-05-17T13:58:20.023Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -22,5 +22,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "sanctity"
 }

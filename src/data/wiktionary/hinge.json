@@ -1,7 +1,7 @@
 {
   "lemma": "hinge",
   "slug": "hinge",
-  "fetchedAt": "2026-05-17T13:23:34.833Z",
+  "fetchedAt": "2026-05-17T13:58:14.772Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -43,5 +43,6 @@
   "pl": null,
   "translations": [
     "zawias"
-  ]
+  ],
+  "fetchTerm": "hinge"
 }

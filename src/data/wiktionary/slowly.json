@@ -1,7 +1,7 @@
 {
   "lemma": "slowly",
   "slug": "slowly",
-  "fetchedAt": "2026-05-17T13:25:12.000Z",
+  "fetchedAt": "2026-05-17T13:58:20.129Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -20,5 +20,6 @@
     "pomału",
     "nieśpiesznie",
     "nieprędko"
-  ]
+  ],
+  "fetchTerm": "slowly"
 }

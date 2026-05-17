@@ -1,7 +1,7 @@
 {
   "lemma": "affectionately",
   "slug": "affectionately",
-  "fetchedAt": "2026-05-17T13:21:46.179Z",
+  "fetchedAt": "2026-05-17T13:58:03.701Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -19,5 +19,6 @@
   "pl": null,
   "translations": [
     "czule"
-  ]
+  ],
+  "fetchTerm": "affectionately"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "high",
   "slug": "high",
-  "fetchedAt": "2026-05-17T13:23:33.833Z",
+  "fetchedAt": "2026-05-17T13:58:14.763Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -101,5 +101,6 @@
     "zaćpany",
     "na haju",
     "wysoko"
-  ]
+  ],
+  "fetchTerm": "high"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "then",
   "slug": "then",
-  "fetchedAt": "2026-05-17T13:25:36.933Z",
+  "fetchedAt": "2026-05-17T13:58:20.251Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -68,5 +68,6 @@
     "następnie",
     "potem",
     "to"
-  ]
+  ],
+  "fetchTerm": "then"
 }

@@ -1,55 +1,36 @@
 {
   "lemma": "polish",
   "slug": "polish",
-  "fetchedAt": "2026-05-17T13:24:41.798Z",
+  "fetchedAt": "2026-05-17T13:58:18.563Z",
+  "fetchTerm": "Polish",
   "en": [
     {
-      "partOfSpeech": "Noun",
+      "partOfSpeech": "Adjective",
       "definitions": [
         {
-          "text": "A substance used to polish.",
-          "examples": [
-            "A good silver polish will remove tarnish easily."
-          ]
-        },
-        {
-          "text": "Cleanliness; smoothness, shininess.",
-          "examples": [
-            "The floor was waxed to a high polish."
-          ]
-        },
-        {
-          "text": "Refinement; cleanliness in performance or presentation.",
-          "examples": [
-            "The lecturer showed a lot of polish at his last talk."
-          ]
+          "text": "Of, from or native to Poland, or relating to the Polish language.",
+          "examples": []
         }
       ]
     },
     {
-      "partOfSpeech": "Verb",
+      "partOfSpeech": "Noun",
       "definitions": [
         {
-          "text": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
-          "examples": [
-            "He polished up the chrome until it gleamed."
-          ]
+          "text": "The language spoken in Poland.",
+          "examples": []
         },
         {
-          "text": "To refine; remove imperfections from.",
-          "examples": [
-            "The band has polished its performance since the last concert."
-          ]
+          "text": "A breed of chickens with a large crest of feathers.",
+          "examples": []
         }
       ]
     }
   ],
   "pl": null,
   "translations": [
-    "pasta do [[polerowanie",
-    "połysk",
-    "polerować",
-    "wygładzać",
-    "szlifować"
+    "polski",
+    "język polski",
+    "polszczyzna"
   ]
 }

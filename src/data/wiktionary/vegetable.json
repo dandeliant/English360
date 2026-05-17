@@ -1,7 +1,7 @@
 {
   "lemma": "vegetable",
   "slug": "vegetable",
-  "fetchedAt": "2026-05-17T13:25:52.432Z",
+  "fetchedAt": "2026-05-17T13:58:21.563Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -41,5 +41,6 @@
     "roślinny",
     "jarzynowy",
     "warzywny"
-  ]
+  ],
+  "fetchTerm": "vegetable"
 }

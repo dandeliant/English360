@@ -4,12 +4,12 @@ import { buildWordIndex } from '../../utils/word-index.ts';
 
 const index = await buildWordIndex();
 const entries = [...index.values()].sort((a, b) =>
-  a.lemma.localeCompare(b.lemma, 'en'),
+  a.displayForm.localeCompare(b.displayForm, 'en', { sensitivity: 'base' }),
 );
 
 const byLetter = new Map<string, typeof entries>();
 for (const e of entries) {
-  const letter = (e.lemma[0] ?? '#').toUpperCase();
+  const letter = (e.displayForm[0] ?? '#').toUpperCase();
   const key = /[A-Z]/.test(letter) ? letter : '#';
   if (!byLetter.has(key)) byLetter.set(key, []);
   byLetter.get(key)!.push(e);
@@ -46,7 +46,7 @@ const letters = [...byLetter.keys()].sort();
         <ul class="dict-index__list">
           {byLetter.get(letter)!.map((e) => (
             <li class="dict-index__item">
-              <a class="dict-index__link" href={`/slownik/${e.slug}`}>{e.lemma}</a>
+              <a class="dict-index__link" href={`/slownik/${e.slug}`}>{e.displayForm}</a>
               <span class="dict-index__meta">{e.occurrences.length}</span>
             </li>
           ))}

@@ -1,7 +1,7 @@
 {
   "lemma": "take",
   "slug": "take",
-  "fetchedAt": "2026-05-17T13:25:31.663Z",
+  "fetchedAt": "2026-05-17T13:58:20.226Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -57,5 +57,6 @@
     "branie",
     "wzięcie",
     "ujęcie"
-  ]
+  ],
+  "fetchTerm": "take"
 }

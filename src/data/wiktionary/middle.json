@@ -1,7 +1,7 @@
 {
   "lemma": "middle",
   "slug": "middle",
-  "fetchedAt": "2026-05-17T13:24:08.279Z",
+  "fetchedAt": "2026-05-17T13:58:15.013Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -68,5 +68,6 @@
     "środek",
     "serce",
     "środkowy"
-  ]
+  ],
+  "fetchTerm": "middle"
 }

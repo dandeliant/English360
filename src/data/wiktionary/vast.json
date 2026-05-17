@@ -1,7 +1,7 @@
 {
   "lemma": "vast",
   "slug": "vast",
-  "fetchedAt": "2026-05-17T13:25:51.957Z",
+  "fetchedAt": "2026-05-17T13:58:21.561Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -38,5 +38,6 @@
     "obszerny",
     "rozległy",
     "zdecydowany"
-  ]
+  ],
+  "fetchTerm": "vast"
 }

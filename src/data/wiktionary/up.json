@@ -1,7 +1,7 @@
 {
   "lemma": "up",
   "slug": "up",
-  "fetchedAt": "2026-05-17T13:25:50.426Z",
+  "fetchedAt": "2026-05-17T13:58:21.554Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -130,5 +130,6 @@
     "w górę",
     "na górze",
     "z-"
-  ]
+  ],
+  "fetchTerm": "up"
 }

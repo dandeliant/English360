@@ -16,15 +16,15 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const lessonCount = new Set(entry.occurrences.map((o) => o.lessonId)).size;
 const wikt = await loadWiktionary(entry.slug);
-const enWiktUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(entry.lemma)}`;
+const enWiktUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(entry.displayForm)}`;
 
 // Reuse the same word index here so sentence-snippet word links get
 // the same hover-translation tooltip as the lesson page.
 const wordIndex = await buildWordIndex();
 ---
 <BaseLayout
-  title={`${entry.lemma} · Słownik · English 360°`}
-  description={`Słownik English 360°: wszystkie zdania zawierające słowo „${entry.lemma}", z lekcji na różnych poziomach CEFR.`}
+  title={`${entry.displayForm} · Słownik · English 360°`}
+  description={`Słownik English 360°: wszystkie zdania zawierające słowo „${entry.displayForm}", z lekcji na różnych poziomach CEFR.`}
 >
   <div class="page word-page">
     <p class="word-page__breadcrumb">
@@ -32,7 +32,7 @@ const wordIndex = await buildWordIndex();
     </p>
 
     <header class="word-page__header">
-      <h1 class="word-page__lemma">{entry.lemma}</h1>
+      <h1 class="word-page__lemma">{entry.displayForm}</h1>
       {entry.ipaBr && (
         <p class="word-page__ipa">
           <span class="ipa">{entry.ipaBr}</span>

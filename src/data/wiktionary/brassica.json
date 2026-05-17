@@ -1,13 +1,14 @@
 {
   "lemma": "brassica",
   "slug": "brassica",
-  "fetchedAt": "2026-05-17T13:22:12.498Z",
+  "fetchedAt": "2026-05-17T13:58:08.018Z",
+  "fetchTerm": "Brassica",
   "en": [
     {
-      "partOfSpeech": "Noun",
+      "partOfSpeech": "Proper noun",
       "definitions": [
         {
-          "text": "Any of many plants of the genus Brassica, including cabbage, mustard and rapes",
+          "text": "A taxonomic genus within the family Brassicaceae – cabbages and related plants.",
           "examples": []
         }
       ]

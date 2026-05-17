@@ -1,7 +1,7 @@
 {
   "lemma": "either",
   "slug": "either",
-  "fetchedAt": "2026-05-17T13:22:56.596Z",
+  "fetchedAt": "2026-05-17T13:58:09.716Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -72,5 +72,6 @@
     "albo",
     "ani ... ani",
     "bądź"
-  ]
+  ],
+  "fetchTerm": "either"
 }

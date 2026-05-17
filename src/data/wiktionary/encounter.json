@@ -1,7 +1,7 @@
 {
   "lemma": "encounter",
   "slug": "encounter",
-  "fetchedAt": "2026-05-17T13:22:57.936Z",
+  "fetchedAt": "2026-05-17T13:58:09.723Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -43,5 +43,6 @@
   "pl": null,
   "translations": [
     "spotkanie"
-  ]
+  ],
+  "fetchTerm": "encounter"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "common",
   "slug": "common",
-  "fetchedAt": "2026-05-17T13:22:30.749Z",
+  "fetchedAt": "2026-05-17T13:58:09.560Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -69,5 +69,6 @@
     "zwykły",
     "pospolity",
     "powszedni"
-  ]
+  ],
+  "fetchTerm": "common"
 }

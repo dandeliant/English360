@@ -1,7 +1,7 @@
 {
   "lemma": "may",
   "slug": "may",
-  "fetchedAt": "2026-05-17T13:24:07.292Z",
+  "fetchedAt": "2026-05-17T13:58:15.008Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -68,5 +68,6 @@
     "żeby",
     "oby",
     "niechaj"
-  ]
+  ],
+  "fetchTerm": "may"
 }

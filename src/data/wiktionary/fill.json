@@ -1,7 +1,7 @@
 {
   "lemma": "fill",
   "slug": "fill",
-  "fetchedAt": "2026-05-17T13:23:10.500Z",
+  "fetchedAt": "2026-05-17T13:58:12.773Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -69,5 +69,6 @@
     "wypełniać",
     "wypełnić",
     "zapełniać"
-  ]
+  ],
+  "fetchTerm": "fill"
 }

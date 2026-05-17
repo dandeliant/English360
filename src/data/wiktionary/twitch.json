@@ -1,7 +1,7 @@
 {
   "lemma": "twitch",
   "slug": "twitch",
-  "fetchedAt": "2026-05-17T13:25:48.323Z",
+  "fetchedAt": "2026-05-17T13:58:21.544Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -58,5 +58,6 @@
     "drgawka",
     "skurcz",
     "dutka"
-  ]
+  ],
+  "fetchTerm": "twitch"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "wing",
   "slug": "wing",
-  "fetchedAt": "2026-05-17T13:26:08.379Z",
+  "fetchedAt": "2026-05-17T13:58:21.628Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,6 @@
   "translations": [
     "skrzydło",
     "błotnik"
-  ]
+  ],
+  "fetchTerm": "wing"
 }

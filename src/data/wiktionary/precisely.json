@@ -1,7 +1,7 @@
 {
   "lemma": "precisely",
   "slug": "precisely",
-  "fetchedAt": "2026-05-17T13:24:44.813Z",
+  "fetchedAt": "2026-05-17T13:58:18.582Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -23,5 +23,6 @@
   "translations": [
     "precyzyjnie",
     "dokładnie"
-  ]
+  ],
+  "fetchTerm": "precisely"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "amount",
   "slug": "amount",
-  "fetchedAt": "2026-05-17T13:21:50.397Z",
+  "fetchedAt": "2026-05-17T13:58:05.398Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -55,5 +55,6 @@
     "kwota",
     "suma",
     "wynieść"
-  ]
+  ],
+  "fetchTerm": "amount"
 }

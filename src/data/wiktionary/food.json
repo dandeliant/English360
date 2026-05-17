@@ -1,7 +1,7 @@
 {
   "lemma": "food",
   "slug": "food",
-  "fetchedAt": "2026-05-17T13:23:13.949Z",
+  "fetchedAt": "2026-05-17T13:58:12.808Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -26,5 +26,6 @@
     "żywność",
     "strawa",
     "jadło"
-  ]
+  ],
+  "fetchTerm": "food"
 }

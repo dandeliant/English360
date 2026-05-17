@@ -1,7 +1,7 @@
 {
   "lemma": "manner",
   "slug": "manner",
-  "fetchedAt": "2026-05-17T13:24:05.608Z",
+  "fetchedAt": "2026-05-17T13:58:15.000Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,6 @@
   "translations": [
     "sposób",
     "maniera"
-  ]
+  ],
+  "fetchTerm": "manner"
 }

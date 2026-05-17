@@ -1,7 +1,7 @@
 {
   "lemma": "famous",
   "slug": "famous",
-  "fetchedAt": "2026-05-17T13:23:05.087Z",
+  "fetchedAt": "2026-05-17T13:58:11.023Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -36,5 +36,6 @@
   "translations": [
     "sławny",
     "słynny"
-  ]
+  ],
+  "fetchTerm": "famous"
 }

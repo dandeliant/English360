@@ -1,7 +1,7 @@
 {
   "lemma": "exchange",
   "slug": "exchange",
-  "fetchedAt": "2026-05-17T13:23:01.329Z",
+  "fetchedAt": "2026-05-17T13:58:10.986Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -53,5 +53,6 @@
     "giełda",
     "wymieniać",
     "zamieniać"
-  ]
+  ],
+  "fetchTerm": "exchange"
 }

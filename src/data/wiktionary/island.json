@@ -1,7 +1,7 @@
 {
   "lemma": "island",
   "slug": "island",
-  "fetchedAt": "2026-05-17T13:23:47.575Z",
+  "fetchedAt": "2026-05-17T13:58:14.872Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -48,5 +48,6 @@
   "pl": null,
   "translations": [
     "wyspa"
-  ]
+  ],
+  "fetchTerm": "island"
 }

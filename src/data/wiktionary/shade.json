@@ -1,7 +1,7 @@
 {
   "lemma": "shade",
   "slug": "shade",
-  "fetchedAt": "2026-05-17T13:25:03.937Z",
+  "fetchedAt": "2026-05-17T13:58:20.044Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -57,5 +57,6 @@
     "cień",
     "odcień",
     "cieniować"
-  ]
+  ],
+  "fetchTerm": "shade"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "move",
   "slug": "move",
-  "fetchedAt": "2026-05-17T13:24:15.949Z",
+  "fetchedAt": "2026-05-17T13:58:15.070Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -55,5 +55,6 @@
     "poruszać",
     "poruszyć",
     "działać"
-  ]
+  ],
+  "fetchTerm": "move"
 }

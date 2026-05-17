@@ -1,7 +1,7 @@
 {
   "lemma": "steady",
   "slug": "steady",
-  "fetchedAt": "2026-05-17T13:25:21.326Z",
+  "fetchedAt": "2026-05-17T13:58:20.178Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -92,5 +92,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "steady"
 }

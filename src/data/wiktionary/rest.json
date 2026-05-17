@@ -1,7 +1,7 @@
 {
   "lemma": "rest",
   "slug": "rest",
-  "fetchedAt": "2026-05-17T13:24:55.182Z",
+  "fetchedAt": "2026-05-17T13:58:19.998Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -96,5 +96,6 @@
     "wypoczynek",
     "odpoczywać",
     "reszta"
-  ]
+  ],
+  "fetchTerm": "rest"
 }

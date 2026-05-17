@@ -1,7 +1,7 @@
 {
   "lemma": "fly",
   "slug": "fly",
-  "fetchedAt": "2026-05-17T13:23:12.851Z",
+  "fetchedAt": "2026-05-17T13:58:12.802Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -119,5 +119,6 @@
   "pl": null,
   "translations": [
     "odwalony"
-  ]
+  ],
+  "fetchTerm": "fly"
 }

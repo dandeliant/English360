@@ -1,7 +1,7 @@
 {
   "lemma": "hum",
   "slug": "hum",
-  "fetchedAt": "2026-05-17T13:23:38.478Z",
+  "fetchedAt": "2026-05-17T13:58:14.824Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -79,5 +79,6 @@
   "pl": null,
   "translations": [
     "nucić"
-  ]
+  ],
+  "fetchTerm": "hum"
 }

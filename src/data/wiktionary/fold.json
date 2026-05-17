@@ -1,7 +1,7 @@
 {
   "lemma": "fold",
   "slug": "fold",
-  "fetchedAt": "2026-05-17T13:23:13.409Z",
+  "fetchedAt": "2026-05-17T13:58:12.805Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -87,5 +87,6 @@
     "składać",
     "złożyć",
     "fałda"
-  ]
+  ],
+  "fetchTerm": "fold"
 }

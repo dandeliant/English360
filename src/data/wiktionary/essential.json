@@ -1,7 +1,7 @@
 {
   "lemma": "essential",
   "slug": "essential",
-  "fetchedAt": "2026-05-17T13:22:58.796Z",
+  "fetchedAt": "2026-05-17T13:58:09.728Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -41,5 +41,6 @@
     "niezbędny",
     "zasadniczy",
     "podstawowy"
-  ]
+  ],
+  "fetchTerm": "essential"
 }

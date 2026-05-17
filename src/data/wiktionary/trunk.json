@@ -1,7 +1,7 @@
 {
   "lemma": "trunk",
   "slug": "trunk",
-  "fetchedAt": "2026-05-17T13:25:47.221Z",
+  "fetchedAt": "2026-05-17T13:58:21.539Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -41,5 +41,6 @@
     "kufer",
     "trąba",
     "bagażnik"
-  ]
+  ],
+  "fetchTerm": "trunk"
 }

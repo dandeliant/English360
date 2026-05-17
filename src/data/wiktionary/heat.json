@@ -1,7 +1,7 @@
 {
   "lemma": "heat",
   "slug": "heat",
-  "fetchedAt": "2026-05-17T13:23:31.688Z",
+  "fetchedAt": "2026-05-17T13:58:14.746Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -58,5 +58,6 @@
     "gorąco",
     "pikantność",
     "afekt"
-  ]
+  ],
+  "fetchTerm": "heat"
 }

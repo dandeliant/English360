@@ -1,7 +1,7 @@
 {
   "lemma": "love",
   "slug": "love",
-  "fetchedAt": "2026-05-17T13:24:03.980Z",
+  "fetchedAt": "2026-05-17T13:58:14.993Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -78,5 +78,6 @@
   "translations": [
     "zero",
     "jajo"
-  ]
+  ],
+  "fetchTerm": "love"
 }

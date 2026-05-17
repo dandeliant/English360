@@ -1,7 +1,7 @@
 {
   "lemma": "feel",
   "slug": "feel",
-  "fetchedAt": "2026-05-17T13:23:07.081Z",
+  "fetchedAt": "2026-05-17T13:58:12.751Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -85,5 +85,6 @@
     "odczuć",
     "uważać",
     "mieć uczucie"
-  ]
+  ],
+  "fetchTerm": "feel"
 }

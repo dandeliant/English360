@@ -1,7 +1,7 @@
 {
   "lemma": "gossamer",
   "slug": "gossamer",
-  "fetchedAt": "2026-05-17T13:23:26.480Z",
+  "fetchedAt": "2026-05-17T13:58:14.717Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -36,5 +36,6 @@
     "[[lekki",
     "delikatny przedmiot",
     "cienki"
-  ]
+  ],
+  "fetchTerm": "gossamer"
 }

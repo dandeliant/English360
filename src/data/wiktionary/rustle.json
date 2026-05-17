@@ -1,7 +1,7 @@
 {
   "lemma": "rustle",
   "slug": "rustle",
-  "fetchedAt": "2026-05-17T13:24:58.954Z",
+  "fetchedAt": "2026-05-17T13:58:20.021Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,6 @@
   "translations": [
     "szelest",
     "szeleścić"
-  ]
+  ],
+  "fetchTerm": "rustle"
 }

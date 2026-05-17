@@ -1,7 +1,7 @@
 {
   "lemma": "corolla",
   "slug": "corolla",
-  "fetchedAt": "2026-05-17T13:22:32.811Z",
+  "fetchedAt": "2026-05-17T13:58:09.571Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -16,5 +16,6 @@
   "pl": null,
   "translations": [
     "korona"
-  ]
+  ],
+  "fetchTerm": "corolla"
 }

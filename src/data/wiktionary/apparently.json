@@ -1,7 +1,7 @@
 {
   "lemma": "apparently",
   "slug": "apparently",
-  "fetchedAt": "2026-05-17T13:21:54.074Z",
+  "fetchedAt": "2026-05-17T13:58:05.438Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -32,5 +32,6 @@
     "widać",
     "pozornie",
     "pewnie"
-  ]
+  ],
+  "fetchTerm": "apparently"
 }

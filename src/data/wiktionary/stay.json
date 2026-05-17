@@ -1,7 +1,7 @@
 {
   "lemma": "stay",
   "slug": "stay",
-  "fetchedAt": "2026-05-17T13:25:20.883Z",
+  "fetchedAt": "2026-05-17T13:58:20.176Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -152,5 +152,6 @@
     "pozostawać",
     "pozostać",
     "pobyt"
-  ]
+  ],
+  "fetchTerm": "stay"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "front",
   "slug": "front",
-  "fetchedAt": "2026-05-17T13:23:18.635Z",
+  "fetchedAt": "2026-05-17T13:58:14.644Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -66,5 +66,6 @@
     "front",
     "przykrywka",
     "przedni"
-  ]
+  ],
+  "fetchTerm": "front"
 }

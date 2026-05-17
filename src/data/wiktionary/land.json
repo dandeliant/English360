@@ -1,7 +1,7 @@
 {
   "lemma": "land",
   "slug": "land",
-  "fetchedAt": "2026-05-17T13:23:53.407Z",
+  "fetchedAt": "2026-05-17T13:58:14.913Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -56,5 +56,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "land"
 }

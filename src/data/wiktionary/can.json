@@ -1,7 +1,7 @@
 {
   "lemma": "can",
   "slug": "can",
-  "fetchedAt": "2026-05-17T13:22:21.303Z",
+  "fetchedAt": "2026-05-17T13:58:09.512Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -111,5 +111,6 @@
     "potrafić",
     "kanister",
     "bańka"
-  ]
+  ],
+  "fetchTerm": "can"
 }

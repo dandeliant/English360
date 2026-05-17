@@ -1,7 +1,7 @@
 {
   "lemma": "acquire",
   "slug": "acquire",
-  "fetchedAt": "2026-05-17T13:21:44.405Z",
+  "fetchedAt": "2026-05-17T13:58:03.622Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -28,5 +28,6 @@
   "translations": [
     "nabywać",
     "nabyć"
-  ]
+  ],
+  "fetchTerm": "acquire"
 }

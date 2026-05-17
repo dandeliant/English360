@@ -1,7 +1,7 @@
 {
   "lemma": "interruption",
   "slug": "interruption",
-  "fetchedAt": "2026-05-17T13:23:45.827Z",
+  "fetchedAt": "2026-05-17T13:58:14.864Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -24,5 +24,6 @@
   "pl": null,
   "translations": [
     "przerwa"
-  ]
+  ],
+  "fetchTerm": "interruption"
 }

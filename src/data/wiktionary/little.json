@@ -1,7 +1,7 @@
 {
   "lemma": "little",
   "slug": "little",
-  "fetchedAt": "2026-05-17T13:24:01.624Z",
+  "fetchedAt": "2026-05-17T13:58:14.983Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -94,5 +94,6 @@
   "translations": [
     "mały",
     "mało"
-  ]
+  ],
+  "fetchTerm": "little"
 }

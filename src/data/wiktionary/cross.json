@@ -1,7 +1,7 @@
 {
   "lemma": "cross",
   "slug": "cross",
-  "fetchedAt": "2026-05-17T13:22:40.969Z",
+  "fetchedAt": "2026-05-17T13:58:09.590Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -84,5 +84,6 @@
     "znak krzyża",
     "krzyżówka",
     "cios prosty"
-  ]
+  ],
+  "fetchTerm": "cross"
 }

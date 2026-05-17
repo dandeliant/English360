@@ -1,7 +1,7 @@
 {
   "lemma": "judge",
   "slug": "judge",
-  "fetchedAt": "2026-05-17T13:23:50.147Z",
+  "fetchedAt": "2026-05-17T13:58:14.888Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -45,5 +45,6 @@
     "arbiter",
     "osądzić",
     "osądzać"
-  ]
+  ],
+  "fetchTerm": "judge"
 }

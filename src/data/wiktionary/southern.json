@@ -1,7 +1,7 @@
 {
   "lemma": "southern",
   "slug": "southern",
-  "fetchedAt": "2026-05-17T13:25:17.181Z",
+  "fetchedAt": "2026-05-17T13:58:20.159Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -35,5 +35,6 @@
   "pl": null,
   "translations": [
     "południowy"
-  ]
+  ],
+  "fetchTerm": "southern"
 }

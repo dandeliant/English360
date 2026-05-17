@@ -1,7 +1,7 @@
 {
   "lemma": "transact",
   "slug": "transact",
-  "fetchedAt": "2026-05-17T13:25:44.006Z",
+  "fetchedAt": "2026-05-17T13:58:21.525Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -22,5 +22,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "transact"
 }

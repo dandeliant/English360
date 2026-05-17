@@ -1,7 +1,7 @@
 {
   "lemma": "century",
   "slug": "century",
-  "fetchedAt": "2026-05-17T13:22:24.617Z",
+  "fetchedAt": "2026-05-17T13:58:09.529Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -22,5 +22,6 @@
     "stulecie",
     "wiek",
     "centuria"
-  ]
+  ],
+  "fetchTerm": "century"
 }

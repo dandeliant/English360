@@ -1,7 +1,7 @@
 {
   "lemma": "lone",
   "slug": "lone",
-  "fetchedAt": "2026-05-17T13:24:02.077Z",
+  "fetchedAt": "2026-05-17T13:58:14.985Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -26,5 +26,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "lone"
 }

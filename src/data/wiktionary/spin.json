@@ -1,7 +1,7 @@
 {
   "lemma": "spin",
   "slug": "spin",
-  "fetchedAt": "2026-05-17T13:25:18.262Z",
+  "fetchedAt": "2026-05-17T13:58:20.164Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -61,5 +61,6 @@
     "prząść",
     "obrót",
     "spin"
-  ]
+  ],
+  "fetchTerm": "spin"
 }

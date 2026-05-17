@@ -1,7 +1,7 @@
 {
   "lemma": "ambassador",
   "slug": "ambassador",
-  "fetchedAt": "2026-05-17T13:21:49.867Z",
+  "fetchedAt": "2026-05-17T13:58:05.392Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -27,5 +27,6 @@
   "translations": [
     "ambasador",
     "ambasadorka"
-  ]
+  ],
+  "fetchTerm": "ambassador"
 }

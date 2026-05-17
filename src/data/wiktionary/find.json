@@ -1,7 +1,7 @@
 {
   "lemma": "find",
   "slug": "find",
-  "fetchedAt": "2026-05-17T13:23:11.117Z",
+  "fetchedAt": "2026-05-17T13:58:12.792Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -50,5 +50,6 @@
     "znajdować",
     "znaleźć",
     "znalezisko"
-  ]
+  ],
+  "fetchTerm": "find"
 }

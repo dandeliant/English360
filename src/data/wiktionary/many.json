@@ -1,7 +1,7 @@
 {
   "lemma": "many",
   "slug": "many",
-  "fetchedAt": "2026-05-17T13:24:06.142Z",
+  "fetchedAt": "2026-05-17T13:58:15.003Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -62,5 +62,6 @@
   "translations": [
     "wiele",
     "dużo"
-  ]
+  ],
+  "fetchTerm": "many"
 }

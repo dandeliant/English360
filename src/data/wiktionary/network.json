@@ -1,7 +1,7 @@
 {
   "lemma": "network",
   "slug": "network",
-  "fetchedAt": "2026-05-17T13:24:19.263Z",
+  "fetchedAt": "2026-05-17T13:58:15.091Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,6 @@
     "sieć",
     "układ",
     "układy"
-  ]
+  ],
+  "fetchTerm": "network"
 }

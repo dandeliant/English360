@@ -1,7 +1,7 @@
 {
   "lemma": "rightly",
   "slug": "rightly",
-  "fetchedAt": "2026-05-17T13:24:56.139Z",
+  "fetchedAt": "2026-05-17T13:58:20.004Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -17,5 +17,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "rightly"
 }

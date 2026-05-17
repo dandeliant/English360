@@ -1,7 +1,7 @@
 {
   "lemma": "often",
   "slug": "often",
-  "fetchedAt": "2026-05-17T13:24:26.242Z",
+  "fetchedAt": "2026-05-17T13:58:15.127Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -28,5 +28,6 @@
   "pl": null,
   "translations": [
     "często"
-  ]
+  ],
+  "fetchTerm": "often"
 }

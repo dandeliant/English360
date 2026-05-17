@@ -1,7 +1,7 @@
 {
   "lemma": "dark",
   "slug": "dark",
-  "fetchedAt": "2026-05-17T13:22:44.033Z",
+  "fetchedAt": "2026-05-17T13:58:09.635Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -74,5 +74,6 @@
     "ciemność",
     "mroki",
     "zmrok"
-  ]
+  ],
+  "fetchTerm": "dark"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "become",
   "slug": "become",
-  "fetchedAt": "2026-05-17T13:22:02.168Z",
+  "fetchedAt": "2026-05-17T13:58:05.473Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -29,5 +29,6 @@
     "zostać",
     "stawać",
     "stać"
-  ]
+  ],
+  "fetchTerm": "become"
 }

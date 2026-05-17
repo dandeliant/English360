@@ -1,7 +1,7 @@
 {
   "lemma": "cup",
   "slug": "cup",
-  "fetchedAt": "2026-05-17T13:22:43.176Z",
+  "fetchedAt": "2026-05-17T13:58:09.632Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -60,5 +60,6 @@
     "kubek",
     "puchar",
     "miseczka"
-  ]
+  ],
+  "fetchTerm": "cup"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "single",
   "slug": "single",
-  "fetchedAt": "2026-05-17T13:25:08.584Z",
+  "fetchedAt": "2026-05-17T13:58:20.101Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -69,5 +69,6 @@
     "jednolity",
     "cały",
     "jednoosobowy"
-  ]
+  ],
+  "fetchTerm": "single"
 }

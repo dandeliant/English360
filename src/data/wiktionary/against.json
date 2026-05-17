@@ -1,7 +1,7 @@
 {
   "lemma": "against",
   "slug": "against",
-  "fetchedAt": "2026-05-17T13:21:47.844Z",
+  "fetchedAt": "2026-05-17T13:58:05.378Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -44,5 +44,6 @@
     "o",
     "z",
     "przeciwko"
-  ]
+  ],
+  "fetchTerm": "against"
 }

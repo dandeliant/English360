@@ -1,7 +1,7 @@
 {
   "lemma": "hair",
   "slug": "hair",
-  "fetchedAt": "2026-05-17T13:23:28.706Z",
+  "fetchedAt": "2026-05-17T13:58:14.729Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,6 @@
   "translations": [
     "włos",
     "włosy"
-  ]
+  ],
+  "fetchTerm": "hair"
 }

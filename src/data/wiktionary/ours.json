@@ -1,7 +1,7 @@
 {
   "lemma": "ours",
   "slug": "ours",
-  "fetchedAt": "2026-05-17T13:24:31.061Z",
+  "fetchedAt": "2026-05-17T13:58:15.150Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -33,5 +33,6 @@
   "pl": null,
   "translations": [
     "nasz"
-  ]
+  ],
+  "fetchTerm": "ours"
 }

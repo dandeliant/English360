@@ -1,7 +1,7 @@
 {
   "lemma": "put",
   "slug": "put",
-  "fetchedAt": "2026-05-17T13:24:47.783Z",
+  "fetchedAt": "2026-05-17T13:58:19.946Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -85,5 +85,6 @@
     "postawić",
     "umieścić",
     "jebnąć"
-  ]
+  ],
+  "fetchTerm": "put"
 }

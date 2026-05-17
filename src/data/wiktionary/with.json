@@ -1,7 +1,7 @@
 {
   "lemma": "with",
   "slug": "with",
-  "fetchedAt": "2026-05-17T13:26:08.990Z",
+  "fetchedAt": "2026-05-17T13:58:21.631Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -51,5 +51,6 @@
   "translations": [
     "z",
     "za pomocą"
-  ]
+  ],
+  "fetchTerm": "with"
 }

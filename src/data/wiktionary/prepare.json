@@ -1,7 +1,7 @@
 {
   "lemma": "prepare",
   "slug": "prepare",
-  "fetchedAt": "2026-05-17T13:24:45.268Z",
+  "fetchedAt": "2026-05-17T13:58:18.584Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -40,5 +40,6 @@
   "translations": [
     "przygotować",
     "przygotowywać"
-  ]
+  ],
+  "fetchTerm": "prepare"
 }

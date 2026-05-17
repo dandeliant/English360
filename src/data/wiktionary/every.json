@@ -1,7 +1,7 @@
 {
   "lemma": "every",
   "slug": "every",
-  "fetchedAt": "2026-05-17T13:22:59.915Z",
+  "fetchedAt": "2026-05-17T13:58:09.734Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -35,5 +35,6 @@
     "każdy",
     "wszelki",
     "wszelaki"
-  ]
+  ],
+  "fetchTerm": "every"
 }

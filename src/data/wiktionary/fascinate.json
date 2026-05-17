@@ -1,7 +1,7 @@
 {
   "lemma": "fascinate",
   "slug": "fascinate",
-  "fetchedAt": "2026-05-17T13:23:06.086Z",
+  "fetchedAt": "2026-05-17T13:58:12.745Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -31,5 +31,6 @@
   "translations": [
     "fascynować",
     "zafascynować"
-  ]
+  ],
+  "fetchTerm": "fascinate"
 }

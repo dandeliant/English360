@@ -1,7 +1,7 @@
 {
   "lemma": "pollen",
   "slug": "pollen",
-  "fetchedAt": "2026-05-17T13:24:42.281Z",
+  "fetchedAt": "2026-05-17T13:58:18.571Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -33,5 +33,6 @@
   "pl": null,
   "translations": [
     "pyłek"
-  ]
+  ],
+  "fetchTerm": "pollen"
 }

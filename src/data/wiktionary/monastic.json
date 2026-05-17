@@ -1,7 +1,7 @@
 {
   "lemma": "monastic",
   "slug": "monastic",
-  "fetchedAt": "2026-05-17T13:24:12.349Z",
+  "fetchedAt": "2026-05-17T13:58:15.047Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -30,5 +30,6 @@
     "mnisi",
     "mnich",
     "mniszka"
-  ]
+  ],
+  "fetchTerm": "monastic"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "paradox",
   "slug": "paradox",
-  "fetchedAt": "2026-05-17T13:24:34.447Z",
+  "fetchedAt": "2026-05-17T13:58:15.165Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,6 @@
   "pl": null,
   "translations": [
     "paradoks"
-  ]
+  ],
+  "fetchTerm": "paradox"
 }

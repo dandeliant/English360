@@ -1,7 +1,7 @@
 {
   "lemma": "fragrant",
   "slug": "fragrant",
-  "fetchedAt": "2026-05-17T13:23:16.038Z",
+  "fetchedAt": "2026-05-17T13:58:12.820Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -24,5 +24,6 @@
   "translations": [
     "pachnący",
     "wonny"
-  ]
+  ],
+  "fetchTerm": "fragrant"
 }

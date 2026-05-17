@@ -1,7 +1,7 @@
 {
   "lemma": "honey",
   "slug": "honey",
-  "fetchedAt": "2026-05-17T13:23:35.844Z",
+  "fetchedAt": "2026-05-17T13:58:14.780Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -60,5 +60,6 @@
     "laska",
     "kolor",
     "miodowy"
-  ]
+  ],
+  "fetchTerm": "honey"
 }

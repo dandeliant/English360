@@ -1,7 +1,7 @@
 {
   "lemma": "over",
   "slug": "over",
-  "fetchedAt": "2026-05-17T13:24:32.354Z",
+  "fetchedAt": "2026-05-17T13:58:15.155Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -147,5 +147,6 @@
     "przez noc",
     "nad",
     "przez"
-  ]
+  ],
+  "fetchTerm": "over"
 }

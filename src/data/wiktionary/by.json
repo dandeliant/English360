@@ -1,7 +1,7 @@
 {
   "lemma": "by",
   "slug": "by",
-  "fetchedAt": "2026-05-17T13:22:18.830Z",
+  "fetchedAt": "2026-05-17T13:58:09.501Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -95,5 +95,6 @@
     "do",
     "przez",
     "na"
-  ]
+  ],
+  "fetchTerm": "by"
 }

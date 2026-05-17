@@ -1,7 +1,7 @@
 {
   "lemma": "tremble",
   "slug": "tremble",
-  "fetchedAt": "2026-05-17T13:25:46.694Z",
+  "fetchedAt": "2026-05-17T13:58:21.537Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -32,5 +32,6 @@
   "pl": null,
   "translations": [
     "drżeć"
-  ]
+  ],
+  "fetchTerm": "tremble"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "garden",
   "slug": "garden",
-  "fetchedAt": "2026-05-17T13:23:19.783Z",
+  "fetchedAt": "2026-05-17T13:58:14.651Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -64,5 +64,6 @@
     "ogródek",
     "działka",
     "łoniaki"
-  ]
+  ],
+  "fetchTerm": "garden"
 }

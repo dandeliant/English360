@@ -1,7 +1,7 @@
 {
   "lemma": "prey",
   "slug": "prey",
-  "fetchedAt": "2026-05-17T13:24:45.715Z",
+  "fetchedAt": "2026-05-17T13:58:18.586Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,6 @@
     "zdobycz",
     "żer",
     "pastwa"
-  ]
+  ],
+  "fetchTerm": "prey"
 }

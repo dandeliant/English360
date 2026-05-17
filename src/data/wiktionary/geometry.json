@@ -1,7 +1,7 @@
 {
   "lemma": "geometry",
   "slug": "geometry",
-  "fetchedAt": "2026-05-17T13:23:21.313Z",
+  "fetchedAt": "2026-05-17T13:58:14.681Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -24,5 +24,6 @@
   "pl": null,
   "translations": [
     "geometria"
-  ]
+  ],
+  "fetchTerm": "geometry"
 }

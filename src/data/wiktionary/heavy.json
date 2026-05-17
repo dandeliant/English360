@@ -1,7 +1,7 @@
 {
   "lemma": "heavy",
   "slug": "heavy",
-  "fetchedAt": "2026-05-17T13:23:32.243Z",
+  "fetchedAt": "2026-05-17T13:58:14.749Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -101,5 +101,6 @@
   "pl": null,
   "translations": [
     "ciężki"
-  ]
+  ],
+  "fetchTerm": "heavy"
 }

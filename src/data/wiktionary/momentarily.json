@@ -1,7 +1,7 @@
 {
   "lemma": "momentarily",
   "slug": "momentarily",
-  "fetchedAt": "2026-05-17T13:24:11.925Z",
+  "fetchedAt": "2026-05-17T13:58:15.043Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -26,5 +26,6 @@
   "pl": null,
   "translations": [
     "chwilowo"
-  ]
+  ],
+  "fetchTerm": "momentarily"
 }

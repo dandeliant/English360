@@ -1,7 +1,7 @@
 {
   "lemma": "resist",
   "slug": "resist",
-  "fetchedAt": "2026-05-17T13:24:54.022Z",
+  "fetchedAt": "2026-05-17T13:58:19.993Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -33,5 +33,6 @@
   "pl": null,
   "translations": [
     "opierać"
-  ]
+  ],
+  "fetchTerm": "resist"
 }

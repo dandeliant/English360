@@ -1,7 +1,7 @@
 {
   "lemma": "blue",
   "slug": "blue",
-  "fetchedAt": "2026-05-17T13:22:09.003Z",
+  "fetchedAt": "2026-05-17T13:58:06.743Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -71,5 +71,6 @@
     "błękit",
     "modraszek",
     "niebieścić"
-  ]
+  ],
+  "fetchTerm": "blue"
 }

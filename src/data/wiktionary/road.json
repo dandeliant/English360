@@ -1,7 +1,7 @@
 {
   "lemma": "road",
   "slug": "road",
-  "fetchedAt": "2026-05-17T13:24:57.258Z",
+  "fetchedAt": "2026-05-17T13:58:20.012Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,6 @@
     "droga",
     "szosa",
     "ulica"
-  ]
+  ],
+  "fetchTerm": "road"
 }

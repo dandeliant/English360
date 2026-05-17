@@ -1,7 +1,7 @@
 {
   "lemma": "drone",
   "slug": "drone",
-  "fetchedAt": "2026-05-17T13:22:50.628Z",
+  "fetchedAt": "2026-05-17T13:58:09.670Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -72,5 +72,6 @@
     "dron",
     "bezzałogowiec",
     "bezpilotowiec"
-  ]
+  ],
+  "fetchTerm": "drone"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "orchard",
   "slug": "orchard",
-  "fetchedAt": "2026-05-17T13:24:28.523Z",
+  "fetchedAt": "2026-05-17T13:58:15.137Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -20,5 +20,6 @@
   "pl": null,
   "translations": [
     "sad"
-  ]
+  ],
+  "fetchTerm": "orchard"
 }

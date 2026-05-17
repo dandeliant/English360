@@ -1,7 +1,7 @@
 {
   "lemma": "mind",
   "slug": "mind",
-  "fetchedAt": "2026-05-17T13:24:10.522Z",
+  "fetchedAt": "2026-05-17T13:58:15.033Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -50,5 +50,6 @@
     "umysł",
     "um",
     "mieć coś przeciwko"
-  ]
+  ],
+  "fetchTerm": "mind"
 }

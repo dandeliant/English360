@@ -1,7 +1,7 @@
 {
   "lemma": "partnership",
   "slug": "partnership",
-  "fetchedAt": "2026-05-17T13:24:36.094Z",
+  "fetchedAt": "2026-05-17T13:58:15.179Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -29,5 +29,6 @@
   "translations": [
     "partnerstwo",
     "spółka partnerska"
-  ]
+  ],
+  "fetchTerm": "partnership"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "kind",
   "slug": "kind",
-  "fetchedAt": "2026-05-17T13:23:51.814Z",
+  "fetchedAt": "2026-05-17T13:58:14.903Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -52,5 +52,6 @@
     "rodzaj",
     "autorament",
     "miły"
-  ]
+  ],
+  "fetchTerm": "kind"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "whose",
   "slug": "whose",
-  "fetchedAt": "2026-05-17T13:26:01.929Z",
+  "fetchedAt": "2026-05-17T13:58:21.613Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -60,5 +60,6 @@
   "translations": [
     "czyj",
     "który"
-  ]
+  ],
+  "fetchTerm": "whose"
 }

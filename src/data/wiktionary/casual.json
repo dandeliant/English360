@@ -1,7 +1,7 @@
 {
   "lemma": "casual",
   "slug": "casual",
-  "fetchedAt": "2026-05-17T13:22:22.829Z",
+  "fetchedAt": "2026-05-17T13:58:09.521Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -51,5 +51,6 @@
     "przypadkowy",
     "sezonowy",
     "niedbały"
-  ]
+  ],
+  "fetchTerm": "casual"
 }

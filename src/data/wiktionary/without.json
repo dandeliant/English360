@@ -1,7 +1,7 @@
 {
   "lemma": "without",
   "slug": "without",
-  "fetchedAt": "2026-05-17T13:26:09.518Z",
+  "fetchedAt": "2026-05-17T13:58:21.633Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -60,5 +60,6 @@
   "translations": [
     "bez",
     "beze"
-  ]
+  ],
+  "fetchTerm": "without"
 }

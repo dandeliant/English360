@@ -1,7 +1,7 @@
 {
   "lemma": "long",
   "slug": "long",
-  "fetchedAt": "2026-05-17T13:24:02.698Z",
+  "fetchedAt": "2026-05-17T13:58:14.988Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -121,5 +121,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "long"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "this",
   "slug": "this",
-  "fetchedAt": "2026-05-17T13:25:39.653Z",
+  "fetchedAt": "2026-05-17T13:58:21.485Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -75,5 +75,6 @@
     "to",
     "ci",
     "te"
-  ]
+  ],
+  "fetchTerm": "this"
 }

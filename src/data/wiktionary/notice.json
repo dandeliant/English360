@@ -1,7 +1,7 @@
 {
   "lemma": "notice",
   "slug": "notice",
-  "fetchedAt": "2026-05-17T13:24:22.523Z",
+  "fetchedAt": "2026-05-17T13:58:15.108Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,6 @@
     "wymówienie",
     "zauważać",
     "zauważyć"
-  ]
+  ],
+  "fetchTerm": "notice"
 }

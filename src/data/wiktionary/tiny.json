@@ -1,7 +1,7 @@
 {
   "lemma": "tiny",
   "slug": "tiny",
-  "fetchedAt": "2026-05-17T13:25:42.204Z",
+  "fetchedAt": "2026-05-17T13:58:21.511Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -31,5 +31,6 @@
     "malutki",
     "tyci",
     "drobny"
-  ]
+  ],
+  "fetchTerm": "tiny"
 }

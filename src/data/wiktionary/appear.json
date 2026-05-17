@@ -1,7 +1,7 @@
 {
   "lemma": "appear",
   "slug": "appear",
-  "fetchedAt": "2026-05-17T13:21:54.540Z",
+  "fetchedAt": "2026-05-17T13:58:05.440Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -30,5 +30,6 @@
     "pojawiać się",
     "pojawić się",
     "ukazywać się"
-  ]
+  ],
+  "fetchTerm": "appear"
 }

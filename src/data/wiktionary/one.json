@@ -1,7 +1,7 @@
 {
   "lemma": "one",
   "slug": "one",
-  "fetchedAt": "2026-05-17T13:24:27.473Z",
+  "fetchedAt": "2026-05-17T13:58:15.132Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -170,5 +170,6 @@
     "jednodolarówka",
     "pewien",
     "jedyny"
-  ]
+  ],
+  "fetchTerm": "one"
 }

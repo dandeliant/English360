@@ -1,7 +1,7 @@
 {
   "lemma": "job",
   "slug": "job",
-  "fetchedAt": "2026-05-17T13:23:49.571Z",
+  "fetchedAt": "2026-05-17T13:58:14.885Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -86,5 +86,6 @@
     "zajęcie",
     "zadanie",
     "praca"
-  ]
+  ],
+  "fetchTerm": "job"
 }

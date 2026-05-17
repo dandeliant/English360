@@ -1,7 +1,7 @@
 {
   "lemma": "bee",
   "slug": "bee",
-  "fetchedAt": "2026-05-17T13:22:02.909Z",
+  "fetchedAt": "2026-05-17T13:58:05.475Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -83,5 +83,6 @@
     "spotkanie",
     "tłoka",
     "be"
-  ]
+  ],
+  "fetchTerm": "bee"
 }

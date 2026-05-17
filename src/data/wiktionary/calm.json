@@ -1,7 +1,7 @@
 {
   "lemma": "calm",
   "slug": "calm",
-  "fetchedAt": "2026-05-17T13:22:20.043Z",
+  "fetchedAt": "2026-05-17T13:58:09.507Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -61,5 +61,6 @@
     "cichy",
     "spokój",
     "cisza"
-  ]
+  ],
+  "fetchTerm": "calm"
 }

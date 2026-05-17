@@ -1,7 +1,7 @@
 {
   "lemma": "accidental",
   "slug": "accidental",
-  "fetchedAt": "2026-05-17T13:21:43.426Z",
+  "fetchedAt": "2026-05-17T13:58:03.580Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -38,5 +38,6 @@
   "translations": [
     "przypadkowy",
     "wypadkowa"
-  ]
+  ],
+  "fetchTerm": "accidental"
 }

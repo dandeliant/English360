@@ -1,7 +1,7 @@
 {
   "lemma": "call",
   "slug": "call",
-  "fetchedAt": "2026-05-17T13:22:19.482Z",
+  "fetchedAt": "2026-05-17T13:58:09.504Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -58,5 +58,6 @@
     "wołać",
     "zawołać",
     "dzwonić"
-  ]
+  ],
+  "fetchTerm": "call"
 }

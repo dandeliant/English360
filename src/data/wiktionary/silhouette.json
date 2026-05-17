@@ -1,7 +1,7 @@
 {
   "lemma": "silhouette",
   "slug": "silhouette",
-  "fetchedAt": "2026-05-17T13:25:07.584Z",
+  "fetchedAt": "2026-05-17T13:58:20.085Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -35,5 +35,6 @@
     "zarys",
     "kontur",
     "sylwetka"
-  ]
+  ],
+  "fetchTerm": "silhouette"
 }

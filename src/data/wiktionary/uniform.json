@@ -1,7 +1,7 @@
 {
   "lemma": "uniform",
   "slug": "uniform",
-  "fetchedAt": "2026-05-17T13:25:49.807Z",
+  "fetchedAt": "2026-05-17T13:58:21.551Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -55,5 +55,6 @@
     "mundur",
     "mundurek",
     "uniform"
-  ]
+  ],
+  "fetchTerm": "uniform"
 }

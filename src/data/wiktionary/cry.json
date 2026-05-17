@@ -1,7 +1,7 @@
 {
   "lemma": "cry",
   "slug": "cry",
-  "fetchedAt": "2026-05-17T13:22:42.620Z",
+  "fetchedAt": "2026-05-17T13:58:09.612Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -62,5 +62,6 @@
     "płacz",
     "okrzyk",
     "krzyk"
-  ]
+  ],
+  "fetchTerm": "cry"
 }

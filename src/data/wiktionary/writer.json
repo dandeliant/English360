@@ -1,7 +1,7 @@
 {
   "lemma": "writer",
   "slug": "writer",
-  "fetchedAt": "2026-05-17T13:26:13.172Z",
+  "fetchedAt": "2026-05-17T13:58:21.642Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,6 @@
     "pisarka",
     "autor",
     "autorka"
-  ]
+  ],
+  "fetchTerm": "writer"
 }

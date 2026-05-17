@@ -1,7 +1,7 @@
 {
   "lemma": "have",
   "slug": "have",
-  "fetchedAt": "2026-05-17T13:23:29.952Z",
+  "fetchedAt": "2026-05-17T13:58:14.736Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -56,5 +56,6 @@
   "pl": null,
   "translations": [
     "mieć"
-  ]
+  ],
+  "fetchTerm": "have"
 }

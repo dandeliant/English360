@@ -1,7 +1,7 @@
 {
   "lemma": "peaceful",
   "slug": "peaceful",
-  "fetchedAt": "2026-05-17T13:24:37.380Z",
+  "fetchedAt": "2026-05-17T13:58:15.191Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -39,5 +39,6 @@
     "pokojowy",
     "bezkonfliktowy",
     "spokojny"
-  ]
+  ],
+  "fetchTerm": "peaceful"
 }

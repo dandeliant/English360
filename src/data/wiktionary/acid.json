@@ -1,7 +1,7 @@
 {
   "lemma": "acid",
   "slug": "acid",
-  "fetchedAt": "2026-05-17T13:21:43.971Z",
+  "fetchedAt": "2026-05-17T13:58:03.605Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -48,5 +48,6 @@
   "translations": [
     "kwaśny",
     "kwas"
-  ]
+  ],
+  "fetchTerm": "acid"
 }

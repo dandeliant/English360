@@ -1,7 +1,7 @@
 {
   "lemma": "creature",
   "slug": "creature",
-  "fetchedAt": "2026-05-17T13:22:35.140Z",
+  "fetchedAt": "2026-05-17T13:58:09.581Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,6 @@
     "istota",
     "stworzenie",
     "stwór"
-  ]
+  ],
+  "fetchTerm": "creature"
 }

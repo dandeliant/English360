@@ -1,7 +1,7 @@
 {
   "lemma": "spike",
   "slug": "spike",
-  "fetchedAt": "2026-05-17T13:25:17.715Z",
+  "fetchedAt": "2026-05-17T13:58:20.161Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,6 @@
     "korek",
     "dosypać",
     "dosypywać"
-  ]
+  ],
+  "fetchTerm": "spike"
 }

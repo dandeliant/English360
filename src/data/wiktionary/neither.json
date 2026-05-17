@@ -1,7 +1,7 @@
 {
   "lemma": "neither",
   "slug": "neither",
-  "fetchedAt": "2026-05-17T13:24:18.681Z",
+  "fetchedAt": "2026-05-17T13:58:15.088Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -64,5 +64,6 @@
     "żaden",
     "ani",
     "też nie"
-  ]
+  ],
+  "fetchTerm": "neither"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "pigment",
   "slug": "pigment",
-  "fetchedAt": "2026-05-17T13:24:39.722Z",
+  "fetchedAt": "2026-05-17T13:58:15.208Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,6 @@
   "translations": [
     "pigment",
     "pigmentować"
-  ]
+  ],
+  "fetchTerm": "pigment"
 }

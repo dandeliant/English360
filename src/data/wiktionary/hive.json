@@ -1,7 +1,7 @@
 {
   "lemma": "hive",
   "slug": "hive",
-  "fetchedAt": "2026-05-17T13:23:35.297Z",
+  "fetchedAt": "2026-05-17T13:58:14.775Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -44,5 +44,6 @@
   "pl": null,
   "translations": [
     "rój"
-  ]
+  ],
+  "fetchTerm": "hive"
 }

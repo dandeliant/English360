@@ -1,7 +1,7 @@
 {
   "lemma": "as",
   "slug": "as",
-  "fetchedAt": "2026-05-17T13:21:55.832Z",
+  "fetchedAt": "2026-05-17T13:58:05.445Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -133,5 +133,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "as"
 }

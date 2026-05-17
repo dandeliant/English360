@@ -1,7 +1,7 @@
 {
   "lemma": "intense",
   "slug": "intense",
-  "fetchedAt": "2026-05-17T13:23:45.399Z",
+  "fetchedAt": "2026-05-17T13:58:14.861Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -27,5 +27,6 @@
   "pl": null,
   "translations": [
     "intensywny"
-  ]
+  ],
+  "fetchTerm": "intense"
 }

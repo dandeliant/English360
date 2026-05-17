@@ -1,7 +1,7 @@
 {
   "lemma": "yellow",
   "slug": "yellow",
-  "fetchedAt": "2026-05-17T13:26:14.341Z",
+  "fetchedAt": "2026-05-17T13:58:21.648Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -75,5 +75,6 @@
     "tchórzliwy",
     "żółknąć",
     "żółcić"
-  ]
+  ],
+  "fetchTerm": "yellow"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "mutualism",
   "slug": "mutualism",
-  "fetchedAt": "2026-05-17T13:24:16.376Z",
+  "fetchedAt": "2026-05-17T13:58:15.073Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -18,5 +18,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "mutualism"
 }

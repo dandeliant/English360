@@ -1,7 +1,7 @@
 {
   "lemma": "distant",
   "slug": "distant",
-  "fetchedAt": "2026-05-17T13:22:47.931Z",
+  "fetchedAt": "2026-05-17T13:58:09.659Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -38,5 +38,6 @@
   "translations": [
     "daleki",
     "odległy"
-  ]
+  ],
+  "fetchTerm": "distant"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "exist",
   "slug": "exist",
-  "fetchedAt": "2026-05-17T13:23:01.829Z",
+  "fetchedAt": "2026-05-17T13:58:10.992Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -17,5 +17,6 @@
   "translations": [
     "istnieć",
     "egzystować"
-  ]
+  ],
+  "fetchTerm": "exist"
 }

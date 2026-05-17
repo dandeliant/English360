@@ -1,7 +1,7 @@
 {
   "lemma": "watch",
   "slug": "watch",
-  "fetchedAt": "2026-05-17T13:25:56.923Z",
+  "fetchedAt": "2026-05-17T13:58:21.588Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -53,5 +53,6 @@
     "wachta",
     "oglądać",
     "obserwować"
-  ]
+  ],
+  "fetchTerm": "watch"
 }

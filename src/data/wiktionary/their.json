@@ -1,7 +1,7 @@
 {
   "lemma": "their",
   "slug": "their",
-  "fetchedAt": "2026-05-17T13:25:35.843Z",
+  "fetchedAt": "2026-05-17T13:58:20.246Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -37,5 +37,6 @@
   "pl": null,
   "translations": [
     "ich"
-  ]
+  ],
+  "fetchTerm": "their"
 }

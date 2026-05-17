@@ -1,7 +1,7 @@
 {
   "lemma": "edge",
   "slug": "edge",
-  "fetchedAt": "2026-05-17T13:22:55.601Z",
+  "fetchedAt": "2026-05-17T13:58:09.711Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -52,5 +52,6 @@
     "rąbek",
     "obrzeże",
     "kraniec"
-  ]
+  ],
+  "fetchTerm": "edge"
 }

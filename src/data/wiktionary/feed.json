@@ -1,7 +1,7 @@
 {
   "lemma": "feed",
   "slug": "feed",
-  "fetchedAt": "2026-05-17T13:23:06.630Z",
+  "fetchedAt": "2026-05-17T13:58:12.748Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -54,5 +54,6 @@
     "żywić",
     "pasza",
     "karma"
-  ]
+  ],
+  "fetchTerm": "feed"
 }

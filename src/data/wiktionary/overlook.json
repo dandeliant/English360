@@ -1,7 +1,7 @@
 {
   "lemma": "overlook",
   "slug": "overlook",
-  "fetchedAt": "2026-05-17T13:24:33.322Z",
+  "fetchedAt": "2026-05-17T13:58:15.160Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -43,5 +43,6 @@
     "przeoczyć",
     "przegapiać",
     "przegapić"
-  ]
+  ],
+  "fetchTerm": "overlook"
 }

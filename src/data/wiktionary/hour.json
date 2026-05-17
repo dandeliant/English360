@@ -1,7 +1,7 @@
 {
   "lemma": "hour",
   "slug": "hour",
-  "fetchedAt": "2026-05-17T13:23:36.959Z",
+  "fetchedAt": "2026-05-17T13:58:14.794Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -25,5 +25,6 @@
   "pl": null,
   "translations": [
     "godzina"
-  ]
+  ],
+  "fetchTerm": "hour"
 }

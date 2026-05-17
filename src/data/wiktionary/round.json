@@ -1,7 +1,7 @@
 {
   "lemma": "round",
   "slug": "round",
-  "fetchedAt": "2026-05-17T13:24:58.513Z",
+  "fetchedAt": "2026-05-17T13:58:20.018Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -142,5 +142,6 @@
     "krąg",
     "koło",
     "runda"
-  ]
+  ],
+  "fetchTerm": "round"
 }

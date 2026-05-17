@@ -1,7 +1,7 @@
 {
   "lemma": "slightly",
   "slug": "slightly",
-  "fetchedAt": "2026-05-17T13:25:10.992Z",
+  "fetchedAt": "2026-05-17T13:58:20.122Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -25,5 +25,6 @@
   "translations": [
     "trochę",
     "nieco"
-  ]
+  ],
+  "fetchTerm": "slightly"
 }

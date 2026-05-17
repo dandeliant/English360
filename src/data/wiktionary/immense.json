@@ -1,7 +1,7 @@
 {
   "lemma": "immense",
   "slug": "immense",
-  "fetchedAt": "2026-05-17T13:23:41.070Z",
+  "fetchedAt": "2026-05-17T13:58:14.840Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -35,5 +35,6 @@
     "ogromny",
     "przeogromny",
     "niezmierny"
-  ]
+  ],
+  "fetchTerm": "immense"
 }

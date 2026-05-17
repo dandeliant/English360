@@ -1,7 +1,7 @@
 {
   "lemma": "crown",
   "slug": "crown",
-  "fetchedAt": "2026-05-17T13:22:42.074Z",
+  "fetchedAt": "2026-05-17T13:58:09.608Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -63,5 +63,6 @@
     "wianuszek",
     "wieniec",
     "ciemię"
-  ]
+  ],
+  "fetchTerm": "crown"
 }

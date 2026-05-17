@@ -1,7 +1,7 @@
 {
   "lemma": "head",
   "slug": "head",
-  "fetchedAt": "2026-05-17T13:23:31.147Z",
+  "fetchedAt": "2026-05-17T13:58:14.743Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -80,5 +80,6 @@
     "brać azymut",
     "wziąć azymut",
     "czołowy"
-  ]
+  ],
+  "fetchTerm": "head"
 }

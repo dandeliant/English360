@@ -1,7 +1,7 @@
 {
   "lemma": "wrap",
   "slug": "wrap",
-  "fetchedAt": "2026-05-17T13:26:12.619Z",
+  "fetchedAt": "2026-05-17T13:58:21.640Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -58,5 +58,6 @@
     "opakowanie",
     "szal",
     "wrap"
-  ]
+  ],
+  "fetchTerm": "wrap"
 }

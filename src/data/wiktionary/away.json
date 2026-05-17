@@ -1,7 +1,7 @@
 {
   "lemma": "away",
   "slug": "away",
-  "fetchedAt": "2026-05-17T13:21:57.156Z",
+  "fetchedAt": "2026-05-17T13:58:05.450Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -89,5 +89,6 @@
     "daleko",
     "z dala",
     "nieobecny"
-  ]
+  ],
+  "fetchTerm": "away"
 }

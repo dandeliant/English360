@@ -1,7 +1,7 @@
 {
   "lemma": "pause",
   "slug": "pause",
-  "fetchedAt": "2026-05-17T13:24:36.949Z",
+  "fetchedAt": "2026-05-17T13:58:15.188Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -58,5 +58,6 @@
     "przerywać",
     "pauza",
     "przerwa"
-  ]
+  ],
+  "fetchTerm": "pause"
 }

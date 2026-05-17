@@ -1,7 +1,7 @@
 {
   "lemma": "vocal",
   "slug": "vocal",
-  "fetchedAt": "2026-05-17T13:25:54.983Z",
+  "fetchedAt": "2026-05-17T13:58:21.575Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -47,5 +47,6 @@
   "translations": [
     "głosowy",
     "wokalny"
-  ]
+  ],
+  "fetchTerm": "vocal"
 }

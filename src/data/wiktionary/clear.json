@@ -1,7 +1,7 @@
 {
   "lemma": "clear",
   "slug": "clear",
-  "fetchedAt": "2026-05-17T13:22:27.193Z",
+  "fetchedAt": "2026-05-17T13:58:09.542Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -103,5 +103,6 @@
     "jasny",
     "wymazać",
     "czyścić"
-  ]
+  ],
+  "fetchTerm": "clear"
 }

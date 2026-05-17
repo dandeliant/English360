@@ -1,7 +1,7 @@
 {
   "lemma": "circle",
   "slug": "circle",
-  "fetchedAt": "2026-05-17T13:22:26.138Z",
+  "fetchedAt": "2026-05-17T13:58:09.537Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,6 @@
     "kula",
     "koło",
     "objeżdżać"
-  ]
+  ],
+  "fetchTerm": "circle"
 }

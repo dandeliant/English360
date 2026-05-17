@@ -1,7 +1,7 @@
 {
   "lemma": "gently",
   "slug": "gently",
-  "fetchedAt": "2026-05-17T13:23:20.640Z",
+  "fetchedAt": "2026-05-17T13:58:14.658Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -25,5 +25,6 @@
   "translations": [
     "łagodnie",
     "delikatnie"
-  ]
+  ],
+  "fetchTerm": "gently"
 }

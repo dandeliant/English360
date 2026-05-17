@@ -1,7 +1,7 @@
 {
   "lemma": "dust",
   "slug": "dust",
-  "fetchedAt": "2026-05-17T13:22:51.621Z",
+  "fetchedAt": "2026-05-17T13:58:09.676Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,6 @@
     "proch",
     "odkurzać",
     "odkurzyć"
-  ]
+  ],
+  "fetchTerm": "dust"
 }

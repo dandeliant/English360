@@ -1,7 +1,7 @@
 {
   "lemma": "will",
   "slug": "will",
-  "fetchedAt": "2026-05-17T13:26:02.465Z",
+  "fetchedAt": "2026-05-17T13:58:21.619Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -70,5 +70,6 @@
   "pl": null,
   "translations": [
     "wola"
-  ]
+  ],
+  "fetchTerm": "will"
 }

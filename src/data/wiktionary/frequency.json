@@ -1,7 +1,7 @@
 {
   "lemma": "frequency",
   "slug": "frequency",
-  "fetchedAt": "2026-05-17T13:23:16.954Z",
+  "fetchedAt": "2026-05-17T13:58:14.634Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -34,5 +34,6 @@
   "translations": [
     "częstość",
     "częstotliwość"
-  ]
+  ],
+  "fetchTerm": "frequency"
 }

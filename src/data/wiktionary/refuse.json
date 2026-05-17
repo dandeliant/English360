@@ -1,7 +1,7 @@
 {
   "lemma": "refuse",
   "slug": "refuse",
-  "fetchedAt": "2026-05-17T13:24:50.631Z",
+  "fetchedAt": "2026-05-17T13:58:19.968Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -68,5 +68,6 @@
     "odrzucać",
     "odrzucić",
     "odmówić"
-  ]
+  ],
+  "fetchTerm": "refuse"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "moment",
   "slug": "moment",
-  "fetchedAt": "2026-05-17T13:24:11.500Z",
+  "fetchedAt": "2026-05-17T13:58:15.040Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -27,5 +27,6 @@
     "moment",
     "mgnienie",
     "moment siły"
-  ]
+  ],
+  "fetchTerm": "moment"
 }

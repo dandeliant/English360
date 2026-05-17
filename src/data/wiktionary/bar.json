@@ -1,7 +1,7 @@
 {
   "lemma": "bar",
   "slug": "bar",
-  "fetchedAt": "2026-05-17T13:21:58.606Z",
+  "fetchedAt": "2026-05-17T13:58:05.457Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -87,5 +87,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "bar"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "what",
   "slug": "what",
-  "fetchedAt": "2026-05-17T13:25:58.180Z",
+  "fetchedAt": "2026-05-17T13:58:21.594Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -133,5 +133,6 @@
     "który",
     "która",
     "które"
-  ]
+  ],
+  "fetchTerm": "what"
 }

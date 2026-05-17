@@ -1,7 +1,7 @@
 {
   "lemma": "look",
   "slug": "look",
-  "fetchedAt": "2026-05-17T13:24:03.374Z",
+  "fetchedAt": "2026-05-17T13:58:14.991Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -73,5 +73,6 @@
     "wyglądać",
     "słuchaj",
     "pogląd"
-  ]
+  ],
+  "fetchTerm": "look"
 }

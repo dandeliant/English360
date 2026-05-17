@@ -1,7 +1,7 @@
 {
   "lemma": "wall",
   "slug": "wall",
-  "fetchedAt": "2026-05-17T13:25:55.682Z",
+  "fetchedAt": "2026-05-17T13:58:21.577Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -102,5 +102,6 @@
     "ściana",
     "osadnik megera",
     "przegroda"
-  ]
+  ],
+  "fetchTerm": "wall"
 }

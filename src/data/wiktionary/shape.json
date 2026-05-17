@@ -1,7 +1,7 @@
 {
   "lemma": "shape",
   "slug": "shape",
-  "fetchedAt": "2026-05-17T13:25:04.473Z",
+  "fetchedAt": "2026-05-17T13:58:20.049Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -56,5 +56,6 @@
     "kondycja",
     "postać",
     "kształtować"
-  ]
+  ],
+  "fetchTerm": "shape"
 }

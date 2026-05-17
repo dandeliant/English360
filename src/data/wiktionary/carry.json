@@ -1,7 +1,7 @@
 {
   "lemma": "carry",
   "slug": "carry",
-  "fetchedAt": "2026-05-17T13:22:22.313Z",
+  "fetchedAt": "2026-05-17T13:58:09.518Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -52,5 +52,6 @@
     "nieść",
     "wozić",
     "wieźć"
-  ]
+  ],
+  "fetchTerm": "carry"
 }

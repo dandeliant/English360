@@ -1,7 +1,7 @@
 {
   "lemma": "landscape",
   "slug": "landscape",
-  "fetchedAt": "2026-05-17T13:23:53.865Z",
+  "fetchedAt": "2026-05-17T13:58:14.916Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -34,5 +34,6 @@
   "translations": [
     "krajobraz",
     "pejzaż"
-  ]
+  ],
+  "fetchTerm": "landscape"
 }

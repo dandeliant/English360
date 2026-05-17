@@ -1,7 +1,7 @@
 {
   "lemma": "lace",
   "slug": "lace",
-  "fetchedAt": "2026-05-17T13:23:52.886Z",
+  "fetchedAt": "2026-05-17T13:58:14.910Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -42,5 +42,6 @@
   "translations": [
     "koronka",
     "sznurować"
-  ]
+  ],
+  "fetchTerm": "lace"
 }

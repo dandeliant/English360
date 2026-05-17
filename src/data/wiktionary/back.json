@@ -1,7 +1,7 @@
 {
   "lemma": "back",
   "slug": "back",
-  "fetchedAt": "2026-05-17T13:21:57.810Z",
+  "fetchedAt": "2026-05-17T13:58:05.454Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -115,5 +115,6 @@
     "z powrotem",
     "nazad",
     "plecy"
-  ]
+  ],
+  "fetchTerm": "back"
 }

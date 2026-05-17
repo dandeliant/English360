@@ -25,12 +25,41 @@ export type Occurrence = {
 export type DictEntry = {
   lemma: string;
   slug: string;
+  /** Most common capitalisation seen in lesson text. Equal to `lemma` for
+   *  common words; differs for proper nouns ("Polish", "Poland", "May"...).
+   *  Used in page headers, Wiktionary back-links, and as the Wiktionary
+   *  fetch term so we hit the right disambiguation page. */
+  displayForm: string;
   ipaBr?: string;
   /** All Polish translations, deduplicated. First entry is the primary one
-   *  (used in headers); slice(0, 3).join(', ') is what hover tooltips show. */
+   *  (used in headers); the tooltip shows all of them, joined by commas. */
   translationsPl: string[];
   occurrences: Occurrence[];
 };
+
+/** Heuristic: a lemma is treated as a proper noun if at least half of its
+ *  surface-form occurrences start with an uppercase letter. Works for
+ *  Polish, Poland, France, May (month), Brassicaceae, etc.; tolerates
+ *  start-of-sentence capitalisation of common words because those are
+ *  outnumbered by mid-sentence lowercase usage. */
+function pickDisplayForm(forms: Map<string, number>, lemma: string): string {
+  let capped = 0;
+  let lower = 0;
+  let bestCap = '';
+  let bestCapN = 0;
+  for (const [surface, count] of forms) {
+    if (/^[A-Z]/.test(surface)) {
+      capped += count;
+      if (count > bestCapN) {
+        bestCapN = count;
+        bestCap = surface;
+      }
+    } else {
+      lower += count;
+    }
+  }
+  return capped > lower && bestCap ? bestCap : lemma;
+}
 
 /** Split a vocab.pl string into individual senses. The author may write
  *  `"skraj, krawędź"` or `"klasztorny; ascetyczny"` — both become two
@@ -76,10 +105,21 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
   function ensure(slug: string, lemma: string): DictEntry {
     let entry = index.get(slug);
     if (!entry) {
-      entry = { lemma, slug, translationsPl: [], occurrences: [] };
+      entry = { lemma, slug, displayForm: lemma, translationsPl: [], occurrences: [] };
       index.set(slug, entry);
     }
     return entry;
+  }
+
+  // Track surface-form usage per slug to pick a sensible display capitalisation.
+  const formCounts = new Map<string, Map<string, number>>();
+  function recordForm(slug: string, form: string) {
+    let m = formCounts.get(slug);
+    if (!m) {
+      m = new Map();
+      formCounts.set(slug, m);
+    }
+    m.set(form, (m.get(form) || 0) + 1);
   }
 
   function mergeTranslations(entry: DictEntry, more: readonly string[]) {
@@ -117,8 +157,15 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
       const sentences = splitSentences(lv.text);
       for (const sentence of sentences) {
         const seen = new Set<string>();
+        // Skip the first word of every sentence when judging proper-noun
+        // capitalisation — sentence-start always capitalises so it carries
+        // no signal. Polish / Poland / May still register elsewhere; After,
+        // Behind, Everything, There etc. fall back to lowercase as expected.
+        let isFirstWord = true;
         for (const tok of tokenize(sentence)) {
           if (tok.type !== 'word' || !tok.slug) continue;
+          if (!isFirstWord) recordForm(tok.slug, tok.text);
+          isFirstWord = false;
           if (seen.has(tok.slug)) continue;
           seen.add(tok.slug);
           const entry = ensure(tok.slug, tok.lemma);
@@ -132,6 +179,13 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
         }
       }
     }
+  }
+
+  // Pass 2.5 — fix displayForm for proper nouns.
+  for (const [slug, forms] of formCounts) {
+    const entry = index.get(slug);
+    if (!entry) continue;
+    entry.displayForm = pickDisplayForm(forms, entry.lemma);
   }
 
   // Pass 3 — pull Polish translations cached from EN Wiktionary's

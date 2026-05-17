@@ -1,7 +1,7 @@
 {
   "lemma": "chemical",
   "slug": "chemical",
-  "fetchedAt": "2026-05-17T13:22:25.612Z",
+  "fetchedAt": "2026-05-17T13:58:09.534Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -48,5 +48,6 @@
   "pl": null,
   "translations": [
     "chemiczny"
-  ]
+  ],
+  "fetchTerm": "chemical"
 }

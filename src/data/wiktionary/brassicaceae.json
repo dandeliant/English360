@@ -1,8 +1,19 @@
 {
   "lemma": "brassicaceae",
   "slug": "brassicaceae",
-  "fetchedAt": "2026-05-17T13:22:13.042Z",
-  "en": null,
+  "fetchedAt": "2026-05-17T13:58:09.445Z",
+  "fetchTerm": "Brassicaceae",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A taxonomic family within the order Brassicales – mustard or cabbage family, crucifers.",
+          "examples": []
+        }
+      ]
+    }
+  ],
   "pl": null,
   "translations": []
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "hurry",
   "slug": "hurry",
-  "fetchedAt": "2026-05-17T13:23:39.517Z",
+  "fetchedAt": "2026-05-17T13:58:14.829Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -53,5 +53,6 @@
     "pilność",
     "śpieszyć",
     "przyśpieszać"
-  ]
+  ],
+  "fetchTerm": "hurry"
 }

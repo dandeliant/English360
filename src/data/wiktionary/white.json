@@ -1,7 +1,7 @@
 {
   "lemma": "white",
   "slug": "white",
-  "fetchedAt": "2026-05-17T13:26:00.987Z",
+  "fetchedAt": "2026-05-17T13:58:21.607Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -48,5 +48,6 @@
     "blady",
     "siwy",
     "biel"
-  ]
+  ],
+  "fetchTerm": "white"
 }

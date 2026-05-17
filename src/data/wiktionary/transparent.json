@@ -1,7 +1,7 @@
 {
   "lemma": "transparent",
   "slug": "transparent",
-  "fetchedAt": "2026-05-17T13:25:45.505Z",
+  "fetchedAt": "2026-05-17T13:58:21.532Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -48,5 +48,6 @@
     "ażurowy",
     "bezbarwny",
     "otwarty"
-  ]
+  ],
+  "fetchTerm": "transparent"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "tide",
   "slug": "tide",
-  "fetchedAt": "2026-05-17T13:25:41.014Z",
+  "fetchedAt": "2026-05-17T13:58:21.496Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -61,5 +61,6 @@
     "pływ",
     "przypływ",
     "odpływ"
-  ]
+  ],
+  "fetchTerm": "tide"
 }

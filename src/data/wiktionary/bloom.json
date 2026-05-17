@@ -1,7 +1,7 @@
 {
   "lemma": "bloom",
   "slug": "bloom",
-  "fetchedAt": "2026-05-17T13:22:08.505Z",
+  "fetchedAt": "2026-05-17T13:58:06.728Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -50,5 +50,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "bloom"
 }

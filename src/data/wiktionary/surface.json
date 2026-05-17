@@ -1,7 +1,7 @@
 {
   "lemma": "surface",
   "slug": "surface",
-  "fetchedAt": "2026-05-17T13:25:28.012Z",
+  "fetchedAt": "2026-05-17T13:58:20.209Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,6 @@
   "pl": null,
   "translations": [
     "powierzchnia"
-  ]
+  ],
+  "fetchTerm": "surface"
 }

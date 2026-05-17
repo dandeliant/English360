@@ -1,7 +1,7 @@
 {
   "lemma": "though",
   "slug": "though",
-  "fetchedAt": "2026-05-17T13:25:40.538Z",
+  "fetchedAt": "2026-05-17T13:58:21.493Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -55,5 +55,6 @@
     "bez względu na to",
     "choć",
     "chociaż"
-  ]
+  ],
+  "fetchTerm": "though"
 }

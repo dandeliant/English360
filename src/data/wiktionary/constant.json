@@ -1,7 +1,7 @@
 {
   "lemma": "constant",
   "slug": "constant",
-  "fetchedAt": "2026-05-17T13:22:32.377Z",
+  "fetchedAt": "2026-05-17T13:58:09.568Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -39,5 +39,6 @@
     "stały",
     "bezustanny",
     "stała"
-  ]
+  ],
+  "fetchTerm": "constant"
 }

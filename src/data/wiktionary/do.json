@@ -1,7 +1,7 @@
 {
   "lemma": "do",
   "slug": "do",
-  "fetchedAt": "2026-05-17T13:22:48.788Z",
+  "fetchedAt": "2026-05-17T13:58:09.662Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -68,5 +68,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "do"
 }

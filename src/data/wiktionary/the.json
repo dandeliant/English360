@@ -1,7 +1,7 @@
 {
   "lemma": "the",
   "slug": "the",
-  "fetchedAt": "2026-05-17T13:25:34.894Z",
+  "fetchedAt": "2026-05-17T13:58:20.241Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -89,5 +89,6 @@
   "translations": [
     "ten",
     "im + ''comp.'', tym + ''comp.''"
-  ]
+  ],
+  "fetchTerm": "the"
 }

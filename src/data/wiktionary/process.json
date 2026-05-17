@@ -1,7 +1,7 @@
 {
   "lemma": "process",
   "slug": "process",
-  "fetchedAt": "2026-05-17T13:24:46.253Z",
+  "fetchedAt": "2026-05-17T13:58:18.600Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -51,5 +51,6 @@
     "przetwarzać",
     "asymilować",
     "przyswajać"
-  ]
+  ],
+  "fetchTerm": "process"
 }

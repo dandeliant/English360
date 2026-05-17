@@ -1,7 +1,7 @@
 {
   "lemma": "lend",
   "slug": "lend",
-  "fetchedAt": "2026-05-17T13:23:57.609Z",
+  "fetchedAt": "2026-05-17T13:58:14.959Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -53,5 +53,6 @@
   "translations": [
     "pożyczać",
     "pożyczyć"
-  ]
+  ],
+  "fetchTerm": "lend"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "smear",
   "slug": "smear",
-  "fetchedAt": "2026-05-17T13:25:13.028Z",
+  "fetchedAt": "2026-05-17T13:58:20.136Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -53,5 +53,6 @@
     "smarować",
     "posmarować",
     "maźnięcie"
-  ]
+  ],
+  "fetchTerm": "smear"
 }

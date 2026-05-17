@@ -1,7 +1,7 @@
 {
   "lemma": "complete",
   "slug": "complete",
-  "fetchedAt": "2026-05-17T13:22:31.276Z",
+  "fetchedAt": "2026-05-17T13:58:09.563Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -66,5 +66,6 @@
     "dopełnić",
     "uzupełnić",
     "skompletować"
-  ]
+  ],
+  "fetchTerm": "complete"
 }

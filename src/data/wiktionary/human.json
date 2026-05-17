@@ -1,7 +1,7 @@
 {
   "lemma": "human",
   "slug": "human",
-  "fetchedAt": "2026-05-17T13:23:39.035Z",
+  "fetchedAt": "2026-05-17T13:58:14.826Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -51,5 +51,6 @@
     "człowiek",
     "ludzie",
     "istota ludzka"
-  ]
+  ],
+  "fetchTerm": "human"
 }

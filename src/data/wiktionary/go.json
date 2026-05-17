@@ -1,7 +1,7 @@
 {
   "lemma": "go",
   "slug": "go",
-  "fetchedAt": "2026-05-17T13:23:24.993Z",
+  "fetchedAt": "2026-05-17T13:58:14.700Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -76,5 +76,6 @@
     "próba",
     "pozwolenie",
     "go"
-  ]
+  ],
+  "fetchTerm": "go"
 }

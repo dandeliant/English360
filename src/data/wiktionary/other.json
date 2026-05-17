@@ -1,7 +1,7 @@
 {
   "lemma": "other",
   "slug": "other",
-  "fetchedAt": "2026-05-17T13:24:29.507Z",
+  "fetchedAt": "2026-05-17T13:58:15.142Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -78,5 +78,6 @@
   "pl": null,
   "translations": [
     "inny"
-  ]
+  ],
+  "fetchTerm": "other"
 }

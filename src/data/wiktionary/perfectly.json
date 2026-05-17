@@ -1,7 +1,7 @@
 {
   "lemma": "perfectly",
   "slug": "perfectly",
-  "fetchedAt": "2026-05-17T13:24:37.818Z",
+  "fetchedAt": "2026-05-17T13:58:15.194Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -24,5 +24,6 @@
   "pl": null,
   "translations": [
     "doskonale"
-  ]
+  ],
+  "fetchTerm": "perfectly"
 }

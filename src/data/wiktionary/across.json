@@ -1,7 +1,7 @@
 {
   "lemma": "across",
   "slug": "across",
-  "fetchedAt": "2026-05-17T13:21:45.294Z",
+  "fetchedAt": "2026-05-17T13:58:03.679Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -67,5 +67,6 @@
     "po drugiej stronie",
     "naprzeciwko",
     "poziomo"
-  ]
+  ],
+  "fetchTerm": "across"
 }

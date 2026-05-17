@@ -1,7 +1,7 @@
 {
   "lemma": "filament",
   "slug": "filament",
-  "fetchedAt": "2026-05-17T13:23:10.024Z",
+  "fetchedAt": "2026-05-17T13:58:12.763Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -27,5 +27,6 @@
   "pl": null,
   "translations": [
     "żarnik"
-  ]
+  ],
+  "fetchTerm": "filament"
 }

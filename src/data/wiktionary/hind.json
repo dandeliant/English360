@@ -1,7 +1,7 @@
 {
   "lemma": "hind",
   "slug": "hind",
-  "fetchedAt": "2026-05-17T13:23:34.363Z",
+  "fetchedAt": "2026-05-17T13:58:14.767Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -44,5 +44,6 @@
     "tylny",
     "zadni",
     "łania"
-  ]
+  ],
+  "fetchTerm": "hind"
 }

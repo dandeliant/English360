@@ -1,7 +1,7 @@
 {
   "lemma": "drink",
   "slug": "drink",
-  "fetchedAt": "2026-05-17T13:22:50.086Z",
+  "fetchedAt": "2026-05-17T13:58:09.667Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -51,5 +51,6 @@
     "drink",
     "picie",
     "trunki"
-  ]
+  ],
+  "fetchTerm": "drink"
 }

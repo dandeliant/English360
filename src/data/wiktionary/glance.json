@@ -1,7 +1,7 @@
 {
   "lemma": "glance",
   "slug": "glance",
-  "fetchedAt": "2026-05-17T13:23:24.219Z",
+  "fetchedAt": "2026-05-17T13:58:14.696Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -60,5 +60,6 @@
     "rzucać okiem",
     "rzucić okiem",
     "spojrzeć"
-  ]
+  ],
+  "fetchTerm": "glance"
 }

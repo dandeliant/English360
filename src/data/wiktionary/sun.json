@@ -1,7 +1,7 @@
 {
   "lemma": "sun",
   "slug": "sun",
-  "fetchedAt": "2026-05-17T13:25:27.040Z",
+  "fetchedAt": "2026-05-17T13:58:20.205Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -77,5 +77,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "sun"
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "photograph",
   "slug": "photograph",
-  "fetchedAt": "2026-05-17T13:24:38.775Z",
+  "fetchedAt": "2026-05-17T13:58:15.201Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -39,5 +39,6 @@
     "fotka",
     "fotografować",
     "sfotografować"
-  ]
+  ],
+  "fetchTerm": "photograph"
 }

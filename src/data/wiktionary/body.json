@@ -1,7 +1,7 @@
 {
   "lemma": "body",
   "slug": "body",
-  "fetchedAt": "2026-05-17T13:22:09.660Z",
+  "fetchedAt": "2026-05-17T13:58:06.745Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -46,5 +46,6 @@
     "korpus",
     "kadłub",
     "karoseria"
-  ]
+  ],
+  "fetchTerm": "body"
 }

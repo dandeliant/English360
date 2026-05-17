@@ -1,7 +1,7 @@
 {
   "lemma": "stick",
   "slug": "stick",
-  "fetchedAt": "2026-05-17T13:25:22.062Z",
+  "fetchedAt": "2026-05-17T13:58:20.181Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -110,5 +110,6 @@
     "kij",
     "pałka",
     "laska"
-  ]
+  ],
+  "fetchTerm": "stick"
 }

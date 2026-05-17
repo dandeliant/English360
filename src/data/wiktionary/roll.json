@@ -1,7 +1,7 @@
 {
   "lemma": "roll",
   "slug": "roll",
-  "fetchedAt": "2026-05-17T13:24:57.872Z",
+  "fetchedAt": "2026-05-17T13:58:20.014Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -73,5 +73,6 @@
     "poturlać",
     "rulon",
     "zwój"
-  ]
+  ],
+  "fetchTerm": "roll"
 }

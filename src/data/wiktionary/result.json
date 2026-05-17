@@ -1,7 +1,7 @@
 {
   "lemma": "result",
   "slug": "result",
-  "fetchedAt": "2026-05-17T13:24:55.693Z",
+  "fetchedAt": "2026-05-17T13:58:20.001Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -58,5 +58,6 @@
     "kończyć się",
     "skończyć się",
     "rezultat"
-  ]
+  ],
+  "fetchTerm": "result"
 }

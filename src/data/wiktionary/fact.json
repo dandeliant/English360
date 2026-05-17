@@ -1,7 +1,7 @@
 {
   "lemma": "fact",
   "slug": "fact",
-  "fetchedAt": "2026-05-17T13:23:04.086Z",
+  "fetchedAt": "2026-05-17T13:58:11.010Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,6 @@
   "pl": null,
   "translations": [
     "fakt"
-  ]
+  ],
+  "fetchTerm": "fact"
 }

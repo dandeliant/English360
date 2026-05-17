@@ -1,7 +1,7 @@
 {
   "lemma": "and",
   "slug": "and",
-  "fetchedAt": "2026-05-17T13:21:52.283Z",
+  "fetchedAt": "2026-05-17T13:58:05.427Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -65,5 +65,6 @@
     }
   ],
   "pl": null,
-  "translations": []
+  "translations": [],
+  "fetchTerm": "and"
 }

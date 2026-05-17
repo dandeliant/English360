@@ -1,7 +1,7 @@
 {
   "lemma": "broad",
   "slug": "broad",
-  "fetchedAt": "2026-05-17T13:22:14.665Z",
+  "fetchedAt": "2026-05-17T13:58:09.464Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -57,5 +57,6 @@
     "babol",
     "babon",
     "babsko"
-  ]
+  ],
+  "fetchTerm": "broad"
 }
