@@ -17,6 +17,10 @@ const { entry } = Astro.props;
 const lessonCount = new Set(entry.occurrences.map((o) => o.lessonId)).size;
 const wikt = await loadWiktionary(entry.slug);
 const enWiktUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(entry.lemma)}`;
+
+// Reuse the same word index here so sentence-snippet word links get
+// the same hover-translation tooltip as the lesson page.
+const wordIndex = await buildWordIndex();
 ---
 <BaseLayout
   title={`${entry.lemma} · Słownik · English 360°`}
@@ -99,7 +103,14 @@ const enWiktUrl = `https://en.wiktionary.org/wiki/${encodeURIComponent(entry.lem
                 if (tok.slug === entry.slug) {
                   return <mark class="occurrence__match">{tok.text}</mark>;
                 }
-                return <a class="word-link" href={`/slownik/${tok.slug}`}>{tok.text}</a>;
+                const pl = wordIndex.get(tok.slug)?.translationPl;
+                return (
+                  <a
+                    class="word-link"
+                    href={`/slownik/${tok.slug}`}
+                    data-pl={pl ?? undefined}
+                  >{tok.text}</a>
+                );
               })}
             </p>
             <p class="occurrence__source">

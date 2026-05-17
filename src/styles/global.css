@@ -168,6 +168,63 @@ a:hover { text-decoration-thickness: 2px; }
   background: color-mix(in srgb, var(--accent) 30%, transparent);
 }
 
+/* ── Word translation tooltip ────────────────────────────────────
+ * Inverted-contrast pill anchored above the hovered word. Single
+ * DOM node owned by src/scripts/word-tooltip.js; arrow position
+ * follows the word via the --arrow-x custom property so it points
+ * correctly even when the tooltip is clamped to the viewport edge.
+ */
+.word-tooltip {
+  position: absolute;
+  z-index: 100;
+  max-inline-size: 18rem;
+  padding: var(--space-2) var(--space-3);
+  background: var(--text);
+  color: var(--bg);
+  border-radius: var(--radius-md);
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  line-height: 1.3;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: opacity 120ms ease, visibility 120ms ease, transform 120ms ease;
+  box-shadow: var(--shadow-lg);
+  --arrow-x: 50%;
+}
+
+.word-tooltip[data-visible='true'] {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.word-tooltip::after {
+  content: '';
+  position: absolute;
+  inset-inline-start: var(--arrow-x);
+  inline-size: 0;
+  block-size: 0;
+  border: 5px solid transparent;
+  margin-inline-start: -5px;
+}
+
+.word-tooltip[data-arrow='bottom']::after {
+  inset-block-start: 100%;
+  border-block-start-color: var(--text);
+}
+
+.word-tooltip[data-arrow='top']::after {
+  inset-block-end: 100%;
+  border-block-end-color: var(--text);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .word-tooltip { transition: none; }
+}
+
 /* ── Clickable words in lesson text ──────────────────────────────
  * Every word in the EN paragraph is wrapped in <a class="word-link
  * tts-word" href="/slownik/<slug>/">. The dotted underline signals
