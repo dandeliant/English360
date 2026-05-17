@@ -1,0 +1,47 @@
+{
+  "lemma": "thread",
+  "slug": "thread",
+  "fetchTerm": "thread",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A cord formed by spinning or twisting together textile fibers or filaments into one or more continuous strands, typically used in needlework.",
+          "examples": []
+        },
+        {
+          "text": "A piece of yarn, especially said of warps and wefts in a woven fabric.",
+          "examples": []
+        },
+        {
+          "text": "Any of various natural (as spiderweb, etc.) or manufactured filaments (as glass, plastic, metal, etc.).",
+          "examples": [
+            "the threads of a spiderweb"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pass a thread through the eye of a needle.",
+          "examples": []
+        },
+        {
+          "text": "To fix (beads, pearls, etc.) upon a thread that is passed through; to string.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nić",
+    "nitka",
+    "wątek",
+    "temat"
+  ],
+  "fetchedAt": "2026-05-17T21:29:56.410Z"
+}

@@ -1,0 +1,61 @@
+{
+  "lemma": "natural",
+  "slug": "natural",
+  "fetchTerm": "natural",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Existing in nature. Existing in the nature of a person or thing; innate, not acquired or learned. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The species will be under threat if its natural habitat is destroyed.",
+            "It's natural for business to be slow on Tuesdays."
+          ]
+        },
+        {
+          "text": "Existing in the nature of a person or thing; innate, not acquired or learned. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Normally associated with a particular person or thing; inherently related to the nature of a thing or creature.",
+          "examples": [
+            "The species will be under threat if its natural habitat is destroyed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A native inhabitant of a place, country, etc.",
+          "examples": []
+        },
+        {
+          "text": "A note that is not or is no longer to be modified by an accidental.",
+          "examples": []
+        },
+        {
+          "text": "The symbol ♮ used to indicate such a natural note.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Naturally; in a natural manner.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "naturalny",
+    "oczywisty"
+  ],
+  "fetchedAt": "2026-05-17T21:28:46.708Z"
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "hold",
+  "slug": "hold",
+  "fetchTerm": "hold",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To grasp or grip.",
+          "examples": [
+            "Hold the pencil like this."
+          ]
+        },
+        {
+          "text": "To contain or store.",
+          "examples": [
+            "This package holds six bottles."
+          ]
+        },
+        {
+          "text": "To maintain or keep to a position or state. To have and keep possession of something.",
+          "examples": [
+            "Hold my coat for me.",
+            "The general ordered the colonel to hold his position at all costs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A grasp or grip.",
+          "examples": [
+            "Keep a firm hold on the handlebars."
+          ]
+        },
+        {
+          "text": "An act or instance of holding.",
+          "examples": [
+            "Can I have a hold of the baby?"
+          ]
+        },
+        {
+          "text": "A place where animals are held for safety",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The cargo area of a ship or aircraft (often holds or cargo hold).",
+          "examples": [
+            "We watched our luggage being loaded into the hold of the plane."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Gracious; friendly; faithful; true.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trzymać",
+    "złapać",
+    "chwytać",
+    "chwycić",
+    "dzierżyć"
+  ],
+  "fetchedAt": "2026-05-17T21:28:12.324Z"
+}

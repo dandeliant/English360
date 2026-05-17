@@ -1,0 +1,47 @@
+{
+  "lemma": "happen",
+  "slug": "happen",
+  "fetchTerm": "happen",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To occur or take place.",
+          "examples": [
+            "Let me tell you how it happened."
+          ]
+        },
+        {
+          "text": "To happen to; to befall.",
+          "examples": []
+        },
+        {
+          "text": "To do or occur by chance or unexpectedly.",
+          "examples": [
+            "Take an umbrella in case it happens to rain.",
+            "Do you happen to have an umbrella?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "maybe, perhaps.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zdarzać",
+    "zdarzyć",
+    "wydarzać",
+    "wydarzyć",
+    "dziać"
+  ],
+  "fetchedAt": "2026-05-17T21:28:10.477Z"
+}

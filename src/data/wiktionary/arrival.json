@@ -1,0 +1,39 @@
+{
+  "lemma": "arrival",
+  "slug": "arrival",
+  "fetchTerm": "arrival",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of arriving (reaching a certain place).",
+          "examples": [
+            "The early arrival of the bride created a stir."
+          ]
+        },
+        {
+          "text": "The fact of reaching a particular point in time.",
+          "examples": [
+            "He celebrated the arrival of payday with a shopping spree."
+          ]
+        },
+        {
+          "text": "The fact of beginning to occur; the initial phase of something.",
+          "examples": [
+            "The arrival of puberty can be especially challenging for transgender youth."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przybycie",
+    "przyjazd",
+    "przyjście",
+    "przylot",
+    "przypłynięcie"
+  ],
+  "fetchedAt": "2026-05-17T21:26:58.870Z"
+}

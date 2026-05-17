@@ -1,0 +1,25 @@
+{
+  "lemma": "symmetry",
+  "slug": "symmetry",
+  "fetchTerm": "symmetry",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Exact correspondence on either side of a dividing line, plane, center or axis.",
+          "examples": []
+        },
+        {
+          "text": "The satisfying arrangement of a balanced distribution of the elements of a whole.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "symetria"
+  ],
+  "fetchedAt": "2026-05-17T21:29:51.939Z"
+}

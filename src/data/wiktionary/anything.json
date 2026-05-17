@@ -1,0 +1,64 @@
+{
+  "lemma": "anything",
+  "slug": "anything",
+  "fetchTerm": "anything",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Any object, act, state, event, or fact whatsoever; a thing of any kind; something or other.",
+          "examples": [
+            "I would not do it for anything."
+          ]
+        },
+        {
+          "text": "Expressing an indefinite comparison.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something of importance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Used as a placeholder verb for any verb out of a set of related verbs. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "He wasn't cooking, he wasn't sweeping, he wasn't anythinging!",
+            "–I don't want to accompany him! –You never want to anything him!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In any way, any extent or any degree.",
+          "examples": [
+            "That isn't anything like a car.",
+            "She's not anything like as strong as me."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cokolwiek",
+    "byle co",
+    "coś",
+    "nic",
+    "wszystko"
+  ],
+  "fetchedAt": "2026-05-17T21:26:55.213Z"
+}

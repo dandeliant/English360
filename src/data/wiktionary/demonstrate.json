@@ -1,0 +1,34 @@
+{
+  "lemma": "demonstrate",
+  "slug": "demonstrate",
+  "fetchTerm": "demonstrate",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To show how to use (something).",
+          "examples": [
+            "Can you demonstrate the new tools for us?"
+          ]
+        },
+        {
+          "text": "To show the steps taken to create a logical argument or equation.",
+          "examples": []
+        },
+        {
+          "text": "To participate in or organize a demonstration.",
+          "examples": [
+            "Those people outside are demonstrating against the election results."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "demonstrować",
+    "zademonstrować"
+  ],
+  "fetchedAt": "2026-05-17T21:27:35.348Z"
+}

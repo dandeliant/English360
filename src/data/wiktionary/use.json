@@ -1,0 +1,63 @@
+{
+  "lemma": "use",
+  "slug": "use",
+  "fetchTerm": "use",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of using.",
+          "examples": [
+            "The use of torture has been condemned by the United Nations."
+          ]
+        },
+        {
+          "text": "The act of consuming alcohol or narcotics.",
+          "examples": []
+        },
+        {
+          "text": "Usefulness, benefit.",
+          "examples": [
+            "What's the use of a law that nobody follows?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To utilize or employ. To employ; to apply; to utilize.",
+          "examples": [
+            "Use this knife to slice the bread.",
+            "We can use this mathematical formula to solve the problem."
+          ]
+        },
+        {
+          "text": "To employ; to apply; to utilize.",
+          "examples": [
+            "Use this knife to slice the bread.",
+            "We can use this mathematical formula to solve the problem."
+          ]
+        },
+        {
+          "text": "To expend; to consume by employing.",
+          "examples": [
+            "I used the money they allotted me.",
+            "We should use up most of the fuel."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "użycie",
+    "stosowanie",
+    "użytek",
+    "użyteczność",
+    "zastosowanie"
+  ],
+  "fetchedAt": "2026-05-17T21:30:10.820Z"
+}

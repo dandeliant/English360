@@ -1,0 +1,76 @@
+{
+  "lemma": "strip",
+  "slug": "strip",
+  "fetchTerm": "strip",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A long, thin piece of land; any long, thin area.",
+          "examples": [
+            "The countries were in dispute over the ownership of a strip of desert about 100 metres wide."
+          ]
+        },
+        {
+          "text": "A long, thin piece of any material; any such material collectively.",
+          "examples": [
+            "Papier mache is made from strips of paper.",
+            "Squeeze a strip of glue along the edge and then press down firmly."
+          ]
+        },
+        {
+          "text": "A comic strip.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove or take away, often in strips or stripes.",
+          "examples": [
+            "Norm will strip the old varnish before painting the chair."
+          ]
+        },
+        {
+          "text": "To take off clothing.",
+          "examples": [
+            "Seeing that no one else was about, he stripped and dived into the river."
+          ]
+        },
+        {
+          "text": "To perform a striptease.",
+          "examples": [
+            "In the seedy club, a group of drunken men were watching a woman stripping."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of removing one's clothes; a striptease.",
+          "examples": [
+            "She stood up on the table and did a strip."
+          ]
+        },
+        {
+          "text": "Denotes a version of a game in which losing players must progressively remove their clothes.",
+          "examples": [
+            "strip poker; strip Scrabble"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pas",
+    "rozbierać",
+    "rozebrać"
+  ],
+  "fetchedAt": "2026-05-17T21:29:46.674Z"
+}

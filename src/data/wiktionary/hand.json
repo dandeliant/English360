@@ -1,0 +1,50 @@
+{
+  "lemma": "hand",
+  "slug": "hand",
+  "fetchTerm": "hand",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.",
+          "examples": [
+            "Her hands are really strong."
+          ]
+        },
+        {
+          "text": "That which resembles, or to some extent performs the office of, a human hand. A limb of certain animals, such as the foot of a hawk, or any one of the four extremities of a monkey. An index or pointer on a dial; such as the hour and minute hands on the face of an analog clock, which are used to indicate the time of day.",
+          "examples": []
+        },
+        {
+          "text": "A limb of certain animals, such as the foot of a hawk, or any one of the four extremities of a monkey.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give, pass or transmit with the hand, literally or figuratively.",
+          "examples": [
+            "He handed them the letter. She handed me an opportunity."
+          ]
+        },
+        {
+          "text": "To lead, guide, or assist with the hand; to conduct.",
+          "examples": [
+            "to hand a lady into a carriage"
+          ]
+        },
+        {
+          "text": "To manage.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:28:08.576Z"
+}

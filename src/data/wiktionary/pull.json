@@ -1,0 +1,66 @@
+{
+  "lemma": "pull",
+  "slug": "pull",
+  "fetchTerm": "pull",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+          "examples": [
+            "When I give the signal, pull the rope.",
+            "Pull your belt tight before starting off, will you?"
+          ]
+        },
+        {
+          "text": "To gather with the hand, or by drawing toward oneself; to pluck or pick (flowers, fruit, etc.).",
+          "examples": [
+            "to pull fruit from a tree",
+            "pull flax"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Command used by a target shooter to request that the target be released/launched.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of pulling (applying force toward oneself).",
+          "examples": [
+            "He gave the hair a sharp pull and it came out.",
+            "She took several pulls on her cigarette."
+          ]
+        },
+        {
+          "text": "An attractive force which causes motion towards the source.",
+          "examples": [
+            "The spaceship came under the pull of the gas giant.",
+            "iron fillings drawn by the pull of a magnet"
+          ]
+        },
+        {
+          "text": "An advantage over somebody; a means of influencing.",
+          "examples": [
+            "The hypnotist exerted a pull over his patients."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciągnąć",
+    "pociągnąć"
+  ],
+  "fetchedAt": "2026-05-17T21:29:14.867Z"
+}

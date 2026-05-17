@@ -1,0 +1,84 @@
+{
+  "lemma": "far",
+  "slug": "far",
+  "fetchTerm": "far",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Fataleka.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Distant; remote in space.",
+          "examples": [
+            "He went to a far land."
+          ]
+        },
+        {
+          "text": "Remote in time.",
+          "examples": [
+            "the far far future"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To, from or over a great distance in space, time or other extent.",
+          "examples": [
+            "You have all come far and you will go further.",
+            "He built a time machine and travelled far into the future."
+          ]
+        },
+        {
+          "text": "Very much; by a great amount.",
+          "examples": [
+            "He was far richer than we'd thought.",
+            "The expense far exceeds what I expected."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To send far away.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Emmer (a type of wheat), especially in the context of Roman use of it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A litter of piglets; a farrow.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "daleko"
+  ],
+  "fetchedAt": "2026-05-17T21:28:00.196Z"
+}

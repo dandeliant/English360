@@ -1,0 +1,35 @@
+{
+  "lemma": "insist",
+  "slug": "insist",
+  "fetchTerm": "insist",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hold up a claim emphatically.",
+          "examples": [
+            "The defendant insisted on his innocence.",
+            "I insist that my secretary dresses nicely."
+          ]
+        },
+        {
+          "text": "To demand continually that something happen or be done; to reiterate a demand despite requests to abandon it.",
+          "examples": [
+            "The Prime Minister insisted on his Chancellor's resignation.",
+            "The Prime Minister insisted that his Chancellor resign."
+          ]
+        },
+        {
+          "text": "To stand (on); to rest (upon); to lean (upon).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nalegać"
+  ],
+  "fetchedAt": "2026-05-17T21:28:16.535Z"
+}

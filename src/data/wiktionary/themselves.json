@@ -1,0 +1,32 @@
+{
+  "lemma": "themselves",
+  "slug": "themselves",
+  "fetchTerm": "themselves",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The reflexive case of they, the third-person plural personal pronoun. The group of people, animals, or objects previously mentioned, as the object of a verb or following a preposition .",
+          "examples": [
+            "They’ve hurt themselves.",
+            "They fought among themselves."
+          ]
+        },
+        {
+          "text": "The reflexive case of they, the third-person singular personal pronoun. The single person previously mentioned, as the object of a verb or following a preposition .",
+          "examples": [
+            "Would whoever stole my phone please make themselves known.",
+            "I don't want anyone to fight among themselves."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sami",
+    "same"
+  ],
+  "fetchedAt": "2026-05-17T21:29:53.307Z"
+}

@@ -1,0 +1,27 @@
+{
+  "lemma": "curiously",
+  "slug": "curiously",
+  "fetchTerm": "curiously",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a curious manner; with curiosity; inquisitively.",
+          "examples": [
+            "The children peeped curiously into the attic room."
+          ]
+        },
+        {
+          "text": "Oddly; in a strange or unexpected way.",
+          "examples": [
+            "Curiously, when I arrived home, the front door was standing ajar."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:27:32.568Z"
+}

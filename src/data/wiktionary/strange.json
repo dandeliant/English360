@@ -1,0 +1,67 @@
+{
+  "lemma": "strange",
+  "slug": "strange",
+  "fetchTerm": "strange",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not normal; odd, unusual, surprising, out of the ordinary, often with a negative connotation.",
+          "examples": [
+            "He thought it strange that his girlfriend wore shorts in the winter."
+          ]
+        },
+        {
+          "text": "Unfamiliar, not yet part of one's experience.",
+          "examples": [
+            "I moved to a strange town when I was ten."
+          ]
+        },
+        {
+          "text": "Outside of one's current relationship; unfamiliar.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To alienate; to estrange.",
+          "examples": []
+        },
+        {
+          "text": "To be estranged or alienated.",
+          "examples": []
+        },
+        {
+          "text": "To wonder; to be astonished at (something).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Sex outside of one's current relationship.",
+          "examples": []
+        },
+        {
+          "text": "A strange quark.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziwny",
+    "nienormalny",
+    "cudaczny",
+    "niezwyczajny",
+    "osobliwy"
+  ],
+  "fetchedAt": "2026-05-17T21:29:45.164Z"
+}

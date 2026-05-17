@@ -1,0 +1,53 @@
+{
+  "lemma": "traffic",
+  "slug": "traffic",
+  "fetchTerm": "traffic",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Moving pedestrians or vehicles, or the flux or passage thereof.",
+          "examples": [
+            "The traffic is slow during rush hour."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pass goods and commodities from one person to another for an equivalent in goods or money; to buy or sell goods.",
+          "examples": []
+        },
+        {
+          "text": "To trade meanly or mercenarily; to bargain.",
+          "examples": []
+        },
+        {
+          "text": "To exchange in traffic; to effect by a bargain or for a consideration.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Congested.",
+          "examples": [
+            "It’s super traffic here in Manila."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ruch drogowy",
+    "komunikacja",
+    "ruch uliczny"
+  ],
+  "fetchedAt": "2026-05-17T21:30:00.936Z"
+}

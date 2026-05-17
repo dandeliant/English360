@@ -1,0 +1,45 @@
+{
+  "lemma": "metaphor",
+  "slug": "metaphor",
+  "fetchTerm": "metaphor",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The use of a word, phrase, concept, or set of concepts to refer to something other than its literal meaning, invoking an implicit similarity between the thing described and what is denoted by the word, etc., that is used.",
+          "examples": []
+        },
+        {
+          "text": "A word or phrase used in such implied comparison.",
+          "examples": []
+        },
+        {
+          "text": "The use of an everyday object or concept to represent an underlying facet of the computer and thus aid users in performing tasks.",
+          "examples": [
+            "desktop metaphor, wastebasket metaphor"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To use a metaphor.",
+          "examples": []
+        },
+        {
+          "text": "To describe by means of a metaphor.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przenośnia",
+    "metafora"
+  ],
+  "fetchedAt": "2026-05-17T21:28:37.872Z"
+}

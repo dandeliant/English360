@@ -1,0 +1,34 @@
+{
+  "lemma": "sundown",
+  "slug": "sundown",
+  "fetchTerm": "sundown",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Sunset.",
+          "examples": [
+            "We’ll meet by the pier at sundown."
+          ]
+        },
+        {
+          "text": "A hat with a wide brim to shade the eyes from sunlight.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "to experience an episode or an onset of some detrimental mental condition like agitation, anxiety, hallucination or dementia, daily at the approach of nightfall.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:29:49.213Z"
+}

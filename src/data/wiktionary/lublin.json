@@ -1,0 +1,21 @@
+{
+  "lemma": "lublin",
+  "slug": "lublin",
+  "fetchTerm": "Lublin",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The capital and largest city of Lublin Voivodeship, in southeast Poland.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Lublin"
+  ],
+  "fetchedAt": "2026-05-17T21:28:36.562Z"
+}

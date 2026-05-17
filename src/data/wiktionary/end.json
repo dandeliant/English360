@@ -1,0 +1,74 @@
+{
+  "lemma": "end",
+  "slug": "end",
+  "fetchTerm": "end",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Ende.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The terminal point of something in space or time.",
+          "examples": [
+            "At the end of the garden there was a beautiful fountain.",
+            "At the end of the story, the main characters fall in love."
+          ]
+        },
+        {
+          "text": "The cessation of an effort, activity, state, or motion.",
+          "examples": [
+            "Is there no end to this madness?"
+          ]
+        },
+        {
+          "text": "Death.",
+          "examples": [
+            "He met a terrible end in the jungle.",
+            "I hope the end comes quickly."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To come to an end.",
+          "examples": [
+            "Is this movie never going to end?",
+            "The lesson will end when the bell rings."
+          ]
+        },
+        {
+          "text": "To conclude; to bring something to an end.",
+          "examples": [
+            "The orchestra ended with a performance of Dvořák."
+          ]
+        },
+        {
+          "text": "To finish, terminate.",
+          "examples": [
+            "The referee blew the whistle to end the game."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "koniec",
+    "krawędź",
+    "kraj",
+    "śmierć",
+    "meta"
+  ],
+  "fetchedAt": "2026-05-17T21:27:52.908Z"
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "chance",
+  "slug": "chance",
+  "fetchTerm": "chance",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An opportunity or possibility.",
+          "examples": [
+            "We had the chance to meet the president last week: we have a good/strong chance of making / to make a profit.",
+            "There was a fat/slim chance that my letter would arrive in time."
+          ]
+        },
+        {
+          "text": "Random occurrence; luck.",
+          "examples": [
+            "Why leave it to chance when a few simple steps will secure the desired outcome?",
+            "My whole life seems to be ruled by blind chance."
+          ]
+        },
+        {
+          "text": "The probability of something happening.",
+          "examples": [
+            "There is a 30 percent chance of rain tomorrow.",
+            "There is little chance of having the chance to approach such a big celeb."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Happening by chance, casual.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Perchance; perhaps.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To happen by chance, to occur.",
+          "examples": [
+            "It chanced that I found a solution the very next day."
+          ]
+        },
+        {
+          "text": "To befall; to happen to.",
+          "examples": []
+        },
+        {
+          "text": "To try or risk.",
+          "examples": [
+            "Shall we carry the umbrella, or chance a rainstorm?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szansa",
+    "okazja",
+    "gratka",
+    "możliwość",
+    "sposobność"
+  ],
+  "fetchedAt": "2026-05-17T21:27:15.322Z"
+}

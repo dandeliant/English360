@@ -1,0 +1,70 @@
+{
+  "lemma": "force",
+  "slug": "force",
+  "fetchTerm": "force",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ability to influence; strength or energy of body or mind; active power; vigour; might; capacity of exercising an influence or producing an effect.",
+          "examples": [
+            "the force of an appeal, an argument, or a contract",
+            "show of force"
+          ]
+        },
+        {
+          "text": "A physical quantity that denotes ability to push, pull, twist or accelerate a body and which has a direction and is measured in a unit dimensioned in mass × distance/time² (ML/T²): SI: newton (N); CGS: dyne (dyn).",
+          "examples": [
+            "Torque is the rotational version of force.",
+            "Force is the result of fundamental interactions."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make someone or something do something, often regardless of their will.",
+          "examples": []
+        },
+        {
+          "text": "To constrain by force; to overcome the limitations or resistance of.",
+          "examples": []
+        },
+        {
+          "text": "To drive (something) by force, to propel (generally + prepositional phrase or adverb).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A waterfall or cascade.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To stuff; to lard; to farce.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "siła",
+    "moc",
+    "siły",
+    "zmuszać",
+    "zmusić"
+  ],
+  "fetchedAt": "2026-05-17T21:28:04.769Z"
+}

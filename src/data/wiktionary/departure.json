@@ -1,0 +1,33 @@
+{
+  "lemma": "departure",
+  "slug": "departure",
+  "fetchTerm": "departure",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of departing or something that has departed.",
+          "examples": [
+            "The departure was scheduled for noon."
+          ]
+        },
+        {
+          "text": "A deviation from a plan or procedure.",
+          "examples": [
+            "There are several significant departures, however, from current practice."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "odejście",
+    "odjazd",
+    "wyjście",
+    "odlot",
+    "odpłynięcie"
+  ],
+  "fetchedAt": "2026-05-17T21:27:36.792Z"
+}

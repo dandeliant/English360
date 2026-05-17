@@ -1,0 +1,77 @@
+{
+  "lemma": "red",
+  "slug": "red",
+  "fetchTerm": "red",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The colour of the setting sun, blood, and strawberries; the colour which is evoked by the longest visible wavelengths (between about 625–740 nm), and a primary additive colour.",
+          "examples": [
+            "red:",
+            "Red can be seen as hot or angry."
+          ]
+        },
+        {
+          "text": "A revolutionary socialist or (most commonly) a Communist; a Bolshevik, a supporter of the Bolsheviks in the Russian Civil War.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a red hue.",
+          "examples": [
+            "The girl wore a red skirt.",
+            "He was wearing a red jacket."
+          ]
+        },
+        {
+          "text": "Having an orange-brown or orange-blond colour; ginger.",
+          "examples": [
+            "Her hair had red highlights."
+          ]
+        },
+        {
+          "text": "Having a redder hue than usual due to embarrassment, anger, sunburn, etc.; flushed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to indicate that the speaker wishes current sexual activity to stop immediately.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of rede",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative spelling of redd.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czerwień"
+  ],
+  "fetchedAt": "2026-05-17T21:29:23.074Z"
+}

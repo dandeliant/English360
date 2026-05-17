@@ -1,0 +1,34 @@
+{
+  "lemma": "converge",
+  "slug": "converge",
+  "fetchTerm": "converge",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To approach each other; to get closer and closer.",
+          "examples": [
+            "ideas converge"
+          ]
+        },
+        {
+          "text": "To have a (finite, proper) limit.",
+          "examples": []
+        },
+        {
+          "text": "To reach a stable end point.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "schodzić się",
+    "zejść się",
+    "zbiegać",
+    "zbiec"
+  ],
+  "fetchedAt": "2026-05-17T21:27:31.164Z"
+}

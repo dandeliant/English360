@@ -1,0 +1,96 @@
+{
+  "lemma": "rail",
+  "slug": "rail",
+  "fetchTerm": "rail",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A horizontal bar extending between supports and used for support or as a barrier; a railing.",
+          "examples": []
+        },
+        {
+          "text": "The metal bar forming part of the track for a railroad.",
+          "examples": []
+        },
+        {
+          "text": "A railroad; a railway, as a means of transportation.",
+          "examples": [
+            "We travelled to the seaside by rail.",
+            "a small Scottish village not accessible by rail"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To travel by railway.",
+          "examples": []
+        },
+        {
+          "text": "To place on a track.",
+          "examples": []
+        },
+        {
+          "text": "To enclose with rails or a railing.",
+          "examples": [
+            "They ought to rail off the playground."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of several birds in the family Rallidae.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To complain violently (against, about).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An item of clothing; a cloak or other garment; a dress.",
+          "examples": []
+        },
+        {
+          "text": "Specifically, a woman's headscarf or neckerchief.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gush; to flow.",
+          "examples": []
+        },
+        {
+          "text": "To blow.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poręcz",
+    "szyna"
+  ],
+  "fetchedAt": "2026-05-17T21:29:18.660Z"
+}

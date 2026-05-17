@@ -1,0 +1,44 @@
+{
+  "lemma": "difficult",
+  "slug": "difficult",
+  "fetchTerm": "difficult",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Hard, not easy, requiring much effort.",
+          "examples": [
+            "difficult of accomplishment",
+            "However, the difficult weather conditions will ensure Yunnan has plenty of freshwater."
+          ]
+        },
+        {
+          "text": "Hard to manage, uncooperative, troublesome.",
+          "examples": [
+            "Stop being difficult and eat your broccoli—you know it's good for you."
+          ]
+        },
+        {
+          "text": "Unable or unwilling.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make difficult, hinder; to impede; to perplex.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trudny",
+    "ciężki"
+  ],
+  "fetchedAt": "2026-05-17T21:27:44.448Z"
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "lie",
+  "slug": "lie",
+  "fetchTerm": "lie",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Likila.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rest in a horizontal position on a surface.",
+          "examples": [
+            "The book lies on the table; the snow lies on the roof; he lies in his coffin.",
+            "Under an oak were lying asleep a pair of shepherds."
+          ]
+        },
+        {
+          "text": "To be placed or situated.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The terrain and conditions surrounding the ball before it is struck.",
+          "examples": []
+        },
+        {
+          "text": "The terrain and conditions surrounding the disc before it is thrown.",
+          "examples": []
+        },
+        {
+          "text": "The position of a fetus in the womb.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give false information intentionally with intent to deceive.",
+          "examples": [
+            "When Pinocchio lies, his nose grows.",
+            "If you are found to have lied in court, you could face a penalty."
+          ]
+        },
+        {
+          "text": "To convey a false image or impression.",
+          "examples": [
+            "Photographs often lie."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An intentionally false statement; an intentional falsehood.",
+          "examples": [
+            "I knew he was telling a lie by his facial expression."
+          ]
+        },
+        {
+          "text": "A statement intended to deceive, even if literally true.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "leżeć",
+    "legowisko",
+    "leże",
+    "nora",
+    "kłamać"
+  ],
+  "fetchedAt": "2026-05-17T21:28:27.200Z"
+}

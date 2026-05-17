@@ -1,0 +1,23 @@
+{
+  "lemma": "undiluted",
+  "slug": "undiluted",
+  "fetchTerm": "undiluted",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not diluted or mixed with other substances.",
+          "examples": []
+        },
+        {
+          "text": "Pure; unadulterated; free from extraneous elements.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:30:05.972Z"
+}

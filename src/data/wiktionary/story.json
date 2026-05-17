@@ -1,0 +1,69 @@
+{
+  "lemma": "story",
+  "slug": "story",
+  "fetchTerm": "story",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An account of real or fictional events.",
+          "examples": [
+            "The book tells the story of two roommates."
+          ]
+        },
+        {
+          "text": "A lie, fiction.",
+          "examples": [
+            "You’ve been telling stories again, haven’t you?"
+          ]
+        },
+        {
+          "text": "A soap opera.",
+          "examples": [
+            "What will she do without being able to watch her stories?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To tell as a story; to relate or narrate about.",
+          "examples": []
+        },
+        {
+          "text": "To post a story (chronological collection of pictures or short videos) on an application or website.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used as a greeting, short for what's the story?",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of storey.",
+          "examples": [
+            "Our shop was on the fourth story of the building, so we had to install an elevator."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "opowieść",
+    "historia"
+  ],
+  "fetchedAt": "2026-05-17T21:29:43.686Z"
+}

@@ -1,0 +1,47 @@
+{
+  "lemma": "sink",
+  "slug": "sink",
+  "fetchTerm": "sink",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move or be moved into something. To descend or submerge (or to cause to do so) into a liquid or similar substance.",
+          "examples": [
+            "A stone sinks in water. The sun gradually sank in the west.",
+            "An iceberg sank the Titanic. British battleships sank the Bismarck."
+          ]
+        },
+        {
+          "text": "To descend or submerge (or to cause to do so) into a liquid or similar substance.",
+          "examples": [
+            "A stone sinks in water. The sun gradually sank in the west."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A basin used for holding water for washing.",
+          "examples": []
+        },
+        {
+          "text": "A drain for carrying off wastewater.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tonąć",
+    "topić",
+    "zanurzać",
+    "zatapiać",
+    "zatopić"
+  ],
+  "fetchedAt": "2026-05-17T21:29:37.706Z"
+}

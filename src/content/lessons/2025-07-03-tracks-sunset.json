@@ -1,0 +1,216 @@
+{
+  "id": "2025-07-03-tracks-sunset",
+  "date_assigned": "2025-07-03",
+  "date_alternatives": [],
+  "title_en": "Tracks Toward Silence",
+  "title_pl": "Tory w stronę ciszy",
+  "location": "Główne, gmina Radzyń Podlaski, Poland",
+  "image": "/images/2025-07-03-tracks-sunset.jpg",
+  "image_orientation": "portrait",
+  "tags": ["nature", "summer", "sunset", "railway", "tracks", "silence", "poland", "evening"],
+  "themes": ["silence", "journeys", "polish-countryside", "summer-evening"],
+  "did_you_know": {
+    "en": "After the sun sets, three twilights follow: civil twilight (the sky is still bright enough to read by), nautical twilight (the first stars appear), and astronomical twilight (true darkness). On a clear July evening in central Poland, full astronomical darkness does not begin until almost midnight.",
+    "pl": "Po zachodzie słońca następują trzy zmierzchy: zmierzch cywilny (niebo jest jeszcze na tyle jasne, że można czytać), zmierzch żeglarski (pojawiają się pierwsze gwiazdy) i zmierzch astronomiczny (prawdziwa ciemność). W pogodny lipcowy wieczór w środkowej Polsce pełna astronomiczna ciemność zapada dopiero blisko północy."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: puste tory kolejowe w stronę zachodzącego słońca pod Głównem (województwo lubelskie). Tam, gdzie światło znika za horyzontem — kończy się dzień, a zaczyna podróż w głąb ciszy. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia. english360.example",
+    "fb_caption_en": "Today on English 360°: empty railway tracks pointing into a July sunset in eastern Poland. Where light disappears behind the horizon, the day ends and a journey into silence begins. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#Railway", "#PolishCountryside", "#Silence", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "This is a railway. The sun is going down. The sky is orange. The two tracks go far away. There are trees on the left and on the right. There are no trains. It is very quiet. The day is ending.",
+      "text_pl": "To kolej. Słońce zachodzi. Niebo jest pomarańczowe. Dwa tory biegną daleko. Po lewej i po prawej są drzewa. Nie ma pociągów. Jest bardzo cicho. Dzień się kończy.",
+      "vocab": [
+        { "term": "railway", "ipa_br": "/ˈreɪlweɪ/", "pl": "kolej, tory kolejowe", "new": true },
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": false },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "track", "ipa_br": "/træk/", "pl": "tor", "new": true },
+        { "term": "left", "ipa_br": "/left/", "pl": "lewy, w lewo", "new": false },
+        { "term": "right", "ipa_br": "/raɪt/", "pl": "prawy, w prawo", "new": false },
+        { "term": "train", "ipa_br": "/treɪn/", "pl": "pociąg", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪət/", "pl": "cichy, spokojny", "new": false },
+        { "term": "end", "ipa_br": "/end/", "pl": "kończyć (się); koniec", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "train", "answer": "A" },
+            { "word": "sun", "answer": "B" },
+            { "word": "track", "answer": "C" },
+            { "word": "tree", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🚂" },
+            { "label": "B", "text": "☀️" },
+            { "label": "C", "text": "🛤️" },
+            { "label": "D", "text": "🌳" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "Look at this old railway track. It goes straight from us, between two lines of trees, far into the distance. The sun is low — it is the end of the day. The sky is bright orange and red. The tracks are shining with warm light. There are no people and no trains here. Everything is calm and silent. It feels like a quiet evening journey.",
+      "text_pl": "Spójrz na ten stary tor kolejowy. Biegnie prosto od nas, między dwoma rzędami drzew, daleko w głąb. Słońce jest nisko — to koniec dnia. Niebo jest jaskrawo pomarańczowe i czerwone. Tory lśnią ciepłym światłem. Nie ma tu ludzi ani pociągów. Wszystko jest spokojne i ciche. Czujesz się jak na cichej wieczornej podróży.",
+      "vocab": [
+        { "term": "old", "ipa_br": "/əʊld/", "pl": "stary", "new": false },
+        { "term": "straight", "ipa_br": "/streɪt/", "pl": "prosto", "new": false },
+        { "term": "between", "ipa_br": "/bɪˈtwiːn/", "pl": "między", "new": true },
+        { "term": "line", "ipa_br": "/laɪn/", "pl": "linia, rząd", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość, oddal", "new": true },
+        { "term": "low", "ipa_br": "/ləʊ/", "pl": "nisko", "new": false },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": false },
+        { "term": "shine", "ipa_br": "/ʃaɪn/", "pl": "świecić, lśnić", "new": true },
+        { "term": "silent", "ipa_br": "/ˈsaɪlənt/", "pl": "cichy", "new": false },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "journey", "ipa_br": "/ˈdʒɜːni/", "pl": "podróż", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The tracks go ___ from us, between two lines of trees.", "answer": "straight" },
+            { "sentence": "The sun is ___ — it is the end of the day.", "answer": "low" },
+            { "sentence": "The sky is bright ___ and red.", "answer": "orange" },
+            { "sentence": "Everything is calm and ___.", "answer": "silent" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "A photograph of empty railway tracks at sunset always feels like the start of a quiet story. This image was taken on a warm evening at the beginning of July, on a small line in central-eastern Poland near the town of Radzyń Podlaski. The tracks lead straight toward the sinking sun, between rows of trees that look like dark walls against the burning sky. There is no train and no traffic — only the silent rails reflecting the last orange light. For many people, scenes like this are not really about the place but about that special feeling of moving on, slowly, into the silence after a long day.",
+      "text_pl": "Zdjęcie pustych torów kolejowych o zachodzie słońca zawsze wygląda jak początek cichej opowieści. To zdjęcie zrobiono ciepłym wieczorem na początku lipca, na małej linii w środkowo-wschodniej Polsce, niedaleko Radzynia Podlaskiego. Tory biegną prosto w stronę chowającego się słońca, między rzędami drzew, które wyglądają jak ciemne ściany na tle płonącego nieba. Nie ma pociągu ani ruchu — tylko ciche szyny odbijają ostatnie pomarańczowe światło. Dla wielu ludzi takie sceny nie są tak naprawdę o miejscu, lecz o tym szczególnym uczuciu odchodzenia, powoli, w ciszę po długim dniu.",
+      "vocab": [
+        { "term": "photograph", "ipa_br": "/ˈfəʊtəɡrɑːf/", "pl": "fotografia, zdjęcie", "new": false },
+        { "term": "sunset", "ipa_br": "/ˈsʌnset/", "pl": "zachód słońca", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": false },
+        { "term": "near", "ipa_br": "/nɪə/", "pl": "blisko, w pobliżu", "new": false },
+        { "term": "lead", "ipa_br": "/liːd/", "pl": "prowadzić", "new": false },
+        { "term": "sink", "ipa_br": "/sɪŋk/", "pl": "tonąć, chować się", "new": true },
+        { "term": "row", "ipa_br": "/rəʊ/", "pl": "rząd, szereg", "new": true },
+        { "term": "wall", "ipa_br": "/wɔːl/", "pl": "ściana", "new": false },
+        { "term": "burning", "ipa_br": "/ˈbɜːnɪŋ/", "pl": "płonący, gorejący", "new": true },
+        { "term": "traffic", "ipa_br": "/ˈtræfɪk/", "pl": "ruch (drogowy, kolejowy)", "new": true },
+        { "term": "rail", "ipa_br": "/reɪl/", "pl": "szyna", "new": true },
+        { "term": "reflect", "ipa_br": "/rɪˈflekt/", "pl": "odbijać", "new": true },
+        { "term": "silence", "ipa_br": "/ˈsaɪləns/", "pl": "cisza, milczenie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken at sunset.", "answer": true },
+            { "statement": "The image shows a train waiting at a station.", "answer": false },
+            { "statement": "The location is near Radzyń Podlaski in central-eastern Poland.", "answer": true },
+            { "statement": "Both sides of the tracks are lined with trees.", "answer": true },
+            { "statement": "There is heavy traffic on the railway at the moment of the photo.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a certain symmetry to a photograph of railway tracks at sunset. Two parallel lines of polished steel running away from the viewer, vanishing at a single low point on the horizon where the day itself is also vanishing — it is almost a cliché of landscape photography, and yet still difficult to resist. The image here was made on the third of July in central-eastern Poland, on a regional line passing the village of Główne, near Radzyń Podlaski. The light on the rails is the warm, orange light specific to the last twenty minutes before sundown, when shadows lengthen but the air still holds the heat of the afternoon. The atmosphere is curiously charged: empty tracks suggest both arrival and departure, both an end and a slow turn toward whatever comes next.",
+      "text_pl": "Jest pewna szczególna symetria w zdjęciu torów kolejowych o zachodzie słońca. Dwie równoległe linie wypolerowanej stali biegnące od widza, znikające w jednym niskim punkcie na horyzoncie, gdzie również znika sam dzień — to niemal klisza fotografii krajobrazowej, a jednak wciąż trudna do oparcia się. To zdjęcie powstało trzeciego lipca we wschodniej części środkowej Polski, na regionalnej linii przebiegającej obok wsi Główne, niedaleko Radzynia Podlaskiego. Światło na szynach to ciepła, pomarańczowa poświata charakterystyczna dla ostatnich dwudziestu minut przed zachodem, gdy cienie się wydłużają, ale powietrze wciąż zachowuje popołudniowe ciepło. Atmosfera jest osobliwie naładowana: puste tory sugerują zarówno przyjazd, jak i odjazd, zarówno koniec, jak i powolny zwrot ku temu, co przyjdzie potem.",
+      "vocab": [
+        { "term": "certain", "ipa_br": "/ˈsɜːtən/", "pl": "pewien, jakiś", "new": true },
+        { "term": "symmetry", "ipa_br": "/ˈsɪmətri/", "pl": "symetria", "new": true },
+        { "term": "parallel", "ipa_br": "/ˈpærəlel/", "pl": "równoległy", "new": true },
+        { "term": "polished", "ipa_br": "/ˈpɒlɪʃt/", "pl": "wypolerowany, gładki", "new": false },
+        { "term": "steel", "ipa_br": "/stiːl/", "pl": "stal", "new": true },
+        { "term": "vanish", "ipa_br": "/ˈvænɪʃ/", "pl": "znikać", "new": true },
+        { "term": "cliché", "ipa_br": "/ˈkliːʃeɪ/", "pl": "klisza, banał", "new": true },
+        { "term": "landscape", "ipa_br": "/ˈlændskeɪp/", "pl": "krajobraz", "new": true },
+        { "term": "resist", "ipa_br": "/rɪˈzɪst/", "pl": "opierać się, sprzeciwiać", "new": true },
+        { "term": "regional", "ipa_br": "/ˈriːdʒənəl/", "pl": "regionalny", "new": false },
+        { "term": "sundown", "ipa_br": "/ˈsʌndaʊn/", "pl": "zachód słońca", "new": true },
+        { "term": "lengthen", "ipa_br": "/ˈleŋθən/", "pl": "wydłużać (się)", "new": true },
+        { "term": "departure", "ipa_br": "/dɪˈpɑːtʃə/", "pl": "odjazd, odlot", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was made in central-eastern Poland.", "answer": true },
+            { "statement": "The image of railway tracks at sunset is described as a cliché of landscape photography.", "answer": true },
+            { "statement": "The author writes that a train is clearly visible arriving in the photo.", "answer": false },
+            { "statement": "The light on the rails is described as warm and orange.", "answer": true },
+            { "statement": "Shadows are described as becoming shorter at this time of day.", "answer": false },
+            { "statement": "Empty tracks are said to suggest both arrival and departure.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Empty rails at sunset carry a particular metaphorical weight that few other landscapes share. The eye is forced into the depth of the image by the geometry — two converging lines pulling toward a single point that, by chance, coincides exactly with the descending sun. This particular photograph, made on a July evening near Główne in the Lublin Voivodeship, demonstrates the effect almost too cleanly. The trees, dense with mid-summer leaves, frame the view as natural blinkers, narrowing attention to the strip of orange sky beyond. The rails themselves, struck obliquely by low light, return that orange in molten threads — a polished resonance with the sun that gives the image its quietly devotional quality. In Polish there is a phrase that captures it well: where the light disappears beyond the horizon, the day ends and a journey into silence begins. Pictures like this are an invitation to take that journey, at least in thought.",
+      "text_pl": "Puste szyny o zachodzie słońca niosą szczególny metaforyczny ciężar, którego niewiele krajobrazów ma. Oko wciągane jest w głąb obrazu przez samą geometrię — dwie zbiegające się linie ciągną ku jednemu punktowi, który przypadkiem zbiega się dokładnie z zachodzącym słońcem. To konkretne zdjęcie, zrobione lipcowego wieczoru pod Głównem w województwie lubelskim, prezentuje ten efekt niemal zbyt czysto. Drzewa, gęste od liści w pełni lata, kadrują widok jak naturalne klapki, zawężając uwagę do pasa pomarańczowego nieba w głębi. Same szyny, oświetlone z ukosa niskim światłem, oddają tę pomarańczową barwę w stopionych nitkach — wypolerowany rezonans ze słońcem, który nadaje obrazowi jego cichą, niemal sakralną jakość. Po polsku istnieje fraza, która dobrze to ujmuje: tam, gdzie światło znika za horyzontem, kończy się dzień, a zaczyna podróż w głąb ciszy. Zdjęcia takie jak to są zaproszeniem, by tę podróż odbyć przynajmniej w myślach.",
+      "vocab": [
+        { "term": "metaphorical", "ipa_br": "/ˌmetəˈfɒrɪkəl/", "pl": "metaforyczny", "new": true },
+        { "term": "converging", "ipa_br": "/kənˈvɜːdʒɪŋ/", "pl": "zbiegający się", "new": true },
+        { "term": "coincide", "ipa_br": "/ˌkəʊɪnˈsaɪd/", "pl": "zbiegać się, pokrywać", "new": true },
+        { "term": "descending", "ipa_br": "/dɪˈsendɪŋ/", "pl": "schodzący, zachodzący", "new": true },
+        { "term": "voivodeship", "ipa_br": "/ˈvɔɪvədʃɪp/", "pl": "województwo", "new": true },
+        { "term": "demonstrate", "ipa_br": "/ˈdemənstreɪt/", "pl": "pokazywać, demonstrować", "new": true },
+        { "term": "dense", "ipa_br": "/dens/", "pl": "gęsty", "new": true },
+        { "term": "blinkers", "ipa_br": "/ˈblɪŋkəz/", "pl": "klapki (na oczy)", "new": true },
+        { "term": "narrow", "ipa_br": "/ˈnærəʊ/", "pl": "zawężać; wąski", "new": true },
+        { "term": "obliquely", "ipa_br": "/əˈbliːkli/", "pl": "z ukosa, ukośnie", "new": true },
+        { "term": "thread", "ipa_br": "/θred/", "pl": "nić, nitka", "new": true },
+        { "term": "resonance", "ipa_br": "/ˈrezənəns/", "pl": "rezonans, pogłos", "new": true },
+        { "term": "devotional", "ipa_br": "/dɪˈvəʊʃənəl/", "pl": "pełen oddania, sakralny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author describes the geometry as forcing the eye into the depth of the image.", "answer": true },
+            { "statement": "The picture was taken in northern Poland.", "answer": false },
+            { "statement": "The trees are said to frame the view like natural blinkers.", "answer": true },
+            { "statement": "The rails return the orange light in molten threads.", "answer": true },
+            { "statement": "The Polish phrase quoted is about the beginning of the morning.", "answer": false },
+            { "statement": "The image's quality is described as quietly devotional.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "It is a strange property of certain photographs that they will, against the photographer's will, accumulate metaphors faster than they can be examined. Empty railway tracks at sunset are perhaps the chief example: parallel lines, converging at a vanishing point that happens also to be the literal vanishing point of the day, framed by trees that act both as proscenium and as a barrier to anything off-axis. The image at hand was made on the third of July outside Główne, a small village in the Lublin Voivodeship of eastern Poland, lying within the Radzyń Podlaski district. The sun is at its photometric peak of warmth, sitting roughly five degrees above the horizon and pouring its undiluted pigment onto the rails. There is, in such a scene, a curious doubling: the day's last horizontal motion, the sun's, mirrored by the imagined longitudinal motion of a train that is not there. The picture invites — almost insists upon — a moment of contemplative pause, the kind in which a Polish phrase like the one used to introduce this scene becomes not ornament but observation.",
+      "text_pl": "Jest pewna szczególna właściwość niektórych fotografii: wbrew woli fotografa zbierają one metafory szybciej, niż można je rozważyć. Puste tory kolejowe o zachodzie słońca są zapewne najwyraźniejszym przykładem — równoległe linie zbiegające się w punkcie ucieczki, który okazuje się być również dosłownym punktem ucieczki dnia, oprawione w drzewa pełniące rolę zarówno proscenium, jak i bariery dla wszystkiego, co poza osią. Omawiane zdjęcie powstało trzeciego lipca pod Głównem, niewielką wsią w województwie lubelskim we wschodniej Polsce, leżącą w powiecie radzyńskim. Słońce znajduje się w fotometrycznym szczycie swojego ciepła, jakieś pięć stopni nad horyzontem, i przelewa swój nierozcieńczony pigment wprost na szyny. Jest w takiej scenie pewne osobliwe podwojenie: ostatni poziomy ruch dnia — ruch słońca — dublowany przez wyobrażony wzdłużny ruch pociągu, którego tam nie ma. Zdjęcie zaprasza, a niemal nalega, na chwilę kontemplacyjnej pauzy, tę, w której polska fraza otwierająca tę scenę przestaje być ozdobą, a staje się obserwacją.",
+      "vocab": [
+        { "term": "property", "ipa_br": "/ˈprɒpəti/", "pl": "właściwość, cecha; nieruchomość", "new": true },
+        { "term": "accumulate", "ipa_br": "/əˈkjuːmjʊleɪt/", "pl": "gromadzić, akumulować", "new": true },
+        { "term": "chief", "ipa_br": "/tʃiːf/", "pl": "główny; szef", "new": true },
+        { "term": "vanishing point", "ipa_br": "/ˈvænɪʃɪŋ pɔɪnt/", "pl": "punkt zbiegu, punkt ucieczki", "new": true },
+        { "term": "proscenium", "ipa_br": "/prəˈsiːniəm/", "pl": "proscenium, awanscena", "new": true },
+        { "term": "barrier", "ipa_br": "/ˈbæriə/", "pl": "bariera, przeszkoda", "new": true },
+        { "term": "photometric", "ipa_br": "/ˌfəʊtəˈmetrɪk/", "pl": "fotometryczny", "new": true },
+        { "term": "undiluted", "ipa_br": "/ˌʌndaɪˈluːtɪd/", "pl": "nierozcieńczony, czysty", "new": true },
+        { "term": "doubling", "ipa_br": "/ˈdʌblɪŋ/", "pl": "podwojenie, zdublowanie", "new": true },
+        { "term": "horizontal", "ipa_br": "/ˌhɒrɪˈzɒntəl/", "pl": "poziomy", "new": true },
+        { "term": "longitudinal", "ipa_br": "/ˌlɒŋɡɪˈtjuːdɪnəl/", "pl": "wzdłużny, podłużny", "new": true },
+        { "term": "contemplative", "ipa_br": "/kənˈtemplətɪv/", "pl": "kontemplacyjny", "new": true },
+        { "term": "ornament", "ipa_br": "/ˈɔːnəmənt/", "pl": "ozdoba", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The author writes that empty-tracks-at-sunset accumulates metaphors faster than they can be examined.", "answer": true },
+            { "statement": "The image was made on 3 July.", "answer": true },
+            { "statement": "The sun in the photo is described as exactly on the horizon.", "answer": false },
+            { "statement": "The trees act both as proscenium and as a barrier to anything off-axis.", "answer": true },
+            { "statement": "The author describes a doubling: the day's last horizontal motion mirrored by the imagined longitudinal motion of a train.", "answer": true },
+            { "statement": "The Polish phrase is treated by the author as ornament rather than observation.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}

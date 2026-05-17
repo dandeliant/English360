@@ -1,0 +1,48 @@
+{
+  "lemma": "always",
+  "slug": "always",
+  "fetchTerm": "always",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At all times; throughout all time; since the beginning.",
+          "examples": [
+            "God is always the same.",
+            "Green has always been my favorite color. I’ve loved it for as long as I can remember."
+          ]
+        },
+        {
+          "text": "Constantly during a certain period, or regularly at stated intervals (opposed to sometimes or occasionally).",
+          "examples": [
+            "In this street, the shops always close during lunchtime."
+          ]
+        },
+        {
+          "text": "if necessary, or if there is no better option; in any event.",
+          "examples": [
+            "I thought I could always go back to work."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "This term needs a definition. Please help out and add a definition, then remove the text {{rfdef}}.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zawsze",
+    "zawżdy",
+    "ciągle",
+    "stale"
+  ],
+  "fetchedAt": "2026-05-17T21:26:53.829Z"
+}

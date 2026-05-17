@@ -1,0 +1,33 @@
+{
+  "lemma": "coincide",
+  "slug": "coincide",
+  "fetchTerm": "coincide",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To occupy exactly the same space.",
+          "examples": [
+            "The two squares coincide nicely."
+          ]
+        },
+        {
+          "text": "To occur at the same time.",
+          "examples": [
+            "The conference will coincide with his vacation."
+          ]
+        },
+        {
+          "text": "To correspond, concur, or agree.",
+          "examples": [
+            "Our ideas coincide, except in certain areas."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:27:23.961Z"
+}

@@ -1,0 +1,44 @@
+{
+  "lemma": "examine",
+  "slug": "examine",
+  "fetchTerm": "examine",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To observe carefully or critically to learn about someone or something.",
+          "examples": [
+            "He examined the crime scene for clues.",
+            "She examined the hair sample under a microscope."
+          ]
+        },
+        {
+          "text": "To check the health or condition of something or someone.",
+          "examples": [
+            "The doctor examined the patient."
+          ]
+        },
+        {
+          "text": "To determine the aptitude, skills or qualifications of someone by subjecting them to an examination.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of examining.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "badać",
+    "zbadać"
+  ],
+  "fetchedAt": "2026-05-17T21:27:56.774Z"
+}

@@ -1,0 +1,125 @@
+{
+  "lemma": "well",
+  "slug": "well",
+  "fetchTerm": "well",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Accurately, competently, satisfactorily.",
+          "examples": [
+            "He does his job well.",
+            "My RV runs well on diesel."
+          ]
+        },
+        {
+          "text": "Completely, fully.",
+          "examples": [
+            "I prefer a well done steak.",
+            "Cook the potatoes well to ensure they aren't tough."
+          ]
+        },
+        {
+          "text": "To a significant degree.",
+          "examples": [
+            "That author is well known.",
+            "A monument well worth seeing"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In good health.",
+          "examples": [
+            "I've been sick, but now I'm well.",
+            "I've always been a healthy, fit woman, but right now I really don't feel very well."
+          ]
+        },
+        {
+          "text": "Highly satisfactory",
+          "examples": [
+            "Everything well with you?"
+          ]
+        },
+        {
+          "text": "Good, content.",
+          "examples": [
+            "“How are you?” — “I'm well, thank you!”"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used as a discourse marker.",
+          "examples": [
+            "“So, what have you been doing?” “Well, we went for a picnic; and then it started raining, so we came home early.”",
+            "“The car is broken.” “Well, we could walk to the movies instead.”"
+          ]
+        },
+        {
+          "text": "Used as a hedge.",
+          "examples": [
+            "“The car is broken.” “Well, we could walk to the movies instead.”",
+            "“I didn't like the music.” “Well, I thought it was good.”"
+          ]
+        },
+        {
+          "text": "Expressing reluctance to say something.",
+          "examples": [
+            "It was a bit... well, too loud."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hole sunk into the ground as a source of water, oil, natural gas or other fluids.",
+          "examples": []
+        },
+        {
+          "text": "A place where a liquid such as water surfaces naturally; a spring.",
+          "examples": []
+        },
+        {
+          "text": "A small depression, e.g. suitable for holding liquid or other objects.",
+          "examples": [
+            "Make a well in the dough mixture and pour in the milk."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To issue forth, as water from the earth; to flow; to spring.",
+          "examples": []
+        },
+        {
+          "text": "To have something seep out of the surface.",
+          "examples": [
+            "Her eyes welled with tears."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dobrze",
+    "nieźle",
+    "zdrowy",
+    "zdrowa",
+    "cóż"
+  ],
+  "fetchedAt": "2026-05-17T21:30:22.175Z"
+}

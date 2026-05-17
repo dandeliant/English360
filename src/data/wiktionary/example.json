@@ -1,0 +1,40 @@
+{
+  "lemma": "example",
+  "slug": "example",
+  "fetchTerm": "example",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is representative of all such things in a group.",
+          "examples": []
+        },
+        {
+          "text": "Something that serves to illustrate or explain a rule.",
+          "examples": []
+        },
+        {
+          "text": "Something that serves as a pattern of behaviour to be imitated (a good example) or not to be imitated (a bad example).",
+          "examples": [
+            "Nelson Mandela was an example for many to follow."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be illustrated or exemplified (by). (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przykład"
+  ],
+  "fetchedAt": "2026-05-17T21:27:58.439Z"
+}

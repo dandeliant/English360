@@ -1,0 +1,170 @@
+{
+  "lemma": "down",
+  "slug": "down",
+  "fetchTerm": "down",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "From a higher position to a lower one; downwards.",
+          "examples": [
+            "The cat jumped down from the table."
+          ]
+        },
+        {
+          "text": "To or towards what is considered the bottom of something, irrespective of whether this is presently physically lower.",
+          "examples": [
+            "Go down to the bottom of the page.",
+            "As I lay on my back, a pain shot down from my neck to my waist."
+          ]
+        },
+        {
+          "text": "At a lower or further place or position along a set path.",
+          "examples": [
+            "His place is farther down the road.",
+            "The company was well down the path to bankruptcy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "From the higher end to the lower of.",
+          "examples": [
+            "The ball rolled down the hill."
+          ]
+        },
+        {
+          "text": "From north to south of.",
+          "examples": [
+            "We sailed down the eastern seaboard."
+          ]
+        },
+        {
+          "text": "Towards the mouth of (a river); in the direction of flow of.",
+          "examples": [
+            "In this game we float sticks down the river."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Facing downwards.",
+          "examples": [
+            "Turn the cloth over so that the patterned side is down."
+          ]
+        },
+        {
+          "text": "At a lower level than before.",
+          "examples": [
+            "The stock market is down.",
+            "Prices are down."
+          ]
+        },
+        {
+          "text": "Sad, unhappy, depressed, feeling low.",
+          "examples": [
+            "Mary seems very down since she split up with her boyfriend.",
+            "Been down so long it seems like up to me"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To knock (someone or something) down; to cause to come down; to fell. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "The storm downed several old trees along the highway.",
+            "A single rifle shot downed the mighty beast."
+          ]
+        },
+        {
+          "text": "Specifically, to cause (something in the air) to fall to the ground; to bring down (with a missile etc.).",
+          "examples": [
+            "The helicopter was downed by a surface-to-air missile."
+          ]
+        },
+        {
+          "text": "To lower; to put (something) down.",
+          "examples": [
+            "The bell rang for lunch, and the workers downed their tools."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A negative aspect; a downer, a downside.",
+          "examples": [
+            "I love almost everything about my job. The only down is that I can't take Saturdays off."
+          ]
+        },
+        {
+          "text": "A grudge (on someone).",
+          "examples": []
+        },
+        {
+          "text": "A downer, depressant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hill; in England, especially a chalk hill.",
+          "examples": [
+            "We went for a walk over the downs.",
+            "The North Downs are a ridge of chalk hills in south east England."
+          ]
+        },
+        {
+          "text": "A field, especially one used for horse racing.",
+          "examples": []
+        },
+        {
+          "text": "A tract of poor, sandy, undulating or hilly land near the sea, covered with fine turf which serves chiefly for the grazing of sheep.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Soft, fluffy immature feathers which grow on young birds. Used as insulating material in duvets, sleeping bags and jackets.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover, ornament, line, or stuff with down.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "na dół",
+    "w dół",
+    "pionowo",
+    "na dole",
+    "puch"
+  ],
+  "fetchedAt": "2026-05-17T21:27:49.643Z"
+}

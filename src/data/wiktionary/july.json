@@ -1,0 +1,34 @@
+{
+  "lemma": "july",
+  "slug": "july",
+  "fetchTerm": "July",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The seventh month of the Gregorian calendar, following June and preceding August.",
+          "examples": []
+        },
+        {
+          "text": "A female given name from English.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A surname from French.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lipiec"
+  ],
+  "fetchedAt": "2026-05-17T21:28:22.368Z"
+}

@@ -1,0 +1,30 @@
+{
+  "lemma": "resonance",
+  "slug": "resonance",
+  "fetchTerm": "resonance",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The quality of being resonant.",
+          "examples": []
+        },
+        {
+          "text": "A resonant sound, echo, or reverberation, such as that produced by blowing over the top of a bottle.",
+          "examples": []
+        },
+        {
+          "text": "The sound produced by a hollow body part such as the chest cavity upon auscultation, especially that produced while the patient is speaking.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rezonans",
+    "pogłos"
+  ],
+  "fetchedAt": "2026-05-17T21:29:27.045Z"
+}

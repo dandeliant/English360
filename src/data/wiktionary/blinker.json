@@ -1,0 +1,39 @@
+{
+  "lemma": "blinker",
+  "slug": "blinker",
+  "fetchTerm": "blinker",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Anything that blinks.",
+          "examples": [
+            "She was a frequent blinker, always on the verge of tears."
+          ]
+        },
+        {
+          "text": "The turn signal of an automobile.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put blinkers on.",
+          "examples": [
+            "The farmer stopped to blinker his horse before riding into an area of heavy traffic."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "klapka",
+    "powieka"
+  ],
+  "fetchedAt": "2026-05-17T21:27:10.391Z"
+}

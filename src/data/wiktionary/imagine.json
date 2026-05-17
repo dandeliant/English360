@@ -1,0 +1,47 @@
+{
+  "lemma": "imagine",
+  "slug": "imagine",
+  "fetchTerm": "imagine",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To form a mental image of something; to envision or create something in one's mind.",
+          "examples": [
+            "Try to imagine a pink elephant.",
+            "Imagine yourself in a packed airport lounge."
+          ]
+        },
+        {
+          "text": "To believe in something created by one's own mind, often something false.",
+          "examples": [
+            "She imagined that the man wanted to kill her.",
+            "There's nothing there; you're just imagining things."
+          ]
+        },
+        {
+          "text": "To assume; to suppose.",
+          "examples": [
+            "I imagine that he will need to rest after such a long flight."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wyobrażać",
+    "wyobrazić"
+  ],
+  "fetchedAt": "2026-05-17T21:28:15.216Z"
+}

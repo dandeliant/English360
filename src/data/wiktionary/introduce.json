@@ -1,0 +1,39 @@
+{
+  "lemma": "introduce",
+  "slug": "introduce",
+  "fetchTerm": "introduce",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (someone) to be acquainted (with someone else).",
+          "examples": [
+            "Let me introduce you to my friends."
+          ]
+        },
+        {
+          "text": "To make (something or someone) known by formal announcement or recommendation.",
+          "examples": [
+            "The senator plans to introduce the bill in the next session.",
+            "Let me introduce our guest speaker."
+          ]
+        },
+        {
+          "text": "To add (something) to a system, a mixture, or a container.",
+          "examples": [
+            "Various pollutants were introduced into the atmosphere."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przedstawiać",
+    "przedstawić",
+    "wprowadzać",
+    "wprowadzić"
+  ],
+  "fetchedAt": "2026-05-17T21:28:17.927Z"
+}

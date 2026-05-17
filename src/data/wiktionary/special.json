@@ -1,0 +1,73 @@
+{
+  "lemma": "special",
+  "slug": "special",
+  "fetchTerm": "special",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Distinguished by a unique, particular, or unusual quality.",
+          "examples": [
+            "a special episode of a television series",
+            "her special blend of spices"
+          ]
+        },
+        {
+          "text": "Of particular value or interest; dear; beloved.",
+          "examples": [
+            "Everyone is special to someone.",
+            "his special friend of many years, Bill"
+          ]
+        },
+        {
+          "text": "Of or related to unconventional warfare.",
+          "examples": [
+            "special forces, special operations"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A reduction in consumer cost (usually for a limited time) for items or services rendered; the thing thus sold.",
+          "examples": [
+            "We're running a special on turkey for Thanksgiving.",
+            "I didn't have much money, so I bought the special."
+          ]
+        },
+        {
+          "text": "A meal offered only at a certain time by a restaurant, not as a standing fixture of the menu; often, one of a rotation of meals systematically offered for a lower price; also often a dish at a nondiscounted price that is seasonal or otherwise exciting or unusual.",
+          "examples": [
+            "Today's dinner special is wild salmon, which we don't normally get a chance to offer.",
+            "The Tuesday lunch special is our tuna melt on rye."
+          ]
+        },
+        {
+          "text": "Unusual or exceptional episode of a series.",
+          "examples": [
+            "Did you see the Christmas special?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To supervise a patient one-on-one.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "specjalny",
+    "wyjątkowy",
+    "osobliwy"
+  ],
+  "fetchedAt": "2026-05-17T21:29:39.451Z"
+}

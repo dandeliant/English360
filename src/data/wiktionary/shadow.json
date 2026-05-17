@@ -1,0 +1,79 @@
+{
+  "lemma": "shadow",
+  "slug": "shadow",
+  "fetchTerm": "shadow",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object.",
+          "examples": [
+            "My shadow lengthened as the sun began to set.",
+            "The X-ray showed a shadow on his lung."
+          ]
+        },
+        {
+          "text": "Relative darkness, especially as caused by the interruption of light; gloom; obscurity.",
+          "examples": [
+            "I immediately jumped into shadow as I saw them approach."
+          ]
+        },
+        {
+          "text": "An area protected by an obstacle (likened to an object blocking out sunlight).",
+          "examples": [
+            "The mountains block the passage of rain-producing weather systems and cast a \"shadow\" of dryness behind them."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Unofficial, informal, unauthorized, but acting as though it were.",
+          "examples": [
+            "The human resources department has a shadow information technology group without headquarters knowledge."
+          ]
+        },
+        {
+          "text": "Having power or influence, but not widely known or recognized.",
+          "examples": [
+            "The director has been giving shadow leadership to the other group's project to ensure its success.",
+            "The illuminati shadow group has been pulling strings from behind the scenes."
+          ]
+        },
+        {
+          "text": "Part of, or related to, the opposition in government.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shade, cloud, or darken.",
+          "examples": [
+            "The artist chose to shadow this corner of the painting."
+          ]
+        },
+        {
+          "text": "To block light or radio transmission from.",
+          "examples": [
+            "Looks like that cloud's going to shadow us."
+          ]
+        },
+        {
+          "text": "To secretly or discreetly track or follow another, to keep under surveillance.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cień"
+  ],
+  "fetchedAt": "2026-05-17T21:29:32.922Z"
+}

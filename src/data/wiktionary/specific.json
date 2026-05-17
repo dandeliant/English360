@@ -1,0 +1,40 @@
+{
+  "lemma": "specific",
+  "slug": "specific",
+  "fetchTerm": "specific",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Explicit or definite.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A distinguishing attribute or quality.",
+          "examples": []
+        },
+        {
+          "text": "A remedy for a specific disease or condition.",
+          "examples": []
+        },
+        {
+          "text": "Specification",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "konkretny",
+    "specyficzny",
+    "osobliwy"
+  ],
+  "fetchedAt": "2026-05-17T21:29:40.894Z"
+}

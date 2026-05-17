@@ -1,0 +1,67 @@
+{
+  "lemma": "two",
+  "slug": "two",
+  "fetchTerm": "two",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO ICAO radiotelephony clear code (spelling-alphabet name) for the digit 2.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Tswapong.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "A numerical value equal to 2; this many dots (••).",
+          "examples": []
+        },
+        {
+          "text": "Describing a set or group with two elements.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The digit/figure 2.",
+          "examples": [
+            "The number 2202 contains three twos."
+          ]
+        },
+        {
+          "text": "A two-dollar bill.",
+          "examples": []
+        },
+        {
+          "text": "A child aged two.",
+          "examples": [
+            "This toy is suitable for the twos and threes."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dwa",
+    "dwójka",
+    "dwulatek",
+    "dwulatka"
+  ],
+  "fetchedAt": "2026-05-17T21:30:04.333Z"
+}

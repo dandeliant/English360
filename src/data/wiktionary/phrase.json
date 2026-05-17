@@ -1,0 +1,49 @@
+{
+  "lemma": "phrase",
+  "slug": "phrase",
+  "fetchTerm": "phrase",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short written or spoken expression.",
+          "examples": [
+            "I've made progress, but this is still, in Churchill's phrase, just \"the end of the beginning.\""
+          ]
+        },
+        {
+          "text": "A word or, more commonly, a group of words that functions as a single unit in the syntax of a sentence, always containing an expressed or implied head (the principal word or subgroup, with core importance) and often consisting of a head plus some other elaborating words.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To express (an action, thought or idea) by means of particular words.",
+          "examples": [
+            "I wasn't sure how to phrase my condolences without sounding patronising."
+          ]
+        },
+        {
+          "text": "To perform (a passage) with a particular phrasing.",
+          "examples": []
+        },
+        {
+          "text": "To divide into melodic phrases.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zdanie",
+    "fraza",
+    "wyrażenie",
+    "wypowiedzenie"
+  ],
+  "fetchedAt": "2026-05-17T21:29:04.083Z"
+}

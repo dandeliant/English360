@@ -1,0 +1,19 @@
+{
+  "lemma": "wne",
+  "slug": "wne",
+  "fetchTerm": "wne",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Waneci.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:30:25.580Z"
+}

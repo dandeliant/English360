@@ -1,0 +1,62 @@
+{
+  "lemma": "g",
+  "slug": "g",
+  "fetchTerm": "G",
+  "en": [
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The seventh letter of the basic modern Latin alphabet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "giga-.",
+          "examples": []
+        },
+        {
+          "text": "gauss.",
+          "examples": []
+        },
+        {
+          "text": "glycine, a natural amino acid.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The seventh letter of the English alphabet, called gee and written in the Latin script.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Games .",
+          "examples": []
+        },
+        {
+          "text": "Green.",
+          "examples": []
+        },
+        {
+          "text": "General (suitable for a general audience).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:28:06.774Z"
+}

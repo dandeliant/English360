@@ -1,0 +1,45 @@
+{
+  "lemma": "accumulate",
+  "slug": "accumulate",
+  "fetchTerm": "accumulate",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively), often gradually and without active intent.",
+          "examples": [
+            "He wishes to accumulate a sum of money."
+          ]
+        },
+        {
+          "text": "To gradually grow or increase in quantity or number.",
+          "examples": [
+            "With her company going bankrupt, her divorce, and a gambling habit, debts started to accumulate so she had to sell her house."
+          ]
+        },
+        {
+          "text": "To take a higher degree at the same time with a lower degree, or at a shorter interval than usual.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Collected; accumulated.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "akumulować",
+    "zakumulować",
+    "akumulować się",
+    "zakumulować się"
+  ],
+  "fetchedAt": "2026-05-17T21:26:50.594Z"
+}

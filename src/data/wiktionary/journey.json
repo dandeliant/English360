@@ -1,0 +1,59 @@
+{
+  "lemma": "journey",
+  "slug": "journey",
+  "fetchTerm": "journey",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A set amount of travelling, seen as a single unit; a discrete trip, a voyage.",
+          "examples": [
+            "The journey to London takes two hours by train.",
+            "“Don't set out on a journey using someone else's donkey.” ~ African proverb"
+          ]
+        },
+        {
+          "text": "Any process or progression likened to a journey, especially one that involves difficulties or personal development.",
+          "examples": [
+            "the journey to political freedom",
+            "my journey of dealing with grief"
+          ]
+        },
+        {
+          "text": "The progress of a customer through a system, often a computer system.",
+          "examples": [
+            "We need to map out the user journey and make it more efficient.",
+            "a customer journey"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To travel, to make a trip or voyage.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The total time spent melting and working one piece.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podróż",
+    "wyjazd",
+    "wypad",
+    "wędrówka"
+  ],
+  "fetchedAt": "2026-05-17T21:28:20.987Z"
+}

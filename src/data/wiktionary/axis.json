@@ -1,0 +1,37 @@
+{
+  "lemma": "axis",
+  "slug": "axis",
+  "fetchTerm": "axis",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An imaginary line around which an object spins (an axis of rotation) or is symmetrically arranged (an axis of symmetry).",
+          "examples": [
+            "The Earth rotates once a day on its axis"
+          ]
+        },
+        {
+          "text": "A fixed one-dimensional figure, such as a line or arc, with an origin and orientation and such that its points are in one-to-one correspondence with a set of numbers; an axis forms part of the basis of a space or is used to position and locate data in a graph (a coordinate axis)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A deer native to Asia, of species Axis axis.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "oś",
+    "obrotnik"
+  ],
+  "fetchedAt": "2026-05-17T21:27:06.283Z"
+}

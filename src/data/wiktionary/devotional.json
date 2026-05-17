@@ -1,0 +1,38 @@
+{
+  "lemma": "devotional",
+  "slug": "devotional",
+  "fetchTerm": "devotional",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A brief religious service.",
+          "examples": [
+            "To prepare for leading a devotional, select a theme appropriate to the occasion."
+          ]
+        },
+        {
+          "text": "A text or piece of music or writing to be used for devotion.",
+          "examples": [
+            "Each page of the book offers a short devotional that inspires thought and self-reflection."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to devotion or worship.",
+          "examples": [
+            "She spent much time playing devotional music."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:27:43.081Z"
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "depth",
+  "slug": "depth",
+  "fetchTerm": "depth",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "the vertical distance below a surface; the degree to which something is deep",
+          "examples": [
+            "Measure the depth of the water in this part of the bay."
+          ]
+        },
+        {
+          "text": "the distance between the front and the back, as the depth of a drawer or closet",
+          "examples": []
+        },
+        {
+          "text": "the intensity, complexity, strength, seriousness or importance of an emotion, situation, etc.",
+          "examples": [
+            "The depth of her misery was apparent to everyone.",
+            "The depth of the crisis had been exaggerated."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "głębokość"
+  ],
+  "fetchedAt": "2026-05-17T21:27:38.410Z"
+}

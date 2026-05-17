@@ -1,0 +1,38 @@
+{
+  "lemma": "suggest",
+  "slug": "suggest",
+  "fetchTerm": "suggest",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To imply but stop short of explicitly stating (something).",
+          "examples": [
+            "Are you suggesting that I killed my wife?"
+          ]
+        },
+        {
+          "text": "To cause one to suppose (something); to bring to one's mind the idea (of something).",
+          "examples": [
+            "The name \"hamburger\" suggests that hamburgers originated from Hamburg."
+          ]
+        },
+        {
+          "text": "To explicitly mention (something) as a possibility for consideration, often to recommend it.",
+          "examples": [
+            "This meeting venue was suggested to us by our boss.",
+            "He suggests that we celebrate with dinner at Bellissimo. He suggests our celebrating with dinner at Bellissimo."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sugerować",
+    "proponować",
+    "zaproponować"
+  ],
+  "fetchedAt": "2026-05-17T21:29:47.950Z"
+}

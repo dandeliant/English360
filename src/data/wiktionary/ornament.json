@@ -1,0 +1,39 @@
+{
+  "lemma": "ornament",
+  "slug": "ornament",
+  "fetchTerm": "ornament",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An element of decoration; that which embellishes or adorns.",
+          "examples": []
+        },
+        {
+          "text": "Christmas ornament: a Christmas tree decoration.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate.",
+          "examples": [
+            "We will ornament the windows with trim to make the room seem brighter."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ornament",
+    "ozdoba",
+    "ozdabiać",
+    "dekorować"
+  ],
+  "fetchedAt": "2026-05-17T21:28:55.632Z"
+}

@@ -1,0 +1,96 @@
+{
+  "lemma": "mid",
+  "slug": "mid",
+  "fetchTerm": "mid",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Mandaic.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Occupying a middle position; middle.",
+          "examples": []
+        },
+        {
+          "text": "Made with a somewhat elevated position of some certain part of the tongue, in relation to the palate; midway between the high and the low; said of certain vowel sounds, such as, [e o ɛ ɔ].",
+          "examples": []
+        },
+        {
+          "text": "Mediocre; of middling quality.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The middle of the battlefield.",
+          "examples": [
+            "We need to retake mid."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To or into the middle of the battlefield.",
+          "examples": [
+            "Everyone head mid."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Amid.",
+          "examples": [
+            "mid the best"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Middle.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A mid-range.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "With.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:28:40.654Z"
+}

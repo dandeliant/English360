@@ -1,0 +1,49 @@
+{
+  "lemma": "attention",
+  "slug": "attention",
+  "fetchTerm": "attention",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Mental focus.",
+          "examples": [
+            "Please direct your attention to the following words."
+          ]
+        },
+        {
+          "text": "An action or remark expressing concern for or interest in someone or something, especially romantic interest.",
+          "examples": []
+        },
+        {
+          "text": "A state of alertness in the standing position.",
+          "examples": [
+            "The company will now come to attention."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used as a command to bring soldiers to the attention position.",
+          "examples": []
+        },
+        {
+          "text": "A call for people to be quiet/stop doing what they are presently doing and pay heed to what they are to be told or shown.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "uwaga",
+    "atencja",
+    "względy",
+    "baczność"
+  ],
+  "fetchedAt": "2026-05-17T21:27:03.934Z"
+}

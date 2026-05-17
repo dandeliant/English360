@@ -1,0 +1,101 @@
+{
+  "lemma": "come",
+  "slug": "come",
+  "fetchTerm": "come",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move nearer to the point of perspective.",
+          "examples": [
+            "She’ll be coming round the mountain when she comes the wrong way […]",
+            "I called the dog, but she wouldn't come."
+          ]
+        },
+        {
+          "text": "To move toward the speaker.",
+          "examples": [
+            "I called the dog, but she wouldn't come.",
+            "Stop dawdling and come here!"
+          ]
+        },
+        {
+          "text": "To move toward the listener.",
+          "examples": [
+            "Hold on, I'll come in a second.",
+            "You should ask the doctor to come to your house."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Coming, arrival; approach.",
+          "examples": []
+        },
+        {
+          "text": "Semen",
+          "examples": [
+            "When a man uses a condom during sex, he takes all of his come with him, preventing her from getting pregnant."
+          ]
+        },
+        {
+          "text": "Female ejaculatory discharge.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Used to indicate a point in time at or after which a stated event or situation occurs.",
+          "examples": [
+            "Leave it to settle for about three months and, come Christmas time, you'll have a delicious concoction to offer your guests.",
+            "Come retirement, their Social Security may turn out to be a lot less than they counted on."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An exclamation to express annoyance.",
+          "examples": [
+            "Come, come! Stop crying.",
+            "Come now! Things could be worse."
+          ]
+        },
+        {
+          "text": "An exclamation to express encouragement, or to precede a request.",
+          "examples": [
+            "Come, come! You can do it.",
+            "Come now! It won't bite you."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of comma in its medieval use as a middot ⟨·⟩ serving as a form of colon.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przychodzić",
+    "przyjść",
+    "przyjeżdżać",
+    "przyjechać",
+    "dochodzić"
+  ],
+  "fetchedAt": "2026-05-17T21:27:26.009Z"
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "quality",
+  "slug": "quality",
+  "fetchTerm": "quality",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The kind, condition, and/or the set of characteristics of something, as opposed to the quantity of something.",
+          "examples": [
+            "The lattice structure of a steel profoundly changes its qualities."
+          ]
+        },
+        {
+          "text": "A single trait.",
+          "examples": [
+            "While being impulsive can be great for artists, it is not a desirable quality for engineers.",
+            "Security, stability, and efficiency are good qualities of an operating system."
+          ]
+        },
+        {
+          "text": "Good characteristics in particular; level of excellence; freedom of faults and flaws.",
+          "examples": [
+            "This school is well-known for having teachers of high quality.",
+            "Quality of life is usually determined by health, education, and income."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cecha",
+    "przymiot",
+    "jakość"
+  ],
+  "fetchedAt": "2026-05-17T21:29:16.267Z"
+}

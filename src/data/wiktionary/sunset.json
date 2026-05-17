@@ -1,0 +1,45 @@
+{
+  "lemma": "sunset",
+  "slug": "sunset",
+  "fetchTerm": "sunset",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The moment each evening when the sun disappears below the western horizon.",
+          "examples": [
+            "at sunset"
+          ]
+        },
+        {
+          "text": "The changes in color of the sky before and after sunset.",
+          "examples": []
+        },
+        {
+          "text": "The final period of the life of a person or thing.",
+          "examples": [
+            "one's sunset years"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To phase out.",
+          "examples": [
+            "We’ll be sunsetting version 1.9 of the software shortly after releasing version 2.0 next quarter."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zmierzch",
+    "zachód słońca"
+  ],
+  "fetchedAt": "2026-05-17T21:29:50.549Z"
+}

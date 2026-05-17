@@ -1,0 +1,49 @@
+{
+  "lemma": "five",
+  "slug": "five",
+  "fetchTerm": "five",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO ICAO radiotelephony clear code (spelling-alphabet name) for the digit 5.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "A numerical value equal to 5; the number following four and preceding six.",
+          "examples": []
+        },
+        {
+          "text": "Describing a group or set with five elements.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The digit/figure 5.",
+          "examples": [
+            "He wrote a five followed by four zeroes."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pięć",
+    "pięcioro",
+    "piątka",
+    "piątak",
+    "pięciolatek"
+  ],
+  "fetchedAt": "2026-05-17T21:28:03.097Z"
+}

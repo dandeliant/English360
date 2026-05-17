@@ -1,0 +1,30 @@
+{
+  "lemma": "viewer",
+  "slug": "viewer",
+  "fetchTerm": "viewer",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who views a spectacle; an onlooker or spectator.",
+          "examples": []
+        },
+        {
+          "text": "Someone who watches television.",
+          "examples": []
+        },
+        {
+          "text": "Any optical device used to view photographic slides.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "widz",
+    "telewidz"
+  ],
+  "fetchedAt": "2026-05-17T21:30:16.124Z"
+}

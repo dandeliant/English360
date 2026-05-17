@@ -1,0 +1,47 @@
+{
+  "lemma": "cleanly",
+  "slug": "cleanly",
+  "fetchTerm": "cleanly",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being habitually clean, practising good hygiene.",
+          "examples": []
+        },
+        {
+          "text": "Cleansing; fitted to remove moisture; dirt, etc.",
+          "examples": []
+        },
+        {
+          "text": "Adroit; dexterous; artful.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a clean way, neatly.",
+          "examples": []
+        },
+        {
+          "text": "Not causing a mess or unnecessary damage.",
+          "examples": [
+            "We agreed to break off our relationship cleanly.",
+            "Fortunately, the bullet passed cleanly through your shoulder."
+          ]
+        },
+        {
+          "text": "Innocently; without stain.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:27:20.116Z"
+}

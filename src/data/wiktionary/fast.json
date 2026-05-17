@@ -1,0 +1,94 @@
+{
+  "lemma": "fast",
+  "slug": "fast",
+  "fetchTerm": "fast",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Firmly or securely fixed in place; stable. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "That rope is dangerously loose. Make it fast!"
+          ]
+        },
+        {
+          "text": "Firm against attack; fortified by nature or art; impregnable; strong.",
+          "examples": []
+        },
+        {
+          "text": "Steadfast, with unwavering feeling. (Now mostly in set phrases like fast friend(s).)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A train that calls at only some stations it passes between its origin and destination, typically just the principal stations.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Ellipsis of stand fast, a warning not to pass between the arrow and the target.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a firm or secure manner, securely; in such a way as not to be moved; safe, sound .",
+          "examples": [
+            "Hold this rope as fast as you can."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To practice religious abstinence, especially from food.",
+          "examples": []
+        },
+        {
+          "text": "To reduce or limit one's nutrition intake for medical or health reasons, to diet.",
+          "examples": []
+        },
+        {
+          "text": "To cause (a person or animal) to abstain, especially from eating.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act or practice of fasting, religious abstinence from food.",
+          "examples": []
+        },
+        {
+          "text": "Any of the fasting periods in the liturgical year.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szybki",
+    "prędki",
+    "błyskawiczny",
+    "bystry",
+    "chyży"
+  ],
+  "fetchedAt": "2026-05-17T21:28:01.551Z"
+}

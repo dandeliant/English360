@@ -1,0 +1,104 @@
+{
+  "lemma": "double",
+  "slug": "double",
+  "fetchTerm": "double",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Made up of two matching or complementary elements.",
+          "examples": [
+            "The closet has double doors."
+          ]
+        },
+        {
+          "text": "Of twice the quantity.",
+          "examples": [
+            "Give me a double serving of mashed potatoes.",
+            "Britain's population density used to be double that of China."
+          ]
+        },
+        {
+          "text": "Of a family relationship, related on both the maternal and paternal sides of a family.",
+          "examples": [
+            "He's my double cousin as my mother's sister married my father's brother."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Twice over; twofold; doubly.",
+          "examples": []
+        },
+        {
+          "text": "Two together; two at a time.",
+          "examples": [
+            "When I met the twins, I thought I was seeing double.",
+            "There are only a few beds, so some of the children will have to sleep double for the night."
+          ]
+        },
+        {
+          "text": "Into two halves or sections.",
+          "examples": [
+            "The old man was bent double under his heavy burden."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Twice the number, amount, size, etc.",
+          "examples": []
+        },
+        {
+          "text": "A person who resembles and stands in for another person, often for safety purposes",
+          "examples": [
+            "Saddam Hussein was rumored to have many doubles."
+          ]
+        },
+        {
+          "text": "A drink with two portions of alcohol.",
+          "examples": [
+            "On second thought, make that a double."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To multiply by two.",
+          "examples": [
+            "The company doubled their earnings per share over last quarter."
+          ]
+        },
+        {
+          "text": "To increase by 100%, to become twice as large in size.",
+          "examples": [
+            "Our earnings have doubled in the last year."
+          ]
+        },
+        {
+          "text": "To be the double of; to exceed by twofold; to contain or be worth twice as much as.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podwójny",
+    "podwojony",
+    "dwuosobowy",
+    "dwumiejscowy",
+    "dwojaki"
+  ],
+  "fetchedAt": "2026-05-17T21:27:47.778Z"
+}

@@ -1,0 +1,70 @@
+{
+  "lemma": "old",
+  "slug": "old",
+  "fetchTerm": "old",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Mochi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+          "examples": [
+            "an old abandoned building",
+            "an old friend"
+          ]
+        },
+        {
+          "text": "Of a living being, having lived for most of the expected years.",
+          "examples": [
+            "a wrinkled old man"
+          ]
+        },
+        {
+          "text": "Of a perishable item, having existed for most of, or more than, its shelf life.",
+          "examples": [
+            "an old loaf of bread"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "People who are old; old beings; the older generation, taken as a group.",
+          "examples": [
+            "A civilised society should always look after the old in the community."
+          ]
+        },
+        {
+          "text": "A person older than oneself, especially an adult in relation to a teenager.",
+          "examples": [
+            "I'm not letting an old wreck my good time today.",
+            "I'm not letting any olds wreck my good time today."
+          ]
+        },
+        {
+          "text": "One's parents.",
+          "examples": [
+            "I had to sneak out to meet my girlfriend and tell the olds I was going to the library."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stary",
+    "niemłody"
+  ],
+  "fetchedAt": "2026-05-17T21:28:52.955Z"
+}

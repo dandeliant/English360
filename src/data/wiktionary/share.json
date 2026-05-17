@@ -1,0 +1,70 @@
+{
+  "lemma": "share",
+  "slug": "share",
+  "fetchTerm": "share",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A portion of something, especially a portion given or allotted to someone.",
+          "examples": [
+            "Each of the robbers took a share of the loot.",
+            "The TV programme was cancelled because it only gained a 10% share of that night's viewing audience."
+          ]
+        },
+        {
+          "text": "A financial instrument that shows that one owns a part of a company that provides the benefit of limited liability.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give part of what one has to somebody else to use or consume.",
+          "examples": []
+        },
+        {
+          "text": "To have or use in common.",
+          "examples": [
+            "to share a shelter with another",
+            "They share a language."
+          ]
+        },
+        {
+          "text": "To divide and distribute.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The cutting blade of an agricultural machine like a plough, a cultivator or a seeding-machine.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cut; to shear; to cleave; to divide.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "część",
+    "akcja",
+    "dzielić się",
+    "dzielić",
+    "udostępniać"
+  ],
+  "fetchedAt": "2026-05-17T21:29:34.436Z"
+}

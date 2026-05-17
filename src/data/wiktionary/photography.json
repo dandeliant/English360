@@ -1,0 +1,28 @@
+{
+  "lemma": "photography",
+  "slug": "photography",
+  "fetchTerm": "photography",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The art and technology of producing images on photosensitive surfaces, and its digital counterpart.",
+          "examples": [
+            "go on a photography course"
+          ]
+        },
+        {
+          "text": "The occupation of taking (and often printing) photographs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "fotografia",
+    "fotografowanie"
+  ],
+  "fetchedAt": "2026-05-17T21:29:00.318Z"
+}

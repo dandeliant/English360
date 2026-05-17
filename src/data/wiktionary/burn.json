@@ -1,0 +1,66 @@
+{
+  "lemma": "burn",
+  "slug": "burn",
+  "fetchTerm": "burn",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A physical injury caused by heat, cold, electricity, radiation or caustic chemicals.",
+          "examples": [
+            "She had second-degree burns from falling in the bonfire.",
+            "He burnt his hand in the fire."
+          ]
+        },
+        {
+          "text": "A sensation resembling such an injury.",
+          "examples": [
+            "chili burn from eating hot peppers"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to be consumed by fire.",
+          "examples": [
+            "He burned his manuscript in the fireplace."
+          ]
+        },
+        {
+          "text": "To be consumed by fire, or in flames.",
+          "examples": [
+            "He watched the house burn."
+          ]
+        },
+        {
+          "text": "To overheat so as to make unusable.",
+          "examples": [
+            "He burned the toast. The blacksmith burned the steel."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large stream.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "oparzenie",
+    "poparzenie",
+    "palenie",
+    "spalenie",
+    "palić"
+  ],
+  "fetchedAt": "2026-05-17T21:27:12.150Z"
+}

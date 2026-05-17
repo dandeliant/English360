@@ -1,0 +1,57 @@
+{
+  "lemma": "view",
+  "slug": "view",
+  "fetchTerm": "view",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Visual perception. The act of seeing or looking at something.",
+          "examples": [
+            "He changed seats to get a complete view of the stage.",
+            "If there are any rabbits in this park, they keep carefully out of our view."
+          ]
+        },
+        {
+          "text": "The act of seeing or looking at something.",
+          "examples": [
+            "He changed seats to get a complete view of the stage."
+          ]
+        },
+        {
+          "text": "The range of vision.",
+          "examples": [
+            "If there are any rabbits in this park, they keep carefully out of our view."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To look at.",
+          "examples": [
+            "The video was viewed by millions of people."
+          ]
+        },
+        {
+          "text": "To regard in a stated way.",
+          "examples": [
+            "I view it as a serious breach of trust."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pogląd",
+    "widok",
+    "obraz",
+    "punkt widzenia",
+    "perspektywa"
+  ],
+  "fetchedAt": "2026-05-17T21:30:12.244Z"
+}

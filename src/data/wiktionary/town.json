@@ -1,0 +1,30 @@
+{
+  "lemma": "town",
+  "slug": "town",
+  "fetchTerm": "town",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city, historically enclosed by a fence or walls, with total populations ranging from several hundred to more than a hundred thousand (as of the early 21st century)",
+          "examples": [
+            "This town is really dangerous because these youngsters have Beretta handguns."
+          ]
+        },
+        {
+          "text": "Any more urbanized centre than the place of reference.",
+          "examples": [
+            "I'll be in Yonkers, then I'm driving into town to see the Knicks at the Garden tonight."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "miasto",
+    "miasteczko"
+  ],
+  "fetchedAt": "2026-05-17T21:29:57.859Z"
+}

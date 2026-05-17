@@ -1,0 +1,52 @@
+{
+  "lemma": "effect",
+  "slug": "effect",
+  "fetchTerm": "effect",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The result or outcome of a cause.",
+          "examples": [
+            "The effect of the hurricane was a devastated landscape."
+          ]
+        },
+        {
+          "text": "Impression left on the mind; sensation produced.",
+          "examples": []
+        },
+        {
+          "text": "Execution; performance; realization; operation. The state of being binding and enforceable, as in a rule, policy, or law.",
+          "examples": [
+            "The new law will come into effect on the first day of next year."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or bring about; to implement.",
+          "examples": [
+            "The best way to effect change is to work with existing stakeholders.",
+            "The election has affected our society, for it has effected major changes in the government."
+          ]
+        },
+        {
+          "text": "Misspelling of affect.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "efekt",
+    "rezultat",
+    "wynik",
+    "skutek"
+  ],
+  "fetchedAt": "2026-05-17T21:27:51.065Z"
+}

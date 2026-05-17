@@ -1,0 +1,76 @@
+{
+  "lemma": "act",
+  "slug": "act",
+  "fetchTerm": "act",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Achterhooks.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something done, a deed.",
+          "examples": [
+            "an act of goodwill"
+          ]
+        },
+        {
+          "text": "Actuality.",
+          "examples": []
+        },
+        {
+          "text": "Something done once and for all, as distinguished from a work.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do something.",
+          "examples": [
+            "If you don’t act soon, you will be in trouble."
+          ]
+        },
+        {
+          "text": "To do (something); to perform.",
+          "examples": []
+        },
+        {
+          "text": "To perform a theatrical role.",
+          "examples": [
+            "I started acting at the age of eleven in my local theatre."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Clipping of actually.",
+          "examples": [
+            "james did u act enjoy that juice? looked like u were gagging icl"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czyn",
+    "akt",
+    "ustawa",
+    "działanie",
+    "działać"
+  ],
+  "fetchedAt": "2026-05-17T21:26:52.272Z"
+}

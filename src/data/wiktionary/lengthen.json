@@ -1,0 +1,30 @@
+{
+  "lemma": "lengthen",
+  "slug": "lengthen",
+  "fetchTerm": "lengthen",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make longer, to extend the length of.",
+          "examples": [
+            "You need to lengthen the story if you want to have it published."
+          ]
+        },
+        {
+          "text": "To become longer.",
+          "examples": [
+            "The shadows on the lawn lengthened as the sun began to set."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przedłużyć",
+    "wydłużyć"
+  ],
+  "fetchedAt": "2026-05-17T21:28:25.463Z"
+}

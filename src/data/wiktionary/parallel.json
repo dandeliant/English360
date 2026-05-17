@@ -1,0 +1,76 @@
+{
+  "lemma": "parallel",
+  "slug": "parallel",
+  "fetchTerm": "parallel",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Equally distant from one another at all points.",
+          "examples": [
+            "The horizontal lines on my notebook paper are parallel."
+          ]
+        },
+        {
+          "text": "Having the same overall direction; the comparison is indicated with \"to\".",
+          "examples": [
+            "The two railway lines are parallel."
+          ]
+        },
+        {
+          "text": "Either not intersecting, or coinciding.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "With a parallel relationship.",
+          "examples": [
+            "The road runs parallel to the canal."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of a set of parallel lines.",
+          "examples": []
+        },
+        {
+          "text": "Direction conformable to that of another line.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To construct or place something parallel to something else.",
+          "examples": []
+        },
+        {
+          "text": "Of a path etc: To be parallel to something else.",
+          "examples": []
+        },
+        {
+          "text": "Of a process etc: To be analogous to something else.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "równoległy",
+    "równolegle",
+    "równoleżnik"
+  ],
+  "fetchedAt": "2026-05-17T21:28:57.683Z"
+}

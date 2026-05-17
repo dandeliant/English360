@@ -1,0 +1,23 @@
+{
+  "lemma": "photometric",
+  "slug": "photometric",
+  "fetchTerm": "photometric",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to photometry or to photometers.",
+          "examples": []
+        },
+        {
+          "text": "Adjusting position with respect to light.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T21:29:02.561Z"
+}

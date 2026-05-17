@@ -1,0 +1,24 @@
+{
+  "lemma": "degree",
+  "slug": "degree",
+  "fetchTerm": "degree",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university/college, as a certification of academic achievement. (In the United States, can include secondary schools.) .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "She has two bachelor's degrees and is studying towards a master's degree."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stopień naukowy",
+    "stopień"
+  ],
+  "fetchedAt": "2026-05-17T21:27:34.044Z"
+}

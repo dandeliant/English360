@@ -1,0 +1,114 @@
+{
+  "lemma": "off",
+  "slug": "off",
+  "fetchTerm": "off",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a direction away from the speaker or other reference point.",
+          "examples": [
+            "He drove off in a cloud of smoke."
+          ]
+        },
+        {
+          "text": "Into a state of non-operation or non-existence.",
+          "examples": [
+            "Please switch off the light when you leave.",
+            "The dinosaurs died off long ago."
+          ]
+        },
+        {
+          "text": "So as to remove or separate, or be removed or separated.",
+          "examples": [
+            "He bit off the end of the carrot.",
+            "Some branches were sawn off."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Inoperative, disabled.",
+          "examples": [
+            "All the lights are off."
+          ]
+        },
+        {
+          "text": "Cancelled; not happening.",
+          "examples": [
+            "The party's off because the hostess is sick."
+          ]
+        },
+        {
+          "text": "Not fitted; not being worn.",
+          "examples": [
+            "Your feet will feel better once those tight boots are off.",
+            "The drink spilled out of the bottle because the top was off."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Not positioned upon, or away from a position upon.",
+          "examples": [
+            "He's off the roof now.",
+            "I took it off the table."
+          ]
+        },
+        {
+          "text": "Detached, separated, excluded or disconnected from; away from a position of attachment or connection to.",
+          "examples": [
+            "The phone is off the hook",
+            "The coat fell off the peg."
+          ]
+        },
+        {
+          "text": "Outside the area or region of.",
+          "examples": [
+            "The suspect is now believed to be off the campus.",
+            "I couldn't see what it said because the line of text ran off the page."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To kill.",
+          "examples": []
+        },
+        {
+          "text": "To switch off.",
+          "examples": [
+            "Can you off the light?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Beginning; starting point.",
+          "examples": [
+            "He has been very obviously an untrustworthy narrator right from the off."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "od-",
+    "sprzątnąć"
+  ],
+  "fetchedAt": "2026-05-17T21:28:50.969Z"
+}

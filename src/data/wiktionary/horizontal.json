@@ -1,0 +1,49 @@
+{
+  "lemma": "horizontal",
+  "slug": "horizontal",
+  "fetchTerm": "horizontal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Perpendicular to the vertical; parallel to the plane of the horizon; level, flat.",
+          "examples": [
+            "horizontal lines"
+          ]
+        },
+        {
+          "text": "Relating to horizontal markets",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to the horizon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A horizontal component of a structure.",
+          "examples": []
+        },
+        {
+          "text": "Horizon.",
+          "examples": []
+        },
+        {
+          "text": "A Tasmanian shrub or small tree whose main trunk tends to lean over and grow horizontally, Anodopetalum biglandulosum",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poziomy",
+    "horyzontalny"
+  ],
+  "fetchedAt": "2026-05-17T21:28:13.737Z"
+}

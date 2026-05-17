@@ -1,0 +1,30 @@
+{
+  "lemma": "village",
+  "slug": "village",
+  "fetchTerm": "village",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rural habitation of size between a hamlet and a town.",
+          "examples": [
+            "There are 2 churches and 3 shops in our village."
+          ]
+        },
+        {
+          "text": "A rural habitation that has a church, but no market.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wieś",
+    "wioska",
+    "siodło",
+    "sioło"
+  ],
+  "fetchedAt": "2026-05-17T21:30:17.844Z"
+}

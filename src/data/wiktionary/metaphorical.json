@@ -1,0 +1,24 @@
+{
+  "lemma": "metaphorical",
+  "slug": "metaphorical",
+  "fetchTerm": "metaphorical",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to or characterized by a metaphor; figurative; symbolic.",
+          "examples": [
+            "metaphorical answer",
+            "metaphorical depiction"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "metaforyczny"
+  ],
+  "fetchedAt": "2026-05-17T21:28:39.145Z"
+}

@@ -1,0 +1,58 @@
+{
+  "lemma": "track",
+  "slug": "track",
+  "fetchTerm": "track",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A mark left by something that has passed along.",
+          "examples": [
+            "Follow the track of the ship.",
+            "Can you see any tracks in the snow?"
+          ]
+        },
+        {
+          "text": "A mark or impression left by the foot, either of man or animal.",
+          "examples": [
+            "The fox tracks were still visible in the snow."
+          ]
+        },
+        {
+          "text": "The entire lower surface of the foot; said of birds, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To continue over time. To observe the (measured) state of a person or object over time.",
+          "examples": [
+            "We will track the raven population over the next six months.",
+            "Agent Miles has been tracking the terrorist since Madrid."
+          ]
+        },
+        {
+          "text": "To observe the (measured) state of a person or object over time.",
+          "examples": [
+            "We will track the raven population over the next six months."
+          ]
+        },
+        {
+          "text": "To monitor the movement of a person or object.",
+          "examples": [
+            "Agent Miles has been tracking the terrorist since Madrid."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ślad"
+  ],
+  "fetchedAt": "2026-05-17T21:29:59.521Z"
+}

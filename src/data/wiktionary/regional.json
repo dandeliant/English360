@@ -1,0 +1,44 @@
+{
+  "lemma": "regional",
+  "slug": "regional",
+  "fetchTerm": "regional",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, or pertaining to, a specific region or district.",
+          "examples": [
+            "regional playoffs"
+          ]
+        },
+        {
+          "text": "Of, or pertaining to, a large geographic region.",
+          "examples": [
+            "regional rainfall patterns"
+          ]
+        },
+        {
+          "text": "Of, or pertaining to, one part of the body.",
+          "examples": [
+            "regional nerve block"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An entity or event with scope limited to a single region.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "regionalny"
+  ],
+  "fetchedAt": "2026-05-17T21:29:25.769Z"
+}

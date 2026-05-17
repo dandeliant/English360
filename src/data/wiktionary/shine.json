@@ -1,0 +1,67 @@
+{
+  "lemma": "shine",
+  "slug": "shine",
+  "fetchTerm": "shine",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To emit or reflect light so as to glow.",
+          "examples": []
+        },
+        {
+          "text": "To reflect light.",
+          "examples": []
+        },
+        {
+          "text": "To distinguish oneself; to excel.",
+          "examples": [
+            "My nephew tried other sports before deciding on football, which he shone at right away, quickly becoming the star of his school team."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Brightness from a source of light.",
+          "examples": []
+        },
+        {
+          "text": "Brightness from reflected light.",
+          "examples": []
+        },
+        {
+          "text": "Excellence in quality or appearance; splendour.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (something) to be smooth and shiny by rubbing; put a shine on (something); polish (something).",
+          "examples": [
+            "He shined my shoes until they were polished smooth and gleaming."
+          ]
+        },
+        {
+          "text": "To polish a cricket ball using saliva and one’s clothing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "świecić",
+    "błyszczeć",
+    "błyszczeć się",
+    "lśnić",
+    "błyskotać"
+  ],
+  "fetchedAt": "2026-05-17T21:29:35.933Z"
+}

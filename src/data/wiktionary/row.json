@@ -1,0 +1,104 @@
+{
+  "lemma": "row",
+  "slug": "row",
+  "fetchTerm": "row",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Dela-Oenale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A line of objects, often regularly spaced, such as seats in a theatre, vegetable plants in a garden, etc.",
+          "examples": []
+        },
+        {
+          "text": "A horizontal line of entries in a table, etc., going from left to right, as opposed to a column going from top to bottom.",
+          "examples": []
+        },
+        {
+          "text": "Clipping of cornrow.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To propel (a boat or other craft) over water using oars.",
+          "examples": []
+        },
+        {
+          "text": "To transport in a boat propelled with oars.",
+          "examples": [
+            "to row the captain ashore in his barge"
+          ]
+        },
+        {
+          "text": "To be moved by oars.",
+          "examples": [
+            "The boat rows easily."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act or instance of rowing.",
+          "examples": [
+            "I went for an early-morning row."
+          ]
+        },
+        {
+          "text": "Any of several thematically similar exercise movements performed with a pulling motion of the arms towards the back.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A noisy argument.",
+          "examples": [
+            "There was a row among the oarsmen about how to row."
+          ]
+        },
+        {
+          "text": "A continual loud noise.",
+          "examples": [
+            "Who's making that row?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To argue noisily.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rząd",
+    "szereg",
+    "wiersz",
+    "wiosłować",
+    "awantura"
+  ],
+  "fetchedAt": "2026-05-17T21:29:31.488Z"
+}

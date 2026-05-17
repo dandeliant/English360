@@ -1,0 +1,58 @@
+{
+  "lemma": "think",
+  "slug": "think",
+  "fetchTerm": "think",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ponder, to go over in one's mind.",
+          "examples": [
+            "Idly, the detective thought what his next move should be."
+          ]
+        },
+        {
+          "text": "To have (some statement) in one's mind; to say to oneself mentally.",
+          "examples": [
+            "\"I should phone my mother,\" I thought."
+          ]
+        },
+        {
+          "text": "To communicate to oneself in one's mind, to try to find a solution to a problem.",
+          "examples": [
+            "I thought for three hours about the problem and still couldn’t find the solution."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of thinking; consideration (of something).",
+          "examples": [
+            "I'll have a think about that and let you know."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To seem, to appear.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zastanawiać się",
+    "myśleć",
+    "pomyśleć",
+    "uważać"
+  ],
+  "fetchedAt": "2026-05-17T21:29:54.771Z"
+}

@@ -1,0 +1,22 @@
+{
+  "lemma": "atmosphere",
+  "slug": "atmosphere",
+  "fetchTerm": "atmosphere",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The gases surrounding the Earth or any astronomical body.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "atmosfera",
+    "nastrój"
+  ],
+  "fetchedAt": "2026-05-17T21:27:02.534Z"
+}

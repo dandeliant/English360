@@ -1,0 +1,29 @@
+{
+  "lemma": "warmth",
+  "slug": "warmth",
+  "fetchTerm": "warmth",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A moderate degree of heat; the sensation of being warm.",
+          "examples": []
+        },
+        {
+          "text": "Friendliness, kindness or affection.",
+          "examples": []
+        },
+        {
+          "text": "Fervor, intensity of emotion or expression.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciepło"
+  ],
+  "fetchedAt": "2026-05-17T21:30:20.351Z"
+}

@@ -1,0 +1,52 @@
+{
+  "lemma": "mirror",
+  "slug": "mirror",
+  "fetchTerm": "mirror",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A smooth surface, usually made of glass with reflective material painted on the underside, that reflects light so as to give an image of what is in front of it.",
+          "examples": [
+            "I had a look in the mirror to see if the blood had come off my face.",
+            "He broke the mirror with the pickaxe."
+          ]
+        },
+        {
+          "text": "An object, person, or event that reflects or gives a picture of another.",
+          "examples": [
+            "His story is a mirror into the life of orphans growing up."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reflect, as in a mirror.",
+          "examples": []
+        },
+        {
+          "text": "To act as a reflection of, either by being identical to, or by being identical but reversed.",
+          "examples": [
+            "The placement of the paintings mirrored the positions of the windows on the opposite wall."
+          ]
+        },
+        {
+          "text": "Of an event, activity, behavior, to be identical to; to be a copy of; to imitate closely.",
+          "examples": [
+            "He tried to mirror Elvis's life by copying his fashion and mannerisms."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lustro",
+    "zwierciadło"
+  ],
+  "fetchedAt": "2026-05-17T21:28:42.093Z"
+}

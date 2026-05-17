@@ -1,0 +1,110 @@
+{
+  "lemma": "least",
+  "slug": "least",
+  "fetchTerm": "least",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Chiefly preceded by the: superlative form of little: most little.",
+          "examples": [
+            "least common multiple",
+            "least weasel"
+          ]
+        },
+        {
+          "text": "Chiefly used with abstract nouns: less than all others in extent or size; littlest, smallest.",
+          "examples": [
+            "least common multiple",
+            "least weasel"
+          ]
+        },
+        {
+          "text": "Of two or more animals or plants with the same name: the smaller or smallest.",
+          "examples": [
+            "least weasel"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Chiefly preceded by the: superlative form of little: most little. Smallest in amount or extent.",
+          "examples": [
+            "He earns the least money in his family.",
+            "Of all the sisters, she has the least patience."
+          ]
+        },
+        {
+          "text": "Smallest in amount or extent.",
+          "examples": [
+            "He earns the least money in his family.",
+            "Of all the sisters, she has the least patience."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a degree below all others; in the lowest or smallest degree.",
+          "examples": [
+            "My best routine was the one I had practised the least.",
+            "I don’t much like housework, and doing the dishes least of all."
+          ]
+        },
+        {
+          "text": "Used to form superlatives of adjectives, especially those that do not form the superlative by adding -est.",
+          "examples": [
+            "It was the least surprising thing."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Preceded by the: superlative form of little: most little; the lowest-ranking or most insignificant person or group of people.",
+          "examples": [
+            "even the least of",
+            "The pastor preached that even the least of God’s creatures deserves freedom from needless or idle cruelty."
+          ]
+        },
+        {
+          "text": "Something of the smallest possible extent; an indivisible unit; a minimum.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Chiefly preceded by the: superlative form of little: most little; the smallest amount or extent of something.",
+          "examples": [
+            "I’m giving least of all towards her present."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Prepositional phrase",
+      "definitions": [
+        {
+          "text": "At least.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "najmniej"
+  ],
+  "fetchedAt": "2026-05-17T21:28:24.137Z"
+}

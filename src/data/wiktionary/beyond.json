@@ -1,0 +1,67 @@
+{
+  "lemma": "beyond",
+  "slug": "beyond",
+  "fetchTerm": "beyond",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Further away than.",
+          "examples": []
+        },
+        {
+          "text": "On the far side of.",
+          "examples": [
+            "No swimming beyond this point."
+          ]
+        },
+        {
+          "text": "Later than; after.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Farther along or away.",
+          "examples": [
+            "next year and beyond"
+          ]
+        },
+        {
+          "text": "In addition; more.",
+          "examples": []
+        },
+        {
+          "text": "extremely, more than",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The unknown.",
+          "examples": []
+        },
+        {
+          "text": "The hereafter.",
+          "examples": []
+        },
+        {
+          "text": "Something that is far beyond.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poza"
+  ],
+  "fetchedAt": "2026-05-17T21:27:09.112Z"
+}

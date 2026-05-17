@@ -1,0 +1,31 @@
+{
+  "lemma": "proscenium",
+  "slug": "proscenium",
+  "fetchTerm": "proscenium",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The stage area between the curtain and the orchestra.",
+          "examples": []
+        },
+        {
+          "text": "The stage area immediately in front of the scene building.",
+          "examples": []
+        },
+        {
+          "text": "The row of columns at the front of the scene building, at first directly behind the circular orchestra but later upon a stage.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "proscenium",
+    "przedscenie",
+    "awanscena"
+  ],
+  "fetchedAt": "2026-05-17T21:29:13.101Z"
+}

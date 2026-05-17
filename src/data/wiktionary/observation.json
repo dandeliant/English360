@@ -1,0 +1,33 @@
+{
+  "lemma": "observation",
+  "slug": "observation",
+  "fetchTerm": "observation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of observing, and the fact of being observed (see observance)",
+          "examples": []
+        },
+        {
+          "text": "The act of noting and recording some event; or the record of such noting.",
+          "examples": []
+        },
+        {
+          "text": "A remark or comment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obserwacja",
+    "spostrzeżenie",
+    "ogląd",
+    "komentarz",
+    "uwaga"
+  ],
+  "fetchedAt": "2026-05-17T21:28:49.303Z"
+}

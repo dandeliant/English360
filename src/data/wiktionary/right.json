@@ -1,0 +1,112 @@
+{
+  "lemma": "right",
+  "slug": "right",
+  "fetchTerm": "right",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in most humans. This arrow points to the reader's right: →",
+          "examples": [
+            "After the accident, her right leg was slightly shorter than her left."
+          ]
+        },
+        {
+          "text": "Clockwise, particularly when describing a change in direction or orientation.",
+          "examples": [
+            "The road up ahead contains a right bend.",
+            "Rotate the bolt to the right to tighten it."
+          ]
+        },
+        {
+          "text": "Complying with justice, correctness, or reason; correct, just, true. See also the interjection senses below.",
+          "examples": [
+            "That's not the right thing to do.",
+            "So I was right all along? C'mon. I want to hear you say it."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On the right side.",
+          "examples": []
+        },
+        {
+          "text": "Towards the right side.",
+          "examples": []
+        },
+        {
+          "text": "Exactly, precisely.",
+          "examples": [
+            "The arrow landed right in the middle of the target.",
+            "Luckily we arrived right at the start of the film."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Yes, that is correct; I agree.",
+          "examples": [
+            "— United's the best team in the country.— Right. And they'll go all the way for sure.— Damn right they will."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which complies with justice, law or reason.",
+          "examples": [
+            "We're on the side of right in this contest."
+          ]
+        },
+        {
+          "text": "A legal, just or moral entitlement.",
+          "examples": [
+            "You have no right to go through my personal diary."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To correct.",
+          "examples": [
+            "Righting all the wrongs of the war immediately will be impossible."
+          ]
+        },
+        {
+          "text": "To set upright.",
+          "examples": [
+            "The tow-truck righted what was left of the automobile."
+          ]
+        },
+        {
+          "text": "To return to normal upright position.",
+          "examples": [
+            "When the wind died down, the ship righted."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prostować",
+    "sprostować",
+    "wyprostować",
+    "poprawiać",
+    "poprawić"
+  ],
+  "fetchedAt": "2026-05-17T21:29:28.650Z"
+}

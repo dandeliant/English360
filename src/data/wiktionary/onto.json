@@ -1,0 +1,47 @@
+{
+  "lemma": "onto",
+  "slug": "onto",
+  "fetchTerm": "onto",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Arriving upon or on top of (speaking of a physical or metaphorical movement).",
+          "examples": [
+            "My cat just jumped onto the keyboard.",
+            "A new drug has just come onto the market."
+          ]
+        },
+        {
+          "text": "Aware of.",
+          "examples": [
+            "The thought-police were onto my plans of world domination."
+          ]
+        },
+        {
+          "text": "Being an onto function with a codomain of (see below).",
+          "examples": [
+            "The exponential function maps the set of real numbers onto the set of positive real numbers."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Attaining each of the values in its codomain; having its image equal to its codomain.",
+          "examples": [
+            "Considered as a function on the real numbers, the exponential function is not onto, as it never takes on values less than or equal to zero."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "na"
+  ],
+  "fetchedAt": "2026-05-17T21:28:54.229Z"
+}

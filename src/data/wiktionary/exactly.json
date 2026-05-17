@@ -1,0 +1,45 @@
+{
+  "lemma": "exactly",
+  "slug": "exactly",
+  "fetchTerm": "exactly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Without approximation; precisely.",
+          "examples": [
+            "Measure exactly so we can be sure it is right.",
+            "The edge is not exactly straight."
+          ]
+        },
+        {
+          "text": "Precisely, used to provide emphasis.",
+          "examples": [
+            "He did it that way exactly to prove the point."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Signifies agreement or recognition.",
+          "examples": [
+            "So you're saying that we have only three days left? — Yes, exactly!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dokładnie",
+    "ściśle",
+    "precyzyjnie",
+    "właśnie",
+    "no właśnie"
+  ],
+  "fetchedAt": "2026-05-17T21:27:55.403Z"
+}

@@ -1,0 +1,57 @@
+{
+  "lemma": "within",
+  "slug": "within",
+  "fetchTerm": "within",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In the inner part, spatially; physically inside.",
+          "examples": [
+            "within her studio"
+          ]
+        },
+        {
+          "text": "In the scope or range of.",
+          "examples": [
+            "within his hearing; her within five seconds of breaking the record; within an inch of falling overboard"
+          ]
+        },
+        {
+          "text": "Before the specified duration ends.",
+          "examples": [
+            "Leave here within three days."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or into the interior; inside.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In the context of which the present document or ruling is made.",
+          "examples": [
+            "the within appeal"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wewnątrz",
+    "w przeciągu",
+    "w ciągu"
+  ],
+  "fetchedAt": "2026-05-17T21:30:23.736Z"
+}

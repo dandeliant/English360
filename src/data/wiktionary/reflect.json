@@ -1,0 +1,38 @@
+{
+  "lemma": "reflect",
+  "slug": "reflect",
+  "fetchTerm": "reflect",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bend back (light, etc.) from a surface.",
+          "examples": [
+            "A mirror reflects the light that shines on it."
+          ]
+        },
+        {
+          "text": "To be bent back (light, etc.) from a surface.",
+          "examples": [
+            "The moonlight reflected from the surface of water."
+          ]
+        },
+        {
+          "text": "To mirror, or show the image of something.",
+          "examples": [
+            "The shop window reflected his image as he walked past."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "odbijać",
+    "odbić",
+    "odbijać się",
+    "odbić się"
+  ],
+  "fetchedAt": "2026-05-17T21:29:24.458Z"
+}

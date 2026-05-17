@@ -1,0 +1,41 @@
+{
+  "lemma": "motion",
+  "slug": "motion",
+  "fetchTerm": "motion",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A change whereby something goes from one place to another; a state of progression from one place to another; a change of position with respect to time.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gesture indicating a desired movement.",
+          "examples": [
+            "He motioned for me to come closer.",
+            "Mom motioned me over and ordered me to sit by her side."
+          ]
+        },
+        {
+          "text": "To introduce a motion in parliamentary procedure.",
+          "examples": []
+        },
+        {
+          "text": "To make a proposal; to offer plans.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ruch"
+  ],
+  "fetchedAt": "2026-05-17T21:28:43.524Z"
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "really",
+  "slug": "really",
+  "fetchTerm": "really",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a way or manner that is real, not unreal.",
+          "examples": []
+        },
+        {
+          "text": "Actually; in fact; in reality.",
+          "examples": [
+            "\"He really is a true friend.\" / \"Really? What makes you so sure?\""
+          ]
+        },
+        {
+          "text": "Very (modifying an adjective); very much (modifying a verb).",
+          "examples": [
+            "But ma, I really, really want to go to the show!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Indicating surprise at, or requesting confirmation of, some new information; to express skepticism.",
+          "examples": [
+            "A: He won the Nobel Prize yesterday.",
+            "B: Really?"
+          ]
+        },
+        {
+          "text": "A phatic confirmation by a listener, to signal active listening; mostly devoid of literal meaning, with the phatically contrived incredulity being merely formulaic.",
+          "examples": [
+            "A: You know, I saw Oliver the other day.",
+            "B: Really? What's he been up to?"
+          ]
+        },
+        {
+          "text": "Indicating that what was just said was obvious and unnecessary; contrived incredulity",
+          "examples": [
+            "A: I've just been reading Shakespeare - he's one of the best authors like, ever!",
+            "B: Really?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of re-ally.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "naprawdę",
+    "zaiste",
+    "zaprawdę",
+    "doprawdy",
+    "czyżby"
+  ],
+  "fetchedAt": "2026-05-17T21:29:21.436Z"
+}

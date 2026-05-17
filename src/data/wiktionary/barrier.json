@@ -1,0 +1,47 @@
+{
+  "lemma": "barrier",
+  "slug": "barrier",
+  "fetchTerm": "barrier",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A structure that bars passage.",
+          "examples": [
+            "The bus went through a railway barrier and was hit by a train.",
+            "The bomber had passed through one checkpoint before blowing himself up at a second barrier."
+          ]
+        },
+        {
+          "text": "An obstacle or impediment.",
+          "examples": [
+            "Even a small fee can be a barrier for some students."
+          ]
+        },
+        {
+          "text": "A boundary or limit.",
+          "examples": [
+            "Few marathon runners break the three-hour time barrier."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To block or obstruct with a barrier.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bariera",
+    "barierka",
+    "przeszkoda"
+  ],
+  "fetchedAt": "2026-05-17T21:27:07.712Z"
+}

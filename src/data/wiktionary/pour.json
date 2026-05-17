@@ -1,0 +1,63 @@
+{
+  "lemma": "pour",
+  "slug": "pour",
+  "fetchTerm": "pour",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (liquid, or liquid-like substance) to flow in a stream, either out of a container or into it.",
+          "examples": [
+            "pour water from a jug",
+            "pour wine into a decanter"
+          ]
+        },
+        {
+          "text": "To send out as in a stream or a flood; to cause (an emotion) to come out; to cause to escape.",
+          "examples": [
+            "My teacher poured scorn on my attempts at writing."
+          ]
+        },
+        {
+          "text": "To send forth from, as in a stream; to discharge uninterruptedly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of pouring.",
+          "examples": [
+            "The bartender's inexpert pour left me with a pint of beer that was half foam."
+          ]
+        },
+        {
+          "text": "Something, or an amount, poured.",
+          "examples": []
+        },
+        {
+          "text": "A downpour; a flood of precipitation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of pore.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lać",
+    "sypać"
+  ],
+  "fetchedAt": "2026-05-17T21:29:07.079Z"
+}

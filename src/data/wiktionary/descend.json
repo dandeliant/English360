@@ -1,0 +1,49 @@
+{
+  "lemma": "descend",
+  "slug": "descend",
+  "fetchTerm": "descend",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Senses relating to moving from a higher to a lower position. To pass from a higher to a lower part of (something, such as a flight of stairs or a slope); to go down along or upon.",
+          "examples": [
+            "they descended the river in boats",
+            "to descend a ladder"
+          ]
+        },
+        {
+          "text": "To pass from a higher to a lower part of (something, such as a flight of stairs or a slope); to go down along or upon.",
+          "examples": [
+            "they descended the river in boats",
+            "to descend a ladder"
+          ]
+        },
+        {
+          "text": "Of a flight of stairs, a road, etc.: to lead down (a hill, a slope, etc.).",
+          "examples": [
+            "They took the steep path that descends the hill down to the beach."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of descent (“instance of descending; sloping incline or passage; way down; decline, etc.”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "schodzić",
+    "zejść",
+    "zniżać",
+    "zniżyć"
+  ],
+  "fetchedAt": "2026-05-17T21:27:40.045Z"
+}

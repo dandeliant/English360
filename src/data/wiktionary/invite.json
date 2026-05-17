@@ -1,0 +1,41 @@
+{
+  "lemma": "invite",
+  "slug": "invite",
+  "fetchTerm": "invite",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ask for the presence or participation of someone or something.",
+          "examples": [
+            "We invited our friends round for dinner."
+          ]
+        },
+        {
+          "text": "To request formally.",
+          "examples": [
+            "I invite you all to be seated.",
+            "I always invite criticism of my essays."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An invitation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zapraszać",
+    "zaprosić",
+    "prosić"
+  ],
+  "fetchedAt": "2026-05-17T21:28:19.387Z"
+}

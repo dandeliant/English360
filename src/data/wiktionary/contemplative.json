@@ -1,0 +1,43 @@
+{
+  "lemma": "contemplative",
+  "slug": "contemplative",
+  "fetchTerm": "contemplative",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Inclined to contemplate; introspective and thoughtful; meditative.",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to a religious contemplative, or a contemplative religious orders, especially the Roman Catholic varieties.",
+          "examples": []
+        },
+        {
+          "text": "Relating to, or having the power of, contemplation.",
+          "examples": [
+            "contemplative faculties"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who has dedicated themselves to religious or philosophical contemplation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kontemplacyjny",
+    "medytacyjny",
+    "refleksyjny",
+    "bogomyślny"
+  ],
+  "fetchedAt": "2026-05-17T21:27:28.514Z"
+}

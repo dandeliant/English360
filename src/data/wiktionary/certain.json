@@ -1,0 +1,60 @@
+{
+  "lemma": "certain",
+  "slug": "certain",
+  "fetchTerm": "certain",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Sure in one's mind, positive; absolutely confident in the truth of something.",
+          "examples": [
+            "I was certain of my decision."
+          ]
+        },
+        {
+          "text": "Not to be doubted or denied; established as a fact.",
+          "examples": [
+            "Now that more experiments have been run, the theory is certain and the argument is settled."
+          ]
+        },
+        {
+          "text": "Sure to happen, inevitable; assured.",
+          "examples": [
+            "It is certain that Spain will reach the finals. / Spain is now certain to reach the finals. / Spain is now certain of a place in the finals.",
+            "Bankruptcy is the certain outcome of your constant gambling and lending."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Having been determined but not specified.",
+          "examples": [
+            "Certain people are good at running."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Unnamed or undescribed members (of).",
+          "examples": [
+            "She mentioned a series of contracts, of which certain are not cited."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pewny",
+    "jakiś",
+    "niejaki"
+  ],
+  "fetchedAt": "2026-05-17T21:27:13.805Z"
+}

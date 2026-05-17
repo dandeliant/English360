@@ -1,0 +1,69 @@
+{
+  "lemma": "steel",
+  "slug": "steel",
+  "fetchTerm": "steel",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An artificial metal produced from iron, harder and more elastic than elemental iron; used figuratively as a symbol of hardness.",
+          "examples": []
+        },
+        {
+          "text": "Any item made of this metal, particularly including: Bladed or pointed weapons, as swords, javelins, daggers.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Made of steel.",
+          "examples": []
+        },
+        {
+          "text": "Similar to steel in color, strength, or the like; steely.",
+          "examples": []
+        },
+        {
+          "text": "Of or belonging to the manufacture or trade in steel.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To treat, furnish with, or transform into steel. To edge, cover, or point with steel. To back with steel. To treat a liquid with steel for medicinal purposes. To electroplate an item (particularly an engraving plate) with a layer of iron. To sharpen with a honing steel. To steelify; to turn iron into steel.",
+          "examples": []
+        },
+        {
+          "text": "To edge, cover, or point with steel.",
+          "examples": []
+        },
+        {
+          "text": "To back with steel.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "Coldbath Fields Prison in London, closed in 1877.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stal",
+    "stalowy"
+  ],
+  "fetchedAt": "2026-05-17T21:29:42.143Z"
+}

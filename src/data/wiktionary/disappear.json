@@ -1,0 +1,34 @@
+{
+  "lemma": "disappear",
+  "slug": "disappear",
+  "fetchTerm": "disappear",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To vanish.",
+          "examples": []
+        },
+        {
+          "text": "To go missing; to become a missing person.",
+          "examples": [
+            "Eighteen years after Jaycee Dugard disappeared in 1991, she was found alive in the summer of 2009."
+          ]
+        },
+        {
+          "text": "To go away; to become lost.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "znikać",
+    "zniknąć",
+    "porywać",
+    "porwać"
+  ],
+  "fetchedAt": "2026-05-17T21:27:45.808Z"
+}

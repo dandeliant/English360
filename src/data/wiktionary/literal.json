@@ -1,0 +1,47 @@
+{
+  "lemma": "literal",
+  "slug": "literal",
+  "fetchTerm": "literal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Exactly as stated; read or understood without interpretation; according to the letter; not figurative or metaphorical; following the letter or exact words; not taking liberties; etymonic rather than idiomatic.",
+          "examples": [
+            "The literal translation of Spanish irse al otro barrio is \"to go to the other neighbourhood\" but it means \"to die\".",
+            "A literal reading of the law would prohibit it, but that is clearly not the intent."
+          ]
+        },
+        {
+          "text": "Actual, real, physical.",
+          "examples": []
+        },
+        {
+          "text": "That which generally assumes that the plainest reading of a given text is correct but which allows for metaphor where context indicates it. Following the historical-grammatical method of biblical interpretation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A misprint (or occasionally a scribal error) that affects a letter.",
+          "examples": []
+        },
+        {
+          "text": "A value, as opposed to an identifier, written into the source code of a computer program.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dosłowny",
+    "literalny",
+    "literał"
+  ],
+  "fetchedAt": "2026-05-17T21:28:28.743Z"
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "train",
+  "slug": "train",
+  "fetchTerm": "train",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Elongated or trailing portion. The elongated back portion of a dress or skirt (or an ornamental piece of material added to similar effect), which drags along the ground. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Unfortunately, the leading bridesmaid stepped on the bride's train as they were walking down the aisle."
+          ]
+        },
+        {
+          "text": "The elongated back portion of a dress or skirt (or an ornamental piece of material added to similar effect), which drags along the ground. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Unfortunately, the leading bridesmaid stepped on the bride's train as they were walking down the aisle."
+          ]
+        },
+        {
+          "text": "A trail or line of something, especially gunpowder.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To practice an ability.",
+          "examples": [
+            "She trained seven hours a day to prepare for the Olympics."
+          ]
+        },
+        {
+          "text": "To teach and form (someone) by practice; to educate (someone).",
+          "examples": [
+            "You can't train a pig to write poetry."
+          ]
+        },
+        {
+          "text": "To improve one's fitness.",
+          "examples": [
+            "I trained with weights all winter."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Treachery; deceit.",
+          "examples": []
+        },
+        {
+          "text": "A trick or stratagem.",
+          "examples": []
+        },
+        {
+          "text": "A trap for animals, a snare; a trap in general.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To draw by persuasion, artifice, or the like; to attract by stratagem; to entice; to allure.",
+          "examples": []
+        },
+        {
+          "text": "To be on intimate terms with.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "train oil, whale oil",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tren",
+    "pociąg",
+    "orszak",
+    "świta",
+    "sznur"
+  ],
+  "fetchedAt": "2026-05-17T21:30:02.585Z"
+}

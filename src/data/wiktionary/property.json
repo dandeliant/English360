@@ -1,0 +1,48 @@
+{
+  "lemma": "property",
+  "slug": "property",
+  "fetchTerm": "property",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is owned.",
+          "examples": [
+            "Leave those books alone! They are my property.",
+            "Important types of property include real property (land), personal property (other physical possessions), and intellectual property (rights over artistic creations, inventions, etc.)."
+          ]
+        },
+        {
+          "text": "A piece of real estate, such as a parcel of land.",
+          "examples": [
+            "There is a large house on the property.",
+            "He owns over ten properties in the country."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To invest with properties, or qualities.",
+          "examples": []
+        },
+        {
+          "text": "To make a property of; to appropriate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "własność",
+    "posesja",
+    "posiadłość",
+    "posiadanie",
+    "prawo własności"
+  ],
+  "fetchedAt": "2026-05-17T21:29:08.477Z"
+}

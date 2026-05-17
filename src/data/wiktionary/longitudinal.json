@@ -1,0 +1,47 @@
+{
+  "lemma": "longitudinal",
+  "slug": "longitudinal",
+  "fetchTerm": "longitudinal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Running across a set direction of an object.",
+          "examples": [
+            "The motion about the longitudinal axis of an airplane is called roll."
+          ]
+        },
+        {
+          "text": "Running in the direction of the long axis of a body.",
+          "examples": []
+        },
+        {
+          "text": "Relating to the geographical longitude.",
+          "examples": [
+            "The longitudinal position of a ship refers to its angular distance east or west from the prime meridian."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any longitudinal piece, as in shipbuilding etc.",
+          "examples": []
+        },
+        {
+          "text": "A railway sleeper lying parallel with the rail.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podłużny",
+    "długościowy"
+  ],
+  "fetchedAt": "2026-05-17T21:28:32.017Z"
+}

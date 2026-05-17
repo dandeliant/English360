@@ -1,0 +1,72 @@
+{
+  "lemma": "narrow",
+  "slug": "narrow",
+  "fetchTerm": "narrow",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a small width; not wide; having opposite edges or sides that are close, especially by comparison to length or depth.",
+          "examples": [
+            "a narrow hallway"
+          ]
+        },
+        {
+          "text": "Of little extent; very limited; circumscribed.",
+          "examples": []
+        },
+        {
+          "text": "Restrictive; without flexibility or latitude.",
+          "examples": [
+            "a narrow interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A narrow passage, especially a contracted part of a stream, lake, or sea; a strait connecting two bodies of water.",
+          "examples": [
+            "the narrows of New York harbor"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reduce in width or extent; to contract.",
+          "examples": [
+            "We need to narrow the search."
+          ]
+        },
+        {
+          "text": "To get narrower.",
+          "examples": [
+            "The road narrows."
+          ]
+        },
+        {
+          "text": "To partially lower one's eyelids in a way usually taken to suggest a defensive, aggressive or penetrating look.",
+          "examples": [
+            "He stepped in front of me, narrowing his eyes to slits.",
+            "She wagged her finger in his face, and her eyes narrowed."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wąski",
+    "cienki",
+    "zawężać",
+    "zawęzić",
+    "zwężać"
+  ],
+  "fetchedAt": "2026-05-17T21:28:44.921Z"
+}

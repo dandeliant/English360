@@ -1,0 +1,28 @@
+{
+  "lemma": "railway",
+  "slug": "railway",
+  "fetchTerm": "railway",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A transport system using rails used to move passengers or goods.",
+          "examples": []
+        },
+        {
+          "text": "A track, consisting of parallel rails, over which wheeled vehicles such as trains may travel.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kolej",
+    "linia kolejowa",
+    "kolej żelazna",
+    "tory [[kolejowy"
+  ],
+  "fetchedAt": "2026-05-17T21:29:20.002Z"
+}

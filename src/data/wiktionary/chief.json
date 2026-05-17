@@ -1,0 +1,57 @@
+{
+  "lemma": "chief",
+  "slug": "chief",
+  "fetchTerm": "chief",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The leader or head of a tribe, organisation, business unit, or other group. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "All firefighters report to the fire chief."
+          ]
+        },
+        {
+          "text": "Headship, the status of being a chief or leader.",
+          "examples": [
+            "Bob is our troubleshooter in chief."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Primary; principal.",
+          "examples": [
+            "Negligence was the chief cause of the disaster."
+          ]
+        },
+        {
+          "text": "Intimate, friendly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To smoke cannabis.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wódz",
+    "szef",
+    "kierownik",
+    "naczelnik",
+    "głowica"
+  ],
+  "fetchedAt": "2026-05-17T21:27:16.846Z"
+}
