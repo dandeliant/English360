@@ -1,0 +1,31 @@
+{
+  "lemma": "verdict",
+  "slug": "verdict",
+  "fetchTerm": "verdict",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A decision on an issue of fact in a civil or criminal case or an inquest.",
+          "examples": [
+            "The jury returned a “not guilty” verdict."
+          ]
+        },
+        {
+          "text": "An opinion or judgement.",
+          "examples": [
+            "a “not out” verdict from the umpire"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "orzeczenie",
+    "werdykt",
+    "wyrok"
+  ],
+  "fetchedAt": "2026-05-17T22:36:38.337Z"
+}

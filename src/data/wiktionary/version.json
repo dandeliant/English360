@@ -1,0 +1,40 @@
+{
+  "lemma": "version",
+  "slug": "version",
+  "fetchTerm": "version",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A specific form or variation of something.",
+          "examples": []
+        },
+        {
+          "text": "A translation from one language to another.",
+          "examples": [
+            "It's only in the King James Version of the Bible."
+          ]
+        },
+        {
+          "text": "A school exercise, generally of composition in a foreign language.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To keep track of (a file, document, etc.) in a versioning system.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wersja"
+  ],
+  "fetchedAt": "2026-05-17T22:36:39.734Z"
+}

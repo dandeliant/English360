@@ -1,0 +1,32 @@
+{
+  "lemma": "entirely",
+  "slug": "entirely",
+  "fetchTerm": "entirely",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To the full or entire extent.",
+          "examples": [
+            "It is entirely up to you where we go, as I’ll be happy with anywhere.",
+            "The cake hadn’t entirely been eaten, so some was saved for later."
+          ]
+        },
+        {
+          "text": "To the exclusion of others; solely.",
+          "examples": [
+            "I'm entirely to blame.",
+            "This part of the park is used entirely by the workers; everyone else will have to go to the other side."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "całkowicie",
+    "zupełnie"
+  ],
+  "fetchedAt": "2026-05-17T22:34:33.407Z"
+}

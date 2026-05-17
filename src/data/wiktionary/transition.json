@@ -1,0 +1,46 @@
+{
+  "lemma": "transition",
+  "slug": "transition",
+  "fetchTerm": "transition",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of change from one form, state, style or place to another.",
+          "examples": []
+        },
+        {
+          "text": "A word or phrase connecting one part of a discourse to another.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a transition.",
+          "examples": []
+        },
+        {
+          "text": "To bring through a transition; to change.",
+          "examples": [
+            "The soldier was transitioned from a combat role to a strategic role."
+          ]
+        },
+        {
+          "text": "To change one's gender role or physical and sexual characteristics to conform to one's identified gender.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przekształcenie",
+    "przejście",
+    "tranzycja"
+  ],
+  "fetchedAt": "2026-05-17T22:36:23.005Z"
+}

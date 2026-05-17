@@ -1,0 +1,67 @@
+{
+  "lemma": "tell",
+  "slug": "tell",
+  "fetchTerm": "tell",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Mental senses related to determining, reckoning, or perceiving To determine the number, amount, or value of [something].",
+          "examples": [
+            "All told, there were over a dozen. Can you tell time on a clock? He had untold wealth.",
+            "I can tell that you're thrilled."
+          ]
+        },
+        {
+          "text": "To determine the number, amount, or value of [something].",
+          "examples": [
+            "All told, there were over a dozen. Can you tell time on a clock? He had untold wealth."
+          ]
+        },
+        {
+          "text": "To notice, discern. (Roughly, \"can tell\" means \"know\" but with a sense of direct perception.)",
+          "examples": [
+            "I can tell that you're thrilled.",
+            "You can tell you've struck a nerve when even the crowd stops laughing."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+          "examples": []
+        },
+        {
+          "text": "A giveaway; something that unintentionally reveals or hints at a secret.",
+          "examples": []
+        },
+        {
+          "text": "That which is told; a tale or account.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hill or mound, originally and especially in the Middle East, over or consisting of the ruins of ancient settlements.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "powiedzieć",
+    "mówić",
+    "rzec",
+    "tell",
+    "tall"
+  ],
+  "fetchedAt": "2026-05-17T22:36:15.039Z"
+}

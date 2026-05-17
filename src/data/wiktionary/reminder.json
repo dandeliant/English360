@@ -1,0 +1,29 @@
+{
+  "lemma": "reminder",
+  "slug": "reminder",
+  "fetchTerm": "reminder",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something that reminds.",
+          "examples": [
+            "He left a note as a reminder to get groceries."
+          ]
+        },
+        {
+          "text": "Writing that reminds of open payments.",
+          "examples": [
+            "She ignored first the reminder of 80 cents. At the end, she was sentenced to pay 200 euros!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przypomnienie"
+  ],
+  "fetchedAt": "2026-05-17T22:35:30.929Z"
+}

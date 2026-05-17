@@ -1,0 +1,39 @@
+{
+  "lemma": "characteristic",
+  "slug": "characteristic",
+  "fetchTerm": "characteristic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being a distinguishing feature of a person or thing.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A distinguishing feature of a person or thing, a part of mental or physical behavior.",
+          "examples": []
+        },
+        {
+          "text": "The integer part of a logarithm.",
+          "examples": []
+        },
+        {
+          "text": "The distinguishing features of a navigational light on a lighthouse etc by which it can be identified (colour, pattern of flashes etc.).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "charakterystyczny",
+    "cecha"
+  ],
+  "fetchedAt": "2026-05-17T22:34:05.726Z"
+}

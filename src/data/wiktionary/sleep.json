@@ -1,0 +1,63 @@
+{
+  "lemma": "sleep",
+  "slug": "sleep",
+  "fetchTerm": "sleep",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rest in a state of reduced consciousness.",
+          "examples": [
+            "You should sleep eight hours a day."
+          ]
+        },
+        {
+          "text": "To have sexual intercourse (see sleep with).",
+          "examples": [
+            "Last night we slept together for the first time."
+          ]
+        },
+        {
+          "text": "To accommodate in beds.",
+          "examples": [
+            "This caravan can sleep four people comfortably."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of reduced consciousness during which a human or animal rests in a daily rhythm.",
+          "examples": [
+            "I really need some sleep.",
+            "We need to conduct an overnight sleep test to diagnose your sleep problem."
+          ]
+        },
+        {
+          "text": "An act or instance of sleeping.",
+          "examples": [
+            "I’m just going to have a quick sleep.",
+            "a sound night’s sleep"
+          ]
+        },
+        {
+          "text": "A night.",
+          "examples": [
+            "There are only three sleeps till Christmas!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "spać",
+    "mieścić",
+    "sen",
+    "śpioch"
+  ],
+  "fetchedAt": "2026-05-17T22:35:52.481Z"
+}

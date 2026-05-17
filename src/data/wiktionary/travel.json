@@ -1,0 +1,63 @@
+{
+  "lemma": "travel",
+  "slug": "travel",
+  "fetchTerm": "travel",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be on a journey, often for pleasure or business and with luggage; to go from one place to another.",
+          "examples": [
+            "John seems to spend as much time travelling as he does in the office.",
+            "Snakes do not travel well."
+          ]
+        },
+        {
+          "text": "To pass from one place to another; to move or transmit.",
+          "examples": [
+            "Soundwaves can travel through water.",
+            "The supposedly secret news of Mary's engagement travelled quickly through her group of friends."
+          ]
+        },
+        {
+          "text": "To move illegally by walking or running without dribbling the ball.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of traveling; passage from place to place.",
+          "examples": [
+            "I like travel, but it’s always too tiring.",
+            "space travel"
+          ]
+        },
+        {
+          "text": "A series of journeys.",
+          "examples": [
+            "I’m off on my travels around France again."
+          ]
+        },
+        {
+          "text": "An account of one's travels.",
+          "examples": [
+            "He released his travels in 1900, two years after returning from Africa."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podróżować",
+    "jeździć",
+    "przemieszczać się",
+    "przemierzać",
+    "podróż"
+  ],
+  "fetchedAt": "2026-05-17T22:36:24.464Z"
+}

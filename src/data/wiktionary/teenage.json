@@ -1,0 +1,32 @@
+{
+  "lemma": "teenage",
+  "slug": "teenage",
+  "fetchTerm": "teenage",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to an age between thirteen and nineteen years old.",
+          "examples": [
+            "Fred's teenage years were the most difficult of times."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Brushwood for fences and hedges.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nastoletni"
+  ],
+  "fetchedAt": "2026-05-17T22:36:12.141Z"
+}

@@ -1,0 +1,57 @@
+{
+  "lemma": "class",
+  "slug": "class",
+  "fetchTerm": "class",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group, collection, category or set sharing characteristics or attributes.",
+          "examples": [
+            "The new Ford Fiesta is set to be best in the 'small family' class.",
+            "That is one class-A heifer you got there, sonny."
+          ]
+        },
+        {
+          "text": "A social grouping, based on job, wealth, etc. In Britain, society is commonly split into three main classes: upper class, middle class and working class.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assign to a class; to classify.",
+          "examples": [
+            "I would class this with most of the other mediocre works of the period."
+          ]
+        },
+        {
+          "text": "To be grouped or classed.",
+          "examples": []
+        },
+        {
+          "text": "To divide into classes, as students; to form into, or place in, a class or classes.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "great; fabulous",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "klasa",
+    "kurs"
+  ],
+  "fetchedAt": "2026-05-17T22:34:07.398Z"
+}

@@ -1,0 +1,47 @@
+{
+  "lemma": "contemporary",
+  "slug": "contemporary",
+  "fetchTerm": "contemporary",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "From the same time period, coexistent in time; contemporaneous.",
+          "examples": []
+        },
+        {
+          "text": "Modern, of the present age (shorthand for ‘contemporary with the present’).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something belonging to the same time period (as someone or something else)",
+          "examples": [
+            "Cervantes was a contemporary of Shakespeare.",
+            "The early mammals inherited the earth by surviving their saurian contemporaries."
+          ]
+        },
+        {
+          "text": "Something existing at the same time. A rival newspaper or magazine.",
+          "examples": []
+        },
+        {
+          "text": "A rival newspaper or magazine.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ówczesny",
+    "współczesny",
+    "nowoczesny"
+  ],
+  "fetchedAt": "2026-05-17T22:34:12.080Z"
+}

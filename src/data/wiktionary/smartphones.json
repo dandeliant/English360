@@ -1,0 +1,19 @@
+{
+  "lemma": "smartphones",
+  "slug": "smartphones",
+  "fetchTerm": "smartphones",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of smartphone",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:35:58.165Z"
+}

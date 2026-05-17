@@ -1,0 +1,32 @@
+{
+  "lemma": "correlation",
+  "slug": "correlation",
+  "fetchTerm": "correlation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A reciprocal, parallel or complementary relationship between two or more comparable objects.",
+          "examples": [
+            "clear correlation",
+            "positive correlation"
+          ]
+        },
+        {
+          "text": "One of the several measures of the linear statistical relationship between two random variables, indicating both the strength and direction of the relationship.",
+          "examples": []
+        },
+        {
+          "text": "An isomorphism from a projective space to the dual of a projective space, often to the dual of itself.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "korelacja"
+  ],
+  "fetchedAt": "2026-05-17T22:34:14.605Z"
+}

@@ -1,0 +1,46 @@
+{
+  "lemma": "diagnostic",
+  "slug": "diagnostic",
+  "fetchTerm": "diagnostic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, or relating to diagnosis.",
+          "examples": []
+        },
+        {
+          "text": "Characteristic of a particular disease.",
+          "examples": []
+        },
+        {
+          "text": "Serving to indicate or specify a particular item or thing within a group of similar things.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any technique used in medical diagnosis.",
+          "examples": []
+        },
+        {
+          "text": "Any tool or technique used to find the root of a problem.",
+          "examples": []
+        },
+        {
+          "text": "That by which anything is known; a symptom.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "diagnostyczny"
+  ],
+  "fetchedAt": "2026-05-17T22:34:26.377Z"
+}

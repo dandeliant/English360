@@ -1,0 +1,42 @@
+{
+  "lemma": "visual",
+  "slug": "visual",
+  "fetchTerm": "visual",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Related to or affecting the vision.",
+          "examples": []
+        },
+        {
+          "text": "That can be seen; visible.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any element of something that depends on sight.",
+          "examples": []
+        },
+        {
+          "text": "An image; a picture; a graphic.",
+          "examples": []
+        },
+        {
+          "text": "All the visual elements of a multimedia presentation or entertainment, usually in contrast with normal text or audio.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wizualny"
+  ],
+  "fetchedAt": "2026-05-17T22:36:41.056Z"
+}

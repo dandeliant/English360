@@ -1,0 +1,43 @@
+{
+  "lemma": "parable",
+  "slug": "parable",
+  "fetchTerm": "parable",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short narrative illustrating a lesson (usually religious/moral) by comparison or analogy.",
+          "examples": [
+            "In the New Testament the parables told by Jesus Christ convey His message, as in \"The parable of the prodigal son\".",
+            "Catholic homilies normally draw on at least one Biblical lecture, often parables."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent by parable.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "That can easily be prepared or procured; obtainable.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przypowieść",
+    "parabola"
+  ],
+  "fetchedAt": "2026-05-17T22:35:16.605Z"
+}

@@ -1,0 +1,32 @@
+{
+  "lemma": "deliberately",
+  "slug": "deliberately",
+  "fetchTerm": "deliberately",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Intentionally, or after deliberation; not accidentally.",
+          "examples": [
+            "He deliberately broke that, didn't he?"
+          ]
+        },
+        {
+          "text": "Taking one's time, slowly and carefully.",
+          "examples": [
+            "After being called upon, he strode deliberately up to the blackboard."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "celowo",
+    "rozmyślnie",
+    "umyślnie",
+    "uważnie"
+  ],
+  "fetchedAt": "2026-05-17T22:34:21.915Z"
+}

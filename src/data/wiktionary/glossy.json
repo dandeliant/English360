@@ -1,0 +1,48 @@
+{
+  "lemma": "glossy",
+  "slug": "glossy",
+  "fetchTerm": "glossy",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a smooth, silklike, reflective (shiny) surface.",
+          "examples": [
+            "glossy hair",
+            "glossy magazine"
+          ]
+        },
+        {
+          "text": "Attention-grabbing and superficially attractive.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A glossy magazine.",
+          "examples": [
+            "The supermarket glossies are full of celebrity gossip and fad diets."
+          ]
+        },
+        {
+          "text": "A glossy photograph.",
+          "examples": []
+        },
+        {
+          "text": "A film depicting people with glamorous lifestyles.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lśniący",
+    "błyszczący"
+  ],
+  "fetchedAt": "2026-05-17T22:34:45.308Z"
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "steep",
+  "slug": "steep",
+  "fetchTerm": "steep",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a near-vertical gradient; of a slope, surface, curve, etc. that proceeds upward at an angle near vertical.",
+          "examples": [
+            "a steep hill or mountain; a steep roof; a steep ascent; a steep barometric gradient"
+          ]
+        },
+        {
+          "text": "Expensive.",
+          "examples": [
+            "Twenty quid for a shave? That's a bit steep."
+          ]
+        },
+        {
+          "text": "Difficult to access; not easy reached; lofty; elevated; high.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The steep side of a mountain etc.; a slope or acclivity.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To soak or wet thoroughly.",
+          "examples": [
+            "They steep skins in a tanning solution to create leather.",
+            "The tea is steeping."
+          ]
+        },
+        {
+          "text": "To imbue with something; to be deeply immersed in.",
+          "examples": [
+            "a town steeped in history"
+          ]
+        },
+        {
+          "text": "To make tea (or other beverage) by placing leaves in hot water.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A liquid used in a steeping process",
+          "examples": [
+            "Corn steep has many industrial uses."
+          ]
+        },
+        {
+          "text": "A rennet bag.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stromy",
+    "zaparzać",
+    "zaparzyć"
+  ],
+  "fetchedAt": "2026-05-17T22:36:06.891Z"
+}

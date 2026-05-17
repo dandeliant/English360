@@ -1,0 +1,38 @@
+{
+  "lemma": "peculiarly",
+  "slug": "peculiarly",
+  "fetchTerm": "peculiarly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Such as to be greater than usual; particularly; exceptionally. To greater degree than is usual.",
+          "examples": [
+            "He has a peculiarly strong accent.",
+            "This racehorse is peculiarly fast."
+          ]
+        },
+        {
+          "text": "To greater degree than is usual.",
+          "examples": [
+            "He has a peculiarly strong accent.",
+            "This racehorse is peculiarly fast."
+          ]
+        },
+        {
+          "text": "In a manner that is greater than usual.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "specyficznie",
+    "szczególnie",
+    "osobliwie",
+    "dziwnie"
+  ],
+  "fetchedAt": "2026-05-17T22:35:18.823Z"
+}

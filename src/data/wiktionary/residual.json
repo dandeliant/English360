@@ -1,0 +1,36 @@
+{
+  "lemma": "residual",
+  "slug": "residual",
+  "fetchTerm": "residual",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, or remaining as a residue; left over.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A remainder left over at the end of some process.",
+          "examples": []
+        },
+        {
+          "text": "Payments made to performers, writers and directors when a recorded broadcast is repeated.",
+          "examples": []
+        },
+        {
+          "text": "The difference between the observed value and the estimated value of the quantity of interest.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:35:33.748Z"
+}

@@ -1,0 +1,45 @@
+{
+  "lemma": "social",
+  "slug": "social",
+  "fetchTerm": "social",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being extroverted or outgoing.",
+          "examples": [
+            "James is a very social guy; he knows lots of people."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A festive gathering to foster introductions.",
+          "examples": [
+            "They organized a social at the dance club to help people get to know one another."
+          ]
+        },
+        {
+          "text": "A dance held to raise money, often held for a couple to be married.",
+          "examples": []
+        },
+        {
+          "text": "Ellipsis of social security.",
+          "examples": [
+            "Fred hated going down to the social to sign on."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "towarzyski",
+    "społeczny"
+  ],
+  "fetchedAt": "2026-05-17T22:35:59.666Z"
+}

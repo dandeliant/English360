@@ -1,0 +1,60 @@
+{
+  "lemma": "joke",
+  "slug": "joke",
+  "fetchTerm": "joke",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An amusing story.",
+          "examples": []
+        },
+        {
+          "text": "Something said or done for amusement, not in seriousness.",
+          "examples": [
+            "It was a joke!"
+          ]
+        },
+        {
+          "text": "A laughably worthless thing or person; a sham.",
+          "examples": [
+            "Your effort at cleaning your room is a joke.",
+            "The president was a joke."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do or say something for amusement rather than seriously.",
+          "examples": [
+            "I didn’t mean what I said — I was only joking."
+          ]
+        },
+        {
+          "text": "(intransitive, followed by with) To dupe in a friendly manner for amusement; to mess with, play with.",
+          "examples": [
+            "Relax, man, I'm just joking with you."
+          ]
+        },
+        {
+          "text": "To make merry with; to make jokes upon; to rally.",
+          "examples": [
+            "to joke a comrade"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dowcip",
+    "kawał",
+    "żart",
+    "żartować"
+  ],
+  "fetchedAt": "2026-05-17T22:34:55.130Z"
+}

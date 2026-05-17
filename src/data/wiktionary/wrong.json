@@ -1,0 +1,89 @@
+{
+  "lemma": "wrong",
+  "slug": "wrong",
+  "fetchTerm": "wrong",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Incorrect or untrue.",
+          "examples": [
+            "Some of your answers were correct, and some were wrong."
+          ]
+        },
+        {
+          "text": "Asserting something incorrect or untrue.",
+          "examples": [
+            "You're wrong: he's not Superman at all."
+          ]
+        },
+        {
+          "text": "Immoral, not good, bad.",
+          "examples": [
+            "It is wrong to lie."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a way that isn't right; incorrectly, wrongly.",
+          "examples": [
+            "I spelled several names wrong in my address book.",
+            "You're doing it all wrong!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is immoral or not good.",
+          "examples": [
+            "Injustice is a heinous wrong."
+          ]
+        },
+        {
+          "text": "An instance of wronging someone (sometimes with possessive to indicate the wrongdoer).",
+          "examples": []
+        },
+        {
+          "text": "The incorrect or unjust position or opinion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To treat unjustly; to injure or harm; to do wrong by.",
+          "examples": [
+            "The dealer wronged us by selling us this lemon of a car."
+          ]
+        },
+        {
+          "text": "To deprive of some right, or to withhold some act of justice.",
+          "examples": []
+        },
+        {
+          "text": "To slander; to impute evil to unjustly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "błędny",
+    "mylny",
+    "zły",
+    "nieprawidłowy",
+    "niewłaściwy"
+  ],
+  "fetchedAt": "2026-05-17T22:36:47.165Z"
+}

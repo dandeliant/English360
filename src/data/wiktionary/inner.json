@@ -1,0 +1,52 @@
+{
+  "lemma": "inner",
+  "slug": "inner",
+  "fetchTerm": "inner",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being or occurring (farther) inside, situated farther in, located (situated) or happening on the inside of something, situated within or farther within contained within something.",
+          "examples": [
+            "inner door; inner room; inner sanctum; inner surface"
+          ]
+        },
+        {
+          "text": "Close to the centre, located near or closer to center.",
+          "examples": [
+            "the inner suburbs"
+          ]
+        },
+        {
+          "text": "Inside or closer to the inside of the body.",
+          "examples": [
+            "inner ear"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An inner part.",
+          "examples": []
+        },
+        {
+          "text": "A duvet, excluding the cover.",
+          "examples": []
+        },
+        {
+          "text": "A forward who plays in or near the center of the field.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wewnętrzny"
+  ],
+  "fetchedAt": "2026-05-17T22:34:53.620Z"
+}

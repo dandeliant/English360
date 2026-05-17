@@ -1,0 +1,45 @@
+{
+  "lemma": "object",
+  "slug": "object",
+  "fetchTerm": "object",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thing that has physical existence but is not alive.",
+          "examples": []
+        },
+        {
+          "text": "Objective; goal, end or purpose of something.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To disagree with or oppose something or someone; to raise an objection.",
+          "examples": [
+            "I object to the proposal to build a new airport terminal.",
+            "We strongly object to sending her to jail for ten years."
+          ]
+        },
+        {
+          "text": "To offer in opposition as a criminal charge or by way of accusation or reproach; to adduce as an objection or adverse reason.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przedmiot",
+    "obiekt",
+    "rzecz",
+    "dopełnienie",
+    "sprzeciwiać się"
+  ],
+  "fetchedAt": "2026-05-17T22:35:14.018Z"
+}

@@ -1,0 +1,64 @@
+{
+  "lemma": "another",
+  "slug": "another",
+  "fetchTerm": "another",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "One more further, in addition to the quantity by then; a second or additional one, similar in likeness or in effect.",
+          "examples": [
+            "Yes, I'd like another slice of cake, thanks."
+          ]
+        },
+        {
+          "text": "Not the same; different.",
+          "examples": [
+            "Do you know another way to do this job?"
+          ]
+        },
+        {
+          "text": "Any or some other, similar in likeness or in effect, instead.",
+          "examples": [
+            "One gold ingot is valued the same as another, but gemstones are valued individually."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "An additional one of the same kind.",
+          "examples": [
+            "This napkin fell to the floor, could you please bring me another?",
+            "There is one sterling and here is another"
+          ]
+        },
+        {
+          "text": "One that is different from the current one.",
+          "examples": [
+            "I saw one movie, but I think I will see another.",
+            "I've thought about moving to another city at one time or another."
+          ]
+        },
+        {
+          "text": "One of a group of things of the same kind.",
+          "examples": [
+            "His interests keep shifting from one thing to another."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jeszcze",
+    "jeden",
+    "kolejny",
+    "następny",
+    "inny"
+  ],
+  "fetchedAt": "2026-05-17T22:33:41.109Z"
+}

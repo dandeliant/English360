@@ -1,0 +1,35 @@
+{
+  "lemma": "advertise",
+  "slug": "advertise",
+  "fetchTerm": "advertise",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give (especially public) notice of (something); to announce publicly. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To provide information about a person or goods and services to influence others.",
+          "examples": [
+            "For personal needs, advertise on the internet or in a local newspaper."
+          ]
+        },
+        {
+          "text": "To provide public information about (a product, service etc.) in order to attract public awareness and increase sales.",
+          "examples": [
+            "Over the air, they advertise their product on drive-time radio talk shows and TV news shows."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ogłaszać",
+    "ogłosić",
+    "reklamować"
+  ],
+  "fetchedAt": "2026-05-17T22:33:36.838Z"
+}

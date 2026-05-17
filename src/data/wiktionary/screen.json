@@ -1,0 +1,57 @@
+{
+  "lemma": "screen",
+  "slug": "screen",
+  "fetchTerm": "screen",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A physical divider intended to block an area from view, or provide shelter from something dangerous.",
+          "examples": [
+            "a fire screen"
+          ]
+        },
+        {
+          "text": "A material woven from fine wires intended to block animals or large particles from passing while allowing gasses, liquids and finer particles to pass. A frame supporting a mesh of bars or wires used to classify fragments of stone by size, allowing the passage of fragments whose a diameter is smaller than the distance between the bars or wires. The protective netting which protects the audience from flying objects",
+          "examples": [
+            "Jones caught the foul up against the screen."
+          ]
+        },
+        {
+          "text": "A frame supporting a mesh of bars or wires used to classify fragments of stone by size, allowing the passage of fragments whose a diameter is smaller than the distance between the bars or wires.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To filter by passing through a screen.",
+          "examples": [
+            "Mary screened the beans to remove the clumps of gravel."
+          ]
+        },
+        {
+          "text": "To filter.",
+          "examples": [
+            "Passenger baggage was screened by X-ray to look for weapons."
+          ]
+        },
+        {
+          "text": "To shelter or conceal.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "siatka",
+    "ekran",
+    "przesiew",
+    "emitować"
+  ],
+  "fetchedAt": "2026-05-17T22:35:44.824Z"
+}

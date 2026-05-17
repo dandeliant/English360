@@ -1,0 +1,95 @@
+{
+  "lemma": "sharp",
+  "slug": "sharp",
+  "fetchTerm": "sharp",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Terminating in a point or edge, especially one that can cut or pierce easily; not dull, obtuse, or rounded.",
+          "examples": [
+            "I keep my knives sharp so that they don't slip unexpectedly while carving.",
+            "Ernest made the pencil too sharp and accidentally stabbed himself with it."
+          ]
+        },
+        {
+          "text": "Intelligent.",
+          "examples": [
+            "My nephew is a sharp lad; he can count to 100 in six languages, and he's only five years old."
+          ]
+        },
+        {
+          "text": "Raised by one semitone (denoted by the symbol ⟨♯⟩ after the name of the note).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a sharp manner: a less usual alternative to sharply in certain senses. To a point or edge. Piercingly. Eagerly. So as to make a sharp, or tight, angle.",
+          "examples": [
+            "South of the city the river turns sharp to the east.",
+            "sharp left, sharp right"
+          ]
+        },
+        {
+          "text": "To a point or edge.",
+          "examples": []
+        },
+        {
+          "text": "Piercingly.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The symbol ⟨♯⟩, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played one chromatic semitone higher.",
+          "examples": [
+            "The pitch pipe sounded out a perfect F♯ (F sharp).",
+            "Transposition frequently is harder to read because of all the sharps and flats on the staff."
+          ]
+        },
+        {
+          "text": "A note that is played one chromatic semitone higher than usual; denoted by the name of the note that is followed by the symbol ⟨♯⟩.",
+          "examples": []
+        },
+        {
+          "text": "A note that is sharp in a particular key.",
+          "examples": [
+            "The piece was difficult to read after it had been transposed, since in the new key many notes were sharps."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To raise the pitch of a note half a step making a natural note a sharp.",
+          "examples": [
+            "That new musician must be tone deaf: he sharped half the notes of the song!"
+          ]
+        },
+        {
+          "text": "To play tricks in bargaining; to act the sharper.",
+          "examples": []
+        },
+        {
+          "text": "To sharpen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ostry"
+  ],
+  "fetchedAt": "2026-05-17T22:35:49.245Z"
+}

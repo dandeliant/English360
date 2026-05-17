@@ -1,0 +1,143 @@
+{
+  "lemma": "bad",
+  "slug": "bad",
+  "fetchTerm": "bad",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-5 language code for Banda languages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of low quality.",
+          "examples": [
+            "That movie was really bad!"
+          ]
+        },
+        {
+          "text": "Inaccurate; incorrect",
+          "examples": [
+            "A bad guess.",
+            "This sentence has bad grammar!"
+          ]
+        },
+        {
+          "text": "Unfavorable; negative; not good.",
+          "examples": [
+            "Hiring practice is very bad in this company.",
+            "The weather looks pretty bad right now."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not covered by funds on account.",
+          "examples": [
+            "He gave me a bad check."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bold, daring, and tough.",
+          "examples": [
+            "He's the baddest guy in town!"
+          ]
+        },
+        {
+          "text": "Good, superlative, excellent, cool.",
+          "examples": [
+            "Man, that new car you bought is bad!",
+            "You is bad, man!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Badly; poorly.",
+          "examples": [
+            "I didn't do too bad in the last exam.",
+            "He is quite bad off now that both his parents lost their jobs."
+          ]
+        },
+        {
+          "text": "Badly; severely, extremely, passionately, eagerly.",
+          "examples": [
+            "Please come back, baby. I miss you so bad!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is bad; a harm or evil.",
+          "examples": []
+        },
+        {
+          "text": "Error; mistake.",
+          "examples": []
+        },
+        {
+          "text": "An item (or kind of item) of merchandise with negative value; an unwanted good. English Wikipedia has an article on:bad (economics)Wikipedia",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to scold a misbehaving child or pet.",
+          "examples": [
+            "Bad! You know you're not allowed in the kitchen after dinner."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "alternative past of bid. See bade.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shell (a walnut).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zły",
+    "kiepski",
+    "uszkodzony",
+    "wadliwy",
+    "nieświeży"
+  ],
+  "fetchedAt": "2026-05-17T22:33:49.358Z"
+}

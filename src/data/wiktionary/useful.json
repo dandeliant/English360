@@ -1,0 +1,26 @@
+{
+  "lemma": "useful",
+  "slug": "useful",
+  "fetchTerm": "useful",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a practical or beneficial use.",
+          "examples": [
+            "prove useful",
+            "practically useful"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pożyteczny",
+    "przydatny",
+    "użyteczny"
+  ],
+  "fetchedAt": "2026-05-17T22:36:34.399Z"
+}

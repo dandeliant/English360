@@ -1,0 +1,108 @@
+{
+  "lemma": "top",
+  "slug": "top",
+  "fetchTerm": "top",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Papantla Totonac.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The highest or uppermost part of something.",
+          "examples": [
+            "His kite got caught at the top of the tree.",
+            "We flipped the machine onto its top."
+          ]
+        },
+        {
+          "text": "The part of something that is usually highest or uppermost.",
+          "examples": [
+            "We flipped the machine onto its top."
+          ]
+        },
+        {
+          "text": "The uppermost part of a page, picture, viewing screen, etc.",
+          "examples": [
+            "Further weather information can be found at the top of your television screen.",
+            "Headings appear at the tops of pages."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover on the top or with a top.",
+          "examples": [
+            "I like my ice cream topped with chocolate sauce."
+          ]
+        },
+        {
+          "text": "To exceed in height.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Situated on the top of something.",
+          "examples": []
+        },
+        {
+          "text": "Best; of the highest quality, fame or rank.",
+          "examples": [
+            "She's in the top dance school."
+          ]
+        },
+        {
+          "text": "Very good, of high quality, power, or rank.",
+          "examples": [
+            "He's a top lawyer.",
+            "That is a top car."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Best, highest.",
+          "examples": [
+            "Our product is top-rated on all major platforms.",
+            "This is the top-performing school in the area."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "The signal among tailors and seamstresses for snuffing the candle. The last of them to cry \"top\" had to snuff the candle.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wierzch",
+    "wierzchołek",
+    "góra",
+    "top",
+    "aktyw"
+  ],
+  "fetchedAt": "2026-05-17T22:36:20.061Z"
+}

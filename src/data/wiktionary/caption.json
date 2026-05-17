@@ -1,0 +1,45 @@
+{
+  "lemma": "caption",
+  "slug": "caption",
+  "fetchTerm": "caption",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The descriptive heading or title, of a document or part thereof.",
+          "examples": []
+        },
+        {
+          "text": "A title or brief explanation attached to an illustration, cartoon, user interface element, etc.",
+          "examples": []
+        },
+        {
+          "text": "A piece of text appearing on screen as a subtitle or other part of a film or broadcast, describing dialogue (and sometimes other sound) for viewers who cannot hear.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To add captions to a text or illustration.",
+          "examples": [
+            "Only once the drawing is done will the letterer caption it."
+          ]
+        },
+        {
+          "text": "To add captions to a film or broadcast.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podpis",
+    "napisy"
+  ],
+  "fetchedAt": "2026-05-17T22:34:02.793Z"
+}

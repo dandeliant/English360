@@ -1,0 +1,39 @@
+{
+  "lemma": "saturday",
+  "slug": "saturday",
+  "fetchTerm": "Saturday",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The seventh day of the week in many religious traditions, and the sixth day of the week in systems using the ISO 8601 norm; the Jewish Sabbath; it follows Friday and precedes Sunday.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On Saturday.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend Saturday (at a place or doing an activity).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sobota"
+  ],
+  "fetchedAt": "2026-05-17T22:35:43.210Z"
+}

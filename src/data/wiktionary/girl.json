@@ -1,0 +1,46 @@
+{
+  "lemma": "girl",
+  "slug": "girl",
+  "fetchTerm": "girl",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A female child.",
+          "examples": [
+            "I saw a little girl feeding, brushing, and talking to a heifer."
+          ]
+        },
+        {
+          "text": "A woman, especially a young and often attractive woman.",
+          "examples": [
+            "He has a crush on a girl at work. We were kidding with him yesterday about his work crush."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To feminize or girlify; to gender as a girl or as for girls.",
+          "examples": []
+        },
+        {
+          "text": "To staff with or as a girl or girls.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziewczyna",
+    "dziewczę",
+    "dziewa",
+    "dziewczynka",
+    "dziołcha"
+  ],
+  "fetchedAt": "2026-05-17T22:34:42.394Z"
+}

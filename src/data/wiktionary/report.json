@@ -1,0 +1,52 @@
+{
+  "lemma": "report",
+  "slug": "report",
+  "fetchTerm": "report",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To relate details of (an event or incident); to recount, describe (something). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To repeat (something one has heard), to retell; to pass on, convey (a message, information etc.).",
+          "examples": []
+        },
+        {
+          "text": "To take oneself (to someone or something) for guidance or support; to appeal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject).",
+          "examples": [
+            "A report by the telecommunications ministry on the phone network revealed a severe capacity problem."
+          ]
+        },
+        {
+          "text": "Reputation.",
+          "examples": []
+        },
+        {
+          "text": "The sharp, loud sound from a gun or explosion.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "raportować",
+    "zaraportować",
+    "sprawozdawać",
+    "sprawozdać",
+    "raport"
+  ],
+  "fetchedAt": "2026-05-17T22:35:32.452Z"
+}

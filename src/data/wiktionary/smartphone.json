@@ -1,0 +1,21 @@
+{
+  "lemma": "smartphone",
+  "slug": "smartphone",
+  "fetchTerm": "smartphone",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A mobile phone with more advanced features and greater computing capacity than a featurephone.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "smartfon"
+  ],
+  "fetchedAt": "2026-05-17T22:35:56.929Z"
+}

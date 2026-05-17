@@ -1,0 +1,29 @@
+{
+  "lemma": "causation",
+  "slug": "causation",
+  "fetchTerm": "causation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of causing.",
+          "examples": []
+        },
+        {
+          "text": "The act or agency by which an effect is produced.",
+          "examples": []
+        },
+        {
+          "text": "Cause and effect.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przyczynowość"
+  ],
+  "fetchedAt": "2026-05-17T22:34:04.309Z"
+}

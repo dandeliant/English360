@@ -1,0 +1,59 @@
+{
+  "lemma": "familiar",
+  "slug": "familiar",
+  "fetchTerm": "familiar",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Known to one, or generally known; commonplace.",
+          "examples": [
+            "There’s a familiar face; that tune sounds familiar."
+          ]
+        },
+        {
+          "text": "Acquainted.",
+          "examples": [
+            "I'm quite familiar with this system; she's not familiar with manual gears."
+          ]
+        },
+        {
+          "text": "Intimate or friendly.",
+          "examples": [
+            "We are on familiar terms now; our neighbour is not familiar",
+            "Don’t be familiar with me, boy!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An attendant spirit, often in animal or demon form.",
+          "examples": [
+            "The witch’s familiar was a black cat."
+          ]
+        },
+        {
+          "text": "A member of one's family or household.",
+          "examples": []
+        },
+        {
+          "text": "A member of a pope's or bishop's household.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "znany",
+    "znajomy",
+    "nieobcy",
+    "bliski",
+    "poufały"
+  ],
+  "fetchedAt": "2026-05-17T22:34:37.470Z"
+}

@@ -1,0 +1,45 @@
+{
+  "lemma": "historic",
+  "slug": "historic",
+  "fetchTerm": "historic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very important; noteworthy: having importance or significance in history.",
+          "examples": [
+            "A historic opportunity",
+            "July 4, 1776, is a historic date. A great deal of historical research has been done on the events leading up to that day."
+          ]
+        },
+        {
+          "text": "Old-fashioned, untouched by modernity.",
+          "examples": []
+        },
+        {
+          "text": "Synonym of historical: of, concerning, or in accordance with recorded history or the past generally (See usage notes.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A history, a non-fiction account of the past.",
+          "examples": []
+        },
+        {
+          "text": "A historian.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "historyczny"
+  ],
+  "fetchedAt": "2026-05-17T22:34:52.072Z"
+}

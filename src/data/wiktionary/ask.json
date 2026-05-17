@@ -1,0 +1,82 @@
+{
+  "lemma": "ask",
+  "slug": "ask",
+  "fetchTerm": "ask",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Ashkun.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To request or petition. To request (information, or an answer to a question).",
+          "examples": [
+            "I asked her age.",
+            "I didn't know the answer so I asked."
+          ]
+        },
+        {
+          "text": "To request (information, or an answer to a question).",
+          "examples": [
+            "I asked her age.",
+            "I didn't know the answer so I asked."
+          ]
+        },
+        {
+          "text": "To request or enquire of (a person).",
+          "examples": [
+            "I asked her (for) her age.",
+            "I’m going to ask this lady (for) directions."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act or instance of asking.",
+          "examples": []
+        },
+        {
+          "text": "Something asked or asked for.",
+          "examples": [
+            "I know this is a big ask, but …"
+          ]
+        },
+        {
+          "text": "An asking price.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An eft; newt.",
+          "examples": []
+        },
+        {
+          "text": "A lizard.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pytać",
+    "zapytać",
+    "prosić",
+    "poprosić"
+  ],
+  "fetchedAt": "2026-05-17T22:33:46.071Z"
+}

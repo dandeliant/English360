@@ -1,0 +1,58 @@
+{
+  "lemma": "need",
+  "slug": "need",
+  "fetchTerm": "need",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A requirement for something; something needed.",
+          "examples": [
+            "There's no need to speculate; we can easily find out for sure.",
+            "She grew irritated with his constant need for attention."
+          ]
+        },
+        {
+          "text": "A desire or craving for the satisfaction of a requirement perceived as essential or primal.",
+          "examples": []
+        },
+        {
+          "text": "Lack of means of subsistence; poverty; indigence; destitution.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have an absolute requirement for.",
+          "examples": [
+            "Living things need water to survive.",
+            "You do not always need to go to the library to study. You may use the Internet."
+          ]
+        },
+        {
+          "text": "To want strongly; to feel that one must have something.",
+          "examples": [
+            "After ten days of hiking, I needed a shower and a shave."
+          ]
+        },
+        {
+          "text": "To be obliged or required (to do something).",
+          "examples": [
+            "I need not go if I don't want to, need I?",
+            "I was wondering if I need fill in more forms. - No, that's the only one you need fill out."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "potrzeba",
+    "potrzebować"
+  ],
+  "fetchedAt": "2026-05-17T22:35:09.504Z"
+}

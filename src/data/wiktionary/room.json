@@ -1,0 +1,79 @@
+{
+  "lemma": "room",
+  "slug": "room",
+  "fetchTerm": "room",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An opportunity or scope (to do something). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Space for something, or to carry out an activity.",
+          "examples": []
+        },
+        {
+          "text": "A particular portion of space.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reside, especially as a boarder or tenant.",
+          "examples": [
+            "Doctor Watson roomed with Sherlock Holmes at Baker Street."
+          ]
+        },
+        {
+          "text": "To assign to a room; to allocate a room to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Wide; spacious; roomy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Far; at a distance; wide in space or extent.",
+          "examples": []
+        },
+        {
+          "text": "Off from the wind.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of roum (“deep blue dye”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "miejsce",
+    "przestrzeń",
+    "pokój",
+    "izba",
+    "pomieszczenie"
+  ],
+  "fetchedAt": "2026-05-17T22:35:37.550Z"
+}

@@ -1,0 +1,46 @@
+{
+  "lemma": "complicate",
+  "slug": "complicate",
+  "fetchTerm": "complicate",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make complex; to modify so as to make something intricate or difficult.",
+          "examples": []
+        },
+        {
+          "text": "To involve in a convoluted matter.",
+          "examples": [
+            "Don't complicate yourself in issues that are beyond the scope of your understanding.",
+            "John has been complicated in the affair by new tapes that surfaced."
+          ]
+        },
+        {
+          "text": "To coexist with (another disease) creating a complication.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Intertwined.",
+          "examples": []
+        },
+        {
+          "text": "Complex, complicated.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "komplikować",
+    "skomplikować"
+  ],
+  "fetchedAt": "2026-05-17T22:34:08.804Z"
+}

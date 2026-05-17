@@ -1,0 +1,28 @@
+{
+  "lemma": "knowingly",
+  "slug": "knowingly",
+  "fetchTerm": "knowingly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In the manner of one who knows.",
+          "examples": [
+            "She smiled knowingly, but kept the secret."
+          ]
+        },
+        {
+          "text": "With knowledge of all relevant facts.",
+          "examples": [
+            "She would never knowingly pour any pollutant down the drain.",
+            "We keep our prices low and are never knowingly undersold."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:34:58.058Z"
+}

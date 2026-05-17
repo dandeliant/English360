@@ -1,0 +1,50 @@
+{
+  "lemma": "rotten",
+  "slug": "rotten",
+  "fetchTerm": "rotten",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of perishable items, overridden with bacteria and other infectious agents.",
+          "examples": [
+            "If you leave a bin unattended for a few weeks, the rubbish inside will turn rotten."
+          ]
+        },
+        {
+          "text": "In a state of decay.",
+          "examples": [
+            "The floors were damaged and the walls were rotten.",
+            "His mouth stank and his teeth were rotten."
+          ]
+        },
+        {
+          "text": "Cruel, mean or immoral.",
+          "examples": [
+            "That man is a rotten father.",
+            "This rotten policy will create more injustice in this country."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To an extreme degree.",
+          "examples": [
+            "That kid is spoilt rotten.",
+            "The girls fancy him something rotten."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zgniły",
+    "zepsuty"
+  ],
+  "fetchedAt": "2026-05-17T22:35:40.333Z"
+}

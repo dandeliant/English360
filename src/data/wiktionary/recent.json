@@ -1,0 +1,43 @@
+{
+  "lemma": "recent",
+  "slug": "recent",
+  "fetchTerm": "recent",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having happened a short while ago.",
+          "examples": []
+        },
+        {
+          "text": "Up-to-date; not old-fashioned or dated.",
+          "examples": []
+        },
+        {
+          "text": "Having done something a short while ago that distinguishes them as what they are called.",
+          "examples": [
+            "The cause has several hundred recent donors.",
+            "I met three recent graduates at the conference."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A recently viewed or accessed item.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ostatni",
+    "świeży",
+    "niedawny"
+  ],
+  "fetchedAt": "2026-05-17T22:35:27.436Z"
+}

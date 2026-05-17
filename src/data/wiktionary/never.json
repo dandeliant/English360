@@ -1,0 +1,55 @@
+{
+  "lemma": "never",
+  "slug": "never",
+  "fetchTerm": "never",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At no time; on no occasion; in no circumstance.",
+          "examples": [
+            "I finally finished, and I never do wanna do it again.",
+            "We were at the same college, but happened never to meet."
+          ]
+        },
+        {
+          "text": "Not at any other time; not on any other occasion; not previously.",
+          "examples": []
+        },
+        {
+          "text": "Negative particle (used to negate verbs in the simple past tense; also used absolutely).",
+          "examples": [
+            "The police say I stole the car, but I never did it.",
+            "You said you were going to mow the lawn today. – I never!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Did not; didn't.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A statement of defiance",
+          "examples": [
+            "‘Guess what, I've won the pools!’ ‘Never!’"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nigdy"
+  ],
+  "fetchedAt": "2026-05-17T22:35:10.843Z"
+}

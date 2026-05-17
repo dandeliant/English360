@@ -1,0 +1,19 @@
+{
+  "lemma": "unmonitored",
+  "slug": "unmonitored",
+  "fetchTerm": "unmonitored",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not monitored; unwatched",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:36:30.859Z"
+}

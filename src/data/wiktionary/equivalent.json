@@ -1,0 +1,57 @@
+{
+  "lemma": "equivalent",
+  "slug": "equivalent",
+  "fetchTerm": "equivalent",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Similar or identical in value, meaning or effect; virtually equal.",
+          "examples": [
+            "To burn calories, a thirty-minute jog is equivalent to a couple of hamburgers."
+          ]
+        },
+        {
+          "text": "Of two sets, having a one-to-one correspondence.",
+          "examples": []
+        },
+        {
+          "text": "Relating to the corresponding elements of an equivalence relation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Anything that is virtually equal to something else, or has the same value, force, etc.",
+          "examples": []
+        },
+        {
+          "text": "An equivalent weight.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make equivalent to; to equal.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "równoważny",
+    "ekwiwalentny",
+    "odpowiedni",
+    "odpowiadający",
+    "odpowiednik"
+  ],
+  "fetchedAt": "2026-05-17T22:34:34.775Z"
+}

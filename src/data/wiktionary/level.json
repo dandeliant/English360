@@ -1,0 +1,79 @@
+{
+  "lemma": "level",
+  "slug": "level",
+  "fetchTerm": "level",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "The same height at all places; parallel to a flat ground.",
+          "examples": [
+            "This table isn't quite level; see how this marble rolls off it?"
+          ]
+        },
+        {
+          "text": "At the same height as some reference; constructed as level with.",
+          "examples": [
+            "We tried to hang the pictures so that the bottom of the frames were level with the dark line in the wallpaper."
+          ]
+        },
+        {
+          "text": "Unvaried in frequency.",
+          "examples": [
+            "His pulse has been level for 12 hours."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A tool for finding whether a surface is level, or for creating a horizontal or vertical line of reference.",
+          "examples": [
+            "Hand me the level so I can tell if this is correctly installed."
+          ]
+        },
+        {
+          "text": "A distance relative to a given reference elevation.",
+          "examples": [
+            "By the end of the day, we'd dug down to the level of the old basement floor."
+          ]
+        },
+        {
+          "text": "Degree or amount.",
+          "examples": [
+            "The sound level is much too high; this hurts my ears.",
+            "We've reached a new level of success."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To adjust so as to make as flat or perpendicular to the ground as possible.",
+          "examples": [
+            "You can level the table by turning the pads that screw into the feet."
+          ]
+        },
+        {
+          "text": "To destroy by reducing to ground level; to raze.",
+          "examples": [
+            "The hurricane leveled the forest."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poziomy",
+    "poziomica",
+    "poziom",
+    "stopień"
+  ],
+  "fetchedAt": "2026-05-17T22:34:59.378Z"
+}

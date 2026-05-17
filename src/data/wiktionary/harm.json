@@ -1,0 +1,48 @@
+{
+  "lemma": "harm",
+  "slug": "harm",
+  "fetchTerm": "harm",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Physical injury; hurt; damage.",
+          "examples": [
+            "No harm came to my possessions.",
+            "You can do a lot of harm to someone if you kick them in the teeth."
+          ]
+        },
+        {
+          "text": "Emotional or figurative hurt.",
+          "examples": [
+            "Although not physically injured in the car accident, she received some psychological harm."
+          ]
+        },
+        {
+          "text": "Detriment; misfortune.",
+          "examples": [
+            "I wish him no harm."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To damage, hurt, or injure something, usually an inanimate object.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szkoda",
+    "krzywda",
+    "krzywdzić",
+    "uszkadzać"
+  ],
+  "fetchedAt": "2026-05-17T22:34:48.496Z"
+}

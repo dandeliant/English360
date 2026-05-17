@@ -1,0 +1,29 @@
+{
+  "lemma": "disturbance",
+  "slug": "disturbance",
+  "fetchTerm": "disturbance",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of disturbing, being disturbed.",
+          "examples": []
+        },
+        {
+          "text": "Something that disturbs.",
+          "examples": [
+            "That guy causes a lot of trouble, you know, he’s such a disturbance."
+          ]
+        },
+        {
+          "text": "A noisy commotion that causes a hubbub or interruption.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:34:30.616Z"
+}

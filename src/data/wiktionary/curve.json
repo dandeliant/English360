@@ -1,0 +1,72 @@
+{
+  "lemma": "curve",
+  "slug": "curve",
+  "fetchTerm": "curve",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bent without angles; crooked; curved.",
+          "examples": [
+            "a curve line",
+            "a curve surface"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A gentle bend, such as in a road.",
+          "examples": [
+            "You should slow down when approaching a curve."
+          ]
+        },
+        {
+          "text": "A simple figure containing no straight portions and no angles; a curved line.",
+          "examples": [
+            "She scribbled a curve on the paper."
+          ]
+        },
+        {
+          "text": "A grading system based on the scale of performance of a group used to normalize a right-skewed grade distribution (with more lower scores) into a bell curve, so that more can receive higher grades, regardless of their actual knowledge of the subject.",
+          "examples": [
+            "The teacher was nice and graded the test on a curve."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bend; to crook.",
+          "examples": [
+            "to curve a line",
+            "to curve a pipe"
+          ]
+        },
+        {
+          "text": "To cause to swerve from a straight course.",
+          "examples": [
+            "to curve a ball in pitching it"
+          ]
+        },
+        {
+          "text": "To bend or turn gradually from a given direction.",
+          "examples": [
+            "the road curves to the right"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zakręt",
+    "krzywa"
+  ],
+  "fetchedAt": "2026-05-17T22:34:16.066Z"
+}

@@ -1,0 +1,68 @@
+{
+  "lemma": "twin",
+  "slug": "twin",
+  "fetchTerm": "twin",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Either of two people (or, less commonly, animals) who shared the same uterus at the same time; one who was born at the same birth as a sibling.",
+          "examples": []
+        },
+        {
+          "text": "Either of two similar or closely related objects, entities etc.",
+          "examples": []
+        },
+        {
+          "text": "A room in a hotel, guesthouse, etc. with two beds; a twin room.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To separate, divide.",
+          "examples": []
+        },
+        {
+          "text": "To split, part; to go away, depart.",
+          "examples": []
+        },
+        {
+          "text": "To join, unite; to form links between (now especially of two places in different countries); to pair with.",
+          "examples": [
+            "Reading, the English town, is twinned with Clonmel in Ireland.",
+            "Coventry twinned with Dresden as an act of peace and reconciliation, both cities having been heavily bombed during the war."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Double; dual; occurring as a matching pair.",
+          "examples": [
+            "twin beds, twin socks"
+          ]
+        },
+        {
+          "text": "Forming a pair of twins.",
+          "examples": [
+            "the twin boys"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bliźniak",
+    "bliźniaczka",
+    "bliźniaczy"
+  ],
+  "fetchedAt": "2026-05-17T22:36:27.459Z"
+}

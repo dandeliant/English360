@@ -1,0 +1,49 @@
+{
+  "lemma": "glass",
+  "slug": "glass",
+  "fetchTerm": "glass",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An amorphous solid, often transparent substance, usually made by melting silica sand with various additives (for most purposes, a mixture of soda, potash and lime is added).",
+          "examples": [
+            "This tabletop is made of glass.",
+            "A popular myth is that window glass is actually an extremely viscous liquid."
+          ]
+        },
+        {
+          "text": "Any amorphous solid (one without a regular crystal lattice).",
+          "examples": [
+            "Metal glasses, unlike those based on silica, are electrically conductive, which can be either an advantage or a disadvantage, depending on the application."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fit with glass; to glaze.",
+          "examples": []
+        },
+        {
+          "text": "To enclose in glass.",
+          "examples": []
+        },
+        {
+          "text": "Clipping of fibreglass (“to fit, cover, fill, or build, with fibreglass-reinforced resin composite (fiberglass)”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szkło",
+    "szklanka",
+    "kieliszek"
+  ],
+  "fetchedAt": "2026-05-17T22:34:43.951Z"
+}

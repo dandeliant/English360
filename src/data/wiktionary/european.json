@@ -1,0 +1,19 @@
+{
+  "lemma": "european",
+  "slug": "european",
+  "fetchTerm": "Europeans",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "plural of European",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:34:36.014Z"
+}

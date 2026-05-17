@@ -1,0 +1,34 @@
+{
+  "lemma": "ripen",
+  "slug": "ripen",
+  "fetchTerm": "ripen",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "to grow ripe; to become mature (said of grain, fruit, flowers etc.)",
+          "examples": [
+            "Grapes ripen in the sun."
+          ]
+        },
+        {
+          "text": "To approach or come to perfection.",
+          "examples": []
+        },
+        {
+          "text": "To cause (something) to mature; to make ripe",
+          "examples": [
+            "The warm sun ripened the corn."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dojrzewać",
+    "dojrzeć"
+  ],
+  "fetchedAt": "2026-05-17T22:35:36.014Z"
+}

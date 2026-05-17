@@ -1,0 +1,71 @@
+{
+  "lemma": "name",
+  "slug": "name",
+  "fetchTerm": "name",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+          "examples": [
+            "I've never liked the name my parents gave me so I changed it at the age of twenty.",
+            "What's your name? Puddintane. Ask me again and I'll tell you the same."
+          ]
+        },
+        {
+          "text": "A reputation.",
+          "examples": []
+        },
+        {
+          "text": "An abusive or insulting epithet.",
+          "examples": [
+            "Stop calling me names!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give a name to.",
+          "examples": [
+            "One visitor named Hou Yugang said he was not too concerned about climate change and Baishui’s melting."
+          ]
+        },
+        {
+          "text": "To mention, specify.",
+          "examples": [
+            "He named his demands.",
+            "You name it!"
+          ]
+        },
+        {
+          "text": "To identify as relevant or important",
+          "examples": [
+            "naming the problem"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of several types of true yam (Dioscorea) used in Caribbean Spanish cooking.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "imię",
+    "nazwa",
+    "reputacja",
+    "sława",
+    "nazywać"
+  ],
+  "fetchedAt": "2026-05-17T22:35:07.980Z"
+}

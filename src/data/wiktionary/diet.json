@@ -1,0 +1,75 @@
+{
+  "lemma": "diet",
+  "slug": "diet",
+  "fetchTerm": "diet",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The food and beverage a person or animal consumes.",
+          "examples": [
+            "The diet of the giant panda consists mainly of bamboo."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Containing less fat, salt, sugar, or calories than normal, or claimed to have such.",
+          "examples": [
+            "diet soda"
+          ]
+        },
+        {
+          "text": "Having certain traits subtracted.",
+          "examples": [
+            "You folks reduce it to the bible only as being authoritative, impoverishing the faith. \"Christianity Lite\", diet Christianity for those who can't handle the Whole Meal."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To modify one's food and beverage intake so as to decrease or increase body weight or influence health.",
+          "examples": [
+            "I've been dieting for six months, and I've lost some weight."
+          ]
+        },
+        {
+          "text": "To regulate the food of (someone); to put on a diet.",
+          "examples": []
+        },
+        {
+          "text": "To eat; to take one's meals.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A council or assembly of leaders; a formal deliberative assembly.",
+          "examples": [
+            "the National Diet of Japan",
+            "They were given representation in some important diet committees."
+          ]
+        },
+        {
+          "text": "A session of exams.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dieta"
+  ],
+  "fetchedAt": "2026-05-17T22:34:27.975Z"
+}

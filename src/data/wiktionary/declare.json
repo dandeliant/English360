@@ -1,0 +1,33 @@
+{
+  "lemma": "declare",
+  "slug": "declare",
+  "fetchTerm": "declare",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make clear, explain, interpret.",
+          "examples": []
+        },
+        {
+          "text": "To assert or announce formally, officially, explicitly, or emphatically.",
+          "examples": [
+            "He declared him innocent.",
+            "declare bankruptcy"
+          ]
+        },
+        {
+          "text": "To inform government customs or taxation officials of goods one is importing or of income, expenses, or other circumstances affecting one's taxes.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "deklarować",
+    "zadeklarować"
+  ],
+  "fetchedAt": "2026-05-17T22:34:20.537Z"
+}

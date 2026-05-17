@@ -1,0 +1,63 @@
+{
+  "lemma": "hide",
+  "slug": "hide",
+  "fetchTerm": "hide",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put (something) in a place where it will be out of sight or harder to discover.",
+          "examples": [
+            "He hides his magazines under the bed.",
+            "The father hid the gift behind him."
+          ]
+        },
+        {
+          "text": "To put oneself in a place where one will be out of sight or harder to find.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The skin of an animal.",
+          "examples": []
+        },
+        {
+          "text": "The human skin.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To beat with a whip made from hide.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A unit of land and tax assessment of varying size, originally as intended to support one household with dependents. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chować",
+    "schować",
+    "ukrywać",
+    "ukryć",
+    "skrywać"
+  ],
+  "fetchedAt": "2026-05-17T22:34:50.357Z"
+}

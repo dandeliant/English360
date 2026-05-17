@@ -1,0 +1,32 @@
+{
+  "lemma": "moralism",
+  "slug": "moralism",
+  "fetchTerm": "moralism",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act or practice of moralizing (making moral reflections or judging the morality of others).",
+          "examples": []
+        },
+        {
+          "text": "A maxim or saying believed by the speaker to embody a moral truth; an instance of moralizing.",
+          "examples": []
+        },
+        {
+          "text": "Religious practice that focuses on morality while placing little emphasis on doctrine or the metaphysical; adherence to a system of morality with little or no reference to religion.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "moralizm",
+    "moralizatorstwo",
+    "moralizowanie",
+    "morał"
+  ],
+  "fetchedAt": "2026-05-17T22:35:06.207Z"
+}

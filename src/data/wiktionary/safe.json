@@ -1,0 +1,62 @@
+{
+  "lemma": "safe",
+  "slug": "safe",
+  "fetchTerm": "safe",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not in danger; out of harm's reach.",
+          "examples": [
+            "You’ll be safe from the storm here in the cabin."
+          ]
+        },
+        {
+          "text": "Free from risk.",
+          "examples": [
+            "It’s safe to eat this berry."
+          ]
+        },
+        {
+          "text": "Providing protection from danger; providing shelter.",
+          "examples": [
+            "We have to find a safe spot, where we can hide out until this is over."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A box, usually made of metal, in which valuables can be locked for safekeeping.",
+          "examples": []
+        },
+        {
+          "text": "A condom.",
+          "examples": []
+        },
+        {
+          "text": "A ventilated or refrigerated chest or closet for securing provisions from noxious animals or insects.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make something safe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bezpieczny",
+    "sejf"
+  ],
+  "fetchedAt": "2026-05-17T22:35:41.831Z"
+}

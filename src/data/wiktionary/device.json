@@ -1,0 +1,31 @@
+{
+  "lemma": "device",
+  "slug": "device",
+  "fetchTerm": "device",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any piece of equipment made for a particular purpose, especially a mechanical or electrical one.",
+          "examples": []
+        },
+        {
+          "text": "A peripheral device; an item of hardware.",
+          "examples": []
+        },
+        {
+          "text": "A project or scheme, often designed to deceive; a stratagem; an artifice. 1602, Shakespeare, The Merry Wives of Windsor. \"This is our device,/ That Falstaff at that oak shall meet with us.\"",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "urządzenie",
+    "przyrząd",
+    "aparat"
+  ],
+  "fetchedAt": "2026-05-17T22:34:23.379Z"
+}

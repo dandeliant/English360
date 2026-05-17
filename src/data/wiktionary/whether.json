@@ -1,0 +1,50 @@
+{
+  "lemma": "whether",
+  "slug": "whether",
+  "fetchTerm": "whether",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Introduces a simple indirect question (without a correlative).",
+          "examples": [
+            "Whether we'll be on time I'm unsure.",
+            "Do you know whether he's coming?"
+          ]
+        },
+        {
+          "text": "Indicates doubt between possibilities (usually with correlative or).",
+          "examples": [
+            "He chose the correct answer, but whether by luck or by skill I don't know.",
+            "I can't decide whether to get divorced now or wait."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Which of two.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Which of two. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czy",
+    "czy ... czy"
+  ],
+  "fetchedAt": "2026-05-17T22:36:42.602Z"
+}

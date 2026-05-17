@@ -1,0 +1,58 @@
+{
+  "lemma": "state",
+  "slug": "state",
+  "fetchTerm": "state",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A condition; a set of circumstances applying at any given time.",
+          "examples": [
+            "a state of being",
+            "a state of emergency"
+          ]
+        },
+        {
+          "text": "A complete description of a system, consisting of parameters that determine all properties of the system.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To declare to be a fact.",
+          "examples": [
+            "He stated that he was willing to help."
+          ]
+        },
+        {
+          "text": "To make known.",
+          "examples": [
+            "State your intentions."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Stately.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "państwo",
+    "stan",
+    "kondycja",
+    "twierdzić",
+    "stwierdzać"
+  ],
+  "fetchedAt": "2026-05-17T22:36:01.229Z"
+}

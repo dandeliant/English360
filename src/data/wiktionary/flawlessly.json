@@ -1,0 +1,21 @@
+{
+  "lemma": "flawlessly",
+  "slug": "flawlessly",
+  "fetchTerm": "flawlessly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a flawless manner.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bezbłędnie"
+  ],
+  "fetchedAt": "2026-05-17T22:34:40.849Z"
+}

@@ -1,0 +1,68 @@
+{
+  "lemma": "moral",
+  "slug": "moral",
+  "fetchTerm": "moral",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to principles of right and wrong in behaviour, especially for teaching right behaviour.",
+          "examples": [
+            "moral judgments; a moral poem",
+            "a moral obligation"
+          ]
+        },
+        {
+          "text": "Conforming to a standard of right behaviour; sanctioned by or operative on one's conscience or ethical judgment.",
+          "examples": [
+            "a moral action"
+          ]
+        },
+        {
+          "text": "Capable of right and wrong action.",
+          "examples": [
+            "a moral agent"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The ethical significance or practical lesson.",
+          "examples": [
+            "The moral of The Boy Who Cried Wolf is that if you repeatedly lie, people won't believe you when you tell the truth."
+          ]
+        },
+        {
+          "text": "Moral practices or teachings: modes of conduct.",
+          "examples": [
+            "a candidate with strong morals"
+          ]
+        },
+        {
+          "text": "A depiction of good or heroic actions.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To moralize.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "moralny",
+    "morał",
+    "[[morał"
+  ],
+  "fetchedAt": "2026-05-17T22:35:04.953Z"
+}

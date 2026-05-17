@@ -1,0 +1,60 @@
+{
+  "lemma": "british",
+  "slug": "british",
+  "fetchTerm": "British",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The residents or inhabitants of Great Britain.",
+          "examples": []
+        },
+        {
+          "text": "The citizens or inhabitants of the United Kingdom.",
+          "examples": []
+        },
+        {
+          "text": "The earlier inhabitants of southern Britain, prior to the Anglo-Saxon invasion and subsequent migrations.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The Celtic language of the ancient Britons; Common Brittonic.",
+          "examples": []
+        },
+        {
+          "text": "The British English language.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of Britain.",
+          "examples": []
+        },
+        {
+          "text": "Of the United Kingdom.",
+          "examples": []
+        },
+        {
+          "text": "Of the Commonwealth of Nations, or the British Empire.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Brytyjczycy",
+    "brytyjski"
+  ],
+  "fetchedAt": "2026-05-17T22:33:59.933Z"
+}

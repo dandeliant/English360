@@ -1,0 +1,19 @@
+{
+  "lemma": "sleeplessness",
+  "slug": "sleeplessness",
+  "fetchTerm": "sleeplessness",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Lack of sleep; the property of being sleepless; the inability to sleep, insomnia.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:35:55.580Z"
+}

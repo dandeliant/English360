@@ -1,0 +1,56 @@
+{
+  "lemma": "among",
+  "slug": "among",
+  "fetchTerm": "among",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Of a person or thing: in the midst of and surrounded by (other people or things).",
+          "examples": [
+            "to put the cat among the pigeons",
+            "How can you speak with authority about their customs when you have never lived among them?"
+          ]
+        },
+        {
+          "text": "Associated with or living alongside (other people or things).",
+          "examples": [
+            "How can you speak with authority about their customs when you have never lived among them?"
+          ]
+        },
+        {
+          "text": "Belonging to (a group comprising similar people or things).",
+          "examples": [
+            "He is among the few who completely understand the subject."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Along with (someone or something); together.",
+          "examples": []
+        },
+        {
+          "text": "At the same time, all the while, meanwhile.",
+          "examples": []
+        },
+        {
+          "text": "In addition, beside.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wśród",
+    "pośród",
+    "między",
+    "pomiędzy"
+  ],
+  "fetchedAt": "2026-05-17T22:33:39.689Z"
+}

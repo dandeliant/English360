@@ -1,0 +1,53 @@
+{
+  "lemma": "phone",
+  "slug": "phone",
+  "fetchTerm": "phone",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+          "examples": [
+            "Daragh's on the phone at the moment. He'll call you when he's finished.",
+            "My phone ran out of battery."
+          ]
+        },
+        {
+          "text": "A person's telephone number (as a means of contact); digits.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To call (someone) using a telephone.",
+          "examples": [
+            "Phone me as soon as you land at the airport.",
+            "Her father told her to phone him to pick her up in case it started raining heavily."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A speech segment that possesses distinct physical or perceptual properties, considered as a physical event without regard to its place in the phonology of a language.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dzwonić",
+    "zadzwonić",
+    "telefonować",
+    "zatelefonować",
+    "głoska"
+  ],
+  "fetchedAt": "2026-05-17T22:35:20.166Z"
+}

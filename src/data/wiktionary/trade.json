@@ -1,0 +1,71 @@
+{
+  "lemma": "trade",
+  "slug": "trade",
+  "fetchTerm": "trade",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The buying and selling of goods and services on a market.",
+          "examples": []
+        },
+        {
+          "text": "A particular instance of buying or selling, or a series of related transactions executed as a single investment.",
+          "examples": [
+            "I did no trades with them once the rumors started."
+          ]
+        },
+        {
+          "text": "An idea or strategy for an investment on a market.",
+          "examples": [
+            "\"Sell America\" is the latest trade on Wall Street."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To engage in trade.",
+          "examples": [
+            "This company trades (in) precious metal.",
+            "He withdrew money to his bank account after several years of trading stocks on E-Trade."
+          ]
+        },
+        {
+          "text": "To be traded at a certain price or under certain conditions.",
+          "examples": [
+            "Apple is trading at $200.",
+            "ExxonMobil trades on the NYSE."
+          ]
+        },
+        {
+          "text": "To give (something) in exchange (for).",
+          "examples": [
+            "Will you trade your precious watch for my earring?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a product, produced for sale in the ordinary bulk retail trade and hence of only the most basic quality.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "handel",
+    "transakcja",
+    "profesja",
+    "zawód",
+    "fach"
+  ],
+  "fetchedAt": "2026-05-17T22:36:21.630Z"
+}

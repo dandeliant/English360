@@ -1,0 +1,22 @@
+{
+  "lemma": "rely",
+  "slug": "rely",
+  "fetchTerm": "rely",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To trust; to have confidence in; to depend.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "polegać na",
+    "polegać"
+  ],
+  "fetchedAt": "2026-05-17T22:35:28.718Z"
+}

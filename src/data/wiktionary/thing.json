@@ -1,0 +1,40 @@
+{
+  "lemma": "thing",
+  "slug": "thing",
+  "fetchTerm": "thing",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is considered to exist as a separate entity, object, quality or concept.",
+          "examples": []
+        },
+        {
+          "text": "A word, symbol, sign, or other referent that can be used to refer to any entity.",
+          "examples": []
+        },
+        {
+          "text": "An individual object or distinct entity.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To express as a thing; to reify.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rzecz",
+    "coś",
+    "[[moja bajka"
+  ],
+  "fetchedAt": "2026-05-17T22:36:18.287Z"
+}

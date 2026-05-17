@@ -1,0 +1,35 @@
+{
+  "lemma": "blacken",
+  "slug": "blacken",
+  "fetchTerm": "blacken",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to be or become black.",
+          "examples": []
+        },
+        {
+          "text": "To become black.",
+          "examples": [
+            "The sky blackened as the storm clouds rolled in."
+          ]
+        },
+        {
+          "text": "To make dirty.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czernić",
+    "zaczernić",
+    "oczerniać",
+    "oczernić",
+    "czernieć"
+  ],
+  "fetchedAt": "2026-05-17T22:33:56.788Z"
+}

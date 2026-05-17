@@ -1,0 +1,92 @@
+{
+  "lemma": "why",
+  "slug": "why",
+  "fetchTerm": "why",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "For what cause, reason, or purpose. Introducing a complete question.",
+          "examples": [
+            "Why is the sky blue?",
+            "Why did you do that?"
+          ]
+        },
+        {
+          "text": "Introducing a complete question.",
+          "examples": [
+            "Why is the sky blue?",
+            "Why did you do that?"
+          ]
+        },
+        {
+          "text": "With a negative, used rhetorically to make a suggestion.",
+          "examples": [
+            "Why don't you ask her out for dinner?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Reason.",
+          "examples": [
+            "A good article will cover the who, the what, the when, the where, the why and the how.",
+            "I don't want to know the whys or the wherefores of your decision."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An exclamation used to express pleasant or unpleasant mild surprise, indignation, or impatience.",
+          "examples": [
+            "Why, that’s ridiculous!",
+            "Why, how kind of you!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ask (someone) the question \"why?\".",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A young heifer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of wye; the name of the Latin script letter Y/y.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dlaczego",
+    "czemu",
+    "po co",
+    "na co",
+    "powód"
+  ],
+  "fetchedAt": "2026-05-17T22:36:44.241Z"
+}

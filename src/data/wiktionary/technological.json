@@ -1,0 +1,21 @@
+{
+  "lemma": "technological",
+  "slug": "technological",
+  "fetchTerm": "technological",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, or involving technology, especially modern scientific technology.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "technologiczny"
+  ],
+  "fetchedAt": "2026-05-17T22:36:10.895Z"
+}

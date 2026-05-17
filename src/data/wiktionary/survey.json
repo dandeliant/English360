@@ -1,0 +1,56 @@
+{
+  "lemma": "survey",
+  "slug": "survey",
+  "fetchTerm": "survey",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of surveying; a general view.",
+          "examples": []
+        },
+        {
+          "text": "A particular view; an examination, especially an official examination, of a particular group of items, in order to ascertain the condition, quantity, or quality.",
+          "examples": [
+            "A survey of the stores of a ship; a survey of roads and bridges; a survey of buildings."
+          ]
+        },
+        {
+          "text": "The operation of finding the contour, dimensions, position, or other particulars of any part of the Earth's surface.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To inspect, or take a view of; to view with attention, as from a high place; to overlook",
+          "examples": [
+            "He stood on a hill, and surveyed the surrounding country."
+          ]
+        },
+        {
+          "text": "To view with a scrutinizing eye; to examine.",
+          "examples": []
+        },
+        {
+          "text": "To examine with reference to condition, situation, value, etc.; to examine and ascertain the state of",
+          "examples": [
+            "It was his job to survey buildings in order to determine their value and risks."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przegląd",
+    "ankieta",
+    "sondaż",
+    "nadzór",
+    "ankietować"
+  ],
+  "fetchedAt": "2026-05-17T22:36:08.334Z"
+}

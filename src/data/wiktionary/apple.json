@@ -1,0 +1,45 @@
+{
+  "lemma": "apple",
+  "slug": "apple",
+  "fetchTerm": "apple",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A common, firm, round fruit produced by a tree of the genus Malus.",
+          "examples": [
+            "custard apple rose apple thorn apple",
+            "apple:"
+          ]
+        },
+        {
+          "text": "The fruit of the tree Malus domestica, chiefly with a green, red, or yellow skin, cultivated in temperate climates for cidermaking, cooking, and eating. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (something) appear like an apple (noun sense 1.1).",
+          "examples": []
+        },
+        {
+          "text": "To become like an apple. To collect fir-cones. Of a flower bud or vegetable (especially a root vegetable): to grow into the shape of an apple.",
+          "examples": []
+        },
+        {
+          "text": "To become like an apple.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "jabłko"
+  ],
+  "fetchedAt": "2026-05-17T22:33:44.358Z"
+}

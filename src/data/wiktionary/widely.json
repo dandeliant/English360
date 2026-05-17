@@ -1,0 +1,28 @@
+{
+  "lemma": "widely",
+  "slug": "widely",
+  "fetchTerm": "widely",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a wide manner; across a wide area.",
+          "examples": [
+            "I'm widely travelled."
+          ]
+        },
+        {
+          "text": "Commonly; generally; to a great degree.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szeroko",
+    "daleko"
+  ],
+  "fetchedAt": "2026-05-17T22:36:45.630Z"
+}

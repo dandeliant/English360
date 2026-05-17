@@ -1,0 +1,19 @@
+{
+  "lemma": "untended",
+  "slug": "untended",
+  "fetchTerm": "untended",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not tended",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:36:33.119Z"
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "attach",
+  "slug": "attach",
+  "fetchTerm": "attach",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fasten, to join to (literally and figuratively).",
+          "examples": [
+            "You need to attach the carabiner to your harness.",
+            "An officer is attached to a certain regiment, company, or ship."
+          ]
+        },
+        {
+          "text": "To adhere; to be attached.",
+          "examples": []
+        },
+        {
+          "text": "To include an attachment with a communication (especially an email or other electronic communication).",
+          "examples": [
+            "I've attached the contract to this email."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przytwierdzać",
+    "przytwierdzić",
+    "umocowywać",
+    "umocować",
+    "zamocowywać"
+  ],
+  "fetchedAt": "2026-05-17T22:33:47.392Z"
+}

@@ -1,0 +1,37 @@
+{
+  "lemma": "datum",
+  "slug": "datum",
+  "fetchTerm": "datum",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something known or assumed as fact, and is made the basis of reasoning or inference which an intellectual system of any sort (such as knowledge or theoretical framework) is constructed.",
+          "examples": [
+            "a datum of experience",
+            "given this datum, it follows that"
+          ]
+        },
+        {
+          "text": "Singular of data: A single recorded phenomenon, especially obtained by scientific work.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To provide missing data points by using a mathematical model to extrapolate values that are outside the range of a measuring device.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dana"
+  ],
+  "fetchedAt": "2026-05-17T22:34:19.086Z"
+}

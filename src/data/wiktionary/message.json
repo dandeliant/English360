@@ -1,0 +1,64 @@
+{
+  "lemma": "message",
+  "slug": "message",
+  "fetchTerm": "message",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A communication, or what is communicated; any concept or information conveyed.",
+          "examples": [
+            "We've just received an urgent message from the President.",
+            "He received a message telling him to update his laptop."
+          ]
+        },
+        {
+          "text": "An underlying theme or conclusion to be drawn from something.",
+          "examples": [
+            "The main message of the novel is that time heals all wounds."
+          ]
+        },
+        {
+          "text": "An errand.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To send a message to; to transmit a message to, e.g. as text via a cell phone.",
+          "examples": [
+            "Just message me for directions.",
+            "I messaged her about the concert."
+          ]
+        },
+        {
+          "text": "To send (something) as a message; usually refers to electronic messaging.",
+          "examples": [
+            "She messaged me the information yesterday.",
+            "Please message the final report by fax."
+          ]
+        },
+        {
+          "text": "To send a message or messages; to be capable of sending messages.",
+          "examples": [
+            "We've implemented a new messaging service.",
+            "The runaway computer program was messaging non-stop."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wiadomość",
+    "posłanie",
+    "komunikat",
+    "wydźwięk",
+    "przekaz"
+  ],
+  "fetchedAt": "2026-05-17T22:35:02.256Z"
+}

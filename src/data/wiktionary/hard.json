@@ -1,0 +1,86 @@
+{
+  "lemma": "hard",
+  "slug": "hard",
+  "fetchTerm": "hard",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Solid and firm. Resistant to pressure; difficult to break, cut, or penetrate.",
+          "examples": [
+            "This bread is so stale and hard, I can barely cut it.",
+            "hard cider, hard lemonade, hard seltzer, hard soda"
+          ]
+        },
+        {
+          "text": "Resistant to pressure; difficult to break, cut, or penetrate.",
+          "examples": [
+            "This bread is so stale and hard, I can barely cut it."
+          ]
+        },
+        {
+          "text": "Strong.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "With much force or effort.",
+          "examples": [
+            "He hit the puck hard up the ice.",
+            "They worked hard all week."
+          ]
+        },
+        {
+          "text": "With difficulty.",
+          "examples": [
+            "His degree was hard earned."
+          ]
+        },
+        {
+          "text": "So as to raise difficulties.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+          "examples": []
+        },
+        {
+          "text": "A tyre whose compound is softer than superhards, and harder than mediums.",
+          "examples": []
+        },
+        {
+          "text": "Crack cocaine.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make hard, harden.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "twardy",
+    "trudny",
+    "ciężki",
+    "surowy",
+    "niepodważalny"
+  ],
+  "fetchedAt": "2026-05-17T22:34:47.152Z"
+}

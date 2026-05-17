@@ -1,0 +1,51 @@
+{
+  "lemma": "display",
+  "slug": "display",
+  "fetchTerm": "display",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A show or spectacle.",
+          "examples": [
+            "The trapeze artist put on an amazing acrobatic display."
+          ]
+        },
+        {
+          "text": "A piece of work to be presented visually.",
+          "examples": [
+            "Pupils are expected to produce a wall display about a country of their choice."
+          ]
+        },
+        {
+          "text": "A device, furniture or marketing-oriented bulk packaging for visual presentation for sales promotion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To show conspicuously; to exhibit; to demonstrate; to manifest.",
+          "examples": []
+        },
+        {
+          "text": "To make a display; to act as one making a show or demonstration.",
+          "examples": []
+        },
+        {
+          "text": "To extend the front of (a column), bringing it into line, deploy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wyświetlacz",
+    "wyświetlać"
+  ],
+  "fetchedAt": "2026-05-17T22:34:29.333Z"
+}

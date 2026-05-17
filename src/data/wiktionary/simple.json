@@ -1,0 +1,50 @@
+{
+  "lemma": "simple",
+  "slug": "simple",
+  "fetchTerm": "simple",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Uncomplicated; lacking complexity; taken by itself, with nothing added.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A herbal preparation made from one plant, as opposed to something made from more than one plant.",
+          "examples": []
+        },
+        {
+          "text": "A physician.",
+          "examples": []
+        },
+        {
+          "text": "A simple or atomic proposition.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gather simples, i.e. medicinal herbs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prosty",
+    "łatwy",
+    "lekki",
+    "prostak"
+  ],
+  "fetchedAt": "2026-05-17T22:35:50.923Z"
+}

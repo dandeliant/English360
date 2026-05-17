@@ -1,0 +1,73 @@
+{
+  "lemma": "rather",
+  "slug": "rather",
+  "fetchTerm": "rather",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Used to specify a choice or preference; preferably, in preference to. (Now usually followed by than) .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I'd rather not have spent all the money, but it really was an emergency.",
+            "I would like this one rather than the other one."
+          ]
+        },
+        {
+          "text": "Used to introduce a contradiction; on the contrary.",
+          "examples": [
+            "It wasn't supposed to be popular; rather, it was supposed to get the job done.",
+            "She didn't go along, but rather went home instead."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Prior; earlier; former.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An enthusiastic affirmation.",
+          "examples": [
+            "Would you like some? –Rather!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A choice or a preference.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To prefer; to prefer to.",
+          "examples": [
+            "You'd rather us be dead."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "raczej",
+    "dość",
+    "dosyć"
+  ],
+  "fetchedAt": "2026-05-17T22:35:26.030Z"
+}

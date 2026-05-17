@@ -1,0 +1,35 @@
+{
+  "lemma": "flawless",
+  "slug": "flawless",
+  "fetchTerm": "flawless",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Without flaws, defects, or shortcomings; perfect.",
+          "examples": [
+            "The pianist’s performance this evening was flawless."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To win a fight against (a player) without losing health.",
+          "examples": [
+            "I got flawlessed again. I'm so bad at this game."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bezbłędny",
+    "doskonały"
+  ],
+  "fetchedAt": "2026-05-17T22:34:38.826Z"
+}

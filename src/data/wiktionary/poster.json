@@ -1,0 +1,60 @@
+{
+  "lemma": "poster",
+  "slug": "poster",
+  "fetchTerm": "poster",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A picture of a celebrity, an event etc., intended to be attached to a wall.",
+          "examples": [
+            "He has posters of his favorite band, sports teams and holiday resorts up."
+          ]
+        },
+        {
+          "text": "An advertisement to be posted on a pole, wall etc. to advertise something.",
+          "examples": [
+            "I saw a poster for the film on the side of a bus."
+          ]
+        },
+        {
+          "text": "One who posts a message.",
+          "examples": [
+            "Some posters left the online message board after the squabble."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate with posters.",
+          "examples": [
+            "to poster the walls of a bedroom"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A posthorse.",
+          "examples": []
+        },
+        {
+          "text": "A swift traveller; a courier.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "plakat",
+    "afisz"
+  ],
+  "fetchedAt": "2026-05-17T22:35:21.698Z"
+}

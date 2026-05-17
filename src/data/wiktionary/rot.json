@@ -1,0 +1,51 @@
+{
+  "lemma": "rot",
+  "slug": "rot",
+  "fetchTerm": "rot",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To suffer decomposition due to biological action, especially by fungi or bacteria.",
+          "examples": [
+            "The apple left in the cupboard all that time had started to rot."
+          ]
+        },
+        {
+          "text": "To decline in function or utility.",
+          "examples": [
+            "Your brain will rot if you spend so much time on the computer, Tony!"
+          ]
+        },
+        {
+          "text": "To (cause to) deteriorate in any way, as in morals; to corrupt.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of becoming rotten; putrefaction.",
+          "examples": []
+        },
+        {
+          "text": "Decaying matter.",
+          "examples": []
+        },
+        {
+          "text": "Any of several diseases in which breakdown of tissue occurs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gnić",
+    "zgnić"
+  ],
+  "fetchedAt": "2026-05-17T22:35:38.873Z"
+}

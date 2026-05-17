@@ -1,0 +1,58 @@
+{
+  "lemma": "economy",
+  "slug": "economy",
+  "fetchTerm": "economy",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Effective management of a community or system, or especially its resources. The regular operation of nature in the generation, nutrition and preservation of animals or plants.",
+          "examples": [
+            "animal economy, vegetable economy",
+            "the Jewish economy"
+          ]
+        },
+        {
+          "text": "The regular operation of nature in the generation, nutrition and preservation of animals or plants.",
+          "examples": [
+            "animal economy, vegetable economy"
+          ]
+        },
+        {
+          "text": "System of management; general regulation and disposition of the affairs of a state or nation, or of any department of government.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Cheap to run; using minimal resources; representing good value for money; economical.",
+          "examples": [
+            "He bought an economy car.",
+            "Economy size."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or via the part of a commercial passenger airplane reserved for those paying the lower standard fares.",
+          "examples": [
+            "Numerous web sites have tips on how to fly economy."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gospodarka",
+    "ekonomia"
+  ],
+  "fetchedAt": "2026-05-17T22:34:32.052Z"
+}

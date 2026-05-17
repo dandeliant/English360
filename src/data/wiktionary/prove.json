@@ -1,0 +1,54 @@
+{
+  "lemma": "prove",
+  "slug": "prove",
+  "fetchTerm": "prove",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To demonstrate that something is true or viable; to give proof for; to bear out; to testify.",
+          "examples": [
+            "I will prove that my method is more effective than yours."
+          ]
+        },
+        {
+          "text": "To turn out; to manifest.",
+          "examples": [
+            "It proved to be a cold day."
+          ]
+        },
+        {
+          "text": "To turn out to be.",
+          "examples": [
+            "Have an exit strategy should your calculations prove incorrect."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of dough proofing.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past of proove",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dowodzić",
+    "udowadniać"
+  ],
+  "fetchedAt": "2026-05-17T22:35:23.130Z"
+}

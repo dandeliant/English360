@@ -1,0 +1,84 @@
+{
+  "lemma": "nice",
+  "slug": "nice",
+  "fetchTerm": "nice",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pleasant, satisfactory, complimentary. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "You weren’t nice to me this morning."
+          ]
+        },
+        {
+          "text": "Of a person: friendly, attractive.",
+          "examples": []
+        },
+        {
+          "text": "Respectable; virtuous.",
+          "examples": [
+            "What is a nice person like you doing in a place like this?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Nicely.",
+          "examples": [
+            "Children, play nice.",
+            "He dresses real nice."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to signify a job well done.",
+          "examples": [
+            "Nice! I couldn't have done better."
+          ]
+        },
+        {
+          "text": "Used to signify approval.",
+          "examples": [
+            "Is that your new car? Nice!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "niceness.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To run a process with a specified (usually lower) priority.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "miły",
+    "przyjemny",
+    "fajny",
+    "dobry",
+    "fajnie"
+  ],
+  "fetchedAt": "2026-05-17T22:35:12.561Z"
+}

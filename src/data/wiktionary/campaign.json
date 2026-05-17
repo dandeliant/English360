@@ -1,0 +1,50 @@
+{
+  "lemma": "campaign",
+  "slug": "campaign",
+  "fetchTerm": "campaign",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A series of operations undertaken to achieve a set goal.",
+          "examples": [
+            "an election campaign",
+            "a military campaign"
+          ]
+        },
+        {
+          "text": "A player or team's efforts during a sporting season.",
+          "examples": [
+            "His campaign for Hampshire was very good."
+          ]
+        },
+        {
+          "text": "A series of play sessions using the same player characters, forming a continuous narrative.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To take part in a campaign.",
+          "examples": [
+            "She campaigned for better social security."
+          ]
+        },
+        {
+          "text": "Consistently ride in races for a racing season.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kampania",
+    "pochód"
+  ],
+  "fetchedAt": "2026-05-17T22:34:01.447Z"
+}

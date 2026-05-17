@@ -1,0 +1,76 @@
+{
+  "lemma": "underneath",
+  "slug": "underneath",
+  "fetchTerm": "underneath",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Below; in a place beneath.",
+          "examples": [
+            "I can't take my sweater off: I amn't wearing anything else on underneath."
+          ]
+        },
+        {
+          "text": "On the underside or lower face.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Under, below, beneath.",
+          "examples": [
+            "Underneath the water, all was calm.",
+            "We flew underneath the bridge."
+          ]
+        },
+        {
+          "text": "Under the control or power of.",
+          "examples": [
+            "There was little freedom underneath the Nazi jackboot."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Under, lower.",
+          "examples": [
+            "You can have the underneath bunk."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The bottom of something.",
+          "examples": [
+            "The underneath of the aircraft was painted blue."
+          ]
+        },
+        {
+          "text": "A background radio sound track played during a specific announcement or program.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pod spodem",
+    "pod",
+    "spód",
+    "dół"
+  ],
+  "fetchedAt": "2026-05-17T22:36:28.797Z"
+}

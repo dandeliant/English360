@@ -1,0 +1,37 @@
+{
+  "lemma": "modern",
+  "slug": "modern",
+  "fetchTerm": "modern",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to a current or recent time and style; not ancient.",
+          "examples": [
+            "Our online interactive game is a modern approach to teaching about gum disease. Although it was built in the 1600s, the building still has a very modern look."
+          ]
+        },
+        {
+          "text": "Pertaining to the modern period (c.1800 to contemporary times), particularly in academic historiography.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who lives in modern times.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nowoczesny",
+    "współczesny"
+  ],
+  "fetchedAt": "2026-05-17T22:35:03.708Z"
+}

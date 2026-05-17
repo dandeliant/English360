@@ -1,0 +1,25 @@
+{
+  "lemma": "terminology",
+  "slug": "terminology",
+  "fetchTerm": "terminology",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A treatise on terms, especially those used in a specialised field.",
+          "examples": []
+        },
+        {
+          "text": "The set of terms actually used in any business, art, science, or the like; nomenclature; technical terms.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "terminologia"
+  ],
+  "fetchedAt": "2026-05-17T22:36:16.671Z"
+}

@@ -1,0 +1,46 @@
+{
+  "lemma": "beside",
+  "slug": "beside",
+  "fetchTerm": "beside",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Next to; at the side of.",
+          "examples": [
+            "A small table beside the bed"
+          ]
+        },
+        {
+          "text": "Not relevant to.",
+          "examples": [
+            "That is beside the point / beside the topic / beside the subject / beside the focus of this discussion."
+          ]
+        },
+        {
+          "text": "Besides; in addition to.",
+          "examples": [
+            "I'll need another dictionary beside this one."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Otherwise; else; in addition; besides.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obok",
+    "przy",
+    "poza"
+  ],
+  "fetchedAt": "2026-05-17T22:33:53.074Z"
+}

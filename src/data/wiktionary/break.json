@@ -1,0 +1,80 @@
+{
+  "lemma": "break",
+  "slug": "break",
+  "fetchTerm": "break",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+          "examples": [
+            "If the vase falls to the floor, it might break.",
+            "In order to tend to the accident victim, he will break the window of the car."
+          ]
+        },
+        {
+          "text": "To crack or fracture (bone) under a physical strain.",
+          "examples": [
+            "His ribs broke under the weight of the rocks piled on his chest.",
+            "He slipped on the ice and broke his leg."
+          ]
+        },
+        {
+          "text": "To divide (something, often money) into smaller units.",
+          "examples": [
+            "Can you break a hundred-dollar bill for me?",
+            "The wholesaler broke the container loads into palettes and boxes for local retailers."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An instance of breaking something into two or more pieces.",
+          "examples": [
+            "The femur has a clean break and so should heal easily."
+          ]
+        },
+        {
+          "text": "A physical space that opens up in something or between two things.",
+          "examples": [
+            "The sun came out in a break in the clouds.",
+            "He waited minutes for a break in the traffic to cross the highway."
+          ]
+        },
+        {
+          "text": "An interruption of continuity; departure from or rupture with.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A section of extended repetition of the percussion break to a song, created by a hip-hop DJ as rhythmic dance music.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To B-boy; to breakdance.",
+          "examples": []
+        },
+        {
+          "text": "To brake.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:33:58.489Z"
+}

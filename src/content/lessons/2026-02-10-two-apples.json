@@ -1,0 +1,203 @@
+{
+  "id": "2026-02-10-two-apples",
+  "date_assigned": "2026-02-10",
+  "date_alternatives": ["2026-10-10"],
+  "title_en": "What the Screen Hides",
+  "title_pl": "Co kryje ekran",
+  "location": "Grafika koncepcyjna (Polska)",
+  "image": "/images/2026-02-10-two-apples.jpg",
+  "image_orientation": "square",
+  "photo_credit": "Daniel Ostrowski (grafika AI)",
+  "tags": ["digital-wellness", "smartphone", "children", "parenting", "apple", "metaphor", "screen", "social-issues", "ai-art"],
+  "themes": ["digital-wellness", "modern-parenting", "hidden-decay", "metaphor"],
+  "did_you_know": {
+    "en": "The American Academy of Pediatrics recommends no recreational screen time at all for children under 18 months, and only high-quality programming watched together with a parent between 18 and 24 months. The guidelines were issued in 2016 — before TikTok existed.",
+    "pl": "Amerykańska Akademia Pediatrii zaleca zero ekranu w celach rozrywkowych u dzieci poniżej 18. miesiąca życia, a między 18. a 24. miesiącem — tylko programy wysokiej jakości oglądane razem z rodzicem. Wytyczne wydano w 2016 roku, zanim w ogóle istniał TikTok."
+  },
+  "social": {
+    "fb_caption_pl": "Dwa jabłka. Jedno świeże, drugie na ekranie telefonu — ciemne, prawie zgniłe. Smartfon często wydaje się rodzicom wybawieniem: dziecko przestaje krzyczeć i wygląda na zajęte. Ale to, co przychodzi przez ekran bez nadzoru, potrafi gnić po cichu. Lekcja na Safer Internet Day, sześć poziomów (A1–C2). english360.example",
+    "fb_caption_en": "Two apples. One fresh and red, the other on a phone screen — dark and rotting. A smartphone in a child's hands often feels like a small mercy to a tired parent. But what travels through that screen unsupervised can rot quietly in the dark. A lesson for Safer Internet Day, in six CEFR levels. english360.example",
+    "hashtags": ["#English360", "#SaferInternetDay", "#DigitalWellness", "#Parenting", "#ScreenTime", "#LearnEnglish", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this picture. There are two apples. The red apple is fresh. It has a green leaf. The other apple is on a phone. It is dark and old. One looks good. The other does not. Phones can hide bad things.",
+      "text_pl": "Spójrz na to zdjęcie. Są tu dwa jabłka. Czerwone jabłko jest świeże. Ma zielony liść. Drugie jabłko jest na telefonie. Jest ciemne i stare. Jedno wygląda dobrze. Drugie nie. Telefony mogą ukrywać złe rzeczy.",
+      "vocab": [
+        { "term": "apple", "ipa_br": "/ˈæp.əl/", "pl": "jabłko", "new": true },
+        { "term": "fresh", "ipa_br": "/freʃ/", "pl": "świeży", "new": false },
+        { "term": "phone", "ipa_br": "/fəʊn/", "pl": "telefon", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "old", "ipa_br": "/əʊld/", "pl": "stary", "new": false },
+        { "term": "good", "ipa_br": "/ɡʊd/", "pl": "dobry", "new": false },
+        { "term": "hide", "ipa_br": "/haɪd/", "pl": "ukrywać", "new": true },
+        { "term": "bad", "ipa_br": "/bæd/", "pl": "zły", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "apple", "answer": "A" },
+            { "word": "phone", "answer": "B" },
+            { "word": "leaf", "answer": "C" },
+            { "word": "dark", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🍎" },
+            { "label": "B", "text": "📱" },
+            { "label": "C", "text": "🍃" },
+            { "label": "D", "text": "🌑" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture shows two apples. The first one looks beautiful — bright red, with a green leaf on top. The second apple is on a phone screen. It looks dark, old and almost broken. The picture tells us something simple: a phone can show us nice things, but it can also hide things that are not so nice.",
+      "text_pl": "To zdjęcie pokazuje dwa jabłka. Pierwsze wygląda pięknie — jest jaskrawoczerwone, z zielonym liściem na górze. Drugie jabłko jest na ekranie telefonu. Wygląda ciemno, staro i prawie zepsute. Zdjęcie mówi nam coś prostego: telefon może pokazywać nam ładne rzeczy, ale potrafi też ukrywać te mniej ładne.",
+      "vocab": [
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jaskrawy, jasny", "new": false },
+        { "term": "leaf", "ipa_br": "/liːf/", "pl": "liść", "new": true },
+        { "term": "screen", "ipa_br": "/skriːn/", "pl": "ekran", "new": true },
+        { "term": "broken", "ipa_br": "/ˈbrəʊ.kən/", "pl": "zepsuty, połamany", "new": true },
+        { "term": "simple", "ipa_br": "/ˈsɪm.pəl/", "pl": "prosty", "new": false },
+        { "term": "show", "ipa_br": "/ʃəʊ/", "pl": "pokazywać", "new": false },
+        { "term": "nice", "ipa_br": "/naɪs/", "pl": "ładny, miły", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowami z tekstu.",
+          "items": [
+            { "sentence": "The first apple has a green ___ on top.", "answer": "leaf" },
+            { "sentence": "The second apple is on a phone ___.", "answer": "screen" },
+            { "sentence": "It looks dark, old and almost ___.", "answer": "broken" },
+            { "sentence": "A phone can show us nice things, but it can also ___ bad things.", "answer": "hide" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "At first glance, this picture looks like a small joke: a fresh red apple stands next to a phone, and on the phone's screen there is another apple — old, dark and rotten. But the joke has a serious side. Today, many parents give their phones to their children just to keep them quiet. The child stops crying or asking questions, and seems busy and safe. From the outside, everything looks calm. The picture asks a simple question: do we know what is really happening on the other side of that screen?",
+      "text_pl": "Na pierwszy rzut oka to zdjęcie wygląda jak żart: świeże czerwone jabłko stoi obok telefonu, a na ekranie telefonu widać inne jabłko — stare, ciemne i zgniłe. Ale ten żart ma poważną stronę. Dziś wielu rodziców daje telefony swoim dzieciom po prostu po to, żeby się uspokoiły. Dziecko przestaje płakać i zadawać pytania, wygląda na zajęte i bezpieczne. Z zewnątrz wszystko wygląda spokojnie. Zdjęcie zadaje proste pytanie: czy wiemy, co naprawdę dzieje się po drugiej stronie tego ekranu?",
+      "vocab": [
+        { "term": "at first glance", "ipa_br": "/æt fɜːst ɡlɑːns/", "pl": "na pierwszy rzut oka", "new": true },
+        { "term": "joke", "ipa_br": "/dʒəʊk/", "pl": "żart", "new": true },
+        { "term": "rotten", "ipa_br": "/ˈrɒt.ən/", "pl": "zgniły", "new": true },
+        { "term": "serious", "ipa_br": "/ˈsɪə.ri.əs/", "pl": "poważny", "new": true },
+        { "term": "side", "ipa_br": "/saɪd/", "pl": "strona", "new": false },
+        { "term": "parent", "ipa_br": "/ˈpeə.rənt/", "pl": "rodzic", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪ.ət/", "pl": "cichy, spokojny", "new": false },
+        { "term": "busy", "ipa_br": "/ˈbɪz.i/", "pl": "zajęty", "new": false },
+        { "term": "safe", "ipa_br": "/seɪf/", "pl": "bezpieczny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The fresh apple in the picture is red.", "answer": true },
+            { "statement": "The apple on the phone screen looks young and healthy.", "answer": false },
+            { "statement": "The text says many parents give phones to their children to keep them quiet.", "answer": true },
+            { "statement": "When a child has a phone, the text says the child usually cries more.", "answer": false },
+            { "statement": "The picture ends with a simple question to the viewer.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "The image works because it relies on a familiar trick of advertising. Show two versions of the same object, side by side, and most viewers will fill in the moral message themselves. Here, the fresh apple, leaf still attached, stands for what we hope to give our children: something whole, alive, easy to recognise as good. The blackened apple on the screen stands for everything that can quietly grow on the other side of a smartphone when no adult is watching. None of this is meant to be a campaign against phones in general — they are useful, often essential. The picture is a reminder rather than a verdict. A device that keeps a child quiet on a Saturday afternoon may, over many months, also feed them a steady diet of things their parents would never knowingly choose.",
+      "text_pl": "To zdjęcie działa, bo opiera się na znanej sztuczce z reklamy. Pokażesz dwie wersje tego samego obiektu obok siebie, a większość widzów sama dopowie morał. Tutaj świeże jabłko, z wciąż przyczepionym liściem, symbolizuje to, co chcielibyśmy dać naszym dzieciom: coś całego, żywego, łatwego do rozpoznania jako dobre. Poczerniałe jabłko na ekranie reprezentuje wszystko, co po cichu może wyrosnąć po drugiej stronie smartfona, gdy żaden dorosły nie patrzy. Nie chodzi tu o kampanię przeciwko telefonom w ogóle — są pożyteczne, często wręcz niezbędne. Zdjęcie jest raczej przypomnieniem niż wyrokiem. Urządzenie, które w sobotnie popołudnie utrzymuje dziecko w ciszy, przez wiele miesięcy potrafi też karmić je stałą dietą rzeczy, jakich rodzice nigdy by świadomie nie wybrali.",
+      "vocab": [
+        { "term": "rely on", "ipa_br": "/rɪˈlaɪ ɒn/", "pl": "polegać na, opierać się na", "new": true },
+        { "term": "familiar", "ipa_br": "/fəˈmɪl.i.ə/", "pl": "znany, znajomy", "new": true },
+        { "term": "trick", "ipa_br": "/trɪk/", "pl": "sztuczka, trik", "new": true },
+        { "term": "advertising", "ipa_br": "/ˈæd.və.taɪ.zɪŋ/", "pl": "reklama", "new": true },
+        { "term": "viewer", "ipa_br": "/ˈvjuː.ə/", "pl": "widz", "new": false },
+        { "term": "moral", "ipa_br": "/ˈmɒr.əl/", "pl": "morał; moralny", "new": true },
+        { "term": "blackened", "ipa_br": "/ˈblæk.ənd/", "pl": "poczerniały, sczerniały", "new": true },
+        { "term": "verdict", "ipa_br": "/ˈvɜː.dɪkt/", "pl": "wyrok, werdykt", "new": true },
+        { "term": "knowingly", "ipa_br": "/ˈnəʊ.ɪŋ.li/", "pl": "świadomie, z premedytacją", "new": true },
+        { "term": "diet", "ipa_br": "/ˈdaɪ.ət/", "pl": "dieta, jadłospis", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The image works because it relies on a familiar trick from advertising.", "answer": true },
+            { "statement": "The text claims the picture is a strong campaign against all phones.", "answer": false },
+            { "statement": "The author calls the picture a reminder rather than a verdict.", "answer": true },
+            { "statement": "The fresh apple stands for what we hope to give our children.", "answer": true },
+            { "statement": "The text suggests phones are completely useless to parents.", "answer": false },
+            { "statement": "A device that keeps a child quiet may also feed them content their parents would not knowingly choose.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Pictures like this work as parables because they trade in two registers at once. On the surface, we see a still life: a glossy apple beside a phone that displays its rotted twin. Underneath, we see a very specific late-modern anxiety — the suspicion that something is going slowly wrong with our children's inner lives, and that the devices we hand them are part of why. British data, reported widely in recent years, has shown a sharp rise in anxiety, sleep disturbance and self-harm among teenagers, with the steepest curve coinciding with the years smartphones became near-universal. Causation is hard to prove and the picture is complicated; correlation is not. The image does not need statistics to land. It says, with the economy of a good poster, that some of what travels through a phone is bright and useful, and some of it, untended, will rot quietly in the dark of an unmonitored screen.",
+      "text_pl": "Zdjęcia takie jak to działają jak przypowieści, bo grają na dwóch rejestrach naraz. Na powierzchni widzimy martwą naturę: lśniące jabłko obok telefonu, który wyświetla jego zgniłego bliźniaka. Pod spodem widzimy bardzo konkretny późnonowoczesny niepokój — podejrzenie, że coś powoli się psuje w wewnętrznym życiu naszych dzieci, i że urządzenia, które im wręczamy, są częścią przyczyny. Brytyjskie dane, szeroko opisywane w ostatnich latach, pokazują gwałtowny wzrost lęków, zaburzeń snu i samookaleczeń wśród nastolatków, a najbardziej stroma krzywa pokrywa się z latami, w których smartfon stał się niemal powszechny. Związek przyczynowy trudno udowodnić, a sprawa jest skomplikowana; korelacja jednak istnieje. Zdjęciu nie są potrzebne statystyki, by uderzyło. Mówi z ekonomią dobrego plakatu, że część tego, co przechodzi przez telefon, jest jasna i pożyteczna, a część, gdy zostanie bez opieki, zgnije po cichu w ciemności nienadzorowanego ekranu.",
+      "vocab": [
+        { "term": "parable", "ipa_br": "/ˈpær.ə.bəl/", "pl": "przypowieść", "new": true },
+        { "term": "register", "ipa_br": "/ˈredʒ.ɪ.stə/", "pl": "rejestr (językowy); rejestrować", "new": true },
+        { "term": "still life", "ipa_br": "/stɪl ˈlaɪf/", "pl": "martwa natura", "new": true },
+        { "term": "glossy", "ipa_br": "/ˈɡlɒs.i/", "pl": "lśniący, połyskliwy", "new": true },
+        { "term": "twin", "ipa_br": "/twɪn/", "pl": "bliźniak, bliźniaczy", "new": true },
+        { "term": "anxiety", "ipa_br": "/æŋˈzaɪ.ə.ti/", "pl": "lęk, niepokój", "new": true },
+        { "term": "suspicion", "ipa_br": "/səˈspɪʃ.ən/", "pl": "podejrzenie", "new": true },
+        { "term": "causation", "ipa_br": "/kɔːˈzeɪ.ʃən/", "pl": "związek przyczynowy", "new": true },
+        { "term": "correlation", "ipa_br": "/ˌkɒr.əˈleɪ.ʃən/", "pl": "korelacja, współzależność", "new": true },
+        { "term": "untended", "ipa_br": "/ʌnˈten.dɪd/", "pl": "bez opieki, zaniedbany", "new": true },
+        { "term": "unmonitored", "ipa_br": "/ʌnˈmɒn.ɪ.təd/", "pl": "nienadzorowany, niemonitorowany", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie.",
+          "items": [
+            { "original": "Pictures like this work as parables because they trade in two registers at once.", "answer": "These pictures function as parables because they operate on two levels at the same time." },
+            { "original": "The image does not need statistics to land.", "answer": "The image makes its point without any need for statistics." },
+            { "original": "Causation is hard to prove and the picture is complicated; correlation is not.", "answer": "Although it is difficult to prove a causal link and the picture is complex, the correlation is not in doubt." },
+            { "original": "Some of what travels through a phone is bright and useful, and some of it, untended, will rot quietly in the dark.", "answer": "Part of what passes through a phone is bright and useful, while another part, left unattended, will silently rot in the dark." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a class of contemporary images that achieves more by what it omits than by what it shows. The picture in question — a flawlessly red apple beside a smartphone displaying the same apple in a state of rot — belongs squarely to that class. No child appears. No parent appears. No statistics, no captions, no diagnostic terminology. The image is left, deliberately and almost entirely, to do its own work in the viewer's head.\n\nAnd it does. Whatever residual hope adult Europeans still hold that the smartphone age will turn out to have been a benign technological transition has, in the last decade, taken steady damage from the British data alone — surveys showing teenage girls in particular reporting historic levels of anxiety, sleeplessness, self-harm, and a peculiarly twenty-first-century kind of social loneliness that does not lift when there are other people in the room. The picture, with characteristic economy, gestures at this without naming it. It also refuses the easy moralism of declaring that all screens are bad. It simply asks, in the visual equivalent of a quiet question, whether the parent who hands a device over knows what is, at this moment, ripening or rotting on the other side of its glass.",
+      "text_pl": "Istnieje klasa współczesnych obrazów, które osiągają więcej przez to, czego nie pokazują, niż przez to, co pokazują. Omawiane zdjęcie — bez skazy czerwone jabłko obok smartfona wyświetlającego to samo jabłko w stanie zgnilizny — należy ściśle do tej klasy. Nie pojawia się żadne dziecko. Nie pojawia się żaden rodzic. Żadnych statystyk, podpisów ani terminologii diagnostycznej. Obraz pozostawiono — celowo i niemal całkowicie — by sam wykonał swoją pracę w głowie widza.\n\nI wykonuje. Cokolwiek z resztki nadziei dorośli Europejczycy jeszcze żywili, że era smartfona okaże się łagodnym przejściem technologicznym, w ostatnim dziesięcioleciu otrzymywało kolejne ciosy — choćby z samych danych brytyjskich, gdzie sondaże pokazują, że szczególnie nastoletnie dziewczęta raportują historycznie wysokie poziomy lęku, bezsenności, samookaleczeń oraz osobliwie dwudziestopierwszowiecznej formy społecznej samotności, która nie ustępuje, gdy w pokoju są inni ludzie. Zdjęcie, z charakterystyczną ekonomią, gestykuluje ku temu, nie nazywając tego po imieniu. Odmawia też łatwego moralizatorstwa twierdzenia, że wszystkie ekrany są złe. Po prostu pyta — w wizualnym odpowiedniku cichego pytania — czy rodzic, który wręcza urządzenie, wie, co właśnie w tej chwili dojrzewa lub gnije po drugiej stronie jego szkła.",
+      "vocab": [
+        { "term": "contemporary", "ipa_br": "/kənˈtem.pər.ər.i/", "pl": "współczesny", "new": true },
+        { "term": "omit", "ipa_br": "/əˈmɪt/", "pl": "pomijać, opuszczać", "new": true },
+        { "term": "flawless", "ipa_br": "/ˈflɔː.ləs/", "pl": "bez skazy, nieskazitelny", "new": true },
+        { "term": "rot", "ipa_br": "/rɒt/", "pl": "zgnilizna; gnić", "new": true },
+        { "term": "diagnostic", "ipa_br": "/ˌdaɪ.əɡˈnɒs.tɪk/", "pl": "diagnostyczny", "new": true },
+        { "term": "residual", "ipa_br": "/rɪˈzɪd.ju.əl/", "pl": "pozostały, szczątkowy", "new": true },
+        { "term": "benign", "ipa_br": "/bɪˈnaɪn/", "pl": "łagodny, nieszkodliwy", "new": true },
+        { "term": "transition", "ipa_br": "/trænˈzɪʃ.ən/", "pl": "przejście, transformacja", "new": true },
+        { "term": "sleeplessness", "ipa_br": "/ˈsliːp.ləs.nəs/", "pl": "bezsenność", "new": true },
+        { "term": "moralism", "ipa_br": "/ˈmɒr.ə.lɪ.zəm/", "pl": "moralizatorstwo", "new": true },
+        { "term": "ripen", "ipa_br": "/ˈraɪ.pən/", "pl": "dojrzewać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "cloze",
+          "prompt": "Open cloze — wpisz po JEDNYM słowie w każdą lukę. Bez banku.",
+          "passage": "There is a class of contemporary images that achieves more ___ what it omits than by what it shows. The picture ___ question — a flawlessly red apple beside a smartphone displaying the same apple ___ a state of rot — belongs squarely to that class. No child appears. No parent appears. The image is left, deliberately and almost ___, to do its own work in the viewer's head. The picture, with characteristic economy, gestures ___ this without naming it. It also refuses the easy moralism ___ declaring that all screens are bad. It simply asks whether the parent who hands a device ___ knows what is, at this moment, ripening or rotting ___ the other side of its glass.",
+          "answers": ["by", "in", "in", "entirely", "at", "of", "over", "on"],
+          "hints": [
+            "preposition — 'more X than Y' pattern",
+            "preposition — 'the picture ___ question'",
+            "preposition — 'in a state of'",
+            "adverb intensifier — 'almost ___'",
+            "preposition — 'gestures ___ something'",
+            "preposition — 'the moralism ___ declaring'",
+            "preposition or particle — 'hand a device ___'",
+            "preposition — 'ripening ___ the other side'"
+          ]
+        }
+      ]
+    }
+  }
+}

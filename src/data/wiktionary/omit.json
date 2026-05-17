@@ -1,0 +1,33 @@
+{
+  "lemma": "omit",
+  "slug": "omit",
+  "fetchTerm": "omit",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To leave out or exclude.",
+          "examples": []
+        },
+        {
+          "text": "To fail to perform.",
+          "examples": []
+        },
+        {
+          "text": "To delete or remove; to strike.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pomijać",
+    "pominąć",
+    "opuszczać",
+    "opuścić",
+    "zaniedbywać"
+  ],
+  "fetchedAt": "2026-05-17T22:35:15.300Z"
+}

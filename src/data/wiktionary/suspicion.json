@@ -1,0 +1,38 @@
+{
+  "lemma": "suspicion",
+  "slug": "suspicion",
+  "fetchTerm": "suspicion",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of suspecting something or someone, especially of something wrong.",
+          "examples": []
+        },
+        {
+          "text": "The condition of being suspected.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To suspect; to have suspicions.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podejrzenie",
+    "podejrzliwość",
+    "ślad",
+    "trop",
+    "poszlaka"
+  ],
+  "fetchedAt": "2026-05-17T22:36:09.652Z"
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "self",
+  "slug": "self",
+  "fetchTerm": "self",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Himself, herself, itself, themself, themselves; that specific (person mentioned).",
+          "examples": [
+            "This argument was put forward by the defendant self."
+          ]
+        },
+        {
+          "text": "Myself, oneself.",
+          "examples": [
+            "I made out a cheque, payable to self, which cheered me up somewhat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One individual's personality, character, demeanor, or disposition.",
+          "examples": [
+            "She remained her usual cheerful self despite recent setbacks"
+          ]
+        },
+        {
+          "text": "The subject of one's own experience of phenomena: perception, emotions, thoughts.",
+          "examples": []
+        },
+        {
+          "text": "An individual person as the object of the person's own reflective consciousness (plural selves).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fertilize by the same individual; to self-fertilize or self-pollinate.",
+          "examples": []
+        },
+        {
+          "text": "To fertilize by the same strain; to inbreed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having its own or a single nature or character throughout, as in colour, composition, etc., without addition or change; of the same kind; unmixed.",
+          "examples": [
+            "a self bow: one made from a single piece of wood",
+            "a self flower or plant: one which is wholly of one colour"
+          ]
+        },
+        {
+          "text": "Same, identical.",
+          "examples": [
+            "self-coloured"
+          ]
+        },
+        {
+          "text": "Belonging to oneself; own.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-17T22:35:46.271Z"
+}

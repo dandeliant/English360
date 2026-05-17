@@ -1,0 +1,37 @@
+{
+  "lemma": "alive",
+  "slug": "alive",
+  "fetchTerm": "alive",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having life; living; not dead.",
+          "examples": [
+            "As long as the plant is alive, he will continue to water it."
+          ]
+        },
+        {
+          "text": "In a state of action; in force or operation; existent.",
+          "examples": [
+            "to keep the fire alive",
+            "to keep the affections alive"
+          ]
+        },
+        {
+          "text": "Busy with activity of many living beings; swarming; thronged; busy.",
+          "examples": [
+            "Although quite dull during the day, the main street comes alive at night, with many bars and clubs opening."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "żywy",
+    "żywcem"
+  ],
+  "fetchedAt": "2026-05-17T22:33:38.249Z"
+}
