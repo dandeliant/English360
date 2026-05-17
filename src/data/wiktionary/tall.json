@@ -1,0 +1,52 @@
+{
+  "lemma": "tall",
+  "slug": "tall",
+  "fetchedAt": "2026-05-17T09:01:04.055Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a top that is far up (contrast: deep ('having a bottom that is far down' ).) Having great vertical extent (usually reckoned from the bottom of the feet to the very top of the head) when standing. (For instance, somebody with a height of over 6 feet would generally be deemed tall.)",
+          "examples": [
+            "Being tall is an advantage in basketball.",
+            "Ostriches are the tallest living birds."
+          ]
+        },
+        {
+          "text": "Having great vertical extent (usually reckoned from the bottom of the feet to the very top of the head) when standing. (For instance, somebody with a height of over 6 feet would generally be deemed tall.)",
+          "examples": [
+            "Being tall is an advantage in basketball.",
+            "Ostriches are the tallest living birds."
+          ]
+        },
+        {
+          "text": "Having its top a long way up; having a great vertical (and often greater than horizontal) extent.",
+          "examples": [
+            "Tall trees, at least about 30m high."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something that is tall.",
+          "examples": []
+        },
+        {
+          "text": "A clothing size for taller people.",
+          "examples": [
+            "Do you have this in a tall?"
+          ]
+        },
+        {
+          "text": "A tall serving of a drink, especially one from Starbucks, which contains 12 ounces.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,66 @@
+{
+  "lemma": "fill",
+  "slug": "fill",
+  "fetchedAt": "2026-05-17T08:59:11.945Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make full To add contents to so that it is full.",
+          "examples": [
+            "She filled a glass with milk.",
+            "dreams filled with surreal imagery"
+          ]
+        },
+        {
+          "text": "To add contents to so that it is full.",
+          "examples": [
+            "She filled a glass with milk.",
+            "dreams filled with surreal imagery"
+          ]
+        },
+        {
+          "text": "To enter (something), making it full.",
+          "examples": [
+            "The doors opened and guests filled the auditorium."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sufficient or more than sufficient amount.",
+          "examples": [
+            "Don't feed him any more: he's had his fill."
+          ]
+        },
+        {
+          "text": "An amount that fills a container.",
+          "examples": [
+            "The mixer returned to the plant for another fill."
+          ]
+        },
+        {
+          "text": "The filling of a container or area.",
+          "examples": [
+            "That machine can do 20 fills per minute.",
+            "This paint program supports lines, circles, and textured fills."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the thills or shafts of a carriage.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

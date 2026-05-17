@@ -1,0 +1,26 @@
+{
+  "lemma": "these",
+  "slug": "these",
+  "fetchedAt": "2026-05-17T09:01:07.870Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "plural of this",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "plural of this",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

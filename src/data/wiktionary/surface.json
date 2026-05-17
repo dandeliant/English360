@@ -1,0 +1,48 @@
+{
+  "lemma": "surface",
+  "slug": "surface",
+  "fetchedAt": "2026-05-17T09:00:58.759Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The overside or upside of a flat object such as a table, or of a liquid.",
+          "examples": []
+        },
+        {
+          "text": "The outside hull of a tangible object.",
+          "examples": []
+        },
+        {
+          "text": "Outward or external appearance.",
+          "examples": [
+            "On the surface, the spy looked like a typical businessman."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To provide with a surface; to apply a surface to.",
+          "examples": [
+            "The crew surfaced the road with bitumen."
+          ]
+        },
+        {
+          "text": "To rise to the surface.",
+          "examples": [
+            "There was great relief when the missing diver finally surfaced."
+          ]
+        },
+        {
+          "text": "To bring to the surface.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

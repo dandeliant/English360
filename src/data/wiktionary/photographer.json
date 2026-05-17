@@ -1,0 +1,17 @@
+{
+  "lemma": "photographer",
+  "slug": "photographer",
+  "fetchedAt": "2026-05-17T09:00:11.923Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who takes photographs, typically as an occupation.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

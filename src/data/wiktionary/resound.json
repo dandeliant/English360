@@ -1,0 +1,51 @@
+{
+  "lemma": "resound",
+  "slug": "resound",
+  "fetchedAt": "2026-05-17T09:00:24.815Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (sounds), or to speak (words), loudly or reverberatingly. Of a place: to cause (a sound) to reverberate; to echo. To praise or spread the fame of (someone or something) with the voice or the sound of musical instruments; to celebrate, to extol; also, to declare (someone) to be a certain thing. To repeat (another's words, opinions, etc.).",
+          "examples": []
+        },
+        {
+          "text": "To make (sounds), or to speak (words), loudly or reverberatingly.",
+          "examples": []
+        },
+        {
+          "text": "Of a place: to cause (a sound) to reverberate; to echo.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An echoing or reverberating sound; a resounding.",
+          "examples": []
+        },
+        {
+          "text": "The quality of echoing or reverberating; resonance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To echo or repeat (a sound).",
+          "examples": []
+        },
+        {
+          "text": "To sound again.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

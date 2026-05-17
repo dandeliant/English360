@@ -1,0 +1,30 @@
+{
+  "lemma": "easily",
+  "slug": "easily",
+  "fetchedAt": "2026-05-17T08:59:01.561Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Comfortably, without discomfort or anxiety.",
+          "examples": []
+        },
+        {
+          "text": "Without difficulty.",
+          "examples": [
+            "Individuals without a family network are easily controlled.",
+            "He could have easily phoned and told us he'd be late."
+          ]
+        },
+        {
+          "text": "Absolutely, without question.",
+          "examples": [
+            "This is easily the best meal I have eaten."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

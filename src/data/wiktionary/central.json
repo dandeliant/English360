@@ -1,0 +1,34 @@
+{
+  "lemma": "central",
+  "slug": "central",
+  "fetchedAt": "2026-05-17T08:58:37.062Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being in the centre.",
+          "examples": []
+        },
+        {
+          "text": "Having or containing the centre of something.",
+          "examples": []
+        },
+        {
+          "text": "Being very important, or key to something.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "center",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

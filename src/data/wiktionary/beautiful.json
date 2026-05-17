@@ -1,0 +1,45 @@
+{
+  "lemma": "beautiful",
+  "slug": "beautiful",
+  "fetchedAt": "2026-05-17T08:58:04.223Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Possessing beauty, impressing the eye; attractive. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Anyone who has ever met her thought she was absolutely beautiful.",
+            "There's a beautiful lake by the town."
+          ]
+        },
+        {
+          "text": "Used emphatically or ironically, after the noun it qualifies.",
+          "examples": [
+            "the house beautiful"
+          ]
+        },
+        {
+          "text": "That one likes very much.",
+          "examples": [
+            "He was a beautiful person; he would drop everything to help you.",
+            "You've done a beautiful thing today."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who is beautiful. Can be used as a term of address.",
+          "examples": [
+            "The man was faithful to his wife, ignoring the many blonde beautifuls who surrounded him wherever he went.",
+            "Hey, beautiful!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "rustle",
+  "slug": "rustle",
+  "fetchedAt": "2026-05-17T09:00:31.031Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A soft crackling sound similar to the movement of dry leaves.",
+          "examples": []
+        },
+        {
+          "text": "A movement producing such a sound.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move (something) with a soft crackling sound.",
+          "examples": []
+        },
+        {
+          "text": "To make or obtain in a lively, energetic way.",
+          "examples": []
+        },
+        {
+          "text": "To steal (cattle or other livestock).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

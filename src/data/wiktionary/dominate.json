@@ -1,0 +1,43 @@
+{
+  "lemma": "dominate",
+  "slug": "dominate",
+  "fetchedAt": "2026-05-17T08:58:59.670Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To govern, rule or control by superior authority or power",
+          "examples": []
+        },
+        {
+          "text": "To exert an overwhelming guiding influence over something or someone",
+          "examples": []
+        },
+        {
+          "text": "To enjoy a commanding position in some field",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Dominant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The late period of the Roman Empire, following the principate, during which the emperor's rule became more explicitly autocratic and remaining vestiges of the Roman Republic were removed from the formal workings of government; the reign of any particular emperor during this period.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

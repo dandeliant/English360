@@ -1,0 +1,23 @@
+{
+  "lemma": "precisely",
+  "slug": "precisely",
+  "fetchedAt": "2026-05-17T09:00:16.642Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a precise manner; exactly.",
+          "examples": [
+            "I always try to express myself precisely."
+          ]
+        },
+        {
+          "text": "Used to provide emphasis. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

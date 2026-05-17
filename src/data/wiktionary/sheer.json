@@ -1,0 +1,76 @@
+{
+  "lemma": "sheer",
+  "slug": "sheer",
+  "fetchedAt": "2026-05-17T09:00:41.198Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very thin or transparent.",
+          "examples": [
+            "Her light, sheer dress caught everyone’s attention."
+          ]
+        },
+        {
+          "text": "Pure in composition; unmixed; unadulterated.",
+          "examples": []
+        },
+        {
+          "text": "Downright; complete; pure.",
+          "examples": [
+            "I think it is sheer genius to invent such a thing.",
+            "This poem is sheer nonsense."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Clean; completely; at once.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sheer curtain or fabric.",
+          "examples": [
+            "Use sheers to maximize natural light."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The curve of the main deck or gunwale from bow to stern.",
+          "examples": []
+        },
+        {
+          "text": "An abrupt swerve from the course of a ship.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To swerve from a course.",
+          "examples": []
+        },
+        {
+          "text": "Obsolete spelling of shear.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

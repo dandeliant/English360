@@ -1,0 +1,65 @@
+{
+  "lemma": "then",
+  "slug": "then",
+  "fetchedAt": "2026-05-17T09:01:06.982Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At that time.",
+          "examples": [
+            "He was happy then."
+          ]
+        },
+        {
+          "text": "Soon afterward.",
+          "examples": [
+            "He fixed it, then left.",
+            "Turn left, then right, then right again, then keep going until you reach the service station."
+          ]
+        },
+        {
+          "text": "Next in order of place.",
+          "examples": [
+            "There are three green ones, then a blue one."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Being so at that time.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That time.",
+          "examples": [
+            "It will be finished before then."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Obsolete spelling of than.",
+          "examples": []
+        },
+        {
+          "text": "Misspelling of than.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

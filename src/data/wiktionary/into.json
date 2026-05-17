@@ -1,0 +1,33 @@
+{
+  "lemma": "into",
+  "slug": "into",
+  "fetchedAt": "2026-05-17T08:59:38.781Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "To or towards the inside of.",
+          "examples": [
+            "Mary danced into the house.",
+            "Pour the wine into the decanter."
+          ]
+        },
+        {
+          "text": "To or towards the region of.",
+          "examples": [
+            "We left the house and walked into the street.",
+            "The eagle flew off into the wide blue sky."
+          ]
+        },
+        {
+          "text": "To the condition or state",
+          "examples": [
+            "They lulled us into thinking we still had time."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

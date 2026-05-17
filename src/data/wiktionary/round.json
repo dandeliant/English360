@@ -1,0 +1,139 @@
+{
+  "lemma": "round",
+  "slug": "round",
+  "fetchedAt": "2026-05-17T09:00:30.186Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "rounding function",
+          "examples": [
+            "round(3.3) = 3",
+            "round(3.6) = 4"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of shape: Circular or cylindrical; having a circular cross-section in one direction.",
+          "examples": [
+            "We sat at a round table to make conversation easier.",
+            "The ancient Egyptian demonstrated that the Earth is round, not flat."
+          ]
+        },
+        {
+          "text": "Circular or cylindrical; having a circular cross-section in one direction.",
+          "examples": [
+            "We sat at a round table to make conversation easier."
+          ]
+        },
+        {
+          "text": "Spherical; shaped like a ball; having a circular cross-section in more than one direction.",
+          "examples": [
+            "The ancient Egyptian demonstrated that the Earth is round, not flat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A circular or spherical object or part of an object.",
+          "examples": []
+        },
+        {
+          "text": "A circular or repetitious route.",
+          "examples": [
+            "hospital rounds",
+            "The prison guards have started their nightly rounds."
+          ]
+        },
+        {
+          "text": "A general outburst from a group of people at an event.",
+          "examples": [
+            "The candidate got a round of applause after every sentence or two."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Alternative form of around.",
+          "examples": [
+            "I look round the room quickly to make sure it's neat."
+          ]
+        },
+        {
+          "text": "Alternative form of around.",
+          "examples": [
+            "The farmer fed his cow hay all the year round."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Alternative form of around.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shape something into a curve.",
+          "examples": [
+            "The carpenter rounded the edges of the table."
+          ]
+        },
+        {
+          "text": "To become shaped into a curve.",
+          "examples": []
+        },
+        {
+          "text": "To finish; to complete; to fill out; see also round out.",
+          "examples": [
+            "She rounded out her education with only a single mathematics class."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To speak in a low tone; whisper; speak secretly; take counsel.",
+          "examples": []
+        },
+        {
+          "text": "To address or speak to in a whisper, utter in a whisper.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A whisper; whispering.",
+          "examples": []
+        },
+        {
+          "text": "Discourse; song.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

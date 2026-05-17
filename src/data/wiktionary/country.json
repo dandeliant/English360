@@ -1,0 +1,34 @@
+{
+  "lemma": "country",
+  "slug": "country",
+  "fetchedAt": "2026-05-17T08:58:47.003Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The territory of a nation; a sovereign state or a region once independent and still distinct in institutions, language, etc. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "From or in the countryside, connected with it, or typical of it.",
+          "examples": [
+            "Things around here are just a little more country than what he's used to."
+          ]
+        },
+        {
+          "text": "Of or connected to country music.",
+          "examples": [
+            "They're mainly a hard rock band, but their new album sounds kinda country to me."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

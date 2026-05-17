@@ -1,0 +1,34 @@
+{
+  "lemma": "immense",
+  "slug": "immense",
+  "fetchedAt": "2026-05-17T08:59:36.125Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Huge, gigantic, very large.",
+          "examples": []
+        },
+        {
+          "text": "Supremely good.",
+          "examples": []
+        },
+        {
+          "text": "Major; to a great degree.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Immense extent or expanse; immensity.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

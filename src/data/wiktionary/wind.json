@@ -1,0 +1,73 @@
+{
+  "lemma": "wind",
+  "slug": "wind",
+  "fetchedAt": "2026-05-17T09:01:24.970Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+          "examples": [
+            "The wind blew through her hair as she stood on the deck of the ship.",
+            "As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack."
+          ]
+        },
+        {
+          "text": "Air artificially put in motion by any force or action.",
+          "examples": [
+            "the wind of a cannon ball",
+            "the wind of a bellows"
+          ]
+        },
+        {
+          "text": "The ability to breathe easily.",
+          "examples": [
+            "After the second lap he was already out of wind.",
+            "The fall knocked the wind out of him."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To blow air through a wind instrument or horn to make a sound.",
+          "examples": []
+        },
+        {
+          "text": "To cause (someone) to become breathless, as by a blow to the abdomen, or by physical exertion, running, etc.",
+          "examples": [
+            "The boxer was winded during round two."
+          ]
+        },
+        {
+          "text": "To cause a baby to bring up wind by patting its back after being fed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn coils (of a cord or something similar) around something.",
+          "examples": [
+            "to wind thread on a spool or into a ball"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of winding or turning; a turn; a bend; a twist.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

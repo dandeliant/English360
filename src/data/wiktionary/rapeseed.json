@@ -1,0 +1,21 @@
+{
+  "lemma": "rapeseed",
+  "slug": "rapeseed",
+  "fetchedAt": "2026-05-17T09:00:20.467Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The seed of the rape plant (Brassica napus), used widely for animal feed and vegetable oil.",
+          "examples": []
+        },
+        {
+          "text": "The rape plant itself.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

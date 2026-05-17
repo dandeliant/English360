@@ -1,0 +1,36 @@
+{
+  "lemma": "crop",
+  "slug": "crop",
+  "fetchedAt": "2026-05-17T08:58:47.864Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A plant, grown for it, or its fruits or seeds, to be harvested as food, livestock fodder, or fuel or for any other economic purpose.",
+          "examples": [
+            "The farmer had to decide which crop to grow as his main bet for the coming year. Would it be barley, oats, or something else?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove the top end of something, especially a plant.",
+          "examples": []
+        },
+        {
+          "text": "To mow, reap or gather.",
+          "examples": []
+        },
+        {
+          "text": "To cut (especially hair or an animal's tail or ears) short.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

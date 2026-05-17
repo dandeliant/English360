@@ -1,0 +1,94 @@
+{
+  "lemma": "when",
+  "slug": "when",
+  "fetchedAt": "2026-05-17T09:01:20.397Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.",
+          "examples": [
+            "When will they arrive?",
+            "Do you know when they arrived?"
+          ]
+        },
+        {
+          "text": "Used after a noun or noun phrase in isolation to express impatience with an anticipated future event.",
+          "examples": [
+            "The site's all bugged. Fix when?",
+            "Tank class buff when?"
+          ]
+        },
+        {
+          "text": "At an earlier time and under different, usually less favorable, circumstances.",
+          "examples": [
+            "He's mister high and mighty now, but I remember him when."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "At (or as soon as) that time that; at the (or any and every) time that; if.",
+          "examples": [
+            "Pavlov's dogs salivate when [i.e. at any and every time that] they hear a bell.",
+            "When [i.e. at any and every time that] he speaks to her, he is always polite."
+          ]
+        },
+        {
+          "text": "During the time that; at the time of the action of the following clause or participle phrase.",
+          "examples": [
+            "They dream when [i.e. during the time that] they sleep.",
+            "I'm happiest when [during the time that, or at any time that] I’m working."
+          ]
+        },
+        {
+          "text": "At what time; at which time.",
+          "examples": [
+            "I am here till Friday, when [i.e. at which time] I leave for Senegal.",
+            "I was just walking down the street, when [i.e. at which time] all of a sudden it started to rain."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "What time; which time.",
+          "examples": [
+            "Since when do I need your permission?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The time at which something happens.",
+          "examples": [
+            "A good article will cover the who, the what, the when, the where, the why and the how."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "That's enough: a command asking someone to stop adding something, especially an ingredient or portion of food or drink; used in, or as if in, literal response to 'Say when'.",
+          "examples": []
+        },
+        {
+          "text": "Expressing impatience.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

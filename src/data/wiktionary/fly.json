@@ -1,0 +1,120 @@
+{
+  "lemma": "fly",
+  "slug": "fly",
+  "fetchedAt": "2026-05-17T08:59:18.933Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Tsotsitaal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To travel through the air, another gas, or a vacuum, without being in contact with a grounded surface.",
+          "examples": [
+            "Birds of passage fly to warmer regions as it gets colder in winter.",
+            "The Concorde flew from Paris to New York faster than any other passenger airplane."
+          ]
+        },
+        {
+          "text": "To flee, to escape (from).",
+          "examples": [
+            "Fly, my lord! The enemy are upon us!"
+          ]
+        },
+        {
+          "text": "To cause to fly (travel or float in the air): to transport via air or the like.",
+          "examples": [
+            "Charles Lindbergh flew his airplane The Spirit of St. Louis across the Atlantic ocean.",
+            "Why don’t you go outside and fly kites, kids? The wind is just perfect."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The action of flying; flight.",
+          "examples": []
+        },
+        {
+          "text": "An act of flying.",
+          "examples": [
+            "There was a good wind, so I decided to give the kite a fly."
+          ]
+        },
+        {
+          "text": "A fly ball.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hit a fly ball; to hit a fly ball that is caught for an out. Compare ground (verb) and line (verb).",
+          "examples": [
+            "Jones flied to right in his last at-bat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Quick-witted, alert, mentally sharp.",
+          "examples": []
+        },
+        {
+          "text": "Clandestine, surreptitious",
+          "examples": []
+        },
+        {
+          "text": "Well dressed, smart in appearance; in style, cool.",
+          "examples": [
+            "He's pretty fly."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A wing.",
+          "examples": [
+            "The bullet barely grazed the wild fowl's fly."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of vly (“swamp (in New York)”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

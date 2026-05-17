@@ -1,0 +1,94 @@
+{
+  "lemma": "fresh",
+  "slug": "fresh",
+  "fetchedAt": "2026-05-17T08:59:20.889Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Newly produced or obtained; recent.",
+          "examples": [
+            "He followed the fresh hoofprints to find the deer.",
+            "I seem to make fresh mistakes every time I start writing."
+          ]
+        },
+        {
+          "text": "(of food) Not dried, frozen, or spoiled.",
+          "examples": [
+            "After taking a beating in the boxing ring, the left side of his face looked like fresh meat.",
+            "I brought home from the market a nice bunch of fresh spinach leaves straight from the farm."
+          ]
+        },
+        {
+          "text": "(of plant material) Still green and not dried.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Recently; just recently; most recently.",
+          "examples": [
+            "We are fresh out of milk.",
+            "fresh-cooked salmon."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rush of water, along a river or onto the land; a flood.",
+          "examples": []
+        },
+        {
+          "text": "A stream or spring of fresh water.",
+          "examples": []
+        },
+        {
+          "text": "The mingling of fresh water with salt in rivers or bays, as by means of a flood of fresh water flowing toward or into the sea.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pack (fish) loosely on ice.",
+          "examples": []
+        },
+        {
+          "text": "To flood or dilute an area of salt water with flowing fresh water.",
+          "examples": []
+        },
+        {
+          "text": "To become stronger.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Rude, cheeky, or inappropriate; presumptuous; disrespectful; forward.",
+          "examples": [
+            "No one liked his fresh comments."
+          ]
+        },
+        {
+          "text": "Sexually aggressive or forward; prone to caress too eagerly; overly flirtatious.",
+          "examples": [
+            "Hey, don't get fresh with me!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

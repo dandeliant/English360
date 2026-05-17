@@ -1,0 +1,154 @@
+{
+  "lemma": "no",
+  "slug": "no",
+  "fetchedAt": "2026-05-17T08:59:59.411Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Norwegian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Not any.",
+          "examples": [
+            "no one",
+            "There is no water left."
+          ]
+        },
+        {
+          "text": "Hardly any.",
+          "examples": [
+            "We'll be finished in no time at all.",
+            "Fifty pounds for this is no money, really."
+          ]
+        },
+        {
+          "text": "Not any possibility or allowance of (something).",
+          "examples": [
+            "No smoking. No parking.",
+            "There's no stopping her once she gets going."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Not, not at all. Used before different, before comparatives with more and less, and idiomatically before other comparatives.",
+          "examples": [
+            "It is a less physical kind of torture, but no less gruesome.",
+            "I can think of no more deserving cause."
+          ]
+        },
+        {
+          "text": "Used before different, before comparatives with more and less, and idiomatically before other comparatives.",
+          "examples": [
+            "It is a less physical kind of torture, but no less gruesome.",
+            "I can think of no more deserving cause."
+          ]
+        },
+        {
+          "text": "Used idiomatically before certain other adjectives.",
+          "examples": [
+            "This thing is no good.",
+            "The teacher’s decision was no fair."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Used to show disagreement, negation, denial, refusal, or prohibition.",
+          "examples": [
+            "No, you are mistaken.",
+            "No, you may not watch television now."
+          ]
+        },
+        {
+          "text": "Used to express sadness or disappointment.",
+          "examples": [
+            "We lost. / No!"
+          ]
+        },
+        {
+          "text": "Used to express disbelief.",
+          "examples": [
+            "I got the job! / No! Really? That's fantastic!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Without.",
+          "examples": [
+            "Look Ma, no hands!"
+          ]
+        },
+        {
+          "text": "(Can we verify this sense?) Like.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A negating expression; an answer that shows disagreement, denial, refusal, or disapproval.",
+          "examples": []
+        },
+        {
+          "text": "A vote not in favor, or opposing a proposition.",
+          "examples": [
+            "The workers voted on whether to strike, and there were thirty yeses and two nos."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To say “no”.",
+          "examples": []
+        },
+        {
+          "text": "To answer with “no”; to decline, reject.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Alternative form of No.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of No.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

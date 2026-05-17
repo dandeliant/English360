@@ -1,0 +1,34 @@
+{
+  "lemma": "buzzard",
+  "slug": "buzzard",
+  "fetchedAt": "2026-05-17T08:58:18.303Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of several Old World birds of prey of the genus Buteo with broad wings and a broad tail.",
+          "examples": []
+        },
+        {
+          "text": "Any scavenging bird, such as the American black vulture (Coragyps atratus) or the turkey vulture (Cathartes aura).",
+          "examples": []
+        },
+        {
+          "text": "In North America, a curmudgeonly or cantankerous man; an old person; a mean, greedy person.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bastard.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

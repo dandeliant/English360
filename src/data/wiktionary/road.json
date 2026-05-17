@@ -1,0 +1,39 @@
+{
+  "lemma": "road",
+  "slug": "road",
+  "fetchedAt": "2026-05-17T09:00:27.829Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Roads in general as a means of travel, especially by motor vehicle.",
+          "examples": [
+            "We travelled to the seaside by road."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "At the venue of the opposing team or competitor; on the road.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to a road bike.",
+          "examples": [
+            "road tires",
+            "road groupset"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

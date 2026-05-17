@@ -1,0 +1,121 @@
+{
+  "lemma": "close",
+  "slug": "close",
+  "fetchedAt": "2026-05-17T08:58:42.287Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove or block an opening, gap or passage through. To move a thing, or part of a thing, nearer to another so that the gap or opening between the two is removed.",
+          "examples": [
+            "Close the door behind you when you leave.",
+            "Many flowers close at night."
+          ]
+        },
+        {
+          "text": "To move a thing, or part of a thing, nearer to another so that the gap or opening between the two is removed.",
+          "examples": [
+            "Close the door behind you when you leave.",
+            "Many flowers close at night."
+          ]
+        },
+        {
+          "text": "To obstruct or block.",
+          "examples": [
+            "They closed the road for the festival.",
+            "Ice has closed the channel to shipping."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An end or conclusion.",
+          "examples": [
+            "We owe them our thanks for bringing the project to a successful close."
+          ]
+        },
+        {
+          "text": "The manner of shutting; the union of parts; junction.",
+          "examples": []
+        },
+        {
+          "text": "The point at the end of a sales pitch when the consumer is asked to buy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having little difference or distance in place, position, or abstractly; see also close to. At little distance; near in space or time.",
+          "examples": [
+            "Is your house close?",
+            "Christmas is getting close."
+          ]
+        },
+        {
+          "text": "At little distance; near in space or time.",
+          "examples": [
+            "Is your house close?",
+            "Christmas is getting close."
+          ]
+        },
+        {
+          "text": "Almost, but not quite (getting to an answer, goal, or other state); near.",
+          "examples": [
+            "No, but you were close.",
+            "We were so close to winning!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a close manner (limited contexts; more often closely). So as to leave or create little distance or space between objects.",
+          "examples": [
+            "The car behind was following too close and could not brake in time.",
+            "Please stay close together."
+          ]
+        },
+        {
+          "text": "So as to leave or create little distance or space between objects.",
+          "examples": [
+            "The car behind was following too close and could not brake in time.",
+            "Please stay close together."
+          ]
+        },
+        {
+          "text": "Carefully, in detail.",
+          "examples": [
+            "Look close at the pictures."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An enclosed field, especially a field enclosed around a (usually religious) building.",
+          "examples": []
+        },
+        {
+          "text": "A street that ends in a dead end.",
+          "examples": []
+        },
+        {
+          "text": "A very narrow alley between two buildings, often overhung by one of the buildings above the ground floor.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

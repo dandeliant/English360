@@ -1,0 +1,67 @@
+{
+  "lemma": "silence",
+  "slug": "silence",
+  "fetchedAt": "2026-05-17T09:00:43.495Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The absence of any sound.",
+          "examples": [
+            "When the motor stopped, the silence was almost deafening.",
+            "deadly silence"
+          ]
+        },
+        {
+          "text": "The act of refraining from speaking.",
+          "examples": [
+            "\"You have the right to silence,\" said the police officer."
+          ]
+        },
+        {
+          "text": "Refraining from speaking, for purposes of prayer or meditation; especially, a form of worship practiced by the Society of Friends (Quakers) during meetings.",
+          "examples": [
+            "During silence a message came to me that there was that of God in every person."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (someone or something) silent.",
+          "examples": [
+            "Can you silence the crowd, so we can start the show?"
+          ]
+        },
+        {
+          "text": "To repress the expression of something.",
+          "examples": [
+            "Women, as well as children, have their thoughts or emotions routinely silenced."
+          ]
+        },
+        {
+          "text": "To suppress criticism, etc.",
+          "examples": [
+            "Silence the critics.",
+            "Silence the doubters."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Be silent.",
+          "examples": [
+            "Silence! Enough of your insolence!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

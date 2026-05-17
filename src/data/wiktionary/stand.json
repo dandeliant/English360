@@ -1,0 +1,67 @@
+{
+  "lemma": "stand",
+  "slug": "stand",
+  "fetchedAt": "2026-05-17T09:00:54.103Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To position or be positioned physically: To support oneself on the feet in an erect position.",
+          "examples": [
+            "Here I stand, wondering what to do next.",
+            "I can't reach the celing. Get me a chair to stand on."
+          ]
+        },
+        {
+          "text": "To support oneself on the feet in an erect position.",
+          "examples": [
+            "Here I stand, wondering what to do next.",
+            "I can't reach the celing. Get me a chair to stand on."
+          ]
+        },
+        {
+          "text": "To rise to one’s feet; to stand up.",
+          "examples": [
+            "Stand up, walk to the refrigerator, and get your own snack."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of standing.",
+          "examples": []
+        },
+        {
+          "text": "A defensive position or effort.",
+          "examples": [
+            "The Commander says we will make our stand here."
+          ]
+        },
+        {
+          "text": "A resolute, unwavering position; firm opinion; action for a purpose in the face of opposition.",
+          "examples": [
+            "They took a firm stand against copyright infringement."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A container which stands upright, such as a barrel or cask.",
+          "examples": []
+        },
+        {
+          "text": "A weight of from two hundred and fifty to three hundred pounds, used in weighing pitch.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

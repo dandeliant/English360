@@ -1,0 +1,38 @@
+{
+  "lemma": "silent",
+  "slug": "silent",
+  "fetchedAt": "2026-05-17T09:00:44.384Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Free from sound or noise; absolutely still; perfectly quiet.",
+          "examples": []
+        },
+        {
+          "text": "Not speaking; indisposed to talk; speechless; mute; taciturn; not loquacious; not talkative.",
+          "examples": []
+        },
+        {
+          "text": "Keeping at rest; inactive; calm; undisturbed.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is silent; a time of silence.",
+          "examples": []
+        },
+        {
+          "text": "A silent movie",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

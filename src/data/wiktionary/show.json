@@ -1,0 +1,57 @@
+{
+  "lemma": "show",
+  "slug": "show",
+  "fetchedAt": "2026-05-17T09:00:42.545Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To display, to have somebody see (something).",
+          "examples": [
+            "The car's dull finish showed years of neglect.",
+            "All he had to show for four years of attendance at college was a framed piece of paper."
+          ]
+        },
+        {
+          "text": "To bestow; to confer.",
+          "examples": [
+            "to show mercy; to show favour",
+            "show me the salt please"
+          ]
+        },
+        {
+          "text": "To indicate (a fact) to be true; to demonstrate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A play, dance, or other entertainment.",
+          "examples": [
+            "There were a thousand people at the show."
+          ]
+        },
+        {
+          "text": "An exhibition of items.",
+          "examples": [
+            "art show; dog show"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of shive (“wood fragment of the husk of flax or hemp”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

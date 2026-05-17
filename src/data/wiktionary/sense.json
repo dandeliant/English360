@@ -1,0 +1,36 @@
+{
+  "lemma": "sense",
+  "slug": "sense",
+  "fetchedAt": "2026-05-17T09:00:39.423Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To use biological senses: to either see, hear, smell, taste, or feel.",
+          "examples": []
+        },
+        {
+          "text": "To instinctively be aware.",
+          "examples": [
+            "She immediately sensed her disdain."
+          ]
+        },
+        {
+          "text": "To comprehend.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

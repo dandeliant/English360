@@ -1,0 +1,32 @@
+{
+  "lemma": "generous",
+  "slug": "generous",
+  "fetchedAt": "2026-05-17T08:59:22.791Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Noble in behaviour or actions; principled, not petty; kind, magnanimous. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Thank you for your generous words."
+          ]
+        },
+        {
+          "text": "Willing to give and share unsparingly; showing a readiness to give more (especially money) than is expected or needed.",
+          "examples": [
+            "She's been extremely generous with her winnings."
+          ]
+        },
+        {
+          "text": "Large; more than ample; copious.",
+          "examples": [
+            "Add a generous helping of mayonnaise.",
+            "his generous buttocks"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

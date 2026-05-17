@@ -1,0 +1,25 @@
+{
+  "lemma": "interruption",
+  "slug": "interruption",
+  "fetchedAt": "2026-05-17T08:59:37.879Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of interrupting, or the state of being interrupted.",
+          "examples": []
+        },
+        {
+          "text": "the act of breaking into someone else’s speech.",
+          "examples": []
+        },
+        {
+          "text": "A time interval during which there is a cessation of something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

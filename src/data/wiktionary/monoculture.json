@@ -1,0 +1,30 @@
+{
+  "lemma": "monoculture",
+  "slug": "monoculture",
+  "fetchedAt": "2026-05-17T08:59:57.927Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The cultivation of a single crop at a time.",
+          "examples": []
+        },
+        {
+          "text": "A culture or society that lacks diversity; a society marked by monoculturalism.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cultivate such a crop",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

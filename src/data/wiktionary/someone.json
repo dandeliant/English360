@@ -1,0 +1,37 @@
+{
+  "lemma": "someone",
+  "slug": "someone",
+  "fetchedAt": "2026-05-17T09:00:51.441Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "One or some person of unspecified or indefinite identity.",
+          "examples": [
+            "Can someone help me, please?",
+            "Can you get me someone more knowledgeable?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A partially specified but unnamed person.",
+          "examples": [
+            "Do you need a gift for that special someone?"
+          ]
+        },
+        {
+          "text": "An important person.",
+          "examples": [
+            "He thinks he has become someone."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

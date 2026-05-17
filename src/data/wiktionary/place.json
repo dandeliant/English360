@@ -1,0 +1,55 @@
+{
+  "lemma": "place",
+  "slug": "place",
+  "fetchedAt": "2026-05-17T09:00:14.073Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An area; somewhere within an area. An open space, particularly a city square, market square, or courtyard. A street, sometimes but not always surrounding a public place, square, or plaza of the same name.",
+          "examples": [
+            "They live at Westminster Place.",
+            "He is going back to his native place on vacation."
+          ]
+        },
+        {
+          "text": "An open space, particularly a city square, market square, or courtyard.",
+          "examples": []
+        },
+        {
+          "text": "A street, sometimes but not always surrounding a public place, square, or plaza of the same name.",
+          "examples": [
+            "They live at Westminster Place."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put (someone or something) in a specific location.",
+          "examples": [
+            "He placed the glass on the table.",
+            "to place someone on a pedestal"
+          ]
+        },
+        {
+          "text": "To earn a given spot in a competition; to rank at a certain position ().",
+          "examples": [
+            "The Cowboys placed third in the league.",
+            "Run Ragged was placed fourth in the race."
+          ]
+        },
+        {
+          "text": "To finish second, especially of horses or dogs.",
+          "examples": [
+            "In the third race: Aces Up won, paying eight dollars; Blarney Stone placed, paying three dollars; and Cinnamon showed, paying five dollars."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

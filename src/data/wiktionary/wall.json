@@ -1,0 +1,99 @@
+{
+  "lemma": "wall",
+  "slug": "wall",
+  "fetchedAt": "2026-05-17T09:01:18.146Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rampart of earth, stones etc. built up for defensive purposes.",
+          "examples": []
+        },
+        {
+          "text": "A structure built for defense surrounding a city, castle etc.",
+          "examples": [
+            "The town wall was surrounded by a moat."
+          ]
+        },
+        {
+          "text": "Each of the substantial structures acting either as the exterior of or divisions within a structure.",
+          "examples": [
+            "We're adding another wall in this room during the remodeling. The wind blew against the walls of the tent."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To enclose with, or as if with, a wall or walls.",
+          "examples": [
+            "He walled the study with books."
+          ]
+        },
+        {
+          "text": "To use a wallhack.",
+          "examples": []
+        },
+        {
+          "text": "To wallbang.",
+          "examples": [
+            "I walled her. She's low [health]."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To boil.",
+          "examples": []
+        },
+        {
+          "text": "To well, as water; spring.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A spring of water.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A kind of knot often used at the end of a rope; a wall knot or wale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a wall knot on the end of (a rope).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of well.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

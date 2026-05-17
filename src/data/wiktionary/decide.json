@@ -1,0 +1,33 @@
+{
+  "lemma": "decide",
+  "slug": "decide",
+  "fetchedAt": "2026-05-17T08:58:51.906Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle.",
+          "examples": [
+            "The election will be decided on foreign policies.",
+            "It was decided to meet here at midnight."
+          ]
+        },
+        {
+          "text": "To make a judgment, especially after deliberation.",
+          "examples": [
+            "You must decide between good and evil.",
+            "I have decided that it is healthier to walk to work."
+          ]
+        },
+        {
+          "text": "To cause someone to come to a decision.",
+          "examples": [
+            "Your admonition decided me against my intended course of action."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

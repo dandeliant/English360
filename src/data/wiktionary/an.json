@@ -1,0 +1,88 @@
+{
+  "lemma": "an",
+  "slug": "an",
+  "fetchedAt": "2026-05-17T08:58:00.776Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Aragonese.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Article",
+      "definitions": [
+        {
+          "text": "Form of a . Used before a vowel sound.",
+          "examples": [
+            "I'll be there in half an hour.",
+            "'E's staying at an 'otel. (compare He's staying at a hotel.)"
+          ]
+        },
+        {
+          "text": "Used before a vowel sound.",
+          "examples": [
+            "I'll be there in half an hour.",
+            "'E's staying at an 'otel. (compare He's staying at a hotel.)"
+          ]
+        },
+        {
+          "text": "Used before /h/ in a stressed or unstressed syllable.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "one",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "If",
+          "examples": []
+        },
+        {
+          "text": "So long as.",
+          "examples": [
+            "An it harm none, do what ye will."
+          ]
+        },
+        {
+          "text": "As if; as though.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The first letter of the Georgian alphabet, ა (Mkhedruli), Ⴀ (Asomtavruli) or ⴀ (Nuskhuri).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "In each; to or for each; per.",
+          "examples": [
+            "I was only going twenty miles an hour."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

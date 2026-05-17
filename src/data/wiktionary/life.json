@@ -1,0 +1,45 @@
+{
+  "lemma": "life",
+  "slug": "life",
+  "fetchedAt": "2026-05-17T08:59:47.531Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.",
+          "examples": [
+            "I want my kids to live a good life. He gave up on life."
+          ]
+        },
+        {
+          "text": "The status possessed by any of a number of entities, including animals, plants, fungi, bacteria, and sometimes viruses, which have the properties of replication and metabolism.",
+          "examples": []
+        },
+        {
+          "text": "The animating principle or force that keeps an inorganic thing or concept metaphorically alive (dynamic, relevant, etc) and makes it a \"living document\", \"living constitution\", etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To replace components whose operational lifetime has expired.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Synonym of God's life (an oath).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "mark",
+  "slug": "mark",
+  "fetchedAt": "2026-05-17T08:59:54.203Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Boundary, land within a boundary. A boundary; a border or frontier. .mw-parser-output .defdate{font-size:smaller} A boundary-post or fence. A stone or post used to indicate position and guide travellers. The line indicating an athlete's starting-point. A type of small region or principality. A common, or area of common land, especially among early Germanic peoples.",
+          "examples": []
+        },
+        {
+          "text": "A boundary; a border or frontier. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A boundary-post or fence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put a mark on (something); to make (something) recognizable by a mark; to label or write on (something).",
+          "examples": [
+            "to mark a box or bale of merchandise",
+            "to mark clothing with one's name"
+          ]
+        },
+        {
+          "text": "To leave a mark (often an undesirable or unwanted one) on (something).",
+          "examples": [
+            "See where this pencil has marked the paper.",
+            "The floor was marked with wine and blood."
+          ]
+        },
+        {
+          "text": "To have a long-lasting negative impact on (someone or something).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A half pound, a traditional unit of mass equivalent to 226.8 g.",
+          "examples": []
+        },
+        {
+          "text": "Similar half-pound units in other measurement systems, chiefly used for gold and silver.",
+          "examples": []
+        },
+        {
+          "text": "A half pound, a former English and Scottish currency equivalent to 13 shillings and fourpence and notionally equivalent to a mark of sterling silver.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A former currency of Germany and West Germany.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of march.",
+          "examples": [
+            "Mark time, mark!",
+            "Forward, mark!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

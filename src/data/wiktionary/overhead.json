@@ -1,0 +1,77 @@
+{
+  "lemma": "overhead",
+  "slug": "overhead",
+  "fetchedAt": "2026-05-17T09:00:07.480Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Located above, especially over the head.",
+          "examples": [
+            "Place your luggage in the overhead lockers."
+          ]
+        },
+        {
+          "text": "Kicked over one's own head.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The expense of a business not directly assigned to goods or services provided.",
+          "examples": []
+        },
+        {
+          "text": "The items or classes of expense not directly assigned to goods or services provided.",
+          "examples": []
+        },
+        {
+          "text": "Any cost or expenditure (monetary, time, effort or otherwise) incurred in a project or activity, which does not directly contribute to its progress or outcome.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Above one's head; in the sky.",
+          "examples": [
+            "birds flying overhead"
+          ]
+        },
+        {
+          "text": "Per head; for each individual.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Above.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An overhead projector.",
+          "examples": []
+        },
+        {
+          "text": "A sheet of transparent material with an image used with an overhead projector; an overhead transparency.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

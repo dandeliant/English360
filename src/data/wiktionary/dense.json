@@ -1,0 +1,34 @@
+{
+  "lemma": "dense",
+  "slug": "dense",
+  "fetchedAt": "2026-05-17T08:58:52.738Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having relatively high density.",
+          "examples": []
+        },
+        {
+          "text": "Compact; crowded together.",
+          "examples": []
+        },
+        {
+          "text": "Thick; difficult to penetrate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thicket.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

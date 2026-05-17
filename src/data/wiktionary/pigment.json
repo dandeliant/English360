@@ -1,0 +1,38 @@
+{
+  "lemma": "pigment",
+  "slug": "pigment",
+  "fetchedAt": "2026-05-17T09:00:12.780Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any color in plant or animal cells.",
+          "examples": [
+            "Chlorophyll is the pigment responsible for most plants' green colouring."
+          ]
+        },
+        {
+          "text": "A dry colorant, usually an insoluble powder.",
+          "examples": [
+            "Umber is a pigment made from clay containing iron and manganese oxide."
+          ]
+        },
+        {
+          "text": "Wine flavoured with spices and honey.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To add color or pigment to something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

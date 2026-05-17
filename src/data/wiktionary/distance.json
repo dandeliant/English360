@@ -1,0 +1,43 @@
+{
+  "lemma": "distance",
+  "slug": "distance",
+  "fetchedAt": "2026-05-17T08:58:58.841Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An amount of space between points (often geographical points), usually (but not necessarily) measured along a straight line. Chiefly in by a distance: a space of more than 30 lengths (about 80 yards or 7.3 metres) between two racehorses finishing a race, used to describe the margin of victory; also , any space of 240 yards (about 219.5 metres) on a racecourse. Chiefly in from a distance: a place which is far away or remote; specifically , a more remote part of a landscape or view as contrasted with the foreground. Chiefly with a modifying word: a measure between two points or quantities; a difference, a variance.",
+          "examples": [
+            "angular distance focal distance",
+            "The distance between the lowest and next gear on my bicycle is annoying."
+          ]
+        },
+        {
+          "text": "An amount of space between points (often geographical points), usually (but not necessarily) measured along a straight line. Chiefly in by a distance: a space of more than 30 lengths (about 80 yards or 7.3 metres) between two racehorses finishing a race, used to describe the margin of victory; also , any space of 240 yards (about 219.5 metres) on a racecourse.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Often followed by from: to set (someone or something) at a distance (noun sense 1.1) from someone or something else. To cause (a place, a thing, etc.) to seem distant, or unfamiliar. To leave behind (someone or something moving in the same direction; specifically, other competitors in a race) some distance away; to outpace, to outstrip.",
+          "examples": [
+            "He distanced himself from the comments made by some of his colleagues."
+          ]
+        },
+        {
+          "text": "Often followed by from: to set (someone or something) at a distance (noun sense 1.1) from someone or something else.",
+          "examples": []
+        },
+        {
+          "text": "To cause (a place, a thing, etc.) to seem distant, or unfamiliar.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

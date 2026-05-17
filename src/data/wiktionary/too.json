@@ -1,0 +1,40 @@
+{
+  "lemma": "too",
+  "slug": "too",
+  "fetchedAt": "2026-05-17T09:01:10.689Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Xicotepec de Juárez Totonac.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Likewise.",
+          "examples": []
+        },
+        {
+          "text": "Also, in addition marks a statement as equally valid as the preceding one.",
+          "examples": [
+            "There has been a cutback in federal subsidies. Rates have been increasing too.",
+            "He's always willing to help. He, too, is generous with his time."
+          ]
+        },
+        {
+          "text": "To an excessive degree, more than enough indicates that the degree of a quality is more than what is needed or wanted.",
+          "examples": [
+            "I'm still much too young to drive, and my grandpa is already far too old.",
+            "This water is too polluted for us to drink (it)."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

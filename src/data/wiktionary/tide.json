@@ -1,0 +1,60 @@
+{
+  "lemma": "tide",
+  "slug": "tide",
+  "fetchedAt": "2026-05-17T09:01:09.558Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The daily fluctuation in the level of the sea caused by the gravitational influence of the moon and the sun.",
+          "examples": [
+            "The Bristol Channel has some of the world's largest tides."
+          ]
+        },
+        {
+          "text": "The associated flow of water.",
+          "examples": [
+            "A lot of driftwood was brought in on the tide."
+          ]
+        },
+        {
+          "text": "Any similar gravitational effect on Earth or other body.",
+          "examples": [
+            "As well as sea tides, there are much smaller land tides.",
+            "By far the largest tides on Europa are those caused by the gravitational attraction of Jupiter."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to float with the tide; to drive or carry with the tide or stream.",
+          "examples": []
+        },
+        {
+          "text": "To carry over or through a problem or difficulty.",
+          "examples": []
+        },
+        {
+          "text": "To pour a tide or flood.",
+          "examples": [
+            "The ocean tided most impressively."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To happen, occur.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

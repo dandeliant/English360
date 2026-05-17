@@ -1,0 +1,27 @@
+{
+  "lemma": "horizon",
+  "slug": "horizon",
+  "fetchedAt": "2026-05-17T08:59:34.103Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The visible horizontal line (in all directions) where the sky appears to meet the earth in the distance.",
+          "examples": [
+            "A tall building was visible on the whole sweep of the horizon.",
+            "The sky and sea seem to merge at the horizon."
+          ]
+        },
+        {
+          "text": "The range or limit of one's knowledge, experience or interest; a boundary or threshold.",
+          "examples": [
+            "Some students take a gap year after finishing high school to broaden their horizons.",
+            "With clinical researchers hard at work, a new treatment is on the horizon."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

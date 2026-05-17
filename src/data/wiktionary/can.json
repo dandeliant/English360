@@ -1,0 +1,108 @@
+{
+  "lemma": "can",
+  "slug": "can",
+  "fetchedAt": "2026-05-17T08:58:36.126Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Chambri.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To know how to.",
+          "examples": [
+            "She can speak English, French, and German.",
+            "I can play football."
+          ]
+        },
+        {
+          "text": "To be able to.",
+          "examples": [
+            "Can you remember your fifth birthday?",
+            "Animals can experience emotions."
+          ]
+        },
+        {
+          "text": "May; to be permitted or enabled to.",
+          "examples": [
+            "You can go outside and play when you're finished with your homework.",
+            "Can I use your pen?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "OK, sure; indicates approval or acknowledgment.",
+          "examples": []
+        },
+        {
+          "text": "Used to convey reassurance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "OK(?); used at the end of a question when seeking approval or acknowledgment.",
+          "examples": [
+            "I cut this wire, can?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A container or vessel, especially for liquids, usually made of metal.",
+          "examples": [
+            "I keep a can of fuel for emergencies.",
+            "Soup in a can lasts for years."
+          ]
+        },
+        {
+          "text": "A sealed metal container, cylindrical or cuboid in form, typically used to store preserved foods.",
+          "examples": [
+            "Soup in a can lasts for years."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To seal in a can.",
+          "examples": [
+            "They canned air to sell as a novelty to tourists."
+          ]
+        },
+        {
+          "text": "To preserve by heating and sealing in a jar or can.",
+          "examples": [
+            "They spent August canning fruit and vegetables."
+          ]
+        },
+        {
+          "text": "To discard, scrap or terminate (an idea, project, etc.).",
+          "examples": [
+            "He canned the whole project because he thought it would fail."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

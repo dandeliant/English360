@@ -1,0 +1,66 @@
+{
+  "lemma": "refuse",
+  "slug": "refuse",
+  "fetchedAt": "2026-05-17T09:00:22.212Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Discarded, rejected.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Collectively, items or material that have been discarded; rubbish, garbage.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decline (a request or demand).",
+          "examples": [
+            "My request for a pay rise was refused."
+          ]
+        },
+        {
+          "text": "To decline a request or demand, forbear; to withhold permission.",
+          "examples": [
+            "I refuse to listen to this nonsense any more.",
+            "I asked the star if I could have her autograph, but she refused."
+          ]
+        },
+        {
+          "text": "To withhold (something) from (someone); to not give it to them or to bar them from having it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "refusal",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fuse again, as with, or after, heating or melting.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

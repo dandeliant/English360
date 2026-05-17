@@ -1,0 +1,73 @@
+{
+  "lemma": "where",
+  "slug": "where",
+  "fetchedAt": "2026-05-17T09:01:21.199Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In, at or to what place.",
+          "examples": [
+            "Where are you?",
+            "He asked where I grew up."
+          ]
+        },
+        {
+          "text": "In what situation.",
+          "examples": [
+            "Where would we be without our parents?"
+          ]
+        },
+        {
+          "text": "In, at or to the place (that) or a place (that).",
+          "examples": [
+            "Stay where you are.",
+            "Go back where you came from."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "While on the contrary; although; whereas.",
+          "examples": [
+            "Where Susy has trouble coloring inside the lines, Johnny has already mastered shading."
+          ]
+        },
+        {
+          "text": "That.",
+          "examples": [
+            "I read where they caught the guy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "What place.",
+          "examples": [
+            "Where did you come from?",
+            "Where are you at?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The place in which something happens.",
+          "examples": [
+            "A good article will cover the who, the what, the when, the where, the why and the how."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

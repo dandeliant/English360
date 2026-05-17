@@ -1,0 +1,41 @@
+{
+  "lemma": "occasional",
+  "slug": "occasional",
+  "fetchedAt": "2026-05-17T09:00:02.181Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Occurring or appearing irregularly from time to time, but not often; incidental.",
+          "examples": [
+            "He was mostly solitary, but enjoyed the occasional visitor.",
+            "He took an occasional glass of wine."
+          ]
+        },
+        {
+          "text": "Created for a specific occasion.",
+          "examples": [
+            "Elgar's music was not created to be occasional music for high-school graduations."
+          ]
+        },
+        {
+          "text": "Intended for use as the occasion requires.",
+          "examples": [
+            "What your living room needs are some occasional chairs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who does something only occasionally.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

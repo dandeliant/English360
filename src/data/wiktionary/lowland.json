@@ -1,0 +1,19 @@
+{
+  "lemma": "lowland",
+  "slug": "lowland",
+  "fetchedAt": "2026-05-17T08:59:52.658Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An area which is considered particularly low or lower than surrounding areas.",
+          "examples": [
+            "The lowland region was prone to flooding during the rainy season."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

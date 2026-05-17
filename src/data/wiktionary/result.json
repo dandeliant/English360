@@ -1,0 +1,55 @@
+{
+  "lemma": "result",
+  "slug": "result",
+  "fetchedAt": "2026-05-17T09:00:25.765Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
+          "examples": []
+        },
+        {
+          "text": "To have as a consequence; to lead to; to bring about",
+          "examples": [
+            "This measure will result in good or in evil."
+          ]
+        },
+        {
+          "text": "To return to the proprietor (or heirs) after a reversion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which results; the conclusion or end to which any course or condition of things leads, or which is obtained by any process or operation; consequence or effect.",
+          "examples": [
+            "the result of a course of action; the result of a mathematical operation"
+          ]
+        },
+        {
+          "text": "The final product, beneficial or tangible effect(s) achieved by effort.",
+          "examples": []
+        },
+        {
+          "text": "The decision or determination of a council or deliberative assembly; a resolve; a decree.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An exclamation of joy following a favorable outcome.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

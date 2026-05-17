@@ -1,0 +1,48 @@
+{
+  "lemma": "turn",
+  "slug": "turn",
+  "fetchedAt": "2026-05-17T09:01:14.083Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a non-linear physical movement. To move about an axis through itself.",
+          "examples": [
+            "the Earth turns",
+            "turn on the spot"
+          ]
+        },
+        {
+          "text": "To move about an axis through itself.",
+          "examples": [
+            "the Earth turns",
+            "turn on the spot"
+          ]
+        },
+        {
+          "text": "To change the direction or orientation of, especially by rotation.",
+          "examples": [
+            "Turn the knob clockwise."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A change of direction or orientation.",
+          "examples": [
+            "Give the handle a turn, then pull it."
+          ]
+        },
+        {
+          "text": "A movement of an object about its own axis in one direction that continues until the object returns to its initial orientation. A unit of plane angle measurement based on this movement.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

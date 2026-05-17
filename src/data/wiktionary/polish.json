@@ -1,0 +1,48 @@
+{
+  "lemma": "polish",
+  "slug": "polish",
+  "fetchedAt": "2026-05-17T09:00:15.704Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A substance used to polish.",
+          "examples": [
+            "A good silver polish will remove tarnish easily."
+          ]
+        },
+        {
+          "text": "Cleanliness; smoothness, shininess.",
+          "examples": [
+            "The floor was waxed to a high polish."
+          ]
+        },
+        {
+          "text": "Refinement; cleanliness in performance or presentation.",
+          "examples": [
+            "The lecturer showed a lot of polish at his last talk."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shine; to make a surface very smooth or shiny by rubbing, cleaning, or grinding.",
+          "examples": [
+            "He polished up the chrome until it gleamed."
+          ]
+        },
+        {
+          "text": "To refine; remove imperfections from.",
+          "examples": [
+            "The band has polished its performance since the last concert."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

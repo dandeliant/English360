@@ -1,0 +1,78 @@
+{
+  "lemma": "love",
+  "slug": "love",
+  "fetchedAt": "2026-05-17T08:59:51.822Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A deep caring for the existence of another.",
+          "examples": []
+        },
+        {
+          "text": "Strong affection.",
+          "examples": [
+            "A mother’s love is not easily shaken.",
+            "My husband’s love is the most important thing in my life."
+          ]
+        },
+        {
+          "text": "A profound and caring affection towards someone.",
+          "examples": [
+            "A mother’s love is not easily shaken.",
+            "My husband’s love is the most important thing in my life."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have a strong affection for (someone or something).",
+          "examples": [
+            "I love my spouse. I love you! I love that song!"
+          ]
+        },
+        {
+          "text": "To need, thrive on.",
+          "examples": [
+            "Mold loves moist, dark places."
+          ]
+        },
+        {
+          "text": "To be strongly inclined towards something; an emphatic form of like.",
+          "examples": [
+            "I love walking barefoot on wet grass; I'd love to join the team; I love what you've done with your hair"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Zero, no score.",
+          "examples": [
+            "So that’s fifteen-love to Kournikova."
+          ]
+        },
+        {
+          "text": "Nothing; no recompense.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of lofe (“to praise, sell”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

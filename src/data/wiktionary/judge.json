@@ -1,0 +1,42 @@
+{
+  "lemma": "judge",
+  "slug": "judge",
+  "fetchedAt": "2026-05-17T08:59:40.697Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments; a justice.",
+          "examples": []
+        },
+        {
+          "text": "A person who decides the fate of someone or something that has been called into question.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sit in judgment on; to pass sentence on (a person or matter).",
+          "examples": [
+            "A higher power will judge you after you are dead."
+          ]
+        },
+        {
+          "text": "To sit in judgment, to act as judge.",
+          "examples": [
+            "Justices in this country judge without appeal."
+          ]
+        },
+        {
+          "text": "To judicially rule or determine.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

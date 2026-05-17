@@ -1,0 +1,65 @@
+{
+  "lemma": "rise",
+  "slug": "rise",
+  "fetchedAt": "2026-05-17T09:00:26.861Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move, or appear to move, physically upwards relative to the ground. To move upwards.",
+          "examples": [
+            "We watched the balloon rise.",
+            "Disturbed by my footsteps, the birds rose above the treetops."
+          ]
+        },
+        {
+          "text": "To move upwards.",
+          "examples": [
+            "We watched the balloon rise.",
+            "Disturbed by my footsteps, the birds rose above the treetops."
+          ]
+        },
+        {
+          "text": "To grow upward; to attain a certain height.",
+          "examples": [
+            "This elm tree rises to a height of seventy feet."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The process of or an action or instance of moving upwards or becoming greater.",
+          "examples": [
+            "The rise of the tide.",
+            "There was a rise of nearly two degrees since yesterday."
+          ]
+        },
+        {
+          "text": "The process of or an action or instance of coming to prominence.",
+          "examples": [
+            "The rise of the working class.",
+            "The rise of the printing press."
+          ]
+        },
+        {
+          "text": "An increase in a quantity, price, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of rice (“twig”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

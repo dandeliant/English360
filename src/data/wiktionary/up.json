@@ -1,0 +1,128 @@
+{
+  "lemma": "up",
+  "slug": "up",
+  "fetchedAt": "2026-05-17T09:01:16.185Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Indicating movement towards or location at a higher place or position. Away from the surface of the Earth or other planet; in opposite direction to the downward pull of gravity.",
+          "examples": [
+            "I looked up and saw the airplane overhead.",
+            "Shoots grow up and roots grow down."
+          ]
+        },
+        {
+          "text": "Away from the surface of the Earth or other planet; in opposite direction to the downward pull of gravity.",
+          "examples": [
+            "I looked up and saw the airplane overhead.",
+            "Shoots grow up and roots grow down."
+          ]
+        },
+        {
+          "text": "To or at a physically higher or more elevated position.",
+          "examples": [
+            "All day we climbed up and up.",
+            "Lift the carpet up and look underneath."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Toward the top of.",
+          "examples": [
+            "The cat climbed up the tree.",
+            "They walk up the steps."
+          ]
+        },
+        {
+          "text": "Toward the center, source, or main point of reference; toward the end at which something is attached.",
+          "examples": [
+            "The information made its way up the chain of command to the general.",
+            "I felt something crawling up my arm."
+          ]
+        },
+        {
+          "text": "From south to north of.",
+          "examples": [
+            "We sailed up the East Coast of England from Ipswich to South Shields."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Facing upwards.",
+          "examples": [
+            "Turn the cloth over so that the patterned side is up."
+          ]
+        },
+        {
+          "text": "On or at a physically higher level.",
+          "examples": [
+            "The flood waters are up again across large areas of the country."
+          ]
+        },
+        {
+          "text": "Headed or designated to go upward (as an escalator, stairway, elevator etc.) or toward (as a run-up).",
+          "examples": [
+            "Where is the up escalator?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The direction opposed to the pull of gravity.",
+          "examples": [
+            "Up is a good way to go."
+          ]
+        },
+        {
+          "text": "A positive thing, or a time or situation when things are going well.",
+          "examples": [
+            "I hate almost everything about my job. The only up is that it's so close to home.",
+            "There are many ups to caravanning, but also many downs."
+          ]
+        },
+        {
+          "text": "An up quark.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To physically raise or lift.",
+          "examples": [
+            "We upped anchor and sailed away."
+          ]
+        },
+        {
+          "text": "To increase the level or amount of.",
+          "examples": [
+            "If we up the volume, we may be able to hear what he says.",
+            "As usual, they've upped the prices for Valentine's Day."
+          ]
+        },
+        {
+          "text": "To promote.",
+          "examples": [
+            "It wasn’t long before they upped him to Vice President."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

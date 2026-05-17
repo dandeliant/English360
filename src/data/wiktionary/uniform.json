@@ -1,0 +1,52 @@
+{
+  "lemma": "uniform",
+  "slug": "uniform",
+  "fetchedAt": "2026-05-17T09:01:14.991Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative letter-case form of Uniform of the ICAO/NATO radiotelephony alphabet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Unvarying; all the same.",
+          "examples": []
+        },
+        {
+          "text": "Consistent; conforming to one standard.",
+          "examples": []
+        },
+        {
+          "text": "with speed of convergence not depending on choice of function argument; as in uniform continuity, uniform convergence",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A distinctive outfit that serves to identify members of a group, company, prison inmates, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To clothe in a uniform.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

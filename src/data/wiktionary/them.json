@@ -1,0 +1,43 @@
+{
+  "lemma": "them",
+  "slug": "them",
+  "fetchedAt": "2026-05-17T09:01:06.039Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Those ones. Used as the direct object of a verb.",
+          "examples": [
+            "She treated them for a cold.",
+            "She wrote them a letter."
+          ]
+        },
+        {
+          "text": "Used as the direct object of a verb.",
+          "examples": [
+            "She treated them for a cold."
+          ]
+        },
+        {
+          "text": "Used as the indirect object of a verb.",
+          "examples": [
+            "She wrote them a letter."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Those.",
+          "examples": [
+            "Gimme two of them yellow ones."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

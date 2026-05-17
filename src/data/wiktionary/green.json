@@ -1,0 +1,58 @@
+{
+  "lemma": "green",
+  "slug": "green",
+  "fetchedAt": "2026-05-17T08:59:25.833Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The color of grass and leaves; a primary additive color midway between yellow and blue which is evoked by light between roughly 495–570 nm.",
+          "examples": [
+            "green:",
+            "bright green :"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a green hue.",
+          "examples": [
+            "He is wearing a green shirt.",
+            "The former flag of Libya is fully green."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or turn (something) green or greener.",
+          "examples": []
+        },
+        {
+          "text": "To become or grow green in color.",
+          "examples": []
+        },
+        {
+          "text": "To add greenspaces to (a town, etc.).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to indicate that the speaker wishes to commence (or to continue a previously stopped) sexual activity.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

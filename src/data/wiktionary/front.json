@@ -1,0 +1,64 @@
+{
+  "lemma": "front",
+  "slug": "front",
+  "fetchedAt": "2026-05-17T08:59:21.942Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The foremost side of something or the end that faces the direction it normally moves.",
+          "examples": []
+        },
+        {
+          "text": "The side of a building with the main entrance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Located at or near the front.",
+          "examples": [
+            "The front runner was thirty meters ahead of her nearest competitor."
+          ]
+        },
+        {
+          "text": "Pronounced with the highest part of the body of the tongue toward the front of the mouth, near the hard palate (most often describing a vowel).",
+          "examples": [
+            "The English word dress has a front vowel in most dialects."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To face (on, to); to be pointed in a given direction.",
+          "examples": []
+        },
+        {
+          "text": "To face, be opposite to.",
+          "examples": []
+        },
+        {
+          "text": "To face up to, to meet head-on, to confront.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to summon a worker on duty, such as a bellhop.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

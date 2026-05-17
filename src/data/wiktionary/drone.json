@@ -1,0 +1,69 @@
+{
+  "lemma": "drone",
+  "slug": "drone",
+  "fetchedAt": "2026-05-17T08:59:00.721Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A male ant, bee, or wasp, which does not work but can fertilize the queen.",
+          "examples": []
+        },
+        {
+          "text": "One who does not work; a lazy person, an idler.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To kill or destroy with a drone (unmanned aircraft), or with a missile fired by a drone.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To produce a low-pitched hum or buzz.",
+          "examples": []
+        },
+        {
+          "text": "To speak in a monotone.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A low-pitched hum or buzz.",
+          "examples": []
+        },
+        {
+          "text": "One of the fixed-pitch pipes on a bagpipe.",
+          "examples": []
+        },
+        {
+          "text": "A genre of music that uses repeated lengthy droning sounds.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The drug mephedrone.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

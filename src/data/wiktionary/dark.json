@@ -1,0 +1,71 @@
+{
+  "lemma": "dark",
+  "slug": "dark",
+  "fetchedAt": "2026-05-17T08:58:51.059Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having an absolute or (more often) relative lack of light.",
+          "examples": [
+            "The room was too dark for reading.",
+            "Dark signals should be treated as all-way stop signs."
+          ]
+        },
+        {
+          "text": "Extinguished.",
+          "examples": [
+            "Dark signals should be treated as all-way stop signs."
+          ]
+        },
+        {
+          "text": "Deprived of sight; blind.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A complete or (more often) partial absence of light.",
+          "examples": [
+            "Dark surrounds us completely."
+          ]
+        },
+        {
+          "text": "Ignorance.",
+          "examples": [
+            "We kept him in the dark.",
+            "The lawyer was left in the dark as to why the jury was dismissed."
+          ]
+        },
+        {
+          "text": "Nightfall.",
+          "examples": [
+            "It was after dark before we got to playing baseball."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To grow or become dark, darken.",
+          "examples": []
+        },
+        {
+          "text": "To remain in the dark, lurk, lie hidden or concealed.",
+          "examples": []
+        },
+        {
+          "text": "To make dark, darken; to obscure.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

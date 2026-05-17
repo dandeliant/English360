@@ -1,0 +1,20 @@
+{
+  "lemma": "obstacle",
+  "slug": "obstacle",
+  "fetchedAt": "2026-05-17T09:00:01.306Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that impedes, stands in the way of, or holds up progress, either physically or figuratively",
+          "examples": [
+            "A big obstacle to understanding the manual was that it had been poorly translated from the Japanese.",
+            "(Can we add an example for this sense?)"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

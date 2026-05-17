@@ -1,0 +1,28 @@
+{
+  "lemma": "writer",
+  "slug": "writer",
+  "fetchedAt": "2026-05-17T09:01:28.071Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who writes, or produces literary work; an author can refer to themselves as \"the writer\".",
+          "examples": [
+            "Has your girlfriend written you another letter already? She’s quite a writer!",
+            "I met some of my favourite authors at the writers' convention."
+          ]
+        },
+        {
+          "text": "Anything that writes or produces output.",
+          "examples": []
+        },
+        {
+          "text": "The seller of an option.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

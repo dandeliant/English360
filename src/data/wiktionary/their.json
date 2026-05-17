@@ -1,0 +1,38 @@
+{
+  "lemma": "their",
+  "slug": "their",
+  "fetchedAt": "2026-05-17T09:01:05.056Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Belonging to, from, of, or relating to, them (plural).",
+          "examples": [
+            "they will meet tomorrow at their convenience",
+            "this is probably their cat"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Misspelling of there.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Contraction",
+      "definitions": [
+        {
+          "text": "Misspelling of they’re.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

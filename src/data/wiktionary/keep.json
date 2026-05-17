@@ -1,0 +1,53 @@
+{
+  "lemma": "keep",
+  "slug": "keep",
+  "fetchedAt": "2026-05-17T08:59:41.772Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.",
+          "examples": [
+            "to keep silence; to keep possession"
+          ]
+        },
+        {
+          "text": "To remain faithful to a given promise or word.",
+          "examples": [
+            "to keep one's word; to keep one's promise"
+          ]
+        },
+        {
+          "text": "To hold the status of something. To maintain possession of.",
+          "examples": [
+            "I keep a small stock of painkillers for emergencies.",
+            "I only meant to lend him the shirt at first, but it looked better on him than me, so I told him to keep it."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The main tower of a castle or fortress, located within the castle walls.",
+          "examples": []
+        },
+        {
+          "text": "The food or money required to keep someone alive and healthy; one's support, maintenance.",
+          "examples": [
+            "He works as a cobbler's apprentice for his keep."
+          ]
+        },
+        {
+          "text": "The state of being kept; hence, the resulting condition; case.",
+          "examples": [
+            "to be in good keep"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

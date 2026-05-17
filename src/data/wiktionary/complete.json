@@ -1,0 +1,63 @@
+{
+  "lemma": "complete",
+  "slug": "complete",
+  "fetchedAt": "2026-05-17T08:58:45.108Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To finish; to make done; to reach the end.",
+          "examples": [
+            "He completed the assignment on time."
+          ]
+        },
+        {
+          "text": "To make whole or entire.",
+          "examples": [
+            "The last chapter completes the book nicely."
+          ]
+        },
+        {
+          "text": "To call from the small blind in an unraised pot.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "With all parts included; with nothing missing; full.",
+          "examples": [
+            "My life will be complete once I buy this new television.",
+            "She offered me complete control of the project."
+          ]
+        },
+        {
+          "text": "Finished; ended; concluded; completed.",
+          "examples": [
+            "When your homework is complete, you can go and play with Martin."
+          ]
+        },
+        {
+          "text": "Generic intensifier.",
+          "examples": [
+            "He is a complete bastard!",
+            "It was a complete shock when he turned up on my doorstep."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A completed survey.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

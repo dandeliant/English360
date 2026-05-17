@@ -1,0 +1,47 @@
+{
+  "lemma": "particular",
+  "slug": "particular",
+  "fetchedAt": "2026-05-17T09:00:09.382Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining only to a part of something; partial.",
+          "examples": []
+        },
+        {
+          "text": "Specific; discrete; concrete.",
+          "examples": [
+            "I couldn't find the particular model you asked for, but I hope this one will do.",
+            "We knew it was named after John Smith, but nobody knows which particular John Smith."
+          ]
+        },
+        {
+          "text": "Specialised; characteristic of a specific person or thing.",
+          "examples": [
+            "I don't appreciate your particular brand of cynicism."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small individual part of something larger; a detail, a point. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A person's own individual case.",
+          "examples": []
+        },
+        {
+          "text": "A particular case; an individual thing as opposed to a whole class. (Opposed to generals, universals.)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

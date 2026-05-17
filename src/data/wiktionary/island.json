@@ -1,0 +1,49 @@
+{
+  "lemma": "island",
+  "slug": "island",
+  "fetchedAt": "2026-05-17T08:59:39.746Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A contiguous area of land, smaller than a continent, totally surrounded by water.",
+          "examples": []
+        },
+        {
+          "text": "A contiguous area of land, smaller than a continent, partially surrounded by water; a peninsula; a half-island.",
+          "examples": [
+            "Despite its name, Barry Island is actually a peninsula"
+          ]
+        },
+        {
+          "text": "An entity surrounded by other entities that are very different from itself.",
+          "examples": [
+            "The quiet library was an island of tranquility in the noisy, bustling city.",
+            "an island of colors on a butterfly's wing"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To surround with water; make into an island.",
+          "examples": []
+        },
+        {
+          "text": "To set, dot (as if) with islands.",
+          "examples": [
+            "the many-islanded Aegean"
+          ]
+        },
+        {
+          "text": "To isolate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

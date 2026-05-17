@@ -1,0 +1,78 @@
+{
+  "lemma": "above",
+  "slug": "above",
+  "fetchedAt": "2026-05-17T08:57:48.896Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Physically over; on top of; worn on top of, said of clothing. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "He always put his coat on above his sweater."
+          ]
+        },
+        {
+          "text": "In or to a higher place; higher than; on or over the upper surface.",
+          "examples": []
+        },
+        {
+          "text": "Farther north than.",
+          "examples": [
+            "Idaho is above Utah."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Directly overhead; vertically on top of.",
+          "examples": []
+        },
+        {
+          "text": "Higher in the same page; earlier in the order as far as writing products go.",
+          "examples": []
+        },
+        {
+          "text": "Into or from heaven; in the sky.",
+          "examples": [
+            "He’s in a better place now, floating free as the clouds above."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of heaven; heavenly.",
+          "examples": []
+        },
+        {
+          "text": "Being located higher on the same page or on a preceding page.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Heaven.",
+          "examples": []
+        },
+        {
+          "text": "Something, especially a person's name in legal documents, that appears higher on the same page or on a preceding page. (Can we add an example for this sense?)",
+          "examples": []
+        },
+        {
+          "text": "Higher authority.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

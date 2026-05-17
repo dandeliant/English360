@@ -1,0 +1,90 @@
+{
+  "lemma": "bar",
+  "slug": "bar",
+  "fetchedAt": "2026-05-17T08:58:03.278Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Bavarian.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+          "examples": [
+            "The window was protected by steel bars."
+          ]
+        },
+        {
+          "text": "A solid metal object with uniform (round, square, hexagonal, octagonal or rectangular) cross-section; in the US its smallest dimension is ⁄4 inch or greater, a piece of thinner material being called a strip.",
+          "examples": [
+            "Ancient Sparta used iron bars instead of handy coins in more valuable alloy, to physically discourage the use of money.",
+            "We are expecting a carload of bar tomorrow."
+          ]
+        },
+        {
+          "text": "A cuboid piece of any solid commodity.",
+          "examples": [
+            "bar of chocolate",
+            "bar of soap"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To obstruct the passage of (someone or something).",
+          "examples": [
+            "Our way was barred by a huge rockfall."
+          ]
+        },
+        {
+          "text": "To prohibit.",
+          "examples": [
+            "I couldn't get into the nightclub because I had been barred."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Except, other than, besides.",
+          "examples": [
+            "He invited everyone to his wedding bar his ex-wife."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Denotes the minimum odds offered on other horses not mentioned by name.",
+          "examples": [
+            "Leg At Each Corner is at 3/1, Lost My Shirt 5/1, and it's 10/1 bar."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A non-SI unit of pressure equal to 100,000 pascals, slightly less than atmospheric pressure at sea level.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

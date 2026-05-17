@@ -1,0 +1,81 @@
+{
+  "lemma": "scale",
+  "slug": "scale",
+  "fetchedAt": "2026-05-17T09:00:34.598Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A ladder; a series of steps; a means of ascending.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To change the size of something whilst maintaining proportion; especially to change a process in order to produce much larger amounts of the final product.",
+          "examples": [
+            "We should scale that up by a factor of 10."
+          ]
+        },
+        {
+          "text": "To climb to the top of.",
+          "examples": [
+            "Hilary and Norgay were the first known to have scaled Everest."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Part of an overlapping arrangement of many small, flat and hard pieces of keratin covering the skin of an animal, particularly a fish or reptile.",
+          "examples": []
+        },
+        {
+          "text": "A small piece of pigmented chitin, many of which coat the wings of a butterfly or moth to give them their color.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove the scales of.",
+          "examples": [
+            "Please scale that fish for dinner."
+          ]
+        },
+        {
+          "text": "To become scaly; to produce or develop scales.",
+          "examples": [
+            "The dry weather is making my skin scale."
+          ]
+        },
+        {
+          "text": "To strip or clear of scale; to descale.",
+          "examples": [
+            "to scale the inside of a boiler"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A device to measure mass or weight.",
+          "examples": [
+            "After the long, lazy winter I was afraid to get on the scale."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

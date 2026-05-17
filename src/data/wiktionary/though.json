@@ -1,0 +1,52 @@
+{
+  "lemma": "though",
+  "slug": "though",
+  "fetchedAt": "2026-05-17T09:01:08.725Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Despite that; however.",
+          "examples": [
+            "I'm not paid to do all this paperwork for you. I will do it this once, though."
+          ]
+        },
+        {
+          "text": "Used to intensify statements or questions; indeed.",
+          "examples": [
+            "\"Man, it's hot in here.\" — \"Isn't it, though?\""
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Despite the fact that; although.",
+          "examples": [
+            "Though it is risky, it is worth taking the chance.",
+            "Astute businessman though he was, my brother was capable of extreme recklessness."
+          ]
+        },
+        {
+          "text": "If, that, even if.",
+          "examples": [
+            "We shall be not sorry though the man die tonight."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of thought.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

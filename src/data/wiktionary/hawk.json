@@ -1,0 +1,84 @@
+{
+  "lemma": "hawk",
+  "slug": "hawk",
+  "fetchedAt": "2026-05-17T08:59:26.745Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A diurnal predatory bird of the family Accipitridae, smaller than an eagle.",
+          "examples": [
+            "It is illegal to hunt hawks or other raptors in many parts of the world."
+          ]
+        },
+        {
+          "text": "Any diurnal predatory terrestrial bird of similar size and appearance to the accipitrid hawks, such as a falcon.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hunt with a hawk.",
+          "examples": []
+        },
+        {
+          "text": "To make an attack while on the wing; to soar and strike like a hawk.",
+          "examples": [
+            "to hawk at flies"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A plasterer's tool, made of a flat surface with a handle below, used to hold an amount of plaster prior to application to the wall or ceiling being worked on: a mortarboard.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sell; to offer for sale by outcry in the street; to carry (merchandise) about from place to place for sale; to peddle.",
+          "examples": [
+            "The vendors were hawking their wares from little tables lining either side of the market square."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A noisy effort to force up phlegm from the throat.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To expectorate, to cough up (something, such as mucus) from one's throat; to produce (something) by coughing or clearing one's throat.",
+          "examples": [
+            "to hawk a loogie"
+          ]
+        },
+        {
+          "text": "To try to cough up something from one's throat; to clear the throat loudly; to cough heavily, especially causing uvular frication.",
+          "examples": [
+            "Grandpa sat on the front porch, hawking and wheezing, as he packed his pipe with cheap tobacco."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

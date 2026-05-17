@@ -1,0 +1,38 @@
+{
+  "lemma": "accidental",
+  "slug": "accidental",
+  "fetchedAt": "2026-05-17T08:57:54.514Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to accident and not essence; thus, inessential; incidental; secondary. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Nonessential to something's inherent nature (especially in Aristotelian thought).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A property which is not essential; a nonessential; anything happening accidentally.",
+          "examples": []
+        },
+        {
+          "text": "Those fortuitous effects produced by luminous rays falling on certain objects so that some parts stand forth in abnormal brightness and other parts are cast into a deep shadow.",
+          "examples": []
+        },
+        {
+          "text": "A sharp, flat, or natural, occurring not at the commencement of a piece of music as the signature, but before a particular note.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

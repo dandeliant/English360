@@ -1,0 +1,90 @@
+{
+  "lemma": "first",
+  "slug": "first",
+  "fetchedAt": "2026-05-17T08:59:13.559Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Preceding all others of a series or kind; the ordinal of one; earliest.",
+          "examples": [
+            "Hancock was first to arrive.",
+            "The first day of September 2013 was a Sunday."
+          ]
+        },
+        {
+          "text": "Most eminent or exalted; most excellent; chief; highest.",
+          "examples": [
+            "Demosthenes was the first orator of Greece.",
+            "the first violinist"
+          ]
+        },
+        {
+          "text": "Of or belonging to a first family.",
+          "examples": [
+            "First Cat; First Daughter; First Dog; First Son"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Before anything else; firstly.",
+          "examples": [
+            "Clean the sink first, before you even think of starting to cook.",
+            "I plunged nose first into the water."
+          ]
+        },
+        {
+          "text": "For the first time.",
+          "examples": [
+            "I first witnessed a death when I was nine years old."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The person or thing in the first position.",
+          "examples": [
+            "He was the first to complete the course."
+          ]
+        },
+        {
+          "text": "The first gear of an engine.",
+          "examples": []
+        },
+        {
+          "text": "Something that has never happened before; a new occurrence.",
+          "examples": [
+            "This is a first. For once he has nothing to say."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To propose (a new motion) in a meeting, which must subsequently be seconded.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Time; time granted; respite.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

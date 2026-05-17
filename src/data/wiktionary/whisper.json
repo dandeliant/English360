@@ -1,0 +1,42 @@
+{
+  "lemma": "whisper",
+  "slug": "whisper",
+  "fetchedAt": "2026-05-17T09:01:22.460Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of speaking in a quiet voice, especially without vibration of the vocal cords; the sound thus produced.",
+          "examples": [
+            "I spoke in a near whisper."
+          ]
+        },
+        {
+          "text": "A rumor.",
+          "examples": [
+            "There are whispers of rebellion all around."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To speak softly or under one's breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration of the vocal cords which gives sonorous, or vocal, sound.",
+          "examples": []
+        },
+        {
+          "text": "To say (something) softly or under one's breath, so as to be heard only by one near at hand; to utter (something) without sonant breath, without that vibration of the vocal cords which gives sonorous, or vocal, sound.",
+          "examples": []
+        },
+        {
+          "text": "To mention privately and confidentially, or in a whisper.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

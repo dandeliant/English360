@@ -1,0 +1,43 @@
+{
+  "lemma": "smell",
+  "slug": "smell",
+  "fetchedAt": "2026-05-17T09:00:48.175Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+          "examples": [
+            "I love the smell of fresh bread."
+          ]
+        },
+        {
+          "text": "The sense that detects odours.",
+          "examples": []
+        },
+        {
+          "text": "A conclusion or intuition that a situation is wrong, more complex than it seems, or otherwise inappropriate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sense a smell or smells.",
+          "examples": [
+            "I can smell fresh bread.",
+            "Smell the milk and tell me whether it's gone off."
+          ]
+        },
+        {
+          "text": "To detect or perceive; often with out.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

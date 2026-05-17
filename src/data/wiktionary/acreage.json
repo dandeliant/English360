@@ -1,0 +1,21 @@
+{
+  "lemma": "acreage",
+  "slug": "acreage",
+  "fetchedAt": "2026-05-17T08:57:57.417Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Size, as measured in acres.",
+          "examples": []
+        },
+        {
+          "text": "An area of land measured in acres.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,57 @@
+{
+  "lemma": "orderly",
+  "slug": "orderly",
+  "fetchedAt": "2026-05-17T09:00:04.542Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Neat and tidy; possessing order.",
+          "examples": [
+            "He has always kept an orderly kitchen, with nothing out of place."
+          ]
+        },
+        {
+          "text": "Methodical or systematic.",
+          "examples": [
+            "We live in an orderly universe, where rules govern both the movements of planets and the binding of molecules."
+          ]
+        },
+        {
+          "text": "Peaceful; well-behaved.",
+          "examples": [
+            "An orderly gathering of citizens stood on the corner awaiting the bus."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hospital attendant given a variety of non-medical duties.",
+          "examples": []
+        },
+        {
+          "text": "A soldier who carries out minor tasks for a superior officer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "According to good order or practice; appropriately, in a well-behaved or orderly (adjective) way. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "In order; in a particular order or succession; with a suitable arrangement.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

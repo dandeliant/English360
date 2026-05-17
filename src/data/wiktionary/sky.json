@@ -1,0 +1,61 @@
+{
+  "lemma": "sky",
+  "slug": "sky",
+  "fetchedAt": "2026-05-17T09:00:46.316Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Sikaiana.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen.",
+          "examples": [
+            "That year, a meteor fell from the sky."
+          ]
+        },
+        {
+          "text": "With a descriptive word: the part of the sky which can be seen from a specific place or at a specific time; its climate, condition, etc.",
+          "examples": [
+            "I lay back under a warm Texas sky.",
+            "We’re not sure how long the cloudy skies will last."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To drink (a beverage) from a container without one's lips touching the container. To hang (a picture on exhibition) near the top of a wall, where it cannot easily be seen; to put (something) in an undesirable place.",
+          "examples": []
+        },
+        {
+          "text": "To drink (a beverage) from a container without one's lips touching the container.",
+          "examples": []
+        },
+        {
+          "text": "To hang (a picture on exhibition) near the top of a wall, where it cannot easily be seen; to put (something) in an undesirable place.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A disagreeable person; an enemy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

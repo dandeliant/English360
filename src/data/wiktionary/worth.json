@@ -1,0 +1,65 @@
+{
+  "lemma": "worth",
+  "slug": "worth",
+  "fetchedAt": "2026-05-17T09:01:26.171Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a value of; proper to be exchanged for.",
+          "examples": [
+            "How much / What is your house worth? - Now it's worth half what I paid for it. So it'd sure would be worthwhile to repair before putting it for sale.",
+            "Cleanliness is a virtue worth more than others."
+          ]
+        },
+        {
+          "text": "Deserving of.",
+          "examples": [
+            "This rickety beater of a car isn’t worth repairing anymore.",
+            "He found going to the Edinburgh Castle was worth it."
+          ]
+        },
+        {
+          "text": "Valuable, worthwhile.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Value.",
+          "examples": [
+            "I’ll have a dollar's worth of candy, please.",
+            "They have proven their worths as individual fighting men and their worth as a unit."
+          ]
+        },
+        {
+          "text": "Merit, excellence.",
+          "examples": [
+            "Our new director is a man whose worth is well acknowledged."
+          ]
+        },
+        {
+          "text": "An amount that could be achieved or produced in a specified time.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be, become, betide.",
+          "examples": [
+            "Woe worth the man that crosses me.",
+            "Well worth thee, me friend."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

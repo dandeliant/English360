@@ -1,0 +1,66 @@
+{
+  "lemma": "common",
+  "slug": "common",
+  "fetchedAt": "2026-05-17T08:58:44.103Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Mutual; shared by more than one.",
+          "examples": [
+            "The two competitors have the common aim of winning the championship.",
+            "Winning the championship is an aim common to the two competitors."
+          ]
+        },
+        {
+          "text": "Of a quality: existing among virtually all people; universal.",
+          "examples": [
+            "common knowledge, common decency, common sense"
+          ]
+        },
+        {
+          "text": "Occurring or happening regularly or frequently; usual.",
+          "examples": [
+            "It is common to find sharks off this coast."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Mutual good, shared by more than one.",
+          "examples": []
+        },
+        {
+          "text": "A tract of land in common ownership; common land.",
+          "examples": []
+        },
+        {
+          "text": "The people; the community.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To communicate (something).",
+          "examples": []
+        },
+        {
+          "text": "To converse, talk.",
+          "examples": []
+        },
+        {
+          "text": "To have sex.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

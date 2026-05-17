@@ -1,0 +1,97 @@
+{
+  "lemma": "or",
+  "slug": "or",
+  "fetchedAt": "2026-05-17T09:00:03.710Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Odia.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "Abbreviation of orbicula.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Connects at least two alternative words, phrases, clauses, sentences, etc., each of which could make a passage true.",
+          "examples": [
+            "You may stay or go.",
+            "He might get cancer, or be hit by a bus, or God knows what."
+          ]
+        },
+        {
+          "text": "An operator denoting the disjunction of two propositions or truth values. There are two forms, the inclusive or and the exclusive or.",
+          "examples": []
+        },
+        {
+          "text": "Counts the elements before and after as two possibilities.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of OR.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The gold or yellow tincture on a coat of arms.",
+          "examples": [
+            "or:"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of gold or yellow tincture on a coat of arms.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Early (on).",
+          "examples": []
+        },
+        {
+          "text": "Earlier, previously.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Before; ere. Generally followed by \"ever\" or \"e'er\".",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

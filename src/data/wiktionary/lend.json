@@ -1,0 +1,53 @@
+{
+  "lemma": "lend",
+  "slug": "lend",
+  "fetchedAt": "2026-05-17T08:59:46.483Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.",
+          "examples": [
+            "I will only lend you my car if you fill up the tank.",
+            "Where is that hundred euros I lent you months ago?"
+          ]
+        },
+        {
+          "text": "To make a loan.",
+          "examples": []
+        },
+        {
+          "text": "To be suitable or applicable, to fit.",
+          "examples": [
+            "Poems do not lend themselves to translation easily.",
+            "The long history of the past does not lend itself to a simple black and white interpretation."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Loan (permission to borrow (something)).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The lumbar region; loin.",
+          "examples": []
+        },
+        {
+          "text": "The loins; flank; buttocks.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

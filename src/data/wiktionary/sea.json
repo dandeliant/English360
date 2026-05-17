@@ -1,0 +1,32 @@
+{
+  "lemma": "sea",
+  "slug": "sea",
+  "fetchedAt": "2026-05-17T09:00:36.520Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Semai.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large body of salt water.",
+          "examples": [
+            "The Mediterranean Sea, the Caribbean Sea, the Sea of Crete, etc."
+          ]
+        },
+        {
+          "text": "The ocean; the continuous body of salt water covering a majority of the Earth's surface.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "alone",
+  "slug": "alone",
+  "fetchedAt": "2026-05-17T08:57:59.176Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "By oneself, solitary.",
+          "examples": [
+            "I can't ask for help because I am alone."
+          ]
+        },
+        {
+          "text": "Not involved in a romantic relationship.",
+          "examples": []
+        },
+        {
+          "text": "Lacking peers who share one's beliefs, experiences, practices, etc.",
+          "examples": [
+            "Senator Craddock wants to abolish the estate tax, and she's not alone.",
+            "I always organize my Halloween candy before eating it. Am I alone in this?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "By oneself; apart from, or exclusive of, others; solo.",
+          "examples": [
+            "She walked home alone."
+          ]
+        },
+        {
+          "text": "Without outside help.",
+          "examples": [
+            "The job was too hard for me to do alone."
+          ]
+        },
+        {
+          "text": "Focus adverb, typically modifying a noun and occurring immediately after it. Not permitting anything further; exclusively.",
+          "examples": [
+            "The president alone has the power to initiate a nuclear launch.",
+            "Oral antibiotics alone won't clear the infection."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

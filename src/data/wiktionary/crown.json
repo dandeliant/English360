@@ -1,0 +1,60 @@
+{
+  "lemma": "crown",
+  "slug": "crown",
+  "fetchedAt": "2026-05-17T08:58:49.005Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A royal, imperial or princely headdress; a diadem.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, related to, or pertaining to a crown.",
+          "examples": [
+            "crown prince"
+          ]
+        },
+        {
+          "text": "Of, related to, pertaining to the top of a tree or trees.",
+          "examples": [
+            "a crown fire"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place a crown on the head of.",
+          "examples": []
+        },
+        {
+          "text": "To formally declare (someone) a king, queen, emperor, etc.",
+          "examples": []
+        },
+        {
+          "text": "To bestow something upon as a mark of honour, dignity, or recompense; to adorn; to dignify.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "past participle of crow",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

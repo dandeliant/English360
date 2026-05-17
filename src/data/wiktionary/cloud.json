@@ -1,0 +1,42 @@
+{
+  "lemma": "cloud",
+  "slug": "cloud",
+  "fetchedAt": "2026-05-17T08:58:43.172Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A visible mass of water droplets suspended in the air.",
+          "examples": []
+        },
+        {
+          "text": "Any mass of dust, steam or smoke resembling such a mass.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become foggy or gloomy, or obscured from sight.",
+          "examples": [
+            "The glass clouds when you breathe on it."
+          ]
+        },
+        {
+          "text": "To overspread or hide with a cloud or clouds.",
+          "examples": [
+            "The sky is clouded."
+          ]
+        },
+        {
+          "text": "Of the breath, to become cloud; to turn into mist.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

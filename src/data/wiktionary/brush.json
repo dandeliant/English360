@@ -1,0 +1,46 @@
+{
+  "lemma": "brush",
+  "slug": "brush",
+  "fetchedAt": "2026-05-17T08:58:16.587Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An implement consisting of multiple more or less flexible bristles or other filaments attached to a handle, used for any of various purposes including cleaning, painting, and arranging hair.",
+          "examples": []
+        },
+        {
+          "text": "The act of brushing something.",
+          "examples": [
+            "She gave her hair a quick brush."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To clean with a brush.",
+          "examples": [
+            "Brush your teeth."
+          ]
+        },
+        {
+          "text": "To untangle or arrange with a brush.",
+          "examples": [
+            "Brush your hair."
+          ]
+        },
+        {
+          "text": "To apply with a brush.",
+          "examples": [
+            "I am brushing the paint onto the walls."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

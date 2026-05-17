@@ -1,0 +1,28 @@
+{
+  "lemma": "monastic",
+  "slug": "monastic",
+  "fetchedAt": "2026-05-17T08:59:56.006Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to monasteries or monks.",
+          "examples": [
+            "new monastic people"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person with monastic ways; a monk.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,23 @@
+{
+  "lemma": "usually",
+  "slug": "usually",
+  "fetchedAt": "2026-05-17T09:01:17.010Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Most of the time; less than always, but more than occasionally.",
+          "examples": [
+            "Except for one or two days a year, he usually walks to work."
+          ]
+        },
+        {
+          "text": "Under normal conditions.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

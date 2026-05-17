@@ -1,0 +1,38 @@
+{
+  "lemma": "trunk",
+  "slug": "trunk",
+  "fetchedAt": "2026-05-17T09:01:12.593Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Part of a body. The usually single, more or less upright part of a tree, between the roots and the branches.",
+          "examples": []
+        },
+        {
+          "text": "The usually single, more or less upright part of a tree, between the roots and the branches.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lop off; to curtail; to truncate.",
+          "examples": []
+        },
+        {
+          "text": "To extract (ores) from the slimes in which they are contained, by means of a trunk.",
+          "examples": []
+        },
+        {
+          "text": "To provide simultaneous network access to multiple clients by sharing a set of circuits, carriers, channels, or frequencies.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "by",
+  "slug": "by",
+  "fetchedAt": "2026-05-17T08:58:19.698Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Near or next to.",
+          "examples": [
+            "The mailbox is by the bus stop."
+          ]
+        },
+        {
+          "text": "From one side of something to the other, passing close by; past.",
+          "examples": [
+            "The stream runs by our back door.",
+            "He ran straight by me."
+          ]
+        },
+        {
+          "text": "Not later than (the given time); not later than the end of (the given time interval); before.",
+          "examples": [
+            "Be back by ten o'clock!",
+            "We'll find someone by the end of March."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Along a path which runs past someone or something.",
+          "examples": [
+            "I watched the parade as it passed by."
+          ]
+        },
+        {
+          "text": "In the vicinity, near.",
+          "examples": [
+            "There was a shepherd close by."
+          ]
+        },
+        {
+          "text": "To or at a place, as a residence or place of business.",
+          "examples": [
+            "I'll stop by on my way home from work.",
+            "We're right near the lifeguard station. Come by before you leave."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Out of the way, off to one side.",
+          "examples": [
+            "a by path; a by room"
+          ]
+        },
+        {
+          "text": "Subsidiary, incidental.",
+          "examples": [
+            "by catch; a by issue"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of bye.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Dated form of bye (“goodbye”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

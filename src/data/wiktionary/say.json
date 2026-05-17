@@ -1,0 +1,118 @@
+{
+  "lemma": "say",
+  "slug": "say",
+  "fetchedAt": "2026-05-17T09:00:33.174Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Saya.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pronounce.",
+          "examples": [
+            "Please say your name slowly and clearly."
+          ]
+        },
+        {
+          "text": "To recite.",
+          "examples": [
+            "Martha, will you say the Pledge of Allegiance?"
+          ]
+        },
+        {
+          "text": "To tell, either verbally or in writing.",
+          "examples": [
+            "He said he would be here tomorrow."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A chance to speak; the right or power to influence or make a decision.",
+          "examples": [
+            "To have a say"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "For example; let us assume.",
+          "examples": [
+            "Pick a color you think they'd like, say, peach.",
+            "He was driving pretty fast, say, fifty miles per hour."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to gain someone's attention before making an inquiry or suggestion",
+          "examples": [
+            "Say, what did you think about the movie?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A type of fine cloth similar to serge.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To try; to assay.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Trial by sample; assay; specimen.",
+          "examples": []
+        },
+        {
+          "text": "Tried quality; temper; proof.",
+          "examples": []
+        },
+        {
+          "text": "Essay; trial; attempt.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A strainer for milk.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

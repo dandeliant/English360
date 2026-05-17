@@ -1,0 +1,49 @@
+{
+  "lemma": "chemical",
+  "slug": "chemical",
+  "fetchedAt": "2026-05-17T08:58:38.053Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to chemistry.",
+          "examples": [
+            "chemical experiments",
+            "the chemical properties of iron"
+          ]
+        },
+        {
+          "text": "Of or relating to a material or processes not commonly found in nature or in a particular product.",
+          "examples": []
+        },
+        {
+          "text": "Of or relating to alchemy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any specific chemical element or chemical compound or alloy.",
+          "examples": [
+            "Hydrogen and sulphur are both chemicals."
+          ]
+        },
+        {
+          "text": "An artificial chemical compound.",
+          "examples": [
+            "I color my hair with henna, not chemicals."
+          ]
+        },
+        {
+          "text": "An addictive drug.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

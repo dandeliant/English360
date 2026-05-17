@@ -1,0 +1,56 @@
+{
+  "lemma": "shade",
+  "slug": "shade",
+  "fetchedAt": "2026-05-17T09:00:40.340Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Darkness where light, particularly sunlight, is blocked.",
+          "examples": [
+            "The old oak tree gave shade in the heat of the day.",
+            "Temps rose to a sweltering 40 degrees Celsius in the shade."
+          ]
+        },
+        {
+          "text": "Something that blocks light, particularly in a window.",
+          "examples": [
+            "Close the shade, please: it's too bright in here."
+          ]
+        },
+        {
+          "text": "A variety of a color, in particular one obtained by adding black (compare tint).",
+          "examples": [
+            "I've painted my room in five lovely shades of pink and chartreuse."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shield (someone or something) from light.",
+          "examples": [
+            "The old oak tree shaded the lawn in the heat of the day."
+          ]
+        },
+        {
+          "text": "To shield oneself from light.",
+          "examples": [
+            "We shaded under a huge oak tree."
+          ]
+        },
+        {
+          "text": "To alter slightly.",
+          "examples": [
+            "You'll need to shade your shot slightly to the left.",
+            "Most politicians will shade the truth if it helps them."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

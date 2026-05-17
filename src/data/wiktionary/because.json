@@ -1,0 +1,66 @@
+{
+  "lemma": "because",
+  "slug": "because",
+  "fetchedAt": "2026-05-17T08:58:06.077Z",
+  "en": [
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "By or for the cause that; on this account that; for the reason that.",
+          "examples": [
+            "I hid myself because I was afraid."
+          ]
+        },
+        {
+          "text": "As is known, inferred, or determined from the fact that.",
+          "examples": [
+            "It must be broken, because I pressed the button and nothing happened.",
+            "I don't think he is a nice person, because he yells at people for no reason."
+          ]
+        },
+        {
+          "text": "So that, in order that. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "On account, for sake .mw-parser-output .object-usage-tag{font-style:italic}.mw-parser-output .deprecated{color:var(--wikt-palette-grey-lime-8,olivedrab)}[with of].",
+          "examples": [
+            "My life is ruined because of you!"
+          ]
+        },
+        {
+          "text": "For the reason [with that].",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used alone to refuse to provide a full answer to a question begun with \"why\", usually taken as an anapodoton of the elided full phrase \"Because I said so\".",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "On account of, because of.",
+          "examples": [
+            "He rejected me because revenge, I guess.",
+            "It doesn't work because reasons."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

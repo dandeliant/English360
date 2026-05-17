@@ -1,0 +1,44 @@
+{
+  "lemma": "leaf",
+  "slug": "leaf",
+  "fetchedAt": "2026-05-17T08:59:45.609Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The usually green and flat organ that represents the most prominent feature of most vegetative plants.",
+          "examples": []
+        },
+        {
+          "text": "A foliage leaf or any of the many and often considerably different structures it can specialise into.",
+          "examples": []
+        },
+        {
+          "text": "Anything resembling the leaf of a plant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To produce leaves; put forth foliage.",
+          "examples": []
+        },
+        {
+          "text": "To divide (a vegetable) into separate leaves.",
+          "examples": [
+            "The lettuce in our burgers is 100% hand-leafed."
+          ]
+        },
+        {
+          "text": "To play a prank on someone by throwing a large clump or collection of leaves at them.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

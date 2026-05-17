@@ -1,0 +1,41 @@
+{
+  "lemma": "belong",
+  "slug": "belong",
+  "fetchedAt": "2026-05-17T08:58:08.079Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have its proper place.",
+          "examples": [
+            "Where does this book belong? It belongs on the top shelf.",
+            "You don’t belong here — get out."
+          ]
+        },
+        {
+          "text": "To be accepted in a group.",
+          "examples": [
+            "You don’t belong here — get out."
+          ]
+        },
+        {
+          "text": "To be a part of a group.",
+          "examples": [
+            "I don’t belong to the Southside Crew."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Of, belonging to.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

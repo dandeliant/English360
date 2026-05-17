@@ -1,0 +1,32 @@
+{
+  "lemma": "survive",
+  "slug": "survive",
+  "fetchedAt": "2026-05-17T09:01:00.471Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a person, to continue to live; to remain alive.",
+          "examples": [
+            "Whether by a miracle or by good luck, all twenty passengers survived."
+          ]
+        },
+        {
+          "text": "Of an object or concept, to continue to exist.",
+          "examples": [
+            "This town has been hit by two hurricanes, but it survives."
+          ]
+        },
+        {
+          "text": "To live past (a life-threatening event)",
+          "examples": [
+            "Whether by a miracle or by good luck, all twenty passengers survived the crash.",
+            "He did not survive the accident."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

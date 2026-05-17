@@ -1,0 +1,53 @@
+{
+  "lemma": "spring",
+  "slug": "spring",
+  "fetchedAt": "2026-05-17T09:00:52.895Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move or burst forth.",
+          "examples": [
+            "The boat sprang a leak and began to sink.",
+            "He hit the gas and the car sprang to life."
+          ]
+        },
+        {
+          "text": "To appear.",
+          "examples": []
+        },
+        {
+          "text": "To grow, to sprout. To mature.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of springing: a leap, a jump.",
+          "examples": []
+        },
+        {
+          "text": "The season of the year in temperate regions in which temperatures and daylight hours rise, and plants spring from the ground and into bloom and dormant animals spring to life.",
+          "examples": [
+            "Spring is the time of the year most species reproduce.",
+            "You can visit me in the spring, when the weather is bearable."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend the springtime somewhere.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

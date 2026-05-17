@@ -1,0 +1,25 @@
+{
+  "lemma": "farmer",
+  "slug": "farmer",
+  "fetchedAt": "2026-05-17T08:59:09.688Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something that farms, as: A person who works the land and/or who keeps livestock; anyone engaged in agriculture on a farm.",
+          "examples": []
+        },
+        {
+          "text": "A person who works the land and/or who keeps livestock; anyone engaged in agriculture on a farm.",
+          "examples": []
+        },
+        {
+          "text": "More specifically, a farm owner, as distinguished from a farmworker or farmhand as a hired employee thereof.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

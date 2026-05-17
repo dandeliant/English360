@@ -1,0 +1,45 @@
+{
+  "lemma": "white",
+  "slug": "white",
+  "fetchedAt": "2026-05-17T09:01:23.681Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bright and colourless; reflecting equal quantities of all frequencies of visible light.",
+          "examples": [
+            "Write in black ink on white paper."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The color of snow or milk; the color of light containing equal amounts of all visible wavelengths.",
+          "examples": []
+        },
+        {
+          "text": "A person of European descent with light-colored skin.",
+          "examples": []
+        },
+        {
+          "text": "Any butterfly of the subfamily Pierinae in the family Pieridae.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make white; to whiten; to bleach.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

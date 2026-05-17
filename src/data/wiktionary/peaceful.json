@@ -1,0 +1,38 @@
+{
+  "lemma": "peaceful",
+  "slug": "peaceful",
+  "fetchedAt": "2026-05-17T09:00:11.076Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not at war; not disturbed by strife or turmoil.",
+          "examples": [
+            "peaceful protest"
+          ]
+        },
+        {
+          "text": "Inclined to peace.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A non-player character who is not hostile to the player.",
+          "examples": [
+            "You can trade with some of the peacefuls in the town area."
+          ]
+        },
+        {
+          "text": "a Muslim; especially a violent member of a radical Islamist group.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

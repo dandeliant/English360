@@ -1,0 +1,49 @@
+{
+  "lemma": "kind",
+  "slug": "kind",
+  "fetchedAt": "2026-05-17T08:59:42.727Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+          "examples": [
+            "What kind of (a) person are you?",
+            "What kind of ice-cream would you like? There's chocolate, strawberry, and lemon."
+          ]
+        },
+        {
+          "text": "A makeshift or otherwise atypical specimen.",
+          "examples": [
+            "The opening served as a kind of window."
+          ]
+        },
+        {
+          "text": "One's inherent nature; character, natural disposition.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a benevolent, courteous, friendly, generous, gentle, liberal, sympathetic, or warm-hearted nature or disposition, marked by consideration for – and service to – others.",
+          "examples": []
+        },
+        {
+          "text": "Affectionate.",
+          "examples": [
+            "a kind man; a kind heart"
+          ]
+        },
+        {
+          "text": "Favorable.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

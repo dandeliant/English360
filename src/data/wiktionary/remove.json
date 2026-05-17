@@ -1,0 +1,44 @@
+{
+  "lemma": "remove",
+  "slug": "remove",
+  "fetchedAt": "2026-05-17T09:00:23.896Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To delete.",
+          "examples": []
+        },
+        {
+          "text": "To move from one place to another, especially to take away.",
+          "examples": [
+            "He removed the marbles from the bag."
+          ]
+        },
+        {
+          "text": "To replace a dish within a course.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of removing something.",
+          "examples": []
+        },
+        {
+          "text": "A dish served to replace an earlier one during a meal; a part of a new course.",
+          "examples": []
+        },
+        {
+          "text": "A division of the school, especially the form prior to last",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,40 @@
+{
+  "lemma": "prepare",
+  "slug": "prepare",
+  "fetchedAt": "2026-05-17T09:00:17.589Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make ready for a specific future purpose; to set up; to assemble or equip; to forearm.",
+          "examples": [
+            "We prepared the spacecraft for takeoff."
+          ]
+        },
+        {
+          "text": "To make ready for eating or drinking; to cook.",
+          "examples": [
+            "We prepared a fish for dinner."
+          ]
+        },
+        {
+          "text": "To make oneself ready; to get ready, make preparation.",
+          "examples": [
+            "We prepared for a bumpy ride."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "preparation",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

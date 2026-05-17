@@ -1,0 +1,45 @@
+{
+  "lemma": "strike",
+  "slug": "strike",
+  "fetchedAt": "2026-05-17T09:00:57.900Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To delete or cross out; to scratch or eliminate.",
+          "examples": [
+            "Please strike the last sentence."
+          ]
+        },
+        {
+          "text": "To have a sharp or sudden physical effect, as of a blow. To hit.",
+          "examples": [
+            "Strike the door sharply with your foot and see if it comes loose. A bullet struck him. The ship struck a reef.",
+            "A hammer strikes against the bell of a clock."
+          ]
+        },
+        {
+          "text": "To hit.",
+          "examples": [
+            "Strike the door sharply with your foot and see if it comes loose. A bullet struck him. The ship struck a reef."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A status resulting from a batter swinging and missing a pitch, or not swinging at a pitch when the ball goes in the strike zone, or hitting a foul ball that is not caught.",
+          "examples": []
+        },
+        {
+          "text": "The act of knocking down all ten pins on the first roll of a frame.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

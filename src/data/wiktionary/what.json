@@ -1,0 +1,130 @@
+{
+  "lemma": "what",
+  "slug": "what",
+  "fetchedAt": "2026-05-17T09:01:19.320Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Which, especially which of an open-ended set of possibilities.",
+          "examples": [
+            "What colour are you going to use?",
+            "What time is it?"
+          ]
+        },
+        {
+          "text": "Which.",
+          "examples": [
+            "I wonder what colour he is going to use.",
+            "I know what colour I am going to use."
+          ]
+        },
+        {
+          "text": "Any ... that; all ... that; whatever.",
+          "examples": [
+            "He seems to have lost what sense he had.",
+            "What money I earn is soon spent."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Which thing, event, circumstance, etc.: used in asking for the specification of an identity, quantity, quality, etc.",
+          "examples": [
+            "Hammer in that nail —What with? I didn't bring my set of tools.",
+            "What is your name?"
+          ]
+        },
+        {
+          "text": "That which; those that; the thing(s) that.",
+          "examples": [
+            "He knows what he wants and what to do to get it.",
+            "What is amazing is his boundless energy."
+          ]
+        },
+        {
+          "text": "Anything that; all that; whatever.",
+          "examples": [
+            "I will do what I can to help you.",
+            "What I'll do is, I'll phone you to let you know."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In what way; to what extent.",
+          "examples": [
+            "What does it matter?",
+            "What do you care?"
+          ]
+        },
+        {
+          "text": "Used before a prepositional phrase to emphasise that something is taken into consideration as a cause or reason; usually used in combination with 'with' (see what with), and much less commonly with other prepositions.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An expression of surprise or disbelief.",
+          "examples": [
+            "What! That’s amazing!",
+            "wait this song is so good whattt"
+          ]
+        },
+        {
+          "text": "What do you want? An abrupt, usually unfriendly enquiry as to what a person desires.",
+          "examples": [
+            "What? I'm busy."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something; thing; stuff.",
+          "examples": []
+        },
+        {
+          "text": "The identity of a thing, as an answer to a question of what.",
+          "examples": []
+        },
+        {
+          "text": "Something that is addressed by what, as opposed to a person, addressed by who.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Particle",
+      "definitions": [
+        {
+          "text": "Emphasizes the truth of an assertion made to contradict an evidently false assumption held by the listener.",
+          "examples": [
+            "Pitch contour: low [wʌt˩], low-dipping [wʌt˨˩]",
+            "— Sian sia, nearby here don’t have library.— The National Library is a five-minute walk from here what, no meh?"
+          ]
+        },
+        {
+          "text": "Used to invite agreement or acknowledgment when something is assumed to be straightforward or already obvious to begin with; similar in function to “right?” and “as you know”.",
+          "examples": [
+            "Pitch contour: low [wʌt˩], low-dipping [wʌt˨˩]",
+            "If it doesn’t get sunlight, it won’t grow what, so you should consider moving it closer to the window."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

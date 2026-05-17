@@ -1,0 +1,82 @@
+{
+  "lemma": "feel",
+  "slug": "feel",
+  "fetchedAt": "2026-05-17T08:59:10.737Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To use or experience the sense of touch. To become aware of through the skin; to use the sense of touch on.",
+          "examples": [
+            "You can feel a heartbeat if you put your fingers on your breast.",
+            "I felt cold and miserable all night."
+          ]
+        },
+        {
+          "text": "To become aware of through the skin; to use the sense of touch on.",
+          "examples": [
+            "You can feel a heartbeat if you put your fingers on your breast.",
+            "I felt cold and miserable all night."
+          ]
+        },
+        {
+          "text": "To find one's way (literally or figuratively) by touching or using cautious movements.",
+          "examples": [
+            "I felt my way through the darkened room.",
+            "I felt my way cautiously through the dangerous business maneuver."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The sense of touch.",
+          "examples": []
+        },
+        {
+          "text": "A perception experienced mainly or solely through the sense of touch.",
+          "examples": [
+            "Bark has a rough feel."
+          ]
+        },
+        {
+          "text": "A vague mental impression.",
+          "examples": [
+            "You should get a feel for the area before moving in."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Alternative form of fele.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Alternative form of fele.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Alternative form of fele.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

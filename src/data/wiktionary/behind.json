@@ -1,0 +1,98 @@
+{
+  "lemma": "behind",
+  "slug": "behind",
+  "fetchedAt": "2026-05-17T08:58:07.181Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "At or to the back or far side of.",
+          "examples": [
+            "The children were hiding behind the wall.",
+            "Behind the garage needs clearing asap."
+          ]
+        },
+        {
+          "text": "Concealed by (something serving as a facade or disguise).",
+          "examples": [
+            "Behind the smile was a cruel intention."
+          ]
+        },
+        {
+          "text": "In the past, from the viewpoint of.",
+          "examples": [
+            "All my problems are behind me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At or in the rear or back part of something.",
+          "examples": [
+            "The water flows out through the pipe, and the sediment collects behind."
+          ]
+        },
+        {
+          "text": "In a rearward direction.",
+          "examples": [
+            "We ran and ran, without once looking behind."
+          ]
+        },
+        {
+          "text": "So as to come after someone or something in position, distance, advancement, ranking, time, etc.",
+          "examples": [
+            "The slower runners were left a long way behind.",
+            "In the cricket match, England finished a long way behind."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not advanced to the required or expected degree; overdue or in arrears.",
+          "examples": [
+            "I'm very behind in my schedule.",
+            "My employer is two paychecks behind on paying my salary."
+          ]
+        },
+        {
+          "text": "Slow.",
+          "examples": [
+            "My watch is behind by four minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The rear, back-end.",
+          "examples": [
+            "This part fits under the behind of the vehicle.",
+            "She sneaked up on me from behind."
+          ]
+        },
+        {
+          "text": "The buttocks, bottom, butt.",
+          "examples": [
+            "I was stung on the behind by a wasp."
+          ]
+        },
+        {
+          "text": "Synonym of ass (“synecdochic: a person or their body”).",
+          "examples": [
+            "Get your lazy behind out of bed!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

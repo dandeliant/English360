@@ -1,0 +1,74 @@
+{
+  "lemma": "hurt",
+  "slug": "hurt",
+  "fetchedAt": "2026-05-17T08:59:35.305Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause (a person or animal) physical pain and/or injury.",
+          "examples": [
+            "If anybody hurts my little brother, I will get upset.",
+            "This injection might hurt a little. Your arm will be hurting you for a while."
+          ]
+        },
+        {
+          "text": "To cause (somebody) emotional pain.",
+          "examples": [
+            "He was deeply hurt he hadn’t been invited.",
+            "The insult hurt."
+          ]
+        },
+        {
+          "text": "To be painful.",
+          "examples": [
+            "Does your leg still hurt? / It is starting to feel better."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Wounded, physically injured.",
+          "examples": []
+        },
+        {
+          "text": "Feeling physical or emotional pain.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An emotional or psychological humiliation or bad experience.",
+          "examples": [
+            "how to overcome old hurts of the past"
+          ]
+        },
+        {
+          "text": "A bodily injury causing pain; a wound or bruise.",
+          "examples": []
+        },
+        {
+          "text": "Injury; damage; detriment; harm",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A roundel azure (blue circular spot).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,77 @@
+{
+  "lemma": "around",
+  "slug": "around",
+  "fetchedAt": "2026-05-17T08:58:01.716Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Forming a circle or closed curve containing (something).",
+          "examples": [
+            "She wore a gold chain around her neck.",
+            "I planted a row of lilies around the statue."
+          ]
+        },
+        {
+          "text": "Centred upon; surrounding; regarding.",
+          "examples": [
+            "We could use some clarification around the new rules.",
+            "There has been a lot of controversy around the handling of personal information."
+          ]
+        },
+        {
+          "text": "Following the perimeter of a specified area and returning to the starting point.",
+          "examples": [
+            "We walked around the football field.",
+            "She went around the track fifty times."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Present in the vicinity.",
+          "examples": [
+            "Is Clare around today?"
+          ]
+        },
+        {
+          "text": "Alive; existing.",
+          "examples": [
+            "The record store on Main Street? Yes, it's still around.",
+            "\"How is old Bob? I heard that his health is failing.\" \"Oh, he's still around. He's feeling better now.\""
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "So as to form a circle or trace a circular path, or approximation thereof.",
+          "examples": [
+            "High above, vultures circled around."
+          ]
+        },
+        {
+          "text": "So as to surround or be near.",
+          "examples": [
+            "Everybody please gather around.",
+            "There isn't another house for miles around."
+          ]
+        },
+        {
+          "text": "Nearly; approximately; about.",
+          "examples": [
+            "Around a thousand people attended.",
+            "An adult elephant weighs around five tons."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

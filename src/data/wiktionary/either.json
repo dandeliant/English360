@@ -1,0 +1,69 @@
+{
+  "lemma": "either",
+  "slug": "either",
+  "fetchedAt": "2026-05-17T08:59:03.413Z",
+  "en": [
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Any one (of two).",
+          "examples": [
+            "You can have it in either colour."
+          ]
+        },
+        {
+          "text": "Each of two; both. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "There is a locomotive at either end of the train, one pulling and the other pushing.",
+            "There are roses on either side of the garden."
+          ]
+        },
+        {
+          "text": "Any one (of more than two).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "One or the other of two people or things.",
+          "examples": [
+            "He made me two offers, but I did not accept either."
+          ]
+        },
+        {
+          "text": "Both, each of two or more.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "As well.",
+          "examples": [
+            "I don't like him, and I don't like her either.",
+            "I know a cheap Spanish restaurant. It's not far from here, either."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Introduces the first of two (or occasionally more) options or possibilities, the second (or last) of which is introduced by “or”.",
+          "examples": [
+            "Either you eat your dinner or you go to your room.",
+            "You can have either potatoes or rice with that, but not both."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

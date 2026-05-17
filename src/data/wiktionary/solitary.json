@@ -1,0 +1,58 @@
+{
+  "lemma": "solitary",
+  "slug": "solitary",
+  "fetchedAt": "2026-05-17T09:00:49.027Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who lives alone, or in solitude; an anchorite, hermit or recluse.",
+          "examples": []
+        },
+        {
+          "text": "Ellipsis of solitary confinement.",
+          "examples": [
+            "The prisoners who started the riot were moved to solitary."
+          ]
+        },
+        {
+          "text": "The state of being solitary; solitude",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Living or being by oneself; alone; having no companion present",
+          "examples": []
+        },
+        {
+          "text": "Performed, passed, or endured alone.",
+          "examples": [
+            "a solitary journey",
+            "a solitary life"
+          ]
+        },
+        {
+          "text": "Not much visited or frequented; remote from society",
+          "examples": [
+            "a solitary residence or place"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Archaic form of solitaire (“Rodrigues solitaire”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

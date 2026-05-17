@@ -1,0 +1,28 @@
+{
+  "lemma": "acquire",
+  "slug": "acquire",
+  "fetchedAt": "2026-05-17T08:57:56.547Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To get.",
+          "examples": []
+        },
+        {
+          "text": "To gain, usually by one's own exertions; to get as one's own.",
+          "examples": [
+            "to acquire a skill",
+            "to acquire decent habits and manners"
+          ]
+        },
+        {
+          "text": "To become affected by an illness.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

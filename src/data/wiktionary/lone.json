@@ -1,0 +1,29 @@
+{
+  "lemma": "lone",
+  "slug": "lone",
+  "fetchedAt": "2026-05-17T08:59:50.750Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Solitary; having no companion.",
+          "examples": [
+            "a lone traveler or watcher"
+          ]
+        },
+        {
+          "text": "Isolated or lonely; lacking companionship.",
+          "examples": []
+        },
+        {
+          "text": "Sole; being the only one of a type.",
+          "examples": [
+            "the lone male audience member at the concert"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "scene",
+  "slug": "scene",
+  "fetchedAt": "2026-05-17T09:00:35.541Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The location of an event that attracts attention.",
+          "examples": [
+            "the scene of the crime",
+            "Lily was pronounced dead at the scene."
+          ]
+        },
+        {
+          "text": "The stage.",
+          "examples": [
+            "They stood in the centre of the scene."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To exhibit as a scene; to make a scene of; to display.",
+          "examples": []
+        },
+        {
+          "text": "To roleplay.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A notice to actors that their performance has ended.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

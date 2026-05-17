@@ -1,0 +1,46 @@
+{
+  "lemma": "circle",
+  "slug": "circle",
+  "fetchedAt": "2026-05-17T08:58:39.256Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A two-dimensional geometric figure, a line, consisting of the set of all those points in a plane that are equally distant from a given point (center).",
+          "examples": [
+            "The set of all points (x, y) such that (x − 1) + y = r is a circle of radius r around the point (1, 0)."
+          ]
+        },
+        {
+          "text": "A two-dimensional geometric figure, a disk, consisting of the set of all those points of a plane at a distance less than or equal to a fixed distance (radius) from a given point.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To travel around along a curved path.",
+          "examples": [
+            "The wolves circled the herd of deer."
+          ]
+        },
+        {
+          "text": "To surround.",
+          "examples": [
+            "A high fence circles the enclosure."
+          ]
+        },
+        {
+          "text": "To place or mark a circle around.",
+          "examples": [
+            "Circle the jobs that you are interested in applying for."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

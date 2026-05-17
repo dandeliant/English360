@@ -1,0 +1,28 @@
+{
+  "lemma": "intense",
+  "slug": "intense",
+  "fetchedAt": "2026-05-17T08:59:37.059Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a characteristic: extreme or very high or strong in degree; severe; also, excessive, towering.",
+          "examples": []
+        },
+        {
+          "text": "Of a thing: possessing some characteristic to an extreme or very high or strong degree.",
+          "examples": []
+        },
+        {
+          "text": "Of feelings, thoughts, etc.: strongly focused; ardent, deep, earnest, passionate.",
+          "examples": [
+            "intense study",
+            "intense thought"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

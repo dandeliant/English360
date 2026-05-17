@@ -1,0 +1,56 @@
+{
+  "lemma": "take",
+  "slug": "take",
+  "fetchedAt": "2026-05-17T09:01:03.026Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To get into one's hands, possession, or control, with or without force.",
+          "examples": [
+            "They took Charlton's gun from his cold, dead hands.",
+            "I'll take that plate off the table."
+          ]
+        },
+        {
+          "text": "To seize or capture.",
+          "examples": [
+            "take the guards prisoner",
+            "take prisoners"
+          ]
+        },
+        {
+          "text": "To catch or get possession of (fish or game).",
+          "examples": [
+            "took ten catfish in one afternoon"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The or an act of taking.",
+          "examples": []
+        },
+        {
+          "text": "Something that is taken; a haul. Money that is taken in, (legal or illegal) proceeds, income; profits; takings.",
+          "examples": [
+            "He wants half of the take if he helps with the job.",
+            "The mayor is on the take."
+          ]
+        },
+        {
+          "text": "Money that is taken in, (legal or illegal) proceeds, income; profits; takings.",
+          "examples": [
+            "He wants half of the take if he helps with the job.",
+            "The mayor is on the take."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

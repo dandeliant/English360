@@ -1,0 +1,70 @@
+{
+  "lemma": "roll",
+  "slug": "roll",
+  "fetchedAt": "2026-05-17T09:00:29.000Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To revolve by turning over and over; to move by turning on a horizontal axis; to impel forward with a revolving motion on a supporting surface.",
+          "examples": [
+            "To roll a wheel, a ball, or a barrel.",
+            "The child will roll on the floor."
+          ]
+        },
+        {
+          "text": "To wrap (something) round on itself; to form into a spherical or cylindrical body by causing to turn over and over.",
+          "examples": [
+            "To roll a sheet of paper; to roll clay or putty into a ball.",
+            "The cloth rolls unevenly; the snow rolls well."
+          ]
+        },
+        {
+          "text": "To bind or involve by winding, as with a bandage; to enwrap; often with up.",
+          "examples": [
+            "To roll up the vase in bubble wrap."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act or result of rolling, or state of being rolled.",
+          "examples": [
+            "the roll of a ball",
+            "Look at the roll of the waves."
+          ]
+        },
+        {
+          "text": "Something formed into a compact shape by being rolled up.",
+          "examples": [
+            "a roll of banknotes"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is rolled up.",
+          "examples": [
+            "a roll of fat, of wool, paper, cloth, etc."
+          ]
+        },
+        {
+          "text": "A document written on a piece of parchment, paper, or other materials which may be rolled up; a scroll.",
+          "examples": []
+        },
+        {
+          "text": "An official or public document; a register; a record.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

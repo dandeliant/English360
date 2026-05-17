@@ -1,0 +1,45 @@
+{
+  "lemma": "otherwise",
+  "slug": "otherwise",
+  "fetchedAt": "2026-05-17T09:00:05.402Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Differently, in another way.",
+          "examples": [
+            "You may have a point, but I think otherwise.",
+            "Could I do otherwise than smile?"
+          ]
+        },
+        {
+          "text": "In different circumstances; or else.",
+          "examples": [
+            "I’m not well today, otherwise I would have helped.",
+            "You have to open your umbrella, otherwise you'll get wet."
+          ]
+        },
+        {
+          "text": "In all other respects.",
+          "examples": [
+            "He lost his temper once in a while. Otherwise he behaved rationally."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Other than supposed; different.",
+          "examples": [
+            "He said he didn’t do it, but the evidence was otherwise.",
+            "Statistics need lots of information, digital and otherwise."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

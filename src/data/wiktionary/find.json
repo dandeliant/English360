@@ -1,0 +1,49 @@
+{
+  "lemma": "find",
+  "slug": "find",
+  "fetchedAt": "2026-05-17T08:59:12.615Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To locate To encounter or discover by accident; to happen upon.",
+          "examples": [
+            "I found this shell on the beach.",
+            "She arrived home to find that the house had gone up in flames."
+          ]
+        },
+        {
+          "text": "To encounter or discover by accident; to happen upon.",
+          "examples": [
+            "I found this shell on the beach.",
+            "She arrived home to find that the house had gone up in flames."
+          ]
+        },
+        {
+          "text": "To encounter or discover something being searched for; to locate.",
+          "examples": [
+            "I found my car keys. They were under the couch.",
+            "I went looking for you in the bed we share, but tonight I found you not there."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+          "examples": []
+        },
+        {
+          "text": "The act of finding.",
+          "examples": [
+            "(Can we add an example for this sense?)"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

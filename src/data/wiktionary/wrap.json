@@ -1,0 +1,55 @@
+{
+  "lemma": "wrap",
+  "slug": "wrap",
+  "fetchedAt": "2026-05-17T09:01:27.077Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To enclose (an object) completely in any flexible, thin material such as fabric or paper.",
+          "examples": [
+            "Christmas gifts are commonly known to be wrapped in paper."
+          ]
+        },
+        {
+          "text": "To enclose or coil around an object or organism, as a form of grasping.",
+          "examples": [
+            "A snake wraps itself around its prey."
+          ]
+        },
+        {
+          "text": "To conceal by enveloping or enfolding; to hide.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Paper or sheeting that is wrapped around something to protect, contain, or conceal it. A large sheet of self-adhesive material applied over a vehicle's paintwork for decorative or protective purposes.",
+          "examples": []
+        },
+        {
+          "text": "A large sheet of self-adhesive material applied over a vehicle's paintwork for decorative or protective purposes.",
+          "examples": []
+        },
+        {
+          "text": "A loose piece of women's clothing that one wraps around the body; a shawl or scarf.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of rap (“appraisal”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "surround",
+  "slug": "surround",
+  "fetchedAt": "2026-05-17T09:00:59.616Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To encircle something or simultaneously extend in all directions.",
+          "examples": []
+        },
+        {
+          "text": "To enclose or confine something on all sides so as to prevent escape.",
+          "examples": [
+            "The lions surrounded the deer herd so they had no way to escape.",
+            "They surrounded each other in the classroom and started trading hits."
+          ]
+        },
+        {
+          "text": "To pass around; to travel about; to circumnavigate.",
+          "examples": [
+            "to surround the world"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Anything, such as a fence or border, that surrounds something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

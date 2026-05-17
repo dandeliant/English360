@@ -1,0 +1,57 @@
+{
+  "lemma": "glance",
+  "slug": "glance",
+  "fetchedAt": "2026-05-17T08:59:24.638Z",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn (one's eyes or look) at something, often briefly. To look briefly at (something). To cause (light) to gleam or sparkle. To cause (something) to move obliquely. To hit (a ball) lightly, causing it to move in another direction. To hit (a ball) with a bat held in a slanted manner; also, to play such a stroke against (the bowler). To communicate (something) using the eyes. To touch (something) lightly or obliquely; to graze. To make an incidental or passing reflection, often unfavourably, on (a topic); also, to make (an incidental or passing reflection, often unfavourable).",
+          "examples": []
+        },
+        {
+          "text": "To turn (one's eyes or look) at something, often briefly.",
+          "examples": []
+        },
+        {
+          "text": "To look briefly at (something).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A brief or cursory look.",
+          "examples": []
+        },
+        {
+          "text": "A quick movement that catches light, and causes a flash or glitter; also, the flash or glitter.",
+          "examples": []
+        },
+        {
+          "text": "A stroke in which the ball is hit with a bat held in a slanted manner.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ellipsis of glance coal (“any hard, lustrous coal such as anthracite”).",
+          "examples": []
+        },
+        {
+          "text": "Any of various sulphides, mostly dark-coloured, which have a brilliant metallic lustre.",
+          "examples": [
+            "copper glance silver glance"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

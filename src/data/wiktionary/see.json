@@ -1,0 +1,71 @@
+{
+  "lemma": "see",
+  "slug": "see",
+  "fetchedAt": "2026-05-17T09:00:37.674Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Seneca.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To perceive or detect someone or something with the eyes, or as if by sight. To witness or observe by personal experience.",
+          "examples": [
+            "Now I've seen it all!",
+            "I'm seeing much better since I got my eyeglasses recalibrated."
+          ]
+        },
+        {
+          "text": "To witness or observe by personal experience.",
+          "examples": [
+            "Now I've seen it all!",
+            "I'm seeing much better since I got my eyeglasses recalibrated."
+          ]
+        },
+        {
+          "text": "To watch (a movie) at a cinema, or a show on television etc.",
+          "examples": [
+            "I saw the latest Tarantino flick last week."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Introducing an explanation",
+          "examples": [
+            "See, in order to win the full prize we would have to come up with a scheme to land a rover on the Moon."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A diocese or archdiocese: a region of a church, generally headed by a bishop or an archbishop.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of cee; the name of the Latin script letter C/c.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

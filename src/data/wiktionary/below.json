@@ -1,0 +1,58 @@
+{
+  "lemma": "below",
+  "slug": "below",
+  "fetchedAt": "2026-05-17T08:58:08.944Z",
+  "en": [
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Lower in spatial position than.",
+          "examples": [
+            "The treasure is buried two meters below the surface.",
+            "The marmalade is on the shelf below the bread."
+          ]
+        },
+        {
+          "text": "Lower than in value, price, rank, concentration, etc.",
+          "examples": [
+            "The temperature is below zero.",
+            "Liverpool are below Manchester City in the Premier League."
+          ]
+        },
+        {
+          "text": "Downstream of.",
+          "examples": [
+            "The River Thames is tidal below Teddington Lock."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or to a lower place.",
+          "examples": [
+            "The town is situated on a hillside, with a river running below.",
+            "He was pulled below by a sea monster."
+          ]
+        },
+        {
+          "text": "On or to a lower storey.",
+          "examples": [
+            "She lives below, on the ground floor."
+          ]
+        },
+        {
+          "text": "On or to a lower deck, especially as relative to the main deck.",
+          "examples": [
+            "The captain went below to inspect the engine.",
+            "the landlubbers lying down below"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

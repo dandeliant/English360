@@ -1,0 +1,58 @@
+{
+  "lemma": "beauty",
+  "slug": "beauty",
+  "fetchedAt": "2026-05-17T08:58:05.159Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The quality of being (especially visually) attractive, pleasing, fine or good-looking; comeliness.",
+          "examples": []
+        },
+        {
+          "text": "Someone who is beautiful.",
+          "examples": [
+            "Brigitte Bardot was a renowned beauty."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Thanks!",
+          "examples": []
+        },
+        {
+          "text": "Cool!",
+          "examples": [
+            "It's the long weekend. Beauty!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of high quality, well done.",
+          "examples": [
+            "He made a beauty pass through the neutral zone."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make beautiful.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

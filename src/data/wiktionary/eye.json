@@ -1,0 +1,65 @@
+{
+  "lemma": "eye",
+  "slug": "eye",
+  "fetchedAt": "2026-05-17T08:59:07.142Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An organ through which animals see (“perceive surroundings via light”).",
+          "examples": [
+            "Bright lights really hurt my eyes."
+          ]
+        },
+        {
+          "text": "The visual sense.",
+          "examples": [
+            "The car was quite pleasing to the eye, but impractical."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To carefully or appraisingly observe (someone or something).",
+          "examples": [
+            "After eyeing the document for half an hour, she decided not to sign it.",
+            "They went out and eyed the new car one last time before deciding."
+          ]
+        },
+        {
+          "text": "To appear; to look.",
+          "examples": []
+        },
+        {
+          "text": "To remove the reproductive buds from (potatoes).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The name of the Latin script letter I/i.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A brood.",
+          "examples": [
+            "an eye of pheasants"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

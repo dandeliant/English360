@@ -1,0 +1,44 @@
+{
+  "lemma": "paint",
+  "slug": "paint",
+  "fetchedAt": "2026-05-17T09:00:08.389Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds colour to an object or surface to which it has been applied.",
+          "examples": [
+            "fresh coat of paint"
+          ]
+        },
+        {
+          "text": "A set of containers or blocks of paint of different colors/colours, used for painting pictures.",
+          "examples": []
+        },
+        {
+          "text": "The free-throw lane, construed with the.",
+          "examples": [
+            "The Nimrods are strong on the outside, but not very good in the paint."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To apply paint to.",
+          "examples": [
+            "I painted the bathroom walls light blue, and I painted the ceiling white."
+          ]
+        },
+        {
+          "text": "To apply in the manner that paint is applied.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,31 @@
+{
+  "lemma": "clearly",
+  "slug": "clearly",
+  "fetchedAt": "2026-05-17T08:58:41.037Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a clear manner.",
+          "examples": [
+            "He enunciated every syllable clearly."
+          ]
+        },
+        {
+          "text": "Without a doubt; obviously.",
+          "examples": [
+            "Clearly, the judge erred in his opinion."
+          ]
+        },
+        {
+          "text": "To a degree clearly discernible.",
+          "examples": [
+            "He was clearly wrong on all points but one."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

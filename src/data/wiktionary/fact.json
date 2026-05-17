@@ -1,0 +1,41 @@
+{
+  "lemma": "fact",
+  "slug": "fact",
+  "fetchedAt": "2026-05-17T08:59:08.131Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something actual as opposed to invented.",
+          "examples": [
+            "establish the facts",
+            "hard facts"
+          ]
+        },
+        {
+          "text": "Something which is real.",
+          "examples": [
+            "Gravity is a fact, not a theory."
+          ]
+        },
+        {
+          "text": "Something concrete used as a basis for further interpretation.",
+          "examples": [
+            "Let's look at the facts of the case before deciding."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used before making a statement to introduce it as a trustworthy one.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

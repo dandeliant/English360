@@ -1,0 +1,76 @@
+{
+  "lemma": "some",
+  "slug": "some",
+  "fetchedAt": "2026-05-17T09:00:50.592Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "A certain number (multiple but not all).",
+          "examples": [
+            "Some enjoy spicy food, others prefer it milder."
+          ]
+        },
+        {
+          "text": "An indefinite quantity.",
+          "examples": [
+            "Can I have some of them?"
+          ]
+        },
+        {
+          "text": "An indefinite amount; a part. Used mostly with abstract and nonliving objects.",
+          "examples": [
+            "Please give me some of the cake.",
+            "Everyone is wrong some of the time."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "A nonzero, unspecified proportion of (a bounded set of countable things): at least two.",
+          "examples": [
+            "Some people like camping."
+          ]
+        },
+        {
+          "text": "A nonzero, unspecified quantity or number of (an unbounded set of countable things).",
+          "examples": [
+            "Would you like some grapes?"
+          ]
+        },
+        {
+          "text": "An unspecified amount of (something uncountable).",
+          "examples": [
+            "Would you like some water?",
+            "After some persuasion, he finally agreed."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Of a measurement: approximately, roughly.",
+          "examples": [
+            "I guess he must have weighed some 90 kilos.",
+            "Some 30,000 spectators witnessed the feat."
+          ]
+        },
+        {
+          "text": "To a certain extent, or for a certain period.",
+          "examples": []
+        },
+        {
+          "text": "Somewhat, a little.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

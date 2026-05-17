@@ -1,0 +1,59 @@
+{
+  "lemma": "cry",
+  "slug": "cry",
+  "fetchedAt": "2026-05-17T08:58:49.987Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Cori.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shed tears; to weep, especially in anger or sadness.",
+          "examples": [
+            "That sad movie always makes me cry."
+          ]
+        },
+        {
+          "text": "To utter loudly; to call out; to declare publicly.",
+          "examples": []
+        },
+        {
+          "text": "To shout, scream, yell.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A shedding of tears; the act of crying.",
+          "examples": [
+            "After we broke up, I retreated to my room for a good cry."
+          ]
+        },
+        {
+          "text": "A shout or scream.",
+          "examples": [
+            "I heard a cry from afar."
+          ]
+        },
+        {
+          "text": "Words shouted or screamed.",
+          "examples": [
+            "a battle cry"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

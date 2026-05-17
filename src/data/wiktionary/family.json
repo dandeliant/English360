@@ -1,0 +1,41 @@
+{
+  "lemma": "family",
+  "slug": "family",
+  "fetchedAt": "2026-05-17T08:59:08.807Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; in particular, a set of parents and their children; an immediate family.",
+          "examples": [
+            "Our family lives in town."
+          ]
+        },
+        {
+          "text": "An extended family: a group of people who are related to one another by blood or marriage.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Suitable for children and adults.",
+          "examples": [
+            "It's not good for a date, it's a family restaurant.",
+            "Some animated movies are not just for kids, they are family movies."
+          ]
+        },
+        {
+          "text": "Homosexual.",
+          "examples": [
+            "I knew he was family when I first met him."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

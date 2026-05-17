@@ -1,0 +1,68 @@
+{
+  "lemma": "blue",
+  "slug": "blue",
+  "fetchedAt": "2026-05-17T08:58:12.131Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of a blue hue.",
+          "examples": [
+            "the deep blue sea",
+            "Why is the sky blue?"
+          ]
+        },
+        {
+          "text": "Depressed, melancholic, sad.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The colour of the clear sky or the deep sea; the colour midway between green and violet in the visible spectrum and one of the primary additive colours.",
+          "examples": [
+            "blue:",
+            "other blue:"
+          ]
+        },
+        {
+          "text": "Anything coloured blue, especially to distinguish it from similar objects differing only in colour.",
+          "examples": [
+            "I don't like red Smarties. Have you got a blue?"
+          ]
+        },
+        {
+          "text": "A blue dye or pigment.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or become blue; to turn blue.",
+          "examples": []
+        },
+        {
+          "text": "To treat the surface of steel so that it is passivated chemically and becomes more resistant to rust.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend (money) extravagantly; to blow.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

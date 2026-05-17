@@ -1,0 +1,130 @@
+{
+  "lemma": "last",
+  "slug": "last",
+  "fetchedAt": "2026-05-17T08:59:44.709Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Final, ultimate, coming after all others of its kind.",
+          "examples": [
+            "Will try to fix it by myself for now: as a last resort, we can always take it to a grease monkey.",
+            "Eyes Wide Shut was the last film to be directed by Stanley Kubrick."
+          ]
+        },
+        {
+          "text": "Most recent, latest, last so far.",
+          "examples": [
+            "The last time I saw him, he was married.",
+            "I have received your note dated the 17th last, and am responding to say that […]"
+          ]
+        },
+        {
+          "text": "Farthest of all from a given quality, character, or condition; most unlikely, or least preferable.",
+          "examples": [
+            "He is the last person to be accused of theft.",
+            "The last person I want to meet is Helen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "The (one) immediately before the present.",
+          "examples": [
+            "We went there last year.",
+            "I was last to go; you're next."
+          ]
+        },
+        {
+          "text": "Closest in the past, or closest but one if the closest was very recent; of days, sometimes thought to specifically refer to the instance closest to seven days (one week) ago, or the most recent instance before seven days (one week) ago.",
+          "examples": [
+            "It's Wednesday, and the party was last Tuesday; that is, not yesterday, but eight days ago.",
+            "When you say last Monday, do you mean the Monday just gone, or the one before that?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Most recently.",
+          "examples": [
+            "When we last met, he was based in Toronto."
+          ]
+        },
+        {
+          "text": "after everything else; finally",
+          "examples": [
+            "As I arrived last of all, I'll go last to add the butter last.",
+            "last but not least"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To endure, continue over time.",
+          "examples": [
+            "Summer seems to last longer each year.",
+            "They seem happy now, but that won't last long."
+          ]
+        },
+        {
+          "text": "To hold out, continue undefeated or entire.",
+          "examples": [
+            "I don't know how much longer we can last without reinforcements."
+          ]
+        },
+        {
+          "text": "To purposefully refrain from orgasm",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A tool in the form of a foot on which an item of footwear (such as a boot or shoe) is placed for shaping while it is being manufactured or repaired.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To shape (an item of footwear such as a boot or shoe) during its manufacture or repair while it is placed on a last (noun etymology 3, noun sense 1).",
+          "examples": [
+            "to last a boot"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A burden; load; a cargo; freight.",
+          "examples": []
+        },
+        {
+          "text": "A measure of weight or quantity, varying in designation depending on the goods concerned.",
+          "examples": []
+        },
+        {
+          "text": "An old English (and Dutch) measure of the carrying capacity of a ship, equal to two tons.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

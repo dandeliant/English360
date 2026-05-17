@@ -1,0 +1,58 @@
+{
+  "lemma": "tree",
+  "slug": "tree",
+  "fetchedAt": "2026-05-17T09:01:11.689Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A perennial woody plant taller and larger than a shrub with a wooden trunk and, at some distance from the ground, having leaves and branches.",
+          "examples": [
+            "Hyperion is the tallest living tree in the world.",
+            "Birds have a nest in a tree in the garden."
+          ]
+        },
+        {
+          "text": "Any other plant (such as a large shrub or herb) that is reminiscent of the above in form and size.",
+          "examples": [
+            "The banana tree is a tall perennial herb: its trunk is not woody."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To chase (an animal or person) up a tree.",
+          "examples": [
+            "The dog treed the cat."
+          ]
+        },
+        {
+          "text": "To place in a tree.",
+          "examples": [
+            "Black bears can tree their cubs for protection, but grizzly bears cannot."
+          ]
+        },
+        {
+          "text": "To place upon a shoe tree; to fit with a shoe tree; to stretch upon a shoe tree.",
+          "examples": [
+            "to tree a boot"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of three",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "prey",
+  "slug": "prey",
+  "fetchedAt": "2026-05-17T09:00:18.458Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is or may be seized by animals to be devoured.",
+          "examples": [
+            "The deer became prey to the lion."
+          ]
+        },
+        {
+          "text": "A person or thing given up as a victim.",
+          "examples": []
+        },
+        {
+          "text": "A living thing, usually an animal, that is eaten by another living thing.",
+          "examples": [
+            "The rabbit was eaten by the coyote, so the rabbit is the coyote's prey.",
+            "Stranded without any weapons, we made very easy prey."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To act as a predator.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

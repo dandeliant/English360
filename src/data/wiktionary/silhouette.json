@@ -1,0 +1,34 @@
+{
+  "lemma": "silhouette",
+  "slug": "silhouette",
+  "fetchedAt": "2026-05-17T09:00:45.214Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An illustrated outline filled in with a solid color(s), usually only black, and intended to represent the shape of an object without revealing any other visual details; a similar appearance produced when the object being viewed is situated in relative darkness with brighter lighting behind it; a profile portrait in black, such as a shadow appears to be. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I could see a silhouette of a figure looking out from the window, but I couldn't tell if it was a man or a woman."
+          ]
+        },
+        {
+          "text": "The outline of a garment as it appears on the wearer.",
+          "examples": [
+            "A-line is a classic silhouette for dresses and skirts."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent by a silhouette; to project upon a background, so as to be like a silhouette.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

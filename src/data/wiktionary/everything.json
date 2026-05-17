@@ -1,0 +1,43 @@
+{
+  "lemma": "everything",
+  "slug": "everything",
+  "fetchedAt": "2026-05-17T08:59:05.137Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "All the things under discussion.",
+          "examples": [
+            "I checked the list again and everything is done.",
+            "Thank you for everything you've done for us."
+          ]
+        },
+        {
+          "text": "Many or most things.",
+          "examples": [
+            "A: What do you want to do at the amusement park?B: Everything!",
+            "I did everything today – washed the dishes, cut the lawn, did the laundry."
+          ]
+        },
+        {
+          "text": "A state of well-being (from all parts of the whole).",
+          "examples": [
+            "Everything failed, didn't it?",
+            "She wasn't feeling well this morning but now everything is fine."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Used as a placeholder verb to encapsulate a set of related verbs or any action. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "put",
+  "slug": "put",
+  "fetchedAt": "2026-05-17T09:00:19.641Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Putoh.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To physically place (sth or sb swh).",
+          "examples": [
+            "She put her books on the table.",
+            "The police put him in a cell."
+          ]
+        },
+        {
+          "text": "To place in abstract; to attach or attribute; to assign.",
+          "examples": [
+            "The government put restrictions on vehicle imports.",
+            "I put £100 on the winning horse."
+          ]
+        },
+        {
+          "text": "To bring or set (into a certain relation, state or condition).",
+          "examples": [
+            "Put your house in order!",
+            "He is putting all his energy into this one task."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ellipsis of put option (“right to sell something at a predetermined price”)",
+          "examples": [
+            "He bought a January '08 put for Procter and Gamble at 80 to hedge his bet."
+          ]
+        },
+        {
+          "text": "The act of putting; an action; a movement; a thrust; a push.",
+          "examples": [
+            "the put of a ball"
+          ]
+        },
+        {
+          "text": "An old card game.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fellow, especially an eccentric or elderly one; a duffer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prostitute.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

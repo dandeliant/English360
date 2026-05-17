@@ -1,0 +1,55 @@
+{
+  "lemma": "large",
+  "slug": "large",
+  "fetchedAt": "2026-05-17T08:59:43.635Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of considerable or relatively great size or extent.",
+          "examples": [
+            "Russia is a large country. The fruit-fly has large eyes for its body size. He has a large collection of stamps."
+          ]
+        },
+        {
+          "text": "That is large (the manufactured size).",
+          "examples": []
+        },
+        {
+          "text": "Abundant; ample.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An old musical note, equal to two longas, four breves, or eight semibreves.",
+          "examples": []
+        },
+        {
+          "text": "Liberality, generosity.",
+          "examples": []
+        },
+        {
+          "text": "A thousand dollars/pounds.",
+          "examples": [
+            "Getting a car tricked out like that will cost you 50 large."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Before the wind.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,67 @@
+{
+  "lemma": "you",
+  "slug": "you",
+  "fetchedAt": "2026-05-17T09:01:28.742Z",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The people spoken, or written to, as an object. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Both of you should get ready now.",
+            "I'll look up you and your sister."
+          ]
+        },
+        {
+          "text": "(To) yourselves, (to) yourself.",
+          "examples": []
+        },
+        {
+          "text": "The person spoken to or written to, as an object. (Replacing thee; originally as a mark of respect.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "The individual or group spoken or written to.",
+          "examples": [
+            "Have you gentlemen come to see the lady who fell backwards off a bus?"
+          ]
+        },
+        {
+          "text": "Used before epithets, describing the person being addressed, for emphasis.",
+          "examples": [
+            "You idiot!"
+          ]
+        },
+        {
+          "text": "Your.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The name of the Latin script letter U/u.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

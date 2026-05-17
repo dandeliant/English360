@@ -1,0 +1,114 @@
+{
+  "lemma": "now",
+  "slug": "now",
+  "fetchedAt": "2026-05-17T09:00:00.436Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Nyambo.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Present; current.",
+          "examples": []
+        },
+        {
+          "text": "Fashionable; popular; up to date; current.",
+          "examples": [
+            "I think this band's sound is very now."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At the present time.",
+          "examples": [
+            "Now I am six.",
+            "Stop that now, Jimmy!"
+          ]
+        },
+        {
+          "text": "Used to introduce a point, a qualification of what has previously been said, a remonstration or a rebuke.",
+          "examples": [
+            "Now, we all want what is best for our children.",
+            "Now, Jimmy, stop that."
+          ]
+        },
+        {
+          "text": "Differently from the immediate past; differently from a more remote past or a possible future; differently from all other times.",
+          "examples": [
+            "Now I am ready.",
+            "We all now want the latest toys for our children."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Conjunction",
+      "definitions": [
+        {
+          "text": "Since, because, in light of the fact.",
+          "examples": [
+            "Now all the children have grown up and left, the house is very quiet.",
+            "Now that my sister has gotten rid of their cat, we can go to her house this coming Thanksgiving."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Indicates a signal to begin.",
+          "examples": [
+            "Now! Fire all we've got while the enemy is in reach!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The present time.",
+          "examples": [
+            "Now is the right time.",
+            "There is no better time than now."
+          ]
+        },
+        {
+          "text": "The state of not paying attention to the future or the past.",
+          "examples": [
+            "She is living in the now."
+          ]
+        },
+        {
+          "text": "A particular instant in time, as perceived at that instant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Misspelling of know.",
+          "examples": [
+            "I don't now."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

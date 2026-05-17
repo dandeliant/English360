@@ -1,0 +1,98 @@
+{
+  "lemma": "high",
+  "slug": "high",
+  "fetchedAt": "2026-05-17T08:59:28.687Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Physically elevated, extending above a base or average level: Very elevated; extending or being far above a base; tall; lofty.",
+          "examples": [
+            "The balloon rose high in the sky. The wall was high. a high mountain",
+            "the pitch (or: the ball) was high"
+          ]
+        },
+        {
+          "text": "Very elevated; extending or being far above a base; tall; lofty.",
+          "examples": [
+            "The balloon rose high in the sky. The wall was high. a high mountain"
+          ]
+        },
+        {
+          "text": "Relatively elevated; rising or raised above the average or normal level from which elevation is measured.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In or to an elevated position.",
+          "examples": [
+            "How high above land did you fly?",
+            "The desks were piled high with magazines."
+          ]
+        },
+        {
+          "text": "In or at a great value.",
+          "examples": [
+            "Costs have grown higher this year again."
+          ]
+        },
+        {
+          "text": "At a pitch of great frequency.",
+          "examples": [
+            "I certainly can't sing that high."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A high point or position, literally (as, an elevated place; a superior region; a height; the sky; heaven) or figuratively (as, a point of success or achievement; a time when things are at their best, greatest, most numerous, maximum, etc).",
+          "examples": [
+            "It was one of the highs of his career.",
+            "Inflation reached a ten-year high."
+          ]
+        },
+        {
+          "text": "The maximum atmospheric temperature recorded at a particular location, especially during one 24-hour period.",
+          "examples": [
+            "Today's high was 32 °C."
+          ]
+        },
+        {
+          "text": "A period of euphoria, from excitement or from an intake of drugs.",
+          "examples": [
+            "That pill gave me a high for a few hours, before I had a comedown."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rise.",
+          "examples": [
+            "The sun higheth."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of hie (“to hasten”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

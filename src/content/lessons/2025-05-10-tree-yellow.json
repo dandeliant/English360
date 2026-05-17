@@ -1,0 +1,197 @@
+{
+  "id": "2025-05-10-tree-yellow",
+  "date_assigned": "2025-05-10",
+  "date_alternatives": ["2025-05-15", "2025-05-20"],
+  "title_en": "An Island of Silence",
+  "title_pl": "Wyspa ciszy",
+  "location": "Polska",
+  "image": "/images/2025-05-10-tree-yellow.jpg",
+  "image_orientation": "portrait",
+  "tags": ["nature", "spring", "trees", "yellow", "rapeseed", "solitude", "poland"],
+  "themes": ["solitude", "polish-countryside", "spring-bloom", "monoculture"],
+  "did_you_know": {
+    "en": "Rapeseed (Brassica napus) is Poland's most widely grown oilseed crop — in a good year Polish farmers harvest over three million tonnes of it. The bright yellow blooms also produce one of the country's most fragrant honeys.",
+    "pl": "Rzepak (Brassica napus) jest najczęściej uprawianą rośliną oleistą w Polsce — w dobrym roku polscy rolnicy zbierają ponad trzy miliony ton. Jego jaskrawożółte kwiaty dają też jeden z najbardziej aromatycznych miodów w kraju."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: samotne drzewo w morzu rzepaku. Wyspa ciszy otulona szeptem pól. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia na rozumienie. Zajrzyj na english360.example",
+    "fb_caption_en": "Today on English 360°: a lone tree adrift in a sea of rapeseed. An island of silence wrapped in the whisper of fields. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#LearnEnglish", "#NaturePhotography", "#Rapeseed", "#PolishCountryside", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "This is a tree. The tree is in a big field. The field is yellow. The yellow flowers are called rapeseed. The tree is alone. There are no other trees in the field. A small bird is in the sky. It is a beautiful day in spring.",
+      "text_pl": "To jest drzewo. Drzewo stoi na dużym polu. Pole jest żółte. Te żółte kwiaty to rzepak. Drzewo jest samo. Na polu nie ma innych drzew. Mały ptak jest na niebie. Jest piękny wiosenny dzień.",
+      "vocab": [
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": true },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": true },
+        { "term": "yellow", "ipa_br": "/ˈjeləʊ/", "pl": "żółty", "new": false },
+        { "term": "alone", "ipa_br": "/əˈləʊn/", "pl": "sam, samotny", "new": true },
+        { "term": "bird", "ipa_br": "/bɜːd/", "pl": "ptak", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": true },
+        { "term": "spring", "ipa_br": "/sprɪŋ/", "pl": "wiosna", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match each word to the picture.",
+          "items": [
+            { "word": "tree", "answer": "A" },
+            { "word": "flower", "answer": "B" },
+            { "word": "bird", "answer": "C" },
+            { "word": "cloud", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌳" },
+            { "label": "B", "text": "🌼" },
+            { "label": "C", "text": "🐦" },
+            { "label": "D", "text": "☁️" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "Look at this tall tree. It is standing alone in the middle of a big yellow field. The yellow flowers are called rapeseed. They smell sweet, and bees love them. Behind the tree, you can see a green forest. The sky is blue with some white clouds. A small bird is flying high in the sky. Everything around the tree looks peaceful and quiet.",
+      "text_pl": "Spójrz na to wysokie drzewo. Stoi samo pośrodku wielkiego, żółtego pola. Te żółte kwiaty to rzepak. Pachną słodko i pszczoły je uwielbiają. Za drzewem widać zielony las. Niebo jest niebieskie, z białymi chmurami. Wysoko po niebie leci mały ptak. Wszystko wokół drzewa wygląda spokojnie i cicho.",
+      "vocab": [
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "stand", "ipa_br": "/stænd/", "pl": "stać", "new": false },
+        { "term": "middle", "ipa_br": "/ˈmɪdəl/", "pl": "środek", "new": true },
+        { "term": "rapeseed", "ipa_br": "/ˈreɪpsiːd/", "pl": "rzepak", "new": true },
+        { "term": "smell", "ipa_br": "/smel/", "pl": "pachnieć, zapach", "new": true },
+        { "term": "forest", "ipa_br": "/ˈfɒrɪst/", "pl": "las", "new": false },
+        { "term": "cloud", "ipa_br": "/klaʊd/", "pl": "chmura", "new": true },
+        { "term": "peaceful", "ipa_br": "/ˈpiːsfəl/", "pl": "spokojny, pełen spokoju", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The tree is standing ___ in the field.", "answer": "alone" },
+            { "sentence": "The yellow flowers are called ___.", "answer": "rapeseed" },
+            { "sentence": "Behind the tree, you can see a green ___.", "answer": "forest" },
+            { "sentence": "A small bird is flying high in the ___.", "answer": "sky" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "On a warm afternoon in central Poland, in May of last year, a single tree stood quietly in the middle of a rapeseed field. Rapeseed is one of the most common crops in Poland — every spring, whole fields turn bright yellow as it blooms. From a distance, the tree looks like a small island in a sea of yellow flowers. Behind it, a wall of green trees marks the edge of a forest. High above, a bird of prey was circling slowly, looking for food. Everything around the tree felt calm, almost silent.",
+      "text_pl": "Ciepłym majowym popołudniem w środkowej Polsce, w zeszłym roku, samotne drzewo stało spokojnie pośrodku pola rzepaku. Rzepak to jedna z najpopularniejszych upraw w Polsce — co wiosnę całe pola robią się jaskrawożółte, gdy kwitnie. Z daleka drzewo wygląda jak mała wyspa w morzu żółtych kwiatów. Za nim ściana zielonych drzew wyznacza skraj lasu. Wysoko nad ziemią ptak drapieżny powoli krążył, szukając pożywienia. Wszystko wokół drzewa sprawiało wrażenie spokoju, niemal ciszy.",
+      "vocab": [
+        { "term": "crop", "ipa_br": "/krɒp/", "pl": "uprawa, plon", "new": true },
+        { "term": "common", "ipa_br": "/ˈkɒmən/", "pl": "pospolity, powszechny", "new": false },
+        { "term": "bloom", "ipa_br": "/bluːm/", "pl": "kwitnąć", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość", "new": false },
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "skraj, krawędź", "new": true },
+        { "term": "bird of prey", "ipa_br": "/bɜːd əv preɪ/", "pl": "ptak drapieżny", "new": true },
+        { "term": "circle", "ipa_br": "/ˈsɜːkəl/", "pl": "krążyć", "new": true },
+        { "term": "silent", "ipa_br": "/ˈsaɪlənt/", "pl": "cichy, milczący", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "Rapeseed fields turn yellow every spring in Poland.", "answer": true },
+            { "statement": "The tree in the photo is one of many in the field.", "answer": false },
+            { "statement": "From a distance, the tree looks like an island.", "answer": true },
+            { "statement": "There is a forest behind the tree.", "answer": true },
+            { "statement": "The bird of prey is sitting on the tree.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is something quietly striking about a single tree standing in the middle of a vast rapeseed field. In May, rapeseed turns whole regions of Poland into seas of acid yellow — a colour so intense that, from up close, it almost hurts the eyes. The tree in this photograph is not part of the field; it survived around it. Farmers usually clear obstacles when they prepare their land, but every now and then a single tree is left standing, either because it was too large to remove easily or because someone simply decided it was worth keeping. The result is a small island of shade and stillness rising above the busy hum of pollinators below. Above it, a bird of prey circles patiently against a blue, cloud-streaked sky.",
+      "text_pl": "Jest coś po cichu uderzającego w samotnym drzewie stojącym pośrodku rozległego pola rzepaku. W maju rzepak zmienia całe regiony Polski w morza jaskrawej żółci — w kolor tak intensywny, że z bliska niemal razi w oczy. Drzewo z tego zdjęcia nie jest częścią pola; ono przetrwało wokół. Rolnicy zwykle usuwają wszelkie przeszkody, gdy przygotowują ziemię, ale od czasu do czasu jakieś drzewo zostaje — albo dlatego, że było zbyt duże, by je łatwo usunąć, albo dlatego, że ktoś po prostu uznał, iż warto je zachować. Efektem jest mała wyspa cienia i bezruchu wznosząca się ponad ruchliwym brzęczeniem zapylaczy poniżej. Nad nią ptak drapieżny cierpliwie zatacza koła na tle błękitnego, smugowanego chmurami nieba.",
+      "vocab": [
+        { "term": "striking", "ipa_br": "/ˈstraɪkɪŋ/", "pl": "uderzający, wyrazisty", "new": true },
+        { "term": "vast", "ipa_br": "/vɑːst/", "pl": "ogromny, rozległy", "new": true },
+        { "term": "intense", "ipa_br": "/ɪnˈtens/", "pl": "intensywny", "new": true },
+        { "term": "survive", "ipa_br": "/səˈvaɪv/", "pl": "przetrwać, przeżyć", "new": false },
+        { "term": "obstacle", "ipa_br": "/ˈɒbstəkəl/", "pl": "przeszkoda", "new": true },
+        { "term": "clear", "ipa_br": "/klɪə/", "pl": "usuwać, oczyszczać", "new": false },
+        { "term": "stillness", "ipa_br": "/ˈstɪlnəs/", "pl": "bezruch, cisza", "new": true },
+        { "term": "patiently", "ipa_br": "/ˈpeɪʃəntli/", "pl": "cierpliwie", "new": false },
+        { "term": "streaked", "ipa_br": "/striːkt/", "pl": "pokryty smugami", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "Rapeseed fields cover entire regions of Poland in May.", "answer": true },
+            { "statement": "The tree in the photo was planted to decorate the field.", "answer": false },
+            { "statement": "Farmers always remove every obstacle when preparing land.", "answer": false },
+            { "statement": "The bird of prey is shown actively hunting in the photo.", "answer": false },
+            { "statement": "Pollinators are mentioned as part of the scene around the tree.", "answer": true },
+            { "statement": "The yellow colour of rapeseed is described as soft and gentle.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a particular kind of beauty that belongs to solitary trees. The one in this photograph stands alone in an immense field of rapeseed, its dark trunk anchoring a crown of fresh green leaves against the chemical-yellow tide that surrounds it. In central Poland, where this image was taken, rapeseed fields like this dominate the spring landscape — vast monocultures that look almost painted from a distance, but resound up close with the steady drone of bees, the rustle of stalks brushing against each other, and the occasional cry of a hawk overhead. The tree, though clearly out of place in such an orderly geometry, lends the scene its sense of scale and stillness. It is, as the photographer might say, an island of silence wrapped in the whisper of fields — a small, generous interruption in an otherwise relentless yellow.",
+      "text_pl": "Istnieje pewien szczególny rodzaj piękna należący do samotnych drzew. To z tego zdjęcia stoi samo na ogromnym polu rzepaku, a jego ciemny pień zakotwicza koronę świeżych, zielonych liści na tle chemicznie żółtej fali, która je otacza. W środkowej Polsce, gdzie zrobiono to zdjęcie, takie pola rzepaku dominują wiosenny krajobraz — rozległe monokultury, które z daleka wyglądają jak namalowane, lecz z bliska rozbrzmiewają miarowym brzęczeniem pszczół, szelestem łodyg ocierających się o siebie i okazjonalnym krzykiem jastrzębia nad głową. Drzewo, choć wyraźnie nie pasuje do tej uporządkowanej geometrii, nadaje całej scenie poczucie skali i bezruchu. Jest, jak ujął to fotograf, wyspą ciszy otuloną szeptem pól — drobną, szczodrą przerwą w kolorze, który inaczej byłby nieubłagany.",
+      "vocab": [
+        { "term": "solitary", "ipa_br": "/ˈsɒlɪtəri/", "pl": "samotny, odosobniony", "new": true },
+        { "term": "immense", "ipa_br": "/ɪˈmens/", "pl": "olbrzymi, ogromny", "new": true },
+        { "term": "trunk", "ipa_br": "/trʌŋk/", "pl": "pień", "new": true },
+        { "term": "anchor", "ipa_br": "/ˈæŋkə/", "pl": "zakotwiczać, mocować", "new": true },
+        { "term": "monoculture", "ipa_br": "/ˈmɒnəʊˌkʌltʃə/", "pl": "monokultura", "new": true },
+        { "term": "drone", "ipa_br": "/drəʊn/", "pl": "buczenie, szum", "new": true },
+        { "term": "rustle", "ipa_br": "/ˈrʌsəl/", "pl": "szelest, szeleścić", "new": true },
+        { "term": "hawk", "ipa_br": "/hɔːk/", "pl": "jastrząb", "new": true },
+        { "term": "relentless", "ipa_br": "/rɪˈlentləs/", "pl": "nieubłagany, nieustępliwy", "new": true },
+        { "term": "generous", "ipa_br": "/ˈdʒenərəs/", "pl": "hojny, szczodry (też: szczęśliwy w użyciu poet.)", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author describes the tree's trunk as dark.", "answer": true },
+            { "statement": "From a distance, the rapeseed field looks almost painted.", "answer": true },
+            { "statement": "The scene is described as completely silent throughout.", "answer": false },
+            { "statement": "The tree stands in geometric harmony with the field.", "answer": false },
+            { "statement": "The photographer's metaphor for the scene is an island of silence.", "answer": true },
+            { "statement": "Rapeseed is described as a small-scale, specialty crop.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is something almost monastic about a single tree in a rapeseed field. The image in front of us shows precisely that: a lone tree, its rounded crown buoyant against a sky barred with high cirrus, planted in the middle of an acreage so densely yellow that one's eye refuses, at first glance, to find a horizon. Rapeseed — Brassica napus, a crop of the Brassicaceae family — fills these Polish lowlands every May with what writers, half-affectionately and half in exasperation, often call a chemical sea. It is, in fact, a sea: rolling under the wind, dense with insect life, and so uniform in pigment that the few interruptions in its surface (a tree, a hedgerow, the line of a country road) acquire a kind of accidental sanctity. The bird circling high above — most likely a buzzard, judging by the silhouette — completes the composition. The tree itself, by sheer refusal to have been cleared, becomes, as the photographer puts it, an island of silence enfolded in the whisper of fields.",
+      "text_pl": "Jest coś niemal klasztornego w samotnym drzewie pośrodku pola rzepaku. Zdjęcie przed nami pokazuje dokładnie to: pojedyncze drzewo, którego zaokrąglona korona unosi się lekko na tle nieba pokreślonego wysokim cirrusem, posadzone pośrodku areału tak gęsto żółtego, że oko z początku nie potrafi odnaleźć horyzontu. Rzepak — Brassica napus, roślina z rodziny kapustowatych — wypełnia te polskie niziny co maja tym, co pisarze, na poły z czułością a na poły z irytacją, nazywają chemicznym morzem. I jest to w istocie morze: faluje pod wiatrem, gęste od owadziego życia i tak jednolite w barwie, że nieliczne przerwy w jego powierzchni (drzewo, żywopłot, linia wiejskiej drogi) zyskują rodzaj przypadkowej świętości. Krążący wysoko ptak — najpewniej myszołów, sądząc po sylwetce — dopełnia kompozycji. Samo drzewo, przez sam fakt, że nie pozwoliło się usunąć, staje się, jak ujmuje to fotograf, wyspą ciszy otuloną szeptem pól.",
+      "vocab": [
+        { "term": "monastic", "ipa_br": "/məˈnæstɪk/", "pl": "klasztorny, ascetyczny", "new": true },
+        { "term": "buoyant", "ipa_br": "/ˈbɔɪənt/", "pl": "unoszący się, lekki, pełen wigoru", "new": true },
+        { "term": "cirrus", "ipa_br": "/ˈsɪrəs/", "pl": "pierzasta chmura, cirrus", "new": true },
+        { "term": "acreage", "ipa_br": "/ˈeɪkərɪdʒ/", "pl": "areał, powierzchnia uprawna", "new": true },
+        { "term": "pigment", "ipa_br": "/ˈpɪɡmənt/", "pl": "pigment, barwnik", "new": true },
+        { "term": "uniform", "ipa_br": "/ˈjuːnɪfɔːm/", "pl": "jednolity, jednorodny", "new": false },
+        { "term": "hedgerow", "ipa_br": "/ˈhedʒrəʊ/", "pl": "żywopłot (śródpolny)", "new": true },
+        { "term": "sanctity", "ipa_br": "/ˈsæŋktɪti/", "pl": "świętość, sakralność", "new": true },
+        { "term": "buzzard", "ipa_br": "/ˈbʌzəd/", "pl": "myszołów", "new": true },
+        { "term": "silhouette", "ipa_br": "/ˌsɪluˈet/", "pl": "sylwetka, kontur", "new": false },
+        { "term": "enfold", "ipa_br": "/ɪnˈfəʊld/", "pl": "otulić, owinąć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The tree is described as fitting harmoniously into the field's composition.", "answer": false },
+            { "statement": "Rapeseed belongs to the Brassicaceae family.", "answer": true },
+            { "statement": "The author identifies the bird as definitely a hawk.", "answer": false },
+            { "statement": "The author calls the rapeseed field a chemical sea.", "answer": true },
+            { "statement": "The tree was deliberately planted in the middle of the field.", "answer": false },
+            { "statement": "The yellow is so uniform that the eye initially struggles to find a horizon.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}

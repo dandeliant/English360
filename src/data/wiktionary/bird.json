@@ -1,0 +1,69 @@
+{
+  "lemma": "bird",
+  "slug": "bird",
+  "fetchedAt": "2026-05-17T08:58:10.954Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An animal of the clade (traditionally class) Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, having a beaked mouth, and laying eggs.",
+          "examples": [
+            "Ducks and sparrows are birds."
+          ]
+        },
+        {
+          "text": "A young bird, a nestling.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To observe or identify wild birds in their natural environment.",
+          "examples": []
+        },
+        {
+          "text": "To catch or shoot birds; to hunt birds.",
+          "examples": []
+        },
+        {
+          "text": "To seek for game or plunder; to thieve.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Able to be passed with very little work; having the nature of a bird course.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prison sentence.",
+          "examples": [
+            "He’s doing bird."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring into prison, to roof.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

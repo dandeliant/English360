@@ -1,0 +1,106 @@
+{
+  "lemma": "big",
+  "slug": "big",
+  "fetchedAt": "2026-05-17T08:58:09.961Z",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Biangai.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of great size, large.",
+          "examples": [
+            "Elephants are big animals, and they eat a lot.",
+            "Gosh, she is big!"
+          ]
+        },
+        {
+          "text": "Fat.",
+          "examples": [
+            "Gosh, she is big!"
+          ]
+        },
+        {
+          "text": "Large with young; pregnant; swelling; ready to give birth or produce.",
+          "examples": [
+            "She was big with child."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a loud manner.",
+          "examples": []
+        },
+        {
+          "text": "In a boasting manner.",
+          "examples": [
+            "He's always talking big, but he never delivers."
+          ]
+        },
+        {
+          "text": "In a large amount or to a large extent.",
+          "examples": [
+            "He won big betting on the croquet championship.",
+            "Don't miss our November sale — it's your last chance to save big before Christmas!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone or something that is large in stature.",
+          "examples": []
+        },
+        {
+          "text": "An important or powerful person; a celebrity; a big name.",
+          "examples": []
+        },
+        {
+          "text": "The big leagues, big time.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To inhabit; occupy.",
+          "examples": []
+        },
+        {
+          "text": "To locate oneself.",
+          "examples": []
+        },
+        {
+          "text": "To build; erect; fashion.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One or more kinds of barley, especially six-rowed barley.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "acid",
+  "slug": "acid",
+  "fetchedAt": "2026-05-17T08:57:55.667Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Sour, sharp, or biting to the taste; tart; having the taste of vinegar.",
+          "examples": [
+            "acid fruits or liquors"
+          ]
+        },
+        {
+          "text": "Sour-tempered.",
+          "examples": [
+            "His response was harsh and acid."
+          ]
+        },
+        {
+          "text": "Of or pertaining to an acid; acidic.",
+          "examples": [
+            "acid soils"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sour substance.",
+          "examples": []
+        },
+        {
+          "text": "(chemistry) Any compound which yields H+ ions (protons) when dissolved in water; an Arrhenius acid. Any compound that easily donates protons to a base; a Brønsted acid. Any compound that can accept a pair of electrons to form a covalent bond; a Lewis acid.",
+          "examples": []
+        },
+        {
+          "text": "Any compound which yields H+ ions (protons) when dissolved in water; an Arrhenius acid.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

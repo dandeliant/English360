@@ -1,0 +1,51 @@
+{
+  "lemma": "streak",
+  "slug": "streak",
+  "fetchedAt": "2026-05-17T09:00:56.830Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An irregular line left from smearing or motion.",
+          "examples": [
+            "The picture I took out the car window had streaks."
+          ]
+        },
+        {
+          "text": "A continuous series of like events.",
+          "examples": [
+            "I hope I can keep up this streak of accomplishments.",
+            "I was on a winning streak until the fourth game, when I was dealt terrible cards."
+          ]
+        },
+        {
+          "text": "A measure of activity that tracks how many consecutive days a certain interaction with another user or a service has taken place, a form of gamification to drive user engagement.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have or obtain streaks.",
+          "examples": [
+            "If you clean a window in direct sunlight, it will streak."
+          ]
+        },
+        {
+          "text": "To run quickly.",
+          "examples": []
+        },
+        {
+          "text": "To run naked in public.",
+          "examples": [
+            "It was a pleasant game until some guy went streaking across the field."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

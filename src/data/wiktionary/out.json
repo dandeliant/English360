@@ -1,0 +1,119 @@
+{
+  "lemma": "out",
+  "slug": "out",
+  "fetchedAt": "2026-05-17T09:00:06.510Z",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Away from the inside or centre.",
+          "examples": [
+            "The magician tapped the hat, and a rabbit jumped out.",
+            "There was a hole in the bucket, and all the water leaked out."
+          ]
+        },
+        {
+          "text": "Away from, or at a distance from, some point of reference or focus.",
+          "examples": [
+            "Once they had landed, the commandos quickly spread out along the beach.",
+            "For six hours the tide flows out, then for six hours it flows in."
+          ]
+        },
+        {
+          "text": "Specifically, away from home or one's usual place.",
+          "examples": [
+            "Let’s eat out tonight"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "From the inside to the outside of; out of. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "throw it out the window; get it out your mind",
+            "We are gonna get evicted. —If your fat butt fits out the door, that is."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A means of exit, escape, reprieve, etc.",
+          "examples": [
+            "They wrote the law to give those organizations an out."
+          ]
+        },
+        {
+          "text": "A state in which a member of the batting team is removed from play due to the application of various rules of the game such as striking out, hitting a fly ball which is caught by the fielding team before bouncing, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To eject; to expel.",
+          "examples": []
+        },
+        {
+          "text": "To come or go out; to get out or away; to become public, revealed, or apparent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not inside or within a place, especially a place that someone or something was formerly inside or is customarily inside:",
+          "examples": [
+            "I worked away cleaning the U-bend until all the gunge was out.",
+            "This building is unsafe. Keep out!"
+          ]
+        },
+        {
+          "text": "Not at home, or not at one's office or place of employment.",
+          "examples": [
+            "I'm sorry, Mr Smith is out at the moment."
+          ]
+        },
+        {
+          "text": "Not in jail, prison, or captivity; freed from confinement.",
+          "examples": [
+            "Sentenced to five years, he could be out in three with good behavior."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A radio procedure word meaning that the station is finished with its transmission and does not expect a response.",
+          "examples": [
+            "Destruction. Two T-72s destroyed. Three foot mobiles down. Out.",
+            "Welp, I got nothing else to say. Mikey out."
+          ]
+        },
+        {
+          "text": "Used as a brusque or dramatic farewell",
+          "examples": [
+            "Welp, I got nothing else to say. Mikey out."
+          ]
+        },
+        {
+          "text": "Get out; begone; away!",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

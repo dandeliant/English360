@@ -1,0 +1,32 @@
+{
+  "lemma": "forest",
+  "slug": "forest",
+  "fetchedAt": "2026-05-17T08:59:19.884Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A dense uncultivated tract of trees and undergrowth, larger than woods.",
+          "examples": []
+        },
+        {
+          "text": "Any dense collection or amount.",
+          "examples": [
+            "a forest of criticism"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover an area with trees.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

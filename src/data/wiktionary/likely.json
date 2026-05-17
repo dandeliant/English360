@@ -1,0 +1,58 @@
+{
+  "lemma": "likely",
+  "slug": "likely",
+  "fetchedAt": "2026-05-17T08:59:48.418Z",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Probable; having a greater-than-even chance of occurring.",
+          "examples": [
+            "Rain is likely later this afternoon."
+          ]
+        },
+        {
+          "text": "Reasonably to be expected; apparently destined, probable.",
+          "examples": [
+            "Do you think there's likely to be snow?",
+            "He is likely to succeed at anything he tries."
+          ]
+        },
+        {
+          "text": "Appropriate, suitable; believable; promising, having a good potential.",
+          "examples": [
+            "Jones is a likely candidate for management.",
+            "The relationship with social status is a likely topic for investigation."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something or somebody considered likely.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Probably.",
+          "examples": [
+            "Likely he’ll win the election in this economy.",
+            "Most likely he’ll win the election in this economy."
+          ]
+        },
+        {
+          "text": "Similarly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}

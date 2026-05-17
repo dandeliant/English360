@@ -1,0 +1,113 @@
+{
+  "lemma": "line",
+  "slug": "line",
+  "fetchedAt": "2026-05-17T08:59:49.632Z",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+          "examples": [
+            "The arrow descended in a curved line."
+          ]
+        },
+        {
+          "text": "An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.",
+          "examples": []
+        },
+        {
+          "text": "A line segment; a continuous finite segment of such a figure.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Expresses that the speaker has forgotten their dialogue and needs to be prompted with it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place (objects) into a line (usually used with \"up\"); to form into a line; to align.",
+          "examples": [
+            "to line troops",
+            "They lined up the books against the wall."
+          ]
+        },
+        {
+          "text": "To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.",
+          "examples": [
+            "to line works with soldiers"
+          ]
+        },
+        {
+          "text": "To form a line along.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group of people born in a certain year (liners).",
+          "examples": [
+            "maknae line; hyung line; 97 line"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Flax, linen.",
+          "examples": []
+        },
+        {
+          "text": "The longer fiber(s) of flax.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover the inner surface of (something), originally especially with linen.",
+          "examples": [
+            "to line a cloak with silk or fur",
+            "to line a box with paper or tin"
+          ]
+        },
+        {
+          "text": "To fill or supply (something), as a purse with money.",
+          "examples": [
+            "to line the shelves"
+          ]
+        },
+        {
+          "text": "To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To copulate with, to impregnate.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null
+}
