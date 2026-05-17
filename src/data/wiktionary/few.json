@@ -1,7 +1,7 @@
 {
   "lemma": "few",
   "slug": "few",
-  "fetchedAt": "2026-05-16T23:44:26.396Z",
+  "fetchedAt": "2026-05-17T13:23:08.925Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -41,5 +41,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "mało",
+    "niewiele",
+    "kilka",
+    "parę"
+  ]
 }

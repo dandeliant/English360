@@ -1,7 +1,7 @@
 {
   "lemma": "notice",
   "slug": "notice",
-  "fetchedAt": "2026-05-16T23:46:04.860Z",
+  "fetchedAt": "2026-05-17T13:24:22.523Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "awizo",
+    "awizacja",
+    "wymówienie",
+    "zauważać",
+    "zauważyć"
+  ]
 }

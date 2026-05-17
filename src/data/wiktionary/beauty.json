@@ -1,7 +1,7 @@
 {
   "lemma": "beauty",
   "slug": "beauty",
-  "fetchedAt": "2026-05-17T08:58:05.159Z",
+  "fetchedAt": "2026-05-17T13:22:01.084Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "piękno",
+    "uroda",
+    "krasa",
+    "pięknota",
+    "krasota"
+  ]
 }

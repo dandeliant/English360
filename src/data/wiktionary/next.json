@@ -1,7 +1,7 @@
 {
   "lemma": "next",
   "slug": "next",
-  "fetchedAt": "2026-05-16T23:46:01.861Z",
+  "fetchedAt": "2026-05-17T13:24:20.285Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -97,5 +97,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "następny",
+    "przyszły",
+    "następnie",
+    "dalej"
+  ]
 }

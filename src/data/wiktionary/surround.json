@@ -1,7 +1,7 @@
 {
   "lemma": "surround",
   "slug": "surround",
-  "fetchedAt": "2026-05-17T09:00:59.616Z",
+  "fetchedAt": "2026-05-17T13:25:28.454Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -35,5 +35,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "otaczać"
+  ]
 }

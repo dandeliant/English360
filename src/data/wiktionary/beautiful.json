@@ -1,7 +1,7 @@
 {
   "lemma": "beautiful",
   "slug": "beautiful",
-  "fetchedAt": "2026-05-17T08:58:04.223Z",
+  "fetchedAt": "2026-05-17T13:22:00.539Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -41,5 +41,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "piękny",
+    "piękna"
+  ]
 }

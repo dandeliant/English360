@@ -1,7 +1,7 @@
 {
   "lemma": "crop",
   "slug": "crop",
-  "fetchedAt": "2026-05-17T08:58:47.864Z",
+  "fetchedAt": "2026-05-17T13:22:35.669Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -32,5 +32,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "roślina uprawna",
+    "plon",
+    "urodzaj",
+    "wysyp",
+    "wole"
+  ]
 }

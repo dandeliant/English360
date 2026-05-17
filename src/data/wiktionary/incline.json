@@ -1,7 +1,7 @@
 {
   "lemma": "incline",
   "slug": "incline",
-  "fetchedAt": "2026-05-16T23:45:11.573Z",
+  "fetchedAt": "2026-05-17T13:23:42.215Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -46,5 +46,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

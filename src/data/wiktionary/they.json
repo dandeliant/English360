@@ -1,7 +1,7 @@
 {
   "lemma": "they",
   "slug": "they",
-  "fetchedAt": "2026-05-16T23:47:25.905Z",
+  "fetchedAt": "2026-05-17T13:25:38.493Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -49,5 +49,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "oni",
+    "one"
+  ]
 }

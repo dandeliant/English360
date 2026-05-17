@@ -1,7 +1,7 @@
 {
   "lemma": "place",
   "slug": "place",
-  "fetchedAt": "2026-05-17T09:00:14.073Z",
+  "fetchedAt": "2026-05-17T13:24:40.377Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -51,5 +51,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "miejsce",
+    "plac",
+    "siedzenie",
+    "kłaść",
+    "położyć"
+  ]
 }

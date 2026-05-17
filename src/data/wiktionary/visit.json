@@ -1,7 +1,7 @@
 {
   "lemma": "visit",
   "slug": "visit",
-  "fetchedAt": "2026-05-16T23:47:46.067Z",
+  "fetchedAt": "2026-05-17T13:25:54.082Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -39,5 +39,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "odwiedzać",
+    "odwiedzić",
+    "złożyć wizytę",
+    "nawiedzić",
+    "wizyta"
+  ]
 }

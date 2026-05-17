@@ -1,7 +1,7 @@
 {
   "lemma": "rest",
   "slug": "rest",
-  "fetchedAt": "2026-05-16T23:46:43.917Z",
+  "fetchedAt": "2026-05-17T13:24:55.182Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -90,5 +90,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "odpoczynek",
+    "wypoczynek",
+    "odpoczywać",
+    "reszta"
+  ]
 }

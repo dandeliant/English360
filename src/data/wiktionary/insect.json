@@ -1,7 +1,7 @@
 {
   "lemma": "insect",
   "slug": "insect",
-  "fetchedAt": "2026-05-16T23:45:15.903Z",
+  "fetchedAt": "2026-05-17T13:23:44.844Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -19,5 +19,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "owad",
+    "robak",
+    "insekt",
+    "zero"
+  ]
 }

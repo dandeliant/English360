@@ -1,7 +1,7 @@
 {
   "lemma": "nor",
   "slug": "nor",
-  "fetchedAt": "2026-05-16T23:46:02.821Z",
+  "fetchedAt": "2026-05-17T13:24:21.419Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -44,5 +44,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ani"
+  ]
 }

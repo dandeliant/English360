@@ -1,7 +1,7 @@
 {
   "lemma": "warm",
   "slug": "warm",
-  "fetchedAt": "2026-05-16T23:47:49.148Z",
+  "fetchedAt": "2026-05-17T13:25:56.394Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -60,5 +60,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ciepły",
+    "żarliwy",
+    "ogrzewać"
+  ]
 }

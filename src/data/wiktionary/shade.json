@@ -1,7 +1,7 @@
 {
   "lemma": "shade",
   "slug": "shade",
-  "fetchedAt": "2026-05-17T09:00:40.340Z",
+  "fetchedAt": "2026-05-17T13:25:03.937Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -52,5 +52,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "cień",
+    "odcień",
+    "cieniować"
+  ]
 }

@@ -30,6 +30,10 @@ export type WiktionaryCache = {
   fetchedAt: string;
   en: WiktionaryEnEntry[] | null;
   pl: WiktionaryPlSummary | null;
+  /** Polish translations harvested from the EN Wiktionary page's
+   *  `Translations` tables. `null` = fetch failed, retry next sync.
+   *  `[]` = fetched, no Polish translation on the page. */
+  translations?: string[] | null;
 };
 
 export async function loadWiktionary(slug: string): Promise<WiktionaryCache | null> {

@@ -1,7 +1,7 @@
 {
   "lemma": "line",
   "slug": "line",
-  "fetchedAt": "2026-05-17T08:59:49.632Z",
+  "fetchedAt": "2026-05-17T13:24:00.630Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -109,5 +109,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wypełniać",
+    "wyściełać"
+  ]
 }

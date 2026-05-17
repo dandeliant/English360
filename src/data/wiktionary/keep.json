@@ -1,7 +1,7 @@
 {
   "lemma": "keep",
   "slug": "keep",
-  "fetchedAt": "2026-05-17T08:59:41.772Z",
+  "fetchedAt": "2026-05-17T13:23:51.246Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -49,5 +49,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zachować",
+    "zatrzymać",
+    "dotrzymywać",
+    "dotrzymać"
+  ]
 }

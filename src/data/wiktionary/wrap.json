@@ -1,7 +1,7 @@
 {
   "lemma": "wrap",
   "slug": "wrap",
-  "fetchedAt": "2026-05-17T09:01:27.077Z",
+  "fetchedAt": "2026-05-17T13:26:12.619Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -51,5 +51,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zawijać",
+    "zawinąć",
+    "opakowanie",
+    "szal",
+    "wrap"
+  ]
 }

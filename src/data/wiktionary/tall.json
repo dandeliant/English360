@@ -1,7 +1,7 @@
 {
   "lemma": "tall",
   "slug": "tall",
-  "fetchedAt": "2026-05-17T09:01:04.055Z",
+  "fetchedAt": "2026-05-17T13:25:32.202Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -48,5 +48,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wysoki"
+  ]
 }

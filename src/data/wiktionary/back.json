@@ -1,7 +1,7 @@
 {
   "lemma": "back",
   "slug": "back",
-  "fetchedAt": "2026-05-16T23:43:18.397Z",
+  "fetchedAt": "2026-05-17T13:21:57.810Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -108,5 +108,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "tylny",
+    "zadni",
+    "z powrotem",
+    "nazad",
+    "plecy"
+  ]
 }

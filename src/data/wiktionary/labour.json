@@ -1,7 +1,7 @@
 {
   "lemma": "labour",
   "slug": "labour",
-  "fetchedAt": "2026-05-16T23:45:23.410Z",
+  "fetchedAt": "2026-05-17T13:23:52.407Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "praca",
+    "robota",
+    "poród",
+    "pracować"
+  ]
 }

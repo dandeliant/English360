@@ -1,7 +1,7 @@
 {
   "lemma": "roll",
   "slug": "roll",
-  "fetchedAt": "2026-05-17T09:00:29.000Z",
+  "fetchedAt": "2026-05-17T13:24:57.872Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -66,5 +66,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "toczyć",
+    "turlać",
+    "poturlać",
+    "rulon",
+    "zwój"
+  ]
 }

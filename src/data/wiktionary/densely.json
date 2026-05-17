@@ -1,7 +1,7 @@
 {
   "lemma": "densely",
   "slug": "densely",
-  "fetchedAt": "2026-05-17T08:58:53.556Z",
+  "fetchedAt": "2026-05-17T13:22:46.523Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -15,5 +15,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

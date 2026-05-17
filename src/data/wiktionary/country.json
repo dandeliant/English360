@@ -1,7 +1,7 @@
 {
   "lemma": "country",
   "slug": "country",
-  "fetchedAt": "2026-05-17T08:58:47.003Z",
+  "fetchedAt": "2026-05-17T13:22:33.480Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kraj",
+    "ziemia",
+    "państwo",
+    "wieś",
+    "prowincja"
+  ]
 }

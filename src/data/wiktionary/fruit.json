@@ -1,7 +1,7 @@
 {
   "lemma": "fruit",
   "slug": "fruit",
-  "fetchedAt": "2026-05-16T23:44:39.008Z",
+  "fetchedAt": "2026-05-17T13:23:19.243Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -26,5 +26,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "owoc",
+    "homoś",
+    "owocować",
+    "zaowocować"
+  ]
 }

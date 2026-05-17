@@ -1,7 +1,7 @@
 {
   "lemma": "its",
   "slug": "its",
-  "fetchedAt": "2026-05-16T23:45:19.313Z",
+  "fetchedAt": "2026-05-17T13:23:48.651Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -49,5 +49,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "jego",
+    "jej",
+    "swój",
+    "ów"
+  ]
 }

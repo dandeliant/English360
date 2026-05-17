@@ -1,7 +1,7 @@
 {
   "lemma": "transparent",
   "slug": "transparent",
-  "fetchedAt": "2026-05-16T23:47:36.451Z",
+  "fetchedAt": "2026-05-17T13:25:45.505Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -41,5 +41,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przezroczysty",
+    "przejrzysty",
+    "ażurowy",
+    "bezbarwny",
+    "otwarty"
+  ]
 }

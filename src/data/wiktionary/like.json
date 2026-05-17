@@ -1,7 +1,7 @@
 {
   "lemma": "like",
   "slug": "like",
-  "fetchedAt": "2026-05-16T23:45:33.702Z",
+  "fetchedAt": "2026-05-17T13:23:59.559Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -155,5 +155,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "lubić",
+    "podobać",
+    "podobać się",
+    "lajkować",
+    "dać lajka"
+  ]
 }

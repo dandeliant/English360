@@ -1,7 +1,7 @@
 {
   "lemma": "flower",
   "slug": "flower",
-  "fetchedAt": "2026-05-16T23:44:30.088Z",
+  "fetchedAt": "2026-05-17T13:23:12.253Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -45,5 +45,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kwiat",
+    "kwitnąć"
+  ]
 }

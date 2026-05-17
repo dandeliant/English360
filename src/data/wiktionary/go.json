@@ -1,7 +1,7 @@
 {
   "lemma": "go",
   "slug": "go",
-  "fetchedAt": "2026-05-16T23:44:44.156Z",
+  "fetchedAt": "2026-05-17T13:23:24.993Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -70,5 +70,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kolej",
+    "próba",
+    "pozwolenie",
+    "go"
+  ]
 }

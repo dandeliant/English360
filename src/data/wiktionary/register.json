@@ -1,7 +1,7 @@
 {
   "lemma": "register",
   "slug": "register",
-  "fetchedAt": "2026-05-16T23:46:38.986Z",
+  "fetchedAt": "2026-05-17T13:24:51.738Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "dziennik",
+    "rejestr",
+    "rejestrować",
+    "zarejestrować"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "stillness",
   "slug": "stillness",
-  "fetchedAt": "2026-05-17T09:00:55.798Z",
+  "fetchedAt": "2026-05-17T13:25:22.528Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

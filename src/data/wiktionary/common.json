@@ -1,7 +1,7 @@
 {
   "lemma": "common",
   "slug": "common",
-  "fetchedAt": "2026-05-17T08:58:44.103Z",
+  "fetchedAt": "2026-05-17T13:22:30.749Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -62,5 +62,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wspólny",
+    "wzajemny",
+    "zwykły",
+    "pospolity",
+    "powszedni"
+  ]
 }

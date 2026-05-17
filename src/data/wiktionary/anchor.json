@@ -1,7 +1,7 @@
 {
   "lemma": "anchor",
   "slug": "anchor",
-  "fetchedAt": "2026-05-16T23:43:06.418Z",
+  "fetchedAt": "2026-05-17T13:21:51.658Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -58,5 +58,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kotwica",
+    "konferansjer",
+    "konferansjerka",
+    "spiker",
+    "spikerka"
+  ]
 }

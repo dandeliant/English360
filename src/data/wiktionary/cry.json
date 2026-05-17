@@ -1,7 +1,7 @@
 {
   "lemma": "cry",
   "slug": "cry",
-  "fetchedAt": "2026-05-17T08:58:49.987Z",
+  "fetchedAt": "2026-05-17T13:22:42.620Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -55,5 +55,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "płakać",
+    "krzyczeć",
+    "płacz",
+    "okrzyk",
+    "krzyk"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "show",
   "slug": "show",
-  "fetchedAt": "2026-05-17T09:00:42.545Z",
+  "fetchedAt": "2026-05-17T13:25:06.082Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -53,5 +53,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pokazywać",
+    "pokazać",
+    "pokaz",
+    "wystawa",
+    "show"
+  ]
 }

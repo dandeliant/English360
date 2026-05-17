@@ -1,7 +1,7 @@
 {
   "lemma": "fresh",
   "slug": "fresh",
-  "fetchedAt": "2026-05-17T08:59:20.889Z",
+  "fetchedAt": "2026-05-17T13:23:17.476Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -90,5 +90,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "świeży",
+    "słodki"
+  ]
 }

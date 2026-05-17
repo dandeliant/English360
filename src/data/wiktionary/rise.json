@@ -1,7 +1,7 @@
 {
   "lemma": "rise",
   "slug": "rise",
-  "fetchedAt": "2026-05-17T09:00:26.861Z",
+  "fetchedAt": "2026-05-17T13:24:56.717Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -61,5 +61,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "unieść się",
+    "podnieść się",
+    "wschodzić",
+    "zmartwychwstać",
+    "zmartwychwstawać"
+  ]
 }

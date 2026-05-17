@@ -1,7 +1,7 @@
 {
   "lemma": "which",
   "slug": "which",
-  "fetchedAt": "2026-05-16T23:47:51.910Z",
+  "fetchedAt": "2026-05-17T13:25:59.796Z",
   "en": [
     {
       "partOfSpeech": "Conjunction",
@@ -66,5 +66,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "który"
+  ]
 }

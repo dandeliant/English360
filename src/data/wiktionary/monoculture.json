@@ -1,7 +1,7 @@
 {
   "lemma": "monoculture",
   "slug": "monoculture",
-  "fetchedAt": "2026-05-17T08:59:57.927Z",
+  "fetchedAt": "2026-05-17T13:24:13.985Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -26,5 +26,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "monokultura"
+  ]
 }

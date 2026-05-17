@@ -1,7 +1,7 @@
 {
   "lemma": "orderly",
   "slug": "orderly",
-  "fetchedAt": "2026-05-17T09:00:04.542Z",
+  "fetchedAt": "2026-05-17T13:24:28.942Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -53,5 +53,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "uporządkowany",
+    "ordynans"
+  ]
 }

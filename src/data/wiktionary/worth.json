@@ -1,7 +1,7 @@
 {
   "lemma": "worth",
   "slug": "worth",
-  "fetchedAt": "2026-05-17T09:01:26.171Z",
+  "fetchedAt": "2026-05-17T13:26:11.767Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -61,5 +61,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wart",
+    "zasługujący",
+    "warty",
+    "wartość",
+    "cenność"
+  ]
 }

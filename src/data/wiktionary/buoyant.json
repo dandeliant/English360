@@ -1,7 +1,7 @@
 {
   "lemma": "buoyant",
   "slug": "buoyant",
-  "fetchedAt": "2026-05-17T08:58:17.423Z",
+  "fetchedAt": "2026-05-17T13:22:15.837Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -23,5 +23,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

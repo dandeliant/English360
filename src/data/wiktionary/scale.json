@@ -1,7 +1,7 @@
 {
   "lemma": "scale",
   "slug": "scale",
-  "fetchedAt": "2026-05-17T09:00:34.598Z",
+  "fetchedAt": "2026-05-17T13:25:00.529Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -77,5 +77,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "skala",
+    "wdrapywać",
+    "wdrapać",
+    "łuska",
+    "ociągać"
+  ]
 }

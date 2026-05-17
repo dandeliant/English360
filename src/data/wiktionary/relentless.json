@@ -1,7 +1,7 @@
 {
   "lemma": "relentless",
   "slug": "relentless",
-  "fetchedAt": "2026-05-17T09:00:23.028Z",
+  "fetchedAt": "2026-05-17T13:24:52.180Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -17,5 +17,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nieubłagany",
+    "nieugięty",
+    "nieustępliwy",
+    "bezustanny"
+  ]
 }

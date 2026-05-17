@@ -1,7 +1,7 @@
 {
   "lemma": "circle",
   "slug": "circle",
-  "fetchedAt": "2026-05-17T08:58:39.256Z",
+  "fetchedAt": "2026-05-17T13:22:26.138Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -42,5 +42,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "okrąg",
+    "krąg",
+    "kula",
+    "koło",
+    "objeżdżać"
+  ]
 }

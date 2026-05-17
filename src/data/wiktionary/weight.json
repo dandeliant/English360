@@ -1,7 +1,7 @@
 {
   "lemma": "weight",
   "slug": "weight",
-  "fetchedAt": "2026-05-16T23:47:50.982Z",
+  "fetchedAt": "2026-05-17T13:25:57.518Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -34,5 +34,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ciężar",
+    "waga",
+    "ciężarek",
+    "odważnik"
+  ]
 }

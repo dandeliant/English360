@@ -1,7 +1,7 @@
 {
   "lemma": "soft",
   "slug": "soft",
-  "fetchedAt": "2026-05-16T23:46:59.480Z",
+  "fetchedAt": "2026-05-17T13:25:14.762Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -57,5 +57,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "miękki",
+    "cichy",
+    "łagodny"
+  ]
 }

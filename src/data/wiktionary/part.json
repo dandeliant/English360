@@ -1,7 +1,7 @@
 {
   "lemma": "part",
   "slug": "part",
-  "fetchedAt": "2026-05-16T23:46:18.460Z",
+  "fetchedAt": "2026-05-17T13:24:35.111Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -76,5 +76,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "część",
+    "rola",
+    "przedziałek",
+    "rozstawać",
+    "rozstać"
+  ]
 }

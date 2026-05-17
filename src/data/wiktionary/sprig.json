@@ -1,7 +1,7 @@
 {
   "lemma": "sprig",
   "slug": "sprig",
-  "fetchedAt": "2026-05-16T23:47:04.227Z",
+  "fetchedAt": "2026-05-17T13:25:18.729Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -36,5 +36,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "gałązka",
+    "latorośl"
+  ]
 }

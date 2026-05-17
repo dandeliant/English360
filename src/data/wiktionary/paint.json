@@ -1,7 +1,7 @@
 {
   "lemma": "paint",
   "slug": "paint",
-  "fetchedAt": "2026-05-17T09:00:08.389Z",
+  "fetchedAt": "2026-05-17T13:24:33.886Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "farba",
+    "farbki",
+    "malować",
+    "pomalować",
+    "namalować"
+  ]
 }

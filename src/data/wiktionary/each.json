@@ -1,7 +1,7 @@
 {
   "lemma": "each",
   "slug": "each",
-  "fetchedAt": "2026-05-16T23:44:08.132Z",
+  "fetchedAt": "2026-05-17T13:22:52.181Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -55,5 +55,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "każdy",
+    "każde"
+  ]
 }

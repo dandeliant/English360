@@ -1,7 +1,7 @@
 {
   "lemma": "something",
   "slug": "something",
-  "fetchedAt": "2026-05-16T23:47:00.353Z",
+  "fetchedAt": "2026-05-17T13:25:16.743Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -77,5 +77,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "coś"
+  ]
 }

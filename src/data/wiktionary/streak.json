@@ -1,7 +1,7 @@
 {
   "lemma": "streak",
   "slug": "streak",
-  "fetchedAt": "2026-05-17T09:00:56.830Z",
+  "fetchedAt": "2026-05-17T13:25:22.947Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "passa"
+  ]
 }

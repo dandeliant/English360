@@ -1,7 +1,7 @@
 {
   "lemma": "busy",
   "slug": "busy",
-  "fetchedAt": "2026-05-16T23:43:35.567Z",
+  "fetchedAt": "2026-05-17T13:22:16.868Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -47,5 +47,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zajęty",
+    "skomplikowany"
+  ]
 }

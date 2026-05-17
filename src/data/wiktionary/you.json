@@ -1,7 +1,7 @@
 {
   "lemma": "you",
   "slug": "you",
-  "fetchedAt": "2026-05-17T09:01:28.742Z",
+  "fetchedAt": "2026-05-17T13:26:15.394Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -63,5 +63,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

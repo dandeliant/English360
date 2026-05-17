@@ -1,7 +1,7 @@
 {
   "lemma": "trunk",
   "slug": "trunk",
-  "fetchedAt": "2026-05-17T09:01:12.593Z",
+  "fetchedAt": "2026-05-17T13:25:47.221Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -34,5 +34,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pień",
+    "skrzynia",
+    "kufer",
+    "trąba",
+    "bagażnik"
+  ]
 }

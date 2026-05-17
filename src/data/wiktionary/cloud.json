@@ -1,7 +1,7 @@
 {
   "lemma": "cloud",
   "slug": "cloud",
-  "fetchedAt": "2026-05-17T08:58:43.172Z",
+  "fetchedAt": "2026-05-17T13:22:29.185Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "green",
   "slug": "green",
-  "fetchedAt": "2026-05-17T08:59:25.833Z",
+  "fetchedAt": "2026-05-17T13:23:26.942Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

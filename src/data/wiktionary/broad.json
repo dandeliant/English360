@@ -1,7 +1,7 @@
 {
   "lemma": "broad",
   "slug": "broad",
-  "fetchedAt": "2026-05-16T23:43:33.597Z",
+  "fetchedAt": "2026-05-17T13:22:14.665Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -50,5 +50,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "szeroki",
+    "gwarowy",
+    "babol",
+    "babon",
+    "babsko"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "quiet",
   "slug": "quiet",
-  "fetchedAt": "2026-05-16T23:46:33.132Z",
+  "fetchedAt": "2026-05-17T13:24:48.331Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -78,5 +78,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "cichy",
+    "spokojny",
+    "uciszać",
+    "uciszyć",
+    "uspokajać"
+  ]
 }

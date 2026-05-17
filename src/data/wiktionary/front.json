@@ -1,7 +1,7 @@
 {
   "lemma": "front",
   "slug": "front",
-  "fetchedAt": "2026-05-17T08:59:21.942Z",
+  "fetchedAt": "2026-05-17T13:23:18.635Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -60,5 +60,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przód",
+    "front",
+    "przykrywka",
+    "przedni"
+  ]
 }

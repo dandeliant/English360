@@ -1,7 +1,7 @@
 {
   "lemma": "last",
   "slug": "last",
-  "fetchedAt": "2026-05-17T08:59:44.709Z",
+  "fetchedAt": "2026-05-17T13:23:54.977Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -126,5 +126,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ostatni",
+    "zeszły",
+    "ubiegły",
+    "ostatni raz",
+    "trwać"
+  ]
 }

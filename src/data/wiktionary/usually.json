@@ -1,7 +1,7 @@
 {
   "lemma": "usually",
   "slug": "usually",
-  "fetchedAt": "2026-05-17T09:01:17.010Z",
+  "fetchedAt": "2026-05-17T13:25:51.485Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -19,5 +19,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zwykle",
+    "zazwyczaj"
+  ]
 }

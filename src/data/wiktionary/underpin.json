@@ -1,7 +1,7 @@
 {
   "lemma": "underpin",
   "slug": "underpin",
-  "fetchedAt": "2026-05-16T23:47:40.124Z",
+  "fetchedAt": "2026-05-17T13:25:49.253Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -21,5 +21,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "podtrzymywać"
+  ]
 }

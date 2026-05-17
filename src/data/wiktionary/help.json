@@ -1,7 +1,7 @@
 {
   "lemma": "help",
   "slug": "help",
-  "fetchedAt": "2026-05-16T23:44:59.065Z",
+  "fetchedAt": "2026-05-17T13:23:33.234Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -69,5 +69,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pomoc",
+    "pomocnik",
+    "pomocnica",
+    "pomagać",
+    "pomóc"
+  ]
 }

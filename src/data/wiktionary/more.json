@@ -1,7 +1,7 @@
 {
   "lemma": "more",
   "slug": "more",
-  "fetchedAt": "2026-05-16T23:45:52.667Z",
+  "fetchedAt": "2026-05-17T13:24:14.744Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -104,5 +104,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "więcej",
+    "bardziej"
+  ]
 }

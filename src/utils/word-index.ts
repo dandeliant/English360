@@ -12,6 +12,7 @@
 import { getCollection } from 'astro:content';
 import { lemmaOf, slugOf, tokenize } from './text-tokenize.ts';
 import { CEFR_LEVELS, type CefrLevel } from './cefr.ts';
+import { loadWiktionary } from './wiktionary-cache.ts';
 
 export type Occurrence = {
   lessonId: string;
@@ -99,6 +100,19 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
       }
     }
   }
+
+  // Pass 3 — for any entry still missing translationPl, fall back to the
+  // first Polish translation cached from EN Wiktionary's `Translations`
+  // section. User-authored vocab always wins (it's set in pass 1).
+  await Promise.all(
+    [...index.values()].map(async (entry) => {
+      if (entry.translationPl) return;
+      const wikt = await loadWiktionary(entry.slug);
+      if (wikt?.translations && wikt.translations.length > 0) {
+        entry.translationPl = wikt.translations[0];
+      }
+    }),
+  );
 
   _cache = index;
   return index;

@@ -1,7 +1,7 @@
 {
   "lemma": "wall",
   "slug": "wall",
-  "fetchedAt": "2026-05-17T09:01:18.146Z",
+  "fetchedAt": "2026-05-17T13:25:55.682Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -95,5 +95,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wał",
+    "mur",
+    "ściana",
+    "osadnik megera",
+    "przegroda"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "hurt",
   "slug": "hurt",
-  "fetchedAt": "2026-05-17T08:59:35.305Z",
+  "fetchedAt": "2026-05-17T13:23:40.083Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -70,5 +70,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "boleć",
+    "sprawiać ból",
+    "ranić",
+    "zranić",
+    "krzywdzić"
+  ]
 }

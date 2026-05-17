@@ -1,7 +1,7 @@
 {
   "lemma": "spring",
   "slug": "spring",
-  "fetchedAt": "2026-05-17T09:00:52.895Z",
+  "fetchedAt": "2026-05-17T13:25:19.226Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -49,5 +49,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wiosna",
+    "źródło",
+    "zdrój",
+    "krynica",
+    "sprężyna"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "generous",
   "slug": "generous",
-  "fetchedAt": "2026-05-17T08:59:22.791Z",
+  "fetchedAt": "2026-05-17T13:23:20.212Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -28,5 +28,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wielkoduszny",
+    "szlachetny",
+    "hojny",
+    "szczodry"
+  ]
 }

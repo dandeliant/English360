@@ -1,7 +1,7 @@
 {
   "lemma": "system",
   "slug": "system",
-  "fetchedAt": "2026-05-16T23:47:17.384Z",
+  "fetchedAt": "2026-05-17T13:25:30.436Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -24,5 +24,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "układ",
+    "system"
+  ]
 }

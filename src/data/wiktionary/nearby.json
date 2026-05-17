@@ -1,7 +1,7 @@
 {
   "lemma": "nearby",
   "slug": "nearby",
-  "fetchedAt": "2026-05-16T23:45:57.224Z",
+  "fetchedAt": "2026-05-17T13:24:17.696Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -35,5 +35,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pobliski",
+    "blisko"
+  ]
 }

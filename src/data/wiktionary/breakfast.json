@@ -1,7 +1,7 @@
 {
   "lemma": "breakfast",
   "slug": "breakfast",
-  "fetchedAt": "2026-05-16T23:43:31.542Z",
+  "fetchedAt": "2026-05-17T13:22:13.573Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -35,5 +35,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "śniadanie",
+    "jeść śniadanie",
+    "zjeść śniadanie",
+    "śniadać"
+  ]
 }

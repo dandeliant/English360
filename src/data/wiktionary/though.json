@@ -1,7 +1,7 @@
 {
   "lemma": "though",
   "slug": "though",
-  "fetchedAt": "2026-05-17T09:01:08.725Z",
+  "fetchedAt": "2026-05-17T13:25:40.538Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -48,5 +48,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "jednak",
+    "mimo to",
+    "bez względu na to",
+    "choć",
+    "chociaż"
+  ]
 }

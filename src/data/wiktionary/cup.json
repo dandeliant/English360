@@ -1,7 +1,7 @@
 {
   "lemma": "cup",
   "slug": "cup",
-  "fetchedAt": "2026-05-16T23:43:58.529Z",
+  "fetchedAt": "2026-05-17T13:22:43.176Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -53,5 +53,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "szklanka",
+    "filiżanka",
+    "kubek",
+    "puchar",
+    "miseczka"
+  ]
 }

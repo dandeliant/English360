@@ -1,7 +1,7 @@
 {
   "lemma": "on",
   "slug": "on",
-  "fetchedAt": "2026-05-16T23:46:09.419Z",
+  "fetchedAt": "2026-05-17T13:24:26.765Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -111,5 +111,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "włączony",
+    "na",
+    "o",
+    "przy",
+    "w"
+  ]
 }

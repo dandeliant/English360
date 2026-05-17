@@ -1,7 +1,7 @@
 {
   "lemma": "industrious",
   "slug": "industrious",
-  "fetchedAt": "2026-05-16T23:45:13.225Z",
+  "fetchedAt": "2026-05-17T13:23:43.122Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -15,5 +15,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pilny"
+  ]
 }

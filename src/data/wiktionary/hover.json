@@ -1,7 +1,7 @@
 {
   "lemma": "hover",
   "slug": "hover",
-  "fetchedAt": "2026-05-16T23:45:04.523Z",
+  "fetchedAt": "2026-05-17T13:23:37.415Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -38,5 +38,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zawisać",
+    "zawisnąć"
+  ]
 }

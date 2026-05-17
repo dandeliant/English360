@@ -1,7 +1,7 @@
 {
   "lemma": "feed",
   "slug": "feed",
-  "fetchedAt": "2026-05-16T23:44:24.116Z",
+  "fetchedAt": "2026-05-17T13:23:06.630Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -47,5 +47,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "karmić",
+    "nakarmić",
+    "żywić",
+    "pasza",
+    "karma"
+  ]
 }

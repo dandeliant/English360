@@ -1,7 +1,7 @@
 {
   "lemma": "very",
   "slug": "very",
-  "fetchedAt": "2026-05-16T23:47:44.880Z",
+  "fetchedAt": "2026-05-17T13:25:53.546Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -53,5 +53,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "bardzo",
+    "wielce",
+    "naprawdę",
+    "prawdziwie",
+    "identyczny"
+  ]
 }

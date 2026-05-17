@@ -1,7 +1,7 @@
 {
   "lemma": "dominate",
   "slug": "dominate",
-  "fetchedAt": "2026-05-17T08:58:59.670Z",
+  "fetchedAt": "2026-05-17T13:22:49.313Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -39,5 +39,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "dominować",
+    "zdominować",
+    "przewyższać",
+    "przewyższyć",
+    "górować"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "distance",
   "slug": "distance",
-  "fetchedAt": "2026-05-17T08:58:58.841Z",
+  "fetchedAt": "2026-05-17T13:22:47.485Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -39,5 +39,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "dystans",
+    "droga",
+    "odległość",
+    "oddal",
+    "dal"
+  ]
 }

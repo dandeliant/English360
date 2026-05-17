@@ -1,7 +1,7 @@
 {
   "lemma": "offer",
   "slug": "offer",
-  "fetchedAt": "2026-05-16T23:46:07.603Z",
+  "fetchedAt": "2026-05-17T13:24:25.786Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -61,5 +61,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "propozycja",
+    "oferta",
+    "proponować",
+    "zaproponować",
+    "oferować"
+  ]
 }

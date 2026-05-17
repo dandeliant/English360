@@ -1,7 +1,7 @@
 {
   "lemma": "light",
   "slug": "light",
-  "fetchedAt": "2026-05-16T23:45:32.489Z",
+  "fetchedAt": "2026-05-17T13:23:58.790Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -138,5 +138,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "rozpalić",
+    "zapalić",
+    "oświetlić",
+    "iluminować",
+    "widny"
+  ]
 }

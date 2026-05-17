@@ -1,7 +1,7 @@
 {
   "lemma": "against",
   "slug": "against",
-  "fetchedAt": "2026-05-16T23:43:01.867Z",
+  "fetchedAt": "2026-05-17T13:21:47.844Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -37,5 +37,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przeciw",
+    "pod",
+    "o",
+    "z",
+    "przeciwko"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "us",
   "slug": "us",
-  "fetchedAt": "2026-05-16T23:47:41.196Z",
+  "fetchedAt": "2026-05-17T13:25:50.998Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -79,5 +79,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nas",
+    "nam",
+    "nami"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "out",
   "slug": "out",
-  "fetchedAt": "2026-05-17T09:00:06.510Z",
+  "fetchedAt": "2026-05-17T13:24:31.698Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -115,5 +115,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "poza czymś",
+    "na zewnątrz",
+    "autować",
+    "wyautować"
+  ]
 }

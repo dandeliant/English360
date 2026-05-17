@@ -1,7 +1,7 @@
 {
   "lemma": "remove",
   "slug": "remove",
-  "fetchedAt": "2026-05-17T09:00:23.896Z",
+  "fetchedAt": "2026-05-17T13:24:53.125Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -40,5 +40,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "usuwać",
+    "usunąć",
+    "odejmować",
+    "odjąć",
+    "pozbyć"
+  ]
 }

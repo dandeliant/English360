@@ -1,7 +1,7 @@
 {
   "lemma": "stripe",
   "slug": "stripe",
-  "fetchedAt": "2026-05-16T23:47:08.838Z",
+  "fetchedAt": "2026-05-17T13:25:23.932Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pasek"
+  ]
 }

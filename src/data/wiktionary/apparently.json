@@ -1,7 +1,7 @@
 {
   "lemma": "apparently",
   "slug": "apparently",
-  "fetchedAt": "2026-05-16T23:43:12.388Z",
+  "fetchedAt": "2026-05-17T13:21:54.074Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -25,5 +25,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "najwyraźniej",
+    "widocznie",
+    "widać",
+    "pozornie",
+    "pewnie"
+  ]
 }

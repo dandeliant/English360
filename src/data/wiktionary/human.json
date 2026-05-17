@@ -1,7 +1,7 @@
 {
   "lemma": "human",
   "slug": "human",
-  "fetchedAt": "2026-05-16T23:45:07.089Z",
+  "fetchedAt": "2026-05-17T13:23:39.035Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -44,5 +44,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ludzki",
+    "człowieczy",
+    "człowiek",
+    "ludzie",
+    "istota ludzka"
+  ]
 }

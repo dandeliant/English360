@@ -1,7 +1,7 @@
 {
   "lemma": "silhouette",
   "slug": "silhouette",
-  "fetchedAt": "2026-05-17T09:00:45.214Z",
+  "fetchedAt": "2026-05-17T13:25:07.584Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zarys",
+    "kontur",
+    "sylwetka"
+  ]
 }

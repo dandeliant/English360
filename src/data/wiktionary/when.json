@@ -1,7 +1,7 @@
 {
   "lemma": "when",
   "slug": "when",
-  "fetchedAt": "2026-05-17T09:01:20.397Z",
+  "fetchedAt": "2026-05-17T13:25:58.727Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -90,5 +90,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kiedy",
+    "gdy"
+  ]
 }

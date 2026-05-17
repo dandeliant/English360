@@ -1,7 +1,7 @@
 {
   "lemma": "polish",
   "slug": "polish",
-  "fetchedAt": "2026-05-17T09:00:15.704Z",
+  "fetchedAt": "2026-05-17T13:24:41.798Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -44,5 +44,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pasta do [[polerowanie",
+    "połysk",
+    "polerować",
+    "wygładzać",
+    "szlifować"
+  ]
 }

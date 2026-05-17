@@ -1,7 +1,7 @@
 {
   "lemma": "table",
   "slug": "table",
-  "fetchedAt": "2026-05-16T23:47:18.463Z",
+  "fetchedAt": "2026-05-17T13:25:31.159Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -33,5 +33,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "stół",
+    "tabela"
+  ]
 }

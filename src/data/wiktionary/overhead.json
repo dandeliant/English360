@@ -1,7 +1,7 @@
 {
   "lemma": "overhead",
   "slug": "overhead",
-  "fetchedAt": "2026-05-17T09:00:07.480Z",
+  "fetchedAt": "2026-05-17T13:24:32.809Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -73,5 +73,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "narzut"
+  ]
 }

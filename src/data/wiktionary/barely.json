@@ -1,7 +1,7 @@
 {
   "lemma": "barely",
   "slug": "barely",
-  "fetchedAt": "2026-05-16T23:43:19.217Z",
+  "fetchedAt": "2026-05-17T13:21:59.041Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -28,5 +28,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ledwo",
+    "ledwie",
+    "tylko"
+  ]
 }

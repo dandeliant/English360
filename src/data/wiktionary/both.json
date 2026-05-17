@@ -1,7 +1,7 @@
 {
   "lemma": "both",
   "slug": "both",
-  "fetchedAt": "2026-05-16T23:43:29.653Z",
+  "fetchedAt": "2026-05-17T13:22:10.162Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -44,5 +44,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "oba",
+    "oboje",
+    "obie",
+    "obaj",
+    "obydwaj"
+  ]
 }

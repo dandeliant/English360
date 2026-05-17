@@ -1,7 +1,7 @@
 {
   "lemma": "kind",
   "slug": "kind",
-  "fetchedAt": "2026-05-17T08:59:42.727Z",
+  "fetchedAt": "2026-05-17T13:23:51.814Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -45,5 +45,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "typ",
+    "rasa",
+    "rodzaj",
+    "autorament",
+    "miły"
+  ]
 }

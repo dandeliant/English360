@@ -1,7 +1,7 @@
 {
   "lemma": "fold",
   "slug": "fold",
-  "fetchedAt": "2026-05-16T23:44:31.094Z",
+  "fetchedAt": "2026-05-17T13:23:13.409Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -82,5 +82,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "składać",
+    "złożyć",
+    "fałda"
+  ]
 }

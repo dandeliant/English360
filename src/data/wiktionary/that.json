@@ -1,7 +1,7 @@
 {
   "lemma": "that",
   "slug": "that",
-  "fetchedAt": "2026-05-16T23:47:22.404Z",
+  "fetchedAt": "2026-05-17T13:25:34.272Z",
   "en": [
     {
       "partOfSpeech": "Conjunction",
@@ -102,5 +102,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "że",
+    "iż",
+    "co",
+    "żeby",
+    "tamten"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "forest",
   "slug": "forest",
-  "fetchedAt": "2026-05-17T08:59:19.884Z",
+  "fetchedAt": "2026-05-17T13:23:15.595Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -28,5 +28,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "las"
+  ]
 }

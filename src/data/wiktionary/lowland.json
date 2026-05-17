@@ -1,7 +1,7 @@
 {
   "lemma": "lowland",
   "slug": "lowland",
-  "fetchedAt": "2026-05-17T08:59:52.658Z",
+  "fetchedAt": "2026-05-17T13:24:05.009Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -15,5 +15,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nizina"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "see",
   "slug": "see",
-  "fetchedAt": "2026-05-17T09:00:37.674Z",
+  "fetchedAt": "2026-05-17T13:25:02.418Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -67,5 +67,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "widzieć",
+    "zobaczyć",
+    "dostrzegać",
+    "rozumieć",
+    "zrozumieć"
+  ]
 }

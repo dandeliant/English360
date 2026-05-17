@@ -1,7 +1,7 @@
 {
   "lemma": "summer",
   "slug": "summer",
-  "fetchedAt": "2026-05-16T23:47:13.611Z",
+  "fetchedAt": "2026-05-17T13:25:26.436Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -58,5 +58,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "lato"
+  ]
 }

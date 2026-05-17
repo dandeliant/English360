@@ -1,7 +1,7 @@
 {
   "lemma": "wind",
   "slug": "wind",
-  "fetchedAt": "2026-05-17T09:01:24.970Z",
+  "fetchedAt": "2026-05-17T13:26:02.990Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -69,5 +69,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

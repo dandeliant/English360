@@ -1,7 +1,7 @@
 {
   "lemma": "gold",
   "slug": "gold",
-  "fetchedAt": "2026-05-16T23:44:45.084Z",
+  "fetchedAt": "2026-05-17T13:23:25.529Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -71,5 +71,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "złoty",
+    "złocisty"
+  ]
 }

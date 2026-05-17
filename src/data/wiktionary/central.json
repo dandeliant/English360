@@ -1,7 +1,7 @@
 {
   "lemma": "central",
   "slug": "central",
-  "fetchedAt": "2026-05-17T08:58:37.062Z",
+  "fetchedAt": "2026-05-17T13:22:24.074Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -30,5 +30,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "centralny",
+    "środkowy"
+  ]
 }

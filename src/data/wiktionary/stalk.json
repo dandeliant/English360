@@ -1,7 +1,7 @@
 {
   "lemma": "stalk",
   "slug": "stalk",
-  "fetchedAt": "2026-05-16T23:47:05.193Z",
+  "fetchedAt": "2026-05-17T13:25:19.756Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -72,5 +72,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "łodyga",
+    "badyl",
+    "zakradać się",
+    "nękać",
+    "stalkować"
+  ]
 }

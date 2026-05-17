@@ -1,7 +1,7 @@
 {
   "lemma": "because",
   "slug": "because",
-  "fetchedAt": "2026-05-17T08:58:06.077Z",
+  "fetchedAt": "2026-05-17T13:22:01.642Z",
   "en": [
     {
       "partOfSpeech": "Conjunction",
@@ -62,5 +62,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "bo",
+    "ponieważ",
+    "dlatego że",
+    "gdyż",
+    "albowiem"
+  ]
 }

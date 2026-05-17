@@ -1,7 +1,7 @@
 {
   "lemma": "moment",
   "slug": "moment",
-  "fetchedAt": "2026-05-16T23:45:49.087Z",
+  "fetchedAt": "2026-05-17T13:24:11.500Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -21,5 +21,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "chwila",
+    "moment",
+    "mgnienie",
+    "moment siły"
+  ]
 }

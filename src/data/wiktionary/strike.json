@@ -1,7 +1,7 @@
 {
   "lemma": "strike",
   "slug": "strike",
-  "fetchedAt": "2026-05-17T09:00:57.900Z",
+  "fetchedAt": "2026-05-17T13:25:23.488Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -41,5 +41,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "trafiać",
+    "strajkować",
+    "strajk",
+    "uderzenie"
+  ]
 }

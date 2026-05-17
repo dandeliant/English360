@@ -1,7 +1,7 @@
 {
   "lemma": "hedgerow",
   "slug": "hedgerow",
-  "fetchedAt": "2026-05-17T08:59:27.559Z",
+  "fetchedAt": "2026-05-17T13:23:32.682Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -13,5 +13,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

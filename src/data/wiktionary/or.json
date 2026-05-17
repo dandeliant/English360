@@ -1,7 +1,7 @@
 {
   "lemma": "or",
   "slug": "or",
-  "fetchedAt": "2026-05-17T09:00:03.710Z",
+  "fetchedAt": "2026-05-17T13:24:28.056Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -93,5 +93,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "albo",
+    "lub",
+    "czy",
+    "bądź",
+    "tudzież"
+  ]
 }

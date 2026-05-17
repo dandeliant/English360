@@ -1,7 +1,7 @@
 {
   "lemma": "immense",
   "slug": "immense",
-  "fetchedAt": "2026-05-17T08:59:36.125Z",
+  "fetchedAt": "2026-05-17T13:23:41.070Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -30,5 +30,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ogromny",
+    "przeogromny",
+    "niezmierny"
+  ]
 }

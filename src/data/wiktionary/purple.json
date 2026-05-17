@@ -1,7 +1,7 @@
 {
   "lemma": "purple",
   "slug": "purple",
-  "fetchedAt": "2026-05-16T23:46:32.219Z",
+  "fetchedAt": "2026-05-17T13:24:47.201Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -56,5 +56,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "fiolet",
+    "purpurowy",
+    "fioletowy"
+  ]
 }

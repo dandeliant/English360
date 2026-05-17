@@ -1,7 +1,7 @@
 {
   "lemma": "honey",
   "slug": "honey",
-  "fetchedAt": "2026-05-16T23:45:02.610Z",
+  "fetchedAt": "2026-05-17T13:23:35.844Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -53,5 +53,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "miód",
+    "miód pszczeli",
+    "laska",
+    "kolor",
+    "miodowy"
+  ]
 }

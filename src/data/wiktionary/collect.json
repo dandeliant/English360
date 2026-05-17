@@ -1,7 +1,7 @@
 {
   "lemma": "collect",
   "slug": "collect",
-  "fetchedAt": "2026-05-16T23:43:49.175Z",
+  "fetchedAt": "2026-05-17T13:22:29.663Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -62,5 +62,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zbierać",
+    "zebrać",
+    "gromadzić",
+    "zgromadzić",
+    "odbierać"
+  ]
 }

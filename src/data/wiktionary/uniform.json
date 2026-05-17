@@ -1,7 +1,7 @@
 {
   "lemma": "uniform",
   "slug": "uniform",
-  "fetchedAt": "2026-05-17T09:01:14.991Z",
+  "fetchedAt": "2026-05-17T13:25:49.807Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -48,5 +48,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "jednorodny",
+    "spójny",
+    "mundur",
+    "mundurek",
+    "uniform"
+  ]
 }

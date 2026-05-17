@@ -1,7 +1,7 @@
 {
   "lemma": "drowsy",
   "slug": "drowsy",
-  "fetchedAt": "2026-05-16T23:44:06.009Z",
+  "fetchedAt": "2026-05-17T13:22:51.077Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -26,5 +26,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "senny",
+    "ospały"
+  ]
 }

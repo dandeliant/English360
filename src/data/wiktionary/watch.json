@@ -1,7 +1,7 @@
 {
   "lemma": "watch",
   "slug": "watch",
-  "fetchedAt": "2026-05-16T23:47:50.069Z",
+  "fetchedAt": "2026-05-17T13:25:56.923Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -46,5 +46,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zegarek",
+    "straż",
+    "wachta",
+    "oglądać",
+    "obserwować"
+  ]
 }

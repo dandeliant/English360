@@ -1,7 +1,7 @@
 {
   "lemma": "such",
   "slug": "such",
-  "fetchedAt": "2026-05-16T23:47:12.591Z",
+  "fetchedAt": "2026-05-17T13:25:25.880Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -50,5 +50,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "taki"
+  ]
 }

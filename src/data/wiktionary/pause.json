@@ -1,7 +1,7 @@
 {
   "lemma": "pause",
   "slug": "pause",
-  "fetchedAt": "2026-05-16T23:46:20.337Z",
+  "fetchedAt": "2026-05-17T13:24:36.949Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -52,5 +52,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pauzować",
+    "przerywać",
+    "pauza",
+    "przerwa"
+  ]
 }

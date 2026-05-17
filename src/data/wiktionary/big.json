@@ -1,7 +1,7 @@
 {
   "lemma": "big",
   "slug": "big",
-  "fetchedAt": "2026-05-17T08:58:09.961Z",
+  "fetchedAt": "2026-05-17T13:22:06.767Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -102,5 +102,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "duży",
+    "wielki"
+  ]
 }

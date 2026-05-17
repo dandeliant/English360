@@ -1,7 +1,7 @@
 {
   "lemma": "cover",
   "slug": "cover",
-  "fetchedAt": "2026-05-16T23:43:53.808Z",
+  "fetchedAt": "2026-05-17T13:22:34.564Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -60,5 +60,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przykrycie",
+    "wieko",
+    "przykrywka",
+    "ukrycie",
+    "okładka"
+  ]
 }

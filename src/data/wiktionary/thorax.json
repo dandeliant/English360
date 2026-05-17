@@ -1,7 +1,7 @@
 {
   "lemma": "thorax",
   "slug": "thorax",
-  "fetchedAt": "2026-05-16T23:47:28.402Z",
+  "fetchedAt": "2026-05-17T13:25:40.108Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "klatka piersiowa",
+    "tułów"
+  ]
 }

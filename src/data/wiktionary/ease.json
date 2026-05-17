@@ -1,7 +1,7 @@
 {
   "lemma": "ease",
   "slug": "ease",
-  "fetchedAt": "2026-05-16T23:44:10.276Z",
+  "fetchedAt": "2026-05-17T13:22:53.237Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -50,5 +50,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ułatwiać",
+    "ułatwić"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "rapeseed",
   "slug": "rapeseed",
-  "fetchedAt": "2026-05-17T09:00:20.467Z",
+  "fetchedAt": "2026-05-17T13:24:49.209Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "rzepak"
+  ]
 }

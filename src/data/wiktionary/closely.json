@@ -1,7 +1,7 @@
 {
   "lemma": "closely",
   "slug": "closely",
-  "fetchedAt": "2026-05-16T23:43:48.137Z",
+  "fetchedAt": "2026-05-17T13:22:28.720Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -20,5 +20,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "blisko"
+  ]
 }

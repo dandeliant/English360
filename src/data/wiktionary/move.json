@@ -1,7 +1,7 @@
 {
   "lemma": "move",
   "slug": "move",
-  "fetchedAt": "2026-05-16T23:45:54.771Z",
+  "fetchedAt": "2026-05-17T13:24:15.949Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -48,5 +48,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ruszać",
+    "ruszyć",
+    "poruszać",
+    "poruszyć",
+    "działać"
+  ]
 }

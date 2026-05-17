@@ -1,7 +1,7 @@
 {
   "lemma": "clear",
   "slug": "clear",
-  "fetchedAt": "2026-05-16T23:43:47.296Z",
+  "fetchedAt": "2026-05-17T13:22:27.193Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -96,5 +96,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "bezbarwny",
+    "bezchmurny",
+    "jasny",
+    "wymazać",
+    "czyścić"
+  ]
 }

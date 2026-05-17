@@ -1,7 +1,7 @@
 {
   "lemma": "sit",
   "slug": "sit",
-  "fetchedAt": "2026-05-16T23:46:52.403Z",
+  "fetchedAt": "2026-05-17T13:25:09.577Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -64,5 +64,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "siedzieć"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "sense",
   "slug": "sense",
-  "fetchedAt": "2026-05-17T09:00:39.423Z",
+  "fetchedAt": "2026-05-17T13:25:02.966Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -32,5 +32,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zmysł",
+    "poczucie",
+    "sens",
+    "kierunek",
+    "kierunek obrotu"
+  ]
 }

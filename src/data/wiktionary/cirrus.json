@@ -1,7 +1,7 @@
 {
   "lemma": "cirrus",
   "slug": "cirrus",
-  "fetchedAt": "2026-05-17T08:58:40.212Z",
+  "fetchedAt": "2026-05-17T13:22:26.665Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "cirrus",
+    "chmura pierzasta"
+  ]
 }

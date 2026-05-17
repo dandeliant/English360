@@ -1,7 +1,7 @@
 {
   "lemma": "afternoon",
   "slug": "afternoon",
-  "fetchedAt": "2026-05-16T23:43:00.936Z",
+  "fetchedAt": "2026-05-17T13:21:47.288Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -39,5 +39,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "popołudnie"
+  ]
 }

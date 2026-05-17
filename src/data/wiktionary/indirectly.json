@@ -1,7 +1,7 @@
 {
   "lemma": "indirectly",
   "slug": "indirectly",
-  "fetchedAt": "2026-05-16T23:45:12.379Z",
+  "fetchedAt": "2026-05-17T13:23:42.631Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -15,5 +15,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "niebezpośrednio",
+    "pośrednio"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "clearly",
   "slug": "clearly",
-  "fetchedAt": "2026-05-17T08:58:41.037Z",
+  "fetchedAt": "2026-05-17T13:22:27.644Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -27,5 +27,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wyraźnie"
+  ]
 }

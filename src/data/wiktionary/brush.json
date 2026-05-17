@@ -1,7 +1,7 @@
 {
   "lemma": "brush",
   "slug": "brush",
-  "fetchedAt": "2026-05-17T08:58:16.587Z",
+  "fetchedAt": "2026-05-17T13:22:15.244Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -42,5 +42,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "szczotka",
+    "pędzel",
+    "czesanie",
+    "szczotkowanie",
+    "kita"
+  ]
 }

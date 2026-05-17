@@ -1,7 +1,7 @@
 {
   "lemma": "body",
   "slug": "body",
-  "fetchedAt": "2026-05-16T23:43:28.768Z",
+  "fetchedAt": "2026-05-17T13:22:09.660Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -39,5 +39,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ciało",
+    "organizm",
+    "korpus",
+    "kadłub",
+    "karoseria"
+  ]
 }

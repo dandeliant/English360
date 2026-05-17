@@ -1,7 +1,7 @@
 {
   "lemma": "leg",
   "slug": "leg",
-  "fetchedAt": "2026-05-16T23:45:31.017Z",
+  "fetchedAt": "2026-05-17T13:23:57.144Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -60,5 +60,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

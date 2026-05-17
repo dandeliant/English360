@@ -1,7 +1,7 @@
 {
   "lemma": "decide",
   "slug": "decide",
-  "fetchedAt": "2026-05-17T08:58:51.906Z",
+  "fetchedAt": "2026-05-17T13:22:45.057Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -29,5 +29,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "decydować",
+    "zdecydować",
+    "postanowić"
+  ]
 }

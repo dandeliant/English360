@@ -1,7 +1,7 @@
 {
   "lemma": "but",
   "slug": "but",
-  "fetchedAt": "2026-05-16T23:43:36.622Z",
+  "fetchedAt": "2026-05-17T13:22:17.615Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -110,5 +110,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ale",
+    "chociaż",
+    "oprócz",
+    "z wyjątkiem"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "effortlessly",
   "slug": "effortlessly",
-  "fetchedAt": "2026-05-16T23:44:13.016Z",
+  "fetchedAt": "2026-05-17T13:22:56.040Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -15,5 +15,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "bez [[wysiłek",
+    "bezwysiłkowo"
+  ]
 }

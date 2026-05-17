@@ -1,7 +1,7 @@
 {
   "lemma": "too",
   "slug": "too",
-  "fetchedAt": "2026-05-17T09:01:10.689Z",
+  "fetchedAt": "2026-05-17T13:25:43.547Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -36,5 +36,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "też",
+    "zbyt",
+    "za"
+  ]
 }

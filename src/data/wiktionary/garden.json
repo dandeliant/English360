@@ -1,7 +1,7 @@
 {
   "lemma": "garden",
   "slug": "garden",
-  "fetchedAt": "2026-05-16T23:44:40.038Z",
+  "fetchedAt": "2026-05-17T13:23:19.783Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -57,5 +57,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "sad",
+    "ogród",
+    "ogródek",
+    "działka",
+    "łoniaki"
+  ]
 }

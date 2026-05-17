@@ -1,7 +1,7 @@
 {
   "lemma": "composition",
   "slug": "composition",
-  "fetchedAt": "2026-05-17T08:58:45.960Z",
+  "fetchedAt": "2026-05-17T13:22:31.821Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -21,5 +21,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "skład"
+  ]
 }

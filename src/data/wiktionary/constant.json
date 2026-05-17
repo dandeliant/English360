@@ -1,7 +1,7 @@
 {
   "lemma": "constant",
   "slug": "constant",
-  "fetchedAt": "2026-05-16T23:43:50.940Z",
+  "fetchedAt": "2026-05-17T13:22:32.377Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -34,5 +34,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "stały",
+    "bezustanny",
+    "stała"
+  ]
 }

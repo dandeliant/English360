@@ -1,7 +1,7 @@
 {
   "lemma": "mark",
   "slug": "mark",
-  "fetchedAt": "2026-05-17T08:59:54.203Z",
+  "fetchedAt": "2026-05-17T13:24:06.733Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -82,5 +82,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ocena",
+    "kryć",
+    "marka"
+  ]
 }

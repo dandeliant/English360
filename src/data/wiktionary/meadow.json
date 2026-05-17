@@ -1,7 +1,7 @@
 {
   "lemma": "meadow",
   "slug": "meadow",
-  "fetchedAt": "2026-05-16T23:45:43.407Z",
+  "fetchedAt": "2026-05-17T13:24:07.733Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -24,5 +24,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "łąka"
+  ]
 }

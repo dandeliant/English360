@@ -1,7 +1,7 @@
 {
   "lemma": "where",
   "slug": "where",
-  "fetchedAt": "2026-05-17T09:01:21.199Z",
+  "fetchedAt": "2026-05-17T13:25:59.262Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -69,5 +69,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "gdzie",
+    "skąd",
+    "dokąd",
+    "podczas gdy"
+  ]
 }

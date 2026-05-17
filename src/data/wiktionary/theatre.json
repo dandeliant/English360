@@ -1,7 +1,7 @@
 {
   "lemma": "theatre",
   "slug": "theatre",
-  "fetchedAt": "2026-05-16T23:47:23.904Z",
+  "fetchedAt": "2026-05-17T13:25:35.336Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

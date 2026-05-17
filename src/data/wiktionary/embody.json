@@ -1,7 +1,7 @@
 {
   "lemma": "embody",
   "slug": "embody",
-  "fetchedAt": "2026-05-16T23:44:14.022Z",
+  "fetchedAt": "2026-05-17T13:22:57.052Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -26,5 +26,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wcielić się",
+    "ucieleśniać się"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "sub",
   "slug": "sub",
-  "fetchedAt": "2026-05-16T23:47:09.865Z",
+  "fetchedAt": "2026-05-17T13:25:24.399Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -63,5 +63,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

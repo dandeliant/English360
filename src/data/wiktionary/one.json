@@ -1,7 +1,7 @@
 {
   "lemma": "one",
   "slug": "one",
-  "fetchedAt": "2026-05-16T23:46:10.619Z",
+  "fetchedAt": "2026-05-17T13:24:27.473Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -163,5 +163,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ktoś",
+    "jedynka",
+    "jednodolarówka",
+    "pewien",
+    "jedyny"
+  ]
 }

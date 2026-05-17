@@ -1,7 +1,7 @@
 {
   "lemma": "sea",
   "slug": "sea",
-  "fetchedAt": "2026-05-17T09:00:36.520Z",
+  "fetchedAt": "2026-05-17T13:25:01.661Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -28,5 +28,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "morze"
+  ]
 }

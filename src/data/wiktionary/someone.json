@@ -1,7 +1,7 @@
 {
   "lemma": "someone",
   "slug": "someone",
-  "fetchedAt": "2026-05-17T09:00:51.441Z",
+  "fetchedAt": "2026-05-17T13:25:16.221Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -33,5 +33,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ktoś"
+  ]
 }

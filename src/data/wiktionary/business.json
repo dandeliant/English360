@@ -1,7 +1,7 @@
 {
   "lemma": "business",
   "slug": "business",
-  "fetchedAt": "2026-05-16T23:43:34.666Z",
+  "fetchedAt": "2026-05-17T13:22:16.323Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -48,5 +48,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "interes",
+    "firma",
+    "biznes",
+    "przedsiębiorstwo",
+    "zajęcie"
+  ]
 }

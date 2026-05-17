@@ -1,7 +1,7 @@
 {
   "lemma": "represent",
   "slug": "represent",
-  "fetchedAt": "2026-05-16T23:46:41.836Z",
+  "fetchedAt": "2026-05-17T13:24:53.569Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -43,5 +43,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "reprezentować"
+  ]
 }

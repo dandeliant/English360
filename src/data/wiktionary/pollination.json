@@ -1,7 +1,7 @@
 {
   "lemma": "pollination",
   "slug": "pollination",
-  "fetchedAt": "2026-05-16T23:46:26.856Z",
+  "fetchedAt": "2026-05-17T13:24:42.708Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -13,5 +13,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

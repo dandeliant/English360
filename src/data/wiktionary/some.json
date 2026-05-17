@@ -1,7 +1,7 @@
 {
   "lemma": "some",
   "slug": "some",
-  "fetchedAt": "2026-05-17T09:00:50.592Z",
+  "fetchedAt": "2026-05-17T13:25:15.786Z",
   "en": [
     {
       "partOfSpeech": "Pronoun",
@@ -72,5 +72,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "niektóry",
+    "trochę",
+    "kilka",
+    "niektórzy",
+    "niektóre"
+  ]
 }

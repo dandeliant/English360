@@ -1,7 +1,7 @@
 {
   "lemma": "grow",
   "slug": "grow",
-  "fetchedAt": "2026-05-16T23:44:47.780Z",
+  "fetchedAt": "2026-05-17T13:23:27.472Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -28,5 +28,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "rosnąć",
+    "urosnąć",
+    "powiększać",
+    "powiększyć",
+    "zapuszczać"
+  ]
 }

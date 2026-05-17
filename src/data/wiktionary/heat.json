@@ -1,7 +1,7 @@
 {
   "lemma": "heat",
   "slug": "heat",
-  "fetchedAt": "2026-05-16T23:44:56.933Z",
+  "fetchedAt": "2026-05-17T13:23:31.688Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -51,5 +51,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ciepło",
+    "żar",
+    "gorąco",
+    "pikantność",
+    "afekt"
+  ]
 }

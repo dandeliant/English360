@@ -1,7 +1,7 @@
 {
   "lemma": "of",
   "slug": "of",
-  "fetchedAt": "2026-05-16T23:46:06.717Z",
+  "fetchedAt": "2026-05-17T13:24:25.229Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -37,5 +37,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "z",
+    "o",
+    "na temat"
+  ]
 }

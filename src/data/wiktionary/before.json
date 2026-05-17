@@ -1,7 +1,7 @@
 {
   "lemma": "before",
   "slug": "before",
-  "fetchedAt": "2026-05-16T23:43:23.873Z",
+  "fetchedAt": "2026-05-17T13:22:03.452Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -85,5 +85,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przed",
+    "nim",
+    "zanim"
+  ]
 }

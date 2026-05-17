@@ -1,7 +1,7 @@
 {
   "lemma": "say",
   "slug": "say",
-  "fetchedAt": "2026-05-17T09:00:33.174Z",
+  "fetchedAt": "2026-05-17T13:24:59.936Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -114,5 +114,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "powiadać",
+    "powiedzieć",
+    "mówić",
+    "wymawiać",
+    "rzec"
+  ]
 }

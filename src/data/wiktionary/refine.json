@@ -1,7 +1,7 @@
 {
   "lemma": "refine",
   "slug": "refine",
-  "fetchedAt": "2026-05-16T23:46:36.836Z",
+  "fetchedAt": "2026-05-17T13:24:49.666Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -27,5 +27,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

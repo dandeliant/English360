@@ -1,7 +1,7 @@
 {
   "lemma": "to",
   "slug": "to",
-  "fetchedAt": "2026-05-16T23:47:32.479Z",
+  "fetchedAt": "2026-05-17T13:25:42.978Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -96,5 +96,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "-ać",
+    "-eć",
+    "-ić",
+    "-ć",
+    "-ąć"
+  ]
 }

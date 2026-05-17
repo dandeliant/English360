@@ -1,7 +1,7 @@
 {
   "lemma": "not",
   "slug": "not",
-  "fetchedAt": "2026-05-16T23:46:03.952Z",
+  "fetchedAt": "2026-05-17T13:24:22.067Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -76,5 +76,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nie",
+    "a nie"
+  ]
 }

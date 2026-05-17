@@ -1,7 +1,7 @@
 {
   "lemma": "blue",
   "slug": "blue",
-  "fetchedAt": "2026-05-17T08:58:12.131Z",
+  "fetchedAt": "2026-05-17T13:22:09.003Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -64,5 +64,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "niebieski",
+    "błękitny",
+    "błękit",
+    "modraszek",
+    "niebieścić"
+  ]
 }

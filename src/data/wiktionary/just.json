@@ -1,7 +1,7 @@
 {
   "lemma": "just",
   "slug": "just",
-  "fetchedAt": "2026-05-16T23:45:22.400Z",
+  "fetchedAt": "2026-05-17T13:23:50.711Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -71,5 +71,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "dokładny",
+    "sprawiedliwy",
+    "tylko",
+    "po prostu",
+    "właśnie"
+  ]
 }

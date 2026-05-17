@@ -1,7 +1,7 @@
 {
   "lemma": "courteous",
   "slug": "courteous",
-  "fetchedAt": "2026-05-16T23:43:52.569Z",
+  "fetchedAt": "2026-05-17T13:22:33.928Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -15,5 +15,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "uprzejmy",
+    "grzeczny"
+  ]
 }

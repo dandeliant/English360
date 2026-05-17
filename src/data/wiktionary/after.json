@@ -1,7 +1,7 @@
 {
   "lemma": "after",
   "slug": "after",
-  "fetchedAt": "2026-05-16T23:43:00.088Z",
+  "fetchedAt": "2026-05-17T13:21:46.739Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -77,5 +77,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "potem",
+    "po",
+    "za",
+    "w stylu"
+  ]
 }

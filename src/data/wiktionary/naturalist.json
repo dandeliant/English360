@@ -1,7 +1,7 @@
 {
   "lemma": "naturalist",
   "slug": "naturalist",
-  "fetchedAt": "2026-05-16T23:45:56.410Z",
+  "fetchedAt": "2026-05-17T13:24:17.240Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -22,5 +22,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

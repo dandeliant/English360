@@ -1,7 +1,7 @@
 {
   "lemma": "below",
   "slug": "below",
-  "fetchedAt": "2026-05-17T08:58:08.944Z",
+  "fetchedAt": "2026-05-17T13:22:05.475Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -54,5 +54,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pod",
+    "poniżej"
+  ]
 }

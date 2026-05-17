@@ -1,7 +1,7 @@
 {
   "lemma": "amount",
   "slug": "amount",
-  "fetchedAt": "2026-05-16T23:43:05.465Z",
+  "fetchedAt": "2026-05-17T13:21:50.397Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -48,5 +48,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ilość",
+    "liczba",
+    "kwota",
+    "suma",
+    "wynieść"
+  ]
 }

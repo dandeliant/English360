@@ -1,7 +1,7 @@
 {
   "lemma": "forage",
   "slug": "forage",
-  "fetchedAt": "2026-05-16T23:44:34.162Z",
+  "fetchedAt": "2026-05-17T13:23:15.110Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

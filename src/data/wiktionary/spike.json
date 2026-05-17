@@ -1,7 +1,7 @@
 {
   "lemma": "spike",
   "slug": "spike",
-  "fetchedAt": "2026-05-16T23:47:02.299Z",
+  "fetchedAt": "2026-05-17T13:25:17.715Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -42,5 +42,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kolec",
+    "kłos",
+    "korek",
+    "dosypać",
+    "dosypywać"
+  ]
 }

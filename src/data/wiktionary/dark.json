@@ -1,7 +1,7 @@
 {
   "lemma": "dark",
   "slug": "dark",
-  "fetchedAt": "2026-05-17T08:58:51.059Z",
+  "fetchedAt": "2026-05-17T13:22:44.033Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -67,5 +67,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ciemny",
+    "mroczny",
+    "ciemność",
+    "mroki",
+    "zmrok"
+  ]
 }

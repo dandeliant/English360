@@ -1,7 +1,7 @@
 {
   "lemma": "occasional",
   "slug": "occasional",
-  "fetchedAt": "2026-05-17T09:00:02.181Z",
+  "fetchedAt": "2026-05-17T13:24:24.525Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -37,5 +37,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "okazjonalny",
+    "przypadkowy",
+    "rzadki",
+    "sporadyczny"
+  ]
 }

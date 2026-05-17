@@ -1,7 +1,7 @@
 {
   "lemma": "casual",
   "slug": "casual",
-  "fetchedAt": "2026-05-16T23:43:42.873Z",
+  "fetchedAt": "2026-05-17T13:22:22.829Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -44,5 +44,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "dorywczy",
+    "doraźny",
+    "przypadkowy",
+    "sezonowy",
+    "niedbały"
+  ]
 }

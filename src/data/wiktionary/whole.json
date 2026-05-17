@@ -1,7 +1,7 @@
 {
   "lemma": "whole",
   "slug": "whole",
-  "fetchedAt": "2026-05-16T23:47:52.785Z",
+  "fetchedAt": "2026-05-17T13:26:01.505Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -55,5 +55,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "cały",
+    "pełny",
+    "całkowicie",
+    "całość"
+  ]
 }

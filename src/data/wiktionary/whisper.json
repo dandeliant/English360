@@ -1,7 +1,7 @@
 {
   "lemma": "whisper",
   "slug": "whisper",
-  "fetchedAt": "2026-05-17T09:01:22.460Z",
+  "fetchedAt": "2026-05-17T13:26:00.328Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "szept",
+    "szeptać",
+    "szepnąć"
+  ]
 }

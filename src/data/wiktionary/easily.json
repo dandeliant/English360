@@ -1,7 +1,7 @@
 {
   "lemma": "easily",
   "slug": "easily",
-  "fetchedAt": "2026-05-17T08:59:01.561Z",
+  "fetchedAt": "2026-05-17T13:22:53.710Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -26,5 +26,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

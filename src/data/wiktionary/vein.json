@@ -1,7 +1,7 @@
 {
   "lemma": "vein",
   "slug": "vein",
-  "fetchedAt": "2026-05-16T23:47:43.987Z",
+  "fetchedAt": "2026-05-17T13:25:52.958Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -28,5 +28,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "żyła",
+    "żyłka"
+  ]
 }

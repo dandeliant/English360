@@ -1,7 +1,7 @@
 {
   "lemma": "overlook",
   "slug": "overlook",
-  "fetchedAt": "2026-05-16T23:46:16.386Z",
+  "fetchedAt": "2026-05-17T13:24:33.322Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -36,5 +36,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "punkt widokowy",
+    "przeoczać",
+    "przeoczyć",
+    "przegapiać",
+    "przegapić"
+  ]
 }

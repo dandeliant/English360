@@ -1,7 +1,7 @@
 {
   "lemma": "stick",
   "slug": "stick",
-  "fetchedAt": "2026-05-16T23:47:07.701Z",
+  "fetchedAt": "2026-05-17T13:25:22.062Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -103,5 +103,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "patyk",
+    "gałązka",
+    "kij",
+    "pałka",
+    "laska"
+  ]
 }

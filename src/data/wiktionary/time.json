@@ -1,7 +1,7 @@
 {
   "lemma": "time",
   "slug": "time",
-  "fetchedAt": "2026-05-16T23:47:29.660Z",
+  "fetchedAt": "2026-05-17T13:25:41.729Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -63,5 +63,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "chronometrować"
+  ]
 }

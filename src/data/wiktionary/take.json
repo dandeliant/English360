@@ -1,7 +1,7 @@
 {
   "lemma": "take",
   "slug": "take",
-  "fetchedAt": "2026-05-17T09:01:03.026Z",
+  "fetchedAt": "2026-05-17T13:25:31.663Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -52,5 +52,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "branie",
+    "wzięcie",
+    "ujęcie"
+  ]
 }

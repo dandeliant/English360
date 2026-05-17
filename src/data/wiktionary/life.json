@@ -1,7 +1,7 @@
 {
   "lemma": "life",
   "slug": "life",
-  "fetchedAt": "2026-05-17T08:59:47.531Z",
+  "fetchedAt": "2026-05-17T13:23:58.141Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -41,5 +41,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

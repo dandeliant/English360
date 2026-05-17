@@ -1,7 +1,7 @@
 {
   "lemma": "year",
   "slug": "year",
-  "fetchedAt": "2026-05-16T23:47:59.893Z",
+  "fetchedAt": "2026-05-17T13:26:13.727Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -32,5 +32,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

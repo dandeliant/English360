@@ -1,7 +1,7 @@
 {
   "lemma": "shape",
   "slug": "shape",
-  "fetchedAt": "2026-05-16T23:46:47.392Z",
+  "fetchedAt": "2026-05-17T13:25:04.473Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -49,5 +49,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kształt",
+    "forma",
+    "kondycja",
+    "postać",
+    "kształtować"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "particular",
   "slug": "particular",
-  "fetchedAt": "2026-05-17T09:00:09.382Z",
+  "fetchedAt": "2026-05-17T13:24:35.667Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -43,5 +43,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "konkretny",
+    "specyficzny"
+  ]
 }

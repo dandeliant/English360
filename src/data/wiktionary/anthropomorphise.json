@@ -1,7 +1,7 @@
 {
   "lemma": "anthropomorphise",
   "slug": "anthropomorphise",
-  "fetchedAt": "2026-05-16T23:43:09.487Z",
+  "fetchedAt": "2026-05-17T13:21:53.157Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -13,5 +13,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

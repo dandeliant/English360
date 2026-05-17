@@ -1,7 +1,7 @@
 {
   "lemma": "gossamer",
   "slug": "gossamer",
-  "fetchedAt": "2026-05-16T23:44:46.870Z",
+  "fetchedAt": "2026-05-17T13:23:26.480Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "babie lato",
+    "[[lekki",
+    "delikatny przedmiot",
+    "cienki"
+  ]
 }

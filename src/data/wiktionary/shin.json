@@ -1,7 +1,7 @@
 {
   "lemma": "shin",
   "slug": "shin",
-  "fetchedAt": "2026-05-16T23:46:48.287Z",
+  "fetchedAt": "2026-05-17T13:25:05.451Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -47,5 +47,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "goleń"
+  ]
 }

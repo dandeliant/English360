@@ -1,7 +1,7 @@
 {
   "lemma": "napu",
   "slug": "napu",
-  "fetchedAt": "2026-05-17T08:59:58.726Z",
+  "fetchedAt": "2026-05-17T13:24:16.814Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -13,5 +13,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

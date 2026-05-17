@@ -1,7 +1,7 @@
 {
   "lemma": "large",
   "slug": "large",
-  "fetchedAt": "2026-05-17T08:59:43.635Z",
+  "fetchedAt": "2026-05-17T13:23:54.388Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -51,5 +51,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "duży"
+  ]
 }

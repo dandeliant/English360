@@ -1,7 +1,7 @@
 {
   "lemma": "leave",
   "slug": "leave",
-  "fetchedAt": "2026-05-16T23:45:30.045Z",
+  "fetchedAt": "2026-05-17T13:23:56.696Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -89,5 +89,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "zostawiać",
+    "zostawić",
+    "opuszczać",
+    "opuścić",
+    "odchodzić"
+  ]
 }

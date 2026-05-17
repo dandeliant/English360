@@ -1,7 +1,7 @@
 {
   "lemma": "judge",
   "slug": "judge",
-  "fetchedAt": "2026-05-17T08:59:40.697Z",
+  "fetchedAt": "2026-05-17T13:23:50.147Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -38,5 +38,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "sędzia",
+    "sędzina",
+    "arbiter",
+    "osądzić",
+    "osądzać"
+  ]
 }

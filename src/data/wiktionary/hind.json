@@ -1,7 +1,7 @@
 {
   "lemma": "hind",
   "slug": "hind",
-  "fetchedAt": "2026-05-16T23:45:00.014Z",
+  "fetchedAt": "2026-05-17T13:23:34.363Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -39,5 +39,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "tylny",
+    "zadni",
+    "łania"
+  ]
 }

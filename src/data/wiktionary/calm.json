@@ -1,7 +1,7 @@
 {
   "lemma": "calm",
   "slug": "calm",
-  "fetchedAt": "2026-05-16T23:43:39.250Z",
+  "fetchedAt": "2026-05-17T13:22:20.043Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -54,5 +54,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "spokojny",
+    "opanowany",
+    "cichy",
+    "spokój",
+    "cisza"
+  ]
 }

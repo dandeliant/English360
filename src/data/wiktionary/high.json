@@ -1,7 +1,7 @@
 {
   "lemma": "high",
   "slug": "high",
-  "fetchedAt": "2026-05-17T08:59:28.687Z",
+  "fetchedAt": "2026-05-17T13:23:33.833Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -94,5 +94,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wysoki",
+    "naćpany",
+    "zaćpany",
+    "na haju",
+    "wysoko"
+  ]
 }

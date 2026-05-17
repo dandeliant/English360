@@ -1,7 +1,7 @@
 {
   "lemma": "adapt",
   "slug": "adapt",
-  "fetchedAt": "2026-05-16T23:42:59.078Z",
+  "fetchedAt": "2026-05-17T13:21:45.742Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -36,5 +36,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "adaptować",
+    "zaadaptować",
+    "adaptować się",
+    "zaadaptować się"
+  ]
 }

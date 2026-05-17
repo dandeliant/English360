@@ -1,7 +1,7 @@
 {
   "lemma": "drone",
   "slug": "drone",
-  "fetchedAt": "2026-05-17T08:59:00.721Z",
+  "fetchedAt": "2026-05-17T13:22:50.628Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -65,5 +65,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "truteń",
+    "samolot bezzałogowy",
+    "dron",
+    "bezzałogowiec",
+    "bezpilotowiec"
+  ]
 }

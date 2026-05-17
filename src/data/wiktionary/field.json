@@ -1,7 +1,7 @@
 {
   "lemma": "field",
   "slug": "field",
-  "fetchedAt": "2026-05-16T23:44:27.684Z",
+  "fetchedAt": "2026-05-17T13:23:09.548Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -40,5 +40,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pole",
+    "pastwisko",
+    "boisko",
+    "dziedzina",
+    "ciało"
+  ]
 }

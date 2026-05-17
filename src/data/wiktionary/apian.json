@@ -1,7 +1,7 @@
 {
   "lemma": "apian",
   "slug": "apian",
-  "fetchedAt": "2026-05-16T23:43:11.528Z",
+  "fetchedAt": "2026-05-17T13:21:53.592Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -22,5 +22,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

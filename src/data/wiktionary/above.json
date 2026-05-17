@@ -1,7 +1,7 @@
 {
   "lemma": "above",
   "slug": "above",
-  "fetchedAt": "2026-05-17T08:57:48.896Z",
+  "fetchedAt": "2026-05-17T13:21:42.943Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -74,5 +74,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nad",
+    "powyżej",
+    "ponad",
+    "powyższy"
+  ]
 }

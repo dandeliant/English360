@@ -1,7 +1,7 @@
 {
   "lemma": "first",
   "slug": "first",
-  "fetchedAt": "2026-05-17T08:59:13.559Z",
+  "fetchedAt": "2026-05-17T13:23:11.714Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -86,5 +86,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pierwszy",
+    "najpierw",
+    "najsampierw",
+    "na początku",
+    "naprzód"
+  ]
 }

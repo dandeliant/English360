@@ -1,7 +1,7 @@
 {
   "lemma": "half",
   "slug": "half",
-  "fetchedAt": "2026-05-16T23:44:53.330Z",
+  "fetchedAt": "2026-05-17T13:23:29.266Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -105,5 +105,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "połowa",
+    "pół",
+    "połowina",
+    "połówka",
+    "pół-"
+  ]
 }

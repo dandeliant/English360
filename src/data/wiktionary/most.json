@@ -1,7 +1,7 @@
 {
   "lemma": "most",
   "slug": "most",
-  "fetchedAt": "2026-05-16T23:45:53.736Z",
+  "fetchedAt": "2026-05-17T13:24:15.291Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -103,5 +103,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "najwięcej",
+    "większość",
+    "naj-"
+  ]
 }

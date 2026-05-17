@@ -1,7 +1,7 @@
 {
   "lemma": "our",
   "slug": "our",
-  "fetchedAt": "2026-05-16T23:46:13.209Z",
+  "fetchedAt": "2026-05-17T13:24:30.585Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -37,5 +37,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nasz"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "look",
   "slug": "look",
-  "fetchedAt": "2026-05-16T23:45:37.887Z",
+  "fetchedAt": "2026-05-17T13:24:03.374Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -66,5 +66,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "patrzeć",
+    "popatrzeć",
+    "wyglądać",
+    "słuchaj",
+    "pogląd"
+  ]
 }

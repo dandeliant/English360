@@ -1,7 +1,7 @@
 {
   "lemma": "ear",
   "slug": "ear",
-  "fetchedAt": "2026-05-16T23:44:09.312Z",
+  "fetchedAt": "2026-05-17T13:22:52.726Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -61,5 +61,9 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "kłos",
+    "orać"
+  ]
 }

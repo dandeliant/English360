@@ -1,7 +1,7 @@
 {
   "lemma": "tide",
   "slug": "tide",
-  "fetchedAt": "2026-05-17T09:01:09.558Z",
+  "fetchedAt": "2026-05-17T13:25:41.014Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -56,5 +56,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pływ",
+    "przypływ",
+    "odpływ"
+  ]
 }

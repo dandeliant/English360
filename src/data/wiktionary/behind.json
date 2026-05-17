@@ -1,7 +1,7 @@
 {
   "lemma": "behind",
   "slug": "behind",
-  "fetchedAt": "2026-05-17T08:58:07.181Z",
+  "fetchedAt": "2026-05-17T13:22:03.982Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -94,5 +94,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "za",
+    "z tyłu",
+    "po",
+    "(być) za",
+    "tył"
+  ]
 }

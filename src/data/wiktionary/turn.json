@@ -1,7 +1,7 @@
 {
   "lemma": "turn",
   "slug": "turn",
-  "fetchedAt": "2026-05-17T09:01:14.083Z",
+  "fetchedAt": "2026-05-17T13:25:47.893Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -44,5 +44,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "obrócić się",
+    "obracać się",
+    "obrócić",
+    "obracać",
+    "skręcić"
+  ]
 }

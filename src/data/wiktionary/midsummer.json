@@ -1,7 +1,7 @@
 {
   "lemma": "midsummer",
   "slug": "midsummer",
-  "fetchedAt": "2026-05-16T23:45:44.229Z",
+  "fetchedAt": "2026-05-17T13:24:08.771Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -30,5 +30,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "śródlecie"
+  ]
 }

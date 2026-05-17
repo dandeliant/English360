@@ -1,7 +1,7 @@
 {
   "lemma": "result",
   "slug": "result",
-  "fetchedAt": "2026-05-17T09:00:25.765Z",
+  "fetchedAt": "2026-05-17T13:24:55.693Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -51,5 +51,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "wynikać",
+    "wyniknąć",
+    "kończyć się",
+    "skończyć się",
+    "rezultat"
+  ]
 }

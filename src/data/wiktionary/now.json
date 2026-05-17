@@ -1,7 +1,7 @@
 {
   "lemma": "now",
   "slug": "now",
-  "fetchedAt": "2026-05-17T09:00:00.436Z",
+  "fetchedAt": "2026-05-17T13:24:23.127Z",
   "en": [
     {
       "partOfSpeech": "Symbol",
@@ -110,5 +110,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "teraz",
+    "aktualnie",
+    "obecnie",
+    "nynie",
+    "w tej chwili"
+  ]
 }

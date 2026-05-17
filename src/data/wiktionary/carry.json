@@ -1,7 +1,7 @@
 {
   "lemma": "carry",
   "slug": "carry",
-  "fetchedAt": "2026-05-16T23:43:42.013Z",
+  "fetchedAt": "2026-05-17T13:22:22.313Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -46,5 +46,11 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "nosić",
+    "nieść",
+    "wozić",
+    "wieźć"
+  ]
 }

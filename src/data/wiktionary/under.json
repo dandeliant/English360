@@ -1,7 +1,7 @@
 {
   "lemma": "under",
   "slug": "under",
-  "fetchedAt": "2026-05-16T23:47:39.281Z",
+  "fetchedAt": "2026-05-17T13:25:48.814Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -96,5 +96,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pod",
+    "poniżej",
+    "mniej niż"
+  ]
 }

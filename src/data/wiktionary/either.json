@@ -1,7 +1,7 @@
 {
   "lemma": "either",
   "slug": "either",
-  "fetchedAt": "2026-05-17T08:59:03.413Z",
+  "fetchedAt": "2026-05-17T13:22:56.596Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -65,5 +65,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "oba",
+    "też nie",
+    "albo",
+    "ani ... ani",
+    "bądź"
+  ]
 }

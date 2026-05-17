@@ -1,7 +1,7 @@
 {
   "lemma": "gild",
   "slug": "gild",
-  "fetchedAt": "2026-05-16T23:44:41.734Z",
+  "fetchedAt": "2026-05-17T13:23:23.072Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -30,5 +30,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "pozłacać"
+  ]
 }

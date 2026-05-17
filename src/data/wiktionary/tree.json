@@ -1,7 +1,7 @@
 {
   "lemma": "tree",
   "slug": "tree",
-  "fetchedAt": "2026-05-17T09:01:11.689Z",
+  "fetchedAt": "2026-05-17T13:25:46.213Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "drzewo",
+    "prawidło",
+    "zioło"
+  ]
 }

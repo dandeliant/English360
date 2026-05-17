@@ -1,7 +1,7 @@
 {
   "lemma": "sheer",
   "slug": "sheer",
-  "fetchedAt": "2026-05-17T09:00:41.198Z",
+  "fetchedAt": "2026-05-17T13:25:05.012Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -72,5 +72,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przezroczysty",
+    "czysty",
+    "urwisty"
+  ]
 }

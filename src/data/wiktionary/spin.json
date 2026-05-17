@@ -1,7 +1,7 @@
 {
   "lemma": "spin",
   "slug": "spin",
-  "fetchedAt": "2026-05-16T23:47:03.386Z",
+  "fetchedAt": "2026-05-17T13:25:18.262Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -54,5 +54,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "obracać się",
+    "wirować",
+    "prząść",
+    "obrót",
+    "spin"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "alone",
   "slug": "alone",
-  "fetchedAt": "2026-05-17T08:57:59.176Z",
+  "fetchedAt": "2026-05-17T13:21:48.871Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -50,5 +50,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "sam",
+    "samotnie",
+    "samodzielnie"
+  ]
 }

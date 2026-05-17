@@ -1,7 +1,7 @@
 {
   "lemma": "branch",
   "slug": "branch",
-  "fetchedAt": "2026-05-16T23:43:30.632Z",
+  "fetchedAt": "2026-05-17T13:22:10.707Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -36,5 +36,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "gałąź",
+    "rozgałęzienie",
+    "oddział",
+    "filia",
+    "agenda"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "yellow",
   "slug": "yellow",
-  "fetchedAt": "2026-05-16T23:48:00.793Z",
+  "fetchedAt": "2026-05-17T13:26:14.341Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -68,5 +68,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "żółć",
+    "żółty",
+    "tchórzliwy",
+    "żółknąć",
+    "żółcić"
+  ]
 }

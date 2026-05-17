@@ -1,7 +1,7 @@
 {
   "lemma": "sweet",
   "slug": "sweet",
-  "fetchedAt": "2026-05-17T09:01:01.489Z",
+  "fetchedAt": "2026-05-17T13:25:29.855Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -75,5 +75,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "słodko",
+    "cukierek",
+    "słodycze"
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "lemma": "cross-pollination",
   "slug": "crosspollination",
-  "fetchedAt": "2026-05-16T23:43:57.445Z",
+  "fetchedAt": "2026-05-17T13:22:41.406Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -17,5 +17,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

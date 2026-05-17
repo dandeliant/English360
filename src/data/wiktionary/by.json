@@ -1,7 +1,7 @@
 {
   "lemma": "by",
   "slug": "by",
-  "fetchedAt": "2026-05-17T08:58:19.698Z",
+  "fetchedAt": "2026-05-17T13:22:18.830Z",
   "en": [
     {
       "partOfSpeech": "Preposition",
@@ -88,5 +88,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przy",
+    "obok",
+    "do",
+    "przez",
+    "na"
+  ]
 }

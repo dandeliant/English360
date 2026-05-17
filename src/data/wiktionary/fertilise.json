@@ -1,7 +1,7 @@
 {
   "lemma": "fertilise",
   "slug": "fertilise",
-  "fetchedAt": "2026-05-16T23:44:25.092Z",
+  "fetchedAt": "2026-05-17T13:23:08.367Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -13,5 +13,6 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": []
 }

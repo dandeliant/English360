@@ -1,7 +1,7 @@
 {
   "lemma": "solitary",
   "slug": "solitary",
-  "fetchedAt": "2026-05-17T09:00:49.027Z",
+  "fetchedAt": "2026-05-17T13:25:15.197Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -54,5 +54,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "samotnik",
+    "odludek",
+    "samotny",
+    "samodzielny",
+    "odludny"
+  ]
 }

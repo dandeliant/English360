@@ -1,7 +1,7 @@
 {
   "lemma": "single",
   "slug": "single",
-  "fetchedAt": "2026-05-16T23:46:50.267Z",
+  "fetchedAt": "2026-05-17T13:25:08.584Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -62,5 +62,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "jeden",
+    "pojedynczy",
+    "jednolity",
+    "cały",
+    "jednoosobowy"
+  ]
 }

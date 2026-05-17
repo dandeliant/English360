@@ -1,7 +1,7 @@
 {
   "lemma": "there",
   "slug": "there",
-  "fetchedAt": "2026-05-16T23:47:24.923Z",
+  "fetchedAt": "2026-05-17T13:25:37.498Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -107,5 +107,8 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "tam"
+  ]
 }

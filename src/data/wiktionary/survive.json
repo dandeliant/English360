@@ -1,7 +1,7 @@
 {
   "lemma": "survive",
   "slug": "survive",
-  "fetchedAt": "2026-05-17T09:01:00.471Z",
+  "fetchedAt": "2026-05-17T13:25:28.936Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -28,5 +28,10 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "przeżywać",
+    "przeżyć",
+    "przetrwać"
+  ]
 }

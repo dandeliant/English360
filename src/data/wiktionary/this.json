@@ -1,7 +1,7 @@
 {
   "lemma": "this",
   "slug": "this",
-  "fetchedAt": "2026-05-16T23:47:27.542Z",
+  "fetchedAt": "2026-05-17T13:25:39.653Z",
   "en": [
     {
       "partOfSpeech": "Determiner",
@@ -68,5 +68,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "ten",
+    "ta",
+    "to",
+    "ci",
+    "te"
+  ]
 }

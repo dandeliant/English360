@@ -1,7 +1,7 @@
 {
   "lemma": "being",
   "slug": "being",
-  "fetchedAt": "2026-05-16T23:43:24.758Z",
+  "fetchedAt": "2026-05-17T13:22:04.450Z",
   "en": [
     {
       "partOfSpeech": "Verb",
@@ -39,5 +39,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "stwór",
+    "istota",
+    "istnienie",
+    "bycie",
+    "byt"
+  ]
 }

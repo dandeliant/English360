@@ -1,7 +1,7 @@
 {
   "lemma": "white",
   "slug": "white",
-  "fetchedAt": "2026-05-17T09:01:23.681Z",
+  "fetchedAt": "2026-05-17T13:26:00.987Z",
   "en": [
     {
       "partOfSpeech": "Adjective",
@@ -41,5 +41,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "biały",
+    "białoskóry",
+    "blady",
+    "siwy",
+    "biel"
+  ]
 }

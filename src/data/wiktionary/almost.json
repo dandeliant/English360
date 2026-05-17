@@ -1,7 +1,7 @@
 {
   "lemma": "almost",
   "slug": "almost",
-  "fetchedAt": "2026-05-16T23:43:02.738Z",
+  "fetchedAt": "2026-05-17T13:21:48.340Z",
   "en": [
     {
       "partOfSpeech": "Adverb",
@@ -41,5 +41,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "prawie",
+    "niemalże",
+    "niemal",
+    "omal",
+    "bez mała"
+  ]
 }

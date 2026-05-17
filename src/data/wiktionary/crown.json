@@ -1,7 +1,7 @@
 {
   "lemma": "crown",
   "slug": "crown",
-  "fetchedAt": "2026-05-17T08:58:49.005Z",
+  "fetchedAt": "2026-05-17T13:22:42.074Z",
   "en": [
     {
       "partOfSpeech": "Noun",
@@ -56,5 +56,12 @@
       ]
     }
   ],
-  "pl": null
+  "pl": null,
+  "translations": [
+    "korona",
+    "wianek",
+    "wianuszek",
+    "wieniec",
+    "ciemię"
+  ]
 }
