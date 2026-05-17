@@ -30,20 +30,22 @@
         { "term": "yellow", "ipa_br": "/ˈjeləʊ/", "pl": "żółty", "new": false },
         { "term": "sunny", "ipa_br": "/ˈsʌni/", "pl": "słoneczny", "new": true }
       ],
-      "exercise": {
-        "type": "match",
-        "prompt": "Match the word to the picture.",
-        "items": [
-          { "word": "bee", "answer": "A" },
-          { "word": "flower", "answer": "B" },
-          { "word": "sun", "answer": "C" }
-        ],
-        "choices": [
-          { "label": "A", "text": "🐝" },
-          { "label": "B", "text": "🌸" },
-          { "label": "C", "text": "☀️" }
-        ]
-      }
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "bee", "answer": "A" },
+            { "word": "flower", "answer": "B" },
+            { "word": "sun", "answer": "C" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🐝" },
+            { "label": "B", "text": "🌸" },
+            { "label": "C", "text": "☀️" }
+          ]
+        }
+      ]
     },
     "A2": {
       "text": "Look at this little bee. It is sitting on a purple lavender flower. The bee is drinking from the flower. Its wings are clear and very thin. There are many flowers in the garden, but this bee is staying on one flower for a long time. The sun is shining and the colours are bright. The bee is busy, but it also looks calm.",
@@ -57,16 +59,18 @@
         { "term": "busy", "ipa_br": "/ˈbɪzi/", "pl": "zajęty", "new": false },
         { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true }
       ],
-      "exercise": {
-        "type": "gap",
-        "prompt": "Uzupełnij zdania jednym słowem, które pasuje do tekstu.",
-        "items": [
-          { "sentence": "The bee is ___ on the flower.", "answer": "sitting", "alts": ["sat"] },
-          { "sentence": "The flower is ___.", "answer": "purple", "alts": ["violet"] },
-          { "sentence": "The wings of the bee are very ___.", "answer": "thin" },
-          { "sentence": "The bee is ___ but also calm.", "answer": "busy" }
-        ]
-      }
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem, które pasuje do tekstu.",
+          "items": [
+            { "sentence": "The bee is ___ on the flower.", "answer": "sitting", "alts": ["sat"] },
+            { "sentence": "The flower is ___.", "answer": "purple", "alts": ["violet"] },
+            { "sentence": "The wings of the bee are very ___.", "answer": "thin" },
+            { "sentence": "The bee is ___ but also calm.", "answer": "busy" }
+          ]
+        }
+      ]
     },
     "B1": {
       "text": "On a warm afternoon in southern France, a honey bee landed gently on a stalk of lavender. Lavender grows in long, low fields across Provence and gives the region its famous purple colour every summer. The bee moved from one flower to the next, collecting nectar in tiny amounts. It also carried pollen on its back legs — without noticing — which helps new lavender plants grow next year. Bees and lavender depend on each other: the flower feeds the bee, and the bee carries the flower's pollen to other plants nearby.",
@@ -81,17 +85,19 @@
         { "term": "depend on", "ipa_br": "/dɪˈpend ɒn/", "pl": "zależeć od", "new": false },
         { "term": "nearby", "ipa_br": "/ˌnɪəˈbaɪ/", "pl": "w pobliżu", "new": false }
       ],
-      "exercise": {
-        "type": "tf",
-        "prompt": "Decide if each statement is true or false based on the text.",
-        "items": [
-          { "statement": "The bee landed on lavender in northern France.", "answer": false },
-          { "statement": "Bees collect nectar from lavender flowers.", "answer": true },
-          { "statement": "Bees carry pollen on their wings.", "answer": false },
-          { "statement": "Lavender turns Provence purple every summer.", "answer": true },
-          { "statement": "Bees and lavender do not need each other.", "answer": false }
-        ]
-      }
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The bee landed on lavender in northern France.", "answer": false },
+            { "statement": "Bees collect nectar from lavender flowers.", "answer": true },
+            { "statement": "Bees carry pollen on their wings.", "answer": false },
+            { "statement": "Lavender turns Provence purple every summer.", "answer": true },
+            { "statement": "Bees and lavender do not need each other.", "answer": false }
+          ]
+        }
+      ]
     },
     "B2": {
       "text": "Honey bees are not just casual visitors to a lavender field — they are essential pollinators whose quiet work shapes whole landscapes. As the bee in the photograph hovers from one bloom to the next, it transfers pollen between plants in a process called cross-pollination, without which most of our fruit, vegetables and nuts simply would not exist. The bee's body, covered in soft, branched hairs, is perfectly adapted for the job: pollen sticks to it almost effortlessly. After several hours of foraging, the insect grows drowsy in the afternoon heat and may even pause on a warm petal before heading back to the hive, its hind legs heavy with golden cargo.",
@@ -107,16 +113,30 @@
         { "term": "petal", "ipa_br": "/ˈpetəl/", "pl": "płatek (kwiatu)", "new": true },
         { "term": "hind legs", "ipa_br": "/haɪnd leɡz/", "pl": "tylne odnóża", "new": true }
       ],
-      "exercise": {
-        "type": "wordform",
-        "prompt": "Wstaw poprawną formę słowa z nawiasu, tak aby zdanie miało sens.",
-        "items": [
-          { "stem": "pollinate", "sentence": "Bees are essential ___ for many of our food crops.", "answer": "pollinators" },
-          { "stem": "forage", "sentence": "The bee spent the morning ___ among the lavender.", "answer": "foraging" },
-          { "stem": "pollinate", "sentence": "Without cross-___, many crops would disappear.", "answer": "pollination" },
-          { "stem": "drowsy", "sentence": "The afternoon heat made the bee almost ___ on the petal.", "answer": "drowsy", "hint": "no change to the stem is needed" }
-        ]
-      }
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "Honey bees are merely decorative visitors to lavender fields.", "answer": false },
+            { "statement": "Cross-pollination is essential for most fruit, vegetables and nuts.", "answer": true },
+            { "statement": "The bee's body is poorly suited for collecting pollen.", "answer": false },
+            { "statement": "The bee may pause on a warm petal before returning to the hive.", "answer": true },
+            { "statement": "By the time the bee heads home, its hind legs are unburdened.", "answer": false },
+            { "statement": "Foraging is described as a fast, energetic activity that keeps the bee alert.", "answer": false }
+          ]
+        },
+        {
+          "type": "wordform",
+          "prompt": "Wstaw poprawną formę słowa z nawiasu, tak aby zdanie miało sens.",
+          "items": [
+            { "stem": "pollinate", "sentence": "Bees are essential ___ for many of our food crops.", "answer": "pollinators" },
+            { "stem": "forage", "sentence": "The bee spent the morning ___ among the lavender.", "answer": "foraging" },
+            { "stem": "pollinate", "sentence": "Without cross-___, many crops would disappear.", "answer": "pollination" },
+            { "stem": "drowsy", "sentence": "The afternoon heat made the bee almost ___ on the petal.", "answer": "drowsy", "hint": "no change to the stem is needed" }
+          ]
+        }
+      ]
     },
     "C1": {
       "text": "The bee in this image embodies a paradox that has fascinated naturalists for centuries: a creature both relentlessly industrious and apparently at ease. Anchored on a single sprig of lavender, it appears momentarily suspended — wings half-folded, antennae barely twitching — and yet its labour is constant. Every visit to a flower represents a tiny, precise transaction: a sip of nectar in exchange for a smear of pollen that will be carried, often miles away, to fertilise a distant bloom. Such partnerships, refined over tens of millions of years, are easy to overlook in a single photograph. Look more closely, however, and the bee becomes a small ambassador of a vast ecological network — one that quietly underpins our meadows, our orchards and, indirectly, our breakfast tables. To watch it linger on lavender is to watch summer doing its work.",
@@ -133,16 +153,30 @@
         { "term": "linger", "ipa_br": "/ˈlɪŋɡə/", "pl": "zwlekać, ociągać się", "new": true },
         { "term": "ambassador", "ipa_br": "/æmˈbæsədə/", "pl": "ambasador (przen.)", "new": false }
       ],
-      "exercise": {
-        "type": "paraphrase",
-        "prompt": "Przeformułuj zdanie tak, aby zachować znaczenie, używając podanego słowa kluczowego.",
-        "items": [
-          { "original": "The bee works very hard without ever stopping.", "keyword": "industrious", "answer": "The bee is relentlessly industrious." },
-          { "original": "Bees are the foundation of the whole food system.", "keyword": "underpin", "answer": "Bees underpin the whole food system." },
-          { "original": "The bee stays on the flower for a moment longer than expected.", "keyword": "linger", "answer": "The bee lingers on the flower." },
-          { "original": "This creature is a perfect example of industry and calm at the same time.", "keyword": "embody", "answer": "This creature embodies both industry and calm at the same time." }
-        ]
-      }
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "Naturalists have only recently begun paying attention to bees.", "answer": false },
+            { "statement": "Every visit the bee makes to a flower involves a small exchange of nectar and pollen.", "answer": true },
+            { "statement": "The pollen the bee picks up always remains in the same field of lavender.", "answer": false },
+            { "statement": "The bee-flower partnership has developed over tens of millions of years.", "answer": true },
+            { "statement": "The author calls the bee an ambassador of a wider ecological network.", "answer": true },
+            { "statement": "According to the text, the bee's labour briefly stops while it rests on the lavender.", "answer": false }
+          ]
+        },
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie tak, aby zachować znaczenie, używając podanego słowa kluczowego.",
+          "items": [
+            { "original": "The bee works very hard without ever stopping.", "keyword": "industrious", "answer": "The bee is relentlessly industrious." },
+            { "original": "Bees are the foundation of the whole food system.", "keyword": "underpin", "answer": "Bees underpin the whole food system." },
+            { "original": "The bee stays on the flower for a moment longer than expected.", "keyword": "linger", "answer": "The bee lingers on the flower." },
+            { "original": "This creature is a perfect example of industry and calm at the same time.", "keyword": "embody", "answer": "This creature embodies both industry and calm at the same time." }
+          ]
+        }
+      ]
     },
     "C2": {
       "text": "Few subjects are more inexhaustible than the apian visitor to a lavender field. The slender hairs that gild the bee's thorax catch the light like filaments of spun gold; its wings, almost transparent and laced with veining as delicate as gossamer, hum in a sub-vocal frequency that the human ear barely registers. The lavender, for its part, offers itself with the calm extravagance of midsummer — corollas slightly cupped, calyces dusted with the day's pollen, the whole spike trembling under the weight of even so light a guest. There is something almost ceremonial about the encounter: a moment of intricate mutualism enacted in miniature, against the broader theatre of pollination on which our food systems quietly hinge. Were one inclined to anthropomorphise — and naturalists rightly resist the temptation — one might call the bee's manner courteous: it neither hurries nor lingers, but transacts its business and is gone, leaving the lavender to its slow, fragrant business of being lavender, and the rest of us to mind ours.",
@@ -160,13 +194,27 @@
         { "term": "courteous", "ipa_br": "/ˈkɜːtiəs/", "pl": "uprzejmy, kurtuazyjny", "new": true },
         { "term": "hinge on", "ipa_br": "/hɪndʒ ɒn/", "pl": "zależeć od (przen.)", "new": true }
       ],
-      "exercise": {
-        "type": "cloze",
-        "prompt": "Uzupełnij luki w tekście jednym słowem na każdą lukę, dopasowując rejestr do oryginału.",
-        "passage": "Few creatures embody the spirit of European summer like the ___ visitor to a lavender field. Its translucent wings hum in a ___ frequency, almost beyond hearing, while its body — dusted with golden ___ — moves with practised precision from bloom to bloom. The relationship between bee and flower is a textbook example of ___, refined over millions of years and quietly essential to the food systems on which our species ultimately ___.",
-        "answers": ["apian", "sub-vocal", "pollen", "mutualism", "hinges"],
-        "hints": ["adj., literary, of bees", "adj., below the threshold of hearing", "noun, what the bee carries", "noun, mutual partnership", "verb, depends on (figurative)"]
-      }
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The bee's wings produce a sound that the human ear easily detects.", "answer": false },
+            { "statement": "The author treats anthropomorphising the bee as a temptation worth resisting.", "answer": true },
+            { "statement": "The lavender is depicted as withholding itself, reluctant to receive the bee.", "answer": false },
+            { "statement": "Pollination is described as a process on which our food systems quietly depend.", "answer": true },
+            { "statement": "The bee is portrayed as lingering on the lavender well past the time needed for its task.", "answer": false },
+            { "statement": "The encounter between bee and lavender is described as having a ceremonial quality.", "answer": true }
+          ]
+        },
+        {
+          "type": "cloze",
+          "prompt": "Uzupełnij luki w tekście jednym słowem na każdą lukę, dopasowując rejestr do oryginału.",
+          "passage": "Few creatures embody the spirit of European summer like the ___ visitor to a lavender field. Its translucent wings hum in a ___ frequency, almost beyond hearing, while its body — dusted with golden ___ — moves with practised precision from bloom to bloom. The relationship between bee and flower is a textbook example of ___, refined over millions of years and quietly essential to the food systems on which our species ultimately ___.",
+          "answers": ["apian", "sub-vocal", "pollen", "mutualism", "hinges"],
+          "hints": ["adj., literary, of bees", "adj., below the threshold of hearing", "noun, what the bee carries", "noun, mutual partnership", "verb, depends on (figurative)"]
+        }
+      ]
     }
   }
 }

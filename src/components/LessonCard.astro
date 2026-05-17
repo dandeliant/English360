@@ -126,7 +126,11 @@ const initialLevel =
             )}
 
             <VocabTable vocab={content.vocab} />
-            <Exercise exercise={content.exercise} />
+            {content.exercises && content.exercises.length > 0 ? (
+              content.exercises.map((ex) => <Exercise exercise={ex} />)
+            ) : (
+              <Exercise exercise={undefined} />
+            )}
           </>
         )}
       </section>

@@ -126,7 +126,10 @@ const levelSchema = z
      *  disabled "PL" toggle when missing for a given level. */
     text_pl: z.string().optional(),
     vocab: z.array(vocabItemSchema).optional(),
-    exercise: exerciseSchema.optional(),
+    /** One or more exercises rendered in order. Multiple exercises
+     *  (e.g. a comprehension TF + a vocab wordform) can coexist on a
+     *  single level. */
+    exercises: z.array(exerciseSchema).optional(),
   })
   .optional();
 
