@@ -126,6 +126,21 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
             ))}
           </select>
         </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Autor zdjęcia (photo_credit)</span>
+          <input
+            type="text"
+            name="photo_credit"
+            value={data.photo_credit || ''}
+            class="admin-form__input"
+            placeholder="np. Daniel Ostrowski"
+          />
+          <span class="admin-form__hint">
+            Wyświetla się jako podpis pod zdjęciem („Fot. ..."). Możesz wpisać też licencję,
+            np. „Daniel Ostrowski (CC BY 4.0)".
+          </span>
+        </label>
       </fieldset>
 
       <fieldset class="admin-form__fieldset">

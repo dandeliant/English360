@@ -148,6 +148,10 @@ const lessonsCollection = defineCollection({
     location: z.string().optional(),
     image: z.string().min(1).describe('Path under /public, e.g. /images/2026-05-14-bee.jpg'),
     image_orientation: z.enum(['landscape', 'portrait', 'square']).default('landscape'),
+    /** Photographer's name (and optional licence note) shown as a small
+     *  figcaption under the image. Single string keeps the schema simple;
+     *  if licences ever matter, switch to an object later. */
+    photo_credit: z.string().optional(),
     tags: z.array(z.string()).default([]),
     themes: z.array(z.string()).default([]),
     did_you_know: z

@@ -49,6 +49,11 @@ const wordIndex = await buildWordIndex();
         width={data.image_orientation === 'portrait' ? 800 : 1500}
         height={data.image_orientation === 'portrait' ? 1200 : 1000}
       />
+      {data.photo_credit && (
+        <figcaption class="lesson-card__credit">
+          <span class="lesson-card__credit-label">Fot.</span> {data.photo_credit}
+        </figcaption>
+      )}
     </figure>
 
     <div class="lesson-card__titles">
@@ -198,6 +203,26 @@ const wordIndex = await buildWordIndex();
 
   .lesson-card__image--portrait { aspect-ratio: 2 / 3; }
   .lesson-card__image--square { aspect-ratio: 1; }
+
+  .lesson-card__credit {
+    padding: var(--space-2) var(--space-4);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-style: italic;
+    color: var(--text-muted);
+    background: var(--surface-2);
+    border-block-start: 1px solid var(--border);
+    letter-spacing: 0.02em;
+  }
+
+  .lesson-card__credit-label {
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-faint);
+    margin-inline-end: var(--space-1);
+  }
 
   @media (min-width: 48rem) {
     .lesson-card__image {
