@@ -15,6 +15,10 @@ const {
 } = Astro.props;
 
 const fullTitle = title.includes('English 360') ? title : `${title} · English 360°`;
+
+const pathname = Astro.url.pathname;
+const isOnCalendar = pathname.startsWith('/kalendarz');
+const isOnDict = pathname.startsWith('/slownik');
 ---
 <!doctype html>
 <html lang="pl">
@@ -67,7 +71,21 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
           <span class="site-logo__mark" aria-hidden="true">EN<span class="site-logo__deg">°</span></span>
           <span class="site-logo__name">English 360°</span>
         </a>
-        <ThemeToggle />
+        <div class="site-header__right">
+          <nav class="site-nav" aria-label="Główna nawigacja">
+            <a
+              href="/kalendarz"
+              class:list={['site-nav__link', isOnCalendar && 'site-nav__link--active']}
+              aria-current={isOnCalendar ? 'page' : undefined}
+            >Kalendarz</a>
+            <a
+              href="/slownik"
+              class:list={['site-nav__link', isOnDict && 'site-nav__link--active']}
+              aria-current={isOnDict ? 'page' : undefined}
+            >Słownik</a>
+          </nav>
+          <ThemeToggle />
+        </div>
       </div>
     </header>
 
@@ -113,6 +131,53 @@ const fullTitle = title.includes('English 360') ? title : `${title} · English 3
     justify-content: space-between;
     gap: var(--space-3);
     min-block-size: var(--header-height);
+  }
+
+  .site-header__right {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .site-nav {
+    display: flex;
+    gap: var(--space-1);
+  }
+
+  .site-nav__link {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-2) var(--space-3);
+    color: var(--text-muted);
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    transition: background-color 100ms ease, color 100ms ease;
+  }
+
+  .site-nav__link:hover {
+    background: var(--surface-2);
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .site-nav__link--active {
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+    color: var(--accent);
+  }
+
+  .site-nav__link--active:hover {
+    background: color-mix(in srgb, var(--accent) 18%, transparent);
+    color: var(--accent);
+  }
+
+  @media (max-width: 30rem) {
+    .site-nav__link {
+      padding: var(--space-2);
+      font-size: var(--text-xs);
+    }
   }
 
   .site-logo {
