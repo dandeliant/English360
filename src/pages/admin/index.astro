@@ -1,0 +1,145 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const lessons = await getCollection('lessons');
+const sorted = [...lessons].sort((a, b) =>
+  b.data.date_assigned.localeCompare(a.data.date_assigned),
+);
+---
+<BaseLayout title="Admin · English 360°" description="Panel administracyjny English 360°.">
+  <div class="page admin">
+    <header class="admin__header">
+      <p class="admin__breadcrumb"><a href="/">← Strona główna</a></p>
+      <h1>Panel admina</h1>
+      <p class="admin__lead">
+        Edytujesz pliki bezpośrednio w repo. Endpoint zapisu działa
+        <strong>tylko gdy uruchomione <code>npm run dev</code></strong> —
+        na produkcji formularze pokażą błąd. Zmiany trafiają do gitów jako
+        modyfikacje, które sam pushujesz, gdy chcesz deploy.
+      </p>
+    </header>
+
+    <section class="admin__section">
+      <h2>Lekcje ({sorted.length})</h2>
+      <ul class="admin__list">
+        {sorted.map((l) => (
+          <li class="admin__list-item">
+            <a class="admin__list-link" href={`/admin/lekcja/${l.id}`}>
+              <span class="admin__list-date">{l.data.date_assigned}</span>
+              <span class="admin__list-title">{l.data.title_pl}</span>
+              <span class="admin__list-sub">{l.data.title_en}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="admin__section">
+      <h2>Wskazówki</h2>
+      <ul class="admin__tips">
+        <li>Po zapisie HMR przeładuje stronę lekcji w przeglądarce.</li>
+        <li>Zapis zmienia plik w <code>src/content/lessons/</code> — sprawdź <code>git status</code>, gdy skończysz.</li>
+        <li><code>git commit</code> + <code>git push</code> → Cloudflare zbuduje i wypchnie produkcję.</li>
+        <li>Cofnięcie zmiany: <code>git restore &lt;plik&gt;</code> przed commitem.</li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .admin {
+    max-inline-size: 64rem;
+  }
+
+  .admin__header {
+    margin-block-end: var(--space-6);
+  }
+
+  .admin__breadcrumb {
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-3);
+  }
+
+  .admin__breadcrumb a { color: var(--accent); }
+
+  .admin__lead {
+    max-inline-size: var(--content-width);
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    color: var(--text-muted);
+    line-height: var(--leading-relaxed);
+    margin-block-start: var(--space-3);
+  }
+
+  .admin__lead code,
+  .admin__tips code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    background: var(--surface-2);
+    padding: 1px var(--space-2);
+    border-radius: var(--radius-sm);
+  }
+
+  .admin__section { margin-block-end: var(--space-6); }
+
+  .admin__list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-2);
+    padding: 0;
+  }
+
+  @media (min-width: 48rem) {
+    .admin__list { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  .admin__list-link {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto;
+    column-gap: var(--space-3);
+    row-gap: 2px;
+    align-items: baseline;
+    padding: var(--space-3) var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: background-color 100ms ease, border-color 100ms ease;
+  }
+
+  .admin__list-link:hover {
+    background: color-mix(in srgb, var(--accent) 6%, var(--surface));
+    border-color: var(--accent);
+    text-decoration: none;
+  }
+
+  .admin__list-date {
+    grid-row: 1 / span 2;
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    align-self: center;
+  }
+
+  .admin__list-title {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .admin__list-sub {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+  }
+
+  .admin__tips {
+    list-style: disc;
+    padding-inline-start: var(--space-5);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    line-height: var(--leading-relaxed);
+  }
+</style>

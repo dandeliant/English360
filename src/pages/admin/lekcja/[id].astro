@@ -1,0 +1,403 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection, type CollectionEntry } from 'astro:content';
+
+export async function getStaticPaths() {
+  const lessons = await getCollection('lessons');
+  return lessons.map((lesson) => ({
+    params: { id: lesson.id },
+    props: { lesson },
+  }));
+}
+
+interface Props {
+  lesson: CollectionEntry<'lessons'>;
+}
+
+const { lesson } = Astro.props;
+const data = lesson.data;
+
+const orientationOptions = ['landscape', 'portrait', 'square'] as const;
+---
+<BaseLayout title={`Edycja: ${data.title_pl} · Admin`}>
+  <div class="page admin admin-edit">
+    <p class="admin__breadcrumb">
+      <a href="/admin">← Panel admina</a>
+      {' · '}
+      <a href={`/lekcja/${lesson.id}`} target="_blank" rel="noopener">podgląd lekcji ↗</a>
+    </p>
+
+    <header class="admin-edit__header">
+      <h1 class="admin-edit__title">{data.title_pl}</h1>
+      <p class="admin-edit__id"><code>{lesson.id}</code></p>
+    </header>
+
+    <noscript>
+      <p class="admin-edit__notice admin-edit__notice--error">
+        Panel admina wymaga włączonego JavaScript.
+      </p>
+    </noscript>
+
+    <p class="admin-edit__notice admin-edit__notice--dev-only">
+      Zapis działa wyłącznie podczas <code>npm run dev</code>. W produkcji formularz pokaże błąd.
+    </p>
+
+    <form
+      data-admin-form
+      data-lesson-id={lesson.id}
+      class="admin-form"
+    >
+      <script type="application/json" data-initial-data set:html={JSON.stringify(data)} />
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Identyfikacja</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">ID</span>
+          <input type="text" value={data.id} readonly class="admin-form__input admin-form__input--readonly" />
+          <span class="admin-form__hint">Read-only. Wynika z nazwy pliku JSON.</span>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Data dnia (date_assigned)</span>
+          <input type="text" name="date_assigned" value={data.date_assigned} pattern="\d{4}-\d{2}-\d{2}" class="admin-form__input" />
+          <span class="admin-form__hint">Format YYYY-MM-DD. Określa, w którym dniu kalendarza lekcja jest „lekcją dnia".</span>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Daty alternatywne (jedna na linię)</span>
+          <textarea name="date_alternatives" rows="3" class="admin-form__textarea">{(data.date_alternatives || []).join('\n')}</textarea>
+          <span class="admin-form__hint">Wpisz dodatkowe daty (YYYY-MM-DD), na których lekcja może się pojawić, gdy główna jest zajęta.</span>
+        </label>
+      </fieldset>
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Tytuły</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Tytuł EN</span>
+          <input type="text" name="title_en" value={data.title_en} class="admin-form__input" required />
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Tytuł PL</span>
+          <input type="text" name="title_pl" value={data.title_pl} class="admin-form__input" required />
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Lokalizacja</span>
+          <input type="text" name="location" value={data.location || ''} class="admin-form__input" placeholder="np. Łuków, Poland" />
+        </label>
+      </fieldset>
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Zdjęcie</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Ścieżka (image)</span>
+          <input type="text" name="image" value={data.image} class="admin-form__input" required />
+          <span class="admin-form__hint">np. <code>/images/2025-05-10-tree-yellow.jpg</code></span>
+        </label>
+
+        {data.image && (
+          <div class="admin-form__preview">
+            <img src={data.image} alt="podgląd" loading="lazy" />
+          </div>
+        )}
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Orientacja</span>
+          <select name="image_orientation" class="admin-form__input">
+            {orientationOptions.map((o) => (
+              <option value={o} selected={data.image_orientation === o}>{o}</option>
+            ))}
+          </select>
+        </label>
+      </fieldset>
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Tagi i tematy</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Tagi</span>
+          <input type="text" name="tags" value={(data.tags || []).join(', ')} class="admin-form__input" placeholder="nature, spring, insects, ..." />
+          <span class="admin-form__hint">Oddziel przecinkami. Bez znaku #.</span>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Tematy (themes)</span>
+          <input type="text" name="themes" value={(data.themes || []).join(', ')} class="admin-form__input" placeholder="solitude, polish-countryside, ..." />
+          <span class="admin-form__hint">Oddziel przecinkami. Spacje wewnątrz tematu: użyj myślnika.</span>
+        </label>
+      </fieldset>
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Did you know</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">EN</span>
+          <textarea name="did_you_know.en" rows="3" class="admin-form__textarea">{data.did_you_know?.en || ''}</textarea>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">PL</span>
+          <textarea name="did_you_know.pl" rows="3" class="admin-form__textarea">{data.did_you_know?.pl || ''}</textarea>
+        </label>
+      </fieldset>
+
+      <fieldset class="admin-form__fieldset">
+        <legend>Social</legend>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">FB caption PL</span>
+          <textarea name="social.fb_caption_pl" rows="3" class="admin-form__textarea">{data.social?.fb_caption_pl || ''}</textarea>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">FB caption EN</span>
+          <textarea name="social.fb_caption_en" rows="3" class="admin-form__textarea">{data.social?.fb_caption_en || ''}</textarea>
+        </label>
+
+        <label class="admin-form__field">
+          <span class="admin-form__label">Hashtagi</span>
+          <input type="text" name="social.hashtags" value={(data.social?.hashtags || []).join(' ')} class="admin-form__input" placeholder="#English360 #LearnEnglish ..." />
+          <span class="admin-form__hint">Oddziel spacjami lub przecinkami. Znak <code>#</code> dorzucam, jeśli zapomnisz.</span>
+        </label>
+      </fieldset>
+
+      <div class="admin-form__actions">
+        <button type="submit" class="admin-form__save" data-action="save">💾 Zapisz</button>
+        <p class="admin-form__status" data-status aria-live="polite"></p>
+      </div>
+
+      <details class="admin-form__raw">
+        <summary>Surowy JSON (read-only podgląd całej lekcji)</summary>
+        <pre data-json-preview>{JSON.stringify(data, null, 2)}</pre>
+      </details>
+
+      <p class="admin-form__deferred">
+        <strong>Edycja poziomów (text/text_pl/vocab/exercises)</strong> w kolejnej fazie.
+        Na razie te pola edytuj bezpośrednio w pliku JSON i zapisuj — strona się przeładuje.
+      </p>
+    </form>
+  </div>
+</BaseLayout>
+
+<script>
+  import '../../../scripts/admin-form.js';
+</script>
+
+<style>
+  .admin-edit { max-inline-size: 56rem; }
+
+  .admin__breadcrumb {
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-3);
+  }
+
+  .admin__breadcrumb a { color: var(--accent); }
+
+  .admin-edit__header {
+    margin-block-end: var(--space-5);
+    padding-block-end: var(--space-4);
+    border-block-end: 1px solid var(--border);
+  }
+
+  .admin-edit__title {
+    font-family: var(--font-serif);
+    font-size: var(--text-2xl);
+    letter-spacing: -0.015em;
+  }
+
+  .admin-edit__id {
+    margin-block-start: var(--space-2);
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+
+  .admin-edit__notice {
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-4);
+  }
+
+  .admin-edit__notice--dev-only {
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+    color: var(--accent);
+    border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  }
+
+  .admin-edit__notice--error {
+    background: var(--error-bg);
+    color: var(--error);
+  }
+
+  .admin-edit__notice code,
+  .admin-form__hint code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+    padding: 1px 4px;
+    background: var(--surface);
+    border-radius: var(--radius-sm);
+  }
+
+  /* ── Form layout ───────────────────────────────────────────── */
+
+  .admin-form__fieldset {
+    margin-block-end: var(--space-5);
+    padding: var(--space-4) var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  .admin-form__fieldset legend {
+    padding-inline: var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+  }
+
+  .admin-form__field {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    margin-block: var(--space-3);
+  }
+
+  .admin-form__label {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  .admin-form__input,
+  .admin-form__textarea {
+    padding: var(--space-2) var(--space-3);
+    background: var(--bg);
+    color: var(--text);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    line-height: 1.4;
+  }
+
+  .admin-form__textarea {
+    font-family: var(--font-serif);
+    resize: vertical;
+    min-block-size: 4em;
+  }
+
+  .admin-form__input:focus-visible,
+  .admin-form__textarea:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 0;
+    border-color: var(--accent);
+  }
+
+  .admin-form__input--readonly {
+    background: var(--surface-2);
+    color: var(--text-muted);
+    cursor: not-allowed;
+  }
+
+  .admin-form__hint {
+    font-size: var(--text-xs);
+    color: var(--text-muted);
+  }
+
+  .admin-form__preview {
+    margin-block: var(--space-2);
+  }
+
+  .admin-form__preview img {
+    max-width: 100%;
+    max-height: 16rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border);
+  }
+
+  /* ── Actions ───────────────────────────────────────────────── */
+
+  .admin-form__actions {
+    position: sticky;
+    inset-block-end: 0;
+    margin-block: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    background: color-mix(in srgb, var(--bg) 95%, transparent);
+    backdrop-filter: blur(8px);
+    border-block-start: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+
+  .admin-form__save {
+    padding: var(--space-3) var(--space-5);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border: none;
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-base);
+    cursor: pointer;
+    transition: filter 100ms ease;
+  }
+
+  .admin-form__save:hover:not(:disabled) { filter: brightness(1.08); }
+  .admin-form__save:disabled { opacity: 0.6; cursor: not-allowed; }
+
+  .admin-form__status {
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+
+  .admin-form__status[data-tone='success'] { color: var(--success); }
+  .admin-form__status[data-tone='error'] { color: var(--error); }
+
+  .admin-form__raw {
+    margin-block: var(--space-4);
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+  }
+
+  .admin-form__raw summary {
+    cursor: pointer;
+    color: var(--text-muted);
+    padding-block: var(--space-1);
+  }
+
+  .admin-form__raw pre {
+    margin-block-start: var(--space-2);
+    padding: var(--space-3);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    overflow-x: auto;
+    font-size: var(--text-xs);
+    line-height: 1.4;
+    max-height: 24rem;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  .admin-form__deferred {
+    margin-block-start: var(--space-5);
+    padding: var(--space-3) var(--space-4);
+    background: var(--surface-2);
+    border-radius: var(--radius-md);
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+  }
+</style>

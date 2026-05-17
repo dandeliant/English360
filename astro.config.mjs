@@ -1,7 +1,10 @@
 import { defineConfig } from 'astro/config';
+import adminApi from './src/integrations/admin-api.mjs';
 
 // English 360° — static site generator config.
-// Phase 1: pure SSG, no integrations. Output is plain HTML + minimal JS.
+// Pure SSG output. The admin-api integration only registers Vite
+// middleware during `astro dev` — production builds remain static
+// HTML with no server endpoints.
 export default defineConfig({
   site: 'https://english360.example',
   trailingSlash: 'never',
@@ -9,4 +12,5 @@ export default defineConfig({
     format: 'directory',
   },
   compressHTML: true,
+  integrations: [adminApi()],
 });
