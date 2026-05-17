@@ -66,13 +66,71 @@ function collectFormPatch(form) {
       value = parseLines(raw);
     } else if (name === 'social.hashtags') {
       value = parseHashtags(raw);
+    } else if (name.startsWith('levels.') && name.endsWith('.text')) {
+      // Preserve trailing/leading newlines inside lesson text — don't trim.
+      value = raw;
+    } else if (name.startsWith('levels.') && name.endsWith('.text_pl')) {
+      value = raw;
     } else if (typeof raw === 'string') {
       value = raw.trim();
     }
 
     setNested(patch, name, value);
   }
+
+  // Vocab tables are not named inputs — they live in [data-vocab-list]
+  // and we serialise the visible rows directly. Skip empty rows.
+  for (const list of form.querySelectorAll('[data-vocab-list]')) {
+    const level = list.dataset.level;
+    if (!level) continue;
+    const vocab = collectVocabRows(list);
+    setNested(patch, `levels.${level}.vocab`, vocab);
+  }
+
   return patch;
+}
+
+function collectVocabRows(listEl) {
+  return [...listEl.querySelectorAll('[data-vocab-row]')]
+    .map((row) => {
+      const term = (row.querySelector('[data-field="term"]')?.value || '').trim();
+      const ipa = (row.querySelector('[data-field="ipa_br"]')?.value || '').trim();
+      const pl = (row.querySelector('[data-field="pl"]')?.value || '').trim();
+      const isNew = row.querySelector('[data-field="new"]')?.checked === true;
+      if (!term || !pl) return null;
+      const out = { term, pl, new: isNew };
+      if (ipa) out.ipa_br = ipa;
+      return out;
+    })
+    .filter(Boolean);
+}
+
+function bindVocabControls(form) {
+  // Add row: clone the <template> and append to the matching list.
+  form.querySelectorAll('[data-add-vocab]').forEach((btn) => {
+    if (btn.dataset.bound === 'true') return;
+    btn.dataset.bound = 'true';
+    btn.addEventListener('click', () => {
+      const level = btn.dataset.level;
+      const list = form.querySelector(`[data-vocab-list][data-level="${level}"]`);
+      const tmpl = form.querySelector('[data-vocab-template]');
+      if (!list || !tmpl) return;
+      const node = tmpl.content.firstElementChild.cloneNode(true);
+      list.appendChild(node);
+      node.querySelector('[data-field="term"]')?.focus();
+    });
+  });
+
+  // Remove row: event delegation so dynamically-added rows work.
+  if (form.dataset.vocabDelegationBound !== 'true') {
+    form.dataset.vocabDelegationBound = 'true';
+    form.addEventListener('click', (event) => {
+      const btn = event.target.closest && event.target.closest('[data-remove-vocab]');
+      if (!btn) return;
+      const row = btn.closest('[data-vocab-row]');
+      if (row) row.remove();
+    });
+  }
 }
 
 function deepMerge(target, source) {
@@ -152,6 +210,7 @@ function init() {
     if (form.dataset.adminFormBound === 'true') return;
     form.dataset.adminFormBound = 'true';
     form.addEventListener('submit', handleSubmit);
+    bindVocabControls(form);
   });
 }
 

@@ -2,6 +2,7 @@
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 import AdminLoginGate from '../../../components/AdminLoginGate.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { CEFR_LEVELS, CEFR_DESCRIPTIONS } from '../../../utils/cefr.ts';
 
 export async function getStaticPaths() {
   const lessons = await getCollection('lessons');
@@ -177,6 +178,120 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
         </label>
       </fieldset>
 
+      <fieldset class="admin-form__fieldset">
+        <legend>Poziomy CEFR</legend>
+        <p class="admin-form__hint">
+          Rozwiń poziom, by edytować tekst EN, tłumaczenie PL i słownictwo.
+          Ćwiczenia są na razie tylko do podglądu — pełna edycja w kolejnej fazie.
+        </p>
+
+        {CEFR_LEVELS.map((level) => {
+          const lv = data.levels?.[level] || {};
+          const vocab = lv.vocab || [];
+          const exercises = lv.exercises || [];
+          const hasText = Boolean(lv.text);
+          const hasPl = Boolean(lv.text_pl);
+          return (
+            <details class="admin-form__level">
+              <summary class="admin-form__level-summary">
+                <strong>{level}</strong>
+                <span class="admin-form__level-desc">{CEFR_DESCRIPTIONS[level]}</span>
+                <span class="admin-form__level-stats">
+                  {hasText ? '✓ EN' : '— EN'}
+                  {' · '}
+                  {hasPl ? '✓ PL' : '— PL'}
+                  {' · '}
+                  {vocab.length} słów
+                  {' · '}
+                  {exercises.length} ćwiczeń
+                </span>
+              </summary>
+
+              <div class="admin-form__level-body">
+                <label class="admin-form__field">
+                  <span class="admin-form__label">Tekst EN ({level})</span>
+                  <textarea
+                    name={`levels.${level}.text`}
+                    rows="8"
+                    class="admin-form__textarea admin-form__textarea--big"
+                    placeholder="Napisz tekst lekcji po angielsku..."
+                  >{lv.text || ''}</textarea>
+                </label>
+
+                <label class="admin-form__field">
+                  <span class="admin-form__label">Tłumaczenie PL ({level})</span>
+                  <textarea
+                    name={`levels.${level}.text_pl`}
+                    rows="8"
+                    class="admin-form__textarea admin-form__textarea--big"
+                    placeholder="Wpisz literackie tłumaczenie po polsku..."
+                  >{lv.text_pl || ''}</textarea>
+                </label>
+
+                <div class="admin-form__field">
+                  <span class="admin-form__label">Słownictwo ({vocab.length})</span>
+                  <span class="admin-form__hint">
+                    Dla wielowyrazowych terminów (np. „honey bee") znaczniki nie są klikalne w lekcji, ale tłumaczenie nadal trafia do słownika.
+                  </span>
+                  <div class="vocab-editor">
+                    <div class="vocab-editor__head" aria-hidden="true">
+                      <span>Słowo</span>
+                      <span>IPA brytyjska</span>
+                      <span>Polski</span>
+                      <span title="Nowe na tym poziomie">Nowe</span>
+                      <span></span>
+                    </div>
+                    <div class="vocab-editor__list" data-vocab-list data-level={level}>
+                      {vocab.map((v) => (
+                        <div class="vocab-editor__row" data-vocab-row>
+                          <input type="text" data-field="term" value={v.term} class="admin-form__input" placeholder="słowo" />
+                          <input type="text" data-field="ipa_br" value={v.ipa_br || ''} class="admin-form__input" placeholder="/ipa/" />
+                          <input type="text" data-field="pl" value={v.pl || ''} class="admin-form__input" placeholder="po polsku" />
+                          <label class="vocab-editor__new-cell">
+                            <input type="checkbox" data-field="new" checked={v.new === true} />
+                          </label>
+                          <button type="button" class="vocab-editor__remove" data-remove-vocab aria-label="Usuń wiersz">×</button>
+                        </div>
+                      ))}
+                    </div>
+                    <button type="button" class="vocab-editor__add" data-add-vocab data-level={level}>+ dodaj słówko</button>
+                  </div>
+                </div>
+
+                {exercises.length > 0 && (
+                  <div class="admin-form__field">
+                    <span class="admin-form__label">Ćwiczenia (read-only)</span>
+                    <ul class="admin-form__exercise-list">
+                      {exercises.map((ex, idx) => (
+                        <li>
+                          <strong>#{idx + 1}</strong> {ex.type}
+                          {ex.prompt && <em> · {ex.prompt.slice(0, 60)}{ex.prompt.length > 60 ? '…' : ''}</em>}
+                        </li>
+                      ))}
+                    </ul>
+                    <span class="admin-form__hint">
+                      Edycja ćwiczeń wymaga osobnego formularza per typ (match/gap/tf/wordform/paraphrase/cloze) — faza 3 admina. Na razie edytuj plik JSON ręcznie.
+                    </span>
+                  </div>
+                )}
+              </div>
+            </details>
+          );
+        })}
+      </fieldset>
+
+      <template data-vocab-template>
+        <div class="vocab-editor__row" data-vocab-row>
+          <input type="text" data-field="term" class="admin-form__input" placeholder="słowo" />
+          <input type="text" data-field="ipa_br" class="admin-form__input" placeholder="/ipa/" />
+          <input type="text" data-field="pl" class="admin-form__input" placeholder="po polsku" />
+          <label class="vocab-editor__new-cell">
+            <input type="checkbox" data-field="new" />
+          </label>
+          <button type="button" class="vocab-editor__remove" data-remove-vocab aria-label="Usuń wiersz">×</button>
+        </div>
+      </template>
+
       <div class="admin-form__actions">
         <button type="submit" class="admin-form__save" data-action="save">💾 Zapisz</button>
         <p class="admin-form__status" data-status aria-live="polite"></p>
@@ -186,11 +301,6 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
         <summary>Surowy JSON (read-only podgląd całej lekcji)</summary>
         <pre data-json-preview>{JSON.stringify(data, null, 2)}</pre>
       </details>
-
-      <p class="admin-form__deferred">
-        <strong>Edycja poziomów (text/text_pl/vocab/exercises)</strong> w kolejnej fazie.
-        Na razie te pola edytuj bezpośrednio w pliku JSON i zapisuj — strona się przeładuje.
-      </p>
     </form>
 
     </div>
@@ -446,5 +556,200 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
     border-radius: var(--radius-md);
     color: var(--text-muted);
     font-size: var(--text-sm);
+  }
+
+  .admin-form__textarea--big {
+    min-block-size: 12em;
+  }
+
+  /* ── Per-level collapsible ────────────────────────────────── */
+
+  .admin-form__level {
+    margin-block: var(--space-3);
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+  }
+
+  .admin-form__level[open] {
+    border-color: var(--border-strong);
+  }
+
+  .admin-form__level-summary {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-3);
+    padding: var(--space-3) var(--space-4);
+    cursor: pointer;
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    list-style: revert; /* keep default disclosure triangle */
+    background: var(--surface-2);
+  }
+
+  .admin-form__level-summary:hover {
+    background: color-mix(in srgb, var(--accent) 5%, var(--surface-2));
+  }
+
+  .admin-form__level[open] .admin-form__level-summary {
+    border-block-end: 1px solid var(--border);
+  }
+
+  .admin-form__level-summary strong {
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    color: var(--accent);
+    min-inline-size: 1.75rem;
+  }
+
+  .admin-form__level-desc {
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .admin-form__level-stats {
+    margin-inline-start: auto;
+    color: var(--text-muted);
+    font-size: var(--text-xs);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .admin-form__level-body {
+    padding: var(--space-4) var(--space-5);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-4);
+  }
+
+  /* ── Vocab table editor ───────────────────────────────────── */
+
+  .vocab-editor {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+  }
+
+  .vocab-editor__head,
+  .vocab-editor__row {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr 1.4fr 4rem 2.25rem;
+    gap: var(--space-2);
+    align-items: center;
+    padding: var(--space-2) var(--space-3);
+  }
+
+  .vocab-editor__head {
+    background: var(--surface-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+  }
+
+  .vocab-editor__list .vocab-editor__row {
+    border-block-start: 1px solid var(--border);
+  }
+
+  .vocab-editor__list .vocab-editor__row input[type='text'] {
+    padding: var(--space-1) var(--space-2);
+    font-size: var(--text-sm);
+    min-block-size: 2rem;
+  }
+
+  .vocab-editor__new-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+
+  .vocab-editor__new-cell input[type='checkbox'] {
+    inline-size: 1.1rem;
+    block-size: 1.1rem;
+    accent-color: var(--accent);
+    cursor: pointer;
+  }
+
+  .vocab-editor__remove {
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-faint);
+    border-radius: var(--radius-sm);
+    font-size: 1.1rem;
+    line-height: 1;
+    padding: 4px var(--space-2);
+    cursor: pointer;
+  }
+
+  .vocab-editor__remove:hover {
+    background: var(--error-bg);
+    color: var(--error);
+    border-color: var(--error);
+  }
+
+  .vocab-editor__add {
+    display: block;
+    inline-size: 100%;
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface);
+    border: none;
+    border-block-start: 1px dashed var(--border);
+    color: var(--accent);
+    font-family: var(--font-sans);
+    font-weight: 600;
+    font-size: var(--text-sm);
+    cursor: pointer;
+  }
+
+  .vocab-editor__add:hover {
+    background: color-mix(in srgb, var(--accent) 6%, var(--surface));
+  }
+
+  @media (max-width: 40rem) {
+    .vocab-editor__head { display: none; }
+    .vocab-editor__row {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas:
+        'term term'
+        'ipa pl'
+        'new remove';
+      gap: var(--space-1) var(--space-2);
+      padding: var(--space-3);
+    }
+    .vocab-editor__row > input[data-field='term'] { grid-area: term; }
+    .vocab-editor__row > input[data-field='ipa_br'] { grid-area: ipa; }
+    .vocab-editor__row > input[data-field='pl'] { grid-area: pl; }
+    .vocab-editor__new-cell { grid-area: new; justify-content: start; gap: var(--space-2); }
+    .vocab-editor__new-cell::after { content: 'nowe'; font-size: var(--text-xs); color: var(--text-muted); }
+    .vocab-editor__remove { grid-area: remove; justify-self: end; }
+  }
+
+  /* ── Exercise list (read-only) ────────────────────────────── */
+
+  .admin-form__exercise-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+
+  .admin-form__exercise-list li {
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface-2);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-mono);
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+  }
+
+  .admin-form__exercise-list li em {
+    color: var(--text);
+    font-style: normal;
   }
 </style>
