@@ -26,9 +26,35 @@ export type DictEntry = {
   lemma: string;
   slug: string;
   ipaBr?: string;
-  translationPl?: string;
+  /** All Polish translations, deduplicated. First entry is the primary one
+   *  (used in headers); slice(0, 3).join(', ') is what hover tooltips show. */
+  translationsPl: string[];
   occurrences: Occurrence[];
 };
+
+/** Split a vocab.pl string into individual senses. The author may write
+ *  `"skraj, krawędź"` or `"klasztorny; ascetyczny"` — both become two
+ *  translations. Parenthetical hints stay attached to the sense that
+ *  contains them (no splitting inside parens). */
+function splitVocabPl(raw: string): string[] {
+  const out: string[] = [];
+  let depth = 0;
+  let buf = '';
+  for (const ch of raw) {
+    if (ch === '(' || ch === '[') depth++;
+    if (ch === ')' || ch === ']') depth = Math.max(0, depth - 1);
+    if ((ch === ',' || ch === ';') && depth === 0) {
+      const t = buf.trim();
+      if (t) out.push(t);
+      buf = '';
+    } else {
+      buf += ch;
+    }
+  }
+  const tail = buf.trim();
+  if (tail) out.push(tail);
+  return out;
+}
 
 let _cache: Map<string, DictEntry> | null = null;
 
@@ -50,10 +76,17 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
   function ensure(slug: string, lemma: string): DictEntry {
     let entry = index.get(slug);
     if (!entry) {
-      entry = { lemma, slug, occurrences: [] };
+      entry = { lemma, slug, translationsPl: [], occurrences: [] };
       index.set(slug, entry);
     }
     return entry;
+  }
+
+  function mergeTranslations(entry: DictEntry, more: readonly string[]) {
+    for (const t of more) {
+      if (!t) continue;
+      if (!entry.translationsPl.includes(t)) entry.translationsPl.push(t);
+    }
   }
 
   for (const lesson of lessons) {
@@ -71,7 +104,7 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
         if (!slug) continue;
         const entry = ensure(slug, lemma);
         if (!entry.ipaBr && v.ipa_br) entry.ipaBr = v.ipa_br;
-        if (!entry.translationPl && v.pl) entry.translationPl = v.pl;
+        if (v.pl) mergeTranslations(entry, splitVocabPl(v.pl));
       }
     }
 
@@ -101,15 +134,15 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
     }
   }
 
-  // Pass 3 — for any entry still missing translationPl, fall back to the
-  // first Polish translation cached from EN Wiktionary's `Translations`
-  // section. User-authored vocab always wins (it's set in pass 1).
+  // Pass 3 — pull Polish translations cached from EN Wiktionary's
+  // `Translations` section. User-authored vocab translations (from pass 1)
+  // come first; Wiktionary appends additional senses that the author may
+  // not have spelled out. Deduplication preserves order.
   await Promise.all(
     [...index.values()].map(async (entry) => {
-      if (entry.translationPl) return;
       const wikt = await loadWiktionary(entry.slug);
       if (wikt?.translations && wikt.translations.length > 0) {
-        entry.translationPl = wikt.translations[0];
+        mergeTranslations(entry, wikt.translations);
       }
     }),
   );

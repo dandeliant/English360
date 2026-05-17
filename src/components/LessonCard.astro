@@ -105,13 +105,14 @@ const wordIndex = await buildWordIndex();
                     <p>
                       {tokenize(paragraph).map((tok) => {
                         if (tok.type !== 'word' || !tok.slug) return tok.text;
-                        const pl = wordIndex.get(tok.slug)?.translationPl;
+                        const entry = wordIndex.get(tok.slug);
+                        const pl = entry?.translationsPl?.join(', ');
                         return (
                           <a
                             class="word-link tts-word"
                             href={`/slownik/${tok.slug}`}
                             data-lemma={tok.lemma}
-                            data-pl={pl ?? undefined}
+                            data-pl={pl || undefined}
                           >{tok.text}</a>
                         );
                       })}

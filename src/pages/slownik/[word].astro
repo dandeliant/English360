@@ -39,10 +39,17 @@ const wordIndex = await buildWordIndex();
           <span class="word-page__ipa-label">brytyjska wymowa</span>
         </p>
       )}
-      {entry.translationPl && (
+      {entry.translationsPl.length > 0 && (
         <p class="word-page__pl">
           <span class="word-page__pl-label">po polsku:</span>
-          <strong>{entry.translationPl}</strong>
+          <span class="word-page__pl-list">
+            {entry.translationsPl.map((t, i) => (
+              <>
+                {i > 0 && <span class="word-page__pl-sep">·</span>}
+                <strong class="word-page__pl-item">{t}</strong>
+              </>
+            ))}
+          </span>
         </p>
       )}
     </header>
@@ -103,12 +110,13 @@ const wordIndex = await buildWordIndex();
                 if (tok.slug === entry.slug) {
                   return <mark class="occurrence__match">{tok.text}</mark>;
                 }
-                const pl = wordIndex.get(tok.slug)?.translationPl;
+                const e = wordIndex.get(tok.slug);
+                const pl = e?.translationsPl?.join(', ');
                 return (
                   <a
                     class="word-link"
                     href={`/slownik/${tok.slug}`}
-                    data-pl={pl ?? undefined}
+                    data-pl={pl || undefined}
                   >{tok.text}</a>
                 );
               })}
@@ -177,14 +185,34 @@ const wordIndex = await buildWordIndex();
   .word-page__pl {
     margin-block-start: var(--space-2);
     font-size: var(--text-lg);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-2) var(--space-3);
   }
 
   .word-page__pl-label {
     color: var(--text-muted);
-    margin-inline-end: var(--space-2);
     font-size: var(--text-sm);
     text-transform: uppercase;
     letter-spacing: 0.04em;
+  }
+
+  .word-page__pl-list {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-2);
+  }
+
+  .word-page__pl-item {
+    font-weight: 700;
+  }
+
+  .word-page__pl-sep {
+    color: var(--text-faint);
+    font-weight: 400;
+    opacity: 0.7;
   }
 
   .word-page__heading {
