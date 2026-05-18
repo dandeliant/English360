@@ -1,0 +1,93 @@
+---
+interface Props {
+  slug: string;
+  /** Optional lesson id stored alongside the star — for back-linking. */
+  lessonId?: string;
+  /** Display size: 'sm' for vocab rows, 'md' for word pages. */
+  size?: 'sm' | 'md';
+  /** Visible text label after the icon (md only) */
+  label?: string;
+}
+
+const { slug, lessonId, size = 'sm', label } = Astro.props;
+---
+<button
+  type="button"
+  class:list={['star-btn', `star-btn--${size}`]}
+  data-star-btn
+  data-slug={slug}
+  data-lesson-id={lessonId}
+  aria-pressed="false"
+  aria-label="Dodaj do ulubionych słówek"
+>
+  <span class="star-btn__icon star-btn__icon--off" aria-hidden="true">☆</span>
+  <span class="star-btn__icon star-btn__icon--on" aria-hidden="true">★</span>
+  {size === 'md' && label && <span class="star-btn__label">{label}</span>}
+</button>
+
+<style>
+  .star-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-faint);
+    cursor: pointer;
+    transition: color 100ms ease, background-color 100ms ease, border-color 100ms ease;
+    padding: 0;
+    line-height: 1;
+  }
+
+  .star-btn--sm {
+    inline-size: 1.75rem;
+    block-size: 1.75rem;
+    font-size: 1.1rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .star-btn--md {
+    padding: var(--space-2) var(--space-3);
+    font-size: 1rem;
+    font-family: var(--font-sans);
+    font-weight: 600;
+    border-radius: var(--radius-md);
+    border-color: var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+  }
+
+  .star-btn:hover {
+    color: #f5b300;
+    border-color: #f5b300;
+    background: color-mix(in srgb, #f5b300 8%, transparent);
+  }
+
+  .star-btn[aria-pressed='true'] {
+    color: #f5b300;
+  }
+
+  .star-btn[aria-pressed='true'].star-btn--md {
+    border-color: #f5b300;
+    background: color-mix(in srgb, #f5b300 12%, transparent);
+  }
+
+  .star-btn__icon {
+    line-height: 1;
+  }
+
+  .star-btn__icon--off { display: inline; }
+  .star-btn__icon--on { display: none; }
+
+  .star-btn[aria-pressed='true'] .star-btn__icon--off { display: none; }
+  .star-btn[aria-pressed='true'] .star-btn__icon--on { display: inline; }
+
+  .star-btn__label {
+    font-weight: 600;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .star-btn { transition: none; }
+  }
+</style>

@@ -146,7 +146,7 @@ const wordIndex = await buildWordIndex();
               <p class="placeholder">— tekst w przygotowaniu —</p>
             )}
 
-            <VocabTable vocab={content.vocab} />
+            <VocabTable vocab={content.vocab} lessonId={lesson.id} />
             {content.exercises && content.exercises.length > 0 ? (
               content.exercises.map((ex) => <Exercise exercise={ex} />)
             ) : (

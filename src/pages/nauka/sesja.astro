@@ -1,0 +1,531 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { buildWordIndex } from '../../utils/word-index.ts';
+
+/**
+ * The session page is static HTML. It bakes a JSON-encoded map of
+ * slug → { lemma, displayForm, ipaBr?, translations, occurrences[].sentence }
+ * for every dictionary lemma into the page, so the runtime session can
+ * pull card content without making additional fetches. The map is large
+ * but gzip-compressible.
+ */
+const index = await buildWordIndex();
+const wordsMap: Record<string, {
+  lemma: string;
+  display: string;
+  ipa?: string;
+  translations: string[];
+  examples: string[];
+}> = {};
+
+for (const [slug, entry] of index.entries()) {
+  wordsMap[slug] = {
+    lemma: entry.lemma,
+    display: entry.displayForm || entry.lemma,
+    ipa: entry.ipaBr,
+    translations: entry.translationsPl,
+    examples: entry.occurrences.slice(0, 2).map((o) => o.sentence),
+  };
+}
+---
+<BaseLayout
+  title="Sesja powtórek · English 360°"
+  description="Sesja SRS — przejrzyj słówka oznaczone gwiazdką."
+>
+  <div class="page sesja">
+    <header class="sesja__header">
+      <p class="sesja__breadcrumb"><a href="/nauka">← Moja nauka</a></p>
+      <h1 class="visually-hidden">Sesja powtórek</h1>
+      <div class="sesja__progress">
+        <span class="sesja__progress-current" data-current>0</span>
+        <span class="sesja__progress-sep">/</span>
+        <span class="sesja__progress-total" data-total>0</span>
+      </div>
+    </header>
+
+    <noscript>
+      <p class="sesja__notice">Sesja wymaga włączonego JavaScript.</p>
+    </noscript>
+
+    <section class="sesja__card" data-card hidden>
+      <div class="sesja__front" data-front>
+        <p class="sesja__lemma" data-card-lemma></p>
+        <p class="sesja__ipa" data-card-ipa></p>
+        <button
+          type="button"
+          class="sesja__reveal"
+          data-reveal
+        >Pokaż tłumaczenie <kbd>Spacja</kbd></button>
+      </div>
+
+      <div class="sesja__back" data-back hidden>
+        <p class="sesja__lemma sesja__lemma--back" data-card-lemma-back></p>
+        <p class="sesja__ipa" data-card-ipa-back></p>
+        <p class="sesja__translations" data-card-translations></p>
+        <div class="sesja__examples" data-card-examples></div>
+
+        <div class="sesja__rate" role="group" aria-label="Oceń swoją odpowiedź">
+          <button type="button" class="rate rate--fail" data-rate="0">
+            <span class="rate__label">Nie wiem</span>
+            <kbd>1</kbd>
+          </button>
+          <button type="button" class="rate rate--hard" data-rate="3">
+            <span class="rate__label">Trudne</span>
+            <kbd>2</kbd>
+          </button>
+          <button type="button" class="rate rate--good" data-rate="4">
+            <span class="rate__label">Dobre</span>
+            <kbd>3</kbd>
+          </button>
+          <button type="button" class="rate rate--easy" data-rate="5">
+            <span class="rate__label">Łatwe</span>
+            <kbd>4</kbd>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="sesja__done" data-done hidden>
+      <h2 class="sesja__done-title">🎉 Sesja zakończona</h2>
+      <p class="sesja__done-text" data-done-text></p>
+      <div class="sesja__done-actions">
+        <a href="/nauka" class="sesja__done-btn">Wróć do mojej nauki</a>
+      </div>
+    </section>
+
+    <section class="sesja__nothing" data-nothing hidden>
+      <h2 class="sesja__done-title">Nic do powtórki dziś</h2>
+      <p class="sesja__done-text">
+        Wszystkie Twoje słówka są na właściwej krzywej zapominania.
+        Wpadnij jutro albo dodaj nowe słówka.
+      </p>
+      <div class="sesja__done-actions">
+        <a href="/nauka" class="sesja__done-btn">Wróć do listy</a>
+        <a href="/slownik" class="sesja__done-btn sesja__done-btn--ghost">Otwórz słownik</a>
+      </div>
+    </section>
+  </div>
+
+  <script
+    type="application/json"
+    data-words-map
+    set:html={JSON.stringify(wordsMap)}
+  ></script>
+</BaseLayout>
+
+<script>
+  import { getDueSlugs, review, onChange } from '../../scripts/vocab-state.js';
+
+  interface WordEntry {
+    lemma: string;
+    display: string;
+    ipa?: string;
+    translations: string[];
+    examples: string[];
+  }
+
+  const wordsMap: Record<string, WordEntry> = (() => {
+    try {
+      const el = document.querySelector('[data-words-map]');
+      if (!el) return {};
+      return JSON.parse(el.textContent || '{}');
+    } catch {
+      return {};
+    }
+  })();
+
+  let queue: string[] = [];
+  let index = 0;
+  let revealed = false;
+  let reviewed = 0;
+
+  function renderCard() {
+    const slug = queue[index];
+    const entry = wordsMap[slug];
+    if (!entry) {
+      // Fallback minimum render
+      (document.querySelector('[data-card-lemma]') as HTMLElement).textContent = slug;
+      (document.querySelector('[data-card-lemma-back]') as HTMLElement).textContent = slug;
+      (document.querySelector('[data-card-translations]') as HTMLElement).textContent = '(brak tłumaczenia w słowniku)';
+      return;
+    }
+    (document.querySelector('[data-card-lemma]') as HTMLElement).textContent = entry.display;
+    (document.querySelector('[data-card-lemma-back]') as HTMLElement).textContent = entry.display;
+    const ipa = entry.ipa || '';
+    (document.querySelector('[data-card-ipa]') as HTMLElement).textContent = ipa;
+    (document.querySelector('[data-card-ipa-back]') as HTMLElement).textContent = ipa;
+
+    const tr = document.querySelector('[data-card-translations]') as HTMLElement;
+    if (entry.translations.length === 0) {
+      tr.innerHTML = '<em class="sesja__empty-translations">brak polskiego tłumaczenia w słowniku</em>';
+    } else {
+      tr.innerHTML = entry.translations
+        .map((t) => `<strong>${escapeHtml(t)}</strong>`)
+        .join(' <span class="sesja__sep">·</span> ');
+    }
+
+    const ex = document.querySelector('[data-card-examples]') as HTMLElement;
+    ex.innerHTML = '';
+    if (entry.examples.length > 0) {
+      ex.innerHTML = '<p class="sesja__examples-label">Z lekcji:</p>' +
+        entry.examples.map((s) => `<p class="sesja__example">${escapeHtml(s)}</p>`).join('');
+    }
+
+    // Update progress
+    (document.querySelector('[data-current]') as HTMLElement).textContent = String(index + 1);
+    (document.querySelector('[data-total]') as HTMLElement).textContent = String(queue.length);
+  }
+
+  function showFront() {
+    revealed = false;
+    document.querySelector('[data-front]')!.removeAttribute('hidden');
+    document.querySelector('[data-back]')!.setAttribute('hidden', '');
+  }
+
+  function showBack() {
+    revealed = true;
+    document.querySelector('[data-front]')!.setAttribute('hidden', '');
+    document.querySelector('[data-back]')!.removeAttribute('hidden');
+  }
+
+  function startSession() {
+    queue = getDueSlugs();
+    if (queue.length === 0) {
+      document.querySelector('[data-nothing]')!.removeAttribute('hidden');
+      document.querySelector('[data-card]')!.setAttribute('hidden', '');
+      return;
+    }
+    document.querySelector('[data-card]')!.removeAttribute('hidden');
+    index = 0;
+    reviewed = 0;
+    renderCard();
+    showFront();
+  }
+
+  function next() {
+    index++;
+    if (index >= queue.length) {
+      finishSession();
+      return;
+    }
+    renderCard();
+    showFront();
+  }
+
+  function finishSession() {
+    document.querySelector('[data-card]')!.setAttribute('hidden', '');
+    const done = document.querySelector('[data-done]') as HTMLElement;
+    done.removeAttribute('hidden');
+    (document.querySelector('[data-done-text]') as HTMLElement).textContent =
+      `Przerobiłeś ${reviewed} ${reviewed === 1 ? 'słówko' : reviewed < 5 ? 'słówka' : 'słówek'}. Świetna robota.`;
+  }
+
+  function handleRate(quality: number) {
+    if (!revealed) return;
+    const slug = queue[index];
+    if (!slug) return;
+    review(slug, quality);
+    reviewed++;
+    next();
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/[&<>"']/g, (c) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+    );
+  }
+
+  function bind() {
+    document.querySelector('[data-reveal]')?.addEventListener('click', showBack);
+    document.querySelectorAll('[data-rate]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const q = Number((btn as HTMLElement).dataset.rate);
+        handleRate(q);
+      });
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.target instanceof HTMLInputElement) return;
+      if (event.ctrlKey || event.metaKey || event.altKey) return;
+      if (!revealed && (event.key === ' ' || event.code === 'Space')) {
+        event.preventDefault();
+        showBack();
+        return;
+      }
+      if (revealed) {
+        const map: Record<string, number> = { '1': 0, '2': 3, '3': 4, '4': 5 };
+        if (map[event.key] !== undefined) {
+          event.preventDefault();
+          handleRate(map[event.key]);
+        }
+      }
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => { bind(); startSession(); });
+  } else {
+    bind();
+    startSession();
+  }
+</script>
+
+<style>
+  .sesja {
+    max-inline-size: 42rem;
+  }
+
+  .sesja__header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-block-end: var(--space-5);
+  }
+
+  .sesja__breadcrumb {
+    font-size: var(--text-sm);
+  }
+
+  .sesja__breadcrumb a { color: var(--accent); }
+
+  .sesja__progress {
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .sesja__progress-current { color: var(--text); font-weight: 700; }
+  .sesja__progress-sep { margin-inline: 4px; opacity: 0.5; }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden;
+    clip: rect(0,0,0,0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  /* ── Card ───────────────────────────────────────────────── */
+
+  .sesja__card {
+    padding: var(--space-6) var(--space-5);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .sesja__front {
+    text-align: center;
+    padding-block: var(--space-6);
+  }
+
+  .sesja__lemma {
+    font-family: var(--font-serif);
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: var(--text);
+    margin-block-end: var(--space-2);
+  }
+
+  .sesja__lemma--back {
+    font-size: var(--text-2xl);
+    color: var(--text-muted);
+  }
+
+  .sesja__ipa {
+    color: var(--text-muted);
+    font-family: var(--font-ipa);
+    font-size: var(--text-lg);
+    margin-block-end: var(--space-5);
+  }
+
+  .sesja__reveal {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-3) var(--space-5);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border: none;
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-base);
+    cursor: pointer;
+    box-shadow: var(--shadow-sm);
+    transition: filter 100ms ease, transform 100ms ease;
+  }
+
+  .sesja__reveal:hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+  }
+
+  .sesja__reveal kbd {
+    background: rgba(255, 255, 255, 0.25);
+    padding: 2px var(--space-2);
+    border-radius: var(--radius-sm);
+    font-family: var(--font-mono);
+    font-size: var(--text-xs);
+  }
+
+  /* ── Back side ──────────────────────────────────────────── */
+
+  .sesja__back {
+    padding-block: var(--space-5);
+    text-align: center;
+  }
+
+  .sesja__translations {
+    font-family: var(--font-serif);
+    font-size: var(--text-2xl);
+    line-height: var(--leading-snug);
+    color: var(--accent);
+    margin-block: var(--space-3);
+  }
+
+  .sesja__sep {
+    color: var(--text-faint);
+    font-weight: 400;
+    margin-inline: 4px;
+  }
+
+  .sesja__empty-translations {
+    color: var(--text-faint);
+    font-size: var(--text-base);
+  }
+
+  .sesja__examples {
+    margin-block: var(--space-4);
+    padding: var(--space-3);
+    background: var(--surface-2);
+    border-radius: var(--radius-md);
+  }
+
+  .sesja__examples-label {
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    margin-block-end: var(--space-2);
+  }
+
+  .sesja__example {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: var(--text);
+    margin-block: var(--space-1);
+  }
+
+  /* ── Rating buttons ─────────────────────────────────────── */
+
+  .sesja__rate {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-2);
+    margin-block-start: var(--space-5);
+  }
+
+  .rate {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    padding: var(--space-3) var(--space-2);
+    background: var(--surface);
+    border: 2px solid var(--border);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 100ms ease, border-color 100ms ease, transform 80ms ease;
+  }
+
+  .rate:hover {
+    transform: translateY(-2px);
+  }
+
+  .rate kbd {
+    font-family: var(--font-mono);
+    font-size: var(--text-xs);
+    padding: 1px 5px;
+    background: var(--surface-2);
+    border-radius: var(--radius-sm);
+    color: var(--text-muted);
+  }
+
+  .rate__label {
+    font-size: var(--text-sm);
+  }
+
+  .rate--fail { color: var(--error); border-color: color-mix(in srgb, var(--error) 40%, var(--border)); }
+  .rate--hard { color: #b45309; border-color: color-mix(in srgb, #b45309 40%, var(--border)); }
+  .rate--good { color: var(--success); border-color: color-mix(in srgb, var(--success) 40%, var(--border)); }
+  .rate--easy { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
+
+  .rate--fail:hover { background: var(--error-bg); }
+  .rate--hard:hover { background: color-mix(in srgb, #b45309 8%, var(--surface)); }
+  .rate--good:hover { background: var(--success-bg); }
+  .rate--easy:hover { background: color-mix(in srgb, var(--accent) 8%, var(--surface)); }
+
+  @media (max-width: 30rem) {
+    .sesja__lemma { font-size: var(--text-3xl); }
+    .sesja__translations { font-size: var(--text-xl); }
+    .sesja__rate { grid-template-columns: repeat(2, 1fr); }
+    .rate__label { font-size: var(--text-xs); }
+  }
+
+  /* ── Done / nothing screens ─────────────────────────────── */
+
+  .sesja__done, .sesja__nothing {
+    text-align: center;
+    padding: var(--space-6);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+  }
+
+  .sesja__done-title {
+    font-family: var(--font-serif);
+    font-size: var(--text-2xl);
+    margin-block-end: var(--space-3);
+  }
+
+  .sesja__done-text {
+    font-family: var(--font-serif);
+    color: var(--text-muted);
+    margin-block-end: var(--space-5);
+  }
+
+  .sesja__done-actions {
+    display: flex;
+    gap: var(--space-3);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .sesja__done-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-3) var(--space-5);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .sesja__done-btn:hover { filter: brightness(1.08); text-decoration: none; }
+  .sesja__done-btn--ghost {
+    background: var(--surface-2);
+    color: var(--text);
+    border: 1px solid var(--border);
+  }
+</style>

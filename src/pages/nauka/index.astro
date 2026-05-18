@@ -1,0 +1,473 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+---
+<BaseLayout
+  title="Moja nauka · English 360°"
+  description="Twoja osobista lista słówek + nauka z powtórkami rozłożonymi w czasie (SRS)."
+>
+  <div class="page nauka">
+    <header class="nauka__header">
+      <h1>Moja nauka</h1>
+      <p class="nauka__intro">
+        Lista słówek, które oznaczyłeś gwiazdką podczas lekcji i w słowniku.
+        System Spaced Repetition (SRS) decyduje, kiedy pokazać je do powtórki:
+        słowo, które łatwo zapamiętujesz, wraca rzadziej. Wszystko trzymane
+        lokalnie w przeglądarce — nic nie wysyłamy do serwera.
+      </p>
+    </header>
+
+    <noscript>
+      <p class="nauka__notice nauka__notice--error">
+        Strona wymaga włączonego JavaScript.
+      </p>
+    </noscript>
+
+    <section class="nauka__stats" aria-label="Statystyki" data-stats-empty>
+      <p class="nauka__empty">
+        Nie masz jeszcze żadnych słówek w swojej liście.
+        Wejdź na <a href="/slownik">słownik</a> albo dowolną lekcję
+        i kliknij ☆ obok słowa, by je dodać.
+      </p>
+    </section>
+
+    <section class="nauka__stats" aria-label="Statystyki" data-stats hidden>
+      <div class="stat-card">
+        <div class="stat-card__value" data-stat="starred">0</div>
+        <div class="stat-card__label">w mojej liście</div>
+      </div>
+      <div class="stat-card stat-card--accent">
+        <div class="stat-card__value" data-stat="due">0</div>
+        <div class="stat-card__label">do powtórki dziś</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-card__value" data-stat="learning">0</div>
+        <div class="stat-card__label">w trakcie nauki</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-card__value" data-stat="mastered">0</div>
+        <div class="stat-card__label">opanowane</div>
+      </div>
+    </section>
+
+    <div class="nauka__cta" data-cta hidden>
+      <a href="/nauka/sesja" class="nauka__cta-btn" data-cta-link>
+        Rozpocznij sesję
+        <span class="nauka__cta-count" data-cta-count></span>
+      </a>
+      <p class="nauka__cta-empty" data-cta-empty hidden>
+        Nic do powtórki dziś — wróć jutro, albo dodaj nowe słówka.
+      </p>
+    </div>
+
+    <section class="nauka__list-section" aria-labelledby="list-heading" data-list-section hidden>
+      <h2 id="list-heading">Twoje słówka</h2>
+      <div class="nauka__filters">
+        <button type="button" class="nauka__filter is-active" data-filter="all">Wszystkie</button>
+        <button type="button" class="nauka__filter" data-filter="due">Do powtórki</button>
+        <button type="button" class="nauka__filter" data-filter="learning">Uczone</button>
+        <button type="button" class="nauka__filter" data-filter="mastered">Opanowane</button>
+      </div>
+      <ul class="nauka__list" data-list></ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  import { readState, getCounts, getAllStarredSlugs, getSrsEntry, onChange } from '../../scripts/vocab-state.js';
+
+  type Filter = 'all' | 'due' | 'learning' | 'mastered';
+
+  let currentFilter: Filter = 'all';
+
+  function todayIso() {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  }
+
+  function classifyEntry(slug: string): 'due' | 'learning' | 'mastered' | 'new' {
+    const e = getSrsEntry(slug);
+    if (!e) return 'new';
+    const today = todayIso();
+    if (e.due && e.due <= today) return 'due';
+    if ((e.reps ?? 0) >= 5) return 'mastered';
+    return 'learning';
+  }
+
+  function statusLabel(slug: string): string {
+    const cls = classifyEntry(slug);
+    if (cls === 'new' || cls === 'due') return 'do powtórki';
+    if (cls === 'mastered') return 'opanowane';
+    return 'w trakcie';
+  }
+
+  function dueLabel(slug: string): string {
+    const e = getSrsEntry(slug);
+    if (!e || !e.due) return 'do powtórki dziś';
+    const today = todayIso();
+    if (e.due <= today) return 'do powtórki dziś';
+    const days = daysUntil(e.due);
+    if (days === 1) return 'za 1 dzień';
+    if (days < 5) return `za ${days} dni`;
+    return `za ${days} dni`;
+  }
+
+  function daysUntil(iso: string): number {
+    const target = new Date(iso + 'T00:00:00');
+    const now = new Date(); now.setHours(0, 0, 0, 0);
+    return Math.round((target.getTime() - now.getTime()) / (1000 * 60 * 60 * 24));
+  }
+
+  function filterSlugs(filter: Filter): string[] {
+    const all = getAllStarredSlugs().sort((a, b) => a.localeCompare(b));
+    if (filter === 'all') return all;
+    return all.filter((slug) => {
+      const cls = classifyEntry(slug);
+      if (filter === 'due') return cls === 'new' || cls === 'due';
+      if (filter === 'learning') return cls === 'learning';
+      if (filter === 'mastered') return cls === 'mastered';
+      return true;
+    });
+  }
+
+  function render() {
+    const counts = getCounts();
+    const hasAny = counts.starred > 0;
+
+    document.querySelector('[data-stats-empty]')!.toggleAttribute('hidden', hasAny);
+    document.querySelector('[data-stats]')!.toggleAttribute('hidden', !hasAny);
+    document.querySelector('[data-cta]')!.toggleAttribute('hidden', !hasAny);
+    document.querySelector('[data-list-section]')!.toggleAttribute('hidden', !hasAny);
+
+    if (!hasAny) return;
+
+    // Stats
+    (document.querySelector('[data-stat="starred"]') as HTMLElement).textContent = String(counts.starred);
+    (document.querySelector('[data-stat="due"]') as HTMLElement).textContent = String(counts.due);
+    (document.querySelector('[data-stat="learning"]') as HTMLElement).textContent = String(counts.learning);
+    (document.querySelector('[data-stat="mastered"]') as HTMLElement).textContent = String(counts.mastered);
+
+    // CTA
+    const ctaLink = document.querySelector('[data-cta-link]') as HTMLAnchorElement;
+    const ctaCount = document.querySelector('[data-cta-count]') as HTMLElement;
+    const ctaEmpty = document.querySelector('[data-cta-empty]') as HTMLElement;
+    if (counts.due > 0) {
+      ctaLink.hidden = false;
+      ctaEmpty.hidden = true;
+      ctaCount.textContent = `(${counts.due})`;
+    } else {
+      ctaLink.hidden = true;
+      ctaEmpty.hidden = false;
+    }
+
+    // List
+    const list = document.querySelector('[data-list]') as HTMLUListElement;
+    list.innerHTML = '';
+    const slugs = filterSlugs(currentFilter);
+    if (slugs.length === 0) {
+      const li = document.createElement('li');
+      li.className = 'nauka__empty-row';
+      li.textContent = 'Brak słówek w tej kategorii.';
+      list.appendChild(li);
+      return;
+    }
+    for (const slug of slugs) {
+      const li = document.createElement('li');
+      li.className = 'nauka__row';
+      li.dataset.cls = classifyEntry(slug);
+      li.innerHTML = `
+        <a class="nauka__word" href="/slownik/${slug}">${escapeHtml(slug)}</a>
+        <span class="nauka__when">${escapeHtml(dueLabel(slug))}</span>
+        <span class="nauka__status">${escapeHtml(statusLabel(slug))}</span>
+        <button type="button" class="nauka__remove" data-remove="${escapeHtml(slug)}" aria-label="Usuń z listy">×</button>
+      `;
+      list.appendChild(li);
+    }
+  }
+
+  function escapeHtml(s: string): string {
+    return s.replace(/[&<>"']/g, (c) =>
+      ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+    );
+  }
+
+  function bindFilters() {
+    document.querySelectorAll('[data-filter]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        currentFilter = (btn as HTMLElement).dataset.filter as Filter;
+        document.querySelectorAll('[data-filter]').forEach((b) => b.classList.toggle('is-active', b === btn));
+        render();
+      });
+    });
+  }
+
+  function bindListActions() {
+    document.querySelector('[data-list]')?.addEventListener('click', (event) => {
+      const target = event.target as HTMLElement;
+      const btn = target.closest('[data-remove]') as HTMLElement | null;
+      if (!btn) return;
+      const slug = btn.dataset.remove;
+      if (!slug) return;
+      if (!confirm(`Usunąć „${slug}" z listy?`)) return;
+      import('../../scripts/vocab-state.js').then((m) => {
+        m.unstar(slug);
+      });
+    });
+  }
+
+  function init() {
+    bindFilters();
+    bindListActions();
+    render();
+    onChange(render);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+</script>
+
+<style>
+  .nauka {
+    max-inline-size: var(--page-width);
+  }
+
+  .nauka__header {
+    margin-block-end: var(--space-5);
+  }
+
+  .nauka__intro {
+    max-inline-size: var(--content-width);
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: var(--text-muted);
+    margin-block-start: var(--space-3);
+  }
+
+  .nauka__notice {
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    font-size: var(--text-sm);
+  }
+  .nauka__notice--error {
+    background: var(--error-bg);
+    color: var(--error);
+  }
+
+  .nauka__empty {
+    padding: var(--space-5);
+    background: var(--surface-2);
+    border-radius: var(--radius-md);
+    color: var(--text-muted);
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    text-align: center;
+  }
+  .nauka__empty a { color: var(--accent); }
+
+  /* ── Stats grid ─────────────────────────────────────────── */
+
+  .nauka__stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+    gap: var(--space-3);
+    margin-block-end: var(--space-5);
+  }
+
+  .stat-card {
+    padding: var(--space-4);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    text-align: center;
+  }
+
+  .stat-card--accent {
+    background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+    border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+  }
+
+  .stat-card__value {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stat-card--accent .stat-card__value { color: var(--accent); }
+
+  .stat-card__label {
+    margin-block-start: var(--space-2);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+  }
+
+  /* ── CTA ────────────────────────────────────────────────── */
+
+  .nauka__cta {
+    margin-block-end: var(--space-6);
+    text-align: center;
+  }
+
+  .nauka__cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-4) var(--space-6);
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: var(--text-lg);
+    text-decoration: none;
+    box-shadow: var(--shadow-md);
+    transition: filter 100ms ease, transform 100ms ease;
+  }
+
+  .nauka__cta-btn:hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+
+  .nauka__cta-count {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 2px var(--space-2);
+    border-radius: var(--radius-pill);
+    font-size: var(--text-base);
+  }
+
+  .nauka__cta-empty {
+    color: var(--text-muted);
+    font-family: var(--font-serif);
+    font-style: italic;
+  }
+
+  /* ── List ───────────────────────────────────────────────── */
+
+  .nauka__filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-block: var(--space-3) var(--space-4);
+  }
+
+  .nauka__filter {
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+
+  .nauka__filter:hover {
+    border-color: var(--border-strong);
+    color: var(--text);
+  }
+
+  .nauka__filter.is-active {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  .nauka__list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+    padding: 0;
+  }
+
+  .nauka__row {
+    display: grid;
+    grid-template-columns: 1fr auto auto auto;
+    align-items: center;
+    gap: var(--space-3);
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+
+  .nauka__row[data-cls='due'] {
+    border-color: color-mix(in srgb, var(--accent) 40%, var(--border));
+    background: color-mix(in srgb, var(--accent) 4%, var(--surface));
+  }
+
+  .nauka__row[data-cls='mastered'] {
+    opacity: 0.7;
+  }
+
+  .nauka__word {
+    font-family: var(--font-serif);
+    font-size: var(--text-lg);
+    font-weight: 600;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .nauka__word:hover { color: var(--accent); }
+
+  .nauka__when {
+    font-size: var(--text-sm);
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .nauka__status {
+    font-size: var(--text-xs);
+    color: var(--text-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-family: var(--font-sans);
+  }
+
+  .nauka__remove {
+    inline-size: 1.75rem;
+    block-size: 1.75rem;
+    padding: 0;
+    background: transparent;
+    border: 1px solid transparent;
+    color: var(--text-faint);
+    border-radius: var(--radius-sm);
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+  .nauka__remove:hover {
+    background: var(--error-bg);
+    color: var(--error);
+    border-color: var(--error);
+  }
+
+  .nauka__empty-row {
+    padding: var(--space-4);
+    color: var(--text-faint);
+    text-align: center;
+    font-style: italic;
+  }
+
+  @media (max-width: 30rem) {
+    .nauka__row {
+      grid-template-columns: 1fr auto;
+      grid-template-areas: 'word remove' 'when status';
+      gap: var(--space-1) var(--space-2);
+    }
+    .nauka__word { grid-area: word; }
+    .nauka__when { grid-area: when; }
+    .nauka__status { grid-area: status; justify-self: end; }
+    .nauka__remove { grid-area: remove; justify-self: end; }
+  }
+</style>

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import StarButton from '../../components/StarButton.astro';
 import { buildWordIndex } from '../../utils/word-index.ts';
 import { tokenize } from '../../utils/text-tokenize.ts';
 import { CEFR_DESCRIPTIONS } from '../../utils/cefr.ts';
@@ -38,7 +39,10 @@ const wordIndex = await buildWordIndex();
     </p>
 
     <header class="word-page__header">
-      <h1 class="word-page__lemma">{entry.displayForm}</h1>
+      <div class="word-page__title-row">
+        <h1 class="word-page__lemma">{entry.displayForm}</h1>
+        <StarButton slug={entry.slug} size="md" label="Do moich słówek" />
+      </div>
       {entry.ipaBr && (
         <p class="word-page__ipa">
           <span class="ipa">{entry.ipaBr}</span>
@@ -183,12 +187,20 @@ const wordIndex = await buildWordIndex();
     margin-block-end: var(--space-5);
   }
 
+  .word-page__title-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    margin-block-end: var(--space-3);
+  }
+
   .word-page__lemma {
     font-family: var(--font-serif);
     font-size: 3rem;
     font-weight: 700;
     letter-spacing: -0.02em;
-    margin-block-end: var(--space-3);
   }
 
   .word-page__ipa {

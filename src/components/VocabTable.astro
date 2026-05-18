@@ -1,5 +1,7 @@
 ---
 import TTSButton from './TTSButton.astro';
+import StarButton from './StarButton.astro';
+import { lemmaOf, slugOf } from '../utils/text-tokenize.ts';
 
 interface VocabItem {
   term: string;
@@ -10,36 +12,50 @@ interface VocabItem {
 
 interface Props {
   vocab?: VocabItem[];
+  lessonId?: string;
 }
 
-const { vocab = [] } = Astro.props;
+const { vocab = [], lessonId } = Astro.props;
 const hasVocab = vocab.length > 0;
+
+/** Single-word vocab entries get a dictionary slug and a star button.
+ *  Multi-word terms (e.g. "honey bee") return null — the dictionary
+ *  skips them anyway, so there's nothing to star. */
+function dictSlugFor(term: string): string | null {
+  if (/\s/.test(term)) return null;
+  const s = slugOf(lemmaOf(term));
+  return s || null;
+}
 ---
 {hasVocab ? (
   <div class="vocab">
     <h3 class="vocab__heading">Słownictwo</h3>
     <ul class="vocab__list">
-      {vocab.map((item) => (
-        <li class="vocab__row">
-          <div class="vocab__term">
-            <span class="vocab__term-text">{item.term}</span>
-            {item.new && <span class="badge-new">Nowe</span>}
-          </div>
-          {item.ipa_br && (
-            <div class="vocab__ipa">
-              <span class="ipa">{item.ipa_br}</span>
+      {vocab.map((item) => {
+        const dictSlug = dictSlugFor(item.term);
+        return (
+          <li class="vocab__row">
+            <div class="vocab__term">
+              <span class="vocab__term-text">{item.term}</span>
+              {item.new && <span class="badge-new">Nowe</span>}
             </div>
-          )}
-          <div class="vocab__pl">{item.pl}</div>
-          <div class="vocab__tts">
-            <TTSButton
-              text={item.term}
-              label={`Odsłuchaj słowo: ${item.term}`}
-              size="sm"
-            />
-          </div>
-        </li>
-      ))}
+            {item.ipa_br && (
+              <div class="vocab__ipa">
+                <span class="ipa">{item.ipa_br}</span>
+              </div>
+            )}
+            <div class="vocab__pl">{item.pl}</div>
+            <div class="vocab__actions">
+              {dictSlug && <StarButton slug={dictSlug} lessonId={lessonId} size="sm" />}
+              <TTSButton
+                text={item.term}
+                label={`Odsłuchaj słowo: ${item.term}`}
+                size="sm"
+              />
+            </div>
+          </li>
+        );
+      })}
     </ul>
   </div>
 ) : (
@@ -114,10 +130,13 @@ const hasVocab = vocab.length > 0;
     font-size: var(--text-sm);
   }
 
-  .vocab__tts {
+  .vocab__actions {
     grid-area: tts;
     align-self: center;
     justify-self: end;
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
   }
 
   .placeholder {
