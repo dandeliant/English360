@@ -261,8 +261,58 @@ html[data-text-lang='pl'] [data-text-lang-content='en'] {
   display: none;
 }
 
-html[data-text-lang='pl'] [data-tts][data-tts-main] {
+/* TTS is EN-only — hide the main button outside the EN view. */
+html[data-text-lang='pl'] [data-tts][data-tts-main],
+html[data-text-lang='parallel'] [data-tts][data-tts-main] {
   display: none;
+}
+
+/* Parallel mode: two columns side by side on wide screens; stacked on narrow. */
+html[data-text-lang='parallel'] .lesson-panel__text-block {
+  --parallel-gap: var(--space-5);
+}
+
+@media (min-width: 48rem) {
+  html[data-text-lang='parallel'] .lesson-panel__text-block {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: var(--parallel-gap);
+    row-gap: var(--space-3);
+  }
+  html[data-text-lang='parallel'] .lesson-panel__text-actions {
+    grid-column: 1 / -1;
+  }
+  html[data-text-lang='parallel'] [data-text-lang-content='en'],
+  html[data-text-lang='parallel'] [data-text-lang-content='pl'] {
+    display: block;
+  }
+  html[data-text-lang='parallel'] [data-text-lang-content='en']::before {
+    content: 'EN';
+    display: block;
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--text-faint);
+    margin-block-end: var(--space-1);
+  }
+  html[data-text-lang='parallel'] [data-text-lang-content='pl']::before {
+    content: 'PL';
+    display: block;
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--text-faint);
+    margin-block-end: var(--space-1);
+  }
+}
+
+/* Below 48rem we fall back to EN-only (parallel side-by-side doesn't fit). */
+@media (max-width: 48rem) {
+  html[data-text-lang='parallel'] [data-text-lang-content='pl'] {
+    display: none;
+  }
 }
 
 /* ── TTS word-by-word highlight ──────────────────────────────────
@@ -287,4 +337,98 @@ html[data-text-lang='pl'] [data-tts][data-tts-main] {
 
 @media (prefers-reduced-motion: reduce) {
   .tts-word { transition: none; }
+}
+
+/* ── Print / PDF ─────────────────────────────────────────────────
+ * Strip the site chrome, expand all six CEFR levels and both
+ * language columns, drop interactive controls. The result is a
+ * teacher-friendly handout: title, photo, text EN + PL, vocab,
+ * exercise questions (without the Check / Reveal buttons).
+ */
+@media print {
+  html, body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+
+  .site-header,
+  .site-footer,
+  .skip-link,
+  .word-tooltip,
+  .word-page__edit-link,
+  .calendar-month-nav,
+  .dict-index__nav,
+  .admin-edit__notice,
+  .no-print {
+    display: none !important;
+  }
+
+  /* Lesson chrome that doesn't help in print. */
+  .lang-toggle,
+  .level-tabs,
+  .level-tabs__hint,
+  .lesson-panel__text-actions [data-tts],
+  .theme-toggle,
+  .site-nav,
+  .exercise__actions,
+  .exercise__placeholder {
+    display: none !important;
+  }
+
+  /* Expand all collapsible level panels regardless of active state. */
+  .lesson-panel[hidden] { display: block !important; }
+  .lesson-panel { break-inside: avoid; page-break-inside: avoid; }
+  .lesson-panel + .lesson-panel { break-before: page; page-break-before: always; }
+
+  /* Show BOTH languages, regardless of the on-screen toggle setting. */
+  [data-text-lang-content='en'],
+  [data-text-lang-content='pl'] { display: block !important; }
+  [data-text-lang-content='en']::before {
+    content: 'EN';
+    display: block;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: #666;
+    margin-block-end: 2pt;
+  }
+  [data-text-lang-content='pl']::before {
+    content: 'PL';
+    display: block;
+    font-size: 8pt;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: #666;
+    margin-block-end: 2pt;
+  }
+  [data-text-lang-content='pl'] {
+    margin-block-start: 8pt;
+    padding-block-start: 6pt;
+    border-block-start: 1px dashed #ccc;
+  }
+
+  /* Drop word-link styling — readers don't click paper. */
+  .word-link {
+    color: inherit !important;
+    border-block-end: none !important;
+    text-decoration: none !important;
+  }
+  .tts-word.is-active { background: none !important; color: inherit !important; }
+
+  /* Vocab: compact rows. */
+  .vocab__row { font-size: 10pt; padding-block: 4pt; }
+  .vocab__tts { display: none !important; }
+
+  /* Exercise: still visible, but as quiet block. */
+  .exercise {
+    border: 1px solid #ccc !important;
+    padding: 8pt 10pt !important;
+    box-shadow: none !important;
+  }
+
+  @page { margin: 1.5cm; }
+
+  h1, h2, h3, h4 { break-after: avoid; page-break-after: avoid; }
 }

@@ -65,6 +65,15 @@ const wordIndex = await buildWordIndex();
           {data.tags.map((tag) => <li><span class="tag">#{tag}</span></li>)}
         </ul>
       )}
+      <div class="lesson-card__meta-actions no-print">
+        <button
+          type="button"
+          class="lesson-card__print-btn"
+          data-print-trigger
+          aria-label="Drukuj lekcję (pełna lista poziomów + tłumaczenia + słownictwo)"
+          title="Drukuj lub zapisz jako PDF (Ctrl+P)"
+        >🖨 Drukuj / zapisz PDF</button>
+      </div>
     </div>
   </header>
 
@@ -164,6 +173,17 @@ const wordIndex = await buildWordIndex();
   import '../scripts/level-memory.js';
   import '../scripts/tts.js';
   import '../scripts/text-lang.js';
+
+  // Print trigger — kept inline here because it's a one-line concern
+  // local to LessonCard. Wired with event delegation so HMR re-renders
+  // don't multiply listeners.
+  if (!window.__english360PrintBound) {
+    window.__english360PrintBound = true;
+    document.addEventListener('click', (event) => {
+      const btn = event.target.closest && event.target.closest('[data-print-trigger]');
+      if (btn) window.print();
+    });
+  }
 </script>
 
 <style>
@@ -267,6 +287,31 @@ const wordIndex = await buildWordIndex();
     flex-wrap: wrap;
     gap: var(--space-2);
     margin-block-start: var(--space-4);
+  }
+
+  .lesson-card__meta-actions {
+    margin-block-start: var(--space-4);
+    display: flex;
+    gap: var(--space-2);
+  }
+
+  .lesson-card__print-btn {
+    padding: var(--space-2) var(--space-3);
+    background: var(--surface-2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    font-family: var(--font-sans);
+    font-size: var(--text-sm);
+    font-weight: 500;
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background-color 100ms ease, color 100ms ease, border-color 100ms ease;
+  }
+
+  .lesson-card__print-btn:hover {
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-color: var(--accent);
   }
 
   /* Level tabs sit inside the card on a contrasting strip. */

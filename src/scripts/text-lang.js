@@ -12,11 +12,13 @@
 import { cancel as cancelTts } from './tts.js';
 
 const STORAGE_KEY = 'english360.text_lang';
-const VALID = new Set(['en', 'pl']);
+const VALID = new Set(['en', 'pl', 'parallel']);
 
 export function getTextLang() {
   const v = document.documentElement.dataset.textLang;
-  return v === 'pl' ? 'pl' : 'en';
+  if (v === 'pl') return 'pl';
+  if (v === 'parallel') return 'parallel';
+  return 'en';
 }
 
 export function setTextLang(lang) {
@@ -28,7 +30,8 @@ export function setTextLang(lang) {
     // Best-effort persistence.
   }
   syncToggles(lang);
-  if (lang === 'pl') cancelTts();
+  // TTS is EN-only, so cancel any speech when leaving the EN view.
+  if (lang !== 'en') cancelTts();
 }
 
 function syncToggles(lang) {

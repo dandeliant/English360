@@ -42,7 +42,11 @@ const isOnDict = pathname.startsWith('/slownik');
         }
         try {
           var lang = localStorage.getItem('english360.text_lang');
-          document.documentElement.dataset.textLang = lang === 'pl' ? 'pl' : 'en';
+          if (lang === 'pl' || lang === 'parallel') {
+            document.documentElement.dataset.textLang = lang;
+          } else {
+            document.documentElement.dataset.textLang = 'en';
+          }
         } catch (e) {
           document.documentElement.dataset.textLang = 'en';
         }
@@ -95,6 +99,16 @@ const isOnDict = pathname.startsWith('/slownik');
               <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z" />
             </svg>
           </a>
+          <span
+            class="streak-badge"
+            data-streak-badge
+            hidden
+            aria-label="Twoja seria dni"
+            title="Twoja seria dni"
+          >
+            <span class="streak-badge__flame" aria-hidden="true">🔥</span>
+            <span class="streak-badge__count" data-streak-count>0</span>
+          </span>
           <ThemeToggle />
         </div>
       </div>
@@ -123,6 +137,7 @@ const isOnDict = pathname.startsWith('/slownik');
       import '../scripts/theme.js';
       import '../scripts/word-tooltip.js';
       import '../scripts/admin-auth.js';
+      import '../scripts/streak.js';
     </script>
   </body>
 </html>
@@ -190,6 +205,41 @@ const isOnDict = pathname.startsWith('/slownik');
     .site-nav__link {
       padding: var(--space-2);
       font-size: var(--text-xs);
+    }
+  }
+
+  /* ── Streak badge ───────────────────────────────────────── */
+
+  .streak-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-1);
+    padding: 4px var(--space-2);
+    background: color-mix(in srgb, var(--accent) 12%, var(--surface));
+    border: 1px solid color-mix(in srgb, var(--accent) 30%, transparent);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    color: var(--accent);
+    font-variant-numeric: tabular-nums;
+    cursor: help;
+    line-height: 1;
+  }
+
+  .streak-badge__flame {
+    font-size: 0.9rem;
+    line-height: 1;
+    filter: saturate(1.2);
+  }
+
+  .streak-badge__count {
+    min-inline-size: 0.8em;
+  }
+
+  @media (max-width: 30rem) {
+    .streak-badge {
+      padding: 4px var(--space-1);
     }
   }
 

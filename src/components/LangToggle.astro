@@ -25,12 +25,23 @@ const { hasPl } = Astro.props;
   <button
     type="button"
     role="radio"
+    class="lang-toggle__btn lang-toggle__btn--parallel"
+    data-text-lang-toggle
+    data-lang="parallel"
+    aria-checked="false"
+    disabled={!hasPl}
+    title={hasPl ? 'Pokaż angielski i polski obok siebie' : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
+    aria-label={hasPl ? 'Tryb równoległy — angielski i polski obok siebie' : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
+  >EN&nbsp;|&nbsp;PL</button>
+  <button
+    type="button"
+    role="radio"
     class="lang-toggle__btn"
     data-text-lang-toggle
     data-lang="pl"
     aria-checked="false"
     disabled={!hasPl}
-    title={hasPl ? undefined : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
+    title={hasPl ? 'Pokaż tłumaczenie po polsku' : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
     aria-label={hasPl ? 'Pokaż tłumaczenie po polsku' : 'Polskie tłumaczenie tego poziomu jeszcze nie zostało dodane'}
   >PL</button>
 </div>
