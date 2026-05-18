@@ -1,0 +1,123 @@
+{
+  "lemma": "flag",
+  "slug": "flag",
+  "fetchTerm": "flag",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A piece of cloth, often decorated with an emblem, used as a visual signal or symbol.",
+          "examples": []
+        },
+        {
+          "text": "The design that could be placed on a flag, typically a rectangular graphic that is used to represent an entity (like a country, organisation or group of people) or an idea.",
+          "examples": [
+            "The flag of France has three vertical stripes."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To furnish or deck out with flags.",
+          "examples": []
+        },
+        {
+          "text": "To mark with a flag, especially to indicate the importance of something.",
+          "examples": []
+        },
+        {
+          "text": "To signal to, especially to stop a passing vehicle etc.",
+          "examples": [
+            "Please flag down a taxi for me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To weaken, become feeble.",
+          "examples": [
+            "His strength flagged toward the end of the race."
+          ]
+        },
+        {
+          "text": "To hang loose without stiffness; to bend down, as flexible bodies; to be loose, yielding, limp.",
+          "examples": []
+        },
+        {
+          "text": "To let droop; to suffer to fall, or let fall, into feebleness.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of various plants with sword-shaped leaves, especially irises; specifically, Iris pseudacorus.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A slice of turf; a sod.",
+          "examples": []
+        },
+        {
+          "text": "A slab of stone; a flagstone, a flat piece of stone used for paving.",
+          "examples": []
+        },
+        {
+          "text": "Any hard, evenly stratified sandstone, which splits into layers suitable for flagstones.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To pave with flagstones.",
+          "examples": [
+            "Fred is planning to flag his patio this weekend."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group of feathers on the lower part of the legs of certain hawks, owls, etc.",
+          "examples": []
+        },
+        {
+          "text": "A group of elongated wing feathers in certain hawks.",
+          "examples": []
+        },
+        {
+          "text": "The bushy tail of a dog such as a setter.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "flaga",
+    "sztandar",
+    "bandera",
+    "zwodzić [[flaga",
+    "zwieść [[flaga"
+  ],
+  "fetchedAt": "2026-05-18T12:00:07.766Z"
+}

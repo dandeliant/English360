@@ -1,0 +1,54 @@
+{
+  "lemma": "soon",
+  "slug": "soon",
+  "fetchTerm": "soon",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Short in length of time from the present.",
+          "examples": [
+            "I need the soonest date you have available."
+          ]
+        },
+        {
+          "text": "Early.",
+          "examples": []
+        },
+        {
+          "text": "Used as an alternative to express 'to be going to' in the form 'to be soon to'.",
+          "examples": [
+            "Hurry up, the wedding is soon to start!",
+            "A new shop is soon to be opened in this street."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Immediately, instantly.",
+          "examples": []
+        },
+        {
+          "text": "Within a short time; quickly.",
+          "examples": [
+            "His wife is likely to come too after him, but we just do not know how soon after."
+          ]
+        },
+        {
+          "text": "Early.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wkrótce",
+    "niedługo"
+  ],
+  "fetchedAt": "2026-05-18T12:01:34.156Z"
+}

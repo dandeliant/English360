@@ -1,0 +1,39 @@
+{
+  "lemma": "duty",
+  "slug": "duty",
+  "fetchTerm": "duty",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which one is morally or legally obligated to do.",
+          "examples": [
+            "Do your duty by me! -No, we don't have a duty to keep you abreast."
+          ]
+        },
+        {
+          "text": "The state of being at work and responsible for or doing a particular task.",
+          "examples": [
+            "I’m on duty from 6 pm to 6 am."
+          ]
+        },
+        {
+          "text": "An excise tax; especially, one on imports or exports.",
+          "examples": [
+            "customs duty"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obowiązek",
+    "dyżur",
+    "zmiana",
+    "służba",
+    "cło"
+  ],
+  "fetchedAt": "2026-05-18T11:34:44.987Z"
+}

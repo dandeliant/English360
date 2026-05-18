@@ -1,0 +1,82 @@
+{
+  "lemma": "slip",
+  "slug": "slip",
+  "fetchTerm": "slip",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lose one’s traction on a slippery surface; to slide due to a lack of friction.",
+          "examples": []
+        },
+        {
+          "text": "To err.",
+          "examples": []
+        },
+        {
+          "text": "To accidentally reveal a secret or otherwise say something unintentionally.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act or instance of slipping.",
+          "examples": [
+            "I had a slip on the ice and bruised my hip."
+          ]
+        },
+        {
+          "text": "A woman's undergarment worn under a skirt or dress to conceal unwanted nudity that may otherwise be revealed by the skirt or dress itself; a shift.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A twig or shoot; a cutting.",
+          "examples": [
+            "a slip from a vine"
+          ]
+        },
+        {
+          "text": "A descendant, a scion.",
+          "examples": []
+        },
+        {
+          "text": "A young person (now usually with of introducing descriptive qualifier).",
+          "examples": [
+            "She couldn't hurt a fly, young slip of a girl that she is."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thin, slippery mix of clay and water.",
+          "examples": []
+        },
+        {
+          "text": "Mud, slime.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "poślizgnąć się",
+    "pośliznąć się",
+    "gafa",
+    "arkusik",
+    "fiszka"
+  ],
+  "fetchedAt": "2026-05-18T12:01:32.656Z"
+}

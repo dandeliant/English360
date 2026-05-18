@@ -1,0 +1,36 @@
+{
+  "lemma": "overdetermined",
+  "slug": "overdetermined",
+  "fetchTerm": "overdetermined",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having more constraints or causes than necessary to determine a solution or result.",
+          "examples": []
+        },
+        {
+          "text": "Having more equations than variables.",
+          "examples": []
+        },
+        {
+          "text": "Determined by multiple causes in such a way that any of the causes on its own would be sufficient to account for the effect.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of overdetermine",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:01:04.878Z"
+}

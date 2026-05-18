@@ -1,0 +1,77 @@
+{
+  "lemma": "term",
+  "slug": "term",
+  "fetchTerm": "term",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which limits the extent of anything; limit, extremity, bound, boundary, terminus.",
+          "examples": [
+            "\"Alright, look...we can spend the holidays with your parents, but this time it will be on my terms.\""
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To phrase a certain way; to name or call.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Born or delivered at term.",
+          "examples": [
+            "term neonate"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A computer program that emulates a physical terminal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To terminate someone's employment.",
+          "examples": []
+        },
+        {
+          "text": "To delete someone's account.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One whose employment has been terminated",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "warunek",
+    "określenie",
+    "termin",
+    "wyraz"
+  ],
+  "fetchedAt": "2026-05-18T12:02:06.049Z"
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "imagination",
+  "slug": "imagination",
+  "fetchTerm": "imagination",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The image-making power of the mind; the act of mentally creating or reproducing an object not previously perceived; the ability to create such images.",
+          "examples": [
+            "Imagination is one of the most advanced human faculties."
+          ]
+        },
+        {
+          "text": "Particularly, construction of false images; fantasizing.",
+          "examples": [
+            "You think someone's been following you? That's just your imagination."
+          ]
+        },
+        {
+          "text": "Creativity; resourcefulness.",
+          "examples": [
+            "His imagination makes him a valuable team member."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "fantazja",
+    "imaginacja",
+    "wyobraźnia",
+    "urojenie",
+    "wyobrażenie"
+  ],
+  "fetchedAt": "2026-05-18T12:00:44.972Z"
+}

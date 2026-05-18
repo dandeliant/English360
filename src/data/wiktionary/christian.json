@@ -1,0 +1,63 @@
+{
+  "lemma": "christian",
+  "slug": "christian",
+  "fetchTerm": "Christian",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A believer in Christianity. An adherent of Christianity who is not a Catholic; a Protestant.",
+          "examples": []
+        },
+        {
+          "text": "An adherent of Christianity who is not a Catholic; a Protestant.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A male given name from Ancient Greek found in England since the twelfth century.",
+          "examples": []
+        },
+        {
+          "text": "A female given name from Ancient Greek of medieval usage, rare today.",
+          "examples": []
+        },
+        {
+          "text": "A surname originating as a patronymic.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, like or relating to Christianity or Christians. Of, like or relating to Protestant Christians.",
+          "examples": []
+        },
+        {
+          "text": "Of, like or relating to Protestant Christians.",
+          "examples": []
+        },
+        {
+          "text": "Of, like or relating to Jesus Christ.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chrześcijanin",
+    "chrześcijanka",
+    "Krystian",
+    "Krystiana",
+    "chrześcijański"
+  ],
+  "fetchedAt": "2026-05-18T11:34:30.005Z"
+}

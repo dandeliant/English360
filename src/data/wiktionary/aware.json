@@ -1,0 +1,40 @@
+{
+  "lemma": "aware",
+  "slug": "aware",
+  "fetchTerm": "aware",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Vigilant or on one's guard against danger or difficulty.",
+          "examples": [
+            "Stay aware! Don't let your guard down."
+          ]
+        },
+        {
+          "text": "Conscious or having knowledge of something; awake.",
+          "examples": [
+            "Are you aware of what is being said about you?",
+            "Gotta get going. I wasn’t aware that it was already so late."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make (someone) aware of something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "świadom",
+    "świadomy"
+  ],
+  "fetchedAt": "2026-05-18T11:34:18.104Z"
+}

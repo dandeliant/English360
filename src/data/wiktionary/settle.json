@@ -1,0 +1,58 @@
+{
+  "lemma": "settle",
+  "slug": "settle",
+  "fetchTerm": "settle",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To conclude or resolve (something): To determine (something which was exposed to doubt or question); to resolve conclusively; to set or fix (a time, an order of succession, etc).",
+          "examples": [
+            "His fears were settled",
+            "She hopes to settle any questions about the plans."
+          ]
+        },
+        {
+          "text": "To determine (something which was exposed to doubt or question); to resolve conclusively; to set or fix (a time, an order of succession, etc).",
+          "examples": [
+            "His fears were settled",
+            "She hopes to settle any questions about the plans."
+          ]
+        },
+        {
+          "text": "To conclude, to cause (a dispute) to finish.",
+          "examples": [
+            "to settle a quarrel"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A seat of any kind.",
+          "examples": []
+        },
+        {
+          "text": "A long bench with a high back and arms, often with chest or storage space underneath.",
+          "examples": []
+        },
+        {
+          "text": "A place made lower than the rest; a wide step or platform lower than some other part.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "usadawiać",
+    "usadowić",
+    "osiadać",
+    "osiąść",
+    "usadawiać się"
+  ],
+  "fetchedAt": "2026-05-18T12:01:29.330Z"
+}

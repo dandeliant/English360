@@ -263,7 +263,7 @@ async function fetchEnDefinitions(fetchTerm) {
     if (r.notFound || !r.data) return null;
     return parseEnDefinition(r.data);
   } catch (err) {
-    console.error(`\n  EN definition error for "${lemma}": ${err.message}`);
+    console.error(`\n  EN definition error for "${fetchTerm}": ${err.message}`);
     return null;
   }
 }
@@ -275,7 +275,7 @@ async function fetchPlSummary(fetchTerm) {
     if (r.notFound || !r.data) return null;
     return parsePlSummary(r.data);
   } catch (err) {
-    console.error(`\n  PL summary error for "${lemma}": ${err.message}`);
+    console.error(`\n  PL summary error for "${fetchTerm}": ${err.message}`);
     return null;
   }
 }
@@ -290,7 +290,7 @@ async function fetchEnTranslations(fetchTerm) {
   } catch (err) {
     // Returning null here signals "fetch failed, retry on next sync";
     // returning [] would mean "fetched, no Polish translations on page".
-    console.error(`\n  EN translations error for "${lemma}": ${err.message}`);
+    console.error(`\n  EN translations error for "${fetchTerm}": ${err.message}`);
     return null;
   }
 }

@@ -1,0 +1,23 @@
+{
+  "lemma": "meteorological",
+  "slug": "meteorological",
+  "fetchTerm": "meteorological",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to meteorology.",
+          "examples": [
+            "The trip was postponed because the meteorological conditions were so bad."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "meteorologiczny"
+  ],
+  "fetchedAt": "2026-05-18T12:00:52.926Z"
+}

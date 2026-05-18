@@ -1,0 +1,60 @@
+{
+  "lemma": "stack",
+  "slug": "stack",
+  "fetchTerm": "stack",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pile. A large pile of hay, grain, straw, or the like, larger at the bottom than the top, sometimes covered with thatch. A pile of similar objects, each directly on top of the last.",
+          "examples": [
+            "Please bring me a chair from that stack in the corner."
+          ]
+        },
+        {
+          "text": "A large pile of hay, grain, straw, or the like, larger at the bottom than the top, sometimes covered with thatch.",
+          "examples": []
+        },
+        {
+          "text": "A pile of similar objects, each directly on top of the last.",
+          "examples": [
+            "Please bring me a chair from that stack in the corner."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To arrange in a stack, or to add to an existing stack.",
+          "examples": [
+            "Please stack those chairs in the corner."
+          ]
+        },
+        {
+          "text": "To arrange the cards in a deck in a particular manner, especially for cheating.",
+          "examples": [
+            "This is the third hand in a row where you've drawn four of a kind. Someone is stacking the deck!"
+          ]
+        },
+        {
+          "text": "To arrange or fix to obtain an advantage; to deliberately distort the composition of (an assembly, committee, etc.).",
+          "examples": [
+            "to be stacked against (someone)",
+            "The Government was accused of stacking the parliamentary committee."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stos",
+    "sterta",
+    "stertować",
+    "układać na kupę"
+  ],
+  "fetchedAt": "2026-05-18T12:01:37.788Z"
+}

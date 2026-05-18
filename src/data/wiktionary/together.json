@@ -1,0 +1,49 @@
+{
+  "lemma": "together",
+  "slug": "together",
+  "fetchTerm": "together",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At the same time, in the same place; in close association or proximity.",
+          "examples": [
+            "We went to school together.",
+            "We can't all talk together; let's take turns politely."
+          ]
+        },
+        {
+          "text": "Into one place; into a single thing; combined.",
+          "examples": [
+            "He put all the parts together."
+          ]
+        },
+        {
+          "text": "In a relationship or partnership, for example a business relationship or a romantic partnership.",
+          "examples": [
+            "Bob and Andy went into business together. Jenny and Mark have been together since they went on holiday to Mexico."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Coherent; well-organized.",
+          "examples": [
+            "He’s really together."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "razem",
+    "wespół",
+    "wspólnie"
+  ],
+  "fetchedAt": "2026-05-18T12:02:07.708Z"
+}

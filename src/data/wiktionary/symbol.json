@@ -1,0 +1,33 @@
+{
+  "lemma": "symbol",
+  "slug": "symbol",
+  "fetchTerm": "symbol",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A character or glyph representing an idea, concept or object.",
+          "examples": [
+            "\"$\" is the symbol for dollars in the US and some other countries.",
+            "Chinese people use word symbols for writing."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To symbolize.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "symbol"
+  ],
+  "fetchedAt": "2026-05-18T12:02:00.871Z"
+}

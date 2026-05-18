@@ -1,0 +1,55 @@
+{
+  "lemma": "drop",
+  "slug": "drop",
+  "fetchTerm": "drop",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small quantity of liquid, just large enough to hold its own rounded shape through surface tension, especially one that falls from a source of liquid.",
+          "examples": [
+            "Put three drops of oil into the mixture.",
+            "ear drops eye drops"
+          ]
+        },
+        {
+          "text": "A dose of liquid medicine in the form of a drop (sense 1).",
+          "examples": []
+        },
+        {
+          "text": "A liquid medicine that is intended to be administered in drops (sense 1).",
+          "examples": [
+            "ear drops eye drops"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a liquid: to fall in drops or droplets. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To fall (straight down) under the influence of gravity, like a drop of liquid.",
+          "examples": [
+            "A single shot was fired and the bird dropped from the sky.",
+            "When you defeat this boss, there's a chance a power-up will drop."
+          ]
+        },
+        {
+          "text": "Of an item: To appear for the player to pick up, usually after an enemy has been defeated.",
+          "examples": [
+            "When you defeat this boss, there's a chance a power-up will drop.",
+            "This item can sometimes drop from chests."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T11:34:41.871Z"
+}

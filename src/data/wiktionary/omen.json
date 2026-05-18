@@ -1,0 +1,41 @@
+{
+  "lemma": "omen",
+  "slug": "omen",
+  "fetchTerm": "omen",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something which portends or is perceived to portend either a good or evil event or circumstance in the future, or which causes a foreboding; a portent or augury.",
+          "examples": [
+            "The ghost's appearance was an ill omen.",
+            "A rise in imports might be an omen of economic recovery."
+          ]
+        },
+        {
+          "text": "A thing of prophetic significance.",
+          "examples": [
+            "A sign of ill omen."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be an omen of.",
+          "examples": []
+        },
+        {
+          "text": "To divine or predict from omens.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:01:02.013Z"
+}

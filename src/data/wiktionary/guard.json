@@ -1,0 +1,60 @@
+{
+  "lemma": "guard",
+  "slug": "guard",
+  "fetchTerm": "guard",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who, or thing that, protects or watches over something.",
+          "examples": [
+            "The prison guard unlocked the door of the cell. After completing the repairs, he replaced the sump guard.",
+            "border guard, prison guard, security guard"
+          ]
+        },
+        {
+          "text": "A garda; a police officer.",
+          "examples": []
+        },
+        {
+          "text": "A squad responsible for protecting something.",
+          "examples": [
+            "The president inspected the guard of honour."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To protect from danger; to secure against surprise, attack, or injury; to keep in safety; to defend.",
+          "examples": [
+            "All of the mountain passes are guarded by troops."
+          ]
+        },
+        {
+          "text": "To keep watch over, in order to prevent escape or restrain from acts of violence, or the like.",
+          "examples": [
+            "Guard the prisoner."
+          ]
+        },
+        {
+          "text": "To watch by way of caution or defense; to be cautious; to be in a state or position of defense or safety.",
+          "examples": [
+            "Careful people guard against mistakes."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "strażnik",
+    "jelec",
+    "osłona",
+    "chronić"
+  ],
+  "fetchedAt": "2026-05-18T12:00:27.699Z"
+}

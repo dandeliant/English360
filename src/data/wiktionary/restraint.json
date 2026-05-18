@@ -1,0 +1,30 @@
+{
+  "lemma": "restraint",
+  "slug": "restraint",
+  "fetchTerm": "restraint",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that restrains, ties, fastens or secures.",
+          "examples": [
+            "Make sure all the restraints are tight."
+          ]
+        },
+        {
+          "text": "Control or caution; reserve.",
+          "examples": [
+            "Try to exercise restraint when talking to your boss."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ograniczenie",
+    "opanowanie"
+  ],
+  "fetchedAt": "2026-05-18T12:01:21.774Z"
+}

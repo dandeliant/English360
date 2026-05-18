@@ -1,0 +1,51 @@
+{
+  "lemma": "render",
+  "slug": "render",
+  "fetchTerm": "render",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause to become.",
+          "examples": [
+            "The shot rendered her immobile."
+          ]
+        },
+        {
+          "text": "To interpret, give an interpretation or rendition of.",
+          "examples": [
+            "The pianist rendered the Beethoven sonata beautifully."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Stucco or plaster applied to exterior walls.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who rends.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "czynić",
+    "uczynić",
+    "sprawiać",
+    "sprawić",
+    "interpretować"
+  ],
+  "fetchedAt": "2026-05-18T12:01:20.254Z"
+}

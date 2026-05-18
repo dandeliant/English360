@@ -1,0 +1,22 @@
+{
+  "lemma": "simultaneously",
+  "slug": "simultaneously",
+  "fetchTerm": "simultaneously",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Occurring at the same time.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "równocześnie",
+    "jednocześnie"
+  ],
+  "fetchedAt": "2026-05-18T12:01:30.844Z"
+}

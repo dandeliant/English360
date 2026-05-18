@@ -1,0 +1,39 @@
+{
+  "lemma": "seasonal",
+  "slug": "seasonal",
+  "fetchTerm": "seasonal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, related to, or reliant on a season or period of the year, especially with regard to weather characteristics.",
+          "examples": [
+            "It is a seasonal swimming pool."
+          ]
+        },
+        {
+          "text": "Appropriate to the season.",
+          "examples": [
+            "Q: How's the weather there? A: The wind is pretty stiff, but it's seasonal, so no complaints.",
+            "Q: Eyewitness News now turns to Steve for a weather update. Steve, what does the coming week have in store for us? A: Well, Stacy, get ready for the return of seasonal temperatures, because our little break from the cold will be coming to an end."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Anything that is seasonal, such as a financial trend, a product for sale, or an employee.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sezonowy"
+  ],
+  "fetchedAt": "2026-05-18T12:01:26.130Z"
+}

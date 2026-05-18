@@ -1,0 +1,45 @@
+{
+  "lemma": "barn",
+  "slug": "barn",
+  "fetchTerm": "barn",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A building, often found on a farm, used for storage or keeping animals such as cattle.",
+          "examples": []
+        },
+        {
+          "text": "A unit of surface area equal to 10 square metres.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lay up in a barn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A child.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stodoła",
+    "gumno",
+    "barn"
+  ],
+  "fetchedAt": "2026-05-18T11:34:19.810Z"
+}

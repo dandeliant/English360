@@ -1,0 +1,38 @@
+{
+  "lemma": "function",
+  "slug": "function",
+  "fetchTerm": "function",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "What something does or is used for.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have a function.",
+          "examples": []
+        },
+        {
+          "text": "To carry out a function; to be in action.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "funkcja",
+    "stanowisko",
+    "posada",
+    "zależność",
+    "działać"
+  ],
+  "fetchedAt": "2026-05-18T12:00:23.909Z"
+}

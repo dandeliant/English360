@@ -1,0 +1,55 @@
+{
+  "lemma": "measure",
+  "slug": "measure",
+  "fetchTerm": "measure",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prescribed quantity or extent. Moderation, temperance. .mw-parser-output .defdate{font-size:smaller} A limit that cannot be exceeded; a bound. (Now chiefly in set phrases.)",
+          "examples": [
+            "Mom's rage has no measure."
+          ]
+        },
+        {
+          "text": "Moderation, temperance. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To ascertain the quantity of a unit of material via calculated comparison with respect to a standard.",
+          "examples": [
+            "We measured the temperature with a thermometer.",
+            "You should measure the angle with a spirit level."
+          ]
+        },
+        {
+          "text": "To be of (a certain size), to have (a certain measurement)",
+          "examples": [
+            "The window measured two square feet."
+          ]
+        },
+        {
+          "text": "To estimate the unit size of something.",
+          "examples": [
+            "I measure that at 10 centimetres."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pomiar",
+    "miara",
+    "miarka",
+    "takt",
+    "środek"
+  ],
+  "fetchedAt": "2026-05-18T12:00:49.963Z"
+}

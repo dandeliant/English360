@@ -1,0 +1,35 @@
+{
+  "lemma": "role",
+  "slug": "role",
+  "fetchTerm": "role",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A character or part played by a performer or actor.",
+          "examples": [
+            "My neighbor was the lead role in last year's village play.",
+            "Her dream was to get a role in a Hollywood movie, no matter how small."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An ancient unit of quantity, 72 sheets of parchment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rola",
+    "funkcja",
+    "pozycja"
+  ],
+  "fetchedAt": "2026-05-18T12:01:23.330Z"
+}

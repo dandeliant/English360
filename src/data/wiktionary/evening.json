@@ -1,0 +1,47 @@
+{
+  "lemma": "evening",
+  "slug": "evening",
+  "fetchTerm": "evening",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The time of day between afternoon and night.",
+          "examples": [
+            "Toward evening, there was heavy rain.",
+            "I met my wife on a summer's evening in 1999."
+          ]
+        },
+        {
+          "text": "The time of the day between the approximate time of midwinter dusk and midnight (compare afternoon); the period after the end of regular office working hours.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "present participle and gerund of even",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "present participle and gerund of evene",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wieczór",
+    "zmierzch"
+  ],
+  "fetchedAt": "2026-05-18T11:34:51.296Z"
+}

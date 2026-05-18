@@ -1,0 +1,43 @@
+{
+  "lemma": "element",
+  "slug": "element",
+  "fetchTerm": "element",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the simplest or essential parts or principles of which anything consists, or upon which the constitution or fundamental powers of anything are based.",
+          "examples": [
+            "Letters are the elements of written language."
+          ]
+        },
+        {
+          "text": "Any one of the types of atom distinguished by having a certain number of protons in its nucleus.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To compound (something) out of elements.",
+          "examples": []
+        },
+        {
+          "text": "To constitute and be the elements of (something).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pierwiastek",
+    "element",
+    "żywioł",
+    "odrobina"
+  ],
+  "fetchedAt": "2026-05-18T11:34:47.267Z"
+}

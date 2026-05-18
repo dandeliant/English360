@@ -1,0 +1,70 @@
+{
+  "lemma": "str",
+  "slug": "str",
+  "fetchTerm": "str",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Saanich.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Abbreviation of string(s).",
+          "examples": [
+            "str.-quartet"
+          ]
+        },
+        {
+          "text": "Abbreviation of steamer, a vessel propelled by steam.",
+          "examples": []
+        },
+        {
+          "text": "Abbreviation of string (“sequence of text characters”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Abbreviation of strong.",
+          "examples": [
+            "str-emergent"
+          ]
+        },
+        {
+          "text": "Abbreviation of strict.",
+          "examples": []
+        },
+        {
+          "text": "Abbreviation of straight.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Abbreviation of strongly.",
+          "examples": []
+        },
+        {
+          "text": "Abbreviation of strictly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:01:39.232Z"
+}

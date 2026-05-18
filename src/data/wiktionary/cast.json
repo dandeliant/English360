@@ -1,0 +1,59 @@
+{
+  "lemma": "cast",
+  "slug": "cast",
+  "fetchTerm": "cast",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move, or be moved, away. To throw. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To throw. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To throw forward (a fishing line, net etc.) into the sea.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of throwing.",
+          "examples": []
+        },
+        {
+          "text": "The number rolled on a die when it is thrown.",
+          "examples": []
+        },
+        {
+          "text": "An instance of throwing out a fishing line.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of an animal, such as a horse or sheep: Lying in a position from which it cannot rise on its own.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ciskać",
+    "cisnąć",
+    "miotać",
+    "zarzucać",
+    "zarzucić"
+  ],
+  "fetchedAt": "2026-05-18T11:34:21.880Z"
+}

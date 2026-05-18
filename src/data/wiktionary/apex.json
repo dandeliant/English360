@@ -1,0 +1,33 @@
+{
+  "lemma": "apex",
+  "slug": "apex",
+  "fetchTerm": "apex",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The highest or the greatest part of something, especially forming a point.",
+          "examples": [
+            "the apex of the building",
+            "Drone cameras show that his car reached the apex first."
+          ]
+        },
+        {
+          "text": "The highest point in a plane or solid figure, relative to a base line or plane.",
+          "examples": []
+        },
+        {
+          "text": "The pointed fine end of something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "apeks",
+    "szczyt"
+  ],
+  "fetchedAt": "2026-05-18T11:34:16.561Z"
+}

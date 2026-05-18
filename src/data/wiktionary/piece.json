@@ -1,0 +1,56 @@
+{
+  "lemma": "piece",
+  "slug": "piece",
+  "fetchTerm": "piece",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A part of a larger whole, usually in such a form that it is able to be separated from other parts.",
+          "examples": [
+            "I’d like another piece of pie.",
+            "I've lost a piece of this jigsaw puzzle."
+          ]
+        },
+        {
+          "text": "A single item belonging to a class of similar items.",
+          "examples": [
+            "a piece of machinery",
+            "a piece of software"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assemble (something real or figurative).",
+          "examples": [
+            "These clues allowed us to piece together the solution to the mystery."
+          ]
+        },
+        {
+          "text": "To make, enlarge, or repair, by the addition of a piece or pieces; to patch; often with out.",
+          "examples": [
+            "to piece a garment"
+          ]
+        },
+        {
+          "text": "To produce a work of graffiti more complex than a tag.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kawałek",
+    "część",
+    "element",
+    "sztuka",
+    "pionek"
+  ],
+  "fetchedAt": "2026-05-18T12:01:06.879Z"
+}

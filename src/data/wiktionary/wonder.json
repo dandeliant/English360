@@ -1,0 +1,57 @@
+{
+  "lemma": "wonder",
+  "slug": "wonder",
+  "fetchTerm": "wonder",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sense of awe, astonishment and curiosity, inspired by unexpected events, novel experiences and inexplicable circumstances, sometimes accompanied by surprise, shock or reverence.",
+          "examples": []
+        },
+        {
+          "text": "Something that causes amazement or awe; a marvel.",
+          "examples": [
+            "Wonders of the World seem to come in sevens.",
+            "That stay in the country did her wonders."
+          ]
+        },
+        {
+          "text": "Fortunate circumstances.",
+          "examples": [
+            "That stay in the country did her wonders.",
+            "It's a wonder no-one saw me."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be affected with surprise or admiration; to be struck with astonishment; to be amazed; to marvel; often followed by at.",
+          "examples": [
+            "He's married by now, I shouldn't wonder."
+          ]
+        },
+        {
+          "text": "To ponder; to feel doubt and curiosity; to query in the mind.",
+          "examples": [
+            "He wondered whether penguins could fly. She had wondered this herself sometimes.",
+            "Has Jay gone fishing, I wonder?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zdumienie",
+    "cud",
+    "dziw",
+    "dziwo",
+    "zdumiewać się"
+  ],
+  "fetchedAt": "2026-05-18T12:02:22.016Z"
+}

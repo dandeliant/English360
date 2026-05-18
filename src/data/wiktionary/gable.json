@@ -1,0 +1,30 @@
+{
+  "lemma": "gable",
+  "slug": "gable",
+  "fetchTerm": "gable",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The triangular area at the peak of an external wall adjacent to, and terminating, two sloped roof surfaces (pitches).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A cable.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczyt"
+  ],
+  "fetchedAt": "2026-05-18T12:00:25.671Z"
+}

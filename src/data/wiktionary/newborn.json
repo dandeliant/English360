@@ -1,0 +1,38 @@
+{
+  "lemma": "newborn",
+  "slug": "newborn",
+  "fetchTerm": "newborn",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Recently born.",
+          "examples": [
+            "newborn baby",
+            "newborn child"
+          ]
+        },
+        {
+          "text": "Born anew, reborn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A recently born baby.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nowonarodzony",
+    "noworodek"
+  ],
+  "fetchedAt": "2026-05-18T12:00:57.926Z"
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "deliberate",
+  "slug": "deliberate",
+  "fetchTerm": "deliberate",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Done on purpose; intentional.",
+          "examples": [
+            "a deliberate attempt to cover up his crime"
+          ]
+        },
+        {
+          "text": "Formed with deliberation; carefully considered; not sudden or rash.",
+          "examples": [
+            "a deliberate opinion; a deliberate measure or result"
+          ]
+        },
+        {
+          "text": "Of a person, weighing facts and arguments with a view to a choice or decision; carefully considering the probable consequences of a step; slow in determining.",
+          "examples": [
+            "The jury took eight hours to come to its deliberate verdict."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To consider carefully; to weigh well in the mind.",
+          "examples": [
+            "It is now time for the jury to deliberate the guilt of the defendant."
+          ]
+        },
+        {
+          "text": "To consider the reasons for and against anything; to reflect.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "celowy",
+    "rozmyślny",
+    "świadomy",
+    "umyślny",
+    "zamierzony"
+  ],
+  "fetchedAt": "2026-05-18T11:34:33.153Z"
+}

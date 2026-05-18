@@ -1,0 +1,60 @@
+{
+  "lemma": "recall",
+  "slug": "recall",
+  "fetchTerm": "recall",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To withdraw, retract (one's words etc.); to revoke (an order). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To call back, bring back, or summon (someone) to a specific place, station, etc.",
+          "examples": [
+            "He was recalled to service after his retirement.",
+            "She was recalled to London for the trial."
+          ]
+        },
+        {
+          "text": "To remove an elected official through a petition and direct vote.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The action or fact of calling someone or something back. Request of the return of a faulty product.",
+          "examples": [
+            "recall campaign",
+            "recall petition"
+          ]
+        },
+        {
+          "text": "Request of the return of a faulty product.",
+          "examples": [
+            "recall campaign"
+          ]
+        },
+        {
+          "text": "The right or procedure by which a public official may be removed from office before the end of their term of office, by a vote of the people to be taken on the filing of a petition signed by a required number or percentage of qualified voters.",
+          "examples": [
+            "recall petition",
+            "representative recall"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przywołanie",
+    "odwołanie",
+    "pamięć",
+    "pokrycie"
+  ],
+  "fetchedAt": "2026-05-18T12:01:18.393Z"
+}

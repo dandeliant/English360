@@ -1,0 +1,21 @@
+{
+  "lemma": "motionless",
+  "slug": "motionless",
+  "fetchTerm": "motionless",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "At rest, stationary, immobile, not moving.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nieruchomy"
+  ],
+  "fetchedAt": "2026-05-18T12:00:54.962Z"
+}

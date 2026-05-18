@@ -1,0 +1,27 @@
+{
+  "lemma": "symbolic",
+  "slug": "symbolic",
+  "fetchTerm": "symbolic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to a symbol.",
+          "examples": []
+        },
+        {
+          "text": "Implicitly representing or referring to another thing.",
+          "examples": [
+            "a symbolic gesture"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "symboliczny"
+  ],
+  "fetchedAt": "2026-05-18T12:02:02.607Z"
+}

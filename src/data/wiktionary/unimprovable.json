@@ -1,0 +1,21 @@
+{
+  "lemma": "unimprovable",
+  "slug": "unimprovable",
+  "fetchTerm": "unimprovable",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not capable of being improved",
+          "examples": [
+            "unimprovable farmland"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:02:13.433Z"
+}

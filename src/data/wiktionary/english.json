@@ -1,0 +1,59 @@
+{
+  "lemma": "english",
+  "slug": "english",
+  "fetchTerm": "English",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to England.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The people of England, e.g., Englishmen and Englishwomen.",
+          "examples": [
+            "The English and the ROTW have a long history of conflict, periodically interrupted for tea."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The language that developed in England and is now spoken in the British Isles, the Commonwealth of Nations, North America, and many other parts of the world.",
+          "examples": [
+            "English is spoken here as an unofficial language and lingua franca.",
+            "How do you say ‘à peu près’ in English?"
+          ]
+        },
+        {
+          "text": "A variety, dialect, or idiolect of spoken and or written English.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To translate, adapt or render into English.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "angielski",
+    "Anglik",
+    "Angielka"
+  ],
+  "fetchedAt": "2026-05-18T11:34:49.456Z"
+}

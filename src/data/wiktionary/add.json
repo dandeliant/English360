@@ -1,0 +1,62 @@
+{
+  "lemma": "add",
+  "slug": "add",
+  "fetchTerm": "add",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Dzodinka.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity, or enlarge the magnitude, or so as to form into one aggregate.",
+          "examples": []
+        },
+        {
+          "text": "To sum up; to put together mentally; to add up.",
+          "examples": [
+            "to add numbers"
+          ]
+        },
+        {
+          "text": "To combine elements of (something) into one quantity.",
+          "examples": [
+            "to add a column of numbers"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The addition of a song to a station's playlist.",
+          "examples": []
+        },
+        {
+          "text": "An act or instance of adding.",
+          "examples": []
+        },
+        {
+          "text": "An additional enemy that joins a fight after the primary target.",
+          "examples": [
+            "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dodawać",
+    "dodać"
+  ],
+  "fetchedAt": "2026-05-18T11:34:13.239Z"
+}

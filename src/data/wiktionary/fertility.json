@@ -1,0 +1,31 @@
+{
+  "lemma": "fertility",
+  "slug": "fertility",
+  "fetchTerm": "fertility",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The condition, or the degree, of being fertile.",
+          "examples": [
+            "Muckspreading increases the fertility of the soil."
+          ]
+        },
+        {
+          "text": "The birthrate of a population; the number of live births per 1000 people per year.",
+          "examples": []
+        },
+        {
+          "text": "The average number of births per woman within a population.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "płodność"
+  ],
+  "fetchedAt": "2026-05-18T12:00:05.789Z"
+}

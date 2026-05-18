@@ -1,0 +1,19 @@
+{
+  "lemma": "communal",
+  "slug": "communal",
+  "fetchTerm": "communal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to a community or a commune.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T11:34:31.453Z"
+}

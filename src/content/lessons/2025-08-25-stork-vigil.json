@@ -1,0 +1,201 @@
+{
+  "id": "2025-08-25-stork-vigil",
+  "date_assigned": "2025-08-25",
+  "date_alternatives": ["2025-08-24"],
+  "title_en": "Standing Vigil",
+  "title_pl": "Strażnik zachodu",
+  "location": "Paskudy, gmina Ulan-Majorat, Poland",
+  "image": "/images/2025-08-25-stork-vigil.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["birds", "white-stork", "sunset", "barn", "late-summer", "poland", "countryside", "silhouette", "end-of-summer"],
+  "themes": ["end-of-summer", "polish-countryside", "departure", "folklore", "solitude"],
+  "did_you_know": {
+    "en": "Despite their solid weight (roughly four kilograms), white storks are masters of soaring flight — they can travel from Poland to East Africa in three to five weeks without flapping more than they have to, gliding instead on thermals above the Bosphorus and the Sinai.",
+    "pl": "Mimo solidnej wagi (około czterech kilogramów) bociany białe są mistrzami lotu szybowcowego — z Polski do Afryki Wschodniej potrafią przelecieć w trzy do pięciu tygodni, niemal nie machając skrzydłami, ślizgając się zamiast tego na kominach termicznych nad Bosforem i Synajem."
+  },
+  "social": {
+    "fb_caption_pl": "Strażnik zachodu. Bocian na dachu starej stodoły pod Paskudami, niebo czerwono-pomarańczowe, ostatnie dni sierpnia. Za kilka dni odleci. Dziś wieczór jeszcze należy do niego. Lekcja English 360° w sześciu poziomach. english360.example",
+    "fb_caption_en": "Late August in eastern Poland. A solitary stork stands motionless on the gable of an old barn while the sun lowers itself behind the trees. The unofficial guardian of the last days of summer. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#WhiteStork", "#BocianyPolskie", "#EndOfSummer", "#SunsetPhotography", "#PolskaWieś", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "This is a stork. It stands on the roof. The sky is red and orange. The sun is going down. The bird is quiet. It is watching the day end. Summer is almost over now.",
+      "text_pl": "To bocian. Stoi na dachu. Niebo jest czerwone i pomarańczowe. Słońce zachodzi. Ptak jest cichy. Patrzy, jak kończy się dzień. Lato już prawie się kończy.",
+      "vocab": [
+        { "term": "roof", "ipa_br": "/ruːf/", "pl": "dach", "new": true },
+        { "term": "stork", "ipa_br": "/stɔːk/", "pl": "bocian", "new": false },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": false },
+        { "term": "watch", "ipa_br": "/wɒtʃ/", "pl": "obserwować, patrzeć", "new": true },
+        { "term": "almost", "ipa_br": "/ˈɔːl.məʊst/", "pl": "prawie", "new": true },
+        { "term": "over", "ipa_br": "/ˈəʊ.və/", "pl": "skończony, miniony", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "stork", "answer": "A" },
+            { "word": "sun", "answer": "B" },
+            { "word": "roof", "answer": "C" },
+            { "word": "sunset", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🦩" },
+            { "label": "B", "text": "☀️" },
+            { "label": "C", "text": "🏠" },
+            { "label": "D", "text": "🌅" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "It is the end of August. A stork is standing on the roof of an old barn. Behind him, the sun is going down between the barn and a tall tree. The sky is full of warm colours — red, orange, pink. The bird does not move. He is watching the last sunsets of summer. Soon, he and his family will fly to Africa.",
+      "text_pl": "Jest koniec sierpnia. Na dachu starej stodoły stoi bocian. Za nim słońce zachodzi między stodołą a wysokim drzewem. Niebo jest pełne ciepłych kolorów — czerwonego, pomarańczowego, różowego. Ptak się nie rusza. Patrzy na ostatnie zachody słońca tego lata. Wkrótce on i jego rodzina odlecą do Afryki.",
+      "vocab": [
+        { "term": "barn", "ipa_br": "/bɑːn/", "pl": "stodoła", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": false },
+        { "term": "move", "ipa_br": "/muːv/", "pl": "ruszać (się), poruszać", "new": true },
+        { "term": "last", "ipa_br": "/lɑːst/", "pl": "ostatni; trwać", "new": false },
+        { "term": "soon", "ipa_br": "/suːn/", "pl": "wkrótce, niedługo", "new": false },
+        { "term": "fly", "ipa_br": "/flaɪ/", "pl": "latać, lecieć; mucha", "new": true },
+        { "term": "family", "ipa_br": "/ˈfæm.əl.i/", "pl": "rodzina", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowami z tekstu.",
+          "items": [
+            { "sentence": "The stork is standing on the roof of an old ___.", "answer": "barn" },
+            { "sentence": "The bird does not ___.", "answer": "move" },
+            { "sentence": "He is watching the ___ sunsets of summer.", "answer": "last" },
+            { "sentence": "Soon, he and his family will ___ to Africa.", "answer": "fly" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "On the very last evenings of August, white storks in Poland often stand alone for long minutes at a time, motionless on a roof or a chimney. From a distance, they look like guards watching over the countryside. In this photograph, taken near a small village in eastern Poland, a single stork has chosen the roof of an old wooden barn. Behind him, the sun is dropping into a line of trees, painting the sky in slow strokes of red, orange and gold. In a few days he will be gone — but for tonight, the evening is his.",
+      "text_pl": "Ostatnimi wieczorami sierpnia bociany białe w Polsce często stoją samotnie przez długie minuty, nieruchomo na dachu lub kominie. Z daleka wyglądają jak strażnicy pilnujący wsi. Na tym zdjęciu, zrobionym pod małą wsią we wschodniej Polsce, samotny bocian wybrał dach starej drewnianej stodoły. Za nim słońce schodzi w linię drzew, malując niebo powolnymi pociągnięciami czerwieni, pomarańczu i złota. Za kilka dni już go nie będzie — ale tego wieczoru, ten wieczór należy do niego.",
+      "vocab": [
+        { "term": "motionless", "ipa_br": "/ˈməʊ.ʃən.ləs/", "pl": "nieruchomy, bez ruchu", "new": true },
+        { "term": "chimney", "ipa_br": "/ˈtʃɪm.ni/", "pl": "komin", "new": false },
+        { "term": "guard", "ipa_br": "/ɡɑːd/", "pl": "strażnik; pilnować", "new": true },
+        { "term": "countryside", "ipa_br": "/ˈkʌn.tri.saɪd/", "pl": "wieś, krajobraz wiejski", "new": false },
+        { "term": "single", "ipa_br": "/ˈsɪŋ.ɡəl/", "pl": "pojedynczy, samotny", "new": true },
+        { "term": "wooden", "ipa_br": "/ˈwʊd.ən/", "pl": "drewniany", "new": true },
+        { "term": "drop", "ipa_br": "/drɒp/", "pl": "opadać, spadać; kropla", "new": true },
+        { "term": "stroke", "ipa_br": "/strəʊk/", "pl": "pociągnięcie (pędzla); udar", "new": true },
+        { "term": "gone", "ipa_br": "/ɡɒn/", "pl": "odjechany, miniony, zniknięty", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on the last evenings of August.", "answer": true },
+            { "statement": "There is a whole group of storks on the same roof.", "answer": false },
+            { "statement": "The barn in the picture is made of wood.", "answer": true },
+            { "statement": "The text describes the sky as filled with cold blue tones only.", "answer": false },
+            { "statement": "In a few days the stork will leave.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a certain dignity to a stork that has chosen a roof rather than a nest as its evening perch. The nest is communal, slightly chaotic, full of half-grown chicks and family business; a roof is solitary, deliberate, almost ceremonial. The bird in this photograph has placed itself precisely at the apex of an old wooden barn, against a sky in the long, slow transition between gold and red. It looks for all the world like a sentinel — a guardian, in the village folk imagination, standing watch over the fields below as the last hours of summer slip past. In zoological terms this is nonsense; the stork has no idea it has been cast in such a role. And yet the photograph insists on it, and so, for the duration of a quiet August evening, do we.",
+      "text_pl": "Jest pewna szczególna godność w bocianie, który zamiast gniazda wybrał na wieczorny posterunek dach. Gniazdo jest wspólne, lekko chaotyczne, pełne wpół wyrośniętych piskląt i rodzinnych spraw; dach jest samotny, świadomy, niemal ceremonialny. Ptak na tym zdjęciu ustawił się dokładnie w kalenicy starej drewnianej stodoły, na tle nieba w długim, powolnym przejściu między złotem a czerwienią. Wygląda zupełnie jak wartownik — opiekun, w wiejskiej wyobraźni ludowej, stojący na warcie nad polami w dole, gdy ostatnie godziny lata przemykają. W kategoriach zoologicznych to nonsens; bocian nie ma pojęcia, że obsadzono go w takiej roli. A jednak zdjęcie obstaje przy niej, więc przez czas spokojnego sierpniowego wieczoru robimy to samo my.",
+      "vocab": [
+        { "term": "dignity", "ipa_br": "/ˈdɪɡ.nə.ti/", "pl": "godność", "new": true },
+        { "term": "perch", "ipa_br": "/pɜːtʃ/", "pl": "grzęda, posterunek (ptaka); siedzieć", "new": true },
+        { "term": "communal", "ipa_br": "/ˈkɒm.jʊ.nəl/", "pl": "wspólny, gromadny", "new": true },
+        { "term": "solitary", "ipa_br": "/ˈsɒl.ɪ.tər.i/", "pl": "samotny, odosobniony", "new": false },
+        { "term": "deliberate", "ipa_br": "/dɪˈlɪb.ər.ət/", "pl": "świadomy, zamierzony", "new": true },
+        { "term": "apex", "ipa_br": "/ˈeɪ.peks/", "pl": "szczyt, kalenica", "new": true },
+        { "term": "sentinel", "ipa_br": "/ˈsen.tɪ.nəl/", "pl": "wartownik, strażnik", "new": true },
+        { "term": "guardian", "ipa_br": "/ˈɡɑː.di.ən/", "pl": "strażnik, opiekun", "new": true },
+        { "term": "cast", "ipa_br": "/kɑːst/", "pl": "obsadzać (w roli); rzucać", "new": true },
+        { "term": "nonsense", "ipa_br": "/ˈnɒn.səns/", "pl": "nonsens, bzdura", "new": true },
+        { "term": "duration", "ipa_br": "/djʊˈreɪ.ʃən/", "pl": "czas trwania", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The nest is described as solitary and almost ceremonial.", "answer": false },
+            { "statement": "The bird stands at the apex of the wooden barn.", "answer": true },
+            { "statement": "The author compares the stork to a sentinel or guardian.", "answer": true },
+            { "statement": "In zoological terms, the stork is fully aware of its symbolic role.", "answer": false },
+            { "statement": "The photograph captures the bird against a sky in slow transition between gold and red.", "answer": true },
+            { "statement": "The text says the village folk imagination plays no role here.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "It is hard to look at a stork standing alone on a Polish barn roof in late August without reaching for the language of duty. Stróż lata, the guardian of summer; ostatni wartownik, the last watchman — the phrases come almost before one is fully aware of them, because the visual cue is so old. A motionless white bird on a high gable, sun setting behind it, end-of-season light: every element is part of an iconography that long predates photography. The photograph here, made near Ulan-Majorat in eastern Poland on the twenty-fifth of August, simply gives that iconography one more rendering. What it adds, perhaps, is a measure of restraint. There is no nest, no chicks, no chimney with a row of birds preparing to leave. There is one bird, one barn, one sun. The composition refuses to over-explain itself; the viewer is left to do the rest of the work.",
+      "text_pl": "Trudno patrzeć na bociana stojącego samotnie na dachu polskiej stodoły późnym sierpniem, nie sięgając po słownik obowiązku. Stróż lata, ostatni wartownik — te wyrażenia przychodzą niemal zanim człowiek je sobie w pełni uświadomi, bo wizualny sygnał jest tak stary. Nieruchomy biały ptak na wysokim szczycie dachu, słońce zachodzące za nim, światło końca sezonu: każdy element jest częścią ikonografii, która znacznie wyprzedza fotografię. Zdjęcie zrobione pod Ulanem-Majoratem we wschodniej Polsce dwudziestego piątego sierpnia jest po prostu kolejną realizacją tej ikonografii. Tym, co być może dodaje, jest pewna miara powściągliwości. Nie ma gniazda, nie ma piskląt, nie ma komina z rzędem ptaków szykujących się do odlotu. Jest jeden ptak, jedna stodoła, jedno słońce. Kompozycja odmawia nadmiernego objaśniania siebie; widz musi wykonać resztę pracy.",
+      "vocab": [
+        { "term": "duty", "ipa_br": "/ˈdjuː.ti/", "pl": "obowiązek, powinność", "new": true },
+        { "term": "watchman", "ipa_br": "/ˈwɒtʃ.mən/", "pl": "wartownik, stróż", "new": true },
+        { "term": "gable", "ipa_br": "/ˈɡeɪ.bəl/", "pl": "szczyt dachu, kalenica", "new": true },
+        { "term": "iconography", "ipa_br": "/aɪˌkɒnˈɒɡ.rə.fi/", "pl": "ikonografia", "new": true },
+        { "term": "predate", "ipa_br": "/priːˈdeɪt/", "pl": "poprzedzać (w czasie)", "new": true },
+        { "term": "rendering", "ipa_br": "/ˈren.dər.ɪŋ/", "pl": "realizacja, ujęcie, wyrenderowanie", "new": true },
+        { "term": "restraint", "ipa_br": "/rɪˈstreɪnt/", "pl": "powściągliwość, opanowanie", "new": true },
+        { "term": "refuse", "ipa_br": "/rɪˈfjuːz/", "pl": "odmawiać", "new": false },
+        { "term": "viewer", "ipa_br": "/ˈvjuː.ə/", "pl": "widz", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie.",
+          "items": [
+            { "original": "It is hard to look at a stork on a Polish barn roof in late August without reaching for the language of duty.", "answer": "When one looks at a stork on a Polish barn roof in late August, it is almost impossible not to reach for the language of duty." },
+            { "original": "Every element is part of an iconography that long predates photography.", "answer": "Each element belongs to an iconography that existed long before photography did." },
+            { "original": "The composition refuses to over-explain itself.", "answer": "The composition deliberately avoids explaining itself too much." },
+            { "original": "What it adds, perhaps, is a measure of restraint.", "answer": "Perhaps what the photograph contributes is a certain amount of restraint." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "Few subjects in Polish village photography are as overdetermined as a stork against a sunset. The bird is, simultaneously, a meteorological omen, a folk symbol of fertility and luck, a piece of medieval Christian iconography (in which, you may recall, it ferries newborns), a herald of seasonal change, and, in more recent decades, a small flag of national identity — Poland holds, in any given summer, roughly a quarter of Europe's white-stork population. Stack all of these meanings together and any single specimen of the bird, settled on any old village rooftop, is doing too much symbolic work at once. The wonder, perhaps, is that the photograph still functions. It functions because the bird itself is unconcerned. It is not posing for an allegory; it is digesting a frog and waiting for the temperature to fall. The barn is simply where the wind is right. The viewer brings the symbolism; the bird is just, in the unimprovable English phrase, getting on with it.",
+      "text_pl": "Niewiele tematów w polskiej fotografii wiejskiej jest tak naddeterminowanych jak bocian na tle zachodu słońca. Ptak jest jednocześnie znakiem meteorologicznym, ludowym symbolem płodności i szczęścia, fragmentem średniowiecznej ikonografii chrześcijańskiej (w której, jak być może pamiętasz, przewozi noworodki), zwiastunem zmiany pór roku, a w nowszych dekadach drobnym sztandarem tożsamości narodowej — Polska skupia każdego lata mniej więcej jedną czwartą europejskiej populacji bociana białego. Spakuj wszystkie te znaczenia razem, a pojedynczy okaz tego ptaka, posadowiony na byle starym wiejskim dachu, wykonuje stanowczo zbyt wiele pracy symbolicznej naraz. Zaskoczeniem jest być może to, że zdjęcie wciąż działa. Działa, bo sam ptak jest tym wszystkim niezainteresowany. Nie pozuje do alegorii; trawi żabę i czeka, aż temperatura spadnie. Stodoła jest po prostu miejscem, w którym wiatr jest taki, jaki trzeba. Symbolikę przynosi widz; ptak po prostu, w nieprzetłumaczalnej angielskiej frazie, getting on with it (zajmuje się swoimi sprawami).",
+      "vocab": [
+        { "term": "overdetermined", "ipa_br": "/ˌəʊ.və.dɪˈtɜː.mɪnd/", "pl": "naddeterminowany, zbytnio nasycony znaczeniami", "new": true },
+        { "term": "simultaneously", "ipa_br": "/ˌsɪm.əlˈteɪ.ni.əs.li/", "pl": "jednocześnie, równocześnie", "new": true },
+        { "term": "omen", "ipa_br": "/ˈəʊ.mən/", "pl": "znak (przepowiednia), zwiastun", "new": true },
+        { "term": "fertility", "ipa_br": "/fəˈtɪl.ə.ti/", "pl": "płodność, urodzajność", "new": true },
+        { "term": "medieval", "ipa_br": "/ˌmed.iˈiː.vəl/", "pl": "średniowieczny", "new": true },
+        { "term": "ferry", "ipa_br": "/ˈfer.i/", "pl": "przewozić, promować (wozić promem)", "new": true },
+        { "term": "herald", "ipa_br": "/ˈher.əld/", "pl": "zwiastun, herold", "new": true },
+        { "term": "specimen", "ipa_br": "/ˈspes.ɪ.mən/", "pl": "okaz, próbka", "new": true },
+        { "term": "allegory", "ipa_br": "/ˈæl.ə.ɡər.i/", "pl": "alegoria", "new": true },
+        { "term": "digest", "ipa_br": "/daɪˈdʒest/", "pl": "trawić; streszczać", "new": true },
+        { "term": "unconcerned", "ipa_br": "/ˌʌn.kənˈsɜːnd/", "pl": "niezainteresowany, obojętny", "new": true },
+        { "term": "unimprovable", "ipa_br": "/ˌʌn.ɪmˈpruː.və.bəl/", "pl": "nie do poprawienia, niedoskonalny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "cloze",
+          "prompt": "Open cloze — wpisz po JEDNYM słowie w każdą lukę. Bez banku.",
+          "passage": "Few subjects in Polish village photography are ___ overdetermined as a stork against a sunset. The bird is, simultaneously, a meteorological omen, a folk symbol of fertility and luck, a piece of medieval Christian iconography, a herald ___ seasonal change, and, in more recent decades, a small flag ___ national identity. Stack all of these meanings ___, and any single specimen of the bird is doing too much symbolic work ___ once. The wonder, perhaps, is ___ the photograph still functions. It functions because the bird itself is unconcerned. It is not posing ___ an allegory; it is digesting a frog and waiting for the temperature ___ fall.",
+          "answers": ["as", "of", "of", "together", "at", "that", "for", "to"],
+          "hints": [
+            "comparative — 'as X as Y' pattern",
+            "preposition — 'herald ___ seasonal change'",
+            "preposition — 'flag ___ national identity'",
+            "adverb — 'stack all of these ___'",
+            "preposition — '___ once'",
+            "conjunction introducing a noun clause",
+            "preposition — 'posing ___ an allegory'",
+            "infinitive marker — 'waiting for the temperature ___ fall'"
+          ]
+        }
+      ]
+    }
+  }
+}

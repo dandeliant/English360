@@ -1,0 +1,38 @@
+{
+  "lemma": "chaotic",
+  "slug": "chaotic",
+  "fetchTerm": "chaotic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Filled with chaos.",
+          "examples": []
+        },
+        {
+          "text": "Extremely disorganized or in disarray.",
+          "examples": []
+        },
+        {
+          "text": "Highly sensitive to starting conditions, so that a small change to them may yield a very different outcome.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A character having a chaotic alignment.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chaotyczny"
+  ],
+  "fetchedAt": "2026-05-18T11:34:24.354Z"
+}

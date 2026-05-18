@@ -1,0 +1,21 @@
+{
+  "lemma": "watchman",
+  "slug": "watchman",
+  "fetchTerm": "watchman",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A man set to watch: a man who keeps guard, especially one who guards a building, or the streets of a city, by night; any such person of any sex or gender.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stróż"
+  ],
+  "fetchedAt": "2026-05-18T12:02:20.064Z"
+}

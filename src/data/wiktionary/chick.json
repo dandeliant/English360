@@ -1,0 +1,50 @@
+{
+  "lemma": "chick",
+  "slug": "chick",
+  "fetchTerm": "chick",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A young bird.",
+          "examples": []
+        },
+        {
+          "text": "A young chicken.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sprout, as seed does in the ground; to vegetate.",
+          "examples": []
+        },
+        {
+          "text": "To compress the lips and then separate them quickly, resulting in a percussive noise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A screen or blind made of finely slit bamboo and twine, hung in doorways or windows.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pisklę",
+    "kurczak",
+    "kurczątko",
+    "laska"
+  ],
+  "fetchedAt": "2026-05-18T11:34:27.383Z"
+}

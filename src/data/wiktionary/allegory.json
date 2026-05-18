@@ -1,0 +1,42 @@
+{
+  "lemma": "allegory",
+  "slug": "allegory",
+  "fetchTerm": "allegory",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The use of symbols which may be interpreted to reveal a hidden, broader message, usually a moral or political one, about real-world issues and occurrences; also, the interpretation of such symbols.",
+          "examples": []
+        },
+        {
+          "text": "A picture, story, or other form of communication in which one or more characters, events, or places are used to reveal a hidden, broader message about real-world issues and occurrences. A character or thing which symbolically represents someone or something else; an emblem, a symbol. A category that retains some of the structure of the category of binary relations between sets, representing a high-level generalization of that category.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Synonym of allegorize. To interpret (a picture, story, or other form of communication) to reveal a hidden, broader message about real-world issues and occurrences. To create an allegory (noun sense 2.1) from (a character, an event or situation, etc.); also, to use one or more symbols to depict (a hidden, broader message about real-world issues and occurrences). Followed by away: to treat (something) as allegorical or symbolic rather than as truth. To interpret an allegory. To create or use allegory.",
+          "examples": []
+        },
+        {
+          "text": "To interpret (a picture, story, or other form of communication) to reveal a hidden, broader message about real-world issues and occurrences.",
+          "examples": []
+        },
+        {
+          "text": "To create an allegory (noun sense 2.1) from (a character, an event or situation, etc.); also, to use one or more symbols to depict (a hidden, broader message about real-world issues and occurrences).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "alegoria"
+  ],
+  "fetchedAt": "2026-05-18T11:34:14.803Z"
+}

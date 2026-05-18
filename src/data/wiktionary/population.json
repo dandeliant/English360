@@ -1,0 +1,37 @@
+{
+  "lemma": "population",
+  "slug": "population",
+  "fetchTerm": "population",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The people living within a political or geographical boundary.",
+          "examples": [
+            "The population of New Jersey will not stand for this!"
+          ]
+        },
+        {
+          "text": "The people with a given characteristic.",
+          "examples": [
+            "India has the third-largest population of English-speakers in the world."
+          ]
+        },
+        {
+          "text": "A count of the number of residents within a political or geographical boundary such as a town, a nation or the world.",
+          "examples": [
+            "The town’s population is only 243.",
+            "population explosion; population growth"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ludność",
+    "populacja"
+  ],
+  "fetchedAt": "2026-05-18T12:01:08.396Z"
+}

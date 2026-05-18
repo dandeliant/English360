@@ -1,0 +1,43 @@
+{
+  "lemma": "predate",
+  "slug": "predate",
+  "fetchTerm": "predate",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To designate a date earlier than the actual one; to move a date, appointment, event, or period of time to an earlier point (contrast \"postdate\".)",
+          "examples": []
+        },
+        {
+          "text": "To exist or to occur before something else; to antedate.",
+          "examples": [
+            "The Chinese use of Pascal's Triangle predates its discovery by Blaise Pascal."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A publication, such as a newspaper or magazine, that is issued with a printed date later than the date of issue.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To prey upon something.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:01:09.838Z"
+}

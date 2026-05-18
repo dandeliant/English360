@@ -1,0 +1,56 @@
+{
+  "lemma": "national",
+  "slug": "national",
+  "fetchTerm": "national",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to a nation or country, especially as a whole; affecting, shared by, or existing throughout all of a nation. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "a national assembly · on the front page of every national newspaper",
+            "Import tariffs were raised for the national interest."
+          ]
+        },
+        {
+          "text": "Belonging to or characteristic of a specific nation or country, as opposed to others.",
+          "examples": [
+            "this is their national dish · our national tendency to laugh at the French"
+          ]
+        },
+        {
+          "text": "Nationalistic; patriotic.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A subject of a nation.",
+          "examples": [
+            "The diplomats were advised not to interact with any foreign nationals except on official duty."
+          ]
+        },
+        {
+          "text": "A tournament in which participants from all over the nation compete.",
+          "examples": [
+            "After winning the regional tournament, the team advanced to the nationals."
+          ]
+        },
+        {
+          "text": "A national newspaper.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "narodowy",
+    "nacjonalny"
+  ],
+  "fetchedAt": "2026-05-18T12:00:56.533Z"
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "quarter",
+  "slug": "quarter",
+  "fetchTerm": "quarter",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fourth part of something. Each of four equal parts into which something can be divided; a fourth part. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I ate a quarter of the pizza."
+          ]
+        },
+        {
+          "text": "Each of four equal parts into which something can be divided; a fourth part. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I ate a quarter of the pizza."
+          ]
+        },
+        {
+          "text": "A measure of capacity used chiefly for grain or coal, varying greatly in quantity by time and location.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to an aspect of a quarter.",
+          "examples": []
+        },
+        {
+          "text": "Consisting of a fourth part, a quarter (⁄4, 25%).",
+          "examples": [
+            "a quarter hour; a quarter century; a quarter note; a quarter pound"
+          ]
+        },
+        {
+          "text": "Related to a three-month term, a quarter of a year.",
+          "examples": [
+            "A quarter day is one terminating a quarter of the year.",
+            "A quarter session is one held quarterly at the end of a quarter."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To divide into quarters; to divide by four.",
+          "examples": []
+        },
+        {
+          "text": "To provide housing for (usually military personnel or equipment).",
+          "examples": [
+            "Quarter the horses in the third stable."
+          ]
+        },
+        {
+          "text": "To lodge; to have a temporary residence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To drive a carriage so as to prevent the wheels from going into the ruts, or so that a rut shall be between the wheels.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ćwierć",
+    "ćwierćdolarówka",
+    "kwartał",
+    "dzielnica",
+    "ćwiartować"
+  ],
+  "fetchedAt": "2026-05-18T12:01:11.588Z"
+}

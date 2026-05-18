@@ -1,0 +1,33 @@
+{
+  "lemma": "guardian",
+  "slug": "guardian",
+  "fetchTerm": "guardian",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone who guards, watches over, or protects.",
+          "examples": []
+        },
+        {
+          "text": "A person legally responsible for a minor (in loco parentis).",
+          "examples": []
+        },
+        {
+          "text": "A person legally responsible for an incompetent person.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "stróż",
+    "obrońca",
+    "strażnik",
+    "opiekun",
+    "opiekunka"
+  ],
+  "fetchedAt": "2026-05-18T12:00:33.949Z"
+}

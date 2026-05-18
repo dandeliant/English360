@@ -1,0 +1,42 @@
+{
+  "lemma": "fully",
+  "slug": "fully",
+  "fetchTerm": "fully",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a full manner; without lack or defect; completely, entirely.",
+          "examples": [
+            "He is fully capable of meeting his responsibilities."
+          ]
+        },
+        {
+          "text": "Used as an intensifier for a quantity.",
+          "examples": [
+            "it was fully four hours before we arrived home."
+          ]
+        },
+        {
+          "text": "Exactly, equally.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To commit or send someone to trial.",
+          "examples": [
+            "(Can we find and add a quotation of Edgar Wallace to this entry?)"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:00:22.241Z"
+}

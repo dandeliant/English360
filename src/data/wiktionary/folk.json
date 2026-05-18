@@ -1,0 +1,54 @@
+{
+  "lemma": "folk",
+  "slug": "folk",
+  "fetchTerm": "folk",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A people; a tribe or nation; the inhabitants of a region, especially the native inhabitants.",
+          "examples": []
+        },
+        {
+          "text": "People, persons.",
+          "examples": [
+            "There were a lot of folk in the streets.",
+            "Young folk, old folk, everybody come / To our little Sunday School, and have a lot of fun."
+          ]
+        },
+        {
+          "text": "One’s relatives, especially one’s parents.",
+          "examples": [
+            "I need to call my folks back home."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the inhabitants of a land, their culture, tradition, or history.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to common people as opposed to ruling classes or elites.",
+          "examples": []
+        },
+        {
+          "text": "Of or related to local building materials and styles.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lud",
+    "ludowy",
+    "zwyczajowy",
+    "popularny"
+  ],
+  "fetchedAt": "2026-05-18T12:00:20.650Z"
+}

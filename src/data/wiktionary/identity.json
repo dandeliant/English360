@@ -1,0 +1,21 @@
+{
+  "lemma": "identity",
+  "slug": "identity",
+  "fetchTerm": "identity",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Sameness, identicalness; the quality or fact of (several specified things) being the same.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "tożsamość"
+  ],
+  "fetchedAt": "2026-05-18T12:00:43.572Z"
+}

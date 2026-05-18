@@ -1,0 +1,50 @@
+{
+  "lemma": "digest",
+  "slug": "digest",
+  "fetchTerm": "digest",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To distribute or arrange methodically; to work over and classify; to reduce to portions for ready use or application.",
+          "examples": [
+            "to digest laws"
+          ]
+        },
+        {
+          "text": "To separate (the food) in its passage through the alimentary canal into the nutritive and nonnutritive elements; to prepare, by the action of the digestive juices, for conversion into blood; to convert into chyme.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is digested; especially, that which is worked over, classified, and arranged under proper heads or titles.",
+          "examples": []
+        },
+        {
+          "text": "A compilation of statutes or decisions analytically arranged; a summary of laws.",
+          "examples": [
+            "Comyn's Digest",
+            "the United States Digest"
+          ]
+        },
+        {
+          "text": "Any collection of articles, as an Internet mailing list including a week's postings, or a magazine arranging a collection of writings.",
+          "examples": [
+            "Reader's Digest is published monthly.",
+            "The weekly email digest contains all the messages exchanged during the past week."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "trawić"
+  ],
+  "fetchedAt": "2026-05-18T11:34:35.758Z"
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "explain",
+  "slug": "explain",
+  "fetchTerm": "explain",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make plain, manifest, or intelligible; to clear of obscurity; to illustrate the meaning of.",
+          "examples": [
+            "The issue was explained to the governor in detail."
+          ]
+        },
+        {
+          "text": "To give the reason for, justification for, or cause of.",
+          "examples": []
+        },
+        {
+          "text": "To make flat, smooth out.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wyjaśniać",
+    "wyjaśnić",
+    "objaśniać",
+    "objaśnić"
+  ],
+  "fetchedAt": "2026-05-18T11:34:52.842Z"
+}

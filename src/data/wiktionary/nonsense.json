@@ -1,0 +1,74 @@
+{
+  "lemma": "nonsense",
+  "slug": "nonsense",
+  "fetchTerm": "nonsense",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Letters or words, in writing or speech, that have no meaning or pattern or seem to have no meaning.",
+          "examples": [
+            "After my father had a stroke, every time he tried to talk, it sounded like nonsense."
+          ]
+        },
+        {
+          "text": "An untrue statement.",
+          "examples": []
+        },
+        {
+          "text": "That which is silly, illogical and lacks any meaning, reason or value; that which does not make sense.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make nonsense of;",
+          "examples": []
+        },
+        {
+          "text": "To attempt to dismiss as nonsense; to ignore or belittle the significance of something; to render unimportant or puny.",
+          "examples": []
+        },
+        {
+          "text": "To joke around, to waste time",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Nonsensical.",
+          "examples": []
+        },
+        {
+          "text": "Resulting from the substitution of a nucleotide in a sense codon, causing it to become a stop codon (not coding for an amino-acid).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "An emphatic rejection of something one has just heard and does not believe or agree with.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nonsens",
+    "niedorzeczność",
+    "absurd",
+    "bezsens",
+    "bzdura"
+  ],
+  "fetchedAt": "2026-05-18T12:01:00.509Z"
+}

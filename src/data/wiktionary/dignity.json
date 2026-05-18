@@ -1,0 +1,31 @@
+{
+  "lemma": "dignity",
+  "slug": "dignity",
+  "fetchTerm": "dignity",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of being dignified or worthy of esteem: elevation of mind or character.",
+          "examples": []
+        },
+        {
+          "text": "Decorum, formality, stateliness. (Discuss this sense)",
+          "examples": []
+        },
+        {
+          "text": "High office, rank, or station.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "godność",
+    "dostojność",
+    "dostojeństwo"
+  ],
+  "fetchedAt": "2026-05-18T11:34:38.149Z"
+}

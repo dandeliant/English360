@@ -1,0 +1,62 @@
+{
+  "lemma": "herald",
+  "slug": "herald",
+  "fetchTerm": "herald",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A messenger, especially one bringing important news.",
+          "examples": [
+            "The herald blew his trumpet and shouted that the King was dead."
+          ]
+        },
+        {
+          "text": "A harbinger, giving signs of things to come.",
+          "examples": [
+            "Daffodils are heralds of Spring."
+          ]
+        },
+        {
+          "text": "An official whose speciality is heraldry, especially one between the ranks of pursuivant and king-of-arms",
+          "examples": [
+            "Rouge Dragon is a herald at the College of Arms."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To proclaim or announce an event.",
+          "examples": [
+            "Daffodils herald the Spring."
+          ]
+        },
+        {
+          "text": "To greet something with excitement; to hail.",
+          "examples": [
+            "The film was heralded by critics."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of hareld (“long-tailed duck”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "herold",
+    "szczerbówka"
+  ],
+  "fetchedAt": "2026-05-18T12:00:40.281Z"
+}

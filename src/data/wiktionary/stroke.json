@@ -1,0 +1,94 @@
+{
+  "lemma": "stroke",
+  "slug": "stroke",
+  "fetchTerm": "stroke",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of hitting; a blow, a hit.",
+          "examples": [
+            "a stroke on the chin",
+            "Singapore plans to cane scammers and scam mules, with mandatory caning of at least six strokes for scammers and discretionary caning for mules."
+          ]
+        },
+        {
+          "text": "An act of striking with a weapon; a blow.",
+          "examples": [
+            "Singapore plans to cane scammers and scam mules, with mandatory caning of at least six strokes for scammers and discretionary caning for mules."
+          ]
+        },
+        {
+          "text": "A single movement with a tool; also, an impact of a tool on an object.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To draw the horizontal line across the upright part (of the letter t). Followed by out or through: to draw a line or lines through (text) to indicate that it is deleted; to cancel, to strike or strike out. Of a bell or clock: to chime or sound to indicate (the hour, the time, etc.). To mark (something) with lines or stripes; to stripe. To hit or kick (the ball) with a flowing or smooth motion; also, to score (a goal, a point, etc.) by doing so. Of a rower or a crew: to row at (a rate of a certain number of strokes (“movements of the oar through water”) per minute). To act as the stroke (“rower who is nearest the stern of the boat, the movement of whose oar sets the rowing rhythm for the other rowers”) of (a boat or its crew).",
+          "examples": [
+            "to stroke a boat",
+            "Yes, it's 'only' a small block, but it’s got some tricks up its sleeve — it's been bored, stroked, ported, polished, and fuel-injected."
+          ]
+        },
+        {
+          "text": "To draw the horizontal line across the upright part (of the letter t).",
+          "examples": []
+        },
+        {
+          "text": "Followed by out or through: to draw a line or lines through (text) to indicate that it is deleted; to cancel, to strike or strike out.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move one's hand or an object (such as a broom or brush) along (a surface) in one direction, touching it lightly; to caress. To masturbate.",
+          "examples": []
+        },
+        {
+          "text": "To masturbate.",
+          "examples": []
+        },
+        {
+          "text": "To bring (something) to a certain condition by stroking (sense 1).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of moving one's hand or an object along a surface in one direction, touching it lightly; a caress.",
+          "examples": [
+            "She gave the cat a stroke."
+          ]
+        },
+        {
+          "text": "A gesture of assurance given as encouragement; specifically in transactional analysis: a (generally positive) reaction expressed to a person which fulfils their desires or needs. A flattering or friendly act, comment, etc., done or made to a person to influence them.",
+          "examples": []
+        },
+        {
+          "text": "A gesture of assurance given as encouragement; specifically in transactional analysis: a (generally positive) reaction expressed to a person which fulfils their desires or needs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cios",
+    "pociągnięcie",
+    "styl",
+    "skok",
+    "suw"
+  ],
+  "fetchedAt": "2026-05-18T12:01:58.920Z"
+}

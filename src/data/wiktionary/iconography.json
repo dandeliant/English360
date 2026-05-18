@@ -1,0 +1,31 @@
+{
+  "lemma": "iconography",
+  "slug": "iconography",
+  "fetchTerm": "iconography",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A set of specified or traditional symbolic forms associated with the subject or theme of a stylized genre of art.",
+          "examples": []
+        },
+        {
+          "text": "The art of representation by pictures or images; the description or study of portraiture or representation, as of persons.",
+          "examples": [
+            "the iconography of the ancients"
+          ]
+        },
+        {
+          "text": "The study of representative art in general.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ikonografia"
+  ],
+  "fetchedAt": "2026-05-18T12:00:41.660Z"
+}

@@ -1,0 +1,31 @@
+{
+  "lemma": "unconcerned",
+  "slug": "unconcerned",
+  "fetchTerm": "unconcerned",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Indifferent and having no interest; aloof.",
+          "examples": []
+        },
+        {
+          "text": "Not anxious, apprehensive, or worried.",
+          "examples": [
+            "She is completely unconcerned about the upcoming exams."
+          ]
+        },
+        {
+          "text": "Having no involvement.",
+          "examples": [
+            "unconcerned in the business"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-18T12:02:10.859Z"
+}

@@ -1,0 +1,49 @@
+{
+  "lemma": "sentinel",
+  "slug": "sentinel",
+  "fetchTerm": "sentinel",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sentry, watch, or guard.",
+          "examples": []
+        },
+        {
+          "text": "A private soldier.",
+          "examples": []
+        },
+        {
+          "text": "A unique value recognised by a computer program for processing in a special way, or marking the end of a set of data.",
+          "examples": [
+            "The xmp tag is a sentinel that suspends web-page processing and displays the subsequent text literally"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To watch over as a guard.",
+          "examples": [
+            "He sentineled the north wall."
+          ]
+        },
+        {
+          "text": "To post a guard for.",
+          "examples": [
+            "He sentineled the north wall with just one man."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wartownik",
+    "strażnik"
+  ],
+  "fetchedAt": "2026-05-18T12:01:27.684Z"
+}
