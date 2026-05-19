@@ -45,10 +45,18 @@ function loadVoices() {
   return _voicesPromise;
 }
 
-function pickVoice(voices) {
+function pickVoice(voices, lang = 'en') {
+  if (lang === 'pl') {
+    return (
+      voices.find((v) => v.name && v.name.toLowerCase().includes('google') && v.lang === 'pl-PL') ||
+      voices.find((v) => v.lang === 'pl-PL') ||
+      voices.find((v) => v.lang && v.lang.toLowerCase().startsWith('pl')) ||
+      null
+    );
+  }
   return (
     voices.find((v) => v.name === 'Google UK English Female') ||
-    voices.find((v) => v.name.includes('Google') && v.lang === 'en-GB') ||
+    voices.find((v) => v.name && v.name.includes('Google') && v.lang === 'en-GB') ||
     voices.find((v) => v.lang === 'en-GB') ||
     voices.find((v) => v.lang && v.lang.toLowerCase().startsWith('en')) ||
     voices[0] ||
@@ -73,13 +81,14 @@ function markIdle(btn) {
 // ── Word wrapping & highlighting ───────────────────────────────────────────
 
 // Look up the highlight target for a button. Main buttons highlight the
-// EN paragraph(s) inside their panel — the PL container is also in the
-// DOM but hidden via CSS when text-lang is `en`, so target it directly.
+// paragraph(s) in their own language inside the panel — `data-tts-lang`
+// determines which container ('en' or 'pl') to highlight.
 function getHighlightTarget(btn) {
   if (!btn || btn.dataset.ttsMain !== 'true') return null;
   const panel = btn.closest('[data-level-panel]');
   if (!panel) return null;
-  return panel.querySelector('[data-text-lang-content="en"]');
+  const lang = btn.dataset.ttsLang === 'pl' ? 'pl' : 'en';
+  return panel.querySelector(`[data-text-lang-content="${lang}"]`);
 }
 
 // Wrap every word in the container with <span class="tts-word">…</span>.
@@ -182,14 +191,16 @@ export async function speak(text, opts = {}) {
   if (!synth || !text || !text.trim()) return;
   synth.cancel();
 
+  const lang = opts.lang === 'pl' ? 'pl' : 'en';
+  const fallbackLang = lang === 'pl' ? 'pl-PL' : 'en-GB';
   const voices = await loadVoices();
   const utterance = new SpeechSynthesisUtterance(text);
-  const voice = pickVoice(voices);
+  const voice = pickVoice(voices, lang);
   if (voice) {
     utterance.voice = voice;
-    utterance.lang = voice.lang || 'en-GB';
+    utterance.lang = voice.lang || fallbackLang;
   } else {
-    utterance.lang = 'en-GB';
+    utterance.lang = fallbackLang;
   }
   utterance.rate = opts.rate ?? 0.95;
   utterance.pitch = opts.pitch ?? 1;
@@ -258,9 +269,11 @@ function handleButtonActivation(btn) {
   markActive(btn);
 
   const rate = parseFloat(btn.dataset.ttsRate || '');
+  const lang = btn.dataset.ttsLang === 'pl' ? 'pl' : 'en';
   speak(text, {
     rate: Number.isFinite(rate) ? rate : undefined,
     target,
+    lang,
   });
 }
 
@@ -282,16 +295,19 @@ function bindSpaceShortcut() {
     const t = event.target;
     if (t && t.matches && t.matches('input, textarea, select, button, [contenteditable="true"]')) return;
 
-    // TTS is EN-only — bail if the user has switched the text to PL.
-    if (document.documentElement.dataset.textLang === 'pl') return;
-
     const card = document.querySelector('[data-lesson-card]');
     if (!card) return;
     const level = card.dataset.activeLevel;
     if (!level) return;
     const panel = card.querySelector(`[data-level-panel="${level}"]`);
     if (!panel || panel.hidden) return;
-    const main = panel.querySelector('[data-tts][data-tts-main]');
+
+    // In PL mode trigger the PL main button; in EN or parallel mode prefer EN.
+    const textLang = document.documentElement.dataset.textLang;
+    const preferredLang = textLang === 'pl' ? 'pl' : 'en';
+    const main =
+      panel.querySelector(`[data-tts][data-tts-main][data-tts-lang="${preferredLang}"]`) ||
+      panel.querySelector('[data-tts][data-tts-main]');
     if (!main) return;
 
     event.preventDefault();

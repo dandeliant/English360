@@ -108,9 +108,18 @@ const wordIndex = await buildWordIndex();
                 <div class="lesson-panel__text-actions">
                   <TTSButton
                     text={content.text}
-                    label={`Odsłuchaj tekst poziomu ${level}`}
+                    label={`Odsłuchaj tekst poziomu ${level} po angielsku`}
                     main
+                    lang="en"
                   />
+                  {content.text_pl && (
+                    <TTSButton
+                      text={content.text_pl}
+                      label={`Odsłuchaj tekst poziomu ${level} po polsku`}
+                      main
+                      lang="pl"
+                    />
+                  )}
                   <LangToggle hasPl={Boolean(content.text_pl)} />
                 </div>
 

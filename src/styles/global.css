@@ -261,9 +261,11 @@ html[data-text-lang='pl'] [data-text-lang-content='en'] {
   display: none;
 }
 
-/* TTS is EN-only — hide the main button outside the EN view. */
-html[data-text-lang='pl'] [data-tts][data-tts-main],
-html[data-text-lang='parallel'] [data-tts][data-tts-main] {
+/* TTS visibility per text-lang mode. The EN main button is hidden when
+ * only PL is shown; the PL main button is hidden when only EN is shown.
+ * In parallel mode both stay visible so users can hear either side. */
+html[data-text-lang='en'] [data-tts][data-tts-main][data-tts-lang='pl'],
+html[data-text-lang='pl'] [data-tts][data-tts-main][data-tts-lang='en'] {
   display: none;
 }
 

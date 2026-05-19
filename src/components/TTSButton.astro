@@ -5,9 +5,11 @@ interface Props {
   size?: 'sm' | 'md';
   main?: boolean;
   rate?: number;
+  lang?: 'en' | 'pl';
 }
 
-const { text, label = 'Odsłuchaj', size = 'md', main = false, rate } = Astro.props;
+const { text, label = 'Odsłuchaj', size = 'md', main = false, rate, lang = 'en' } = Astro.props;
+const displayCode = lang === 'pl' ? 'PL' : 'EN';
 ---
 <button
   type="button"
@@ -16,11 +18,12 @@ const { text, label = 'Odsłuchaj', size = 'md', main = false, rate } = Astro.pr
   data-tts-text={text}
   data-tts-rate={rate?.toString()}
   data-tts-main={main ? 'true' : undefined}
+  data-tts-lang={lang}
   aria-label={label}
   aria-pressed="false"
 >
   <span class="tts-btn__icon" aria-hidden="true">🔊</span>
-  {size === 'md' && <span class="tts-btn__label">Listen</span>}
+  {size === 'md' && <span class="tts-btn__label">{displayCode}</span>}
 </button>
 
 <style>

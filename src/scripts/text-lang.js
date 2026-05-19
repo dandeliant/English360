@@ -23,6 +23,8 @@ export function getTextLang() {
 
 export function setTextLang(lang) {
   if (!VALID.has(lang)) return;
+  const prev = document.documentElement.dataset.textLang;
+  if (prev === lang) return;
   document.documentElement.dataset.textLang = lang;
   try {
     localStorage.setItem(STORAGE_KEY, lang);
@@ -30,8 +32,9 @@ export function setTextLang(lang) {
     // Best-effort persistence.
   }
   syncToggles(lang);
-  // TTS is EN-only, so cancel any speech when leaving the EN view.
-  if (lang !== 'en') cancelTts();
+  // Cancel any in-flight speech on switch — the playing voice may no
+  // longer match the visible text (e.g. PL audio while only EN is shown).
+  cancelTts();
 }
 
 function syncToggles(lang) {
