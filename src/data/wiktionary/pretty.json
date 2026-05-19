@@ -1,0 +1,67 @@
+{
+  "lemma": "pretty",
+  "slug": "pretty",
+  "fetchTerm": "pretty",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pleasant to the sight or other senses; attractive, especially of women or children. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Of objects or things: nice-looking, appealing.",
+          "examples": []
+        },
+        {
+          "text": "Fine-looking; only superficially attractive; initially appealing but having little substance; see petty.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Somewhat, fairly, quite; sometimes also (by meiosis) very.",
+          "examples": []
+        },
+        {
+          "text": "Prettily, in a pretty manner.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pretty person; a term of address to a pretty person.",
+          "examples": []
+        },
+        {
+          "text": "Something that is pretty.",
+          "examples": [
+            "We'll stop at the knife store and look at the sharp pretties."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make pretty; to beautify",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ładny",
+    "całkiem"
+  ],
+  "fetchedAt": "2026-05-19T20:33:26.634Z"
+}

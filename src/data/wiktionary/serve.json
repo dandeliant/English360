@@ -1,0 +1,54 @@
+{
+  "lemma": "serve",
+  "slug": "serve",
+  "fetchTerm": "serve",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of putting the ball or shuttlecock in play in various games.",
+          "examples": [
+            "Whose serve is it?"
+          ]
+        },
+        {
+          "text": "A portion of food or drink, a serving.",
+          "examples": []
+        },
+        {
+          "text": "An impressive presentation (especially of a person's appearance).",
+          "examples": [
+            "That white eyeliner is such a serve."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To provide a service (or, by extension, a product, especially food or drink). To be a formal servant for (a god or deity); to worship in an official capacity. .mw-parser-output .defdate{font-size:smaller} To be a servant for; to work for, to be employed by. To wait upon (someone) at table; to set food and drink in front of, to help (someone) to food, meals etc. To render service by being a servant, worker, employee, or officeholder; to hold those roles and perform their duties. To set down (food or drink) on the table to be eaten; to bring (food, drink) to a person.",
+          "examples": []
+        },
+        {
+          "text": "To be a formal servant for (a god or deity); to worship in an official capacity. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To be a servant for; to work for, to be employed by.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zagrywka",
+    "serw",
+    "serwis",
+    "służyć",
+    "serwować"
+  ],
+  "fetchedAt": "2026-05-19T20:33:53.455Z"
+}

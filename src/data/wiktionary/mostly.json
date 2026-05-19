@@ -1,0 +1,29 @@
+{
+  "lemma": "mostly",
+  "slug": "mostly",
+  "fetchTerm": "mostly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Mainly or chiefly; for the most part; usually, generally, on the whole.",
+          "examples": [
+            "They're mostly good people, although they have made a few mistakes."
+          ]
+        },
+        {
+          "text": "To the greatest extent; most.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "głównie",
+    "przeważnie",
+    "w głównej mierze"
+  ],
+  "fetchedAt": "2026-05-19T20:32:53.945Z"
+}

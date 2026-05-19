@@ -1,0 +1,43 @@
+{
+  "lemma": "nature",
+  "slug": "nature",
+  "fetchTerm": "nature",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The way things are, the totality of all things in the physical universe and their order, especially the physical world in contrast to spiritual realms and flora and fauna as distinct from human conventions, art, and technology.",
+          "examples": [
+            "Nature doesn't lie.",
+            "The laws of nature are written in the language of mathematics."
+          ]
+        },
+        {
+          "text": "The particular way someone or something is, especially The essential or innate characteristics of a person or thing which will always tend to manifest, especially in contrast to specific contexts, reason, religious duty, upbringing, and personal pretense or effort.",
+          "examples": [
+            "It's not in my nature to steal.",
+            "You can't help feeling that way. It's human nature."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To endow with natural qualities.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "natura",
+    "przyroda",
+    "charakter",
+    "specyfika"
+  ],
+  "fetchedAt": "2026-05-19T20:32:57.824Z"
+}

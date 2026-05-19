@@ -1,0 +1,70 @@
+{
+  "lemma": "match",
+  "slug": "match",
+  "fetchTerm": "match",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A competitive sporting event such as a boxing meet (commonly called a \"bout\"), a baseball game, or a cricket match.",
+          "examples": [
+            "My local team are playing in a match against their arch-rivals today."
+          ]
+        },
+        {
+          "text": "Any contest or trial of strength or skill, or to determine superiority.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To agree; to be equal; to correspond.",
+          "examples": [
+            "Their interests didn't match, so it took a long time to agree what to do together.",
+            "These two copies are supposed to be identical, but they don't match."
+          ]
+        },
+        {
+          "text": "To agree with; to be equal to; to correspond to.",
+          "examples": [
+            "His interests didn't match her interests."
+          ]
+        },
+        {
+          "text": "To equal or exceed in achievement.",
+          "examples": [
+            "She matched him at every turn: anything he could do, she could do as well or better."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small wooden stick specially treated with chemicals to produce flame upon contact with another chemical, from the frictional heat produced by striking it against a surface, or both; other similar items made from chemically-treated paper, cardboard, etc.",
+          "examples": [
+            "He struck a match and lit his pipe."
+          ]
+        },
+        {
+          "text": "Synonym of taper, a thin stick used to transfer flame, as from tender to a candle.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "mecz",
+    "zawody",
+    "pasować",
+    "zbiegać",
+    "dopasowywać"
+  ],
+  "fetchedAt": "2026-05-19T20:32:44.283Z"
+}

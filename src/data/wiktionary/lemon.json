@@ -1,0 +1,56 @@
+{
+  "lemma": "lemon",
+  "slug": "lemon",
+  "fetchTerm": "lemon",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A yellowish citrus fruit.",
+          "examples": []
+        },
+        {
+          "text": "A semitropical evergreen tree, Citrus limon, that bears such fruits.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Containing or having the flavour/flavor and/or scent of lemons.",
+          "examples": []
+        },
+        {
+          "text": "Of the pale yellow colour/color of lemons.",
+          "examples": []
+        },
+        {
+          "text": "Smart; cheeky, vocal.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To flavour with lemon.",
+          "examples": [
+            "You can start the vegetables cooking while you are lemoning the fish."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cytryna",
+    "drzewo cytrynowe",
+    "rzęch",
+    "cytrynowy"
+  ],
+  "fetchedAt": "2026-05-19T20:32:33.136Z"
+}

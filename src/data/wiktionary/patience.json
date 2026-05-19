@@ -1,0 +1,25 @@
+{
+  "lemma": "patience",
+  "slug": "patience",
+  "fetchTerm": "patience",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The quality of being patient.",
+          "examples": [
+            "Musical perfection requires practice and a lot of patience.",
+            "I appreciate the patience with which you've explained it."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cierpliwość",
+    "pasjans"
+  ],
+  "fetchedAt": "2026-05-19T20:33:09.469Z"
+}

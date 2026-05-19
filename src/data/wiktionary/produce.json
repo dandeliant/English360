@@ -1,0 +1,45 @@
+{
+  "lemma": "produce",
+  "slug": "produce",
+  "fetchTerm": "produce",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring forth, to yield, make, manufacture, or otherwise generate.",
+          "examples": []
+        },
+        {
+          "text": "To make or yield something.",
+          "examples": []
+        },
+        {
+          "text": "To make (a thing) available to a person, an authority, etc.; to provide for inspection.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "That which is produced.",
+          "examples": []
+        },
+        {
+          "text": "Harvested agricultural goods collectively, especially vegetables and fruit, but possibly including eggs, dairy products and meat; the saleable food products of farms.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wytwarzać",
+    "wytworzyć",
+    "produkować",
+    "płody rolne"
+  ],
+  "fetchedAt": "2026-05-19T20:33:33.498Z"
+}

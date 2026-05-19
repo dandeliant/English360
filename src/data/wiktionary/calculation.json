@@ -1,0 +1,33 @@
+{
+  "lemma": "calculation",
+  "slug": "calculation",
+  "fetchTerm": "calculation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act or process of calculating.",
+          "examples": []
+        },
+        {
+          "text": "The result of calculating.",
+          "examples": []
+        },
+        {
+          "text": "Reckoning, estimate.",
+          "examples": [
+            "By my calculation, we should be there by midnight."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obliczenie",
+    "obrachunek",
+    "kalkulacja"
+  ],
+  "fetchedAt": "2026-05-19T20:31:39.146Z"
+}

@@ -1,0 +1,41 @@
+{
+  "lemma": "elegant",
+  "slug": "elegant",
+  "fetchTerm": "elegant",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Characterised by or exhibiting elegance; having grace, refinement, or tasteful simplicity.",
+          "examples": []
+        },
+        {
+          "text": "Characterised by minimalism and intuitiveness while preserving exactness and precision.",
+          "examples": [
+            "an elegant solution"
+          ]
+        },
+        {
+          "text": "Fine; doing well.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An elegant parrot.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "elegancki",
+    "wytworny"
+  ],
+  "fetchedAt": "2026-05-19T20:32:07.960Z"
+}

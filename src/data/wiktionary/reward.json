@@ -1,0 +1,54 @@
+{
+  "lemma": "reward",
+  "slug": "reward",
+  "fetchTerm": "reward",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something of value given in return for an act.",
+          "examples": [
+            "For catching the thief, you'll get a nice reward."
+          ]
+        },
+        {
+          "text": "A prize promised for a certain deed or catch",
+          "examples": [
+            "The rewards for bringing in badly wanted criminals are printed on 'dead or alive' posters."
+          ]
+        },
+        {
+          "text": "one's place in heaven; God's judgment in the afterlife; death",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give a reward to or for.",
+          "examples": [
+            "Why are you rewarding the child for misbehaving?",
+            "Why are you rewarding that bad behaviour?"
+          ]
+        },
+        {
+          "text": "To be a recompense for.",
+          "examples": [
+            "Decorations are meant to reward the most meritous acts and services."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nagroda",
+    "wyróżnienie",
+    "nagradzać",
+    "nagrodzić"
+  ],
+  "fetchedAt": "2026-05-19T20:33:47.216Z"
+}

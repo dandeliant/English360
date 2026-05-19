@@ -1,0 +1,70 @@
+{
+  "lemma": "brown",
+  "slug": "brown",
+  "fetchTerm": "brown",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A colour like that of chocolate or coffee.",
+          "examples": [
+            "The browns and greens in this painting give it a nice woodsy feel.",
+            "He wore brown jeans for his birthday."
+          ]
+        },
+        {
+          "text": "One of the colour balls used in snooker, with a value of 4 points.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a brown colour.",
+          "examples": []
+        },
+        {
+          "text": "Gloomy.",
+          "examples": []
+        },
+        {
+          "text": "Of or relating to any of various ethnic groups having dark pigmentation of the skin. Latino/Latin American of color. South Asian or sometimes Middle Eastern or North African Southeast Asian, Pacific Islander, or sometimes Native American",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become brown.",
+          "examples": [
+            "Fry the onions until they brown."
+          ]
+        },
+        {
+          "text": "poop.",
+          "examples": [
+            "i've just browned myself."
+          ]
+        },
+        {
+          "text": "To cook something until it becomes brown.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "brąz",
+    "brązowy",
+    "brązowieć",
+    "zbrązowieć",
+    "przyrumienić"
+  ],
+  "fetchedAt": "2026-05-19T20:31:36.931Z"
+}

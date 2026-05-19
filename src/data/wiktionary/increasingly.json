@@ -1,0 +1,21 @@
+{
+  "lemma": "increasingly",
+  "slug": "increasingly",
+  "fetchTerm": "increasingly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Increasing in amount or intensity.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "coraz"
+  ],
+  "fetchedAt": "2026-05-19T20:32:27.668Z"
+}

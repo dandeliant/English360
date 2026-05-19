@@ -1,0 +1,29 @@
+{
+  "lemma": "evolution",
+  "slug": "evolution",
+  "fetchTerm": "evolution",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A change of position. A manoeuvre of troops or ships. .mw-parser-output .defdate{font-size:smaller} A turning movement, especially of the body. A turned or twisted shape; an involution, a complex or intricate shape.",
+          "examples": []
+        },
+        {
+          "text": "A manoeuvre of troops or ships. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A turning movement, especially of the body.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ewolucja"
+  ],
+  "fetchedAt": "2026-05-19T20:32:10.764Z"
+}

@@ -1,0 +1,52 @@
+{
+  "lemma": "focal",
+  "slug": "focal",
+  "fetchTerm": "focal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Belonging to, concerning, or located at a focus (definite location).",
+          "examples": [
+            "focal point",
+            "The contamination was focal."
+          ]
+        },
+        {
+          "text": "Belonging to, concerning, or located at a focus of attention.",
+          "examples": [
+            "focal point",
+            "The disturbances at the periphery became a focal concern later in the investigation."
+          ]
+        },
+        {
+          "text": "Limited to a small area.",
+          "examples": [
+            "The rash was focal."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of two lines perpendicular to the axis of a cone such that the cosine of the angle between the line and the axis is equal to the ratio of the cosines o the semiangles of the cone.",
+          "examples": []
+        },
+        {
+          "text": "An object that is used to focus concentration when performing magic.",
+          "examples": []
+        },
+        {
+          "text": "The individual who is the focus of a study or review, when the study or review is based on that individual's interactions with others.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:32:16.485Z"
+}

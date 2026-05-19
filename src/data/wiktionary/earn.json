@@ -1,0 +1,74 @@
+{
+  "lemma": "earn",
+  "slug": "earn",
+  "fetchTerm": "earn",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To gain (success, reward, recognition) through applied effort or work.",
+          "examples": [
+            "You can have the s'mores: you earned them, clearing the walkway of snow so well.",
+            "With their hard work and dedication, they earned respect and a seat at the table."
+          ]
+        },
+        {
+          "text": "To receive payment for work or for a role or position held (regardless of whether effort was applied or whether the remuneration is deserved or commensurate).",
+          "examples": [
+            "He earns seven million dollars a year as CEO. My bank account is only earning one percent interest.",
+            "She earns more than forty thousand dollars a year in passive income from her parents' investments — that's what she gets before she even gets out of bed or lifts a finger."
+          ]
+        },
+        {
+          "text": "To receive payment for work.",
+          "examples": [
+            "Now that you are earning, you can start paying me rent."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To curdle (milk), especially in the cheesemaking process.",
+          "examples": []
+        },
+        {
+          "text": "Of milk: to curdle, especially in the cheesemaking process.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To strongly long or yearn (for something or to do something).",
+          "examples": []
+        },
+        {
+          "text": "To grieve.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of erne",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zarabiać",
+    "zarobić",
+    "zasłużyć"
+  ],
+  "fetchedAt": "2026-05-19T20:32:05.020Z"
+}

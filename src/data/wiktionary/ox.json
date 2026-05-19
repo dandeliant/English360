@@ -1,0 +1,36 @@
+{
+  "lemma": "ox",
+  "slug": "ox",
+  "fetchTerm": "ox",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An adult castrated male of cattle (B. taurus), especially when used as a beast of burden.",
+          "examples": [
+            "a yoke of oxen"
+          ]
+        },
+        {
+          "text": "Any bovine animal (genus Bos).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Abbreviation of oxygen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wół"
+  ],
+  "fetchedAt": "2026-05-19T20:33:04.631Z"
+}

@@ -1,0 +1,21 @@
+{
+  "lemma": "ornithology",
+  "slug": "ornithology",
+  "fetchTerm": "ornithology",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The branch of zoology that deals with the scientific study of birds.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ornitologia"
+  ],
+  "fetchedAt": "2026-05-19T20:33:02.999Z"
+}

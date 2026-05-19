@@ -1,0 +1,54 @@
+{
+  "lemma": "art",
+  "slug": "art",
+  "fetchTerm": "art",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-5 language code for artificial languages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium.",
+          "examples": [
+            "There is a debate as to whether graffiti is art or vandalism."
+          ]
+        },
+        {
+          "text": "The creative and emotional expression of mental imagery, such as visual, auditory, social, etc.",
+          "examples": []
+        },
+        {
+          "text": "Skillful creative activity, usually with an aesthetic focus.",
+          "examples": [
+            "She's mastered the art of programming."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "second-person singular simple present indicative of be: [you] are",
+          "examples": [
+            "How great thou art!"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sztuka",
+    "dzieło sztuki"
+  ],
+  "fetchedAt": "2026-05-19T20:31:29.530Z"
+}

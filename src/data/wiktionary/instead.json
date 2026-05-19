@@ -1,0 +1,23 @@
+{
+  "lemma": "instead",
+  "slug": "instead",
+  "fetchTerm": "instead",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In the place of something (usually mentioned earlier); as a substitute or alternative.",
+          "examples": [
+            "I was going to go shopping, but I went dancing instead."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zamiast"
+  ],
+  "fetchedAt": "2026-05-19T20:32:28.949Z"
+}

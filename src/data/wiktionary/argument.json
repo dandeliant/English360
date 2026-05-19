@@ -1,0 +1,46 @@
+{
+  "lemma": "argument",
+  "slug": "argument",
+  "fetchTerm": "argument",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A fact or statement used to support a proposition; a reason.",
+          "examples": []
+        },
+        {
+          "text": "A series of propositions organized so that the final proposition is a conclusion which is intended to follow logically from the preceding propositions, which function as premises.",
+          "examples": []
+        },
+        {
+          "text": "A process of reasoning; argumentation.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put forward as an argument; to argue.",
+          "examples": []
+        },
+        {
+          "text": "To adduce evidence, to provide proof.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "argument",
+    "powód",
+    "uzasadnienie",
+    "dowód",
+    "racja"
+  ],
+  "fetchedAt": "2026-05-19T20:31:27.537Z"
+}

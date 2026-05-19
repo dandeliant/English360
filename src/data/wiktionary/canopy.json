@@ -1,0 +1,43 @@
+{
+  "lemma": "canopy",
+  "slug": "canopy",
+  "fetchTerm": "canopy",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A high cover providing shelter, such as a cloth supported above an object, particularly over a bed.",
+          "examples": []
+        },
+        {
+          "text": "Any overhanging or projecting roof structure, typically over entrances or doors.",
+          "examples": []
+        },
+        {
+          "text": "The zone of the highest foliage and branches of a forest.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover with or as if with a canopy.",
+          "examples": []
+        },
+        {
+          "text": "To go through the canopy of a forest on a zipline.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wiata",
+    "baldachim"
+  ],
+  "fetchedAt": "2026-05-19T20:31:41.667Z"
+}

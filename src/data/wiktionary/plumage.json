@@ -1,0 +1,25 @@
+{
+  "lemma": "plumage",
+  "slug": "plumage",
+  "fetchTerm": "plumage",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The feathers covering the body of a bird collectively.",
+          "examples": []
+        },
+        {
+          "text": "Feathers used ornamentally; feathering; a bunch or tuft of such feathers; a plume. Feathers which are fed to a hawk to cause it to regurgitate, for the purpose of cleaning its crop; a type of casting.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pierze"
+  ],
+  "fetchedAt": "2026-05-19T20:33:19.641Z"
+}

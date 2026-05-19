@@ -1,0 +1,62 @@
+{
+  "lemma": "walk",
+  "slug": "walk",
+  "fetchTerm": "walk",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+          "examples": [
+            "To walk briskly for an hour every day is to keep fit."
+          ]
+        },
+        {
+          "text": "To \"walk free\", i.e. to win, or avoid, a criminal court case, particularly when actually guilty.",
+          "examples": [
+            "If you can’t present a better case, that robber is going to walk."
+          ]
+        },
+        {
+          "text": "Of an object, to go missing or be stolen.",
+          "examples": [
+            "If you leave your wallet lying around, it’s going to walk."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A trip made by walking.",
+          "examples": [
+            "I take a walk every morning.",
+            "go on a walk"
+          ]
+        },
+        {
+          "text": "A distance walked.",
+          "examples": [
+            "It’s a long walk from my house to the library.",
+            "The precinct is about ten minutes’ walk, straight ahead, so you can’t miss it."
+          ]
+        },
+        {
+          "text": "An Olympic Games track event requiring that the heel of the leading foot touch the ground before the toe of the trailing foot leaves the ground.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "iść",
+    "chodzić",
+    "wyprowadzać",
+    "wyprowadzić",
+    "spacer"
+  ],
+  "fetchedAt": "2026-05-19T20:34:13.629Z"
+}

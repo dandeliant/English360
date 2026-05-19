@@ -1,0 +1,92 @@
+{
+  "lemma": "open",
+  "slug": "open",
+  "fetchTerm": "open",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Physically unobstructed, uncovered, etc. Able to have something pass through or along it.",
+          "examples": [
+            "Come in – the door's open.",
+            "The ice has cleared and the channel is open again."
+          ]
+        },
+        {
+          "text": "Able to have something pass through or along it.",
+          "examples": [
+            "Come in – the door's open.",
+            "The ice has cleared and the channel is open again."
+          ]
+        },
+        {
+          "text": "Not covered, sealed, etc.; having an opening or aperture showing what is inside.",
+          "examples": [
+            "The jewellery box was lying open.",
+            "Don't just stand there with your mouth open!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make or become physically unobstructed, uncovered, etc. To make or become accessible or clear for passage by moving from a shut position.",
+          "examples": [
+            "Turn the doorknob to open the door.",
+            "The door opened all by itself."
+          ]
+        },
+        {
+          "text": "To make or become accessible or clear for passage by moving from a shut position.",
+          "examples": [
+            "Turn the doorknob to open the door.",
+            "The door opened all by itself."
+          ]
+        },
+        {
+          "text": "To make or become clear by removal of objects and obstructions, so as to allow passage, access, or visibility.",
+          "examples": [
+            "The icebreaker opened the channel.",
+            "The ice melted away and the channel opened."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Open or unobstructed space; an exposed location.",
+          "examples": [
+            "I can't believe you left the lawnmower out in the open when you knew it was going to rain this afternoon!",
+            "Wary of hunters, the fleeing deer kept well out of the open, dodging instead from thicket to thicket."
+          ]
+        },
+        {
+          "text": "Public knowledge or scrutiny; full view.",
+          "examples": [
+            "We have got to bring this company's corrupt business practices into the open."
+          ]
+        },
+        {
+          "text": "A defect in an electrical circuit preventing current from flowing.",
+          "examples": [
+            "The electrician found the open in the circuit after a few minutes of testing."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "otwarty",
+    "otwierać",
+    "otworzyć",
+    "rozpocząć",
+    "podejmować"
+  ],
+  "fetchedAt": "2026-05-19T20:33:01.704Z"
+}

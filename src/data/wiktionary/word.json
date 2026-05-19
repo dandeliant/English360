@@ -1,0 +1,69 @@
+{
+  "lemma": "word",
+  "slug": "word",
+  "fetchTerm": "word",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. The smallest discrete unit of spoken language with a particular meaning, composed of one or more phonemes and one or more morphemes The smallest discrete unit of written language with a particular meaning, composed of one or more letters or symbols and one or more morphemes A discrete, meaningful unit of language approved by an authority or native speaker (compare non-word). A sign used in a sign language.",
+          "examples": []
+        },
+        {
+          "text": "The smallest discrete unit of spoken language with a particular meaning, composed of one or more phonemes and one or more morphemes",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To say or write (something) using particular words; to phrase (something).",
+          "examples": [
+            "I’m not sure how to word this letter to the council."
+          ]
+        },
+        {
+          "text": "To flatter with words, to cajole.",
+          "examples": []
+        },
+        {
+          "text": "To ply or overpower with words.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Truth, indeed, that is the truth! The shortened form of the statement \"My word is my bond.\"",
+          "examples": [
+            "\"Yo, that movie was epic!\" / \"Word?\" (\"You speak the truth?\") / \"Word.\" (\"I speak the truth.\")"
+          ]
+        },
+        {
+          "text": "An abbreviated form of word up; a statement of the acknowledgment of fact with a hint of nonchalant approval.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of worth (“to become”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "słowo",
+    "Słowo Boże"
+  ],
+  "fetchedAt": "2026-05-19T20:34:17.925Z"
+}

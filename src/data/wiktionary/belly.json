@@ -1,0 +1,51 @@
+{
+  "lemma": "belly",
+  "slug": "belly",
+  "fetchTerm": "belly",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The abdomen (especially a fat one).",
+          "examples": [
+            "You've grown a belly over Christmas! Time to join the gym again."
+          ]
+        },
+        {
+          "text": "stomach (an organ in animals that stores food in the process of digestion)",
+          "examples": [
+            "My belly was full of wine."
+          ]
+        },
+        {
+          "text": "uterus (a reproductive organ of therian mammals in which the young are conceived and develop until birth)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To position one’s belly; to move on one’s belly.",
+          "examples": []
+        },
+        {
+          "text": "To swell and become protuberant; to bulge or billow.",
+          "examples": []
+        },
+        {
+          "text": "To cause to swell out; to fill.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "brzuch",
+    "macica"
+  ],
+  "fetchedAt": "2026-05-19T20:31:32.495Z"
+}

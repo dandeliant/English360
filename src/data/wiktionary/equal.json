@@ -1,0 +1,75 @@
+{
+  "lemma": "equal",
+  "slug": "equal",
+  "fetchTerm": "equal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "The same in one or more respects.",
+          "examples": [
+            "We hold that all men are created equal and are thus equal under the law.",
+            "Equal conditions should produce equal results."
+          ]
+        },
+        {
+          "text": "The same in value (status, merit, etc): having or deserving the same rights or treatment.",
+          "examples": [
+            "We hold that all men are created equal and are thus equal under the law."
+          ]
+        },
+        {
+          "text": "The same in all respects that matter practically; interchangeable, fungible, or (even sometimes) identical for practical purposes.",
+          "examples": [
+            "Equal conditions should produce equal results.",
+            "All else being equal, we can expect this factor to have no discernible effect by itself."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be equal to, to have the same value as; to correspond to.",
+          "examples": [
+            "Two plus two equals four."
+          ]
+        },
+        {
+          "text": "To make equivalent to; to cause to match.",
+          "examples": [
+            "David equaled the water levels of the bottles, so they now both contain exactly 1 liter."
+          ]
+        },
+        {
+          "text": "To match in degree or some other quality, to match up to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person or thing of equal status to others.",
+          "examples": [
+            "We're all equals here.",
+            "This beer has no equal."
+          ]
+        },
+        {
+          "text": "State of being equal; equality.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "równy",
+    "jednakowy"
+  ],
+  "fetchedAt": "2026-05-19T20:32:09.389Z"
+}

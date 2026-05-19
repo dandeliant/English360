@@ -1,0 +1,37 @@
+{
+  "lemma": "cattle",
+  "slug": "cattle",
+  "fetchTerm": "cattle",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Domesticated animal of the species Bos taurus (cows, bulls, steers, oxen etc), and other hoofed mammals of the genus Bos.",
+          "examples": [
+            "Many cattle were suffering from a disease called BSE."
+          ]
+        },
+        {
+          "text": "Certain other livestock, such as sheep, pigs or goats. Also rarely applied to horses.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Ellipsis of cattle truck (“to fuck: to break, destroy”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bydło",
+    "bydło domowe"
+  ],
+  "fetchedAt": "2026-05-19T20:31:43.190Z"
+}

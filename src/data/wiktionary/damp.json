@@ -1,0 +1,68 @@
+{
+  "lemma": "damp",
+  "slug": "damp",
+  "fetchTerm": "damp",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "In a state between dry and wet; moderately wet; moist.",
+          "examples": [
+            "The lawn was still damp so we decided not to sit down.",
+            "The paint is still damp, so please don't touch it."
+          ]
+        },
+        {
+          "text": "Despondent; dispirited, downcast.",
+          "examples": []
+        },
+        {
+          "text": "Permitting the possession of alcoholic beverages, but not their sale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Moisture; humidity; dampness.",
+          "examples": []
+        },
+        {
+          "text": "Fog; fogginess; vapor.",
+          "examples": []
+        },
+        {
+          "text": "Dejection or depression; something that spoils a positive emotion (such as enjoyment, satisfaction, expectation or courage) or a desired activity.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To suppress vibrations (mechanical) or oscillations (electrical) by converting energy to heat (or some other form of energy).",
+          "examples": []
+        },
+        {
+          "text": "To dampen; to make moderately wet.",
+          "examples": [
+            "to damp cloth"
+          ]
+        },
+        {
+          "text": "To put out, as fire; to weaken, restrain, or make dull.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wilgotny"
+  ],
+  "fetchedAt": "2026-05-19T20:31:59.772Z"
+}

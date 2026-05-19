@@ -1,0 +1,47 @@
+{
+  "lemma": "sexual",
+  "slug": "sexual",
+  "fetchTerm": "sexual",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Arising from the fact of being male or female; pertaining to sex or gender, or to the social relations between the sexes. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "Women face sexual discrimination in the workplace."
+          ]
+        },
+        {
+          "text": "Capable of sexual reproduction; sexed, sexuate.",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to sexual intercourse or other intimate physical contact.",
+          "examples": [
+            "Giving oral sex is my favorite sexual act."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A species which reproduces by sexual rather than asexual reproduction, or a member of such a species.",
+          "examples": []
+        },
+        {
+          "text": "A person who experiences sexual attraction, a person who has interest in or desire for sex .",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "płciowy",
+    "seksualny"
+  ],
+  "fetchedAt": "2026-05-19T20:33:55.016Z"
+}

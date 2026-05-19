@@ -1,0 +1,66 @@
+{
+  "lemma": "shoot",
+  "slug": "shoot",
+  "fetchTerm": "shoot",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To launch (forcefully project) a projectile. To fire (a weapon that releases a projectile).",
+          "examples": [
+            "to shoot a gun",
+            "The man, in a desperate bid for freedom, grabbed his gun and started shooting anyone he could."
+          ]
+        },
+        {
+          "text": "To fire (a weapon that releases a projectile).",
+          "examples": [
+            "to shoot a gun"
+          ]
+        },
+        {
+          "text": "To fire (a projectile).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The emerging stem and embryonic leaves of a new plant.",
+          "examples": []
+        },
+        {
+          "text": "A photography session.",
+          "examples": []
+        },
+        {
+          "text": "A hunt or shooting competition.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "A mild expletive, expressing disbelief or dismay",
+          "examples": [
+            "Didn't you have a concert tonight? —Shoot! I forgot! I have to go and get ready…"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "strzelać",
+    "wystrzelić",
+    "postrzelić",
+    "strzelić",
+    "pęd"
+  ],
+  "fetchedAt": "2026-05-19T20:33:56.531Z"
+}

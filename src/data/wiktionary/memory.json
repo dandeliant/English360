@@ -1,0 +1,31 @@
+{
+  "lemma": "memory",
+  "slug": "memory",
+  "fetchTerm": "memory",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The ability of the brain to record information or impressions with the facility of recalling them later, usually at will.",
+          "examples": [
+            "Memory is a facility common to all animals."
+          ]
+        },
+        {
+          "text": "A record of a thing or an event stored and available for later use by an organism.",
+          "examples": [
+            "I have no memory of that event.",
+            "My wedding is one of my happiest memories."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pamięć",
+    "wspomnienie"
+  ],
+  "fetchedAt": "2026-05-19T20:32:52.659Z"
+}

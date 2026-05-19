@@ -1,0 +1,34 @@
+{
+  "lemma": "description",
+  "slug": "description",
+  "fetchTerm": "description",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.",
+          "examples": [
+            "give a verbal description of the events",
+            "a realistic description"
+          ]
+        },
+        {
+          "text": "The act of describing; a delineation by marks or signs.",
+          "examples": []
+        },
+        {
+          "text": "A set of characteristics by which someone or something can be recognized.",
+          "examples": [
+            "The zoo had no lions, tigers, or cats of any description."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "opis"
+  ],
+  "fetchedAt": "2026-05-19T20:32:02.420Z"
+}

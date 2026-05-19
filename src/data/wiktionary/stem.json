@@ -1,0 +1,92 @@
+{
+  "lemma": "stem",
+  "slug": "stem",
+  "fetchTerm": "stem",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The stock of a family; a race or generation of progenitors.",
+          "examples": []
+        },
+        {
+          "text": "A branch of a family. A branch, or group of branches, located outside a family or other cladistic group, but which is more closely related to that group than to any other taxon of the same rank.",
+          "examples": []
+        },
+        {
+          "text": "A branch, or group of branches, located outside a family or other cladistic group, but which is more closely related to that group than to any other taxon of the same rank.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To remove the stem from.",
+          "examples": [
+            "to stem cherries; to stem tobacco leaves"
+          ]
+        },
+        {
+          "text": "To be caused or derived; to originate.",
+          "examples": [
+            "The current crisis stems from the short-sighted politics of the previous government."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To stop, hinder (for instance, a river or blood).",
+          "examples": [
+            "to stem a tide"
+          ]
+        },
+        {
+          "text": "To move the feet apart and point the tips of the skis inward in order to slow down the speed or to facilitate a turn.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of steem.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of STEM.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative spelling of stemme (“lesbian who combines stud and femme traits”).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "badyl",
+    "ogonek",
+    "cybuch",
+    "rdzeń",
+    "temat"
+  ],
+  "fetchedAt": "2026-05-19T20:33:59.684Z"
+}

@@ -1,0 +1,56 @@
+{
+  "lemma": "ta",
+  "slug": "ta",
+  "fetchTerm": "ta",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-1 language code for Tamil.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Thanks.",
+          "examples": [
+            "Ta for the cup of tea."
+          ]
+        },
+        {
+          "text": "give (imperative)",
+          "examples": [
+            "Mummy needs the bottle back. Ta!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Pronunciation spelling of to, representing the standard unstressed pronunciation before consonants.",
+          "examples": [
+            "hasta"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "In solfège, the lowered seventh note of a major scale (the note B-flat in the fixed-do system): te.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:34:04.547Z"
+}

@@ -1,0 +1,58 @@
+{
+  "lemma": "pre",
+  "slug": "pre",
+  "fetchTerm": "pre",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Principense.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Before (something significant).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Clipping of predrinks.",
+          "examples": []
+        },
+        {
+          "text": "Clipping of precum.",
+          "examples": []
+        },
+        {
+          "text": "Clipping of preparty.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Clipping of pre-drink.",
+          "examples": []
+        },
+        {
+          "text": "Clipping of precum.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:33:22.238Z"
+}

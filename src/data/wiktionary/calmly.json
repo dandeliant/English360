@@ -1,0 +1,21 @@
+{
+  "lemma": "calmly",
+  "slug": "calmly",
+  "fetchTerm": "calmly",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a calm manner; coolly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "spokojnie"
+  ],
+  "fetchedAt": "2026-05-19T20:31:40.411Z"
+}

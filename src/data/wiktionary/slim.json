@@ -1,0 +1,75 @@
+{
+  "lemma": "slim",
+  "slug": "slim",
+  "fetchTerm": "slim",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Slender; thin. Slender in an attractive way.",
+          "examples": [
+            "Movie stars are usually slim, attractive, and young."
+          ]
+        },
+        {
+          "text": "Slender in an attractive way.",
+          "examples": [
+            "Movie stars are usually slim, attractive, and young."
+          ]
+        },
+        {
+          "text": "Designed to make the wearer appear slim.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A type of cigarette substantially longer and thinner than normal cigarettes.",
+          "examples": [
+            "I only smoke slims."
+          ]
+        },
+        {
+          "text": "A potato farl.",
+          "examples": []
+        },
+        {
+          "text": "AIDS, or the chronic wasting associated with its later stages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lose weight in order to achieve slimness.",
+          "examples": []
+        },
+        {
+          "text": "To make slimmer; to reduce in size.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of sling (“type of alcoholic mixed drink”)",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczupły",
+    "smukły"
+  ],
+  "fetchedAt": "2026-05-19T20:33:57.955Z"
+}

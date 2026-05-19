@@ -1,0 +1,27 @@
+{
+  "lemma": "conceal",
+  "slug": "conceal",
+  "fetchTerm": "conceal",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hide something from view or from public knowledge, to try to keep something secret.",
+          "examples": [
+            "He tried to conceal the truth about his health."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chować",
+    "schować",
+    "ukrywać",
+    "ukryć",
+    "skrywać"
+  ],
+  "fetchedAt": "2026-05-19T20:31:51.843Z"
+}

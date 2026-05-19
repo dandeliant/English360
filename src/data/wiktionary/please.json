@@ -1,0 +1,70 @@
+{
+  "lemma": "please",
+  "slug": "please",
+  "fetchTerm": "please",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make happy or satisfy; to give pleasure to.",
+          "examples": [
+            "Her presentation pleased the executives.",
+            "I'm pleased to see you've been behaving yourself."
+          ]
+        },
+        {
+          "text": "To desire; to will; to be pleased by.",
+          "examples": [
+            "Just do as you please.",
+            "He doesn't think, he just says whatever he pleases."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Used to make a polite request.",
+          "examples": [
+            "Please, pass the bread.",
+            "Would you please sign this form?"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used as an affirmative to an offer.",
+          "examples": [
+            "May I help you? —(Yes,) please.",
+            "D'you mind if I open the window? —Please do."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Said as a request to repeat information.",
+          "examples": [
+            "Customer while ordering: Can I get a [unintelligible]? Restaurant employee: Please?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sprawiać przyjemność",
+    "sprawić przyjemność",
+    "zadowalać",
+    "zadowolić",
+    "dogadzać"
+  ],
+  "fetchedAt": "2026-05-19T20:33:14.364Z"
+}

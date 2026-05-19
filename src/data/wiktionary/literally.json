@@ -1,0 +1,31 @@
+{
+  "lemma": "literally",
+  "slug": "literally",
+  "fetchTerm": "literally",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Word for word, exactly as stated. Without overstatement or understatement, or false or misleading words.",
+          "examples": [
+            "He's prone to exaggeration, so don't take what he says literally.",
+            "There are literally millions of individual pieces of space debris orbiting Earth."
+          ]
+        },
+        {
+          "text": "Without overstatement or understatement, or false or misleading words.",
+          "examples": [
+            "He's prone to exaggeration, so don't take what he says literally.",
+            "There are literally millions of individual pieces of space debris orbiting Earth."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dosłownie"
+  ],
+  "fetchedAt": "2026-05-19T20:32:38.841Z"
+}

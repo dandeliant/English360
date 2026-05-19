@@ -1,0 +1,43 @@
+{
+  "lemma": "hear",
+  "slug": "hear",
+  "fetchTerm": "hear",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To perceive sounds through the ear. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I was deaf, but now I can hear."
+          ]
+        },
+        {
+          "text": "To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.",
+          "examples": [
+            "I could hear them quarreling upstairs, but didn’t really listen to their argument."
+          ]
+        },
+        {
+          "text": "To exercise this faculty intentionally; to listen to.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "you hear me",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "słyszeć",
+    "usłyszeć"
+  ],
+  "fetchedAt": "2026-05-19T20:32:23.435Z"
+}

@@ -1,0 +1,34 @@
+{
+  "lemma": "maxim",
+  "slug": "maxim",
+  "fetchTerm": "maxim",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A self-evident axiom or premise; a pithy expression of a general principle or rule.",
+          "examples": []
+        },
+        {
+          "text": "A precept; a succinct statement or observation of a rule of conduct or moral teaching.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative letter-case form of Maxim.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "maksyma"
+  ],
+  "fetchedAt": "2026-05-19T20:32:49.898Z"
+}

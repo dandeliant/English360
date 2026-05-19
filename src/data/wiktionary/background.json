@@ -1,0 +1,73 @@
+{
+  "lemma": "background",
+  "slug": "background",
+  "fetchTerm": "background",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Less important or less noticeable in a scene or system.",
+          "examples": [
+            "background noise",
+            "The antivirus program runs on a background thread."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One's social heritage, or previous life; what one did in the past.",
+          "examples": [
+            "The lawyer had a background in computer science."
+          ]
+        },
+        {
+          "text": "A part of the picture that depicts scenery to the rear or behind the main subject; context.",
+          "examples": []
+        },
+        {
+          "text": "An extra who appears in the background, with no speaking role.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place in the background.",
+          "examples": []
+        },
+        {
+          "text": "To put in a position that is not prominent.",
+          "examples": []
+        },
+        {
+          "text": "To gather and provide background information (on).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of backgrind",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "doświadczenie",
+    "tło",
+    "dalszy plan",
+    "drugi plan",
+    "kontekst"
+  ],
+  "fetchedAt": "2026-05-19T20:31:30.926Z"
+}

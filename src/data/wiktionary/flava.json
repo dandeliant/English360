@@ -1,0 +1,19 @@
+{
+  "lemma": "flava",
+  "slug": "flava",
+  "fetchTerm": "flava",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "flavor",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:32:15.192Z"
+}

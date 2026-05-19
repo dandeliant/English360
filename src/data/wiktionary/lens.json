@@ -1,0 +1,39 @@
+{
+  "lemma": "lens",
+  "slug": "lens",
+  "fetchTerm": "lens",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An object, usually made of glass, that focuses or defocuses the light that passes through it.",
+          "examples": []
+        },
+        {
+          "text": "A device which focuses or defocuses other waves or radiation, such as microwave radiation, electron beams, sound waves (acoustic lenses), or explosions (explosive lenses).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To film, shoot.",
+          "examples": []
+        },
+        {
+          "text": "To become thinner towards the edges.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "soczewka",
+    "soczewica"
+  ],
+  "fetchedAt": "2026-05-19T20:32:35.997Z"
+}

@@ -1,0 +1,32 @@
+{
+  "lemma": "location",
+  "slug": "location",
+  "fetchTerm": "location",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A particular point or place in physical space.",
+          "examples": []
+        },
+        {
+          "text": "An act of locating.",
+          "examples": []
+        },
+        {
+          "text": "An apartheid-era urban area populated by non-white people; a township.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lokalizacja",
+    "położenie",
+    "miejsce",
+    "lokacja"
+  ],
+  "fetchedAt": "2026-05-19T20:32:41.349Z"
+}

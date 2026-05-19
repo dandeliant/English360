@@ -1,0 +1,50 @@
+{
+  "lemma": "pasture",
+  "slug": "pasture",
+  "fetchTerm": "pasture",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Land, specifically, an open field, on which livestock is kept for feeding.",
+          "examples": []
+        },
+        {
+          "text": "Ground covered with grass or herbage, used or suitable for the grazing of livestock.",
+          "examples": []
+        },
+        {
+          "text": "Food, nourishment.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To move animals into a pasture.",
+          "examples": []
+        },
+        {
+          "text": "To graze.",
+          "examples": []
+        },
+        {
+          "text": "To feed, especially on growing grass; to supply grass as food for.",
+          "examples": [
+            "The farmer pastures fifty oxen.",
+            "The land will pasture forty cows."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pastwisko",
+    "paść"
+  ],
+  "fetchedAt": "2026-05-19T20:33:06.019Z"
+}

@@ -1,0 +1,38 @@
+{
+  "lemma": "latter",
+  "slug": "latter",
+  "fetchTerm": "latter",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to or being the second of two items.",
+          "examples": [
+            "The archaic past participle shapen is only used in misshapen, ill-shapen, and well-shapen (the latter two are much less common, though)."
+          ]
+        },
+        {
+          "text": "Near (or nearer) to the end.",
+          "examples": [
+            "the latter part of the century"
+          ]
+        },
+        {
+          "text": "In the past, but close (or closer) to the present time.",
+          "examples": [
+            "In his latter years my dad became very absent-minded."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "drugi",
+    "późniejszy",
+    "końcowy",
+    "ostatni"
+  ],
+  "fetchedAt": "2026-05-19T20:32:31.613Z"
+}

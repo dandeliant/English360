@@ -1,0 +1,30 @@
+{
+  "lemma": "affinity",
+  "slug": "affinity",
+  "fetchTerm": "affinity",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A natural attraction or feeling of kinship to a person or thing.",
+          "examples": []
+        },
+        {
+          "text": "A family relationship through marriage of a relative (e.g. sister-in-law), as opposed to consanguinity (e.g. sister).",
+          "examples": []
+        },
+        {
+          "text": "A kinsman or kinswoman of a such relationship; one who is affinal.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bliskość",
+    "powinowactwo"
+  ],
+  "fetchedAt": "2026-05-19T20:31:22.960Z"
+}

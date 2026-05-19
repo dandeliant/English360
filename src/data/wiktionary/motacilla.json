@@ -1,0 +1,19 @@
+{
+  "lemma": "motacilla",
+  "slug": "motacilla",
+  "fetchTerm": "Motacilla",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A taxonomic genus within the family Motacillidae – wagtails.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:32:56.104Z"
+}

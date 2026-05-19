@@ -1,0 +1,37 @@
+{
+  "lemma": "breathe",
+  "slug": "breathe",
+  "fetchTerm": "breathe",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To draw air into (inhale), and expel air from (exhale), the lungs in order to extract oxygen and excrete waste gases.",
+          "examples": []
+        },
+        {
+          "text": "To take in needed gases and expel waste gases in a similar way.",
+          "examples": [
+            "Fish have gills so they can breathe underwater."
+          ]
+        },
+        {
+          "text": "To inhale (a gas) to sustain life.",
+          "examples": [
+            "While life as we know it depends on oxygen, scientists have speculated that alien life forms might breathe chlorine or methane."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "oddychać",
+    "odetchnąć",
+    "oddychać swobodnie",
+    "wdychać",
+    "szeptać"
+  ],
+  "fetchedAt": "2026-05-19T20:31:35.450Z"
+}

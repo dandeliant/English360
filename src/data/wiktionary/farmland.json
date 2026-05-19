@@ -1,0 +1,19 @@
+{
+  "lemma": "farmland",
+  "slug": "farmland",
+  "fetchTerm": "farmland",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Land that is suitable for farming and agricultural production.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:32:12.224Z"
+}

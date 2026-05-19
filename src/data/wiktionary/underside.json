@@ -1,0 +1,19 @@
+{
+  "lemma": "underside",
+  "slug": "underside",
+  "fetchTerm": "underside",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The side that is below or underneath, the bottom.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:34:10.578Z"
+}

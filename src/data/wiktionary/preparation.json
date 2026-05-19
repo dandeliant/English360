@@ -1,0 +1,34 @@
+{
+  "lemma": "preparation",
+  "slug": "preparation",
+  "fetchTerm": "preparation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of preparing or getting ready.",
+          "examples": [
+            "I went over my notes in preparation for the exam."
+          ]
+        },
+        {
+          "text": "The state of being prepared; readiness.",
+          "examples": []
+        },
+        {
+          "text": "That which is prepared. A substance, especially a remedy, that is prepared.",
+          "examples": [
+            "The traditional remedy is a bitter preparation made from steamed herbs."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "przygotowanie",
+    "preparat"
+  ],
+  "fetchedAt": "2026-05-19T20:33:23.590Z"
+}

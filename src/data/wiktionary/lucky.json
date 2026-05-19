@@ -1,0 +1,40 @@
+{
+  "lemma": "lucky",
+  "slug": "lucky",
+  "fetchTerm": "lucky",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Favoured by luck; fortunate; having good success or good fortune.",
+          "examples": [
+            "a lucky adventurer",
+            "The downed pilot is very lucky to be alive."
+          ]
+        },
+        {
+          "text": "Producing, or resulting in, good fortune",
+          "examples": [
+            "a lucky mistake",
+            "a lucky cast"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "seven",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczęśliwy"
+  ],
+  "fetchedAt": "2026-05-19T20:32:42.638Z"
+}

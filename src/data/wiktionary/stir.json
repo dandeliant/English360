@@ -1,0 +1,68 @@
+{
+  "lemma": "stir",
+  "slug": "stir",
+  "fetchTerm": "stir",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To disturb the relative position of the particles (of a liquid or similar) by passing an object through it.",
+          "examples": [
+            "She stirred the pudding with a spoon.",
+            "He stirred his coffee so the sugar wouldn't stay at the bottom."
+          ]
+        },
+        {
+          "text": "To disturb the content of (a container) by passing an object through it.",
+          "examples": [
+            "Would you please stir this pot so that the chocolate doesn't burn?"
+          ]
+        },
+        {
+          "text": "To emotionally affect; to touch, to move.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act or result of stirring (moving around the particles of a liquid etc.)",
+          "examples": [
+            "Can you give the soup a little stir?"
+          ]
+        },
+        {
+          "text": "agitation; tumult; bustle; noise or various movements.",
+          "examples": []
+        },
+        {
+          "text": "Public disturbance or commotion; tumultuous disorder; seditious uproar.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Jail; prison.",
+          "examples": [
+            "He's going to be spending maybe ten years in stir."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "bełtać",
+    "zbełtać",
+    "mieszać",
+    "wymieszać",
+    "afera"
+  ],
+  "fetchedAt": "2026-05-19T20:34:01.163Z"
+}

@@ -1,0 +1,41 @@
+{
+  "lemma": "agricultural",
+  "slug": "agricultural",
+  "fetchTerm": "agricultural",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to agriculture.",
+          "examples": [
+            "the agricultural class",
+            "an agricultural tool"
+          ]
+        },
+        {
+          "text": "As if played with a scythe.",
+          "examples": []
+        },
+        {
+          "text": "Coarse or uncultured.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A product or commodity from agriculture.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rolniczy"
+  ],
+  "fetchedAt": "2026-05-19T20:31:24.260Z"
+}

@@ -1,0 +1,52 @@
+{
+  "lemma": "echo",
+  "slug": "echo",
+  "fetchTerm": "echo",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative letter-case form of Echo of the ICAO/NATO radiotelephony alphabet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A reflected sound that is heard again by its initial observer.",
+          "examples": []
+        },
+        {
+          "text": "An utterance repeating what has just been said.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a sound or sound waves: to reflect off a surface and return; to reverberate or resound.",
+          "examples": []
+        },
+        {
+          "text": "Of a rumour, opinion, etc.: to spread or reverberate.",
+          "examples": []
+        },
+        {
+          "text": "To reflect back (a sound).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "echo",
+    "pogłos"
+  ],
+  "fetchedAt": "2026-05-19T20:32:06.595Z"
+}

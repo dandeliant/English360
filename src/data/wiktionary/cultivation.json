@@ -1,0 +1,31 @@
+{
+  "lemma": "cultivation",
+  "slug": "cultivation",
+  "fetchTerm": "cultivation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The art or act of cultivating (improvement of land for or by agriculture), as: Tillage: plowing, sowing and raising crops.",
+          "examples": [
+            "The cultivation of these valleys dates back thousands of years.",
+            "The cultivation of the hillside led to soil erosion."
+          ]
+        },
+        {
+          "text": "Tillage: plowing, sowing and raising crops.",
+          "examples": [
+            "The cultivation of these valleys dates back thousands of years."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "uprawa",
+    "pielęgnowanie"
+  ],
+  "fetchedAt": "2026-05-19T20:31:58.260Z"
+}

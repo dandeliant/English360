@@ -1,0 +1,39 @@
+{
+  "lemma": "allow",
+  "slug": "allow",
+  "fetchTerm": "allow",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To let one have as a suitable share of something.",
+          "examples": [
+            "to allow a servant his liberty; to allow a free passage; to allow one day for rest"
+          ]
+        },
+        {
+          "text": "To present something as possible or reasonable.",
+          "examples": [
+            "The event allows of only one interpretation."
+          ]
+        },
+        {
+          "text": "To permit, to give permission to.",
+          "examples": [
+            "I will allow my son to be absent."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pozwalać",
+    "pozwolić",
+    "zezwolić",
+    "przyznać",
+    "wziąć pod uwagę"
+  ],
+  "fetchedAt": "2026-05-19T20:31:25.872Z"
+}

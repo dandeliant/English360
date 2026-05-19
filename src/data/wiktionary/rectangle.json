@@ -1,0 +1,36 @@
+{
+  "lemma": "rectangle",
+  "slug": "rectangle",
+  "fetchTerm": "rectangle",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any quadrilateral having opposing sides parallel and four right angles.",
+          "examples": []
+        },
+        {
+          "text": "Such a quadrilateral that is oblong (longer than it is wide): one that is not regular (equilateral), that is, any except a square.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Right-angled.",
+          "examples": [
+            "a rectangle triangle"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prostokąt"
+  ],
+  "fetchedAt": "2026-05-19T20:33:43.395Z"
+}

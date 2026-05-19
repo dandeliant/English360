@@ -1,0 +1,54 @@
+{
+  "lemma": "truth",
+  "slug": "truth",
+  "fetchTerm": "truth",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "True facts, genuine depiction or statements of reality.",
+          "examples": [
+            "The truth is that our leaders knew a lot more than they were letting on."
+          ]
+        },
+        {
+          "text": "Conformity to fact or reality; correctness, accuracy.",
+          "examples": [
+            "There was some truth in his statement that he had no other choice."
+          ]
+        },
+        {
+          "text": "The state or quality of being true to someone or something.",
+          "examples": [
+            "Truth to one's own feelings is all-important in life."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To assert as true; to declare; to speak truthfully.",
+          "examples": []
+        },
+        {
+          "text": "To make exact; to correct for inaccuracy.",
+          "examples": []
+        },
+        {
+          "text": "To tell the truth.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prawda",
+    "wierność",
+    "racja"
+  ],
+  "fetchedAt": "2026-05-19T20:34:09.302Z"
+}

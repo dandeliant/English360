@@ -1,0 +1,73 @@
+{
+  "lemma": "record",
+  "slug": "record",
+  "fetchTerm": "record",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An item of information put into a temporary or permanent physical medium.",
+          "examples": [
+            "The person had a record of the interview so she could review her notes.",
+            "The tourist's photographs and the tape of the police call provide a record of the crime."
+          ]
+        },
+        {
+          "text": "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future reference.",
+          "examples": [
+            "We have no record of you making this payment to us.",
+            "My remarks were struck from the record."
+          ]
+        },
+        {
+          "text": "Ellipsis of phonograph record (“a disc, usually made from vinyl, on which sound is recorded and may be replayed on a phonograph”).",
+          "examples": [
+            "I still like records better than CDs."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Enough to break previous records and set a new one; world-class; historic.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a record of information.",
+          "examples": [
+            "I wanted to record every detail of what happened, for the benefit of future generations."
+          ]
+        },
+        {
+          "text": "To make an audio or video recording of.",
+          "examples": [
+            "Within a week they had recorded both the song and the video for it."
+          ]
+        },
+        {
+          "text": "To give legal status to by making an official public record.",
+          "examples": [
+            "When the deed was recorded, we officially owned the house."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zapis",
+    "płyta",
+    "płyta gramofonowa",
+    "analog",
+    "rekord"
+  ],
+  "fetchedAt": "2026-05-19T20:33:42.065Z"
+}

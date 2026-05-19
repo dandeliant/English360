@@ -1,0 +1,39 @@
+{
+  "lemma": "practically",
+  "slug": "practically",
+  "fetchTerm": "practically",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In practice; in effect or in actuality, though possibly not officially, technically, or legally.",
+          "examples": [
+            "Stalin was not technically or legally the head of state but was practically so."
+          ]
+        },
+        {
+          "text": "Almost completely; almost entirely.",
+          "examples": [
+            "He was practically uneducated, barely able to read and write a simple sentence."
+          ]
+        },
+        {
+          "text": "With respect to practices or a practice.",
+          "examples": [
+            "He wasn't very good with words or numbers; he was more of a practically minded person",
+            "He was practically educated and lacked theoretical depth."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "praktycznie",
+    "niemal",
+    "prawie",
+    "bez mała"
+  ],
+  "fetchedAt": "2026-05-19T20:33:20.977Z"
+}

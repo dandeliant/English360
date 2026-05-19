@@ -1,0 +1,22 @@
+{
+  "lemma": "coexistence",
+  "slug": "coexistence",
+  "fetchTerm": "coexistence",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of two or more things existing together, usually in a temporal or spatial sense, with or without mutual interaction.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "współistnienie",
+    "koegzystencja"
+  ],
+  "fetchedAt": "2026-05-19T20:31:48.864Z"
+}

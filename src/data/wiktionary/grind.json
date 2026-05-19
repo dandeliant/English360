@@ -1,0 +1,60 @@
+{
+  "lemma": "grind",
+  "slug": "grind",
+  "fetchTerm": "grind",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To reduce to smaller pieces by crushing with lateral motion.",
+          "examples": []
+        },
+        {
+          "text": "To shape with the force of friction.",
+          "examples": [
+            "grind a lens; grind an axe"
+          ]
+        },
+        {
+          "text": "To remove material by rubbing with an abrasive surface.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of reducing to powder, or of sharpening, by friction.",
+          "examples": []
+        },
+        {
+          "text": "Something that has been reduced to powder, something that has been ground.",
+          "examples": []
+        },
+        {
+          "text": "A specific degree of pulverization of coffee beans.",
+          "examples": [
+            "This bag contains espresso grind."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A traditional communal pilot whale hunt in the Faroe Islands.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "mleć",
+    "ścierać"
+  ],
+  "fetchedAt": "2026-05-19T20:32:19.621Z"
+}

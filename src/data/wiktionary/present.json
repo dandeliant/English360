@@ -1,0 +1,101 @@
+{
+  "lemma": "present",
+  "slug": "present",
+  "fetchTerm": "present",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to now, for the time being; current.",
+          "examples": [
+            "The barbaric practice continues to the present day.",
+            "The present manager has been here longer than the last one."
+          ]
+        },
+        {
+          "text": "Located in the immediate vicinity.",
+          "examples": [
+            "Only half of all present members were present at the meeting.",
+            "Is there a doctor present?"
+          ]
+        },
+        {
+          "text": "Having an immediate effect (of a medicine, poison etc.); fast-acting. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The current moment or period of time.",
+          "examples": []
+        },
+        {
+          "text": "The present tense.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A gift, especially one given for birthdays, Christmas, anniversaries, graduations, weddings, or any other special occasions.",
+          "examples": [
+            "wedding present",
+            "Oh! Thank you for the presents! How considerate of you!"
+          ]
+        },
+        {
+          "text": "The position of a soldier in presenting arms.",
+          "examples": [
+            "The platoon stands at present.",
+            "He was at present near the headquarters gates."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To bring (someone) into the presence of (a person); to introduce formally.",
+          "examples": [
+            "to present an envoy to the king"
+          ]
+        },
+        {
+          "text": "To appear or represent oneself outwardly.",
+          "examples": [
+            "With your shabby attire, you do not present well as a prospective investment banking associate!"
+          ]
+        },
+        {
+          "text": "To nominate (a member of the clergy) for an ecclesiastical benefice; to offer to the bishop or ordinary as a candidate for institution.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of presend",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "obecny",
+    "teraźniejszość",
+    "prezentować",
+    "przedstawiać",
+    "wręczać"
+  ],
+  "fetchedAt": "2026-05-19T20:33:25.206Z"
+}

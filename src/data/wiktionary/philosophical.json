@@ -1,0 +1,29 @@
+{
+  "lemma": "philosophical",
+  "slug": "philosophical",
+  "fetchTerm": "philosophical",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, or pertaining to, philosophy.",
+          "examples": []
+        },
+        {
+          "text": "Rational; analytic or critically minded; thoughtful.",
+          "examples": []
+        },
+        {
+          "text": "Detached, calm, stoic.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "filozoficzny"
+  ],
+  "fetchedAt": "2026-05-19T20:33:10.845Z"
+}

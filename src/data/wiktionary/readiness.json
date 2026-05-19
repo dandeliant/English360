@@ -1,0 +1,29 @@
+{
+  "lemma": "readiness",
+  "slug": "readiness",
+  "fetchTerm": "readiness",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state or degree of being ready; preparedness.",
+          "examples": [
+            "readiness for civil emergencies"
+          ]
+        },
+        {
+          "text": "Willingness.",
+          "examples": [
+            "his readiness to help"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gotowość"
+  ],
+  "fetchedAt": "2026-05-19T20:33:39.324Z"
+}

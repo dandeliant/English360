@@ -1,0 +1,86 @@
+{
+  "lemma": "humble",
+  "slug": "humble",
+  "fetchTerm": "humble",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not pretentious or magnificent; unpretending; unassuming.",
+          "examples": [
+            "He lives in a humble one-bedroom cottage."
+          ]
+        },
+        {
+          "text": "Having a low position or a low opinion of oneself; not proud, arrogant, or assuming; modest.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "People with a low position or a low opinion of themselves; those who are not proud, arrogant, or assuming.",
+          "examples": []
+        },
+        {
+          "text": "An arrest based on weak evidence intended to demean or punish the subject.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To defeat or reduce the power, independence, or pride of.",
+          "examples": []
+        },
+        {
+          "text": "To make humble or lowly; to make less proud or arrogant; to make meek and submissive.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hum.",
+          "examples": [
+            "humbling and bumbling"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of hummel.",
+          "examples": [
+            "humble cattle"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative form of hummel.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "skromny",
+    "pokorny",
+    "uniżony"
+  ],
+  "fetchedAt": "2026-05-19T20:32:26.410Z"
+}

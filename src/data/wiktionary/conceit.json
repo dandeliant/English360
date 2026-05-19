@@ -1,0 +1,42 @@
+{
+  "lemma": "conceit",
+  "slug": "conceit",
+  "fetchTerm": "conceit",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something conceived in the mind; an idea, a thought. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "The faculty of conceiving ideas; mental faculty; apprehension.",
+          "examples": [
+            "a man of quick conceit"
+          ]
+        },
+        {
+          "text": "Quickness of apprehension; active imagination; lively fancy.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To form an idea; to think.",
+          "examples": []
+        },
+        {
+          "text": "To conceive.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:31:53.188Z"
+}

@@ -1,0 +1,26 @@
+{
+  "lemma": "probably",
+  "slug": "probably",
+  "fetchTerm": "probably",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In all likelihood.",
+          "examples": [
+            "She probably has arrived by now.",
+            "He'll probably arrive tomorrow."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "prawdopodobnie",
+    "przypuszczalnie",
+    "chyba"
+  ],
+  "fetchedAt": "2026-05-19T20:33:28.001Z"
+}

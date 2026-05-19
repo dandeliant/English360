@@ -1,0 +1,32 @@
+{
+  "lemma": "keeper",
+  "slug": "keeper",
+  "fetchTerm": "keeper",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One who keeps (retains) something.",
+          "examples": [
+            "Finders keepers; losers weepers."
+          ]
+        },
+        {
+          "text": "One who remains or keeps in a place or position.",
+          "examples": []
+        },
+        {
+          "text": "A fruit or vegetable that keeps (remains good) for some time without spoiling.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "strażnik",
+    "strażniczka"
+  ],
+  "fetchedAt": "2026-05-19T20:32:30.310Z"
+}

@@ -1,0 +1,48 @@
+{
+  "lemma": "graze",
+  "slug": "graze",
+  "fetchTerm": "graze",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of grazing; a scratching or injuring lightly on passing.",
+          "examples": []
+        },
+        {
+          "text": "A light abrasion; a slight scratch.",
+          "examples": []
+        },
+        {
+          "text": "The act of animals feeding from pasture.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To feed or supply (cattle, sheep, etc.) with grass; to furnish pasture for.",
+          "examples": []
+        },
+        {
+          "text": "To feed on; to eat (growing herbage); to eat grass from (a pasture)",
+          "examples": [
+            "Cattle graze in the meadows."
+          ]
+        },
+        {
+          "text": "To tend (cattle, etc.) while grazing.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "paść"
+  ],
+  "fetchedAt": "2026-05-19T20:32:17.974Z"
+}

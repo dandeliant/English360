@@ -1,0 +1,49 @@
+{
+  "lemma": "blossom",
+  "slug": "blossom",
+  "fetchTerm": "blossom",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A flower, especially one indicating that a fruit tree is fruiting; a mass of such flowers.",
+          "examples": [
+            "The blossom has come early this year."
+          ]
+        },
+        {
+          "text": "The state or season of producing such flowers.",
+          "examples": [
+            "The orchard is in blossom."
+          ]
+        },
+        {
+          "text": "A blooming period or stage of development; something lovely that gives rich promise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To have, or open into, blossoms; to bloom.",
+          "examples": []
+        },
+        {
+          "text": "To begin to thrive or flourish.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kwiat",
+    "kwitnienie",
+    "okres kwitnienia",
+    "kwitnąć"
+  ],
+  "fetchedAt": "2026-05-19T20:31:33.954Z"
+}

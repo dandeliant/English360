@@ -1,0 +1,19 @@
+{
+  "lemma": "mechanise",
+  "slug": "mechanise",
+  "fetchTerm": "mechanise",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Non-Oxford British English standard spelling of mechanize.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:32:51.140Z"
+}

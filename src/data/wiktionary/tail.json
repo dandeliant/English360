@@ -1,0 +1,70 @@
+{
+  "lemma": "tail",
+  "slug": "tail",
+  "fetchTerm": "tail",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The caudal appendage of an animal that is attached to their posterior and near the anus or cloaca.",
+          "examples": [
+            "Most primates have a tail and fangs."
+          ]
+        },
+        {
+          "text": "An object or part of an object resembling a tail in shape, such as the thongs on a cat-o'-nine-tails; a strand of material hanging from something.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hold by the end; said of a timber when it rests upon a wall or other support; with in or into",
+          "examples": []
+        },
+        {
+          "text": "To swing with the stern in a certain direction; said of a vessel at anchor.",
+          "examples": [
+            "This vessel tails downstream."
+          ]
+        },
+        {
+          "text": "To follow or hang to, like a tail; to be attached closely to, as that which can not be evaded.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Limited; abridged; reduced; curtailed.",
+          "examples": [
+            "estate tail"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Limitation of inheritance to certain heirs.",
+          "examples": [
+            "tail male",
+            "in tail"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ogon",
+    "chwost"
+  ],
+  "fetchedAt": "2026-05-19T20:34:06.126Z"
+}

@@ -1,0 +1,25 @@
+{
+  "lemma": "wagtail",
+  "slug": "wagtail",
+  "fetchTerm": "wagtail",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any of various small passerine birds, principally of genus Motacilla, of the Old World, notable for their long tails.",
+          "examples": []
+        },
+        {
+          "text": "Ellipsis of wagtail platy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pliszka"
+  ],
+  "fetchedAt": "2026-05-19T20:34:11.931Z"
+}

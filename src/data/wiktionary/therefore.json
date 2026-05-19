@@ -1,0 +1,32 @@
+{
+  "lemma": "therefore",
+  "slug": "therefore",
+  "fetchTerm": "therefore",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Consequently, by or in consequence of that or this cause; referring to something previously stated.",
+          "examples": [
+            "Traditional values will always have a place—therefore, they will never lose relevance.",
+            "I've been explicitly forbidden to leave and therefore must stay longer."
+          ]
+        },
+        {
+          "text": "For that; for it (in reference to a previous statement).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "więc",
+    "zatem",
+    "dlatego",
+    "przeto",
+    "tak że"
+  ],
+  "fetchedAt": "2026-05-19T20:34:07.717Z"
+}

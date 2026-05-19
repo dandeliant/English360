@@ -1,0 +1,31 @@
+{
+  "lemma": "recognition",
+  "slug": "recognition",
+  "fetchTerm": "recognition",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of recognizing or the condition of being recognized (matching a current observation with a memory of a prior observation of the same entity).",
+          "examples": [
+            "He looked at her for ten full minutes before recognition dawned."
+          ]
+        },
+        {
+          "text": "Acceptance as valid or true.",
+          "examples": [
+            "The law was a recognition of their civil rights."
+          ]
+        },
+        {
+          "text": "Official acceptance of the status of a new government by that of another country.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T20:33:40.624Z"
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "hop",
+  "slug": "hop",
+  "fetchTerm": "hop",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Hopi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short jump.",
+          "examples": [
+            "The frog crossed the brook in three or four hops."
+          ]
+        },
+        {
+          "text": "A jump on one leg.",
+          "examples": []
+        },
+        {
+          "text": "A short journey, especially in the case of air travel, one that takes place on a private plane.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To jump a short distance.",
+          "examples": []
+        },
+        {
+          "text": "To jump on one foot.",
+          "examples": []
+        },
+        {
+          "text": "To be in state of energetic activity.",
+          "examples": [
+            "Sorry, can't chat. Got to hop.",
+            "The sudden rush of customers had everyone in the shop hopping."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A plant of species Humulus lupulus, native to northern Europe, female flowers of which are used to flavour many types of beer during brewing.",
+          "examples": []
+        },
+        {
+          "text": "The flowers of the hop plant, dried and used to brew beer.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To impregnate with hops, especially to add hops as a flavouring agent during the production of beer",
+          "examples": []
+        },
+        {
+          "text": "To gather hops.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of half-op.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chmiel"
+  ],
+  "fetchedAt": "2026-05-19T20:32:25.108Z"
+}

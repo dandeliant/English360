@@ -1,0 +1,40 @@
+{
+  "lemma": "provide",
+  "slug": "provide",
+  "fetchTerm": "provide",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a living; earn money for necessities.",
+          "examples": [
+            "It is difficult to provide for my family working on minimum wage."
+          ]
+        },
+        {
+          "text": "To act to prepare for something.",
+          "examples": [
+            "provide against disaster."
+          ]
+        },
+        {
+          "text": "To establish as a previous condition; to stipulate.",
+          "examples": [
+            "The contract provides that the work be well done.",
+            "I'll lend you the money, provided that you pay it back by Monday."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dostarczać",
+    "dostarczyć",
+    "aprowidować",
+    "zaaprowidować",
+    "zaprowidować"
+  ],
+  "fetchedAt": "2026-05-19T20:33:36.657Z"
+}

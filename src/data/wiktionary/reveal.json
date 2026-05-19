@@ -1,0 +1,44 @@
+{
+  "lemma": "reveal",
+  "slug": "reveal",
+  "fetchTerm": "reveal",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The outer side of a window or door frame.",
+          "examples": []
+        },
+        {
+          "text": "A revelation; an uncovering of what was hidden in the scene or story.",
+          "examples": [
+            "The comedian had been telling us about his sleep being disturbed by noise. Then came the reveal: he was sleeping on a bed in a department store."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To uncover; to show and display that which was hidden.",
+          "examples": []
+        },
+        {
+          "text": "To communicate that which could not be known or discovered without divine or supernatural instruction.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "odkrywać",
+    "odkryć",
+    "odsłaniać",
+    "odsłonić",
+    "ujawniać"
+  ],
+  "fetchedAt": "2026-05-19T20:33:45.710Z"
+}

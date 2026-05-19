@@ -1,0 +1,34 @@
+{
+  "lemma": "raptor",
+  "slug": "raptor",
+  "fetchTerm": "raptor",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bird of prey.",
+          "examples": []
+        },
+        {
+          "text": "One who ravishes or plunders.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "One of the dromaeosaurs, a family of carnivorous dinosaurs having tearing claws on the hind legs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dromeozaur"
+  ],
+  "fetchedAt": "2026-05-19T20:33:37.998Z"
+}

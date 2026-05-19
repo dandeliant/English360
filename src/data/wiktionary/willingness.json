@@ -1,0 +1,24 @@
+{
+  "lemma": "willingness",
+  "slug": "willingness",
+  "fetchTerm": "willingness",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The state of being willing",
+          "examples": [
+            "All it takes is a willingness to learn."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chęć",
+    "ochota"
+  ],
+  "fetchedAt": "2026-05-19T20:34:14.899Z"
+}

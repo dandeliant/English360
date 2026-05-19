@@ -1,0 +1,212 @@
+{
+  "id": "2026-05-09-yellow-wagtail",
+  "date_assigned": "2026-05-09",
+  "date_alternatives": ["2026-05-08", "2026-05-10"],
+  "title_en": "Yellow on Yellow",
+  "title_pl": "Żółte na żółtym",
+  "location": "Jadwisin, Poland",
+  "image": "/images/2026-05-09-yellow-wagtail.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["birds", "yellow-wagtail", "spring", "rapeseed", "field", "poland", "countryside", "may", "color-harmony"],
+  "themes": ["spring", "polish-countryside", "color-harmony", "right-place-right-time", "ornithology"],
+  "did_you_know": {
+    "en": "The Polish folk name for the yellow wagtail, wolarka, literally means 'little ox-keeper' — a memory of the centuries when the bird followed grazing cattle through summer pastures, snatching the insects the hooves stirred up. The modern rapeseed field is, in a quiet way, just a yellower version of the same arrangement.",
+    "pl": "Polska ludowa nazwa pliszki żółtej — wolarka — dosłownie znaczy „pasterka wołów”. To wspomnienie po stuleciach, kiedy ptak chodził za pasącym się bydłem przez letnie pastwiska i łapał owady wzbijane przez kopyta. Dzisiejsze pole rzepaku jest, na swój cichy sposób, po prostu bardziej żółtą wersją tego samego układu."
+  },
+  "social": {
+    "fb_caption_pl": "Żółte na żółtym. Pliszka żółta (Motacilla flava) na łodyżce kwitnącego rzepaku pod Jadwisinem. Idealnie dopasowany kolor, idealnie wybrany moment — lekcja English 360° o tym, jak fotograf trafia we właściwe miejsce we właściwym czasie. Sześć poziomów CEFR. english360.example",
+    "fb_caption_en": "Yellow on yellow. A yellow wagtail (Motacilla flava) perched on a stem of blooming rapeseed near Jadwisin, central Poland. Same colour, same May afternoon, one rare quiet bird — six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#YellowWagtail", "#PliszkaŻółta", "#MotacillaFlava", "#Rzepak", "#PolskaWieś", "#SpringPhotography", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this bird. The bird is yellow. The flowers are yellow too. It is a small yellow bird. It sits on a flower. The flower is rapeseed. It is May. May is a spring month. The day is bright. The picture is very pretty.",
+      "text_pl": "Popatrz na tego ptaka. Ptak jest żółty. Kwiaty też są żółte. To jest mały żółty ptak. Siedzi na kwiatku. Kwiat to rzepak. Jest maj. Maj to wiosenny miesiąc. Dzień jest jasny. Zdjęcie jest bardzo ładne.",
+      "vocab": [
+        { "term": "bird", "ipa_br": "/bɜːd/", "pl": "ptak", "new": false },
+        { "term": "yellow", "ipa_br": "/ˈjel.əʊ/", "pl": "żółty", "new": false },
+        { "term": "flower", "ipa_br": "/ˈflaʊ.ə/", "pl": "kwiat", "new": false },
+        { "term": "small", "ipa_br": "/smɔːl/", "pl": "mały", "new": false },
+        { "term": "spring", "ipa_br": "/sprɪŋ/", "pl": "wiosna", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny, jaskrawy", "new": true },
+        { "term": "pretty", "ipa_br": "/ˈprɪt.i/", "pl": "ładny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "bird", "answer": "A" },
+            { "word": "flower", "answer": "B" },
+            { "word": "yellow", "answer": "C" },
+            { "word": "spring", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🐦" },
+            { "label": "B", "text": "🌼" },
+            { "label": "C", "text": "🟡" },
+            { "label": "D", "text": "🌷" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "It is a sunny day in May. A small yellow bird sits on a rapeseed plant. The bird is called a yellow wagtail. Its belly is bright yellow. Its back and wings are brown. Around the bird, the field is full of yellow flowers. The colours match. The photographer was lucky. He found the bird in the right place at the right moment. The bird did not fly away. It looked into the camera and stayed still.",
+      "text_pl": "Jest słoneczny dzień w maju. Mały żółty ptaszek siedzi na łodyżce rzepaku. Ten ptak nazywa się pliszka żółta. Jego brzuszek jest jaskrawożółty. Jego grzbiet i skrzydła są brązowe. Wokół ptaka pole jest pełne żółtych kwiatów. Kolory pasują do siebie. Fotograf miał szczęście. Znalazł ptaka we właściwym miejscu we właściwej chwili. Ptak nie odleciał. Spojrzał w obiektyw i stał spokojnie.",
+      "vocab": [
+        { "term": "sunny", "ipa_br": "/ˈsʌn.i/", "pl": "słoneczny", "new": true },
+        { "term": "plant", "ipa_br": "/plɑːnt/", "pl": "roślina; sadzić", "new": false },
+        { "term": "wagtail", "ipa_br": "/ˈwæɡ.teɪl/", "pl": "pliszka", "new": true },
+        { "term": "belly", "ipa_br": "/ˈbel.i/", "pl": "brzuch", "new": true },
+        { "term": "wing", "ipa_br": "/wɪŋ/", "pl": "skrzydło", "new": false },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": false },
+        { "term": "match", "ipa_br": "/mætʃ/", "pl": "pasować; mecz; zapałka", "new": true },
+        { "term": "lucky", "ipa_br": "/ˈlʌk.i/", "pl": "mający szczęście", "new": true },
+        { "term": "still", "ipa_br": "/stɪl/", "pl": "spokojnie, nieruchomo; nadal", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowami z tekstu.",
+          "items": [
+            { "sentence": "The bird is called a yellow ___.", "answer": "wagtail" },
+            { "sentence": "Its ___ is bright yellow.", "answer": "belly" },
+            { "sentence": "The colours ___.", "answer": "match" },
+            { "sentence": "The photographer was ___.", "answer": "lucky" },
+            { "sentence": "The bird did not fly ___.", "answer": "away" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "The photographer caught a perfect moment. A yellow wagtail had landed on a stem of blooming rapeseed, and the bright yellow of its underside almost matched the colour of the flowers behind it. Yellow wagtails are common across Polish farmland in spring — you can often hear them calling above damp meadows and fields. They nest on the ground and feed on small insects. This particular bird was probably looking for food when it stopped to perch. Three things had to come together for a photograph like this to work: the right light, a calm bird that did not fly away, and a photographer ready to lift the camera at exactly the right second. Mostly, you have to be there.",
+      "text_pl": "Fotograf uchwycił idealny moment. Pliszka żółta usiadła na łodyżce kwitnącego rzepaku, a jaskrawożółty kolor jej spodu niemal pasował do koloru kwiatów za nią. Pliszki żółte są wiosną pospolite na polskich polach uprawnych — często słychać, jak nawołują nad wilgotnymi łąkami i polami. Gniazdują na ziemi i żywią się drobnymi owadami. Ten konkretny ptak prawdopodobnie szukał jedzenia, gdy zatrzymał się, żeby odpocząć. Trzy rzeczy musiały się złożyć, żeby takie zdjęcie wyszło: odpowiednie światło, spokojny ptak, który nie odleciał, i fotograf gotowy podnieść aparat dokładnie w odpowiedniej sekundzie. W większości chodzi po prostu o to, żeby tam być.",
+      "vocab": [
+        { "term": "land", "ipa_br": "/lænd/", "pl": "wylądować; ląd, ziemia", "new": true },
+        { "term": "stem", "ipa_br": "/stem/", "pl": "łodyga; pochodzić (z czegoś)", "new": true },
+        { "term": "blooming", "ipa_br": "/ˈbluː.mɪŋ/", "pl": "kwitnący", "new": true },
+        { "term": "underside", "ipa_br": "/ˈʌn.də.saɪd/", "pl": "spód, dolna strona", "new": true },
+        { "term": "farmland", "ipa_br": "/ˈfɑːm.lænd/", "pl": "pola uprawne, ziemia rolna", "new": true },
+        { "term": "damp", "ipa_br": "/dæmp/", "pl": "wilgotny", "new": true },
+        { "term": "meadow", "ipa_br": "/ˈmed.əʊ/", "pl": "łąka", "new": true },
+        { "term": "nest", "ipa_br": "/nest/", "pl": "gniazdo; gniazdować", "new": false },
+        { "term": "feed on", "ipa_br": "/fiːd ɒn/", "pl": "żywić się czymś", "new": true },
+        { "term": "perch", "ipa_br": "/pɜːtʃ/", "pl": "przysiąść; grzęda", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The bird is a yellow wagtail sitting on rapeseed.", "answer": true },
+            { "statement": "Yellow wagtails are rare in Poland.", "answer": false },
+            { "statement": "The birds nest in tall trees.", "answer": false },
+            { "statement": "The photographer needed the right light and a calm bird.", "answer": true },
+            { "statement": "Yellow wagtails feed mainly on seeds.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There are days when a photographer goes out hoping for something special and comes back with nothing — and there are days like this one, when nature simply offers itself. A yellow wagtail (Motacilla flava), one of the most striking small birds you can see in Polish fields, had perched on a stalk of rapeseed in full bloom. Its lemon-yellow plumage practically melted into the blossoms around it, with only the dark wings and the slim, elegant tail giving the bird away. To capture a shot like this, you need patience and luck in roughly equal measure. The wagtail could have flown the moment the lens lifted; it didn't. Instead it turned its head, gave the camera a long, almost curious look, and let the photographer record one of those rare frames where everything — bird, light, background — falls into place.",
+      "text_pl": "Są dni, kiedy fotograf wychodzi z aparatem licząc na coś wyjątkowego i wraca z niczym — i są dni takie jak ten, kiedy przyroda po prostu sama się ofiarowuje. Pliszka żółta (Motacilla flava), jeden z najpiękniejszych małych ptaków, jakie można zobaczyć na polskich polach, przysiadła na łodydze rzepaku w pełnym rozkwicie. Jej cytrynowożółte upierzenie praktycznie wtopiło się w otaczające kwiaty, a zdradzały ptaka tylko ciemne skrzydła i smukły, elegancki ogon. Żeby uchwycić takie ujęcie, potrzeba mniej więcej po równo cierpliwości i szczęścia. Pliszka mogła odlecieć w chwili, gdy obiektyw się uniósł; nie zrobiła tego. Zamiast tego obróciła głowę, posłała aparatowi długie, niemal ciekawe spojrzenie i pozwoliła fotografowi uwiecznić jeden z tych rzadkich kadrów, w których wszystko — ptak, światło, tło — układa się idealnie.",
+      "vocab": [
+        { "term": "offer", "ipa_br": "/ˈɒf.ə/", "pl": "oferować, ofiarować", "new": false },
+        { "term": "striking", "ipa_br": "/ˈstraɪ.kɪŋ/", "pl": "uderzający, rzucający się w oczy", "new": true },
+        { "term": "stalk", "ipa_br": "/stɔːk/", "pl": "łodyga, badyl; podchodzić, śledzić", "new": true },
+        { "term": "plumage", "ipa_br": "/ˈpluː.mɪdʒ/", "pl": "upierzenie", "new": true },
+        { "term": "melt into", "ipa_br": "/melt ˈɪn.tuː/", "pl": "wtopić się w (tło)", "new": true },
+        { "term": "blossom", "ipa_br": "/ˈblɒs.əm/", "pl": "kwiat, kwitnienie", "new": true },
+        { "term": "slim", "ipa_br": "/slɪm/", "pl": "smukły, szczupły", "new": true },
+        { "term": "patience", "ipa_br": "/ˈpeɪ.ʃəns/", "pl": "cierpliwość", "new": true },
+        { "term": "lens", "ipa_br": "/lenz/", "pl": "obiektyw; soczewka", "new": false },
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "kadr; ramka", "new": true },
+        { "term": "fall into place", "ipa_br": "/fɔːl ˈɪn.tə pleɪs/", "pl": "ułożyć się idealnie, wszystko zaskakuje", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false.",
+          "items": [
+            { "statement": "The author admits that some days bring no photographs at all.", "answer": true },
+            { "statement": "The wagtail's whole body melts into the rapeseed — nothing gives it away.", "answer": false },
+            { "statement": "Capturing this kind of shot requires both patience and luck.", "answer": true },
+            { "statement": "The bird flew away immediately when the camera was raised.", "answer": false },
+            { "statement": "The author calls a shot like this 'rare'.", "answer": true },
+            { "statement": "The bird looked at the camera with apparent curiosity.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Photography is often described as the art of timing, but in nature photography that maxim conceals a more humbling truth: most of the work has nothing to do with you. You can plan the location, the season, the focal length; the wagtail, however, will land where it pleases, when it pleases, and stay only as long as some private bird-calculation allows. The photographer here had clearly done his preparation — a rapeseed field at the peak of bloom, the early-spring light soft and yellow — but no amount of preparation produces a yellow wagtail willing to sit calmly two metres away and pose. That part is given, not earned. What is earned is the readiness to be present: the willingness to walk slowly, breathe quietly, hold a heavy camera without trembling, and recognise, in the half-second when something rare reveals itself, that this is the moment. The picture shows a bird whose plumage echoes the blossoms it sits among. But beneath the visual harmony is something else, almost philosophical — the brief encounter between two creatures who happen, for once, to be in exactly the same place at exactly the same time.",
+      "text_pl": "Fotografię często opisuje się jako sztukę wyczucia momentu, ale w fotografii przyrodniczej ta maksyma kryje pokorniejszą prawdę: większość pracy nie ma z tobą nic wspólnego. Możesz zaplanować miejsce, porę roku, ogniskową; pliszka jednak wyląduje tam, gdzie zechce, kiedy zechce, i zostanie tylko tak długo, na ile pozwoli jej jakaś prywatna ptasia kalkulacja. Fotograf w tym przypadku najwyraźniej się przygotował — pole rzepaku w pełnym rozkwicie, miękkie, żółtawe światło wczesnej wiosny — ale żadne przygotowania nie wytwarzają pliszki żółtej skłonnej spokojnie usiąść dwa metry dalej i pozować. Tę część się dostaje, nie zarabia. Tym, co się zarabia, jest gotowość bycia obecnym: chęć powolnego chodzenia, cichego oddychania, trzymania ciężkiego aparatu bez drżenia i rozpoznania, w tej połowie sekundy, kiedy coś rzadkiego się odsłania, że to właśnie ten moment. Zdjęcie pokazuje ptaka, którego upierzenie wtóruje kwiatom, wśród których siedzi. Ale pod tą wizualną harmonią kryje się coś jeszcze, niemal filozoficznego — krótkie spotkanie dwóch istot, które tym razem znalazły się dokładnie w tym samym miejscu o dokładnie tym samym czasie.",
+      "vocab": [
+        { "term": "maxim", "ipa_br": "/ˈmæk.sɪm/", "pl": "maksyma, sentencja", "new": true },
+        { "term": "conceal", "ipa_br": "/kənˈsiːl/", "pl": "ukrywać, taić", "new": true },
+        { "term": "humbling", "ipa_br": "/ˈhʌm.blɪŋ/", "pl": "uczący pokory", "new": true },
+        { "term": "focal length", "ipa_br": "/ˈfəʊ.kəl leŋθ/", "pl": "ogniskowa", "new": true },
+        { "term": "given", "ipa_br": "/ˈɡɪv.ən/", "pl": "pewnik, coś danego (z góry)", "new": true },
+        { "term": "earn", "ipa_br": "/ɜːn/", "pl": "zasłużyć (na coś); zarabiać", "new": false },
+        { "term": "readiness", "ipa_br": "/ˈred.i.nəs/", "pl": "gotowość", "new": true },
+        { "term": "tremble", "ipa_br": "/ˈtrem.bəl/", "pl": "drżeć", "new": true },
+        { "term": "reveal", "ipa_br": "/rɪˈviːl/", "pl": "ujawniać, odsłaniać", "new": false },
+        { "term": "echo", "ipa_br": "/ˈek.əʊ/", "pl": "echo; wtórować, powielać", "new": true },
+        { "term": "encounter", "ipa_br": "/ɪnˈkaʊn.tə/", "pl": "spotkanie, napotkanie", "new": true },
+        { "term": "creature", "ipa_br": "/ˈkriː.tʃə/", "pl": "stworzenie, istota", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie.",
+          "items": [
+            { "original": "Most of the work has nothing to do with you.", "answer": "The majority of what makes the photograph happen is entirely beyond the photographer's control." },
+            { "original": "The wagtail will land where it pleases, when it pleases.", "answer": "It is the wagtail, not the photographer, who decides where and when to land." },
+            { "original": "That part is given, not earned.", "answer": "You receive that part for free; you cannot work for it." },
+            { "original": "What is earned is the readiness to be present.", "answer": "What the photographer actually works for is being ready to be there when the moment comes." },
+            { "original": "Beneath the visual harmony is something else, almost philosophical.", "answer": "Under the picture's surface harmony lies a deeper, almost philosophical meaning." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "In Polish ornithology the yellow wagtail goes by two names — pliszka żółta and wolarka, the latter a folk word literally meaning 'little ox-keeper', a memory of pre-mechanised summers when the bird foraged for insects stirred up by grazing cattle. Few descriptions capture better the species' affinity for open agricultural land: lowland meadows, damp pastures, and now, increasingly, the vast yellow rectangles of rapeseed that dominate the late-spring Polish countryside. The encounter recorded here is therefore not entirely accidental. Motacilla flava and Brassica napus, bird and crop, have arrived at a kind of seasonal coexistence — the wagtail finds insects above the canopy of flowers, the canopy provides cover from raptors and an abundance of perches. Whether the bird 'matches' the rapeseed is, of course, a human conceit; evolution did not paint its underside lemon-yellow to harmonise with a brassica that arrived in mass cultivation only in the last few centuries. The colour serves entirely other functions — sexual signalling, species recognition — and it is sheer chromatic coincidence that, on this particular afternoon in Jadwisin, that yellow lay against an ocean of another. Yet the coincidence rewards looking. The photograph is, in its quiet way, an argument for going outside in May.",
+      "text_pl": "W polskiej ornitologii pliszka żółta nosi dwie nazwy — pliszka żółta i wolarka, przy czym ta druga to ludowe słowo dosłownie znaczące „pasterka wołów”, pamiątka po przedmechanizacyjnych latach, kiedy ptak żerował na owadach wzbijanych przez pasące się bydło. Niewiele opisów lepiej oddaje upodobanie tego gatunku do otwartych terenów rolniczych: nizinnych łąk, wilgotnych pastwisk, a teraz, coraz częściej, ogromnych żółtych prostokątów rzepaku, które dominują późnowiosenny polski krajobraz. Zarejestrowane tutaj spotkanie nie jest zatem zupełnie przypadkowe. Motacilla flava i Brassica napus, ptak i uprawa, doszły do swoistej sezonowej współegzystencji — pliszka znajduje owady ponad sklepieniem kwiatów, sklepienie zapewnia osłonę przed drapieżnikami i mnóstwo grzęd. Czy ptak „pasuje” do rzepaku to oczywiście ludzka koncepcja; ewolucja nie pomalowała mu brzuszka na cytrynową żółć, by zharmonizować się z kapustowatą rośliną, która weszła w masową uprawę dopiero w ostatnich kilku stuleciach. Kolor pełni zupełnie inne funkcje — sygnalizacji płciowej, rozpoznania gatunkowego — i jest czystą barwną zbieżnością, że tego konkretnego popołudnia w Jadwisinie ta żółć ułożyła się na tle innej. A jednak zbieżność wynagradza patrzenie. Zdjęcie jest, na swój cichy sposób, argumentem za tym, żeby w maju wyjść z domu.",
+      "vocab": [
+        { "term": "ornithology", "ipa_br": "/ˌɔː.nɪˈθɒl.ə.dʒi/", "pl": "ornitologia, nauka o ptakach", "new": true },
+        { "term": "folk", "ipa_br": "/fəʊk/", "pl": "ludowy; lud", "new": true },
+        { "term": "forage", "ipa_br": "/ˈfɒr.ɪdʒ/", "pl": "żerować, szukać pożywienia", "new": true },
+        { "term": "affinity", "ipa_br": "/əˈfɪn.ə.ti/", "pl": "upodobanie, powinowactwo", "new": true },
+        { "term": "lowland", "ipa_br": "/ˈləʊ.lənd/", "pl": "nizinny; nizina", "new": true },
+        { "term": "pasture", "ipa_br": "/ˈpɑːs.tʃə/", "pl": "pastwisko", "new": true },
+        { "term": "vast", "ipa_br": "/vɑːst/", "pl": "ogromny, rozległy", "new": true },
+        { "term": "crop", "ipa_br": "/krɒp/", "pl": "uprawa, plon", "new": true },
+        { "term": "coexistence", "ipa_br": "/ˌkəʊ.ɪɡˈzɪs.təns/", "pl": "współistnienie, współegzystencja", "new": true },
+        { "term": "canopy", "ipa_br": "/ˈkæn.ə.pi/", "pl": "sklepienie (np. roślinne), baldachim", "new": true },
+        { "term": "raptor", "ipa_br": "/ˈræp.tə/", "pl": "ptak drapieżny", "new": true },
+        { "term": "conceit", "ipa_br": "/kənˈsiːt/", "pl": "koncept, fanaberia; zarozumiałość", "new": true },
+        { "term": "chromatic", "ipa_br": "/krəˈmæt.ɪk/", "pl": "barwny, chromatyczny", "new": true },
+        { "term": "coincidence", "ipa_br": "/kəʊˈɪn.sɪ.dəns/", "pl": "zbieg okoliczności, zbieżność", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "cloze",
+          "prompt": "Open cloze — wpisz po JEDNYM słowie w każdą lukę. Bez banku.",
+          "passage": "In Polish ornithology the yellow wagtail goes ___ two names — pliszka żółta and wolarka, the latter a folk word literally meaning 'little ox-keeper', a memory ___ pre-mechanised summers when the bird foraged for insects stirred ___ by grazing cattle. Motacilla flava and Brassica napus, bird and crop, have arrived ___ a kind of seasonal coexistence — the wagtail finds insects above the canopy of flowers, ___ canopy provides cover from raptors. Whether the bird 'matches' the rapeseed is, ___ course, a human conceit; evolution did not paint its underside lemon-yellow ___ harmonise with a brassica that arrived in mass cultivation only ___ the last few centuries.",
+          "answers": ["by", "of", "up", "at", "the", "of", "to", "in"],
+          "hints": [
+            "preposition — 'goes ___ two names'",
+            "preposition — 'a memory ___ pre-mechanised summers'",
+            "particle in a phrasal verb — 'stirred ___ by grazing cattle'",
+            "preposition — 'arrived ___ a kind of coexistence'",
+            "article — 'flowers, ___ canopy provides cover'",
+            "preposition in fixed phrase — '___ course'",
+            "infinitive marker — 'lemon-yellow ___ harmonise'",
+            "preposition — '___ the last few centuries'"
+          ]
+        }
+      ]
+    }
+  }
+}

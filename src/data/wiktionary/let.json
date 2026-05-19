@@ -1,0 +1,88 @@
+{
+  "lemma": "let",
+  "slug": "let",
+  "fetchTerm": "let",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Lesing-Gelimi.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To allow to, not to prevent .",
+          "examples": [
+            "After he knocked for hours, I decided to let him come in."
+          ]
+        },
+        {
+          "text": "To allow to be or do without interference; to not disturb or meddle with; to leave alone.",
+          "examples": [
+            "Let me be!"
+          ]
+        },
+        {
+          "text": "To allow the release of (a fluid).",
+          "examples": [
+            "The physicians let about a pint of his blood, but to no avail."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The allowing of possession of a property etc. in exchange for rent.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To hinder, prevent, impede, hamper, cumber; to obstruct (someone or something).",
+          "examples": []
+        },
+        {
+          "text": "To prevent someone from doing something; also to prevent something from happening.",
+          "examples": []
+        },
+        {
+          "text": "To tarry or delay.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An obstacle or hindrance.",
+          "examples": [
+            "without let or hindrance"
+          ]
+        },
+        {
+          "text": "The hindrance caused by the net during serve, only if the ball falls legally.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pozwalać",
+    "pozwolić",
+    "wynajmować",
+    "niech"
+  ],
+  "fetchedAt": "2026-05-19T20:32:37.489Z"
+}

@@ -1,0 +1,40 @@
+{
+  "lemma": "length",
+  "slug": "length",
+  "fetchTerm": "length",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The distance measured along the longest dimension of an object.",
+          "examples": []
+        },
+        {
+          "text": "Duration.",
+          "examples": []
+        },
+        {
+          "text": "The length of a horse, used to indicate the distance between horses at the end of a race.",
+          "examples": [
+            "five lengths ahead of the field"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To lengthen.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "długość"
+  ],
+  "fetchedAt": "2026-05-19T20:32:34.517Z"
+}

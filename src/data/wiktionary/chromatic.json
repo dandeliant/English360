@@ -1,0 +1,38 @@
+{
+  "lemma": "chromatic",
+  "slug": "chromatic",
+  "fetchTerm": "chromatic",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Uses relating to colour Characterized or caused by, or relating to, colour or hue.",
+          "examples": []
+        },
+        {
+          "text": "Characterized or caused by, or relating to, colour or hue.",
+          "examples": []
+        },
+        {
+          "text": "Brightly coloured; colourful, vivid.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to chromatin (a complex of DNA, RNA, and proteins within the cell nucleus out of which chromosomes condense during cell division).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chromatyczny"
+  ],
+  "fetchedAt": "2026-05-19T20:31:47.579Z"
+}

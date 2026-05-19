@@ -1,0 +1,38 @@
+{
+  "lemma": "plan",
+  "slug": "plan",
+  "fetchTerm": "plan",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than detailed drawing to represent doors, valves, etc.",
+          "examples": [
+            "The plans for many important buildings were once publicly available."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To design (a building, machine, etc.).",
+          "examples": [
+            "The architect planned the building for the client."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "schemat",
+    "abrys",
+    "plan",
+    "projektować",
+    "zaprojektować"
+  ],
+  "fetchedAt": "2026-05-19T20:33:12.814Z"
+}

@@ -1,0 +1,26 @@
+{
+  "lemma": "harmony",
+  "slug": "harmony",
+  "fetchTerm": "harmony",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Agreement or accord.",
+          "examples": []
+        },
+        {
+          "text": "A pleasing combination of elements, or arrangement of sounds.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zgoda",
+    "harmonia"
+  ],
+  "fetchedAt": "2026-05-19T20:32:22.096Z"
+}
