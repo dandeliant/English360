@@ -14,8 +14,12 @@ const lessons = await getCollection('lessons');
 const exactMatch = lessons.find((l) => l.data.date_assigned === today);
 const altMatch = lessons.find((l) => l.data.date_alternatives.includes(today));
 
-// Fallback: most recent lesson by date_assigned, descending.
-const sorted = [...lessons].sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
+// Fallback: most recent lesson on or before today, descending.
+// Future-dated drafts (date_assigned > today) are excluded so they don't
+// surface as "the latest" before their scheduled day.
+const sorted = [...lessons]
+  .filter((l) => l.data.date_assigned <= today)
+  .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
 
 const todaysLesson = exactMatch ?? altMatch ?? sorted[0];
 const isFallback = !exactMatch && !altMatch;
