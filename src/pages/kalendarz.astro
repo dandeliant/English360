@@ -139,7 +139,10 @@ const totalLessonsThisYear = [...calendar.values()].length;
                 const l = cell.lesson.data;
                 const date = `${cell.md.slice(0, 2)}.${cell.md.slice(3)}`;
                 return (
-                  <li class:list={['day', 'day--has-lesson', cell.isToday && 'day--today']}>
+                  <li
+                    class:list={['day', 'day--has-lesson', cell.isToday && 'day--today']}
+                    style={`--day-bg-image: url('${l.image}')`}
+                  >
                     <a
                       href={`/lekcja/${cell.lesson.id}`}
                       class="day__link"
@@ -417,6 +420,28 @@ const totalLessonsThisYear = [...calendar.values()].length;
     cursor: pointer;
   }
 
+  /* Thumbnail-as-fog: the lesson photo sits inside the cell, blurred
+   * and dimmed so the day number remains readable on top. Image clips
+   * to the cell's rounded corners via border-radius: inherit. */
+  .day--has-lesson::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: var(--day-bg-image);
+    background-size: cover;
+    background-position: center;
+    filter: blur(1.5px) saturate(0.9);
+    opacity: 0.4;
+    border-radius: inherit;
+    pointer-events: none;
+  }
+
+  /* Subtle shadow so the day number stays legible regardless of which
+   * colors dominate the photo behind it. */
+  .day--has-lesson .day__num {
+    text-shadow: 0 1px 3px color-mix(in srgb, var(--bg) 65%, transparent);
+  }
+
   .day--today {
     box-shadow: 0 0 0 2px var(--accent);
     z-index: 1;
@@ -427,6 +452,16 @@ const totalLessonsThisYear = [...calendar.values()].length;
     color: var(--accent-fg);
     transform: scale(1.15);
     z-index: 4;
+  }
+
+  /* On hover the cell becomes a solid accent chip — hide the foggy
+   * thumbnail so the number contrast stays crisp. */
+  .day--has-lesson:hover::before {
+    opacity: 0;
+  }
+
+  .day--has-lesson:hover .day__num {
+    text-shadow: none;
   }
 
   .day__link {
