@@ -1,0 +1,36 @@
+{
+  "lemma": "foreground",
+  "slug": "foreground",
+  "fetchTerm": "foreground",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The elements of an image which lie closest to the picture plane.",
+          "examples": []
+        },
+        {
+          "text": "The subject of an image, often depicted at the bottom in a two-dimensional work.",
+          "examples": []
+        },
+        {
+          "text": "The application the user is currently interacting with; the application window that appears in front of all others.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To place in the foreground (physically or metaphorically).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:36.190Z"
+}

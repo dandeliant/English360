@@ -1,0 +1,63 @@
+{
+  "lemma": "hut",
+  "slug": "hut",
+  "fetchTerm": "hut",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A small, simple one-storey dwelling or shelter, often with just one room, and generally built of readily available local materials.",
+          "examples": [
+            "a thatched hut; a mud hut; a shepherd’s hut"
+          ]
+        },
+        {
+          "text": "A small wooden shed.",
+          "examples": [
+            "a groundsman’s hut"
+          ]
+        },
+        {
+          "text": "A small stack of grain.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To provide (someone) with shelter in a hut.",
+          "examples": [
+            "to hut troops in winter quarters"
+          ]
+        },
+        {
+          "text": "To take shelter in a hut.",
+          "examples": []
+        },
+        {
+          "text": "To stack (sheaves of grain).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Called by the quarterback to prepare the team for a play.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chata",
+    "chałupa",
+    "szałas"
+  ],
+  "fetchedAt": "2026-05-19T18:27:46.880Z"
+}

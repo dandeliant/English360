@@ -1,0 +1,23 @@
+{
+  "lemma": "chromatics",
+  "slug": "chromatics",
+  "fetchTerm": "chromatics",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Chromatic harmonies or notes.",
+          "examples": []
+        },
+        {
+          "text": "The science of colours; the branch of optics that deals with the properties of colours.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:02.109Z"
+}

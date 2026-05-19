@@ -1,0 +1,31 @@
+{
+  "lemma": "sixty",
+  "slug": "sixty",
+  "fetchTerm": "sixty",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after fifty-nine and before sixty-one, represented in Roman numerals as LX and in Arabic numerals as 60.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A commercial lasting 60 seconds.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sześćdziesiąt",
+    "kopa"
+  ],
+  "fetchedAt": "2026-05-19T18:29:07.572Z"
+}

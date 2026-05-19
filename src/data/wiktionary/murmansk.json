@@ -1,0 +1,25 @@
+{
+  "lemma": "murmansk",
+  "slug": "murmansk",
+  "fetchTerm": "Murmansk",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "An oblast in far northern Russia.",
+          "examples": []
+        },
+        {
+          "text": "A city, the administrative center of Murmansk Oblast, Russia, on the Arctic Ocean.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Murmańsk"
+  ],
+  "fetchedAt": "2026-05-19T18:28:19.856Z"
+}

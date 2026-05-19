@@ -1,0 +1,33 @@
+{
+  "lemma": "auroral",
+  "slug": "auroral",
+  "fetchTerm": "auroral",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Pertaining to the dawn; dawning, eastern, like a new beginning.",
+          "examples": []
+        },
+        {
+          "text": "Rosy in colour.",
+          "examples": []
+        },
+        {
+          "text": "Pertaining to the aurora borealis or aurora australis.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "[[świtać",
+    "[[wschodzić",
+    "poranny",
+    "zaranny",
+    "różowawy"
+  ],
+  "fetchedAt": "2026-05-19T18:26:54.862Z"
+}

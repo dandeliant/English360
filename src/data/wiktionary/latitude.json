@@ -1,0 +1,25 @@
+{
+  "lemma": "latitude",
+  "slug": "latitude",
+  "fetchTerm": "latitude",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The angular distance north or south from a planet's equator, measured along the meridian of that particular point.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szerokość",
+    "szerokość geograficzna",
+    "równoleżnik",
+    "swoboda",
+    "szerokość ekliptyczna"
+  ],
+  "fetchedAt": "2026-05-19T18:27:57.655Z"
+}

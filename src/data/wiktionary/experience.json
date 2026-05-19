@@ -1,0 +1,44 @@
+{
+  "lemma": "experience",
+  "slug": "experience",
+  "fetchTerm": "experience",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The effect upon the judgment or feelings produced by any event, whether witnessed or participated in; personal and direct impressions as contrasted with description or fancies; personal acquaintance; actual enjoyment or suffering.",
+          "examples": [
+            "It was an experience he would not soon forget."
+          ]
+        },
+        {
+          "text": "An activity one has performed.",
+          "examples": []
+        },
+        {
+          "text": "A collection of events and/or activities from which an individual or group may gather knowledge, opinions, and skills.",
+          "examples": [
+            "Virtually all employers now require jobseekers to have work experience even for entry-level roles. Many believe this will hurt companies in the long run."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To observe certain events; undergo a certain feeling or process; or perform certain actions that may alter one or contribute to one's knowledge, opinions, or skills.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "doświadczenie",
+    "doświadczać",
+    "doświadczyć"
+  ],
+  "fetchedAt": "2026-05-19T18:27:25.614Z"
+}

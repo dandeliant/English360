@@ -1,0 +1,42 @@
+{
+  "lemma": "conversation",
+  "slug": "conversation",
+  "fetchTerm": "conversation",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Expression and exchange of individual ideas through talking with other people; also, a set instance or occasion of such talking. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I had an interesting conversation with Nicolas yesterday about how much he's getting paid.",
+            "You need to improve conversation in foreign languages."
+          ]
+        },
+        {
+          "text": "Dialogue or interaction regarding a topic.",
+          "examples": []
+        },
+        {
+          "text": "The back-and-forth play of the blades in a bout.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To engage in conversation (with).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rozmowa",
+    "konwersacja"
+  ],
+  "fetchedAt": "2026-05-19T18:27:05.560Z"
+}

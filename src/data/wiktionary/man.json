@@ -1,0 +1,111 @@
+{
+  "lemma": "man",
+  "slug": "man",
+  "fetchTerm": "man",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-3 language code for Mandingo.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An adult male human.",
+          "examples": [
+            "The show is especially popular with middle-aged men."
+          ]
+        },
+        {
+          "text": "All human males collectively: mankind.",
+          "examples": []
+        },
+        {
+          "text": "An adult male who belongs to a particular group: an employee, a representative, etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "(Should we delete this sense?) Synonym of manly. (Only used in man enough.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Used to place emphasis upon something or someone; sometimes, but not always, when actually addressing a man.",
+          "examples": [
+            "Man, that was a great catch!"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "Used to refer to oneself or one's group: I, we; construed in the third person.",
+          "examples": [
+            "Man's got some new creps."
+          ]
+        },
+        {
+          "text": "You; construed in the third person.",
+          "examples": [
+            "Man thinks I was born yesterday."
+          ]
+        },
+        {
+          "text": "Any person, one",
+          "examples": [
+            "Man don't care."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To supply (something) with staff or crew (of either sex).",
+          "examples": [
+            "The ship was manned with a small crew."
+          ]
+        },
+        {
+          "text": "To take up position in order to operate (something).",
+          "examples": [
+            "Man the machine guns!"
+          ]
+        },
+        {
+          "text": "To brace (oneself), to fortify or steel (oneself) in a manly way.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A command used to display help pages in Unix and Unix-like operating systems.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:28:05.829Z"
+}

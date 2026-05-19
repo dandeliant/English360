@@ -1,0 +1,21 @@
+{
+  "lemma": "magnetosphere",
+  "slug": "magnetosphere",
+  "fetchTerm": "magnetosphere",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The comet-shaped region around Earth or another planet in which charged particles are trapped or deflected. Shaped by the solar wind and the planet's magnetic field.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "magnetosfera"
+  ],
+  "fetchedAt": "2026-05-19T18:28:03.435Z"
+}

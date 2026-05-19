@@ -1,0 +1,21 @@
+{
+  "lemma": "scandinavia",
+  "slug": "scandinavia",
+  "fetchTerm": "Scandinavia",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A geographic region of Northern Europe, consisting of Denmark, Norway, and Sweden collectively and sometimes Finland, Iceland, Åland and the Faroe Islands.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Skandynawia"
+  ],
+  "fetchedAt": "2026-05-19T18:28:58.801Z"
+}

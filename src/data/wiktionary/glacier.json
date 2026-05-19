@@ -1,0 +1,35 @@
+{
+  "lemma": "glacier",
+  "slug": "glacier",
+  "fetchTerm": "glacier",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A large body of ice which flows under its own mass, usually downhill.",
+          "examples": [
+            "They warned that the effects of glacier melting on water resources are becoming “increasingly serious” for China."
+          ]
+        },
+        {
+          "text": "An area of a mountain where snow is present year-round.",
+          "examples": [
+            "You can ski down the glacier in both the winter and the summer."
+          ]
+        },
+        {
+          "text": "Something that moves very slowly",
+          "examples": [
+            "The queue in the pharmacy was a glacier."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lodowiec"
+  ],
+  "fetchedAt": "2026-05-19T18:27:38.885Z"
+}

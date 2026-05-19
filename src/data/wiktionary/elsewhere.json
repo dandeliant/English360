@@ -1,0 +1,31 @@
+{
+  "lemma": "elsewhere",
+  "slug": "elsewhere",
+  "fetchTerm": "elsewhere",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Synonym of somewhere else: in, at, or to some other place.",
+          "examples": [
+            "If you won’t serve us, we’ll go elsewhere.",
+            "These particular trees are not to be found elsewhere."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Synonym of somewhere else: a place other than here.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:20.115Z"
+}

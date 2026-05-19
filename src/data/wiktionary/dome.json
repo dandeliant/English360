@@ -1,0 +1,53 @@
+{
+  "lemma": "dome",
+  "slug": "dome",
+  "fetchTerm": "dome",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A structural element resembling the hollow upper half of a sphere.",
+          "examples": [
+            "geodesic dome"
+          ]
+        },
+        {
+          "text": "Anything shaped like an upset bowl, often used as a cover.",
+          "examples": [
+            "a cake dome",
+            "lava dome"
+          ]
+        },
+        {
+          "text": "A person's head.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To give a domed shape to.",
+          "examples": []
+        },
+        {
+          "text": "To shoot in the head.",
+          "examples": [
+            "That guy just got domed!"
+          ]
+        },
+        {
+          "text": "To perform fellatio on.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kopuła"
+  ],
+  "fetchedAt": "2026-05-19T18:27:14.157Z"
+}

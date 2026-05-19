@@ -1,0 +1,87 @@
+{
+  "lemma": "mass",
+  "slug": "mass",
+  "fetchTerm": "mass",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Matter, material. A quantity of matter cohering so as to make one body, or an aggregation of particles or things which collectively make one body or quantity, usually of considerable size. Precious metal, especially gold or silver. A measure of the inertia of a mass of matter, one of four fundamental properties of matter. SI unit of mass: kilogram. A medicinal substance made into a cohesive, homogeneous lump, of consistency suitable for making pills.",
+          "examples": [
+            "blue mass"
+          ]
+        },
+        {
+          "text": "A quantity of matter cohering so as to make one body, or an aggregation of particles or things which collectively make one body or quantity, usually of considerable size.",
+          "examples": []
+        },
+        {
+          "text": "Precious metal, especially gold or silver.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To form or collect into a mass; to form into a collective body; to assemble.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Involving a mass of things; concerning a large quantity or number.",
+          "examples": [
+            "There is evidence of mass extinctions in the distant past."
+          ]
+        },
+        {
+          "text": "Involving a mass of people; of, for, or by the masses.",
+          "examples": [
+            "Mass unemployment resulted from the financial collapse."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The Eucharist, now especially in Roman Catholicism.",
+          "examples": []
+        },
+        {
+          "text": "Celebration of the Eucharist.",
+          "examples": []
+        },
+        {
+          "text": "The main kind of church service, in some denominations.",
+          "examples": [
+            "She went to mass every Sunday for many years, and when she retired, she took to going on some weekdays, too."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To celebrate mass.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "masa",
+    "masy",
+    "msza"
+  ],
+  "fetchedAt": "2026-05-19T18:28:08.828Z"
+}

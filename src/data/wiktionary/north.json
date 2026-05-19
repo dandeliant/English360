@@ -1,0 +1,74 @@
+{
+  "lemma": "north",
+  "slug": "north",
+  "fetchTerm": "north",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The direction towards the pole to the left-hand side of someone facing east, specifically 0°, or (on another celestial object) the direction towards the pole lying on the northern side of the invariable plane.",
+          "examples": [
+            "Minnesota is in the north of the USA."
+          ]
+        },
+        {
+          "text": "The up or positive direction.",
+          "examples": [
+            "Stock prices are heading back towards the north."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or pertaining to the north; northern.",
+          "examples": [
+            "He lived in north Germany.",
+            "She entered through the north gate."
+          ]
+        },
+        {
+          "text": "Toward the north; northward.",
+          "examples": []
+        },
+        {
+          "text": "Of wind, from the north.",
+          "examples": [
+            "The north wind was cold."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Toward the north; northward; northerly.",
+          "examples": [
+            "Switzerland is north of Italy.",
+            "We headed north."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To turn or move toward the north.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "północ",
+    "północny",
+    "na północ"
+  ],
+  "fetchedAt": "2026-05-19T18:28:25.446Z"
+}

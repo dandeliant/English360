@@ -1,0 +1,31 @@
+{
+  "lemma": "aurora",
+  "slug": "aurora",
+  "fetchTerm": "aurora",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An atmospheric phenomenon created by charged particles from the sun striking the upper atmosphere, creating coloured lights in the sky. It is usually named australis or borealis based on whether it is in the Southern or Northern Hemisphere respectively.",
+          "examples": []
+        },
+        {
+          "text": "The Roman goddess of the dawn, equivalent to the Greek Ἠώς (Ēṓs).",
+          "examples": []
+        },
+        {
+          "text": "The dawn or early morning light itself; the first light of day.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zorza polarna",
+    "aurora",
+    "zorza poranna"
+  ],
+  "fetchedAt": "2026-05-19T18:26:53.587Z"
+}

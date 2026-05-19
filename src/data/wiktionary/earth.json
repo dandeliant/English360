@@ -1,0 +1,25 @@
+{
+  "lemma": "earth",
+  "slug": "earth",
+  "fetchTerm": "Earth",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The third planet of the Solar System; the world upon which humans live.",
+          "examples": []
+        },
+        {
+          "text": "The personification of the Earth or earth, as a fertile woman or goddess.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Ziemia"
+  ],
+  "fetchedAt": "2026-05-19T18:27:17.498Z"
+}

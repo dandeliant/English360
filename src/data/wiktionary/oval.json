@@ -1,0 +1,41 @@
+{
+  "lemma": "oval",
+  "slug": "oval",
+  "fetchTerm": "oval",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An elongated round shape resembling an ellipse or an egg. A two-dimensional one.",
+          "examples": []
+        },
+        {
+          "text": "A two-dimensional one.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having the shape of an oval.",
+          "examples": []
+        },
+        {
+          "text": "Of or pertaining to an ovum.",
+          "examples": [
+            "oval conceptions"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "owal",
+    "owalny"
+  ],
+  "fetchedAt": "2026-05-19T18:28:36.111Z"
+}

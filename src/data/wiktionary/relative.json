@@ -1,0 +1,61 @@
+{
+  "lemma": "relative",
+  "slug": "relative",
+  "fetchTerm": "relative",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Connected to or depending on something else; comparative.",
+          "examples": [
+            "We've been discussing the relative merits of various methods of transportation."
+          ]
+        },
+        {
+          "text": "Expressed in relation to another item, rather than in complete form.",
+          "examples": [
+            "The relative URL /images/pic.jpg, when evaluated in the context of http://example.com/index.html, corresponds to the absolute URL http://example.com/images/pic.jpg."
+          ]
+        },
+        {
+          "text": "Depending on an antecedent; comparative.",
+          "examples": [
+            "The words “big” and “small” are relative."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Alternative form of relatively.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone connected by blood, marriage, or adoption; someone in the same family.",
+          "examples": []
+        },
+        {
+          "text": "Something kindred or related to something else.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "relatywny",
+    "odnośny",
+    "względny",
+    "krewny",
+    "krewna"
+  ],
+  "fetchedAt": "2026-05-19T18:28:52.984Z"
+}

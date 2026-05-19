@@ -1,0 +1,77 @@
+{
+  "lemma": "cold",
+  "slug": "cold",
+  "fetchTerm": "cold",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a low temperature.",
+          "examples": [
+            "A cold wind whistled through the trees."
+          ]
+        },
+        {
+          "text": "Causing the air to be cold.",
+          "examples": [
+            "The forecast is that it will be very cold today."
+          ]
+        },
+        {
+          "text": "Feeling the sensation of coldness, especially to the point of discomfort.",
+          "examples": [
+            "She was so cold she was shivering."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A condition of low temperature.",
+          "examples": [
+            "Come in, out of the cold."
+          ]
+        },
+        {
+          "text": "A harsh place; a place of abandonment.",
+          "examples": [
+            "The former politician was left out in the cold after his friends deserted him."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "At a low temperature.",
+          "examples": [
+            "The steel was processed cold."
+          ]
+        },
+        {
+          "text": "Without preparation.",
+          "examples": [
+            "The speaker went in cold and floundered for a topic."
+          ]
+        },
+        {
+          "text": "In a cold, frank, or realistically honest manner.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zimny",
+    "przeziębiony",
+    "chłodny",
+    "oziębły",
+    "nieprzygotowany"
+  ],
+  "fetchedAt": "2026-05-19T18:27:04.068Z"
+}

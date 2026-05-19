@@ -1,0 +1,28 @@
+{
+  "lemma": "geography",
+  "slug": "geography",
+  "fetchTerm": "geography",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The study of the physical properties of the earth, including how humans affect and are affected by them.",
+          "examples": [
+            "Some amount of basic geography is part of any good curriculum for primary and secondary education."
+          ]
+        },
+        {
+          "text": "An atlas or gazetteer.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "geografia",
+    "ziemiopismo"
+  ],
+  "fetchedAt": "2026-05-19T18:27:37.607Z"
+}

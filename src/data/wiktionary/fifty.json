@@ -1,0 +1,36 @@
+{
+  "lemma": "fifty",
+  "slug": "fifty",
+  "fetchTerm": "fifty",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after forty-nine and before fifty-one.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A banknote or coin with a denomination of 50.",
+          "examples": [
+            "Do you want small bills or are fifties OK?"
+          ]
+        },
+        {
+          "text": "A batsman's score of at least 50 runs and less than 100 runs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pięćdziesiąt"
+  ],
+  "fetchedAt": "2026-05-19T18:27:28.468Z"
+}

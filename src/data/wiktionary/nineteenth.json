@@ -1,0 +1,34 @@
+{
+  "lemma": "nineteenth",
+  "slug": "nineteenth",
+  "fetchTerm": "nineteenth",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "The ordinal form of the number nineteen.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The person or thing in the nineteenth position.",
+          "examples": []
+        },
+        {
+          "text": "One of nineteen equal parts of a whole.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dziewiętnasty"
+  ],
+  "fetchedAt": "2026-05-19T18:28:22.613Z"
+}

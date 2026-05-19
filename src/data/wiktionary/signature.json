@@ -1,0 +1,48 @@
+{
+  "lemma": "signature",
+  "slug": "signature",
+  "fetchTerm": "signature",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person's name, written by that person, used as identification or to signify approval of accompanying material, such as a legal contract.",
+          "examples": []
+        },
+        {
+          "text": "An act of signing one's name; an act of producing a signature.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Distinctive, characteristic, indicative of identity.",
+          "examples": [
+            "Rabbit in mustard sauce is my signature dish.",
+            "The signature route of the airline is its daily flight between Buenos Aires and Madrid."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To sign with one's signature, to write one's signature on.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "podpis",
+    "podpisywanie",
+    "sygnatura"
+  ],
+  "fetchedAt": "2026-05-19T18:29:06.171Z"
+}

@@ -1,0 +1,39 @@
+{
+  "lemma": "southward",
+  "slug": "southward",
+  "fetchTerm": "southward",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The direction or area lying to the south of a place.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Situated or directed towards the south; moving or facing towards the south.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Towards the south; in a southerly direction.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "na południe"
+  ],
+  "fetchedAt": "2026-05-19T18:29:13.272Z"
+}

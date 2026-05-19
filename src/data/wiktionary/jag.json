@@ -1,0 +1,61 @@
+{
+  "lemma": "jag",
+  "slug": "jag",
+  "fetchTerm": "jag",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A sharp projection.",
+          "examples": []
+        },
+        {
+          "text": "A part broken off; a fragment.",
+          "examples": []
+        },
+        {
+          "text": "A flap, a tear in a clothing",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cut unevenly.",
+          "examples": []
+        },
+        {
+          "text": "To pierce with a sharp object.",
+          "examples": []
+        },
+        {
+          "text": "To tease.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Enough liquor to make a person noticeably drunk; a skinful.",
+          "examples": []
+        },
+        {
+          "text": "A binge or period of overindulgence; a spree.",
+          "examples": []
+        },
+        {
+          "text": "A fit, spell, outburst.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:50.051Z"
+}

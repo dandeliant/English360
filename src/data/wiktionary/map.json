@@ -1,0 +1,65 @@
+{
+  "lemma": "map",
+  "slug": "map",
+  "fetchTerm": "map",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-2 ISO 639-5 language code for Austronesian languages.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features.",
+          "examples": [
+            "a map of Australia, a map of Lilliput",
+            "He bought a map for the tour of Edinburgh Castle."
+          ]
+        },
+        {
+          "text": "A graphical or logical representation of any structure or system, showing the positions of or relationships between its components.",
+          "examples": [
+            "a map of the Earth's magnetic field"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To represent by means of a map.",
+          "examples": [
+            "This large atlas maps the whole world in very great detail.",
+            "Figure 3 maps the pressure distribution within the human circulatory system."
+          ]
+        },
+        {
+          "text": "To create a map of; to examine or survey in order to gather information for a map.",
+          "examples": [
+            "The team is mapping the route of the new railway line.",
+            "The space probe is mapping the Earth's gravitational field."
+          ]
+        },
+        {
+          "text": "To have a direct relationship; to correspond.",
+          "examples": [
+            "This doesn't map to my understanding of how things should work."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "mapa",
+    "odwzorowanie"
+  ],
+  "fetchedAt": "2026-05-19T18:28:07.370Z"
+}

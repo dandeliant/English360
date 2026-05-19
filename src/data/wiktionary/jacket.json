@@ -1,0 +1,44 @@
+{
+  "lemma": "jacket",
+  "slug": "jacket",
+  "fetchTerm": "jacket",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A piece of clothing worn on the upper body outside a shirt or blouse, often waist length to thigh length.",
+          "examples": []
+        },
+        {
+          "text": "A piece of a person's suit, beside trousers and, sometimes, waistcoat; coat",
+          "examples": []
+        },
+        {
+          "text": "A protective or insulating cover for an object (e.g. a book, hot water tank, bullet.)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To confine (someone) to a straitjacket. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "To enclose or encase in a jacket or other covering.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kurtka",
+    "marynarka",
+    "żakiet"
+  ],
+  "fetchedAt": "2026-05-19T18:27:48.637Z"
+}

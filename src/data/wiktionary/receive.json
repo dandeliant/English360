@@ -1,0 +1,43 @@
+{
+  "lemma": "receive",
+  "slug": "receive",
+  "fetchTerm": "receive",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To be given, sent, or paid something.",
+          "examples": [
+            "He received many presents for his birthday."
+          ]
+        },
+        {
+          "text": "To take, as something that is offered; to accept.",
+          "examples": [
+            "He had the offer of employment, but he would not receive it."
+          ]
+        },
+        {
+          "text": "To take goods knowing them to be stolen.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An operation in which data is received.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dostać",
+    "otrzymać"
+  ],
+  "fetchedAt": "2026-05-19T18:28:49.557Z"
+}

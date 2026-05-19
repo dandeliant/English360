@@ -1,0 +1,28 @@
+{
+  "lemma": "january",
+  "slug": "january",
+  "fetchTerm": "January",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The first month of the Gregorian calendar, following the December of the previous year and preceding February.",
+          "examples": [
+            "01/01/09 : Thursday, 1st January(,) 2009.",
+            "American style: Thursday, January 1st, 2009."
+          ]
+        },
+        {
+          "text": "A female given name transferred from the month name [in turn from English].",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "styczeń"
+  ],
+  "fetchedAt": "2026-05-19T18:27:51.483Z"
+}

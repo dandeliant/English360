@@ -1,0 +1,28 @@
+{
+  "lemma": "ejection",
+  "slug": "ejection",
+  "fetchTerm": "ejection",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The act of ejecting.",
+          "examples": [
+            "ejection seat",
+            "ejection of gases"
+          ]
+        },
+        {
+          "text": "That which is ejected.",
+          "examples": [
+            "Volcanic ejection covered the village in ash."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:18.796Z"
+}

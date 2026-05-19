@@ -1,0 +1,29 @@
+{
+  "lemma": "modesty",
+  "slug": "modesty",
+  "fetchTerm": "modesty",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The quality of being modest; having a limited and not overly high opinion of oneself and one's abilities.",
+          "examples": []
+        },
+        {
+          "text": "Moderate behaviour; reserve.",
+          "examples": []
+        },
+        {
+          "text": "Pudency, avoidance of sexual explicitness.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "skromność"
+  ],
+  "fetchedAt": "2026-05-19T18:28:18.525Z"
+}

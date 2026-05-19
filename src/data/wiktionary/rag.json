@@ -1,0 +1,132 @@
+{
+  "lemma": "rag",
+  "slug": "rag",
+  "fetchTerm": "rag",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Logooli.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Tattered clothes (clothing).",
+          "examples": [
+            "—What a pretty dress! —What, this old rag?",
+            "It's semiformal. I can't show up dressed in rags!"
+          ]
+        },
+        {
+          "text": "A piece of old cloth, especially one used for cleaning, patching, etc.; a tattered piece of cloth; a shred or tatter.",
+          "examples": []
+        },
+        {
+          "text": "A shabby, beggarly person; synonym of ragamuffin.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To decorate (a wall, etc.) by applying paint with a rag.",
+          "examples": []
+        },
+        {
+          "text": "To become tattered.",
+          "examples": []
+        },
+        {
+          "text": "To menstruate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A coarse kind of rock, somewhat cellular in texture; ragstone.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To break (ore) into lumps for sorting.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To scold or tell off; to torment; to banter.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A prank or practical joke.",
+          "examples": []
+        },
+        {
+          "text": "A society run by university students for the purpose of charitable fundraising.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An informal dance party featuring music played by African-American string bands. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A ragtime song, dance or piece of music.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To play or compose (a piece, melody, etc.) in syncopated time.",
+          "examples": []
+        },
+        {
+          "text": "To dance to ragtime music.",
+          "examples": []
+        },
+        {
+          "text": "To add syncopation (to a tune) and thereby make it appropriate for a ragtime song.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "ścierka",
+    "szmata",
+    "łachman",
+    "łach",
+    "obdartus"
+  ],
+  "fetchedAt": "2026-05-19T18:28:46.649Z"
+}

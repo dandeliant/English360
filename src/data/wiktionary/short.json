@@ -1,0 +1,111 @@
+{
+  "lemma": "short",
+  "slug": "short",
+  "fetchTerm": "short",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a small distance from one end or edge to another, either horizontally or vertically.",
+          "examples": []
+        },
+        {
+          "text": "Of a person, living being, or object, having a comparatively small height.",
+          "examples": []
+        },
+        {
+          "text": "Having little duration.",
+          "examples": [
+            "Our meeting was a short six minutes today. Every day for the past month it’s been at least twenty minutes long."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Abruptly, curtly, briefly.",
+          "examples": [
+            "They had to stop short to avoid hitting the dog in the street.",
+            "He cut me short repeatedly in the meeting."
+          ]
+        },
+        {
+          "text": "Unawares.",
+          "examples": [
+            "The recent developments at work caught them short.",
+            "We were caught short by the sudden hailstorm."
+          ]
+        },
+        {
+          "text": "Without achieving a goal or requirement.",
+          "examples": [
+            "His speech fell short of what was expected."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short circuit.",
+          "examples": [
+            "The circuit breaker keeps tripping because there's a short in the wiring."
+          ]
+        },
+        {
+          "text": "A short film. A short-form vertical video.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cause a short circuit in (something).",
+          "examples": [
+            "You should short the poles of the capacitor to discharge it before you work on it."
+          ]
+        },
+        {
+          "text": "To short circuit.",
+          "examples": []
+        },
+        {
+          "text": "To provide with an amount smaller than that agreed or labeled; to shortchange.",
+          "examples": [
+            "This is the third time I've caught them shorting us."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Preposition",
+      "definitions": [
+        {
+          "text": "Deficient in.",
+          "examples": [
+            "We are short a few men on the second shift.",
+            "He's short common sense."
+          ]
+        },
+        {
+          "text": "Having a negative position in.",
+          "examples": [
+            "I don’t want to be short the market going into the weekend."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "krótki",
+    "niski"
+  ],
+  "fetchedAt": "2026-05-19T18:29:03.466Z"
+}

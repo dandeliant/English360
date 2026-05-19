@@ -1,0 +1,66 @@
+{
+  "lemma": "snow",
+  "slug": "snow",
+  "fetchTerm": "snow",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; also, the falling of such flakes; and the accumulation of them on the ground or on objects as a white layer. An instance of the falling of snow (etymology 1, noun sense 1); a snowfall; also, a snowstorm.",
+          "examples": [
+            "We have had several heavy snows this year."
+          ]
+        },
+        {
+          "text": "An instance of the falling of snow (etymology 1, noun sense 1); a snowfall; also, a snowstorm.",
+          "examples": [
+            "We have had several heavy snows this year."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Preceded by the dummy subject it: to have snow (noun etymology 1, noun sense 1) fall from the atmosphere.",
+          "examples": [
+            "It is snowing. It started to snow."
+          ]
+        },
+        {
+          "text": "Of a thing: to fall like snow.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Done because the alternate outcome is very unlikely to pass.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A square-rigged sailing vessel similar to a brig formerly used as a warship, with a foremast, a mainmast, and a trysail mast immediately abaft (behind) the mainmast.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "śnieg",
+    "opad śniegu",
+    "śniegopad",
+    "śnieżnobiały",
+    "prószyć"
+  ],
+  "fetchedAt": "2026-05-19T18:29:09.331Z"
+}

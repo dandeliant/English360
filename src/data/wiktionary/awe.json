@@ -1,0 +1,64 @@
+{
+  "lemma": "awe",
+  "slug": "awe",
+  "fetchTerm": "awe",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Awetí.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A feeling of fear and reverence.",
+          "examples": []
+        },
+        {
+          "text": "A feeling of amazement.",
+          "examples": []
+        },
+        {
+          "text": "Power to inspire awe.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To inspire fear and reverence in.",
+          "examples": []
+        },
+        {
+          "text": "To control by inspiring dread.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A bucket (blade) attached to water wheels.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "groza",
+    "trwoga",
+    "respekt",
+    "podziw",
+    "zachwyt"
+  ],
+  "fetchedAt": "2026-05-19T18:26:56.407Z"
+}

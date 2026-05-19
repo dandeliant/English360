@@ -1,0 +1,63 @@
+{
+  "lemma": "regular",
+  "slug": "regular",
+  "fetchTerm": "regular",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bound by religious rule; belonging to a monastic or religious order (often as opposed to secular). .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "regular clergy, in distinction from the secular clergy"
+          ]
+        },
+        {
+          "text": "Having a constant pattern; showing evenness of form or appearance.",
+          "examples": []
+        },
+        {
+          "text": "Both equilateral and equiangular; having all sides of the same length, and all (corresponding) angles of the same size",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Regularly, on a regular basis.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A member of the British Army (as opposed to a member of the Territorial Army or Reserve).",
+          "examples": []
+        },
+        {
+          "text": "A frequent, routine visitor to an establishment.",
+          "examples": [
+            "Bartenders usually know their regulars by name."
+          ]
+        },
+        {
+          "text": "A member of the armed forces or police force. Synonym of regular serviceman; a member of the Singapore Armed Forces, Police Force or Civil Defence Force who has signed on, i.e., chosen to work full-time beyond their required length of national service.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "regularny",
+    "foremny",
+    "bywalec",
+    "bywalczyni",
+    "stały klient"
+  ],
+  "fetchedAt": "2026-05-19T18:28:51.354Z"
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "local",
+  "slug": "local",
+  "fetchTerm": "local",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "From or in a nearby location.",
+          "examples": [
+            "We prefer local produce."
+          ]
+        },
+        {
+          "text": "Connected directly to a particular computer, processor, etc.; able to be accessed offline.",
+          "examples": [
+            "local disk drive",
+            "local file"
+          ]
+        },
+        {
+          "text": "Having limited scope (either lexical or dynamic); only accessible within a certain portion of a program.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A person who lives in or near a given place.",
+          "examples": [
+            "It's easy to tell the locals from the tourists."
+          ]
+        },
+        {
+          "text": "A branch of a nationwide organization such as a trade union.",
+          "examples": [
+            "I'm in the TWU, too. Local 6."
+          ]
+        },
+        {
+          "text": "Clipping of local train.",
+          "examples": [
+            "The expresses skipped my station, so I had to take a local."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In the local area; within a city, state, country, etc.",
+          "examples": [
+            "It's never been more important to buy local."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "lokalny",
+    "miejscowy",
+    "tutejszy",
+    "miejscowa",
+    "tutejsza"
+  ],
+  "fetchedAt": "2026-05-19T18:27:59.329Z"
+}

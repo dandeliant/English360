@@ -1,0 +1,40 @@
+{
+  "lemma": "winter",
+  "slug": "winter",
+  "fetchTerm": "winter",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Traditionally the fourth of the four seasons, typically regarded as spanning either the period between the winter solstice to the spring equinox, or the months of December, January, and February in temperate and polar regions of the Northern Hemisphere and the months of June, July, and August in the Southern Hemisphere. It is the time when the sun is lowest in the sky, resulting in short days, and the time of year with the lowest atmospheric temperatures for the region.",
+          "examples": []
+        },
+        {
+          "text": "The period of decay, old age, death, or the like.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To spend the winter (in a particular place).",
+          "examples": [
+            "When they retired, they hoped to winter in Florida."
+          ]
+        },
+        {
+          "text": "To store something (for instance animals) somewhere over winter to protect it from cold.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "zima"
+  ],
+  "fetchedAt": "2026-05-19T18:29:27.451Z"
+}

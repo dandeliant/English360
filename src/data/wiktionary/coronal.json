@@ -1,0 +1,62 @@
+{
+  "lemma": "coronal",
+  "slug": "coronal",
+  "fetchTerm": "coronal",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to a crown or coronation.",
+          "examples": []
+        },
+        {
+          "text": "Relating to the corona of a star.",
+          "examples": []
+        },
+        {
+          "text": "Relating to the corona of a flower.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A crown or coronet.",
+          "examples": []
+        },
+        {
+          "text": "A wreath or garland of flowers.",
+          "examples": []
+        },
+        {
+          "text": "The frontal bone, over which the ancients wore their coronae or garlands.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Alternative form of cronel (“lance-part”).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Obsolete form of colonel.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:06.865Z"
+}

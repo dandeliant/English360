@@ -1,0 +1,40 @@
+{
+  "lemma": "postcard",
+  "slug": "postcard",
+  "fetchTerm": "postcard",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A rectangular piece of thick paper or thin cardboard, typically used for sending messages by mail without the need for an envelope.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To send a postcard to someone.",
+          "examples": [
+            "to postcard one's friends"
+          ]
+        },
+        {
+          "text": "To send by means of a postcard.",
+          "examples": [
+            "to postcard one's news"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "karta pocztowa",
+    "pocztówka",
+    "widokówka"
+  ],
+  "fetchedAt": "2026-05-19T18:28:42.173Z"
+}

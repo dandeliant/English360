@@ -1,0 +1,53 @@
+{
+  "lemma": "house",
+  "slug": "house",
+  "fetchTerm": "house",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A structure built or serving as an abode of human beings. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "This is my house and my family's ancestral home."
+          ]
+        },
+        {
+          "text": "An apartment building within a public housing estate.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To keep within a structure or container.",
+          "examples": [
+            "The car is housed in the garage."
+          ]
+        },
+        {
+          "text": "To admit to residence; to harbor.",
+          "examples": []
+        },
+        {
+          "text": "To take shelter or lodging; to abide; to lodge.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "House music.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:42.292Z"
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "figure",
+  "slug": "figure",
+  "fetchTerm": "figure",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A drawing or diagram conveying information.",
+          "examples": []
+        },
+        {
+          "text": "The representation of any form, as by drawing, painting, modelling, carving, embroidering, etc.; especially, a representation of the human body.",
+          "examples": [
+            "a figure in bronze; a figure cut in marble"
+          ]
+        },
+        {
+          "text": "A person or thing representing a certain consciousness.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To calculate, to solve a mathematical problem.",
+          "examples": []
+        },
+        {
+          "text": "To come to understand.",
+          "examples": [
+            "I can’t figure if he’s telling the truth or lying."
+          ]
+        },
+        {
+          "text": "To think, to assume, to suppose, to reckon.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rysunek",
+    "sylwetka",
+    "figura",
+    "osoba",
+    "postać"
+  ],
+  "fetchedAt": "2026-05-19T18:27:30.093Z"
+}

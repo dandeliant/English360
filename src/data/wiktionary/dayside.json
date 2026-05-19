@@ -1,0 +1,19 @@
+{
+  "lemma": "dayside",
+  "slug": "dayside",
+  "fetchTerm": "dayside",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The side of a planet or other body that faces towards the sun or star around which it orbits",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:12.623Z"
+}

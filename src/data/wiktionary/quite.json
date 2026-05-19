@@ -1,0 +1,50 @@
+{
+  "lemma": "quite",
+  "slug": "quite",
+  "fetchTerm": "quite",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "To the greatest extent or degree; completely, entirely.",
+          "examples": []
+        },
+        {
+          "text": "With verbs, especially past participles. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "With prepositional phrases and spatial adverbs.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "Indicates agreement; exactly so.",
+          "examples": [
+            "“That's a rather ugly colour for a house, don't you think?” — “Quite.”"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A series of passes made with the cape to distract the bull.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "całkowicie",
+    "całkiem"
+  ],
+  "fetchedAt": "2026-05-19T18:28:45.117Z"
+}

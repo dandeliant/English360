@@ -1,0 +1,63 @@
+{
+  "lemma": "touch",
+  "slug": "touch",
+  "fetchTerm": "touch",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Primarily physical senses. To make physical contact with; to bring the hand, finger or other part of the body into contact with. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I touched his face softly.",
+            "Sitting on the bench, the hem of her skirt touched the ground."
+          ]
+        },
+        {
+          "text": "To make physical contact with; to bring the hand, finger or other part of the body into contact with. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": [
+            "I touched his face softly."
+          ]
+        },
+        {
+          "text": "To come into (involuntary) contact with; to meet or intersect.",
+          "examples": [
+            "Sitting on the bench, the hem of her skirt touched the ground."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An act of touching, especially with the hand or finger.",
+          "examples": [
+            "Suddenly, in the crowd, I felt a touch at my shoulder."
+          ]
+        },
+        {
+          "text": "The faculty or sense of perception by physical contact.",
+          "examples": [
+            "With the lights out, she had to rely on touch to find her desk."
+          ]
+        },
+        {
+          "text": "The style or technique with which one plays a musical instrument.",
+          "examples": [
+            "He performed one of Ravel's piano concertos with a wonderfully light and playful touch."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "dotykać",
+    "dotknąć",
+    "wzruszać",
+    "wzruszyć",
+    "poruszać"
+  ],
+  "fetchedAt": "2026-05-19T18:29:17.120Z"
+}

@@ -1,0 +1,26 @@
+{
+  "lemma": "exposure",
+  "slug": "exposure",
+  "fetchTerm": "exposure",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The condition of being exposed, uncovered, or unprotected.",
+          "examples": [
+            "Limit your exposure to harsh chemicals.",
+            "Get as much exposure to a new language as you can."
+          ]
+        },
+        {
+          "text": "Lack of protection from weather or the elements.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:26.954Z"
+}

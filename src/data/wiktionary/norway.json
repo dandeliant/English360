@@ -1,0 +1,34 @@
+{
+  "lemma": "norway",
+  "slug": "norway",
+  "fetchTerm": "Norway",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A country in Scandinavia in Northern Europe. Official name: Kingdom of Norway.",
+          "examples": []
+        },
+        {
+          "text": "The former name of a neighbourhood in Toronto, Ontario, Canada, now Upper Beaches.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Ellipsis of Norway rat.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Norwegia"
+  ],
+  "fetchedAt": "2026-05-19T18:28:29.335Z"
+}

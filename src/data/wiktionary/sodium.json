@@ -1,0 +1,25 @@
+{
+  "lemma": "sodium",
+  "slug": "sodium",
+  "fetchTerm": "sodium",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The chemical element (symbol Na) with an atomic number of 11 and atomic weight of 22.990. It is a soft, waxy, silvery, reactive alkali metal that is never found unbound in nature.",
+          "examples": []
+        },
+        {
+          "text": "Employing sodium.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sód"
+  ],
+  "fetchedAt": "2026-05-19T18:29:11.933Z"
+}

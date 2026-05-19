@@ -1,0 +1,33 @@
+{
+  "lemma": "normally",
+  "slug": "normally",
+  "fetchTerm": "normally",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "Under normal conditions or circumstances; usually; most of the time",
+          "examples": [
+            "Normally, I eat breakfast at 6am, but today, I got up late and didn't eat until 9."
+          ]
+        },
+        {
+          "text": "In the expected or customary manner.",
+          "examples": [
+            "Lisa ate normally, until she realised that she was late for choir, when she sped up."
+          ]
+        },
+        {
+          "text": "To a usual or customary extent or degree.",
+          "examples": [
+            "He was abnormally agitated, she only normally so."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:28:23.920Z"
+}

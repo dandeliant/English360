@@ -1,0 +1,21 @@
+{
+  "lemma": "yellowknife",
+  "slug": "yellowknife",
+  "fetchTerm": "Yellowknife",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "The capital of and only city in the Northwest Territories, Canada.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Yellowknife"
+  ],
+  "fetchedAt": "2026-05-19T18:29:28.711Z"
+}

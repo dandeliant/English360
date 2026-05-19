@@ -1,0 +1,53 @@
+{
+  "lemma": "address",
+  "slug": "address",
+  "fetchTerm": "address",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Direction. Guidance; help. .mw-parser-output .defdate{font-size:smaller} A polite approach made to another person, especially of a romantic nature; an amorous advance. A manner of speaking or writing to another; language, style.",
+          "examples": [
+            "a man of pleasing or insinuating address",
+            "The President's address is 1600 Pennsylvania Avenue NW in Washington, D.C."
+          ]
+        },
+        {
+          "text": "Guidance; help. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "A polite approach made to another person, especially of a romantic nature; an amorous advance.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To prepare oneself.",
+          "examples": []
+        },
+        {
+          "text": "To direct speech.",
+          "examples": []
+        },
+        {
+          "text": "To aim; to direct.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "adres",
+    "przemowa",
+    "przemówienie",
+    "adresować",
+    "zaadresować"
+  ],
+  "fetchedAt": "2026-05-19T18:26:50.471Z"
+}

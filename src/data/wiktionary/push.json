@@ -1,0 +1,70 @@
+{
+  "lemma": "push",
+  "slug": "push",
+  "fetchTerm": "push",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+          "examples": [
+            "In his anger he pushed me against the wall and threatened me.",
+            "You need to push quite hard to get this door open."
+          ]
+        },
+        {
+          "text": "To continually attempt to persuade (a person) into a particular course of action.",
+          "examples": []
+        },
+        {
+          "text": "To press or urge forward; to drive.",
+          "examples": [
+            "to push an objection too far; to push one's luck"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A short, directed application of force; an act of pushing.",
+          "examples": [
+            "Give the door a hard push if it sticks."
+          ]
+        },
+        {
+          "text": "An act of tensing the muscles of the abdomen in order to expel its contents.",
+          "examples": [
+            "One more push and the baby will be out."
+          ]
+        },
+        {
+          "text": "A great effort (to do something).",
+          "examples": [
+            "Some details got lost in the push to get the project done.",
+            "Let's give one last push on our advertising campaign."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A pustule; a pimple.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pchać",
+    "pchnąć",
+    "popchnąć",
+    "popychać"
+  ],
+  "fetchedAt": "2026-05-19T18:28:43.678Z"
+}

@@ -1,0 +1,61 @@
+{
+  "lemma": "storm",
+  "slug": "storm",
+  "fetchTerm": "storm",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Any disturbed state of the atmosphere causing destructive or unpleasant weather, especially one affecting the earth's surface involving strong winds (leading to high waves at sea) and usually lightning, thunder, and precipitation.",
+          "examples": [
+            "The boat was torn to pieces in the storm, and nobody survived."
+          ]
+        },
+        {
+          "text": "A heavy fall of precipitation (hail, rain, or snow) or bout of lightning and thunder without strong winds; a hail storm, rainstorm, snowstorm, or thunderstorm.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Preceded by the dummy subject it: to have strong winds and usually lightning and thunder, and/or hail, rain, or snow.",
+          "examples": [
+            "It stormed throughout the night."
+          ]
+        },
+        {
+          "text": "To make (someone or something) stormy; to agitate (someone or something) violently. To disturb or trouble (someone).",
+          "examples": [
+            "the storming of the Bastille",
+            "Troops stormed the complex."
+          ]
+        },
+        {
+          "text": "To make (someone or something) stormy; to agitate (someone or something) violently.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A violent assault on a fortified position or stronghold.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "burza",
+    "sztorm",
+    "szturmować",
+    "szturm"
+  ],
+  "fetchedAt": "2026-05-19T18:29:15.183Z"
+}

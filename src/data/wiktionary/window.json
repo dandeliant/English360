@@ -1,0 +1,49 @@
+{
+  "lemma": "window",
+  "slug": "window",
+  "fetchTerm": "window",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+          "examples": [
+            "She opened the window to let some air in."
+          ]
+        },
+        {
+          "text": "An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside; a shop window.",
+          "examples": []
+        },
+        {
+          "text": "The shutter, casement, sash with its fittings, or other framework, which closes a window opening.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To furnish with windows.",
+          "examples": []
+        },
+        {
+          "text": "To place at or in a window.",
+          "examples": []
+        },
+        {
+          "text": "To apply a window function to (a signal).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "okno",
+    "okienko"
+  ],
+  "fetchedAt": "2026-05-19T18:29:25.862Z"
+}

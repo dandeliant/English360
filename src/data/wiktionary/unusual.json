@@ -1,0 +1,35 @@
+{
+  "lemma": "unusual",
+  "slug": "unusual",
+  "fetchTerm": "unusual",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Not usual, out of the ordinary.",
+          "examples": [
+            "Every once in a while, though, Idol comes across an unusual talent who just blows everyone away.",
+            "It’s definitely not unusual for a couple to meet through friends or be set up on a date."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Something that is unusual; an anomaly.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "niezwykły",
+    "niecodzienny",
+    "niezwyczajny"
+  ],
+  "fetchedAt": "2026-05-19T18:29:19.814Z"
+}

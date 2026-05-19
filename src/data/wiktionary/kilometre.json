@@ -1,0 +1,21 @@
+{
+  "lemma": "kilometre",
+  "slug": "kilometre",
+  "fetchTerm": "kilometre",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An SI unit of length equal to 10 metres. Symbol: km",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kilometr"
+  ],
+  "fetchedAt": "2026-05-19T18:27:54.697Z"
+}

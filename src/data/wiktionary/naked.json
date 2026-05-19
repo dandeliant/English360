@@ -1,0 +1,44 @@
+{
+  "lemma": "naked",
+  "slug": "naked",
+  "fetchTerm": "naked",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Bare, not covered by clothing.",
+          "examples": [
+            "He was as naked as the day he was born."
+          ]
+        },
+        {
+          "text": "Lacking some clothing; clothed only in underwear.",
+          "examples": []
+        },
+        {
+          "text": "Unadorned, without decoration or circumlocution; put bluntly.",
+          "examples": [
+            "This is the naked truth.",
+            "The naked facts lay there on the table, enclosed within the files."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of nake",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "nagi",
+    "goły"
+  ],
+  "fetchedAt": "2026-05-19T18:28:21.281Z"
+}

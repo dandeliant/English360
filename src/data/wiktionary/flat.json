@@ -1,0 +1,133 @@
+{
+  "lemma": "flat",
+  "slug": "flat",
+  "fetchTerm": "flat",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having no variations in height.",
+          "examples": [
+            "The land around here is flat.",
+            "a flat roof"
+          ]
+        },
+        {
+          "text": "In a horizontal line or plane; not sloping.",
+          "examples": [
+            "a flat roof"
+          ]
+        },
+        {
+          "text": "Smooth; having no protrusions, indentations or other surface irregularities, or relatively so.",
+          "examples": [
+            "The surface of the mirror must be completely flat.",
+            "The carpet isn't properly flat in that corner."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "So as to be flat.",
+          "examples": [
+            "Spread the tablecloth flat over the table."
+          ]
+        },
+        {
+          "text": "Completely, firmly, or unequivocally.",
+          "examples": [
+            "I asked him if he wanted to marry me and he turned me down flat."
+          ]
+        },
+        {
+          "text": "Exactly, precisely.",
+          "examples": [
+            "In the mile race, Smith's time was 3:58.56, and Brown's was four minutes flat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An area of level ground (sometimes covered with shallow or tidal water).",
+          "examples": [
+            "The hovercraft skimmed across the open flats.",
+            "the eastern end of the salt flat; mud flat, tidal flat, flood flat"
+          ]
+        },
+        {
+          "text": "Level ground in general.",
+          "examples": [
+            "I can run on the flat but not up hills.",
+            "The going will be easier once we're through these mountains and onto the flat."
+          ]
+        },
+        {
+          "text": "Level horse-racing ground, as contrasted with courses incorporating jumps, or the racing done on such ground.",
+          "examples": [
+            "This horse will do better over the flat.",
+            "flat racing, the flat season"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To make a flat call; to call without raising.",
+          "examples": []
+        },
+        {
+          "text": "To become flat or flattened; to sink or fall to an even surface.",
+          "examples": []
+        },
+        {
+          "text": "To fall from the pitch.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A complete domicile occupying only part of a building, especially one for rent",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To beat or strike; pound",
+          "examples": []
+        },
+        {
+          "text": "To dash or throw",
+          "examples": []
+        },
+        {
+          "text": "To dash, rush",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "płaski",
+    "równy",
+    "monotonny",
+    "nijaki",
+    "bezbarwny"
+  ],
+  "fetchedAt": "2026-05-19T18:27:34.881Z"
+}

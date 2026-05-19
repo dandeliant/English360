@@ -1,0 +1,49 @@
+{
+  "lemma": "metre",
+  "slug": "metre",
+  "fetchTerm": "metre",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The basic unit of length in the International System of Units (SI: Système International d'Unités), equal to the distance travelled by light in a vacuum in 1/299 792 458 seconds. The metre is equal to 39+⁄127 (approximately 39.37) imperial inches.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Alternative spelling of meter.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The rhythm or measure in language (especially verse) and musical composition.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To put into metrical form.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "metr",
+    "metrum"
+  ],
+  "fetchedAt": "2026-05-19T18:28:17.080Z"
+}

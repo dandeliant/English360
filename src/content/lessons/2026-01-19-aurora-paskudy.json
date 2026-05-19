@@ -1,0 +1,203 @@
+{
+  "id": "2026-01-19-aurora-paskudy",
+  "date_assigned": "2026-01-19",
+  "date_alternatives": [],
+  "title_en": "When the North Came South",
+  "title_pl": "Gdy północ przyszła na południe",
+  "location": "Paskudy, gmina Ulan-Majorat, Poland",
+  "image": "/images/2026-01-19-aurora-paskudy.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["aurora", "northern-lights", "night", "winter", "snow", "poland", "sky", "awe", "weather", "rare-phenomena"],
+  "themes": ["rare-phenomena", "night-sky", "polish-countryside", "winter", "solar-weather"],
+  "did_you_know": {
+    "en": "The aurora's colours come from different gases at different altitudes: green from oxygen around 100 km up, red from oxygen above 200 km, blue and purple from nitrogen lower down. The deep crimson sometimes visible from Poland is the rarest of all — a sign that the auroral activity has reached unusually high altitudes.",
+    "pl": "Kolory zorzy polarnej biorą się z różnych gazów na różnych wysokościach: zielony z tlenu około 100 km nad ziemią, czerwony z tlenu powyżej 200 km, niebieski i fioletowy z azotu niżej. Głęboki karmin widoczny czasem z Polski jest najrzadszy ze wszystkich — to znak, że aktywność zorzy sięgnęła wyjątkowo wysoko."
+  },
+  "social": {
+    "fb_caption_pl": "Zorza polarna nad Paskudami, 19 stycznia. W Polsce taka czerwień widoczna gołym okiem (a nie tylko przez aparat) zdarza się raz na kilka lat. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia. english360.example",
+    "fb_caption_en": "An aurora seen with the naked eye over a quiet Polish village. January, eastern Poland, an unusual visit from the high north. Six CEFR levels, vocab with IPA, comprehension tasks. english360.example",
+    "hashtags": ["#English360", "#Aurora", "#NorthernLights", "#Zorza", "#PolskaWieś", "#WinterPhotography", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the sky. It is red and yellow. This is the aurora. A man stands on the snow. He is watching the sky. The aurora is in the north. Tonight it came to Poland.",
+      "text_pl": "Spójrz na niebo. Jest czerwone i żółte. To jest zorza polarna. Mężczyzna stoi na śniegu. Patrzy na niebo. Zorza polarna jest na północy. Dziś w nocy przyszła do Polski.",
+      "vocab": [
+        { "term": "aurora", "ipa_br": "/ɔːˈrɔː.rə/", "pl": "zorza polarna", "new": true },
+        { "term": "man", "ipa_br": "/mæn/", "pl": "mężczyzna", "new": true },
+        { "term": "snow", "ipa_br": "/snəʊ/", "pl": "śnieg", "new": true },
+        { "term": "watch", "ipa_br": "/wɒtʃ/", "pl": "patrzeć, obserwować", "new": false },
+        { "term": "north", "ipa_br": "/nɔːθ/", "pl": "północ", "new": true },
+        { "term": "tonight", "ipa_br": "/təˈnaɪt/", "pl": "dziś w nocy, dziś wieczorem", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "aurora", "answer": "A" },
+            { "word": "snow", "answer": "B" },
+            { "word": "man", "answer": "C" },
+            { "word": "sky", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌌" },
+            { "label": "B", "text": "❄️" },
+            { "label": "C", "text": "🧍" },
+            { "label": "D", "text": "🌃" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "In northern countries like Norway or Finland, you can often see the aurora in the night sky. In Poland it is very rare. But sometimes, when a strong sun storm reaches the Earth, the aurora can travel south. This happened on a cold January night, and a man stood on the snow and watched the sky turn pink, red and yellow. He did not need a camera to see it.",
+      "text_pl": "W krajach północnych, takich jak Norwegia czy Finlandia, często można zobaczyć zorzę polarną na nocnym niebie. W Polsce jest to bardzo rzadkie. Ale czasami, gdy silna burza słoneczna dociera do Ziemi, zorza polarna potrafi przybyć na południe. Tak się właśnie stało pewnej zimnej, styczniowej nocy — mężczyzna stał na śniegu i patrzył, jak niebo robi się różowe, czerwone i żółte. Nie potrzebował aparatu, żeby ją zobaczyć.",
+      "vocab": [
+        { "term": "night", "ipa_br": "/naɪt/", "pl": "noc", "new": true },
+        { "term": "rare", "ipa_br": "/reə/", "pl": "rzadki", "new": true },
+        { "term": "strong", "ipa_br": "/strɒŋ/", "pl": "silny, mocny", "new": true },
+        { "term": "storm", "ipa_br": "/stɔːm/", "pl": "burza", "new": true },
+        { "term": "Earth", "ipa_br": "/ɜːθ/", "pl": "Ziemia", "new": true },
+        { "term": "travel", "ipa_br": "/ˈtræv.əl/", "pl": "podróżować", "new": false },
+        { "term": "south", "ipa_br": "/saʊθ/", "pl": "południe (kierunek)", "new": true },
+        { "term": "pink", "ipa_br": "/pɪŋk/", "pl": "różowy", "new": false },
+        { "term": "camera", "ipa_br": "/ˈkæm.ər.ə/", "pl": "aparat (fotograficzny)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij luki słowami z tekstu.",
+          "items": [
+            { "sentence": "In Poland, the aurora is very ___.", "answer": "rare" },
+            { "sentence": "A ___ sun storm can push the aurora south.", "answer": "strong" },
+            { "sentence": "The man stood on the ___ and watched the sky.", "answer": "snow" },
+            { "sentence": "He did not need a ___ to see the aurora.", "answer": "camera" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "In northern Scandinavia, the aurora is part of ordinary winter life. People watch it from their kitchen windows. In Poland, however, the aurora is something almost magical — it appears once every few years, and then only for a short time. The photograph here was taken on a cold January night near Paskudy, in eastern Poland. The sky burned in shades of pink, red and gold above a single human figure standing on the snow. The unusual thing was that the aurora could be seen with the naked eye — not only by the camera, as is more often the case here.",
+      "text_pl": "W północnej Skandynawii zorza polarna jest częścią zwykłego zimowego życia. Ludzie patrzą na nią z kuchennych okien. W Polsce natomiast zorza polarna to coś niemal magicznego — pojawia się raz na kilka lat, i to tylko na krótki czas. To zdjęcie zostało zrobione w zimną styczniową noc pod Paskudami, we wschodniej Polsce. Niebo paliło się odcieniami różu, czerwieni i złota nad pojedynczą sylwetką człowieka stojącego na śniegu. Niezwykłe było to, że zorzę widać było gołym okiem — nie tylko przez aparat, jak to częściej u nas bywa.",
+      "vocab": [
+        { "term": "ordinary", "ipa_br": "/ˈɔː.dən.ri/", "pl": "zwyczajny, zwykły", "new": true },
+        { "term": "kitchen", "ipa_br": "/ˈkɪtʃ.ən/", "pl": "kuchnia", "new": true },
+        { "term": "magical", "ipa_br": "/ˈmædʒ.ɪ.kəl/", "pl": "magiczny, czarodziejski", "new": true },
+        { "term": "appear", "ipa_br": "/əˈpɪə/", "pl": "pojawiać się", "new": true },
+        { "term": "figure", "ipa_br": "/ˈfɪɡ.ə/", "pl": "sylwetka, postać", "new": true },
+        { "term": "naked eye", "ipa_br": "/ˌneɪ.kɪd ˈaɪ/", "pl": "gołe oko", "new": true },
+        { "term": "shade", "ipa_br": "/ʃeɪd/", "pl": "odcień; cień", "new": true },
+        { "term": "burn", "ipa_br": "/bɜːn/", "pl": "palić (się)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "In Scandinavia, people often watch the aurora from their kitchen windows.", "answer": true },
+            { "statement": "In Poland the aurora is a very common, everyday sight.", "answer": false },
+            { "statement": "The photograph was taken on a cold January night in eastern Poland.", "answer": true },
+            { "statement": "According to the text, the aurora could only be seen through a camera.", "answer": false },
+            { "statement": "The sky in the picture burned in shades of pink, red and gold.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "The aurora that touches Polish skies is a kind of distant relative. In Tromsø or Reykjavík, locals shrug at it the way Poles shrug at a regular snowstorm; in Paskudy or any other Polish village, the same green or red glow on the northern horizon stops conversations and pulls people out of their warm houses. This photograph, taken on a January night in eastern Poland, captures one of the rarer kinds — strong enough to be visible to the naked eye, not just to a long-exposure camera. The colour is dominated by a deep crimson and a low band of yellow-gold along the horizon. Both are signatures of a strong coronal mass ejection — a solar storm violent enough to push the auroral oval far enough south that villages at fifty-one degrees of latitude can briefly share in the sky of the high north.",
+      "text_pl": "Zorza polarna, która dociera do polskiego nieba, jest swego rodzaju daleką krewną. W Tromsø czy Reykjavíku miejscowi wzruszają na nią ramionami tak, jak Polacy wzruszają na zwykłą śnieżycę; w Paskudach czy dowolnej innej polskiej wsi ta sama zielona lub czerwona poświata na północnym horyzoncie przerywa rozmowy i wyciąga ludzi z ciepłych domów. To zdjęcie, zrobione styczniową nocą we wschodniej Polsce, uchwyciło jeden z rzadszych typów — wystarczająco silny, by był widoczny gołym okiem, a nie tylko przez aparat z długim czasem ekspozycji. W kolorze dominuje głęboki karmin i niski pas żółtawego złota wzdłuż horyzontu. Oba to sygnatury silnego koronalnego wyrzutu masy — burzy słonecznej dość gwałtownej, by zepchnąć owal zorzy tak daleko na południe, że wsie na pięćdziesiątym pierwszym stopniu szerokości geograficznej mogą, choć na chwilę, dzielić niebo dalekiej północy.",
+      "vocab": [
+        { "term": "distant", "ipa_br": "/ˈdɪs.tənt/", "pl": "daleki, odległy", "new": true },
+        { "term": "local", "ipa_br": "/ˈləʊ.kəl/", "pl": "miejscowy, lokalny", "new": true },
+        { "term": "shrug", "ipa_br": "/ʃrʌɡ/", "pl": "wzruszać ramionami", "new": true },
+        { "term": "snowstorm", "ipa_br": "/ˈsnəʊ.stɔːm/", "pl": "śnieżyca", "new": true },
+        { "term": "glow", "ipa_br": "/ɡləʊ/", "pl": "poświata, blask", "new": false },
+        { "term": "exposure", "ipa_br": "/ɪkˈspəʊ.ʒə/", "pl": "ekspozycja, czas naświetlania", "new": true },
+        { "term": "crimson", "ipa_br": "/ˈkrɪm.zən/", "pl": "karmin, ciemnoczerwony", "new": true },
+        { "term": "signature", "ipa_br": "/ˈsɪɡ.nə.tʃə/", "pl": "sygnatura, charakterystyczny znak", "new": true },
+        { "term": "violent", "ipa_br": "/ˈvaɪə.lənt/", "pl": "gwałtowny", "new": true },
+        { "term": "latitude", "ipa_br": "/ˈlæt.ɪ.tjuːd/", "pl": "szerokość geograficzna", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author compares the aurora's reception in Tromsø to the way Poles react to a regular snowstorm.", "answer": true },
+            { "statement": "According to the text, this aurora was visible only through a long-exposure camera.", "answer": false },
+            { "statement": "Deep crimson and a band of yellow-gold along the horizon are the dominant colours.", "answer": true },
+            { "statement": "The text claims that this kind of strong, naked-eye aurora is very common in Polish villages.", "answer": false },
+            { "statement": "The cause described is a strong coronal mass ejection.", "answer": true },
+            { "statement": "The text says the auroral oval was pushed northward by the solar storm.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a particular kind of awe reserved for natural phenomena that arrive from elsewhere. The Polish countryside is not built for the aurora — it has no traditions around it, no folklore, no calendar of expected visits. When the lights do appear, as they did on the nineteenth of January over Paskudy in eastern Poland, the experience has the slightly absurd quality of receiving a guest from a place that does not quite exist on local mental maps. The photograph caught it: a deep crimson dome, a low band of sodium-yellow gold, and a single human silhouette standing in the snow as if waiting to be addressed. What makes the image especially Polish, rather than a hand-me-down Scandinavian postcard, is the modesty of the foreground — no glacier, no fjord, no wooden hut. Just a flat field, a man, and a sky doing something it has done, at this latitude, perhaps three or four times in the photographer's life.",
+      "text_pl": "Istnieje pewien szczególny rodzaj zachwytu zarezerwowanego dla zjawisk przyrody, które przybywają skądinąd. Polska wieś nie jest zbudowana pod zorzę polarną — nie ma wokół niej tradycji, folkloru, kalendarza spodziewanych wizyt. Gdy światła już się pojawiają, jak dziewiętnastego stycznia nad Paskudami we wschodniej Polsce, doświadczenie ma w sobie lekko absurdalną jakość przyjmowania gościa z miejsca, które nie do końca istnieje na lokalnych mapach mentalnych. Zdjęcie to uchwyciło: głęboko karmazynową kopułę, niski pas sodowo-żółtego złota i pojedynczą ludzką sylwetkę stojącą na śniegu, jakby czekała, aż ją zagadną. Tym, co czyni ten obraz szczególnie polskim, a nie odziedziczoną skandynawską pocztówką, jest skromność pierwszego planu — żadnego lodowca, żadnego fiordu, żadnej drewnianej chaty. Tylko płaskie pole, człowiek i niebo, które robi coś, co na tej szerokości robiło może trzy lub cztery razy w życiu fotografa.",
+      "vocab": [
+        { "term": "awe", "ipa_br": "/ɔː/", "pl": "zachwyt, podziw", "new": true },
+        { "term": "phenomenon", "ipa_br": "/fəˈnɒm.ɪ.nən/", "pl": "zjawisko", "new": true },
+        { "term": "elsewhere", "ipa_br": "/ˌelsˈweə/", "pl": "skądinąd, gdzie indziej", "new": true },
+        { "term": "folklore", "ipa_br": "/ˈfəʊk.lɔː/", "pl": "folklor, kultura ludowa", "new": false },
+        { "term": "absurd", "ipa_br": "/əbˈsɜːd/", "pl": "absurdalny", "new": true },
+        { "term": "dome", "ipa_br": "/dəʊm/", "pl": "kopuła", "new": true },
+        { "term": "modesty", "ipa_br": "/ˈmɒd.ə.sti/", "pl": "skromność", "new": true },
+        { "term": "foreground", "ipa_br": "/ˈfɔː.ɡraʊnd/", "pl": "pierwszy plan", "new": true },
+        { "term": "glacier", "ipa_br": "/ˈɡlæs.i.ə/", "pl": "lodowiec", "new": true },
+        { "term": "fjord", "ipa_br": "/fjɔːd/", "pl": "fiord", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "paraphrase",
+          "prompt": "Przeformułuj zdanie zachowując znaczenie.",
+          "items": [
+            { "original": "The Polish countryside is not built for the aurora.", "answer": "The Polish countryside is not really prepared for the aurora." },
+            { "original": "It has no traditions around it, no folklore, no calendar of expected visits.", "answer": "There are no traditions, no folklore and no calendar of expected visits attached to it." },
+            { "original": "What makes the image especially Polish is the modesty of the foreground.", "answer": "It is the modesty of the foreground that makes the image especially Polish." },
+            { "original": "A sky doing something it has done, at this latitude, perhaps three or four times in the photographer's life.", "answer": "A sky that, at this latitude, has done this only three or four times in the photographer's life." }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "Polish aurorae arrive at the wrong latitude and stay too briefly. The auroral oval, that ragged ring of charged particles painting the upper atmosphere about a hundred kilometres above our heads, normally hugs the magnetic poles — sixty-five to seventy degrees north, the geography of Tromsø, Yellowknife and Murmansk. On the rare nights when a strong coronal mass ejection compresses the magnetosphere on the dayside and drags the oval southward, the lights briefly cross Poland's fifty-second parallel, and an entire country tilts its head back. The image at hand catches such a night — January, eastern Poland, a single observer crunched into the snow against a sky doing something it does not normally do here. What is most striking, in retrospect, is not the chromatics but the modesty of the human scale. Norwegian aurora photographs frame the lights against jagged peaks and twenty-metre waterfalls; this one frames them against nothing — a level field, the back of a hooded jacket, the white plate of January. The sky did the work itself.",
+      "text_pl": "Polskie zorze polarne przybywają na niewłaściwą szerokość geograficzną i zostają zbyt krótko. Owal zorzy, ten poszarpany pierścień naładowanych cząstek malujący górną atmosferę około sto kilometrów nad naszymi głowami, normalnie obejmuje bieguny magnetyczne — sześćdziesiąt pięć do siedemdziesięciu stopni szerokości północnej, czyli geografię Tromsø, Yellowknife i Murmańska. W rzadkie noce, gdy silny koronalny wyrzut masy ściska magnetosferę po stronie dziennej i wlecze owal w stronę południa, światła na chwilę przekraczają polski pięćdziesiąty drugi równoleżnik, a cały kraj odchyla głowę do tyłu. Omawiane zdjęcie uchwyca jedną z takich nocy — styczeń, wschodnia Polska, pojedynczy obserwator wgnieciony w śnieg na tle nieba, które robi tu coś, czego u nas zwykle nie robi. Najbardziej uderzająca, z perspektywy czasu, nie jest jednak kolorystyka, lecz skromność ludzkiej skali. Norweskie zdjęcia zorzy oprawiają światła w postrzępione szczyty i dwudziestometrowe wodospady; to oprawia je w nic — równe pole, plecy w kurtce z kapturem, biały talerz stycznia. Niebo wykonało pracę samo.",
+      "vocab": [
+        { "term": "ragged", "ipa_br": "/ˈræɡ.ɪd/", "pl": "poszarpany, postrzępiony", "new": true },
+        { "term": "particle", "ipa_br": "/ˈpɑː.tɪ.kəl/", "pl": "cząstka", "new": true },
+        { "term": "magnetic", "ipa_br": "/mæɡˈnet.ɪk/", "pl": "magnetyczny", "new": true },
+        { "term": "magnetosphere", "ipa_br": "/mæɡˈniː.tə.sfɪə/", "pl": "magnetosfera", "new": true },
+        { "term": "compress", "ipa_br": "/kəmˈpres/", "pl": "ściskać, sprasować", "new": false },
+        { "term": "parallel", "ipa_br": "/ˈpær.ə.lel/", "pl": "równoleżnik; równoległy", "new": false },
+        { "term": "tilt", "ipa_br": "/tɪlt/", "pl": "odchylać, przechylać", "new": true },
+        { "term": "crunched", "ipa_br": "/krʌntʃt/", "pl": "wgnieciony, ściśnięty", "new": true },
+        { "term": "chromatics", "ipa_br": "/krəˈmæt.ɪks/", "pl": "barwy, kolorystyka", "new": true },
+        { "term": "jagged", "ipa_br": "/ˈdʒæɡ.ɪd/", "pl": "postrzępiony, ząbkowany", "new": true },
+        { "term": "waterfall", "ipa_br": "/ˈwɔː.tə.fɔːl/", "pl": "wodospad", "new": true },
+        { "term": "hooded", "ipa_br": "/ˈhʊd.ɪd/", "pl": "z kapturem", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "cloze",
+          "prompt": "Open cloze — wpisz po JEDNYM słowie w każdą lukę. Bez banku.",
+          "passage": "Polish aurorae arrive ___ the wrong latitude and stay too briefly. The auroral oval normally hugs the magnetic poles — sixty-five ___ seventy degrees north, the geography of Tromsø and Murmansk. On the rare nights ___ a strong coronal mass ejection compresses the magnetosphere and drags the oval southward, the lights briefly cross Poland's fifty-second parallel, ___ an entire country tilts its head back. The image catches such a night — January, eastern Poland, a single observer crunched ___ the snow against a sky doing something it does not normally do here. What is most striking, ___ retrospect, is not the chromatics ___ the modesty of the human scale. Norwegian photographs frame the lights against jagged peaks; this one frames them ___ nothing.",
+          "answers": ["at", "to", "when", "and", "into", "in", "but", "against"],
+          "hints": [
+            "preposition — 'arrive ___ the wrong latitude'",
+            "range preposition — 'sixty-five ___ seventy degrees'",
+            "relative adverb of time",
+            "conjunction — joins two main clauses",
+            "preposition of motion — 'crunched ___ the snow'",
+            "preposition — '___ retrospect'",
+            "contrast conjunction — 'not X ___ Y'",
+            "preposition — 'frames them ___ nothing'"
+          ]
+        }
+      ]
+    }
+  }
+}

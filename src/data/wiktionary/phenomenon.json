@@ -1,0 +1,34 @@
+{
+  "lemma": "phenomenon",
+  "slug": "phenomenon",
+  "fetchTerm": "phenomenon",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof.",
+          "examples": []
+        },
+        {
+          "text": "A knowable thing or event .",
+          "examples": [
+            "An electromagnetic phenomenon."
+          ]
+        },
+        {
+          "text": "A kind or type of phenomenon .",
+          "examples": [
+            "A volcanic eruption is an impressive phenomenon."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "fenomen",
+    "zjawisko"
+  ],
+  "fetchedAt": "2026-05-19T18:28:39.043Z"
+}

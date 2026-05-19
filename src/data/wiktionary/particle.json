@@ -1,0 +1,30 @@
+{
+  "lemma": "particle",
+  "slug": "particle",
+  "fetchTerm": "particle",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A very small piece of matter, a fragment; especially, the smallest possible part of something. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Any of various physical objects making up the constituent parts of an atom; an elementary particle or subatomic particle.",
+          "examples": []
+        },
+        {
+          "text": "A part of speech that has no inherent lexical definition but must be associated with another word to impart meaning, often a grammatical category: for example, the English word to in a full infinitive phrase (to eat) or O in a vocative phrase (O Canada), or as a discourse marker (mmm).",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "cząstka",
+    "partykuła"
+  ],
+  "fetchedAt": "2026-05-19T18:28:37.594Z"
+}

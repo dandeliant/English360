@@ -1,0 +1,21 @@
+{
+  "lemma": "fjord",
+  "slug": "fjord",
+  "fetchTerm": "fjord",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A long, narrow, deep inlet between cliffs.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "fiord"
+  ],
+  "fetchedAt": "2026-05-19T18:27:33.044Z"
+}

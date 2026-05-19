@@ -1,0 +1,21 @@
+{
+  "lemma": "seventy",
+  "slug": "seventy",
+  "fetchTerm": "seventy",
+  "en": [
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "The cardinal number occurring after sixty-nine and before seventy-one, represented in Roman numerals as LXX and in Arabic numerals as 70.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "siedemdziesiąt"
+  ],
+  "fetchedAt": "2026-05-19T18:29:01.617Z"
+}

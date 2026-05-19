@@ -1,0 +1,44 @@
+{
+  "lemma": "kitchen",
+  "slug": "kitchen",
+  "fetchTerm": "kitchen",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A room or area for preparing food.",
+          "examples": [
+            "We cook in the kitchen."
+          ]
+        },
+        {
+          "text": "Cuisine; style of cooking.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To do kitchen work; to prepare food.",
+          "examples": []
+        },
+        {
+          "text": "To embellish a basic food; to season, add condiments, etc.",
+          "examples": []
+        },
+        {
+          "text": "To embellish; to dress up.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kuchnia"
+  ],
+  "fetchedAt": "2026-05-19T18:27:56.164Z"
+}

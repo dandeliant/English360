@@ -1,0 +1,57 @@
+{
+  "lemma": "hundred",
+  "slug": "hundred",
+  "fetchTerm": "hundred",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "NATO, ICAO, ITU IMO radiotelephony clear code (spelling-alphabet name) for 00.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Numeral",
+      "definitions": [
+        {
+          "text": "A numerical value equal to 100 (10), occurring after ninety-nine.",
+          "examples": [
+            "hundreds of thousands of faces.",
+            "a/one hundred"
+          ]
+        },
+        {
+          "text": "The pronunciation of “00” for the two digits denoting the minutes.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A hundred-dollar bill, or any other note denominated 100 (e.g. a hundred euros).",
+          "examples": []
+        },
+        {
+          "text": "An administrative subdivision of southern English counties formerly reckoned as comprising 100 hides (households or families) and notionally equal to 12,000 acres.",
+          "examples": []
+        },
+        {
+          "text": "Similar divisions in other areas, particularly in other areas of Britain or the British Empire",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "sto",
+    "setka",
+    "stówka",
+    "stówa"
+  ],
+  "fetchedAt": "2026-05-19T18:27:45.329Z"
+}

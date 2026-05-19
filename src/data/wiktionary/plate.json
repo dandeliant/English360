@@ -1,0 +1,78 @@
+{
+  "lemma": "plate",
+  "slug": "plate",
+  "fetchTerm": "plate",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A slightly curved but almost flat dish from which food is served or eaten.",
+          "examples": [
+            "I filled my plate from the bountiful table."
+          ]
+        },
+        {
+          "text": "Such dishes collectively.",
+          "examples": [
+            "A valuable collection of silver plate was donated to the museum."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+          "examples": [
+            "This ring is plated with a thin layer of gold."
+          ]
+        },
+        {
+          "text": "To place the various elements of a meal on the diner's plate prior to serving.",
+          "examples": [
+            "After preparation, the chef will plate the dish."
+          ]
+        },
+        {
+          "text": "To score a run.",
+          "examples": [
+            "The single plated the runner from second base."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Precious metal, especially silver.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Silver or gold, in the form of a coin, or less often silver or gold utensils or dishes.",
+          "examples": []
+        },
+        {
+          "text": "A roundel of silver or argent.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "talerz",
+    "danie",
+    "płyta",
+    "tablica rejestracyjna",
+    "blacha"
+  ],
+  "fetchedAt": "2026-05-19T18:28:40.808Z"
+}

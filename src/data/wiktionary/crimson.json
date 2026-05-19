@@ -1,0 +1,50 @@
+{
+  "lemma": "crimson",
+  "slug": "crimson",
+  "fetchTerm": "crimson",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A deep, slightly bluish red.",
+          "examples": [
+            "crimson:"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Having a deep red colour.",
+          "examples": []
+        },
+        {
+          "text": "Immodest. (Can we add an example for this sense?)",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To become crimson or deep red; to blush.",
+          "examples": []
+        },
+        {
+          "text": "To dye with crimson or deep red; to redden.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "karmazyn",
+    "karmazynowy"
+  ],
+  "fetchedAt": "2026-05-19T18:27:08.591Z"
+}

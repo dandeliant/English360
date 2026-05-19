@@ -1,0 +1,41 @@
+{
+  "lemma": "shrug",
+  "slug": "shrug",
+  "fetchTerm": "shrug",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A lifting of the shoulders to signal indifference or a casual lack of knowledge.",
+          "examples": [
+            "He dismissed my comment with a shrug."
+          ]
+        },
+        {
+          "text": "A cropped, cardigan-like garment with short or long sleeves, typically knitted.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To raise (the shoulders) to express uncertainty, lack of concern, (formerly) dread, etc.",
+          "examples": [
+            "I asked him for an answer and he just shrugged.",
+            "When he saw the problem, he just shrugged and started fixing it."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "wzruszenie ramionami",
+    "wzruszać ramionami",
+    "wzruszyć ramionami"
+  ],
+  "fetchedAt": "2026-05-19T18:29:04.785Z"
+}

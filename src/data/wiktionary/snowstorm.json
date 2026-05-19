@@ -1,0 +1,27 @@
+{
+  "lemma": "snowstorm",
+  "slug": "snowstorm",
+  "fetchTerm": "snowstorm",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Bad weather involving blowing winds and snow, or blowing winds and heavy snowfall amount.",
+          "examples": []
+        },
+        {
+          "text": "A snow globe.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "śnieżyca",
+    "zamieć",
+    "zawieja"
+  ],
+  "fetchedAt": "2026-05-19T18:29:10.602Z"
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "rare",
+  "slug": "rare",
+  "fetchTerm": "rare",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Very uncommon; scarce.",
+          "examples": [
+            "Black pearls are very rare and therefore very valuable."
+          ]
+        },
+        {
+          "text": "Small in number (but not unusual); infrequent; sparse.",
+          "examples": []
+        },
+        {
+          "text": "Thin; of low density.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A scarce or uncommon item.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Particularly of meat, especially beefsteak: cooked very lightly, so the meat is still red.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To rear, rise up, start backwards.",
+          "examples": []
+        },
+        {
+          "text": "To rear, bring up, raise.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Early.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "rzadki",
+    "krwisty"
+  ],
+  "fetchedAt": "2026-05-19T18:28:48.096Z"
+}

@@ -1,0 +1,69 @@
+{
+  "lemma": "me",
+  "slug": "me",
+  "fetchTerm": "me",
+  "en": [
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "The first-person singular, as the object (of a verb, preposition, etc). As the object (direct or indirect) of a verb.",
+          "examples": [
+            "Can you hear me?",
+            "He gave me this."
+          ]
+        },
+        {
+          "text": "As the object (direct or indirect) of a verb.",
+          "examples": [
+            "Can you hear me?",
+            "He gave me this."
+          ]
+        },
+        {
+          "text": "Myself; as a reflexive direct object of a verb.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The self or personality of the speaker, especially their authentic self.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Determiner",
+      "definitions": [
+        {
+          "text": "Alternative form of my.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The solfeggio syllable used to indicate the flat of the third note of a major scale.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Pronoun",
+      "definitions": [
+        {
+          "text": "(The addition of quotations indicative of this usage is being sought:) Indefinite pronoun (usually singular); one; you; they; someone.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:28:10.926Z"
+}

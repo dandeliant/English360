@@ -1,0 +1,88 @@
+{
+  "lemma": "band",
+  "slug": "band",
+  "fetchTerm": "band",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A strip of material used for strengthening or coupling. A strip of material wrapped around things to hold them together. A narrow strip of cloth or other material on clothing, to bind, strengthen, or ornament it. A strip along the spine of a book where the pages are attached. A belt or strap that is part of a machine.",
+          "examples": []
+        },
+        {
+          "text": "A strip of material wrapped around things to hold them together.",
+          "examples": []
+        },
+        {
+          "text": "A narrow strip of cloth or other material on clothing, to bind, strengthen, or ornament it.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To fasten with a band.",
+          "examples": []
+        },
+        {
+          "text": "To fasten an identifying band around the leg of (a bird).",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A group of musicians who perform together as an ensemble; sometimes, such a group working for a professional recording artist.",
+          "examples": [
+            "musical band"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To group together for a common purpose; to confederate.",
+          "examples": []
+        },
+        {
+          "text": "To group (students) together by perceived ability; to stream.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "simple past and past participle of bind",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Obsolete form of bandy.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "taśma",
+    "grzbiet",
+    "pasmo",
+    "zespół",
+    "banda"
+  ],
+  "fetchedAt": "2026-05-19T18:26:58.504Z"
+}

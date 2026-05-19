@@ -1,0 +1,88 @@
+{
+  "lemma": "k",
+  "slug": "k",
+  "fetchTerm": "k",
+  "en": [
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The eleventh letter of the basic modern Latin alphabet.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "A voiceless velar plosive.",
+          "examples": []
+        },
+        {
+          "text": "The permeability of a material for fluids.",
+          "examples": []
+        },
+        {
+          "text": "The spring constant of an elastic material.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "1000 (thousand)",
+          "examples": [
+            "5k = 5000; 5K = 5000"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Letter",
+      "definitions": [
+        {
+          "text": "The eleventh letter of the English alphabet, called kay and written in the Latin script.",
+          "examples": []
+        },
+        {
+          "text": "The first letter of callsigns allocated to American broadcast television and radio stations west of the Mississippi river.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A kilobyte (more formally KB or kB).",
+          "examples": []
+        },
+        {
+          "text": "A kilobit (more formally kb), especially in measuring Internet connection.",
+          "examples": []
+        },
+        {
+          "text": "kilometre or kilometres.",
+          "examples": [
+            "We drove 15 ks before we realised Billy wasn't in the back seat."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Interjection",
+      "definitions": [
+        {
+          "text": "OK",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:27:53.359Z"
+}

@@ -1,0 +1,54 @@
+{
+  "lemma": "crunch",
+  "slug": "crunch",
+  "fetchTerm": "crunch",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To crush something, especially food, with a noisy crackling sound.",
+          "examples": [
+            "When I came home, Susan was watching TV with her feet up on the couch, crunching a piece of celery."
+          ]
+        },
+        {
+          "text": "To be crushed with a noisy crackling sound.",
+          "examples": [
+            "Beetles crunched beneath the men's heavy boots as they worked."
+          ]
+        },
+        {
+          "text": "This term needs a definition. Please help out and add a definition, then remove the text {{rfdef}}.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A noisy crackling sound; the sound usually associated with crunching.",
+          "examples": []
+        },
+        {
+          "text": "A critical moment or event.",
+          "examples": []
+        },
+        {
+          "text": "A problem that leads to a crisis.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "chrupać",
+    "chrupnąć",
+    "chrzęst",
+    "chrupnięcie",
+    "chrupanie"
+  ],
+  "fetchedAt": "2026-05-19T18:27:11.332Z"
+}

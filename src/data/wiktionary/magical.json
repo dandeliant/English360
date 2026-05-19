@@ -1,0 +1,28 @@
+{
+  "lemma": "magical",
+  "slug": "magical",
+  "fetchTerm": "magical",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, relating to, or by means of magic.",
+          "examples": []
+        },
+        {
+          "text": "Enchanting.",
+          "examples": [
+            "The fireworks created a magical atmosphere in that beautiful summer night."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "magiczny",
+    "czarodziejski"
+  ],
+  "fetchedAt": "2026-05-19T18:28:00.648Z"
+}

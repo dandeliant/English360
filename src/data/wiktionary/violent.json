@@ -1,0 +1,56 @@
+{
+  "lemma": "violent",
+  "slug": "violent",
+  "fetchTerm": "violent",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Involving extreme force or motion.",
+          "examples": [
+            "A violent wind ripped the branch from the tree."
+          ]
+        },
+        {
+          "text": "Involving physical conflict.",
+          "examples": [
+            "We would rather negotiate, but we will use violent means if necessary."
+          ]
+        },
+        {
+          "text": "Likely to use physical force.",
+          "examples": [
+            "The escaped prisoners are considered extremely violent."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To urge with violence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An assailant.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "gwałtowny",
+    "brutalny",
+    "agresywny",
+    "jaskrawy"
+  ],
+  "fetchedAt": "2026-05-19T18:29:21.478Z"
+}

@@ -1,0 +1,77 @@
+{
+  "lemma": "mental",
+  "slug": "mental",
+  "fetchTerm": "mental",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to the mind or specifically the total emotional and intellectual response of an individual to external reality. Occurring or experienced in the mind.",
+          "examples": [
+            "mental science",
+            "mental acuity"
+          ]
+        },
+        {
+          "text": "Occurring or experienced in the mind.",
+          "examples": []
+        },
+        {
+          "text": "Relating to the mind, its activity, or its products as an object of study.",
+          "examples": [
+            "mental science"
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "State of mind; ellipsis of mental state.",
+          "examples": [
+            "y'all need to fix your mentals"
+          ]
+        },
+        {
+          "text": "A mentally challenged person.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to the chin or median part of the lower jaw, genial.",
+          "examples": [
+            "the mental nerve, the mental region"
+          ]
+        },
+        {
+          "text": "Of or relating to the chinlike or liplike structure.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A plate or scale covering the mentum or chin of a fish or reptile.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "psychiczny",
+    "umysłowy",
+    "mentalny",
+    "szalony",
+    "bródkowy"
+  ],
+  "fetchedAt": "2026-05-19T18:28:12.606Z"
+}

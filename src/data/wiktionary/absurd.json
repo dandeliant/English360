@@ -1,0 +1,46 @@
+{
+  "lemma": "absurd",
+  "slug": "absurd",
+  "fetchTerm": "absurd",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Contrary to reason or propriety; obviously and flatly opposed to manifest truth; inconsistent with the plain dictates of common sense; logically contradictory; nonsensical; ridiculous; silly. .mw-parser-output .defdate{font-size:smaller}",
+          "examples": []
+        },
+        {
+          "text": "Inharmonious; dissonant.",
+          "examples": []
+        },
+        {
+          "text": "Having no rational or orderly relationship to people's lives; meaningless; lacking order or value.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An absurdity.",
+          "examples": []
+        },
+        {
+          "text": "The opposition between the human search for meaning in life and the inability to find any; the state or condition in which man exists in an irrational universe and his life has no meaning outside of his existence.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "absurdalny",
+    "niedorzeczny",
+    "bezsensowny",
+    "absurd",
+    "niedorzeczność"
+  ],
+  "fetchedAt": "2026-05-19T18:26:48.539Z"
+}

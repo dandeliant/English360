@@ -1,0 +1,48 @@
+{
+  "lemma": "northern",
+  "slug": "northern",
+  "fetchTerm": "northern",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of, facing, situated in, or related to the north; northerly.",
+          "examples": []
+        },
+        {
+          "text": "Blowing from the north; northerly.",
+          "examples": []
+        },
+        {
+          "text": "Characteristic of the North of England",
+          "examples": [
+            "Les Dawson was a famous northern comedian."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An inhabitant of the northern regions; a northerner.",
+          "examples": []
+        },
+        {
+          "text": "The northern pike.",
+          "examples": []
+        },
+        {
+          "text": "(Should we move, merge or split this sense?) A film or other dramatic work set primarily in the late 19th or early 20th century in the north of North America, primarily in western Canada but also in Alaska, often with a Mountie as the protagonist.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "północny"
+  ],
+  "fetchedAt": "2026-05-19T18:28:26.761Z"
+}

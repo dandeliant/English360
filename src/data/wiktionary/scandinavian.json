@@ -1,0 +1,40 @@
+{
+  "lemma": "scandinavian",
+  "slug": "scandinavian",
+  "fetchTerm": "Scandinavian",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Someone from Scandinavia.",
+          "examples": []
+        },
+        {
+          "text": "The Scandinavian Defence.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Of or relating to Scandinavia.",
+          "examples": []
+        },
+        {
+          "text": "Of or relating to the North Germanic family of languages to which Swedish, Norwegian (Bokmål, Nynorsk), Danish, Icelandic, and Faeroese belong.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Skandynaw",
+    "Skandynawka",
+    "skandynawski"
+  ],
+  "fetchedAt": "2026-05-19T18:29:00.054Z"
+}

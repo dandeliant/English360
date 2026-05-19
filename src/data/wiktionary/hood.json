@@ -1,0 +1,90 @@
+{
+  "lemma": "hood",
+  "slug": "hood",
+  "fetchTerm": "hood",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A covering for the head, usually attached to a larger garment such as a jacket or cloak. A head covering placed on falcons to inhibit their vision. A head and neck covering placed on horses to protect against insects and sunlight, to slow coat growth and for warmth.",
+          "examples": []
+        },
+        {
+          "text": "A head covering placed on falcons to inhibit their vision.",
+          "examples": []
+        },
+        {
+          "text": "A head and neck covering placed on horses to protect against insects and sunlight, to slow coat growth and for warmth.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To cover (something) with a hood.",
+          "examples": []
+        },
+        {
+          "text": "To extend out from (something), in the manner of a hood.",
+          "examples": []
+        },
+        {
+          "text": "To grow over the eyelid but not the eye itself.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Gangster, thug.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Relating to inner-city everyday life, both positive and negative aspects; especially people’s attachment to and love for their neighborhoods.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A neighborhood.",
+          "examples": [
+            "What’s goin’ down in the hood?"
+          ]
+        },
+        {
+          "text": "Any poor suburb or neighbourhood.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Person wearing a hoodie.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "kaptur",
+    "maska",
+    "kapot"
+  ],
+  "fetchedAt": "2026-05-19T18:27:40.461Z"
+}

@@ -1,0 +1,58 @@
+{
+  "lemma": "hug",
+  "slug": "hug",
+  "fetchTerm": "hug",
+  "en": [
+    {
+      "partOfSpeech": "Symbol",
+      "definitions": [
+        {
+          "text": "ISO 639-3 language code for Huachipaeri.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A close embrace, especially when charged with an emotion such as affection, joy, relief, lust, anger, aggression, compassion, and the like, as opposed to being characterized by formality, equivocation or ambivalence (a half-embrace or \"little hug\").",
+          "examples": []
+        },
+        {
+          "text": "A particular grip in wrestling.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To crouch; to huddle as with cold.",
+          "examples": []
+        },
+        {
+          "text": "To cling closely together.",
+          "examples": []
+        },
+        {
+          "text": "To embrace by holding closely, especially in the arms.",
+          "examples": [
+            "Billy hugged Danny until he felt better.",
+            "They hugged for what seemed like an eternity."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "objęcie",
+    "uścisk",
+    "obejmowanie",
+    "przytulenie",
+    "przytulać"
+  ],
+  "fetchedAt": "2026-05-19T18:27:43.831Z"
+}

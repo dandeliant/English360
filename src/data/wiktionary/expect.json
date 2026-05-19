@@ -1,0 +1,36 @@
+{
+  "lemma": "expect",
+  "slug": "expect",
+  "fetchTerm": "expect",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To predict or believe that something will happen",
+          "examples": [
+            "when you least expect it",
+            "I expect to be able to walk again after getting over my broken leg."
+          ]
+        },
+        {
+          "text": "To consider obligatory or required.",
+          "examples": []
+        },
+        {
+          "text": "To consider reasonably due.",
+          "examples": [
+            "My parents expected too much of me when I was in college.",
+            "You are expected to get the task done by the end of next week."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "spodziewać się",
+    "oczekiwać"
+  ],
+  "fetchedAt": "2026-05-19T18:27:24.191Z"
+}

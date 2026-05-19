@@ -1,0 +1,28 @@
+{
+  "lemma": "retrospect",
+  "slug": "retrospect",
+  "fetchTerm": "retrospect",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "Consideration of past times.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To look or refer back to; to reflect on.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [],
+  "fetchedAt": "2026-05-19T18:28:54.286Z"
+}

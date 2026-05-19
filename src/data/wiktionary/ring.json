@@ -1,0 +1,132 @@
+{
+  "lemma": "ring",
+  "slug": "ring",
+  "fetchTerm": "ring",
+  "en": [
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A solid object in the shape of a circle. A circumscribing object, (roughly) circular and hollow, looking like an annual ring, earring, finger ring etc.",
+          "examples": [
+            "His brother gifted him a ring for the engagement.",
+            "onion rings"
+          ]
+        },
+        {
+          "text": "A circumscribing object, (roughly) circular and hollow, looking like an annual ring, earring, finger ring etc.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To enclose or surround.",
+          "examples": [
+            "The inner city was ringed with dingy industrial areas."
+          ]
+        },
+        {
+          "text": "To make an incision around; to girdle; to cut away a circular tract of bark from a tree in order to kill it.",
+          "examples": [
+            "They ringed the trees to make the clearing easier next year."
+          ]
+        },
+        {
+          "text": "To attach a ring to, especially for identification.",
+          "examples": [
+            "We managed to ring 22 birds this morning."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "The resonant sound of a bell, or a sound resembling it.",
+          "examples": [
+            "The church bell's ring could be heard the length of the valley.",
+            "The ring of hammer on anvil filled the air."
+          ]
+        },
+        {
+          "text": "A pleasant or correct sound.",
+          "examples": [
+            "The name has a nice ring to it."
+          ]
+        },
+        {
+          "text": "A sound or appearance that is characteristic of something.",
+          "examples": [
+            "Her statements in court had a ring of falsehood."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "Of a bell, etc., to produce a resonant sound.",
+          "examples": [
+            "The bells were ringing in the town."
+          ]
+        },
+        {
+          "text": "To make (a bell, etc.) produce a resonant sound.",
+          "examples": [
+            "The deliveryman rang the doorbell to drop off a parcel."
+          ]
+        },
+        {
+          "text": "To produce (a sound) by ringing.",
+          "examples": [
+            "They rang a Christmas carol on their handbells."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An algebraic structure which consists of a set with two binary operations: an additive operation and a multiplicative operation, such that the set is an abelian group under the additive operation, a monoid under the multiplicative operation, and such that the multiplicative operation is distributive with respect to the additive operation.",
+          "examples": [
+            "The set of integers, Z {\\displaystyle \\mathbb {Z} } , is the prototypical ring."
+          ]
+        },
+        {
+          "text": "An algebraic structure as above, but only required to be a semigroup under the multiplicative operation, that is, there need not be a multiplicative identity element.",
+          "examples": [
+            "The definition of ring without unity allows, for instance, the set 2 Z {\\displaystyle 2\\mathbb {Z} } of even integers to be a ring."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A family of sets that is closed under finite unions and set-theoretic differences.",
+          "examples": []
+        },
+        {
+          "text": "A family of sets closed under finite union and finite intersection.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "pierścień",
+    "pierścionek",
+    "obrączka",
+    "ring",
+    "klika"
+  ],
+  "fetchedAt": "2026-05-19T18:28:57.439Z"
+}

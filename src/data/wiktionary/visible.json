@@ -1,0 +1,24 @@
+{
+  "lemma": "visible",
+  "slug": "visible",
+  "fetchTerm": "visible",
+  "en": [
+    {
+      "partOfSpeech": "Adjective",
+      "definitions": [
+        {
+          "text": "Able to be seen.",
+          "examples": [
+            "When the sun rises, the world becomes visible."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "widoczny",
+    "widzialny"
+  ],
+  "fetchedAt": "2026-05-19T18:29:22.853Z"
+}

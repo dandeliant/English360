@@ -1,0 +1,21 @@
+{
+  "lemma": "finland",
+  "slug": "finland",
+  "fetchTerm": "Finland",
+  "en": [
+    {
+      "partOfSpeech": "Proper noun",
+      "definitions": [
+        {
+          "text": "A Nordic country having borders with Sweden, Norway and Russia in Europe. Official name: Republic of Finland.",
+          "examples": []
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "Finlandia"
+  ],
+  "fetchedAt": "2026-05-19T18:27:31.552Z"
+}

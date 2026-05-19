@@ -1,0 +1,35 @@
+{
+  "lemma": "especially",
+  "slug": "especially",
+  "fetchTerm": "especially",
+  "en": [
+    {
+      "partOfSpeech": "Adverb",
+      "definitions": [
+        {
+          "text": "In a special manner; specially.",
+          "examples": [
+            "He got up early especially."
+          ]
+        },
+        {
+          "text": "Particularly; to a greater extent than is normal.",
+          "examples": []
+        },
+        {
+          "text": "Used to place greater emphasis upon someone or something.",
+          "examples": [
+            "Invite them all, especially Molly."
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
+  "translations": [
+    "szczególnie",
+    "zwłaszcza",
+    "w szczególności"
+  ],
+  "fetchedAt": "2026-05-19T18:27:22.857Z"
+}
