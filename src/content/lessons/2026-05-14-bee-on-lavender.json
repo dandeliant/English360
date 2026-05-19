@@ -1,8 +1,7 @@
 {
   "id": "2026-05-14-bee-on-lavender",
-  "date_assigned": "2026-05-14",
+  "date_assigned": "2026-08-10",
   "date_alternatives": [
-    "2026-06-21",
     "2026-08-10"
   ],
   "title_en": "A Bee's Quiet Afternoon",
@@ -46,39 +45,39 @@
       "vocab": [
         {
           "term": "bee",
-          "ipa_br": "/biː/",
           "pl": "pszczoła",
-          "new": true
+          "new": true,
+          "ipa_br": "/biː/"
         },
         {
           "term": "flower",
-          "ipa_br": "/ˈflaʊə/",
           "pl": "kwiat",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈflaʊə/"
         },
         {
           "term": "purple",
-          "ipa_br": "/ˈpɜːpəl/",
           "pl": "fioletowy",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈpɜːpəl/"
         },
         {
           "term": "small",
-          "ipa_br": "/smɔːl/",
           "pl": "mały",
-          "new": false
+          "new": false,
+          "ipa_br": "/smɔːl/"
         },
         {
           "term": "yellow",
-          "ipa_br": "/ˈjeləʊ/",
           "pl": "żółty",
-          "new": false
+          "new": false,
+          "ipa_br": "/ˈjeləʊ/"
         },
         {
           "term": "sunny",
-          "ipa_br": "/ˈsʌni/",
           "pl": "słoneczny",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈsʌni/"
         }
       ],
       "exercises": [
@@ -122,45 +121,45 @@
       "vocab": [
         {
           "term": "sit on",
-          "ipa_br": "/sɪt ɒn/",
           "pl": "siedzieć na",
-          "new": false
+          "new": false,
+          "ipa_br": "/sɪt ɒn/"
         },
         {
           "term": "drink",
-          "ipa_br": "/drɪŋk/",
           "pl": "pić",
-          "new": false
+          "new": false,
+          "ipa_br": "/drɪŋk/"
         },
         {
           "term": "wings",
-          "ipa_br": "/wɪŋz/",
           "pl": "skrzydła",
-          "new": true
+          "new": true,
+          "ipa_br": "/wɪŋz/"
         },
         {
           "term": "thin",
-          "ipa_br": "/θɪn/",
           "pl": "cienki",
-          "new": true
+          "new": true,
+          "ipa_br": "/θɪn/"
         },
         {
           "term": "bright",
-          "ipa_br": "/braɪt/",
           "pl": "jasny",
-          "new": true
+          "new": true,
+          "ipa_br": "/braɪt/"
         },
         {
           "term": "busy",
-          "ipa_br": "/ˈbɪzi/",
           "pl": "zajęty",
-          "new": false
+          "new": false,
+          "ipa_br": "/ˈbɪzi/"
         },
         {
           "term": "calm",
-          "ipa_br": "/kɑːm/",
           "pl": "spokojny",
-          "new": true
+          "new": true,
+          "ipa_br": "/kɑːm/"
         }
       ],
       "exercises": [
@@ -200,51 +199,51 @@
       "vocab": [
         {
           "term": "honey bee",
-          "ipa_br": "/ˈhʌni biː/",
           "pl": "pszczoła miodna",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈhʌni biː/"
         },
         {
           "term": "gently",
-          "ipa_br": "/ˈdʒentli/",
           "pl": "delikatnie",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈdʒentli/"
         },
         {
           "term": "stalk",
-          "ipa_br": "/stɔːk/",
           "pl": "łodyga",
-          "new": true
+          "new": true,
+          "ipa_br": "/stɔːk/"
         },
         {
           "term": "field",
-          "ipa_br": "/fiːld/",
           "pl": "pole",
-          "new": false
+          "new": false,
+          "ipa_br": "/fiːld/"
         },
         {
           "term": "nectar",
-          "ipa_br": "/ˈnektə/",
           "pl": "nektar",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈnektə/"
         },
         {
           "term": "pollen",
-          "ipa_br": "/ˈpɒlən/",
           "pl": "pyłek",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈpɒlən/"
         },
         {
           "term": "depend on",
-          "ipa_br": "/dɪˈpend ɒn/",
           "pl": "zależeć od",
-          "new": false
+          "new": false,
+          "ipa_br": "/dɪˈpend ɒn/"
         },
         {
           "term": "nearby",
-          "ipa_br": "/ˌnɪəˈbaɪ/",
           "pl": "w pobliżu",
-          "new": false
+          "new": false,
+          "ipa_br": "/ˌnɪəˈbaɪ/"
         }
       ],
       "exercises": [
@@ -282,57 +281,57 @@
       "vocab": [
         {
           "term": "pollinator",
-          "ipa_br": "/ˈpɒlɪneɪtə/",
           "pl": "zapylacz",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈpɒlɪneɪtə/"
         },
         {
           "term": "hover",
-          "ipa_br": "/ˈhɒvə/",
           "pl": "unosić się w powietrzu",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈhɒvə/"
         },
         {
           "term": "cross-pollination",
-          "ipa_br": "/krɒs ˌpɒlɪˈneɪʃən/",
           "pl": "zapylenie krzyżowe",
-          "new": true
+          "new": true,
+          "ipa_br": "/krɒs ˌpɒlɪˈneɪʃən/"
         },
         {
           "term": "branched",
-          "ipa_br": "/brɑːntʃt/",
           "pl": "rozgałęziony",
-          "new": false
+          "new": false,
+          "ipa_br": "/brɑːntʃt/"
         },
         {
           "term": "forage",
-          "ipa_br": "/ˈfɒrɪdʒ/",
           "pl": "szukać pożywienia",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈfɒrɪdʒ/"
         },
         {
           "term": "drowsy",
-          "ipa_br": "/ˈdraʊzi/",
           "pl": "senny",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈdraʊzi/"
         },
         {
           "term": "hive",
-          "ipa_br": "/haɪv/",
           "pl": "ul",
-          "new": true
+          "new": true,
+          "ipa_br": "/haɪv/"
         },
         {
           "term": "petal",
-          "ipa_br": "/ˈpetəl/",
           "pl": "płatek (kwiatu)",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈpetəl/"
         },
         {
           "term": "hind legs",
-          "ipa_br": "/haɪnd leɡz/",
           "pl": "tylne odnóża",
-          "new": true
+          "new": true,
+          "ipa_br": "/haɪnd leɡz/"
         }
       ],
       "exercises": [
@@ -401,63 +400,63 @@
       "vocab": [
         {
           "term": "embody",
-          "ipa_br": "/ɪmˈbɒdi/",
           "pl": "ucieleśniać",
-          "new": true
+          "new": true,
+          "ipa_br": "/ɪmˈbɒdi/"
         },
         {
           "term": "relentlessly",
-          "ipa_br": "/rɪˈlentləsli/",
           "pl": "niezmordowanie",
-          "new": true
+          "new": true,
+          "ipa_br": "/rɪˈlentləsli/"
         },
         {
           "term": "industrious",
-          "ipa_br": "/ɪnˈdʌstriəs/",
           "pl": "pracowity",
-          "new": true
+          "new": true,
+          "ipa_br": "/ɪnˈdʌstriəs/"
         },
         {
           "term": "sprig",
-          "ipa_br": "/sprɪɡ/",
           "pl": "gałązka, witka",
-          "new": true
+          "new": true,
+          "ipa_br": "/sprɪɡ/"
         },
         {
           "term": "antennae",
-          "ipa_br": "/ænˈteniː/",
           "pl": "czułki",
-          "new": true
+          "new": true,
+          "ipa_br": "/ænˈteniː/"
         },
         {
           "term": "transaction",
-          "ipa_br": "/trænˈzækʃən/",
           "pl": "transakcja, wymiana",
-          "new": false
+          "new": false,
+          "ipa_br": "/trænˈzækʃən/"
         },
         {
           "term": "fertilise",
-          "ipa_br": "/ˈfɜːtɪlaɪz/",
           "pl": "zapłodnić, użyźnić",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈfɜːtɪlaɪz/"
         },
         {
           "term": "underpin",
-          "ipa_br": "/ˌʌndəˈpɪn/",
           "pl": "stanowić podstawę",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˌʌndəˈpɪn/"
         },
         {
           "term": "linger",
-          "ipa_br": "/ˈlɪŋɡə/",
           "pl": "zwlekać, ociągać się",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈlɪŋɡə/"
         },
         {
           "term": "ambassador",
-          "ipa_br": "/æmˈbæsədə/",
           "pl": "ambasador (przen.)",
-          "new": false
+          "new": false,
+          "ipa_br": "/æmˈbæsədə/"
         }
       ],
       "exercises": [
@@ -525,69 +524,69 @@
       "vocab": [
         {
           "term": "apian",
-          "ipa_br": "/ˈeɪpiən/",
           "pl": "pszczeli (lit.)",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈeɪpiən/"
         },
         {
           "term": "gild",
-          "ipa_br": "/ɡɪld/",
           "pl": "pozłacać",
-          "new": true
+          "new": true,
+          "ipa_br": "/ɡɪld/"
         },
         {
           "term": "thorax",
-          "ipa_br": "/ˈθɔːræks/",
           "pl": "tułów (anat.)",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈθɔːræks/"
         },
         {
           "term": "gossamer",
-          "ipa_br": "/ˈɡɒsəmə/",
           "pl": "pajęczyna; cienka tkanina",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈɡɒsəmə/"
         },
         {
           "term": "sub-vocal",
-          "ipa_br": "/sʌb ˈvəʊkəl/",
           "pl": "podgłosowy, poniżej progu słyszenia",
-          "new": true
+          "new": true,
+          "ipa_br": "/sʌb ˈvəʊkəl/"
         },
         {
           "term": "corolla",
-          "ipa_br": "/kəˈrɒlə/",
           "pl": "korona kwiatu",
-          "new": true
+          "new": true,
+          "ipa_br": "/kəˈrɒlə/"
         },
         {
           "term": "calyx",
-          "ipa_br": "/ˈkeɪlɪks/",
           "pl": "kielich kwiatu",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈkeɪlɪks/"
         },
         {
           "term": "mutualism",
-          "ipa_br": "/ˈmjuːtʃʊəlɪzəm/",
           "pl": "mutualizm (symbioza)",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈmjuːtʃʊəlɪzəm/"
         },
         {
           "term": "anthropomorphise",
-          "ipa_br": "/ˌænθrəpəˈmɔːfaɪz/",
           "pl": "antropomorfizować",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˌænθrəpəˈmɔːfaɪz/"
         },
         {
           "term": "courteous",
-          "ipa_br": "/ˈkɜːtiəs/",
           "pl": "uprzejmy, kurtuazyjny",
-          "new": true
+          "new": true,
+          "ipa_br": "/ˈkɜːtiəs/"
         },
         {
           "term": "hinge on",
-          "ipa_br": "/hɪndʒ ɒn/",
           "pl": "zależeć od (przen.)",
-          "new": true
+          "new": true,
+          "ipa_br": "/hɪndʒ ɒn/"
         }
       ],
       "exercises": [
