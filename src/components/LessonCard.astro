@@ -32,6 +32,16 @@ const initialLevel =
 // Word-translation lookup for hover tooltips. Words without a PL gloss
 // in any lesson's vocab get no tooltip (no data-pl attribute).
 const wordIndex = await buildWordIndex();
+
+// Photo capture date — extracted from the image filename convention
+// (/images/YYYY-MM-DD-slug.jpg). Rendered as DD.MM.YYYY under the
+// location line. If a file ever lacks that prefix, we silently omit
+// the date rather than fail.
+const imgFile = data.image.split('/').pop() ?? '';
+const dateMatch = imgFile.match(/^(\d{4})-(\d{2})-(\d{2})/);
+const photoDate = dateMatch
+  ? { iso: `${dateMatch[1]}-${dateMatch[2]}-${dateMatch[3]}`, display: `${dateMatch[3]}.${dateMatch[2]}.${dateMatch[1]}` }
+  : null;
 ---
 <article
   class="lesson-card"
@@ -59,6 +69,9 @@ const wordIndex = await buildWordIndex();
 
     <div class="lesson-card__titles">
       {data.location && <p class="lesson-card__location">📍 {data.location}</p>}
+      {photoDate && (
+        <time class="lesson-card__photo-date" datetime={photoDate.iso}>{photoDate.display}</time>
+      )}
       <h1 class="lesson-card__title-en">{data.title_en}</h1>
       <p class="lesson-card__title-pl">{data.title_pl}</p>
       {data.tags.length > 0 && (
@@ -272,6 +285,22 @@ const wordIndex = await buildWordIndex();
   .lesson-card__location {
     font-size: var(--text-sm);
     color: var(--text-muted);
+    margin-block-end: var(--space-2);
+  }
+
+  /* Tighten the gap when the photo date follows the location — they read
+   * as one two-line meta block rather than two disconnected paragraphs. */
+  .lesson-card__location:has(+ .lesson-card__photo-date) {
+    margin-block-end: 2px;
+  }
+
+  .lesson-card__photo-date {
+    display: block;
+    font-family: var(--font-sans);
+    font-size: var(--text-xs);
+    color: var(--text-faint);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.03em;
     margin-block-end: var(--space-2);
   }
 
