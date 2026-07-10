@@ -1,0 +1,208 @@
+{
+  "id": "2026-07-06-sunset-okuninka-pomost",
+  "date_assigned": "2026-07-06",
+  "date_alternatives": [],
+  "title_en": "Two on the Pier",
+  "title_pl": "Dwoje na pomoście",
+  "location": "Okuninka, Jezioro Białe, Poland",
+  "image": "/images/2026-07-06-sunset-okuninka-pomost.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "summer", "sunset", "lake", "pier", "poland", "silhouette", "togetherness", "reeds", "evening"],
+  "themes": ["togetherness", "companionable-silence", "polish-summer", "lakeside"],
+  "did_you_know": {
+    "en": "The narrow, moving strip of light that appears on water at sunset has a name: 'sun glitter', or a 'glitter path'. It only exists because the water is not perfectly flat. Each small wave has a tilted surface, and — for a fraction of a second — one tilt among them is exactly right to bounce sunlight straight into your eye. Because the waves are moving, different points on the water take turns catching that precise angle, and the effect looks like a shimmering road that connects you to the sun. Over a perfectly calm lake, the sun's reflection would be just one round bright disc. The path you see across the water is entirely a gift of the wind.",
+    "pl": "Wąski, ruchomy pas światła, który pojawia się na wodzie o zachodzie słońca, ma swoją nazwę: to „ścieżka błysków słonecznych” (ang. „sun glitter” lub „glitter path”). Istnieje tylko dlatego, że woda nigdy nie jest doskonale gładka. Każda drobna fala ma pochyloną powierzchnię, i — przez ułamek sekundy — jedno z tych pochyleń ustawia się dokładnie tak, by odbić światło słońca prosto w Twoje oko. Ponieważ fale są w ruchu, różne punkty na wodzie kolejno łapią właściwy kąt, a efekt wygląda jak migocząca droga łącząca Cię ze słońcem. Nad idealnie gładkim jeziorem odbicie słońca byłoby tylko jednym okrągłym jasnym krążkiem. Ścieżka, którą widzisz na wodzie, jest w całości darem wiatru."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: dwie sylwetki na pomoście nad Jeziorem Białym w Okunince, ostatnia godzina dnia, migocząca ścieżka słońca na wodzie. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia — od prostego opisu po refleksję o tym, dlaczego niektóre godziny dnia „lepiej się spędza z kimś”. english360",
+    "fb_caption_en": "Today on English 360°: two silhouettes on a pier over Jezioro Białe in Okuninka, the last hour of the day, a shimmering path of sun on the water. Six CEFR levels, vocab with IPA, comprehension tasks — from simple description to a reflection on why certain hours of the day are 'better spent with someone'. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#Togetherness", "#Okuninka", "#JezioroBiale", "#PolishSummer", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening. The sun is orange and yellow. Two people sit on a pier. They are together. In front of them, tall green plants stand in the water. The sun is very low. Soon it will be night.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór. Słońce jest pomarańczowe i żółte. Dwie osoby siedzą na pomoście. Są razem. Przed nimi, wysokie zielone rośliny stoją w wodzie. Słońce jest bardzo nisko. Wkrótce będzie noc.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": false },
+        { "term": "yellow", "ipa_br": "/ˈjeləʊ/", "pl": "żółty", "new": true },
+        { "term": "sit", "ipa_br": "/sɪt/", "pl": "siedzieć", "new": true },
+        { "term": "pier", "ipa_br": "/pɪə/", "pl": "pomost, molo", "new": true },
+        { "term": "together", "ipa_br": "/təˈɡeðə/", "pl": "razem", "new": true },
+        { "term": "plant", "ipa_br": "/plɑːnt/", "pl": "roślina", "new": true },
+        { "term": "green", "ipa_br": "/ɡriːn/", "pl": "zielony", "new": false },
+        { "term": "low", "ipa_br": "/ləʊ/", "pl": "nisko, niski", "new": false },
+        { "term": "night", "ipa_br": "/naɪt/", "pl": "noc", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "water", "answer": "B" },
+            { "word": "tree", "answer": "C" },
+            { "word": "night", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "💧" },
+            { "label": "C", "text": "🌳" },
+            { "label": "D", "text": "🌙" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "In this picture, two people are sitting at the end of a wooden pier. The sun is going down over a Polish lake, and the sky is red and orange. In front of the pier, tall reeds stand out of the water. In the distance, we can see a dark line of trees on the other shore. The two figures are close to each other. Perhaps they are friends. Perhaps they are a couple. They do not need to speak. The end of the day is enough.",
+      "text_pl": "Na tym zdjęciu dwie osoby siedzą na końcu drewnianego pomostu. Słońce zachodzi nad polskim jeziorem, a niebo jest czerwone i pomarańczowe. Przed pomostem, wysokie trzciny wyrastają z wody. W oddali widać ciemną linię drzew na drugim brzegu. Dwie postacie siedzą blisko siebie. Może są przyjaciółmi. Może są parą. Nie muszą rozmawiać. Koniec dnia im wystarczy.",
+      "vocab": [
+        { "term": "wooden", "ipa_br": "/ˈwʊdən/", "pl": "drewniany", "new": true },
+        { "term": "reed", "ipa_br": "/riːd/", "pl": "trzcina", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość, oddal", "new": true },
+        { "term": "shore", "ipa_br": "/ʃɔː/", "pl": "brzeg (wody)", "new": true },
+        { "term": "figure", "ipa_br": "/ˈfɪɡə/", "pl": "postać, sylwetka", "new": true },
+        { "term": "close", "ipa_br": "/kləʊs/", "pl": "blisko, bliski", "new": true },
+        { "term": "perhaps", "ipa_br": "/pəˈhæps/", "pl": "być może", "new": true },
+        { "term": "friend", "ipa_br": "/frend/", "pl": "przyjaciel, znajomy", "new": true },
+        { "term": "couple", "ipa_br": "/ˈkʌpəl/", "pl": "para", "new": true },
+        { "term": "enough", "ipa_br": "/ɪˈnʌf/", "pl": "wystarczająco, dość", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "In the picture, two people are sitting at the end of a wooden ___.", "answer": "pier" },
+            { "sentence": "The sun is going down over a Polish ___.", "answer": "lake" },
+            { "sentence": "In front of the pier, tall ___ stand out of the water.", "answer": "reeds" },
+            { "sentence": "The two figures are ___ to each other.", "answer": "close" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph of a Polish lake at sunset shows two people sitting on the edge of a long wooden pier, one leaning very slightly toward the other. The scene was taken at Jezioro Białe, near Okuninka in eastern Poland, on the sixth of July 2026, a few minutes before the sun disappears behind the far treeline. Between the pier and the camera, tall reeds rise out of the shallow water, black against the burning sky; a narrow, shimmering path of light connects the low sun to the pier itself. It is impossible to tell from the picture what these two people mean to each other. They might be a couple, a young married pair, or old friends who see each other only in summer. What matters, and what the photograph really captures, is that they are both sitting still, at the same time, for the same reason. Some hours in the day belong to being with someone. This is one of them.",
+      "text_pl": "To zdjęcie polskiego jeziora o zachodzie słońca pokazuje dwie osoby siedzące na skraju długiego drewnianego pomostu, jedną z nich lekko pochyloną w stronę drugiej. Zdjęcie zostało zrobione nad Jeziorem Białym pod Okuninką we wschodniej Polsce, szóstego lipca 2026 roku, kilka minut zanim słońce zniknie za daleką linią drzew. Między pomostem a aparatem z płytkiej wody wyrastają wysokie trzciny, czarne na tle płonącego nieba; wąska, migocząca ścieżka światła łączy niskie słońce z samym pomostem. Nie da się z tego zdjęcia poznać, czym są dla siebie te dwie osoby. Mogą być parą, młodym małżeństwem, albo starymi przyjaciółmi, którzy widują się tylko latem. Ważne — i to naprawdę uchwyciło zdjęcie — jest to, że oboje siedzą nieruchomo, w tym samym momencie, z tego samego powodu. Niektóre godziny dnia należą do bycia z kimś. Ta jest jedną z nich.",
+      "vocab": [
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "skraj, krawędź", "new": true },
+        { "term": "lean", "ipa_br": "/liːn/", "pl": "pochylać się, opierać", "new": true },
+        { "term": "treeline", "ipa_br": "/ˈtriːlaɪn/", "pl": "linia drzew", "new": true },
+        { "term": "shallow", "ipa_br": "/ˈʃæləʊ/", "pl": "płytki", "new": true },
+        { "term": "burning", "ipa_br": "/ˈbɜːnɪŋ/", "pl": "płonący", "new": true },
+        { "term": "shimmering", "ipa_br": "/ˈʃɪmərɪŋ/", "pl": "migoczący", "new": true },
+        { "term": "married", "ipa_br": "/ˈmærid/", "pl": "żonaty, zamężna, w małżeństwie", "new": true },
+        { "term": "still", "ipa_br": "/stɪl/", "pl": "nieruchomo, spokojnie", "new": true },
+        { "term": "reason", "ipa_br": "/ˈriːzən/", "pl": "powód", "new": true },
+        { "term": "belong", "ipa_br": "/bɪˈlɒŋ/", "pl": "należeć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photo was taken at Jezioro Białe, near Okuninka, on the sixth of July 2026.", "answer": true },
+            { "statement": "The two people are standing at the beginning of a stone pier.", "answer": false },
+            { "statement": "Tall reeds rise out of the shallow water between the pier and the camera.", "answer": true },
+            { "statement": "The author knows exactly what the relationship between the two people is.", "answer": false },
+            { "statement": "According to the text, some hours in the day belong to being with someone.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a specific kind of photograph that Polish summer produces almost effortlessly, and this frame is one of them: a lake at sunset, a wooden pier reaching out across the shallow water, and two people sitting quietly at its edge. The picture was taken at Jezioro Białe, near Okuninka in eastern Poland, on the evening of the sixth of July 2026. The sun sits just above the treeline of the far shore; the sky burns a saturated red-orange; on the water, a narrow, moving stripe of light connects the sun to the pier. Between us and the two figures, a low stand of reeds rises from the shallows, silhouetted, close enough to feel like part of the scene rather than a foreground obstacle. What the photograph does not tell us — and this is why it works — is who these two people are. Two silhouettes at sunset carry, by design, no particular relationship. They could be lovers, a married couple, siblings, or two friends who happened to arrive at the same wooden pier for the same reason. And that, quietly, is the point. Some evenings do not belong to any one relationship. They belong to whoever is willing to sit at the end of the day and look, together, at the same thing.",
+      "text_pl": "Istnieje pewien rodzaj fotografii, którą polskie lato produkuje niemal bez wysiłku, i ta klatka do niego należy: jezioro o zachodzie słońca, drewniany pomost sięgający przez płytką wodę i dwie osoby siedzące cicho na jego skraju. Zdjęcie powstało nad Jeziorem Białym pod Okuninką we wschodniej Polsce, wieczorem szóstego lipca 2026 roku. Słońce siedzi tuż nad linią drzew dalekiego brzegu; niebo płonie nasyconą czerwienią i pomarańczem; na wodzie wąski, ruchomy pasek światła łączy słońce z pomostem. Między nami a dwiema sylwetkami z płycizny wyrasta niska ściana trzcin, ukazana jako sylwetka, na tyle blisko, że wydaje się częścią sceny, a nie przeszkodą na pierwszym planie. Czego zdjęcie nam nie mówi — i właśnie dzięki temu działa — to kim są te dwie osoby. Dwie sylwetki o zachodzie słońca z założenia nie niosą ze sobą żadnej konkretnej relacji. Mogą być kochankami, małżeństwem, rodzeństwem albo dwojgiem przyjaciół, którzy przypadkiem trafili na ten sam drewniany pomost, z tego samego powodu. I na tym właśnie, po cichu, polega sens. Niektóre wieczory nie należą do żadnej konkretnej relacji. Należą do każdego, kto zechce usiąść na końcu dnia i patrzeć, razem, na to samo.",
+      "vocab": [
+        { "term": "effortlessly", "ipa_br": "/ˈefətləsli/", "pl": "bez wysiłku, z łatwością", "new": true },
+        { "term": "reach out", "ipa_br": "/riːtʃ aʊt/", "pl": "sięgać, wychodzić", "new": true },
+        { "term": "saturated", "ipa_br": "/ˈsætʃəreɪtɪd/", "pl": "nasycony", "new": true },
+        { "term": "stripe", "ipa_br": "/straɪp/", "pl": "pasek, smuga", "new": true },
+        { "term": "stand", "ipa_br": "/stænd/", "pl": "kępa, ściana (roślin)", "new": true },
+        { "term": "shallows", "ipa_br": "/ˈʃæləʊz/", "pl": "płycizna", "new": true },
+        { "term": "obstacle", "ipa_br": "/ˈɒbstəkəl/", "pl": "przeszkoda", "new": true },
+        { "term": "lover", "ipa_br": "/ˈlʌvə/", "pl": "kochanek, kochanka", "new": true },
+        { "term": "sibling", "ipa_br": "/ˈsɪblɪŋ/", "pl": "rodzeństwo", "new": true },
+        { "term": "relationship", "ipa_br": "/rɪˈleɪʃənʃɪp/", "pl": "związek, relacja", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The picture was taken on the sixth of July 2026 at Jezioro Białe near Okuninka.", "answer": true },
+            { "statement": "The two figures at the pier are clearly identified as a married couple.", "answer": false },
+            { "statement": "The author writes that the reeds feel like part of the scene rather than a foreground obstacle.", "answer": true },
+            { "statement": "According to the text, some evenings belong to whoever is willing to sit and look together at the same thing.", "answer": true },
+            { "statement": "The narrow, moving stripe of light on the water connects the sun to the far shore.", "answer": false },
+            { "statement": "The author claims that two silhouettes at sunset, by design, carry no particular relationship.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a photographic composition that Polish lakes seem to make on their own: two figures at the end of a wooden pier, a low band of reeds in the foreground, and the sun a few minutes above the far treeline. This one was taken at Jezioro Białe, near Okuninka in the Włodawa lake district, on the sixth of July 2026 — a Monday evening in the deep first week of high summer. What the picture captures most precisely is not the sunset, which is common enough over any lake in July, but the particular posture of the two figures on the pier: leaning very slightly toward one another, motionless, at the exact hour when speech feels neither necessary nor quite forbidden. Languages have no clean word for that hour. English will settle for 'companionable silence'; Polish, more shyly, has no single term at all. But the phenomenon is unmistakable: a shared refusal to look away, held in place by nothing more than the fact that the day is still, for a few more minutes, entirely available. The photograph is honest about how small this is, and about how much, in the end, it seems to matter.",
+      "text_pl": "Istnieje kompozycja fotograficzna, którą polskie jeziora wydają się układać same: dwie postacie na końcu drewnianego pomostu, niskie pasmo trzcin na pierwszym planie i słońce kilka minut nad daleką linią drzew. Ta powstała nad Jeziorem Białym pod Okuninką, w powiecie włodawskim, szóstego lipca 2026 roku — poniedziałkowego wieczoru, w głębokim pierwszym tygodniu pełni lata. To, co zdjęcie uchwyca najprecyzyjniej, nie jest sam zachód słońca, który jest dostatecznie pospolity nad każdym jeziorem w lipcu, lecz szczególna postawa dwóch sylwetek na pomoście: lekko pochylonych ku sobie, nieruchomych, dokładnie w tej godzinie, w której mowa nie wydaje się już konieczna, ale też nie do końca zakazana. Języki nie mają dla tej godziny czystego słowa. Angielski zadowala się terminem „companionable silence” („towarzyska cisza”); polski, nieśmielej, nie ma pojedynczego terminu w ogóle. Zjawisko jest jednak niewątpliwe: wspólna odmowa odwrócenia wzroku, trzymana w miejscu przez nic więcej niż fakt, że dzień jest jeszcze przez kilka minut w całości dostępny. Zdjęcie jest uczciwe co do tego, jak drobne to jest — i jak bardzo w końcu wydaje się to ważyć.",
+      "vocab": [
+        { "term": "composition", "ipa_br": "/ˌkɒmpəˈzɪʃən/", "pl": "kompozycja", "new": true },
+        { "term": "band", "ipa_br": "/bænd/", "pl": "pasmo, pas", "new": true },
+        { "term": "foreground", "ipa_br": "/ˈfɔːɡraʊnd/", "pl": "pierwszy plan", "new": true },
+        { "term": "posture", "ipa_br": "/ˈpɒstʃə/", "pl": "postawa", "new": true },
+        { "term": "motionless", "ipa_br": "/ˈməʊʃənləs/", "pl": "nieruchomy", "new": true },
+        { "term": "forbidden", "ipa_br": "/fəˈbɪdən/", "pl": "zakazany", "new": true },
+        { "term": "companionable", "ipa_br": "/kəmˈpænjənəbəl/", "pl": "towarzyski (o milczeniu, ciszy)", "new": true },
+        { "term": "shyly", "ipa_br": "/ˈʃaɪli/", "pl": "nieśmiało", "new": true },
+        { "term": "phenomenon", "ipa_br": "/fəˈnɒmɪnən/", "pl": "zjawisko", "new": true },
+        { "term": "unmistakable", "ipa_br": "/ˌʌnmɪˈsteɪkəbəl/", "pl": "niewątpliwy, oczywisty", "new": true },
+        { "term": "refusal", "ipa_br": "/rɪˈfjuːzəl/", "pl": "odmowa", "new": true },
+        { "term": "available", "ipa_br": "/əˈveɪləbəl/", "pl": "dostępny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on a Monday evening in the deep first week of high summer.", "answer": true },
+            { "statement": "According to the text, the picture captures most precisely the sunset itself rather than the posture of the two figures.", "answer": false },
+            { "statement": "English settles for 'companionable silence' to describe such an hour.", "answer": true },
+            { "statement": "The text claims Polish has a single dedicated term for this particular hour of the day.", "answer": false },
+            { "statement": "The author describes the phenomenon as a shared refusal to look away.", "answer": true },
+            { "statement": "The photograph is described as dishonest about how small the moment is.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a photographic subgenre — recognised without ever being named — that consists entirely of two silhouettes at the end of a summer day, and this frame belongs squarely to it. The setting is Jezioro Białe, near Okuninka in the Łęczna–Włodawa lake district of eastern Poland, on the evening of the sixth of July 2026: a wooden pier extending shallowly across the water, a saturated orange sky above the treeline of the far shore, a delicate glitter path connecting the low sun to the boards where two people sit close together. In the foreground, a stand of reeds rises from the water like a dark palisade, allowing the eye through only in narrow gaps. The two figures at the pier's edge are undefined by any relationship in particular — and the picture, wisely, does not force one on us. What the composition proposes, in place of a label, is a kind of gentle argument: that certain hours of the day exert a small gravitational pull on human beings, and that the pull is easier to give in to in the company of one other person than alone. This is not, strictly, a picture of a sunset. It is a picture of the pause a sunset makes possible between two people who have not, in that instant, decided anything about each other except that they will both sit down and watch.",
+      "text_pl": "Istnieje fotograficzny podgatunek — rozpoznawany, choć nigdy formalnie nienazwany — który składa się w całości z dwóch sylwetek na końcu letniego dnia, i ta klatka wpisuje się w niego wprost. Scena to Jezioro Białe pod Okuninką, w Pojezierzu Łęczyńsko-Włodawskim we wschodniej Polsce, wieczorem szóstego lipca 2026 roku: drewniany pomost sięgający płytko w wodę, nasycone pomarańczowe niebo nad linią drzew dalekiego brzegu, delikatna ścieżka migoczącego światła łącząca niskie słońce z deskami, na których dwie osoby siedzą blisko siebie. Na pierwszym planie kępa trzcin wyrasta z wody niczym ciemna palisada, pozwalając oku przedostać się tylko przez wąskie szczeliny. Dwie sylwetki na skraju pomostu nie są zdefiniowane przez żadną konkretną relację — i zdjęcie, mądrze, żadnej nam nie narzuca. Kompozycja, zamiast etykiety, proponuje pewną łagodną tezę: że pewne godziny dnia wywierają na człowieku drobne przyciąganie, jakby grawitacyjne, i że przyciąganiu temu łatwiej jest ulec w towarzystwie jednej innej osoby niż samemu. To nie jest, ściśle rzecz biorąc, zdjęcie zachodu słońca. To zdjęcie pauzy, jaką zachód słońca umożliwia między dwojgiem ludzi, którzy w tej chwili nie rozstrzygnęli o sobie nic, poza tym, że oboje usiądą i będą patrzeć.",
+      "vocab": [
+        { "term": "subgenre", "ipa_br": "/ˌsʌbˈʒɒnrə/", "pl": "podgatunek", "new": true },
+        { "term": "glitter path", "ipa_br": "/ˈɡlɪtə pɑːθ/", "pl": "ścieżka błysków słonecznych (odbicie słońca na wodzie)", "new": true },
+        { "term": "delicate", "ipa_br": "/ˈdelɪkət/", "pl": "delikatny", "new": true },
+        { "term": "board", "ipa_br": "/bɔːd/", "pl": "deska", "new": true },
+        { "term": "palisade", "ipa_br": "/ˌpælɪˈseɪd/", "pl": "palisada", "new": true },
+        { "term": "undefined", "ipa_br": "/ˌʌndɪˈfaɪnd/", "pl": "nieokreślony, niezdefiniowany", "new": true },
+        { "term": "gentle", "ipa_br": "/ˈdʒentəl/", "pl": "łagodny", "new": true },
+        { "term": "argument", "ipa_br": "/ˈɑːɡjumənt/", "pl": "argument, teza", "new": true },
+        { "term": "exert", "ipa_br": "/ɪɡˈzɜːt/", "pl": "wywierać (wpływ, siłę)", "new": true },
+        { "term": "gravitational", "ipa_br": "/ˌɡrævɪˈteɪʃənəl/", "pl": "grawitacyjny", "new": true },
+        { "term": "instant", "ipa_br": "/ˈɪnstənt/", "pl": "chwila, moment", "new": true },
+        { "term": "pause", "ipa_br": "/pɔːz/", "pl": "pauza, przerwa", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The photograph was taken on the evening of the sixth of July 2026 at Jezioro Białe near Okuninka.", "answer": true },
+            { "statement": "The stand of reeds in the foreground allows the eye through in wide, unobstructed spaces.", "answer": false },
+            { "statement": "The author writes that the picture wisely does not force a particular relationship label on the two figures.", "answer": true },
+            { "statement": "According to the text, certain hours of the day exert a small gravitational pull on human beings.", "answer": true },
+            { "statement": "The closing sentence claims that the picture is, strictly speaking, only a picture of a sunset.", "answer": false },
+            { "statement": "The composition is described as a kind of gentle argument that certain hours are easier to give in to in the company of one other person than alone.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
