@@ -3,9 +3,13 @@ import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_LABELS_FULL, type CefrLevel } from
 
 interface Props {
   availableLevels: readonly CefrLevel[];
+  /** Unique prefix for tab/panel element IDs. Required whenever more than
+   *  one lesson card can appear on the same page (e.g. multiple lessons
+   *  assigned to today) so aria-controls stays unambiguous. */
+  lessonId: string;
 }
 
-const { availableLevels } = Astro.props;
+const { availableLevels, lessonId } = Astro.props;
 ---
 <div class="level-tabs" role="tablist" aria-label="Wybierz poziom CEFR">
   {CEFR_LEVELS.map((level) => {
@@ -15,8 +19,8 @@ const { availableLevels } = Astro.props;
       <button
         type="button"
         role="tab"
-        id={`tab-${level}`}
-        aria-controls={`panel-${level}`}
+        id={`${lessonId}-tab-${level}`}
+        aria-controls={`${lessonId}-panel-${level}`}
         aria-selected="false"
         aria-label={isAvailable ? fullLabel : `${fullLabel} — sekcja w przygotowaniu`}
         tabindex="-1"
@@ -32,7 +36,7 @@ const { availableLevels } = Astro.props;
   })}
 </div>
 
-<p class="level-tabs__hint" id="level-tabs-hint">
+<p class="level-tabs__hint">
   <kbd>1</kbd>–<kbd>6</kbd> przełącza poziomy.
   <kbd>←</kbd> <kbd>→</kbd> przewija po zakładkach. <kbd>Space</kbd> startuje odczyt.
 </p>

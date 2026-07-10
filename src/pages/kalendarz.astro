@@ -45,10 +45,12 @@ function weekdayIndex(y: number, monthNum: number, d: number): number {
   return dow === 0 ? 6 : dow - 1;
 }
 
+type CalendarMapGet = (typeof calendar)['get'];
+type LessonList = NonNullable<ReturnType<CalendarMapGet>>;
+
 type Cell =
   | { kind: 'empty' }
-  | { kind: 'day'; day: number; md: string; lesson: ReturnType<CalendarMapGet> | null; isToday: boolean };
-type CalendarMapGet = (typeof calendar)['get'];
+  | { kind: 'day'; day: number; md: string; lessons: LessonList; isToday: boolean };
 
 function buildMonth(monthNum: number): Cell[] {
   const total = daysInMonth(year, monthNum);
@@ -61,7 +63,7 @@ function buildMonth(monthNum: number): Cell[] {
       kind: 'day',
       day: d,
       md,
-      lesson: calendar.get(md) ?? null,
+      lessons: calendar.get(md) ?? [],
       isToday: md === todayMd,
     });
   }
@@ -102,7 +104,7 @@ const totalLessonsThisYear = [...calendar.values()].length;
       {MONTHS.map((month, idx) => {
         const monthNum = idx + 1;
         const cells = buildMonth(monthNum);
-        const lessonCount = cells.filter((c) => c.kind === 'day' && c.lesson).length;
+        const lessonCount = cells.filter((c) => c.kind === 'day' && c.lessons.length > 0).length;
         const totalDays = cells.filter((c) => c.kind === 'day').length;
         return (
           <section class="calendar-month" id={`month-${monthNum}`} aria-labelledby={`month-h-${monthNum}`}>
@@ -130,33 +132,47 @@ const totalLessonsThisYear = [...calendar.values()].length;
                 if (cell.kind === 'empty') {
                   return <li class="day day--empty" aria-hidden="true"></li>;
                 }
-                if (!cell.lesson) {
+                if (cell.lessons.length === 0) {
                   return (
                     <li class:list={['day', cell.isToday && 'day--today']}>
                       <span class="day__num">{cell.day}</span>
                     </li>
                   );
                 }
-                const l = cell.lesson.data;
+                const primary = cell.lessons[0];
                 const date = `${cell.md.slice(0, 2)}.${cell.md.slice(3)}`;
+                const multi = cell.lessons.length > 1;
                 return (
                   <li
-                    class:list={['day', 'day--has-lesson', cell.isToday && 'day--today']}
-                    style={`--day-bg-image: url('${withBase(l.image)}')`}
+                    class:list={['day', 'day--has-lesson', cell.isToday && 'day--today', multi && 'day--multi']}
+                    style={`--day-bg-image: url('${withBase(primary.data.image)}')`}
                   >
                     <a
-                      href={withBase(`/lekcja/${cell.lesson.id}`)}
+                      href={withBase(`/lekcja/${primary.id}`)}
                       class="day__link"
-                      aria-label={`${date} — ${l.title_pl}`}
+                      aria-label={multi
+                        ? `${date} — ${primary.data.title_pl} (i ${cell.lessons.length - 1} więcej)`
+                        : `${date} — ${primary.data.title_pl}`}
                     >
                       <span class="day__num">{cell.day}</span>
                     </a>
-                    <div class="day__preview" role="presentation">
-                      <img src={withBase(l.image)} alt="" loading="lazy" width="224" height="140" />
-                      <div class="day__preview-meta">
-                        <p class="day__preview-title">{l.title_pl}</p>
-                        <p class="day__preview-en">{l.title_en}</p>
-                      </div>
+                    {multi && (
+                      <span class="day__badge" aria-label={`${cell.lessons.length} lekcji tego dnia`}>{cell.lessons.length}</span>
+                    )}
+                    <div class="day__preview">
+                      {cell.lessons.map((cellLesson) => (
+                        <a
+                          href={withBase(`/lekcja/${cellLesson.id}`)}
+                          class="day__preview-item"
+                          aria-label={cellLesson.data.title_pl}
+                        >
+                          <img src={withBase(cellLesson.data.image)} alt="" loading="lazy" width="224" height="140" />
+                          <div class="day__preview-meta">
+                            <p class="day__preview-title">{cellLesson.data.title_pl}</p>
+                            <p class="day__preview-en">{cellLesson.data.title_en}</p>
+                          </div>
+                        </a>
+                      ))}
                     </div>
                   </li>
                 );
@@ -492,12 +508,36 @@ const totalLessonsThisYear = [...calendar.values()].length;
     pointer-events: none;
   }
 
+  /* ── Multi-lesson badge (2+ lessons on one day) ────────────── */
+
+  .day__badge {
+    position: absolute;
+    inset-block-start: 2px;
+    inset-inline-end: 2px;
+    min-inline-size: 1.1rem;
+    block-size: 1.1rem;
+    padding: 0 4px;
+    background: var(--accent);
+    color: var(--accent-fg);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-sans);
+    font-size: 0.65rem;
+    font-weight: 800;
+    line-height: 1.1rem;
+    text-align: center;
+    pointer-events: none;
+    box-shadow: 0 1px 3px color-mix(in srgb, var(--bg) 65%, transparent);
+    z-index: 2;
+  }
+
   /* ── Hover preview ─────────────────────────────────────────── */
 
   .day__preview {
     position: absolute;
     inset-inline-start: 50%;
-    inset-block-end: calc(100% + var(--space-2));
+    /* No visual gap: preview visually touches the cell so hover chain
+     * survives when the pointer moves from the cell into the preview. */
+    inset-block-end: 100%;
     transform: translateX(-50%) translateY(4px);
     width: 14rem;
     background: var(--surface);
@@ -510,6 +550,25 @@ const totalLessonsThisYear = [...calendar.values()].length;
     pointer-events: none;
     z-index: 20;
     transition: opacity 160ms ease, visibility 160ms ease, transform 160ms ease;
+    /* When many lessons share the day, stack becomes scrollable rather
+     * than blowing past the viewport. */
+    max-block-size: 24rem;
+    overflow-y: auto;
+  }
+
+  .day__preview-item {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .day__preview-item:hover {
+    background: var(--surface-2);
+    text-decoration: none;
+  }
+
+  .day__preview-item + .day__preview-item {
+    border-block-start: 1px solid var(--border);
   }
 
   .day__preview img {
@@ -542,10 +601,12 @@ const totalLessonsThisYear = [...calendar.values()].length;
 
   @media (hover: hover) and (pointer: fine) {
     .day--has-lesson:hover .day__preview,
+    .day--has-lesson:has(.day__preview:hover) .day__preview,
     .day:has(.day__link:focus-visible) .day__preview {
       opacity: 1;
       visibility: visible;
       transform: translateX(-50%) translateY(0);
+      pointer-events: auto;
     }
   }
 

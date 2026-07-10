@@ -5,51 +5,92 @@ import LessonCard from '../components/LessonCard.astro';
 import { withBase } from '../lib/paths.js';
 
 // "Today" at build time. (Static generation: this is frozen until the next
-// build. Phase 2 will add a daily cron build + JS fallback that redirects to
-// the right lesson when the browser's date no longer matches the build.)
+// build. The GitHub Pages workflow runs a monthly cron so the calendar year
+// rolls over even without content commits.)
 const today = new Date().toISOString().slice(0, 10);
 
 const lessons = await getCollection('lessons');
 
-// Find lesson(s) assigned to today, prefer exact date_assigned over alternatives.
-const exactMatch = lessons.find((l) => l.data.date_assigned === today);
-const altMatch = lessons.find((l) => l.data.date_alternatives.includes(today));
-
-// Fallback: most recent lesson on or before today, descending.
-// Future-dated drafts (date_assigned > today) are excluded so they don't
-// surface as "the latest" before their scheduled day.
-const sorted = [...lessons]
-  .filter((l) => l.data.date_assigned <= today)
+// All lessons that legitimately claim today, newest-first. date_assigned
+// entries take priority over date_alternatives; dedup by id in case a
+// lesson lists today in both channels.
+const exactMatches = lessons
+  .filter((l) => l.data.date_assigned === today)
+  .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
+const altMatches = lessons
+  .filter((l) => l.data.date_alternatives.includes(today))
   .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
 
-const todaysLesson = exactMatch ?? altMatch ?? sorted[0];
-const isFallback = !exactMatch && !altMatch;
+const seen = new Set<string>();
+const todaysLessons: typeof lessons = [];
+for (const l of [...exactMatches, ...altMatches]) {
+  if (!seen.has(l.id)) {
+    seen.add(l.id);
+    todaysLessons.push(l);
+  }
+}
 
-if (!todaysLesson) {
+// Fallback: most recent lesson on or before today. Only one — the fallback
+// path is for "no lesson today, show the freshest thing that exists" and
+// stacking a couple of yesterday's lessons under that banner would be
+// misleading.
+let isFallback = false;
+if (todaysLessons.length === 0) {
+  const sorted = [...lessons]
+    .filter((l) => l.data.date_assigned <= today)
+    .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
+  if (sorted[0]) {
+    todaysLessons.push(sorted[0]);
+    isFallback = true;
+  }
+}
+
+if (todaysLessons.length === 0) {
   throw new Error('Brak żadnej lekcji w src/content/lessons/. Dodaj choć jedną.');
 }
+
+const primary = todaysLessons[0];
+const multi = todaysLessons.length > 1;
+
+const description = multi
+  ? `English 360° — ${todaysLessons.length} lekcje na ${today}: ${todaysLessons.map((l) => l.data.title_pl).join(' · ')}.`
+  : `English 360° — lekcja na ${today}: ${primary.data.title_pl}.`;
 ---
 <BaseLayout
   title="Lekcja dnia"
-  description={`English 360° — lekcja na ${today}: ${todaysLesson.data.title_pl}.`}
-  ogImage={withBase(todaysLesson.data.image)}
+  description={description}
+  ogImage={withBase(primary.data.image)}
 >
   <div class="page">
     {isFallback && (
       <div class="today-banner" role="status">
         <p>
           <strong>Dziś nie ma nowej lekcji.</strong> Oto ostatnia dostępna,
-          z dnia {todaysLesson.data.date_assigned}.
+          z dnia {primary.data.date_assigned}.
         </p>
       </div>
     )}
 
-    <LessonCard lesson={todaysLesson} />
+    {multi && (
+      <div class="today-multi" role="status">
+        <p>
+          Na dziś przypada <strong>{todaysLessons.length}</strong> {todaysLessons.length < 5 ? 'lekcje' : 'lekcji'} —
+          każda z osobnym zdjęciem i osobnym słownictwem. Przewiń w dół, by zobaczyć kolejną.
+        </p>
+      </div>
+    )}
+
+    <div class="lessons-stack">
+      {todaysLessons.map((lesson) => (
+        <LessonCard lesson={lesson} />
+      ))}
+    </div>
   </div>
 </BaseLayout>
 
 <style>
-  .today-banner {
+  .today-banner,
+  .today-multi {
     margin-block-end: var(--space-5);
     padding: var(--space-3) var(--space-4);
     background: var(--surface-2);
@@ -57,5 +98,11 @@ if (!todaysLesson) {
     border-radius: var(--radius-md);
     font-size: var(--text-sm);
     color: var(--text);
+  }
+
+  .lessons-stack {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
   }
 </style>

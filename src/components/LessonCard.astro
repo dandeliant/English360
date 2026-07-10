@@ -78,7 +78,7 @@ const wordIndex = await buildWordIndex();
     </div>
   </header>
 
-  <LevelTabs availableLevels={availableLevels} />
+  <LevelTabs availableLevels={availableLevels} lessonId={lesson.id} />
 
   {CEFR_LEVELS.map((level) => {
     const content = data.levels[level];
@@ -87,8 +87,8 @@ const wordIndex = await buildWordIndex();
     return (
       <section
         role="tabpanel"
-        id={`panel-${level}`}
-        aria-labelledby={`tab-${level}`}
+        id={`${lesson.id}-panel-${level}`}
+        aria-labelledby={`${lesson.id}-tab-${level}`}
         data-level-panel={level}
         class:list={['lesson-panel', `lesson-panel--${level.toLowerCase()}`]}
         hidden={!isInitial}
