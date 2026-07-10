@@ -1,0 +1,22 @@
+{
+  "name": "English 360°",
+  "short_name": "EN 360°",
+  "description": "Codzienna lekcja angielskiego oparta na zdjęciu, na sześciu poziomach CEFR (A1–C2).",
+  "start_url": "/English360/",
+  "scope": "/English360/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#6a1b9a",
+  "background_color": "#fafafa",
+  "lang": "pl",
+  "dir": "ltr",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "/English360/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
