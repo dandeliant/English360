@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { buildCalendarIndex } from '../utils/calendar-index.ts';
+import { withBase } from '../lib/paths.js';
 
 const MONTHS = [
   { en: 'January',   pl: 'Styczeń' },
@@ -141,17 +142,17 @@ const totalLessonsThisYear = [...calendar.values()].length;
                 return (
                   <li
                     class:list={['day', 'day--has-lesson', cell.isToday && 'day--today']}
-                    style={`--day-bg-image: url('${l.image}')`}
+                    style={`--day-bg-image: url('${withBase(l.image)}')`}
                   >
                     <a
-                      href={`/lekcja/${cell.lesson.id}`}
+                      href={withBase(`/lekcja/${cell.lesson.id}`)}
                       class="day__link"
                       aria-label={`${date} — ${l.title_pl}`}
                     >
                       <span class="day__num">{cell.day}</span>
                     </a>
                     <div class="day__preview" role="presentation">
-                      <img src={l.image} alt="" loading="lazy" width="224" height="140" />
+                      <img src={withBase(l.image)} alt="" loading="lazy" width="224" height="140" />
                       <div class="day__preview-meta">
                         <p class="day__preview-title">{l.title_pl}</p>
                         <p class="day__preview-en">{l.title_en}</p>

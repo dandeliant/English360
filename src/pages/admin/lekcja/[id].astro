@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import AdminLoginGate from '../../../components/AdminLoginGate.astro';
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { CEFR_LEVELS, CEFR_DESCRIPTIONS } from '../../../utils/cefr.ts';
+import { withBase } from '../../../lib/paths.js';
 
 export async function getStaticPaths() {
   const lessons = await getCollection('lessons');
@@ -29,9 +30,9 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
 
     <p class="admin__breadcrumb">
       <span>
-        <a href="/admin">← Panel admina</a>
+        <a href={withBase('/admin')}>← Panel admina</a>
         {' · '}
-        <a href={`/lekcja/${lesson.id}`} target="_blank" rel="noopener">podgląd lekcji ↗</a>
+        <a href={withBase(`/lekcja/${lesson.id}`)} target="_blank" rel="noopener">podgląd lekcji ↗</a>
       </span>
       <span class="admin__session">
         zalogowany jako <strong data-admin-session-user></strong>
@@ -114,7 +115,7 @@ const orientationOptions = ['landscape', 'portrait', 'square'] as const;
 
         {data.image && (
           <div class="admin-form__preview">
-            <img src={data.image} alt="podgląd" loading="lazy" />
+            <img src={withBase(data.image)} alt="podgląd" loading="lazy" />
           </div>
         )}
 

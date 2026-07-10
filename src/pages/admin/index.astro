@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AdminLoginGate from '../../components/AdminLoginGate.astro';
 import { getCollection } from 'astro:content';
 import { buildWordIndex } from '../../utils/word-index.ts';
+import { withBase } from '../../lib/paths.js';
 
 const lessons = await getCollection('lessons');
 const sorted = [...lessons].sort((a, b) =>
@@ -19,7 +20,7 @@ const dictCount = dict.size;
     <div data-admin-gated hidden>
       <header class="admin__header">
         <p class="admin__breadcrumb">
-          <a href="/">← Strona główna</a>
+          <a href={withBase('/')}>← Strona główna</a>
           <span class="admin__session">
             zalogowany jako <strong data-admin-session-user></strong>
             <button type="button" class="admin__logout" data-admin-logout>wyloguj</button>
@@ -39,7 +40,7 @@ const dictCount = dict.size;
       <ul class="admin__list">
         {sorted.map((l) => (
           <li class="admin__list-item">
-            <a class="admin__list-link" href={`/admin/lekcja/${l.id}`}>
+            <a class="admin__list-link" href={withBase(`/admin/lekcja/${l.id}`)}>
               <span class="admin__list-date">{l.data.date_assigned}</span>
               <span class="admin__list-title">{l.data.title_pl}</span>
               <span class="admin__list-sub">{l.data.title_en}</span>
@@ -53,7 +54,7 @@ const dictCount = dict.size;
         <h2>Słownik ({dictCount} haseł)</h2>
         <p class="admin__lead">
           Edycja tłumaczeń słów. Idź do{' '}
-          <a href="/slownik">listy słownika</a>{' '}
+          <a href={withBase('/slownik')}>listy słownika</a>{' '}
           albo otwórz dowolne słowo w lekcji — w nagłówku strony słownika
           pojawi się przycisk <strong>✏ Edytuj</strong> (widoczny tylko gdy
           jesteś zalogowany). Wpisana zmiana zapisuje się w

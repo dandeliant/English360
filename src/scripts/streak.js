@@ -80,7 +80,7 @@ function updateStreak() {
 }
 
 function markCurrentLessonRead() {
-  const match = window.location.pathname.match(/^\/lekcja\/([^/]+)\/?$/);
+  const match = window.location.pathname.match(/\/lekcja\/([^/]+)\/?$/);
   if (!match) return;
   const id = match[1];
   const s = read() || { lastVisit: todayIso(), days: 1, longest: 1, lessonsRead: [] };

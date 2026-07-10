@@ -7,6 +7,7 @@ import Exercise from './Exercise.astro';
 import { tokenize } from '../utils/text-tokenize.ts';
 import { buildWordIndex } from '../utils/word-index.ts';
 import { CEFR_LEVELS, CEFR_DESCRIPTIONS, CEFR_NAMES_EN, DEFAULT_LEVEL, type CefrLevel } from '../utils/cefr.ts';
+import { withBase } from '../lib/paths.js';
 import type { CollectionEntry } from 'astro:content';
 
 interface Props {
@@ -41,7 +42,7 @@ const wordIndex = await buildWordIndex();
   <header class="lesson-card__header">
     <figure class="lesson-card__figure">
       <img
-        src={data.image}
+        src={withBase(data.image)}
         alt={data.title_en}
         class:list={['lesson-card__image', `lesson-card__image--${data.image_orientation}`]}
         loading="eager"
@@ -133,7 +134,7 @@ const wordIndex = await buildWordIndex();
                         return (
                           <a
                             class="word-link tts-word"
-                            href={`/slownik/${tok.slug}`}
+                            href={withBase(`/slownik/${tok.slug}`)}
                             data-lemma={tok.lemma}
                             data-pl={pl || undefined}
                           >{tok.text}</a>

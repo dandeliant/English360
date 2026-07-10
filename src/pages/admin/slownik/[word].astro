@@ -3,6 +3,7 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import AdminLoginGate from '../../../components/AdminLoginGate.astro';
 import { buildWordIndex, type DictEntry } from '../../../utils/word-index.ts';
 import { loadWiktionary } from '../../../utils/wiktionary-cache.ts';
+import { withBase } from '../../../lib/paths.js';
 
 export async function getStaticPaths() {
   const index = await buildWordIndex();
@@ -29,9 +30,9 @@ const translations = entry.translationsPl;
     <div data-admin-gated hidden>
       <p class="admin__breadcrumb">
         <span>
-          <a href="/admin">← Panel admina</a>
+          <a href={withBase('/admin')}>← Panel admina</a>
           {' · '}
-          <a href={`/slownik/${entry.slug}`} target="_blank" rel="noopener">podgląd ↗</a>
+          <a href={withBase(`/slownik/${entry.slug}`)} target="_blank" rel="noopener">podgląd ↗</a>
         </span>
         <span class="admin__session">
           zalogowany jako <strong data-admin-session-user></strong>

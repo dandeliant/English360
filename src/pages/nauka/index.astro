@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { withBase } from '../../lib/paths.js';
 ---
 <BaseLayout
   title="Moja nauka · English 360°"
@@ -25,7 +26,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     <section class="nauka__stats" aria-label="Statystyki" data-stats-empty>
       <p class="nauka__empty">
         Nie masz jeszcze żadnych słówek w swojej liście.
-        Wejdź na <a href="/slownik">słownik</a> albo dowolną lekcję
+        Wejdź na <a href={withBase('/slownik')}>słownik</a> albo dowolną lekcję
         i kliknij ☆ obok słowa, by je dodać.
       </p>
     </section>
@@ -50,7 +51,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
     </section>
 
     <div class="nauka__cta" data-cta hidden>
-      <a href="/nauka/sesja" class="nauka__cta-btn" data-cta-link>
+      <a href={withBase('/nauka/sesja')} class="nauka__cta-btn" data-cta-link>
         Rozpocznij sesję
         <span class="nauka__cta-count" data-cta-count></span>
       </a>
@@ -74,6 +75,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
 <script>
   import { readState, getCounts, getAllStarredSlugs, getSrsEntry, onChange } from '../../scripts/vocab-state.js';
+  import { withBase } from '../../lib/paths.js';
 
   type Filter = 'all' | 'due' | 'learning' | 'mastered';
 
@@ -175,7 +177,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       li.className = 'nauka__row';
       li.dataset.cls = classifyEntry(slug);
       li.innerHTML = `
-        <a class="nauka__word" href="/slownik/${slug}">${escapeHtml(slug)}</a>
+        <a class="nauka__word" href="${escapeHtml(withBase('/slownik/' + slug))}">${escapeHtml(slug)}</a>
         <span class="nauka__when">${escapeHtml(dueLabel(slug))}</span>
         <span class="nauka__status">${escapeHtml(statusLabel(slug))}</span>
         <button type="button" class="nauka__remove" data-remove="${escapeHtml(slug)}" aria-label="Usuń z listy">×</button>

@@ -5,6 +5,7 @@ import { buildWordIndex } from '../../utils/word-index.ts';
 import { tokenize } from '../../utils/text-tokenize.ts';
 import { CEFR_DESCRIPTIONS } from '../../utils/cefr.ts';
 import { loadWiktionary } from '../../utils/wiktionary-cache.ts';
+import { withBase } from '../../lib/paths.js';
 
 export async function getStaticPaths() {
   const index = await buildWordIndex();
@@ -29,9 +30,9 @@ const wordIndex = await buildWordIndex();
 >
   <div class="page word-page">
     <p class="word-page__breadcrumb">
-      <a href="/slownik">← Słownik</a>
+      <a href={withBase('/slownik')}>← Słownik</a>
       <a
-        href={`/admin/slownik/${entry.slug}`}
+        href={withBase(`/admin/slownik/${entry.slug}`)}
         class="word-page__edit-link"
         data-admin-only
         hidden
@@ -125,14 +126,14 @@ const wordIndex = await buildWordIndex();
                 return (
                   <a
                     class="word-link"
-                    href={`/slownik/${tok.slug}`}
+                    href={withBase(`/slownik/${tok.slug}`)}
                     data-pl={pl || undefined}
                   >{tok.text}</a>
                 );
               })}
             </p>
             <p class="occurrence__source">
-              <a href={`/lekcja/${occ.lessonId}`}>{occ.lessonTitlePl}</a>
+              <a href={withBase(`/lekcja/${occ.lessonId}`)}>{occ.lessonTitlePl}</a>
               <span class="occurrence__sep" aria-hidden="true">·</span>
               <span class={`occurrence__level occurrence__level--${occ.level.toLowerCase()}`}>
                 {occ.level} {CEFR_DESCRIPTIONS[occ.level]}

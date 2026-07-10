@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { buildWordIndex } from '../../utils/word-index.ts';
+import { withBase } from '../../lib/paths.js';
 
 /**
  * The session page is static HTML. It bakes a JSON-encoded map of
@@ -34,7 +35,7 @@ for (const [slug, entry] of index.entries()) {
 >
   <div class="page sesja">
     <header class="sesja__header">
-      <p class="sesja__breadcrumb"><a href="/nauka">← Moja nauka</a></p>
+      <p class="sesja__breadcrumb"><a href={withBase('/nauka')}>← Moja nauka</a></p>
       <h1 class="visually-hidden">Sesja powtórek</h1>
       <div class="sesja__progress">
         <span class="sesja__progress-current" data-current>0</span>
@@ -89,7 +90,7 @@ for (const [slug, entry] of index.entries()) {
       <h2 class="sesja__done-title">🎉 Sesja zakończona</h2>
       <p class="sesja__done-text" data-done-text></p>
       <div class="sesja__done-actions">
-        <a href="/nauka" class="sesja__done-btn">Wróć do mojej nauki</a>
+        <a href={withBase('/nauka')} class="sesja__done-btn">Wróć do mojej nauki</a>
       </div>
     </section>
 
@@ -100,8 +101,8 @@ for (const [slug, entry] of index.entries()) {
         Wpadnij jutro albo dodaj nowe słówka.
       </p>
       <div class="sesja__done-actions">
-        <a href="/nauka" class="sesja__done-btn">Wróć do listy</a>
-        <a href="/slownik" class="sesja__done-btn sesja__done-btn--ghost">Otwórz słownik</a>
+        <a href={withBase('/nauka')} class="sesja__done-btn">Wróć do listy</a>
+        <a href={withBase('/slownik')} class="sesja__done-btn sesja__done-btn--ghost">Otwórz słownik</a>
       </div>
     </section>
   </div>

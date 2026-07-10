@@ -6,7 +6,8 @@ import adminApi from './src/integrations/admin-api.mjs';
 // middleware during `astro dev` — production builds remain static
 // HTML with no server endpoints.
 export default defineConfig({
-  site: 'https://english360.example',
+  site: 'https://dandeliant.github.io',
+  base: '/English360',
   trailingSlash: 'never',
   build: {
     format: 'directory',

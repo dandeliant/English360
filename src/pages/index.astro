@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LessonCard from '../components/LessonCard.astro';
+import { withBase } from '../lib/paths.js';
 
 // "Today" at build time. (Static generation: this is frozen until the next
 // build. Phase 2 will add a daily cron build + JS fallback that redirects to
@@ -31,7 +32,7 @@ if (!todaysLesson) {
 <BaseLayout
   title="Lekcja dnia"
   description={`English 360° — lekcja na ${today}: ${todaysLesson.data.title_pl}.`}
-  ogImage={todaysLesson.data.image}
+  ogImage={withBase(todaysLesson.data.image)}
 >
   <div class="page">
     {isFallback && (

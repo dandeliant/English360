@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { buildWordIndex } from '../../utils/word-index.ts';
+import { withBase } from '../../lib/paths.js';
 
 const index = await buildWordIndex();
 const entries = [...index.values()].sort((a, b) =>
@@ -46,7 +47,7 @@ const letters = [...byLetter.keys()].sort();
         <ul class="dict-index__list">
           {byLetter.get(letter)!.map((e) => (
             <li class="dict-index__item">
-              <a class="dict-index__link" href={`/slownik/${e.slug}`}>{e.displayForm}</a>
+              <a class="dict-index__link" href={withBase(`/slownik/${e.slug}`)}>{e.displayForm}</a>
               <span class="dict-index__meta">{e.occurrences.length}</span>
             </li>
           ))}

@@ -2,6 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import LessonCard from '../../components/LessonCard.astro';
+import { withBase } from '../../lib/paths.js';
 
 export async function getStaticPaths() {
   const lessons = await getCollection('lessons');
@@ -19,7 +20,7 @@ const { lesson } = Astro.props;
 const data = lesson.data;
 const title = `${data.title_pl} — ${data.title_en}`;
 ---
-<BaseLayout title={title} description={data.did_you_know?.pl} ogImage={data.image}>
+<BaseLayout title={title} description={data.did_you_know?.pl} ogImage={withBase(data.image)}>
   <div class="page">
     <LessonCard lesson={lesson} />
   </div>

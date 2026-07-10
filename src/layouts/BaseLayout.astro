@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import ThemeToggle from '../components/ThemeToggle.astro';
+import { withBase } from '../lib/paths.js';
 
 interface Props {
   title: string;
@@ -17,9 +18,9 @@ const {
 const fullTitle = title.includes('English 360') ? title : `${title} · English 360°`;
 
 const pathname = Astro.url.pathname;
-const isOnCalendar = pathname.startsWith('/kalendarz');
-const isOnDict = pathname.startsWith('/slownik');
-const isOnLearn = pathname.startsWith('/nauka');
+const isOnCalendar = pathname.startsWith(withBase('/kalendarz'));
+const isOnDict = pathname.startsWith(withBase('/slownik'));
+const isOnLearn = pathname.startsWith(withBase('/nauka'));
 ---
 <!doctype html>
 <html lang="pl">
@@ -72,30 +73,30 @@ const isOnLearn = pathname.startsWith('/nauka');
 
     <header class="site-header">
       <div class="page site-header__inner">
-        <a href="/" class="site-logo" aria-label="English 360° — strona główna">
+        <a href={withBase('/')} class="site-logo" aria-label="English 360° — strona główna">
           <span class="site-logo__mark" aria-hidden="true">EN<span class="site-logo__deg">°</span></span>
           <span class="site-logo__name">English 360°</span>
         </a>
         <div class="site-header__right">
           <nav class="site-nav" aria-label="Główna nawigacja">
             <a
-              href="/nauka"
+              href={withBase('/nauka')}
               class:list={['site-nav__link', isOnLearn && 'site-nav__link--active']}
               aria-current={isOnLearn ? 'page' : undefined}
             >Nauka</a>
             <a
-              href="/kalendarz"
+              href={withBase('/kalendarz')}
               class:list={['site-nav__link', isOnCalendar && 'site-nav__link--active']}
               aria-current={isOnCalendar ? 'page' : undefined}
             >Kalendarz</a>
             <a
-              href="/slownik"
+              href={withBase('/slownik')}
               class:list={['site-nav__link', isOnDict && 'site-nav__link--active']}
               aria-current={isOnDict ? 'page' : undefined}
             >Słownik</a>
           </nav>
           <a
-            href="/admin"
+            href={withBase('/admin')}
             class="site-admin-link"
             aria-label="Panel admina"
             title="Panel admina"
@@ -134,7 +135,7 @@ const isOnLearn = pathname.startsWith('/nauka');
           udostępnione na licencji
           <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>.
           Atrybucja per hasło widoczna na stronie każdego słowa w
-          <a href="/slownik">słowniku</a>.
+          <a href={withBase('/slownik')}>słowniku</a>.
         </p>
       </div>
     </footer>
