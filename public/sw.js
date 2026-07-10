@@ -12,7 +12,11 @@
 // BASE is derived from the SW's own path so the same file works both in dev
 // (served at /sw.js) and in prod under GitHub Pages (/English360/sw.js).
 
-const VERSION = 'v1';
+// Bump this whenever the shell needs to be invalidated: SW logic change,
+// manifest/icon change, precache list change, or a manual "spring clean".
+// Format: v0.NNN with a leading zero so string comparison stays sane until
+// we ever ship a "real" v1. Increment by 0.001 per bump.
+const VERSION = 'v0.001';
 const PRECACHE = `en360-precache-${VERSION}`;
 const RUNTIME = `en360-runtime-${VERSION}`;
 
