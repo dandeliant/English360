@@ -13,7 +13,7 @@ const SESSION_MS = 4 * 60 * 60 * 1000; // 4 hours
 const EXPECTED_USERNAME = 'Daniel';
 // SHA-256 of the password — never store plaintext, even in client code.
 const EXPECTED_PASS_HASH =
-  '70ee47ea6ab93b31b962fa27cdee8b240cf265dc50509a1e2ecf2480ac644090';
+  '32bc2f45982a0f0fad42f265a337630ee30027bee6c4833ebbdde71320ea2ffb';
 
 async function sha256Hex(text) {
   const data = new TextEncoder().encode(text);
