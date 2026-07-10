@@ -1,0 +1,209 @@
+{
+  "id": "2026-07-07-sunset-okuninka-trees-frame",
+  "date_assigned": "2026-07-07",
+  "date_alternatives": [],
+  "title_en": "Between the Trees",
+  "title_pl": "Między drzewami",
+  "location": "Okuninka, Jezioro Białe, Poland",
+  "image": "/images/2026-07-07-sunset-okuninka-trees-frame.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "summer", "sunset", "lake", "trees", "poland", "silhouette", "nostalgia", "evening"],
+  "themes": ["transience", "nostalgia", "polish-summer", "lakeside"],
+  "did_you_know": {
+    "en": "The word 'nostalgia' was invented as a medical diagnosis. In 1688 a young Swiss doctor named Johannes Hofer combined the Greek 'nostos' (a return home) with 'algos' (pain) to name what he believed was a genuine illness affecting Swiss soldiers stationed abroad — a homesickness so severe it produced fever, weakness and sometimes death. For nearly two centuries, 'nostalgia' remained a clinical term. Only in the late 1800s did it soften into today's meaning: the quiet, half-pleasant ache we feel for a place, time or evening we know we are losing.",
+    "pl": "Słowo „nostalgia” powstało jako diagnoza medyczna. W 1688 roku młody szwajcarski lekarz Johannes Hofer połączył greckie „nostos” (powrót do domu) z „algos” (ból), by nazwać coś, co uważał za prawdziwą chorobę szwajcarskich żołnierzy służących w obcych armiach — tęsknotę tak silną, że wywoływała gorączkę, osłabienie, czasem śmierć. Przez prawie dwieście lat „nostalgia” była terminem klinicznym. Dopiero pod koniec XIX wieku złagodniała do dzisiejszego znaczenia: cichego, na wpół przyjemnego bólu, jaki czujemy do miejsca, czasu albo wieczoru, o którym wiemy, że go tracimy."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zachód słońca nad Jeziorem Białym w Okunince, kadr przez sylwetki dwóch drzew, mały pomost, kilku wędkarzy, którzy przestali już udawać, że wciąż łowią. Lekcja o przemijaniu — sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia. english360",
+    "fb_caption_en": "Today on English 360°: a sunset over Jezioro Białe near Okuninka, framed by two silhouetted trees, with a small pier and a few anglers who long since stopped pretending they are only there for the fish. A lesson about transience — six CEFR levels, vocab with IPA, comprehension tasks. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#Nostalgia", "#PolishSummer", "#Okuninka", "#JezioroBiale", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening. The sun is orange. Two big trees are in front of us. You can see the sun between the trees. The water is red. The day is ending. Soon it will be night.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór. Słońce jest pomarańczowe. Dwa duże drzewa są przed nami. Widać słońce między drzewami. Woda jest czerwona. Dzień się kończy. Wkrótce będzie noc.",
+      "vocab": [
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": true },
+        { "term": "between", "ipa_br": "/bɪˈtwiːn/", "pl": "między", "new": true },
+        { "term": "big", "ipa_br": "/bɪɡ/", "pl": "duży", "new": false },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": false },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": true },
+        { "term": "water", "ipa_br": "/ˈwɔːtə/", "pl": "woda", "new": false },
+        { "term": "day", "ipa_br": "/deɪ/", "pl": "dzień", "new": false },
+        { "term": "soon", "ipa_br": "/suːn/", "pl": "wkrótce, niedługo", "new": true },
+        { "term": "night", "ipa_br": "/naɪt/", "pl": "noc", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "tree", "answer": "A" },
+            { "word": "sun", "answer": "B" },
+            { "word": "water", "answer": "C" },
+            { "word": "night", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌳" },
+            { "label": "B", "text": "☀️" },
+            { "label": "C", "text": "💧" },
+            { "label": "D", "text": "🌙" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph was taken through the branches of two tall trees on the shore of a Polish lake. The sun is very low, just above the water, and the sky is deep red and orange. Between the dark trees, we can see a small wooden pier where two or three people are sitting quietly. Their day at the lake is nearly over. In a few minutes, the sun will disappear behind the far shore, and this evening will belong to memory.",
+      "text_pl": "To zdjęcie zostało zrobione zza gałęzi dwóch wysokich drzew na brzegu polskiego jeziora. Słońce jest bardzo nisko, tuż nad wodą, a niebo jest głęboko czerwone i pomarańczowe. Między ciemnymi drzewami widać mały drewniany pomost, na którym siedzą dwie lub trzy osoby. Ich dzień nad jeziorem prawie się skończył. Za kilka minut słońce zniknie za dalekim brzegiem, a ten wieczór będzie już należał do pamięci.",
+      "vocab": [
+        { "term": "branch", "ipa_br": "/brɑːntʃ/", "pl": "gałąź", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": false },
+        { "term": "shore", "ipa_br": "/ʃɔː/", "pl": "brzeg (wody)", "new": true },
+        { "term": "deep", "ipa_br": "/diːp/", "pl": "głęboki", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": false },
+        { "term": "pier", "ipa_br": "/pɪə/", "pl": "pomost, molo", "new": true },
+        { "term": "nearly", "ipa_br": "/ˈnɪəli/", "pl": "prawie", "new": true },
+        { "term": "disappear", "ipa_br": "/ˌdɪsəˈpɪə/", "pl": "znikać", "new": true },
+        { "term": "far", "ipa_br": "/fɑː/", "pl": "daleki", "new": false },
+        { "term": "belong", "ipa_br": "/bɪˈlɒŋ/", "pl": "należeć", "new": true },
+        { "term": "memory", "ipa_br": "/ˈmeməri/", "pl": "pamięć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The photograph was taken through the ___ of two tall trees.", "answer": "branches" },
+            { "sentence": "The sun is very ___, just above the water.", "answer": "low" },
+            { "sentence": "Between the trees, we can see a small wooden ___.", "answer": "pier" },
+            { "sentence": "In a few minutes, the sun will ___ behind the far shore.", "answer": "disappear" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture of a Polish lake at sunset is taken from behind a screen of two large trees on the western shore of Jezioro Białe. The composition is very traditional — for centuries, painters and photographers have used trees this way to 'frame' a wider view — and it creates a strong feeling of watching from a distance, from the edge, from just outside the scene. Between the dark trunks, the sun rests just above the water, colouring the whole sky orange and red. On the small wooden pier in the middle distance, two or three people sit quietly, probably finishing their fishing before nightfall. In a few minutes, the sun will slip below the treeline; this exact light, in this exact shade, will not return before another year — and, more honestly, will never return in exactly this shape again.",
+      "text_pl": "To zdjęcie polskiego jeziora o zachodzie słońca zostało zrobione zza zasłony dwóch dużych drzew na zachodnim brzegu Jeziora Białego. Kompozycja jest bardzo tradycyjna — od wieków malarze i fotografowie w ten sposób używają drzew, by „ukadrować” szerszy widok — i tworzy mocne wrażenie oglądania z dystansu, z krawędzi, jakby spoza sceny. Między ciemnymi pniami słońce spoczywa tuż nad wodą, barwiąc całe niebo na pomarańczowo i czerwono. Na małym drewnianym pomoście w środkowym planie dwie lub trzy osoby siedzą cicho, prawdopodobnie kończąc łowienie przed zapadnięciem nocy. Za kilka minut słońce ześlizgnie się za linię drzew; to dokładnie takie światło, w tym dokładnym odcieniu, nie wróci przed kolejnym rokiem — a szczerze mówiąc, nigdy już nie wróci w dokładnie tej samej postaci.",
+      "vocab": [
+        { "term": "screen", "ipa_br": "/skriːn/", "pl": "zasłona, ekran, kurtyna", "new": true },
+        { "term": "western", "ipa_br": "/ˈwestən/", "pl": "zachodni", "new": true },
+        { "term": "composition", "ipa_br": "/ˌkɒmpəˈzɪʃən/", "pl": "kompozycja", "new": true },
+        { "term": "traditional", "ipa_br": "/trəˈdɪʃənəl/", "pl": "tradycyjny", "new": true },
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "kadrować, oprawiać", "new": true },
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "krawędź, brzeg", "new": true },
+        { "term": "trunk", "ipa_br": "/trʌŋk/", "pl": "pień", "new": true },
+        { "term": "middle distance", "ipa_br": "/ˈmɪdəl ˈdɪstəns/", "pl": "plan środkowy", "new": true },
+        { "term": "nightfall", "ipa_br": "/ˈnaɪtfɔːl/", "pl": "zapadanie nocy", "new": true },
+        { "term": "treeline", "ipa_br": "/ˈtriːlaɪn/", "pl": "linia drzew, granica lasu", "new": true },
+        { "term": "shade", "ipa_br": "/ʃeɪd/", "pl": "odcień, cień", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The picture was taken from behind two large trees on the western shore of Jezioro Białe.", "answer": true },
+            { "statement": "The composition is unusual and modern.", "answer": false },
+            { "statement": "The people on the pier are probably finishing their fishing before nightfall.", "answer": true },
+            { "statement": "According to the text, this exact light will come back in a few days.", "answer": false },
+            { "statement": "The trees are being used to 'frame' a wider view of the lake.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a kind of photograph that Polish summer produces almost automatically: a lake at dusk, framed by trees, with a small wooden pier and a few unhurried figures in the middle distance. This one was taken at Jezioro Białe, near Okuninka in eastern Poland, on the seventh of July 2026. The sky burns orange and red between the dark trunks; the last direct light lies across the water in a narrow, gilded strip. Two anglers, maybe three, are still on the pier, but you can tell from the way they sit that they are no longer really fishing — they are watching. Photographs like this one always carry, without meaning to, a small note of anticipated loss. The light will not stay. The summer will end. The people on the pier are already, in a way, remembering this evening. That is what makes it so difficult to leave a lake at sunset — you know, quite specifically, that this exact evening will not come back, not next week, not next year, not ever.",
+      "text_pl": "Istnieje pewien rodzaj fotografii, którą polskie lato produkuje niemal automatycznie: jezioro o zmierzchu, ukadrowane drzewami, z małym drewnianym pomostem i kilkoma nieśpiesznymi sylwetkami w środkowym planie. Ta powstała nad Jeziorem Białym pod Okuninką we wschodniej Polsce, siódmego lipca 2026 roku. Niebo między ciemnymi pniami płonie pomarańczem i czerwienią; ostatnie bezpośrednie światło kładzie się na wodzie wąskim, pozłacanym pasem. Dwóch, może trzech wędkarzy wciąż siedzi na pomoście, ale po sposobie, w jaki siedzą, można poznać, że już właściwie nie łowią — patrzą. Tego rodzaju zdjęcia zawsze niosą, nie chcąc, drobną nutę wyprzedzającej straty. Światło nie zostanie. Lato się skończy. Ludzie na pomoście już właściwie zaczynają zapamiętywać ten wieczór. To dlatego tak trudno wyjść znad jeziora o zachodzie — wiadomo, dość konkretnie, że ten konkretny wieczór nie wróci, ani za tydzień, ani za rok, ani nigdy.",
+      "vocab": [
+        { "term": "automatically", "ipa_br": "/ˌɔːtəˈmætɪkli/", "pl": "automatycznie, samoistnie", "new": true },
+        { "term": "dusk", "ipa_br": "/dʌsk/", "pl": "zmierzch", "new": true },
+        { "term": "unhurried", "ipa_br": "/ʌnˈhʌrid/", "pl": "nieśpieszny, spokojny", "new": true },
+        { "term": "burn", "ipa_br": "/bɜːn/", "pl": "płonąć, żarzyć się", "new": false },
+        { "term": "gilded", "ipa_br": "/ˈɡɪldɪd/", "pl": "pozłacany", "new": true },
+        { "term": "strip", "ipa_br": "/strɪp/", "pl": "pas, smuga", "new": true },
+        { "term": "angler", "ipa_br": "/ˈæŋɡlə/", "pl": "wędkarz", "new": true },
+        { "term": "anticipated", "ipa_br": "/ænˈtɪsɪpeɪtɪd/", "pl": "wyprzedzający, przewidywany", "new": true },
+        { "term": "loss", "ipa_br": "/lɒs/", "pl": "strata", "new": true },
+        { "term": "specifically", "ipa_br": "/spəˈsɪfɪkli/", "pl": "konkretnie, dokładnie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken at Jezioro Białe near Okuninka on the seventh of July 2026.", "answer": true },
+            { "statement": "The people on the pier are still actively fishing.", "answer": false },
+            { "statement": "The author says the last direct light lies across the water in a narrow, gilded strip.", "answer": true },
+            { "statement": "The author claims such photographs carry a note of anticipated loss.", "answer": true },
+            { "statement": "According to the text, this exact evening will come back next year.", "answer": false },
+            { "statement": "The author says the people on the pier are already, in a way, remembering this evening.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a small and very specific pain that a summer sunset over a familiar lake produces in almost anyone who has grown up around such lakes, and the language for it is older than most of us realise. In 1688 a Swiss medical student named Johannes Hofer coined the word 'nostalgia' — from Greek 'nostos' (a homecoming) and 'algos' (pain) — as a clinical diagnosis for Swiss mercenaries falling ill in foreign armies from missing their home valleys. The image here — two dark trees framing an orange sky, a wooden footbridge angling out into Jezioro Białe near Okuninka, a handful of unhurried silhouettes still not ready to walk back to the car — will produce something very close to Hofer's original meaning in any Polish viewer who spent childhood summers on a lake of exactly this kind. What surprises about such photographs is not that they are beautiful, but that they seem to be already remembering themselves while you are still looking at them. The light on the water was, even at the moment of the shutter release, already gone.",
+      "text_pl": "Jest pewien drobny i bardzo szczególny ból, który letni zachód słońca nad znajomym jeziorem wywołuje u niemal każdego, kto dorastał w pobliżu takich jezior — a język, którym umiemy go nazwać, jest starszy, niż większość z nas przypuszcza. W 1688 roku szwajcarski student medycyny Johannes Hofer ukuł słowo „nostalgia” — od greckiego „nostos” (powrót do domu) i „algos” (ból) — jako kliniczną diagnozę szwajcarskich najemników zapadających na chorobę w obcych armiach z tęsknoty za rodzinnymi dolinami. To zdjęcie — dwa ciemne drzewa kadrujące pomarańczowe niebo, drewniana kładka wchodząca pod kątem w Jezioro Białe pod Okuninką, garstka nieśpiesznych sylwetek jeszcze nie gotowych, by wrócić do samochodu — wywoła coś bardzo bliskiego pierwotnemu znaczeniu Hofera u każdego polskiego widza, który spędził dziecięce lata nad jeziorem dokładnie tego typu. To, co w takich fotografiach zaskakuje, to nie fakt, że są piękne, lecz to, że sprawiają wrażenie, jakby już się same zapamiętywały, podczas gdy jeszcze na nie patrzysz. Światło na wodzie było — nawet w chwili wyzwolenia migawki — już nie do odzyskania.",
+      "vocab": [
+        { "term": "coin", "ipa_br": "/kɔɪn/", "pl": "ukuć (słowo, termin)", "new": true },
+        { "term": "clinical", "ipa_br": "/ˈklɪnɪkəl/", "pl": "kliniczny", "new": true },
+        { "term": "diagnosis", "ipa_br": "/ˌdaɪəɡˈnəʊsɪs/", "pl": "diagnoza", "new": true },
+        { "term": "mercenary", "ipa_br": "/ˈmɜːsɪnəri/", "pl": "najemnik", "new": true },
+        { "term": "valley", "ipa_br": "/ˈvæli/", "pl": "dolina", "new": true },
+        { "term": "footbridge", "ipa_br": "/ˈfʊtbrɪdʒ/", "pl": "kładka", "new": true },
+        { "term": "angle", "ipa_br": "/ˈæŋɡəl/", "pl": "wchodzić pod kątem, kierować pod kątem", "new": true },
+        { "term": "viewer", "ipa_br": "/ˈvjuːə/", "pl": "widz, oglądający", "new": true },
+        { "term": "shutter", "ipa_br": "/ˈʃʌtə/", "pl": "migawka", "new": true },
+        { "term": "release", "ipa_br": "/rɪˈliːs/", "pl": "wyzwolenie, zwolnienie", "new": true },
+        { "term": "surprise", "ipa_br": "/səˈpraɪz/", "pl": "zaskakiwać", "new": false }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The word 'nostalgia' was coined in 1688 by Johannes Hofer.", "answer": true },
+            { "statement": "In its original meaning, nostalgia was a poetic term used by nineteenth-century Romantic poets.", "answer": false },
+            { "statement": "The Greek roots of 'nostalgia' are 'nostos' (homecoming) and 'algos' (pain).", "answer": true },
+            { "statement": "The image shows a footbridge angling out into Jezioro Białe.", "answer": true },
+            { "statement": "The author claims what surprises about such photographs is that they are beautiful.", "answer": false },
+            { "statement": "The text says the light on the water was, at the moment of the shutter release, already gone.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "The philosophically curious thing about a sunset over water is that it is the only image we regularly consume that we already know how to grieve for. Painters call the compositional trick used here 'repoussoir' — placing something dark in the foreground so that the eye is pushed toward the distance — and the technique is at least six centuries old, but it takes on a strangely personal charge over an eastern-Polish lake at the beginning of July. The frame is Jezioro Białe, near Okuninka, on the seventh of July 2026: two trees, one on each side, both wholly reduced to silhouette; a red-orange sky over a slate-dark line of the far shore; a small wooden footbridge extending into the lake, occupied by a handful of anglers who have long since stopped pretending they are only there for the fish. What such a photograph rehearses, without ever admitting it, is a peculiar mental posture — grieving, in advance, for the exact evening we are still standing inside. Nostalgia in its clinical eighteenth-century sense meant a homesickness so severe it was thought to kill Swiss soldiers stationed abroad. Its milder domestic descendant — this quiet ache, at the shore of a familiar lake, for a moment that is not yet over — has no clean name in Polish or in English. It might, however, be one of the more useful things a photograph can do for us: give us small, safe practice in loving something that is already leaving.",
+      "text_pl": "Filozoficznie ciekawe w zachodzie słońca nad wodą jest to, że jest to jedyny obraz, jaki regularnie konsumujemy, po którym z góry umiemy nosić żałobę. Malarze nazywają zastosowany tu kompozycyjny chwyt „repoussoirem” — umieszczeniem czegoś ciemnego na pierwszym planie, tak by oko było popchnięte ku odległości — i technika ta ma co najmniej sześć wieków, ale nabiera osobliwie osobistego ładunku nad wschodnio-polskim jeziorem na początku lipca. Kadr to Jezioro Białe pod Okuninką, siódmego lipca 2026 roku: dwa drzewa, jedno z każdej strony, oba całkowicie zredukowane do sylwetki; czerwono-pomarańczowe niebo nad łupkowo ciemną linią dalekiego brzegu; mała drewniana kładka wychodząca w jezioro, zajęta przez garstkę wędkarzy, którzy dawno przestali udawać, że są tam tylko dla ryb. To, co takie zdjęcie odgrywa, nigdy tego nie przyznając, jest osobliwą postawą umysłową — opłakiwaniem, z wyprzedzeniem, dokładnie tego wieczoru, w środku którego jeszcze stoimy. Nostalgia w swoim klinicznym, osiemnastowiecznym sensie oznaczała tęsknotę tak głęboką, że sądzono, iż zabija szwajcarskich żołnierzy w garnizonach za granicą. Jej łagodniejszy, domowy potomek — ten cichy ból, na brzegu znajomego jeziora, do chwili, która jeszcze się nie skończyła — nie ma czystej nazwy ani po polsku, ani po angielsku. Może być jednak jedną z użyteczniejszych rzeczy, jakie fotografia potrafi dla nas zrobić: dać nam małą, bezpieczną praktykę kochania czegoś, co już odchodzi.",
+      "vocab": [
+        { "term": "grieve", "ipa_br": "/ɡriːv/", "pl": "opłakiwać, nosić żałobę", "new": true },
+        { "term": "repoussoir", "ipa_br": "/rəˈpuːswɑː/", "pl": "repuasuar, element planu pierwszego kadrujący widok", "new": true },
+        { "term": "foreground", "ipa_br": "/ˈfɔːɡraʊnd/", "pl": "pierwszy plan", "new": true },
+        { "term": "slate", "ipa_br": "/sleɪt/", "pl": "łupkowy, łupek", "new": true },
+        { "term": "extend", "ipa_br": "/ɪkˈstend/", "pl": "wychodzić, rozciągać się, sięgać", "new": true },
+        { "term": "occupied", "ipa_br": "/ˈɒkjupaɪd/", "pl": "zajęty", "new": true },
+        { "term": "pretend", "ipa_br": "/prɪˈtend/", "pl": "udawać", "new": true },
+        { "term": "peculiar", "ipa_br": "/pɪˈkjuːliə/", "pl": "osobliwy, szczególny", "new": true },
+        { "term": "posture", "ipa_br": "/ˈpɒstʃə/", "pl": "postawa (umysłowa, ciała)", "new": true },
+        { "term": "homesickness", "ipa_br": "/ˈhəʊmsɪknəs/", "pl": "tęsknota za domem", "new": true },
+        { "term": "descendant", "ipa_br": "/dɪˈsendənt/", "pl": "potomek", "new": true },
+        { "term": "ache", "ipa_br": "/eɪk/", "pl": "ból (tępy, długotrwały)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The compositional trick called 'repoussoir' places something dark in the foreground to push the eye toward the distance.", "answer": true },
+            { "statement": "According to the text, the repoussoir technique is less than one century old.", "answer": false },
+            { "statement": "The photograph was taken on the seventh of July 2026 at Jezioro Białe near Okuninka.", "answer": true },
+            { "statement": "The author says the anglers on the footbridge are still fully focused on catching fish.", "answer": false },
+            { "statement": "The text describes clinical eighteenth-century nostalgia as a homesickness so severe it was thought to kill Swiss soldiers stationed abroad.", "answer": true },
+            { "statement": "The closing sentence suggests that photographs like this one give us safe practice in loving something that is already leaving.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}

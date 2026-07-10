@@ -1,0 +1,211 @@
+{
+  "id": "2026-07-08-sunset-okuninka-sylwetka",
+  "date_assigned": "2026-07-08",
+  "date_alternatives": [],
+  "title_en": "Where the Day Ends",
+  "title_pl": "Miejsce, gdzie kończy się dzień",
+  "location": "Okuninka, Jezioro Białe, Poland",
+  "image": "/images/2026-07-08-sunset-okuninka-sylwetka.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "summer", "sunset", "lake", "pier", "poland", "silhouette", "water", "evening"],
+  "themes": ["end-of-day", "polish-summer", "lakeside", "solitude"],
+  "did_you_know": {
+    "en": "The reason sunsets look red and orange is simple physics. Sunlight is made of many colours, but blue light scatters much more easily in the air than red. When the sun is high, the whole sky looks blue; when the sun is low, its light must travel through a much thicker layer of atmosphere to reach us, and most of the blue has been scattered away long before it arrives. What is left is the warm end of the spectrum — the reds, oranges and golds we see just above the horizon. The effect has a name: Rayleigh scattering, after the British physicist Lord Rayleigh, who explained it in 1871.",
+    "pl": "Zachody słońca są czerwono-pomarańczowe z bardzo prostego powodu fizycznego. Światło słoneczne składa się z wielu barw, ale niebieskie rozprasza się w powietrzu znacznie łatwiej niż czerwone. Kiedy słońce stoi wysoko, całe niebo wygląda na niebieskie; kiedy słońce jest nisko, jego światło musi pokonać znacznie grubszą warstwę atmosfery, a większość barwy niebieskiej zostaje po drodze rozproszona. Do naszych oczu dociera więc głównie ciepły koniec spektrum — czerwienie, pomarańcze i złocenia, które widzimy tuż nad horyzontem. Zjawisko to nosi nazwę rozpraszanie Rayleigha, od nazwiska brytyjskiego fizyka Lorda Rayleigha, który je wyjaśnił w 1871 roku."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: drewniany pomost nad Jeziorem Białym w Okunince, sylwetka na tle zachodzącego słońca, koniec letniego dnia. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia — od prostego opisu po refleksję nad tym, dlaczego zachody słońca robią coś z nami. english360",
+    "fb_caption_en": "Today on English 360°: a wooden pier over Jezioro Białe in Okuninka, a silhouette against the setting sun, the end of a summer day. Six CEFR levels, vocab with IPA, comprehension tasks — from simple description to a reflection on why sunsets do something quiet to us. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#PolishSummer", "#Okuninka", "#JezioroBiale", "#Silhouette", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the water. It is evening. The sun is going down. The sky is red and orange. A man walks on a pier. He is alone. The water is quiet. The day is ending.",
+      "text_pl": "Spójrz na wodę. Jest wieczór. Słońce zachodzi. Niebo jest czerwone i pomarańczowe. Mężczyzna idzie po pomoście. Jest sam. Woda jest cicha. Dzień się kończy.",
+      "vocab": [
+        { "term": "water", "ipa_br": "/ˈwɔːtə/", "pl": "woda", "new": false },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": false },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "walk", "ipa_br": "/wɔːk/", "pl": "iść, chodzić", "new": false },
+        { "term": "pier", "ipa_br": "/pɪə/", "pl": "pomost, molo", "new": true },
+        { "term": "alone", "ipa_br": "/əˈləʊn/", "pl": "sam, samotny", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪət/", "pl": "cichy, spokojny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "water", "answer": "B" },
+            { "word": "pier", "answer": "C" },
+            { "word": "evening", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "💧" },
+            { "label": "C", "text": "🛶" },
+            { "label": "D", "text": "🌆" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "In this photo, someone is walking on a wooden pier at the end of the day. The sun is very low, just above the water. The sky is full of warm colours — red, orange and gold near the sun, and dark blue higher up. On the right side of the pier, tall wooden posts stand in a long line. The water is quiet. No one is speaking. In summer, many people walk to a pier at this hour to watch the sun go down.",
+      "text_pl": "Na tym zdjęciu ktoś idzie po drewnianym pomoście pod koniec dnia. Słońce jest bardzo nisko, tuż nad wodą. Niebo jest pełne ciepłych kolorów — czerwonego, pomarańczowego i złotego blisko słońca, i ciemnoniebieskiego wyżej. Z prawej strony pomostu stoi długi rząd wysokich drewnianych słupków. Woda jest cicha. Nikt się nie odzywa. Latem wielu ludzi przychodzi o tej porze na pomost, by popatrzeć na zachód słońca.",
+      "vocab": [
+        { "term": "wooden", "ipa_br": "/ˈwʊdən/", "pl": "drewniany", "new": true },
+        { "term": "low", "ipa_br": "/ləʊ/", "pl": "nisko, niski", "new": true },
+        { "term": "above", "ipa_br": "/əˈbʌv/", "pl": "nad, powyżej", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": false },
+        { "term": "gold", "ipa_br": "/ɡəʊld/", "pl": "złoty, złoto", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": false },
+        { "term": "side", "ipa_br": "/saɪd/", "pl": "strona", "new": false },
+        { "term": "post", "ipa_br": "/pəʊst/", "pl": "słup, słupek", "new": true },
+        { "term": "line", "ipa_br": "/laɪn/", "pl": "linia, rząd", "new": false },
+        { "term": "hour", "ipa_br": "/aʊə/", "pl": "godzina, pora", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The sun is very ___, just above the water.", "answer": "low" },
+            { "sentence": "The pier in the photo is made of ___.", "answer": "wood", "alts": ["wooden"] },
+            { "sentence": "On the right side of the pier, tall wooden ___ stand in a long line.", "answer": "posts" },
+            { "sentence": "In summer, many people walk to a pier at this hour to watch the sun go ___.", "answer": "down" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture shows a wooden pier stretching out over a Polish lake, taken minutes before sunset in early July. On the pier, a single silhouetted figure walks slowly toward the water; on the right, a line of thick wooden posts leans slightly toward the setting sun. The lake is Jezioro Białe, near the village of Okuninka in eastern Poland, and it is known locally for evenings exactly like this one, when the whole surface turns the same red-orange colour as the sky. Nothing here is dramatic. There is no wind, no boat, no other person in sight. Piers all over Poland fill up with quiet walkers at this hour, not because anyone has told them to come, but because the end of a warm day, watched over water, is one of the few things almost everyone still stops for.",
+      "text_pl": "Zdjęcie pokazuje drewniany pomost wychodzący na polskie jezioro, zrobione kilka minut przed zachodem słońca, na początku lipca. Na pomoście pojedyncza sylwetka idzie powoli w stronę wody; z prawej rząd grubych drewnianych słupków lekko pochyla się w stronę zachodzącego słońca. Jezioro to Białe koło Okuninki we wschodniej Polsce, znane lokalnie właśnie z takich wieczorów, gdy cała jego powierzchnia zabarwia się tym samym czerwono-pomarańczowym odcieniem, co niebo. Nic tu nie jest dramatyczne. Nie ma wiatru, nie ma łódki, nie widać żadnej innej osoby. Pomosty w całej Polsce zapełniają się o tej porze cichymi spacerowiczami — nie dlatego, że ktoś im to kazał, ale dlatego, że koniec ciepłego dnia oglądany nad wodą jest jedną z tych nielicznych rzeczy, przy których niemal każdy nadal się zatrzymuje.",
+      "vocab": [
+        { "term": "stretch", "ipa_br": "/stretʃ/", "pl": "rozciągać się, wychodzić", "new": true },
+        { "term": "silhouetted", "ipa_br": "/ˌsɪluˈetɪd/", "pl": "pokazany jako sylwetka", "new": true },
+        { "term": "figure", "ipa_br": "/ˈfɪɡə/", "pl": "postać, sylwetka", "new": true },
+        { "term": "thick", "ipa_br": "/θɪk/", "pl": "gruby", "new": true },
+        { "term": "lean", "ipa_br": "/liːn/", "pl": "pochylać się, opierać", "new": true },
+        { "term": "surface", "ipa_br": "/ˈsɜːfɪs/", "pl": "powierzchnia", "new": true },
+        { "term": "dramatic", "ipa_br": "/drəˈmætɪk/", "pl": "dramatyczny, spektakularny", "new": true },
+        { "term": "wind", "ipa_br": "/wɪnd/", "pl": "wiatr", "new": false },
+        { "term": "boat", "ipa_br": "/bəʊt/", "pl": "łódka", "new": false },
+        { "term": "sight", "ipa_br": "/saɪt/", "pl": "wzrok, widok", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photo was taken minutes before sunset.", "answer": true },
+            { "statement": "The pier is made of stone.", "answer": false },
+            { "statement": "The lake in the photo is Jezioro Białe, near Okuninka.", "answer": true },
+            { "statement": "There is strong wind and many boats on the water.", "answer": false },
+            { "statement": "The author says the end of a warm day is one of the few things people still stop for.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "The photograph is deceptively simple: a wooden pier, a solitary figure walking toward the water, and a sun that has almost finished its day. It was taken in early July at Jezioro Białe, near Okuninka in the Włodawa district of eastern Poland — a lake that most of Warsaw and Lublin will recognise from summer holidays. What the image really captures is a habit rather than a scene. Every evening, across the whole northern hemisphere, thousands of people walk to a pier, a beach, a balcony, and wait for the sun to reach the horizon. They rarely say why. Very often they take no photograph. The act itself, brief and unremarkable, is the point: a small daily ritual of stopping, before dark, to see the day finish itself.",
+      "text_pl": "Fotografia jest zwodniczo prosta: drewniany pomost, samotna sylwetka idąca w stronę wody i słońce, które prawie już skończyło swój dzień. Zdjęcie powstało na początku lipca nad Jeziorem Białym koło Okuninki, w powiecie włodawskim we wschodniej Polsce — jeziorze, które większość Warszawy i Lublina rozpozna z letnich wakacji. To, co obraz naprawdę uchwycił, to raczej nawyk niż scena. Co wieczór, na całej półkuli północnej, tysiące ludzi idą na pomost, na plażę, na balkon i czekają, aż słońce dotknie horyzontu. Rzadko potrafią powiedzieć, po co. Bardzo często nie robią żadnego zdjęcia. Sam ten akt — krótki i nieefektowny — jest sensem: mały codzienny rytuał zatrzymania się, zanim zapadnie zmrok, żeby zobaczyć, jak dzień sam się kończy.",
+      "vocab": [
+        { "term": "deceptively", "ipa_br": "/dɪˈseptɪvli/", "pl": "zwodniczo, mylnie", "new": true },
+        { "term": "solitary", "ipa_br": "/ˈsɒlɪtəri/", "pl": "samotny, pojedynczy", "new": true },
+        { "term": "district", "ipa_br": "/ˈdɪstrɪkt/", "pl": "powiat, dzielnica, region", "new": true },
+        { "term": "recognise", "ipa_br": "/ˈrekəɡnaɪz/", "pl": "rozpoznać", "new": true },
+        { "term": "capture", "ipa_br": "/ˈkæptʃə/", "pl": "uchwycić, zarejestrować", "new": false },
+        { "term": "habit", "ipa_br": "/ˈhæbɪt/", "pl": "nawyk, przyzwyczajenie", "new": true },
+        { "term": "hemisphere", "ipa_br": "/ˈhemɪsfɪə/", "pl": "półkula", "new": true },
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": false },
+        { "term": "rarely", "ipa_br": "/ˈreəli/", "pl": "rzadko", "new": true },
+        { "term": "unremarkable", "ipa_br": "/ˌʌnrɪˈmɑːkəbəl/", "pl": "nieefektowny, niepozorny", "new": true },
+        { "term": "ritual", "ipa_br": "/ˈrɪtʃuəl/", "pl": "rytuał", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph shows a stone pier crowded with people.", "answer": false },
+            { "statement": "The photo was taken at Jezioro Białe, near Okuninka.", "answer": true },
+            { "statement": "The author says the image captures a habit more than a scene.", "answer": true },
+            { "statement": "According to the text, people who come to a pier at sunset usually take many photographs.", "answer": false },
+            { "statement": "Every evening, thousands of people across the northern hemisphere wait for the sun to reach the horizon.", "answer": true },
+            { "statement": "The author calls the small daily act of watching the sun go down a ritual.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "A pier at sunset is one of the oldest quiet-making devices we have. This one juts out into Jezioro Białe, a shallow, sandy-bottomed lake in the Włodawa district of eastern Poland, on an early July evening in 2026. The sun sits just above the far shore, still bright enough to bleach the water, but low enough that everything on the pier has been reduced to silhouette. A single figure walks its length. On the western railing, a row of stout wooden posts, meant to hold lanterns for late bathers, catches the last direct light. The composition owes almost everything to counter-illumination — the way, once the sun is low enough, the human eye stops reading surface and starts reading shape, stops reading expression and starts reading motion. The pier ceases to be architecture. It becomes something closer to a black staff drawn across a copper sky, with a single figure written along it, walking, as everyone eventually walks, in the direction of the light.",
+      "text_pl": "Pomost o zachodzie słońca jest jednym z najstarszych urządzeń wyciszających, jakie mamy. Ten wystaje w Jezioro Białe — płytkie, piaszczyste jezioro w powiecie włodawskim we wschodniej Polsce — w lipcowy wieczór 2026 roku. Słońce siedzi tuż nad przeciwległym brzegiem, wciąż wystarczająco jasne, żeby wybielić wodę, ale na tyle nisko, że wszystko na pomoście zostało zredukowane do sylwetki. Pojedyncza postać idzie jego długością. Na zachodniej balustradzie rząd krępych drewnianych słupków, przeznaczonych do lampionów dla późnych plażowiczów, chwyta ostatnie bezpośrednie światło. Kompozycja zawdzięcza niemal wszystko oświetleniu od tyłu — temu, że gdy słońce zejdzie już wystarczająco nisko, ludzkie oko przestaje odczytywać powierzchnię, a zaczyna odczytywać kształt, przestaje odczytywać wyraz twarzy, a zaczyna odczytywać ruch. Pomost przestaje być architekturą. Staje się czymś bliższym czarnej lasce przeciągniętej przez miedziane niebo, z pojedynczą postacią wpisaną wzdłuż niego, idącą — jak wszyscy w końcu idą — w kierunku światła.",
+      "vocab": [
+        { "term": "device", "ipa_br": "/dɪˈvaɪs/", "pl": "urządzenie, sposób", "new": true },
+        { "term": "jut", "ipa_br": "/dʒʌt/", "pl": "wystawać, wysuwać się", "new": true },
+        { "term": "shallow", "ipa_br": "/ˈʃæləʊ/", "pl": "płytki", "new": true },
+        { "term": "shore", "ipa_br": "/ʃɔː/", "pl": "brzeg (wody)", "new": true },
+        { "term": "bleach", "ipa_br": "/bliːtʃ/", "pl": "wybielać, wypłukiwać z barwy", "new": true },
+        { "term": "railing", "ipa_br": "/ˈreɪlɪŋ/", "pl": "balustrada, poręcz", "new": true },
+        { "term": "stout", "ipa_br": "/staʊt/", "pl": "krępy, mocny, solidny", "new": true },
+        { "term": "lantern", "ipa_br": "/ˈlæntən/", "pl": "lampion, latarnia", "new": true },
+        { "term": "bather", "ipa_br": "/ˈbeɪðə/", "pl": "kąpiący się, plażowicz", "new": true },
+        { "term": "counter-illumination", "ipa_br": "/ˈkaʊntər ɪˌluːmɪˈneɪʃən/", "pl": "oświetlenie od tyłu, kontrświatło", "new": true },
+        { "term": "cease", "ipa_br": "/siːs/", "pl": "przestawać, ustawać", "new": true },
+        { "term": "copper", "ipa_br": "/ˈkɒpə/", "pl": "miedziany, miedź", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The pier juts out into Jezioro Białe in the Włodawa district of eastern Poland.", "answer": true },
+            { "statement": "The photo was taken at midday.", "answer": false },
+            { "statement": "The wooden posts on the pier are meant to hold lanterns for late bathers.", "answer": true },
+            { "statement": "According to the author, counter-illumination reduces the pier to silhouette.", "answer": true },
+            { "statement": "The author writes that once the sun is low enough, the eye reads expression and surface more clearly than before.", "answer": false },
+            { "statement": "The pier is compared to a black staff drawn across a copper sky.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is something in a summer sunset over water that survives every attempt to photograph it, and this frame is honest about the failure. A wooden pier reaches out from a Polish lakeshore; a solitary figure — face and features already erased by the counter-light — walks slowly along it; a row of stubby wooden lamp-posts trails behind, tilting west with the pier itself. The lake is Jezioro Białe, near Okuninka in the Łęczna–Włodawa lake district, on the seventh of July 2026, roughly two and a half weeks past the summer solstice. The scene is silent in the way only a lake at dusk can be — silent not in the sense that nothing is happening, but in the sense that whatever is happening no longer needs speech. What such an image quietly proposes, and what perhaps no photograph can ever quite carry across, is that sunsets do a kind of small work in us. They rehearse, in miniature and without cost, the daily lesson that everything given eventually turns, softly and without protest, into evening — and that the correct response is not to look away, but to walk a little further out along the pier.",
+      "text_pl": "Jest w letnim zachodzie słońca nad wodą coś, co przeżywa każdą próbę sfotografowania, i ten kadr uczciwie przyznaje się do porażki. Drewniany pomost sięga od polskiego brzegu; samotna postać — twarz i rysy już zatarte przez kontrświatło — idzie po nim powoli; rząd krępych drewnianych latarni-słupków ciągnie się za nią, pochylając się na zachód wraz z samym pomostem. Jezioro to Białe, niedaleko Okuninki, w Pojezierzu Łęczyńsko-Włodawskim, siódmy lipca 2026, jakieś dwa i pół tygodnia po przesileniu letnim. Cisza jest tu tego rodzaju, jakiego potrafi zaznać tylko jezioro o zmierzchu — nie w tym sensie, że nic się nie dzieje, lecz w tym, że to, co się dzieje, nie potrzebuje już słów. To, co taki obraz cicho proponuje — a czego być może żadna fotografia nie jest w stanie w pełni przenieść — jest to, że zachody słońca robią w nas jakąś drobną pracę. Odgrywają w miniaturze i bez kosztu codzienną lekcję: że wszystko, co dane, w końcu zamienia się — miękko i bez protestu — w wieczór, a właściwą odpowiedzią nie jest odwracanie wzroku, ale przejście o kilka kroków dalej po pomoście.",
+      "vocab": [
+        { "term": "survive", "ipa_br": "/səˈvaɪv/", "pl": "przetrwać, przeżyć", "new": false },
+        { "term": "attempt", "ipa_br": "/əˈtempt/", "pl": "próba", "new": true },
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "kadr, ramka, rama", "new": false },
+        { "term": "lakeshore", "ipa_br": "/ˈleɪkʃɔː/", "pl": "brzeg jeziora", "new": true },
+        { "term": "features", "ipa_br": "/ˈfiːtʃəz/", "pl": "rysy twarzy", "new": true },
+        { "term": "erase", "ipa_br": "/ɪˈreɪz/", "pl": "wymazywać, zacierać", "new": true },
+        { "term": "stubby", "ipa_br": "/ˈstʌbi/", "pl": "krępy, przysadzisty", "new": true },
+        { "term": "trail", "ipa_br": "/treɪl/", "pl": "ciągnąć się, wlec się", "new": true },
+        { "term": "tilt", "ipa_br": "/tɪlt/", "pl": "pochylać się", "new": true },
+        { "term": "dusk", "ipa_br": "/dʌsk/", "pl": "zmierzch, zmrok", "new": true },
+        { "term": "rehearse", "ipa_br": "/rɪˈhɜːs/", "pl": "odgrywać, ćwiczyć, powtarzać", "new": true },
+        { "term": "miniature", "ipa_br": "/ˈmɪnətʃə/", "pl": "miniatura", "new": false },
+        { "term": "protest", "ipa_br": "/ˈprəʊtest/", "pl": "protest", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The photograph was taken on 7 July 2026, roughly two and a half weeks after the summer solstice.", "answer": true },
+            { "statement": "The lake is located in the Łęczna–Włodawa lake district.", "answer": true },
+            { "statement": "The author writes that the figure's facial features are clearly visible in the picture.", "answer": false },
+            { "statement": "The wooden lamp-posts lean east, away from the pier.", "answer": false },
+            { "statement": "The scene is described as silent because nothing is happening.", "answer": false },
+            { "statement": "The author suggests that sunsets rehearse, in miniature, the daily lesson that everything given eventually turns into evening.", "answer": true },
+            { "statement": "According to the closing sentence, the correct response to that lesson is to walk a little further out along the pier.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
