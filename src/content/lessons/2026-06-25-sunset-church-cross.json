@@ -1,0 +1,210 @@
+{
+  "id": "2026-06-25-sunset-church-cross",
+  "date_assigned": "2026-06-25",
+  "date_alternatives": [],
+  "title_en": "A Solar Transit",
+  "title_pl": "Tranzyt słoneczny",
+  "location": "Łazy, near Łuków, Poland",
+  "image": "/images/2026-06-25-sunset-church-cross.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "sunset", "church", "poland", "silhouette", "alignment", "astronomy", "łuków", "cross"],
+  "themes": ["solar-alignment", "polish-countryside", "sacred-and-natural", "archaeoastronomy"],
+  "did_you_know": {
+    "en": "For as long as humans have built with stone, some of that stone has been arranged to catch a sunrise or a sunset on a particular day. At Newgrange in Ireland, a Neolithic passage tomb roughly five thousand years old, a narrow shaft carries the first light of the winter solstice into a chamber at the heart of the mound. At Abu Simbel in Egypt, the sun on 22 October and 22 February — believed to be the coronation and birthday of Ramesses II — illuminates statues sixty metres deep in the rock. At Chichén Itzá in Mexico, the Kukulkán pyramid casts a shadow shaped like a serpent only at the spring and autumn equinox. Photographs like this one — the sun directly behind a Polish church, on exactly one Thursday of the year — belong to the same underlying phenomenon: the sun's setting azimuth is a slow, predictable clock, and every building on Earth is, whether its architects knew it or not, aligned with a small handful of dates.",
+    "pl": "Odkąd ludzie budują z kamienia, część tego kamienia była układana tak, by uchwycić wschód lub zachód słońca w konkretnym dniu. W Newgrange w Irlandii, neolitycznym grobowcu korytarzowym sprzed niespełna pięciu tysięcy lat, wąski szyb wprowadza pierwsze światło przesilenia zimowego do komory w sercu kopca. W Abu Simbel w Egipcie słońce 22 października i 22 lutego — uważa się, że są to dzień koronacji i dzień narodzin Ramzesa II — oświetla posągi znajdujące się sześćdziesiąt metrów w głąb skały. W Chichén Itzá w Meksyku piramida Kukulkána rzuca cień w kształcie węża wyłącznie w dniach równonocy wiosennej i jesiennej. Zdjęcia takie jak to — słońce dokładnie za polskim kościołem, w dokładnie jeden czwartek w roku — należą do tego samego zjawiska: azymut zachodu słońca jest powolnym, przewidywalnym zegarem, a każdy budynek na Ziemi jest — świadomie lub nie — ustawiony w linii z pewną niewielką garścią dat."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zachód słońca dokładnie za kościołem pw. Podwyższenia Krzyża Świętego w Łukowie, zdjęcie zrobione z odległości 2,8 km, w czwartek 25 czerwca 2026 o 20:43. Tranzyt słoneczny łączy w sobie wymiar naturalny, naukowy i duchowy — sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia. english360",
+    "fb_caption_en": "Today on English 360°: the sun setting exactly behind the church of the Exaltation of the Holy Cross in Łuków, photographed from 2.8 kilometres away on Thursday 25 June 2026 at 20:43. A solar transit joining the natural, the scientific and the spiritual — six CEFR levels, vocab with IPA, comprehension tasks. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#SolarAlignment", "#Łuków", "#Archaeoastronomy", "#Poland", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the sun. It is very big. The sun is red and orange. It is evening. There is a church. The church is dark. The sun is behind the church. It is a beautiful moment.",
+      "text_pl": "Spójrz na słońce. Jest bardzo duże. Słońce jest czerwone i pomarańczowe. Jest wieczór. Jest kościół. Kościół jest ciemny. Słońce jest za kościołem. To piękna chwila.",
+      "vocab": [
+        { "term": "big", "ipa_br": "/bɪɡ/", "pl": "duży", "new": false },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "church", "ipa_br": "/tʃɜːtʃ/", "pl": "kościół", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "behind", "ipa_br": "/bɪˈhaɪnd/", "pl": "za, z tyłu", "new": true },
+        { "term": "beautiful", "ipa_br": "/ˈbjuːtɪfəl/", "pl": "piękny", "new": true },
+        { "term": "moment", "ipa_br": "/ˈməʊmənt/", "pl": "chwila, moment", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "church", "answer": "B" },
+            { "word": "cross", "answer": "C" },
+            { "word": "evening", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "⛪" },
+            { "label": "C", "text": "✝️" },
+            { "label": "D", "text": "🌆" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph was taken in the evening. The sun is very low. It is red-orange and much bigger than usual. In front of the sun, we can see the dark silhouette of an old church. There are small crosses on its roof and a tall tower with a cross on top. The picture was taken from a distance of almost three kilometres. That is why the sun seems so close to the church. In reality, they are very far apart.",
+      "text_pl": "To zdjęcie zostało zrobione wieczorem. Słońce jest bardzo nisko. Jest czerwono-pomarańczowe i o wiele większe niż zwykle. Na tle słońca widzimy ciemną sylwetkę starego kościoła. Na jego dachu są małe krzyże, a wysoka wieża ma krzyż na szczycie. Zdjęcie zostało zrobione z odległości prawie trzech kilometrów. Dlatego słońce wydaje się tak blisko kościoła. W rzeczywistości są od siebie bardzo daleko.",
+      "vocab": [
+        { "term": "silhouette", "ipa_br": "/ˌsɪluˈet/", "pl": "sylwetka", "new": true },
+        { "term": "old", "ipa_br": "/əʊld/", "pl": "stary", "new": false },
+        { "term": "cross", "ipa_br": "/krɒs/", "pl": "krzyż", "new": true },
+        { "term": "roof", "ipa_br": "/ruːf/", "pl": "dach", "new": true },
+        { "term": "tower", "ipa_br": "/taʊə/", "pl": "wieża", "new": true },
+        { "term": "top", "ipa_br": "/tɒp/", "pl": "szczyt, góra", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość", "new": true },
+        { "term": "kilometre", "ipa_br": "/ˈkɪləˌmiːtə/", "pl": "kilometr", "new": true },
+        { "term": "seem", "ipa_br": "/siːm/", "pl": "wydawać się", "new": true },
+        { "term": "reality", "ipa_br": "/riˈæləti/", "pl": "rzeczywistość", "new": true },
+        { "term": "apart", "ipa_br": "/əˈpɑːt/", "pl": "osobno, z dala od siebie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The sun is red-orange and much bigger than ___.", "answer": "usual" },
+            { "sentence": "In front of the sun, we can see the dark silhouette of an old ___.", "answer": "church" },
+            { "sentence": "There are small crosses on its ___ and a tall tower with a cross on top.", "answer": "roof" },
+            { "sentence": "The picture was taken from a distance of almost three ___.", "answer": "kilometres", "alts": ["kilometers"] }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture was taken on Thursday, the twenty-fifth of June 2026, at eight forty-three in the evening, from a field near the village of Łazy in eastern Poland. The subject is the church of the Exaltation of the Holy Cross in Łuków, seen from a distance of about 2.8 kilometres. At this exact hour on this exact date, the sun sets behind the roof of the church almost precisely — its lower half is already hidden by the roofline, while its brilliant upper half rises like a huge orange dome above the central tower. A telephoto lens has compressed the space: it makes the sun look enormous, though in reality it is 150 million kilometres away, and the church is a small silhouette at the horizon. This kind of alignment happens only on a few days each year. On any other Thursday, the sun would set slightly to the left or to the right of the church, and this exact photograph could not be taken.",
+      "text_pl": "To zdjęcie zostało zrobione w czwartek, dwudziestego piątego czerwca 2026 roku, o dwudziestej czterdzieści trzy, z pola pod wsią Łazy we wschodniej Polsce. Jego tematem jest kościół pw. Podwyższenia Krzyża Świętego w Łukowie, widziany z odległości około 2,8 kilometra. Dokładnie w tej godzinie tego konkretnego dnia słońce zachodzi za dachem kościoła niemal idealnie — jego dolna połowa jest już zasłonięta linią dachu, a jasna górna połowa wznosi się jak ogromna pomarańczowa kopuła nad środkową wieżą. Teleobiektyw ścisnął przestrzeń: sprawia, że słońce wygląda ogromnie, choć w rzeczywistości znajduje się 150 milionów kilometrów od nas, a kościół jest małą sylwetką przy horyzoncie. Takie ustawienie zdarza się tylko przez kilka dni w roku. W każdy inny czwartek słońce zachodziłoby nieco na lewo lub nieco na prawo od kościoła, i to konkretne zdjęcie nie mogłoby powstać.",
+      "vocab": [
+        { "term": "subject", "ipa_br": "/ˈsʌbdʒekt/", "pl": "temat, obiekt (zdjęcia)", "new": true },
+        { "term": "precisely", "ipa_br": "/prɪˈsaɪsli/", "pl": "dokładnie, precyzyjnie", "new": true },
+        { "term": "hidden", "ipa_br": "/ˈhɪdən/", "pl": "ukryty, zasłonięty", "new": true },
+        { "term": "roofline", "ipa_br": "/ˈruːflaɪn/", "pl": "linia dachu", "new": true },
+        { "term": "brilliant", "ipa_br": "/ˈbrɪljənt/", "pl": "jaskrawy, olśniewający", "new": true },
+        { "term": "dome", "ipa_br": "/dəʊm/", "pl": "kopuła", "new": true },
+        { "term": "telephoto", "ipa_br": "/ˈtelɪˌfəʊtəʊ/", "pl": "teleobiektyw", "new": true },
+        { "term": "compress", "ipa_br": "/kəmˈpres/", "pl": "ściskać, kompresować", "new": true },
+        { "term": "enormous", "ipa_br": "/ɪˈnɔːməs/", "pl": "ogromny", "new": true },
+        { "term": "alignment", "ipa_br": "/əˈlaɪnmənt/", "pl": "ustawienie w linii, wyrównanie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on Thursday, the twenty-fifth of June 2026, at 20:43.", "answer": true },
+            { "statement": "The subject of the picture is the church of the Exaltation of the Holy Cross in Łuków.", "answer": true },
+            { "statement": "The distance between the photographer and the church is roughly ten kilometres.", "answer": false },
+            { "statement": "The lower half of the sun is already hidden by the roofline of the church.", "answer": true },
+            { "statement": "According to the text, this exact alignment can be photographed on any Thursday of the year.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is something almost accidental about this photograph, and something almost inevitable at the same time. It was taken on Thursday, 25 June 2026, at exactly 20:43, from a small field near the village of Łazy in the Łuków district of eastern Poland. The subject — the Baroque church of the Exaltation of the Holy Cross in Łuków — is standing 2.8 kilometres away. Behind it, the sun is setting: its upper half, still fully visible, forms a huge orange disc that appears to rest gently on the church roof, with the central tower rising like a small dark finger through the middle of it. What makes such a shot possible is not only the equipment (a telephoto lens compresses distance, so that objects far apart look close together) but also astronomy. The sun's setting position on the horizon shifts every day, so the perfect alignment of the sun's disc, a distant church and a specific vantage point can only be captured within a narrow window — a few evenings per year, and only if the sky is clear. Photographs like this one belong, quietly, to the same family as Newgrange and Abu Simbel: not deliberate solar architecture, but accidental proof of the same underlying fact — that the sun keeps a very strict, very predictable schedule with the surface of the Earth.",
+      "text_pl": "Jest w tym zdjęciu coś niemal przypadkowego i coś niemal nieuniknionego jednocześnie. Zostało zrobione w czwartek, dwudziestego piątego czerwca 2026 roku, dokładnie o 20:43, z niewielkiego pola pod wsią Łazy w powiecie łukowskim we wschodniej Polsce. Temat — barokowy kościół pw. Podwyższenia Krzyża Świętego w Łukowie — stoi w odległości 2,8 kilometra. Za nim zachodzi słońce: jego górna połowa, wciąż w pełni widoczna, tworzy ogromną pomarańczową tarczę, która wydaje się delikatnie opierać o dach kościoła, a środkowa wieża wznosi się przez jej środek jak drobny, ciemny palec. To, co umożliwia takie ujęcie, to nie tylko sprzęt (teleobiektyw ściska odległość tak, że obiekty odległe od siebie wyglądają, jakby były blisko), ale i astronomia. Punkt zachodu słońca na horyzoncie przesuwa się każdego dnia, więc idealne ustawienie tarczy słońca, dalekiego kościoła i konkretnego miejsca obserwacji można uchwycić tylko w wąskim oknie — przez kilka wieczorów w roku, i tylko wtedy, gdy niebo jest czyste. Zdjęcia takie jak to należą po cichu do tej samej rodziny co Newgrange czy Abu Simbel: nie są to celowe konstrukcje solarne, lecz przypadkowy dowód na to samo podstawowe zjawisko — że słońce prowadzi bardzo ścisły, bardzo przewidywalny harmonogram z powierzchnią Ziemi.",
+      "vocab": [
+        { "term": "accidental", "ipa_br": "/ˌæksɪˈdentəl/", "pl": "przypadkowy", "new": true },
+        { "term": "inevitable", "ipa_br": "/ɪˈnevɪtəbəl/", "pl": "nieunikniony", "new": true },
+        { "term": "Baroque", "ipa_br": "/bəˈrɒk/", "pl": "barokowy", "new": true },
+        { "term": "disc", "ipa_br": "/dɪsk/", "pl": "tarcza, dysk", "new": true },
+        { "term": "equipment", "ipa_br": "/ɪˈkwɪpmənt/", "pl": "sprzęt, wyposażenie", "new": true },
+        { "term": "astronomy", "ipa_br": "/əˈstrɒnəmi/", "pl": "astronomia", "new": true },
+        { "term": "shift", "ipa_br": "/ʃɪft/", "pl": "przesuwać się, zmieniać", "new": true },
+        { "term": "vantage point", "ipa_br": "/ˈvɑːntɪdʒ pɔɪnt/", "pl": "punkt obserwacyjny", "new": true },
+        { "term": "predictable", "ipa_br": "/prɪˈdɪktəbəl/", "pl": "przewidywalny", "new": true },
+        { "term": "schedule", "ipa_br": "/ˈʃedjuːl/", "pl": "harmonogram, plan", "new": true },
+        { "term": "deliberate", "ipa_br": "/dɪˈlɪbərət/", "pl": "celowy, zamierzony", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on Thursday, 25 June 2026, at exactly 20:43, from a field near Łazy in the Łuków district.", "answer": true },
+            { "statement": "The subject of the picture is the Baroque church of the Exaltation of the Holy Cross in Łuków, standing 2.8 kilometres away.", "answer": true },
+            { "statement": "A telephoto lens spreads distance out, so that objects close together look far apart.", "answer": false },
+            { "statement": "According to the text, the sun's setting position on the horizon is the same every day of the year.", "answer": false },
+            { "statement": "The author compares the photograph, quietly, to Newgrange and Abu Simbel.", "answer": true },
+            { "statement": "The picture is described as accidental proof that the sun keeps a very strict schedule with the surface of the Earth.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "For at least five thousand years, human beings have been building stone structures aligned with the setting sun. The passage tomb at Newgrange in Ireland, the temples of Abu Simbel in Egypt, the stones of Stonehenge, the church of Ġgantija on Malta — each of them was arranged, with immense effort, so that the sun's disc could stand for a moment inside a very particular architectural frame on a very particular date. What is quietly extraordinary about this photograph — taken on the evening of the twenty-fifth of June 2026, from a wheat field near the village of Łazy, in the direction of the eighteenth-century church of the Exaltation of the Holy Cross in Łuków — is that nobody designed it. The church was not oriented to a June sunset. The photographer was not directed to Łazy by any priesthood. And yet at 20:43 on that particular Thursday, at a distance of 2.8 kilometres, the sun sank behind the roof of the church with the same precision that took Neolithic engineers centuries to achieve. That accidental precision is what the picture is really about. The natural, the scientific and the spiritual do not have to be arranged in a special order. Under the right conditions, they simply meet.",
+      "text_pl": "Od co najmniej pięciu tysięcy lat ludzie budują kamienne konstrukcje ustawione w linii z zachodzącym słońcem. Grobowiec korytarzowy w Newgrange w Irlandii, świątynie w Abu Simbel w Egipcie, kamienie Stonehenge, świątynia Ġgantija na Malcie — każda z nich została z ogromnym wysiłkiem ułożona tak, by tarcza słońca mogła przez chwilę stanąć w bardzo szczególnej ramie architektonicznej, w bardzo szczególnym dniu. To, co po cichu niezwykłe w tym zdjęciu — zrobionym wieczorem dwudziestego piątego czerwca 2026 roku, z pola pszenicznego pod wsią Łazy, w kierunku osiemnastowiecznego kościoła pw. Podwyższenia Krzyża Świętego w Łukowie — jest fakt, że nikt tego nie zaprojektował. Kościół nie został zorientowany na czerwcowy zachód słońca. Fotograf nie został skierowany do Łaz przez żadne kapłaństwo. A jednak o 20:43 tego konkretnego czwartku, z odległości 2,8 kilometra, słońce zaszło za dachem kościoła z taką samą precyzją, jaką neolitycznym inżynierom zajęło osiągnąć całe stulecia. To właśnie ta przypadkowa precyzja jest tym, o czym naprawdę jest ten obraz. Wymiar naturalny, naukowy i duchowy nie musi być układany w jakimś specjalnym porządku. W odpowiednich warunkach one po prostu się spotykają.",
+      "vocab": [
+        { "term": "structure", "ipa_br": "/ˈstrʌktʃə/", "pl": "budowla, konstrukcja", "new": true },
+        { "term": "align", "ipa_br": "/əˈlaɪn/", "pl": "ustawiać w linii, wyrównywać", "new": true },
+        { "term": "passage tomb", "ipa_br": "/ˈpæsɪdʒ tuːm/", "pl": "grobowiec korytarzowy", "new": true },
+        { "term": "temple", "ipa_br": "/ˈtempəl/", "pl": "świątynia", "new": true },
+        { "term": "arrange", "ipa_br": "/əˈreɪndʒ/", "pl": "ułożyć, ustawić", "new": true },
+        { "term": "immense", "ipa_br": "/ɪˈmens/", "pl": "ogromny", "new": true },
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "rama, kadr", "new": true },
+        { "term": "orient", "ipa_br": "/ˈɔːrient/", "pl": "orientować, ustawiać w kierunku", "new": true },
+        { "term": "priesthood", "ipa_br": "/ˈpriːsthʊd/", "pl": "kapłaństwo, duchowieństwo", "new": true },
+        { "term": "sink", "ipa_br": "/sɪŋk/", "pl": "zapadać, zachodzić", "new": true },
+        { "term": "Neolithic", "ipa_br": "/ˌniːəˈlɪθɪk/", "pl": "neolityczny", "new": true },
+        { "term": "engineer", "ipa_br": "/ˌendʒɪˈnɪə/", "pl": "inżynier", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author writes that humans have been building stone structures aligned with the setting sun for at least five thousand years.", "answer": true },
+            { "statement": "According to the text, the church of the Exaltation of the Holy Cross in Łuków was deliberately oriented to catch a June sunset.", "answer": false },
+            { "statement": "The photograph was taken from a wheat field near the village of Łazy.", "answer": true },
+            { "statement": "The text calls the alignment in the picture 'accidental precision'.", "answer": true },
+            { "statement": "The author claims that the natural, the scientific and the spiritual must always be arranged in a special order to meet.", "answer": false },
+            { "statement": "Newgrange, Abu Simbel, Stonehenge and Ġgantija are all mentioned as examples of stone structures aligned with the sun's disc on particular dates.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "The photograph appears at first to be an act of composition, and then, on longer inspection, reveals itself as something quieter: an act of arithmetic. It was taken on Thursday, 25 June 2026, at 20:43 local time, from a wheat field near Łazy in the Łuków district of eastern Poland, and its subject — the church of the Exaltation of the Holy Cross in Łuków — is standing exactly 2.8 kilometres away, close enough for a telephoto lens to compress the intervening kilometres into a single flat plane. Above the roof of the church, the sun is in the middle of its setting: still visible, no longer whole, its brilliant upper limb balanced on the ridge like a dropped copper coin. The central tower cuts a black vertical through the disc. In the strictest sense, nothing in the frame is where the eye insists it is: the sun is not near the church, the wheat field is not near either of them, the electric wires above the field are not near the church at all. What the picture records, precisely because it is so quietly wrong about distance, is a rare geometric coincidence between a specific date, a specific point on the surface of the Earth and a several-centuries-old building whose builders had no idea any of this would ever be possible. It is one of the small privileges of living in the age of the telephoto lens that we regularly witness such alignments — and, more importantly, notice them enough to press the shutter release.",
+      "text_pl": "Fotografia z początku wygląda na akt kompozycji, a przy dłuższym namyśle odsłania się jako coś cichszego: akt arytmetyki. Została zrobiona w czwartek, dwudziestego piątego czerwca 2026 roku, o 20:43 czasu lokalnego, z pola pszenicznego pod Łazami w powiecie łukowskim we wschodniej Polsce, a jej tematem — kościół pw. Podwyższenia Krzyża Świętego w Łukowie — stoi w odległości dokładnie 2,8 kilometra, na tyle blisko, by teleobiektyw mógł ścisnąć dzielące je kilometry w jedną, płaską płaszczyznę. Nad dachem kościoła słońce jest w środku swojego zachodzenia: wciąż widoczne, ale już nie w całości, jego jaskrawa górna krawędź opiera się na kalenicy jak upuszczona miedziana moneta. Środkowa wieża tnie jego tarczę czarną pionową kreską. W najbardziej ścisłym sensie nic w tym kadrze nie jest tam, gdzie oko upiera się, że jest: słońce nie jest blisko kościoła, pole pszenicy nie jest blisko żadnego z nich, linie elektryczne nad polem nie są w ogóle blisko kościoła. To, co zdjęcie rejestruje — właśnie dlatego, że jest tak po cichu nieuczciwe co do odległości — jest rzadkim geometrycznym zbiegiem okoliczności między konkretną datą, konkretnym punktem na powierzchni Ziemi a kilkuwiekowym budynkiem, którego budowniczowie nie mieli pojęcia, że coś takiego w ogóle będzie kiedyś możliwe. To jeden z drobnych przywilejów życia w epoce teleobiektywu, że regularnie jesteśmy świadkami takich ustawień — a co ważniejsze, potrafimy je zauważyć na tyle, by nacisnąć spust migawki.",
+      "vocab": [
+        { "term": "arithmetic", "ipa_br": "/əˈrɪθmətɪk/", "pl": "arytmetyka", "new": true },
+        { "term": "intervening", "ipa_br": "/ˌɪntəˈviːnɪŋ/", "pl": "pośredni, dzielący", "new": true },
+        { "term": "plane", "ipa_br": "/pleɪn/", "pl": "płaszczyzna", "new": true },
+        { "term": "limb", "ipa_br": "/lɪm/", "pl": "krawędź (tarczy słońca); kończyna", "new": true },
+        { "term": "ridge", "ipa_br": "/rɪdʒ/", "pl": "grzbiet, kalenica dachu", "new": true },
+        { "term": "coin", "ipa_br": "/kɔɪn/", "pl": "moneta", "new": true },
+        { "term": "vertical", "ipa_br": "/ˈvɜːtɪkəl/", "pl": "pionowy", "new": true },
+        { "term": "insist", "ipa_br": "/ɪnˈsɪst/", "pl": "upierać się", "new": true },
+        { "term": "coincidence", "ipa_br": "/kəʊˈɪnsɪdəns/", "pl": "zbieg okoliczności", "new": true },
+        { "term": "privilege", "ipa_br": "/ˈprɪvɪlɪdʒ/", "pl": "przywilej", "new": true },
+        { "term": "witness", "ipa_br": "/ˈwɪtnəs/", "pl": "być świadkiem, świadek", "new": true },
+        { "term": "shutter release", "ipa_br": "/ˈʃʌtə rɪˈliːs/", "pl": "spust migawki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The author writes that the photograph reveals itself, on longer inspection, as an act of arithmetic.", "answer": true },
+            { "statement": "The subject of the picture stands exactly 2.8 kilometres away from the photographer.", "answer": true },
+            { "statement": "In the strictest sense, the sun in the frame is genuinely close to the church.", "answer": false },
+            { "statement": "The text calls the central tower of the church a black vertical that cuts through the disc of the sun.", "answer": true },
+            { "statement": "According to the closing sentence, we now regularly witness such alignments and, more importantly, notice them enough to press the shutter release.", "answer": true },
+            { "statement": "The author claims that the builders of the church deliberately planned for a photograph of this kind to be possible one day.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
