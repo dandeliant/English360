@@ -2,37 +2,38 @@
   "id": "2026-07-05-okuninka-brzoza-piasek",
   "date_assigned": "2026-07-05",
   "date_alternatives": [],
-  "title_en": "Before Anyone Wakes",
-  "title_pl": "Zanim wszyscy się obudzą",
+  "title_en": "Golden Hour",
+  "title_pl": "Złota godzina",
   "location": "Okuninka, Jezioro Białe, Poland",
   "image": "/images/2026-07-05-okuninka-brzoza-piasek.jpg",
   "image_orientation": "portrait",
   "photo_credit": "Daniel Ostrowski",
-  "tags": ["nature", "summer", "morning", "lake", "beach", "birch", "tree", "poland", "sand", "solitude"],
-  "themes": ["early-morning", "polish-summer", "lakeside", "simplicity", "birch"],
+  "tags": ["nature", "summer", "evening", "lake", "beach", "birch", "tree", "poland", "sand", "golden-hour", "sunset"],
+  "themes": ["golden-hour", "polish-summer", "lakeside", "waiting-for-sunset", "birch"],
   "did_you_know": {
-    "en": "The distinctive white bark of the birch is white for a specific chemical reason. The outer layer of the bark contains betulin, an organic compound that is naturally chalk-white and gives the tree its unmistakable look. Betulin is one of the most abundant white pigments produced by any plant on Earth: dry birch bark can be up to 30 per cent betulin by weight. The compound is also biologically interesting — it has been used in folk medicine for centuries and remains under active pharmaceutical research today. So when the birch on this Polish beach appears to reflect the morning light so cleanly, it is not the trick of a single sunrise; it is a thin, powdery layer of one of the whitest chemicals nature knows how to make.",
-    "pl": "Wyrazista, biała kora brzozy jest biała z bardzo konkretnego powodu chemicznego. Zewnętrzna warstwa kory zawiera betulinę — związek organiczny, który sam z siebie jest kredowobiały i to on nadaje drzewu jego niepodrabialny wygląd. Betulina jest jednym z najobficiej występujących białych pigmentów, jakie potrafi wyprodukować jakakolwiek roślina na Ziemi: sucha kora brzozy może w nawet trzydziestu procentach składać się z betuliny (wagowo). Związek ten jest też ciekawy biologicznie — od wieków używany w medycynie ludowej, do dziś pozostaje w obszarze aktywnych badań farmaceutycznych. Kiedy więc brzoza na tej polskiej plaży wydaje się tak czysto odbijać poranne światło, to nie jest zasługa jednego wschodu słońca; to cienka, pudrowa warstwa jednego z najbielszych związków, jakie natura potrafi wytworzyć."
+    "en": "The distinctive white bark of the birch is white for a specific chemical reason. The outer layer of the bark contains betulin, an organic compound that is naturally chalk-white and gives the tree its unmistakable look. Betulin is one of the most abundant white pigments produced by any plant on Earth: dry birch bark can be up to 30 per cent betulin by weight. The compound is also biologically interesting — it has been used in folk medicine for centuries and remains under active pharmaceutical research today. So when the birch on this Polish beach appears to reflect the last warm light of the day so cleanly, it is not the trick of one particular evening; it is a thin, powdery layer of one of the whitest chemicals nature knows how to make.",
+    "pl": "Wyrazista, biała kora brzozy jest biała z bardzo konkretnego powodu chemicznego. Zewnętrzna warstwa kory zawiera betulinę — związek organiczny, który sam z siebie jest kredowobiały i to on nadaje drzewu jego niepodrabialny wygląd. Betulina jest jednym z najobficiej występujących białych pigmentów, jakie potrafi wyprodukować jakakolwiek roślina na Ziemi: sucha kora brzozy może w nawet trzydziestu procentach składać się z betuliny (wagowo). Związek ten jest też ciekawy biologicznie — od wieków używany w medycynie ludowej, do dziś pozostaje w obszarze aktywnych badań farmaceutycznych. Kiedy więc brzoza na tej polskiej plaży wydaje się tak czysto odbijać ostatnie ciepłe światło dnia, to nie jest zasługa jednego konkretnego wieczoru; to cienka, pudrowa warstwa jednego z najbielszych związków, jakie natura potrafi wytworzyć."
   },
   "social": {
-    "fb_caption_pl": "Dzisiejsza lekcja English 360°: samotna brzoza na piaszczystej plaży nad Jeziorem Białym w Okunince, zdjęcie zrobione bardzo wcześnie rano — zanim ktokolwiek się obudzi. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia — od prostego opisu po refleksję o polskim, letnim „niczego więcej nie potrzeba do szczęścia”. english360",
-    "fb_caption_en": "Today on English 360°: a solitary birch on a sandy beach at Jezioro Białe in Okuninka, photographed very early in the morning — before anyone else wakes. Six CEFR levels, vocab with IPA, comprehension tasks — from simple description to a reflection on the Polish summer conviction that 'nothing more is needed to be happy'. english360",
-    "hashtags": ["#English360", "#LearnEnglish", "#Birch", "#PolishSummer", "#Okuninka", "#JezioroBiale", "#Morning", "#CEFR"]
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: samotna brzoza na piaszczystej plaży nad Jeziorem Białym w Okunince, zdjęcie zrobione w złotej godzinie — kilka minut przed zachodem słońca, kiedy zostają już tylko ci, którzy przyszli specjalnie po ten widok. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia — od prostego opisu po refleksję o polskim, letnim „niczego więcej nie potrzeba do szczęścia”. english360",
+    "fb_caption_en": "Today on English 360°: a solitary birch on a sandy beach at Jezioro Białe in Okuninka, photographed in the golden hour — a few minutes before sunset, when only the people who came specifically for the view are still there. Six CEFR levels, vocab with IPA, comprehension tasks — from simple description to a reflection on the Polish summer conviction that 'nothing more is needed to be happy'. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Birch", "#PolishSummer", "#Okuninka", "#JezioroBiale", "#GoldenHour", "#CEFR"]
   },
   "levels": {
     "A1": {
-      "text": "Look at this photo. It is morning. The sky is blue. There is a tree on the beach. The tree is a birch. Its bark is white and dark. The lake is quiet. The sand is warm. Nobody is here. It is very early.",
-      "text_pl": "Spójrz na to zdjęcie. Jest rano. Niebo jest niebieskie. Na plaży jest drzewo. To drzewo jest brzozą. Jej kora jest biała i ciemna. Jezioro jest ciche. Piasek jest ciepły. Nikogo tu nie ma. Jest bardzo wcześnie.",
+      "text": "Look at this photo. It is evening. The sky is warm. There is a tree on the beach. The tree is a birch. Its bark is white and dark. The lake is quiet. The sand is warm. A few people are here. They are waiting for the sunset.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór. Niebo jest ciepłe. Na plaży jest drzewo. To drzewo jest brzozą. Jej kora jest biała i ciemna. Jezioro jest ciche. Piasek jest ciepły. Jest tu kilka osób. Czekają na zachód słońca.",
       "vocab": [
-        { "term": "morning", "ipa_br": "/ˈmɔːnɪŋ/", "pl": "rano, poranek", "new": true },
-        { "term": "blue", "ipa_br": "/bluː/", "pl": "niebieski", "new": true },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true },
         { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": false },
         { "term": "beach", "ipa_br": "/biːtʃ/", "pl": "plaża", "new": true },
         { "term": "birch", "ipa_br": "/bɜːtʃ/", "pl": "brzoza", "new": true },
         { "term": "bark", "ipa_br": "/bɑːk/", "pl": "kora", "new": true },
         { "term": "lake", "ipa_br": "/leɪk/", "pl": "jezioro", "new": true },
         { "term": "sand", "ipa_br": "/sænd/", "pl": "piasek", "new": true },
-        { "term": "early", "ipa_br": "/ˈɜːli/", "pl": "wcześnie, wczesny", "new": true }
+        { "term": "wait", "ipa_br": "/weɪt/", "pl": "czekać", "new": true },
+        { "term": "sunset", "ipa_br": "/ˈsʌnset/", "pl": "zachód słońca", "new": true }
       ],
       "exercises": [
         {
@@ -54,8 +55,8 @@
       ]
     },
     "A2": {
-      "text": "In this photo, there is a birch tree on a sandy beach by a lake. The tree is tall and bent. Its trunk is white with black marks. Its green leaves move in the wind. The sky is blue and calm. On the far side of the lake, we can see a dark line of forest. There are no people yet. It is very early in the morning. Later, people will come with towels, swimsuits and flip-flops, to spend a slow summer day here.",
-      "text_pl": "Na tym zdjęciu jest brzoza na piaszczystej plaży nad jeziorem. Drzewo jest wysokie i pochylone. Jego pień jest biały z czarnymi plamami. Jego zielone liście poruszają się na wietrze. Niebo jest niebieskie i spokojne. Po drugiej stronie jeziora widać ciemną linię lasu. Nie ma jeszcze ludzi. Jest bardzo wcześnie rano. Później ludzie przyjdą z ręcznikami, strojami kąpielowymi i klapkami, by spędzić tu powolny letni dzień.",
+      "text": "In this photo, there is a birch tree on a sandy beach by a lake. The tree is tall and bent. Its trunk is white with black marks. Its green leaves move in the wind. The sky above the horizon is warm and golden. On the far side of the lake, we can see a dark line of forest. There are only a few people here. They are waiting quietly for the sun to set over the lake. In another hour, the beach will be empty again.",
+      "text_pl": "Na tym zdjęciu jest brzoza na piaszczystej plaży nad jeziorem. Drzewo jest wysokie i pochylone. Jego pień jest biały z czarnymi plamami. Jego zielone liście poruszają się na wietrze. Niebo nad horyzontem jest ciepłe i złote. Po drugiej stronie jeziora widać ciemną linię lasu. Jest tu tylko kilka osób. Czekają cicho, aż słońce zajdzie nad jeziorem. Za kolejną godzinę plaża znów będzie pusta.",
       "vocab": [
         { "term": "sandy", "ipa_br": "/ˈsændi/", "pl": "piaszczysty", "new": true },
         { "term": "bent", "ipa_br": "/bent/", "pl": "pochylony, wygięty", "new": true },
@@ -63,11 +64,10 @@
         { "term": "mark", "ipa_br": "/mɑːk/", "pl": "znak, plama", "new": true },
         { "term": "leaves", "ipa_br": "/liːvz/", "pl": "liście", "new": true },
         { "term": "wind", "ipa_br": "/wɪnd/", "pl": "wiatr", "new": false },
-        { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true },
+        { "term": "golden", "ipa_br": "/ˈɡəʊldən/", "pl": "złoty (kolor)", "new": true },
         { "term": "forest", "ipa_br": "/ˈfɒrɪst/", "pl": "las", "new": true },
-        { "term": "yet", "ipa_br": "/jet/", "pl": "jeszcze", "new": true },
-        { "term": "towel", "ipa_br": "/ˈtaʊəl/", "pl": "ręcznik", "new": true },
-        { "term": "flip-flops", "ipa_br": "/ˈflɪpflɒps/", "pl": "klapki (japonki)", "new": true }
+        { "term": "quietly", "ipa_br": "/ˈkwaɪətli/", "pl": "cicho", "new": true },
+        { "term": "empty", "ipa_br": "/ˈempti/", "pl": "pusty", "new": true }
       ],
       "exercises": [
         {
@@ -76,52 +76,52 @@
           "items": [
             { "sentence": "There is a birch tree on a ___ beach by a lake.", "answer": "sandy" },
             { "sentence": "Its ___ is white with black marks.", "answer": "trunk" },
-            { "sentence": "There are no people ___.", "answer": "yet" },
-            { "sentence": "It is very early in the ___.", "answer": "morning" }
+            { "sentence": "The sky above the horizon is warm and ___.", "answer": "golden" },
+            { "sentence": "They are waiting quietly for the sun to ___ over the lake.", "answer": "set" }
           ]
         }
       ]
     },
     "B1": {
-      "text": "This picture of a Polish beach was taken very early on a Sunday morning at the beginning of July, at Jezioro Białe near Okuninka. In the centre of the frame, a tall birch tree leans slightly out over the sand — its trunk striped in the classic Polish black-and-white pattern, its long branches loose enough to move in every small gust of wind. The beach is almost completely empty. Two figures can be seen very small in the far distance, but the point of the picture is what is not yet there: the towels, the flip-flops, the swimsuits, the shouting children, the loud radios. In an hour or two, this quiet stretch of sand will fill up. Right now, at this exact moment, the birch has the place to itself. For anyone who grew up around Polish lakes, this is one of the most familiar and one of the most peaceful sights in the world.",
-      "text_pl": "To zdjęcie polskiej plaży zostało zrobione bardzo wcześnie w niedzielny poranek na początku lipca, nad Jeziorem Białym pod Okuninką. W centrum kadru wysoka brzoza pochyla się lekko nad piaskiem — jej pień pręguje się klasycznym polskim wzorem czerni i bieli, a długie gałęzie są dostatecznie luźne, by poruszać się przy każdym drobnym podmuchu wiatru. Plaża jest niemal całkowicie pusta. W oddali widać dwie bardzo małe sylwetki, ale sensem zdjęcia jest to, czego jeszcze na nim nie ma: ręczników, klapek, strojów kąpielowych, wrzeszczących dzieci, głośnych radioodbiorników. Za godzinę lub dwie ten cichy pas piasku wypełni się ludźmi. Ale w tym konkretnym momencie brzoza ma to miejsce dla siebie. Dla każdego, kto dorastał nad polskimi jeziorami, jest to jeden z najbardziej znajomych i jeden z najbardziej ukojnych widoków na świecie.",
+      "text": "This picture of a Polish beach was taken in the golden hour of a summer evening at Jezioro Białe near Okuninka. In the centre of the frame, a tall birch tree leans slightly out over the sand — its trunk striped in the classic Polish black-and-white pattern, its long branches loose enough to move in every small gust of wind. The beach is almost empty. A few small figures can be seen far away on the right — the little group of people who have decided to stay for the sunset instead of heading home. Earlier in the day, this stretch of sand was full: towels, flip-flops, swimsuits, shouting children, loud radios. All of that is gone now. In another hour, when the sun finally sinks behind the far treeline, the beach will empty completely, and the birch will have the place to itself for the night. For anyone who grew up around Polish lakes, this is one of the most familiar and one of the most peaceful sights in the world.",
+      "text_pl": "To zdjęcie polskiej plaży zostało zrobione w złotej godzinie letniego wieczoru nad Jeziorem Białym pod Okuninką. W centrum kadru wysoka brzoza pochyla się lekko nad piaskiem — jej pień pręguje się klasycznym polskim wzorem czerni i bieli, a długie gałęzie są dostatecznie luźne, by poruszać się przy każdym drobnym podmuchu wiatru. Plaża jest niemal pusta. Kilka małych sylwetek widać w oddali po prawej — to grupka ludzi, którzy zdecydowali się zostać na zachód słońca zamiast wracać do domu. Wcześniej w ciągu dnia ten pas piasku był pełny: ręczników, klapek, strojów kąpielowych, wrzeszczących dzieci, głośnych radioodbiorników. Wszystko to już zniknęło. Za godzinę, kiedy słońce wreszcie zejdzie za daleką linię drzew, plaża opustoszeje całkowicie, a brzoza będzie miała to miejsce dla siebie na całą noc. Dla każdego, kto dorastał nad polskimi jeziorami, jest to jeden z najbardziej znajomych i jeden z najbardziej ukojnych widoków na świecie.",
       "vocab": [
+        { "term": "golden hour", "ipa_br": "/ˈɡəʊldən aʊə/", "pl": "złota godzina (fotograficzna)", "new": true },
         { "term": "birch", "ipa_br": "/bɜːtʃ/", "pl": "brzoza", "new": false },
         { "term": "lean", "ipa_br": "/liːn/", "pl": "pochylać się", "new": true },
         { "term": "pattern", "ipa_br": "/ˈpætən/", "pl": "wzór, deseń", "new": true },
         { "term": "gust", "ipa_br": "/ɡʌst/", "pl": "podmuch (wiatru)", "new": true },
         { "term": "swimsuit", "ipa_br": "/ˈswɪmsuːt/", "pl": "strój kąpielowy", "new": true },
         { "term": "flip-flops", "ipa_br": "/ˈflɪpflɒps/", "pl": "klapki (japonki)", "new": false },
-        { "term": "shouting", "ipa_br": "/ˈʃaʊtɪŋ/", "pl": "krzyczący", "new": true },
-        { "term": "stretch", "ipa_br": "/stretʃ/", "pl": "odcinek, kawałek, pas", "new": true },
+        { "term": "sink", "ipa_br": "/sɪŋk/", "pl": "zapadać, zachodzić", "new": true },
+        { "term": "treeline", "ipa_br": "/ˈtriːlaɪn/", "pl": "linia drzew, granica lasu", "new": true },
         { "term": "familiar", "ipa_br": "/fəˈmɪliə/", "pl": "znajomy", "new": true },
-        { "term": "peaceful", "ipa_br": "/ˈpiːsfəl/", "pl": "spokojny, ukojny", "new": true },
-        { "term": "sight", "ipa_br": "/saɪt/", "pl": "widok", "new": true }
+        { "term": "peaceful", "ipa_br": "/ˈpiːsfəl/", "pl": "spokojny, ukojny", "new": true }
       ],
       "exercises": [
         {
           "type": "tf",
           "prompt": "Decide if each statement is true or false based on the text.",
           "items": [
-            { "statement": "The photograph was taken very early on a Sunday morning at Jezioro Białe near Okuninka.", "answer": true },
-            { "statement": "The beach is crowded with people and radios.", "answer": false },
+            { "statement": "The photograph was taken in the golden hour of a summer evening at Jezioro Białe near Okuninka.", "answer": true },
+            { "statement": "The beach is completely crowded with towels, radios and shouting children at the moment the picture was taken.", "answer": false },
             { "statement": "The birch tree in the centre of the frame leans slightly out over the sand.", "answer": true },
-            { "statement": "According to the text, in an hour or two the quiet stretch of sand will fill up with people.", "answer": true },
-            { "statement": "The author says this is one of the least familiar sights for people who grew up around Polish lakes.", "answer": false }
+            { "statement": "According to the text, when the sun finally sinks behind the far treeline, the beach will empty completely.", "answer": true },
+            { "statement": "The few small figures far away on the right are the people who decided to stay for the sunset.", "answer": true }
           ]
         }
       ]
     },
     "B2": {
-      "text": "There is a small ethical decision built into every good beach photograph, and the photographer here has made the right one: he arrived before anyone else did. The frame was taken at Jezioro Białe, near Okuninka in eastern Poland, at the very start of a Sunday in early July, when the sand of the public beach is still cold from the night and the two or three swimmers who are already up have been kept far enough away by the lens to remain unrecognisable. In the middle of the composition, a solitary birch — thin, tall, unmistakably Polish, its trunk white with the horizontal black scars typical of the species — leans over the sand as if pointing gently at the water. The lake is calm; the sky is still low in saturation. What the photograph really preserves is what everyone who comes to a lake like this comes for: the almost impossible sensation of being briefly alone with a landscape that, in an hour, will belong to fifty other people wearing swimsuits, flip-flops and nothing else. That specific happiness — quiet, undemanding, requiring no equipment — is a large part of why places like Okuninka still fill up every July.",
-      "text_pl": "W każdą dobrą fotografię plażową wpisana jest drobna decyzja etyczna, a fotograf w tym przypadku podjął słuszną: przyjechał, zanim przyjechał ktokolwiek inny. Kadr powstał nad Jeziorem Białym pod Okuninką we wschodniej Polsce, na samym początku niedzielnego lipcowego dnia, kiedy piasek publicznej plaży jest jeszcze zimny po nocy, a dwaj czy trzej pływacy, którzy już wstali, są dzięki obiektywowi utrzymani na tyle daleko, by pozostać nierozpoznawalnymi. Pośrodku kompozycji samotna brzoza — cienka, wysoka, niewątpliwie polska, o pniu białym z poziomymi czarnymi bliznami typowymi dla tego gatunku — pochyla się nad piaskiem, jakby delikatnie wskazywała wodę. Jezioro jest spokojne; niebo jeszcze niskie w nasyceniu. To, co zdjęcie naprawdę utrwala, to to, po co przyjeżdża tu każdy, kto przyjeżdża nad takie jezioro: prawie niemożliwe uczucie krótkiego bycia sam na sam z krajobrazem, który za godzinę będzie należał do pięćdziesięciorga innych ludzi ubranych w stroje kąpielowe, klapki i nic więcej. To specyficzne szczęście — ciche, niewymagające, nieprzewidujące żadnego sprzętu — jest w dużej mierze powodem, dla którego miejsca takie jak Okuninka wciąż zapełniają się co lipca.",
+      "text": "There is a small ethical decision built into every good beach photograph, and the photographer here has made the right one: he stayed after almost everyone else had gone home. The frame was taken at Jezioro Białe, near Okuninka in eastern Poland, in the golden hour of a summer evening, when the sand of the public beach is losing the last of its heat and the few figures still visible in the far distance are the people who came specifically to watch the sun go down over the water. In the middle of the composition, a solitary birch — thin, tall, unmistakably Polish, its trunk white with the horizontal black scars typical of the species — leans over the sand as if pointing gently at the lake. The wind is gentle; the sky above the horizon is deep in warm colour. What the photograph really preserves is what everyone who comes to a lake like this comes for: the almost impossible sensation of being briefly alone with a landscape that, only an hour or two earlier, belonged to fifty other people wearing swimsuits, flip-flops and nothing else. That specific happiness — quiet, undemanding, requiring no equipment — is a large part of why places like Okuninka still fill up every July, and why a small handful of people stay behind, every evening, to see the day out.",
+      "text_pl": "W każdą dobrą fotografię plażową wpisana jest drobna decyzja etyczna, a fotograf w tym przypadku podjął słuszną: został, gdy prawie wszyscy inni wrócili już do domu. Kadr powstał nad Jeziorem Białym pod Okuninką we wschodniej Polsce, w złotej godzinie letniego wieczoru, kiedy piasek publicznej plaży traci ostatki ciepła, a kilka sylwetek wciąż widocznych w oddali to ludzie, którzy przyszli specjalnie po to, by popatrzeć, jak słońce zachodzi nad wodą. Pośrodku kompozycji samotna brzoza — cienka, wysoka, niewątpliwie polska, o pniu białym z poziomymi czarnymi bliznami typowymi dla tego gatunku — pochyla się nad piaskiem, jakby delikatnie wskazywała jezioro. Wiatr jest łagodny; niebo nad horyzontem jest głębokie w ciepłej barwie. To, co zdjęcie naprawdę utrwala, to to, po co przyjeżdża tu każdy, kto przyjeżdża nad takie jezioro: prawie niemożliwe uczucie krótkiego bycia sam na sam z krajobrazem, który jeszcze godzinę lub dwie wcześniej należał do pięćdziesięciorga innych ludzi ubranych w stroje kąpielowe, klapki i nic więcej. To specyficzne szczęście — ciche, niewymagające, nieprzewidujące żadnego sprzętu — jest w dużej mierze powodem, dla którego miejsca takie jak Okuninka wciąż zapełniają się co lipca, i dla którego drobna garstka ludzi zostaje każdego wieczoru, by dopilnować, jak dzień się kończy.",
       "vocab": [
         { "term": "ethical", "ipa_br": "/ˈeθɪkəl/", "pl": "etyczny", "new": true },
         { "term": "solitary", "ipa_br": "/ˈsɒlɪtəri/", "pl": "samotny, pojedynczy", "new": true },
         { "term": "unmistakably", "ipa_br": "/ˌʌnmɪˈsteɪkəbli/", "pl": "niewątpliwie, bez wątpienia", "new": true },
         { "term": "scar", "ipa_br": "/skɑː/", "pl": "blizna", "new": true },
         { "term": "species", "ipa_br": "/ˈspiːʃiːz/", "pl": "gatunek", "new": true },
-        { "term": "saturation", "ipa_br": "/ˌsætʃəˈreɪʃən/", "pl": "nasycenie", "new": true },
+        { "term": "gentle", "ipa_br": "/ˈdʒentəl/", "pl": "łagodny, delikatny", "new": true },
         { "term": "preserve", "ipa_br": "/prɪˈzɜːv/", "pl": "zachowywać, utrwalać", "new": true },
         { "term": "sensation", "ipa_br": "/senˈseɪʃən/", "pl": "doznanie, uczucie", "new": true },
         { "term": "briefly", "ipa_br": "/ˈbriːfli/", "pl": "krótko", "new": true },
@@ -133,19 +133,19 @@
           "type": "tf",
           "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
           "items": [
-            { "statement": "The photographer arrived before anyone else did.", "answer": true },
-            { "statement": "The two or three swimmers already up are close enough to the camera to be easily identified.", "answer": false },
+            { "statement": "The photographer stayed after almost everyone else had gone home.", "answer": true },
+            { "statement": "The few figures still visible in the far distance are the people who came specifically to watch the sun go down.", "answer": true },
             { "statement": "The birch is described as having horizontal black scars typical of the species.", "answer": true },
             { "statement": "According to the text, the specific summer happiness described is loud and requires a great deal of equipment.", "answer": false },
-            { "statement": "The author says places like Okuninka fill up every July because of this quiet, undemanding kind of happiness.", "answer": true },
-            { "statement": "The photograph was taken at Jezioro Białe near Okuninka on a Sunday at the very start of a July day.", "answer": true }
+            { "statement": "The author says a small handful of people stay behind, every evening, to see the day out.", "answer": true },
+            { "statement": "The photograph was taken in the golden hour of a summer evening at Jezioro Białe near Okuninka.", "answer": true }
           ]
         }
       ]
     },
     "C1": {
-      "text": "The birch tree — brzoza in Polish — is one of the most photographed and least discussed elements of the Polish summer landscape, and this frame is quietly excellent at explaining why. The setting is Jezioro Białe, near Okuninka in the Włodawa lake district, at what looks like six or seven in the morning on the fifth of July 2026. In the foreground, a single Betula pendula stands slightly off-vertical, its trunk marked with the horizontal black scars every Pole recognises before they can name what species they are looking at. The beach, still cold from the night, is empty apart from two distant figures that the camera has kept small enough to protect. There is a very Polish philosophy embedded in a scene like this. People drive to Okuninka precisely so that, for a few days, they can replace their office clothes with a swimsuit and a pair of flip-flops, forget who they are supposed to be at work, and stand for a few minutes at the edge of a lake next to a tree that has been rooted here since long before their contracts, their obligations and their calendars existed. The birch does not know any of it. It only rustles.",
-      "text_pl": "Brzoza — po polsku właśnie „brzoza” — jest jednym z najczęściej fotografowanych i najrzadziej omawianych elementów polskiego letniego krajobrazu, a to zdjęcie po cichu wyjaśnia dlaczego. Sceneria to Jezioro Białe pod Okuninką, w powiecie włodawskim, o godzinie, która wygląda na szóstą albo siódmą rano piątego lipca 2026 roku. Na pierwszym planie stoi pojedyncza Betula pendula, lekko odchylona od pionu, o pniu naznaczonym poziomymi czarnymi bliznami, które każdy Polak rozpoznaje, zanim zdąży nazwać gatunek, na który patrzy. Plaża, wciąż zimna po nocy, jest pusta z wyjątkiem dwóch dalekich sylwetek, które aparat świadomie utrzymał na tyle małe, by je chronić. W scenie takiej jak ta zaszyta jest bardzo polska filozofia. Ludzie jeżdżą do Okuninki dokładnie po to, by przez kilka dni móc zastąpić urzędowe ubrania strojem kąpielowym i parą klapek, zapomnieć, kim mają być w pracy, i postać kilka minut na brzegu jeziora obok drzewa, które jest tu zakorzenione długo, zanim istniały ich umowy, ich obowiązki i ich kalendarze. Brzoza nic o tym wszystkim nie wie. Ona tylko szumi.",
+      "text": "The birch tree — brzoza in Polish — is one of the most photographed and least discussed elements of the Polish summer landscape, and this frame is quietly excellent at explaining why. The setting is Jezioro Białe, near Okuninka in the Włodawa lake district, in the golden hour of the fifth of July 2026 — a Sunday evening, a few minutes before the sun will sink behind the far treeline. In the foreground, a single Betula pendula stands slightly off-vertical, its trunk marked with the horizontal black scars every Pole recognises before they can name what species they are looking at. The beach, warm from the whole day, is nearly empty; the small figures visible on the right are the people who did not go home when everyone else did — the ones who came out for exactly this hour. There is a very Polish philosophy embedded in a scene like this. People drive to Okuninka precisely so that, for a few days, they can replace their office clothes with a swimsuit and a pair of flip-flops, forget who they are supposed to be at work, and stand for a few minutes at the edge of a lake next to a tree that has been rooted here since long before their contracts, their obligations and their calendars existed. The birch does not know any of it. It only rustles.",
+      "text_pl": "Brzoza — po polsku właśnie „brzoza” — jest jednym z najczęściej fotografowanych i najrzadziej omawianych elementów polskiego letniego krajobrazu, a to zdjęcie po cichu wyjaśnia dlaczego. Sceneria to Jezioro Białe pod Okuninką, w powiecie włodawskim, w złotej godzinie piątego lipca 2026 roku — niedzielny wieczór, kilka minut zanim słońce zejdzie za daleką linię drzew. Na pierwszym planie stoi pojedyncza Betula pendula, lekko odchylona od pionu, o pniu naznaczonym poziomymi czarnymi bliznami, które każdy Polak rozpoznaje, zanim zdąży nazwać gatunek, na który patrzy. Plaża, ciepła po całym dniu, jest niemal pusta; małe sylwetki widoczne po prawej to ludzie, którzy nie poszli do domu, gdy poszli wszyscy inni — ci, którzy wyszli tu właśnie po tę godzinę. W scenie takiej jak ta zaszyta jest bardzo polska filozofia. Ludzie jeżdżą do Okuninki dokładnie po to, by przez kilka dni móc zastąpić urzędowe ubrania strojem kąpielowym i parą klapek, zapomnieć, kim mają być w pracy, i postać kilka minut na brzegu jeziora obok drzewa, które jest tu zakorzenione długo, zanim istniały ich umowy, ich obowiązki i ich kalendarze. Brzoza nic o tym wszystkim nie wie. Ona tylko szumi.",
       "vocab": [
         { "term": "excellent", "ipa_br": "/ˈeksələnt/", "pl": "znakomity, świetny", "new": true },
         { "term": "off-vertical", "ipa_br": "/ɒf ˈvɜːtɪkəl/", "pl": "odchylony od pionu", "new": true },
@@ -165,8 +165,8 @@
           "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
           "items": [
             { "statement": "The scientific name of the tree in the picture is Betula pendula.", "answer": true },
-            { "statement": "The photograph was taken at midday on the fifth of July 2026.", "answer": false },
-            { "statement": "The camera has kept the two distant figures on the beach small enough to protect their identity.", "answer": true },
+            { "statement": "The photograph was taken in the golden hour of a Sunday evening in early July 2026, a few minutes before the sun sinks behind the far treeline.", "answer": true },
+            { "statement": "The small figures visible on the right are the people who did not go home when everyone else did.", "answer": true },
             { "statement": "The author writes that people drive to Okuninka to keep wearing their office clothes.", "answer": false },
             { "statement": "According to the text, the birch has been rooted at the beach long before contracts, obligations and calendars existed.", "answer": true },
             { "statement": "The closing sentence claims the birch is fully aware of human obligations and reacts to them.", "answer": false }
@@ -175,8 +175,8 @@
       ]
     },
     "C2": {
-      "text": "There is a very specific psychological weight that a Polish lake beach carries at exactly the hour when nobody has arrived yet, and this photograph — taken at Jezioro Białe, near Okuninka in the Łęczna–Włodawa lake district, at some early hour on the fifth of July 2026 — preserves that hour with unusual precision. In the centre of the frame stands a single Betula pendula, tilted permanently to the west by decades of the same summer wind, its bark scored with the black horizontal marks that are the plant's way of shedding old cork as the trunk grows outward. Around it: a strip of raked pale sand, a quiet blue sky, the barely visible line of a swimming buoy, and — in the middle distance — two human figures kept small enough by the lens to remain philosophically anonymous. What the picture argues, without ever needing to state it, is that a particular kind of Polish summer happiness has never really required equipment. A birch, a lake, a stretch of sand and the willingness to arrive before anyone else does are, in this landscape, entirely sufficient. Every year, several million people fly a great distance and pay a great deal of money to fail to reach that condition in a place that promised palm trees. The advantage of Okuninka is that it does not promise them.",
-      "text_pl": "Istnieje bardzo konkretny ciężar psychologiczny, jaki polska plaża nad jeziorem niesie w tej właśnie godzinie, kiedy nikt jeszcze nie przyjechał, a to zdjęcie — zrobione nad Jeziorem Białym pod Okuninką, w Pojezierzu Łęczyńsko-Włodawskim, o wczesnej godzinie piątego lipca 2026 roku — zachowuje tę godzinę z niezwykłą precyzją. W centrum kadru stoi pojedyncza Betula pendula, trwale odchylona na zachód przez dziesięciolecia tego samego letniego wiatru, o korze pociętej poziomymi czarnymi śladami, które są sposobem, w jaki roślina zrzuca stary korek, gdy pień rośnie na zewnątrz. Wokół niej: pas zagrabionego jasnego piasku, cicha, niebieska kopuła nieba, ledwie widoczna linia boi kąpielowych i — w środkowym planie — dwie ludzkie sylwetki utrzymane przez obiektyw na tyle małe, by pozostać filozoficznie anonimowe. To, co obraz argumentuje, nawet nie musząc tego wypowiadać, brzmi tak: pewien szczególny rodzaj polskiego, letniego szczęścia nigdy tak naprawdę nie wymagał żadnego wyposażenia. Brzoza, jezioro, kawałek piasku i gotowość, by przyjechać zanim przyjadą inni, są w tym krajobrazie w zupełności wystarczające. Każdego roku kilka milionów ludzi pokonuje ogromną odległość i płaci ogromne pieniądze, żeby nie osiągnąć tego stanu w miejscu, które obiecało im palmy. Zaletą Okuninki jest to, że niczego im nie obiecuje.",
+      "text": "There is a very specific psychological weight that a Polish lake beach carries in the last hour before the sun goes down, and this photograph — taken at Jezioro Białe, near Okuninka in the Łęczna–Włodawa lake district, in the golden hour of the fifth of July 2026 — preserves that hour with unusual precision. In the centre of the frame stands a single Betula pendula, tilted permanently to the west by decades of the same summer wind, its bark scored with the black horizontal marks that are the plant's way of shedding old cork as the trunk grows outward. Around it: a strip of raked pale sand, a warm high sky the wind has almost fully cleared, the barely visible line of a swimming buoy, and — in the middle distance, on the right — a small handful of human figures kept small enough by the lens to remain philosophically anonymous. These are the people who did not leave when the beach emptied earlier in the evening; they are the ones who came out specifically to see the sun go into the water. What the picture argues, without ever needing to state it, is that a particular kind of Polish summer happiness has never really required equipment. A birch, a lake, a stretch of sand and the willingness to wait until everyone else has left are, in this landscape, entirely sufficient. Every year, several million people fly a great distance and pay a great deal of money to fail to reach that condition in a place that promised palm trees. The advantage of Okuninka is that it does not promise them.",
+      "text_pl": "Istnieje bardzo konkretny ciężar psychologiczny, jaki polska plaża nad jeziorem niesie w ostatniej godzinie, zanim słońce zajdzie, a to zdjęcie — zrobione nad Jeziorem Białym pod Okuninką, w Pojezierzu Łęczyńsko-Włodawskim, w złotej godzinie piątego lipca 2026 roku — zachowuje tę godzinę z niezwykłą precyzją. W centrum kadru stoi pojedyncza Betula pendula, trwale odchylona na zachód przez dziesięciolecia tego samego letniego wiatru, o korze pociętej poziomymi czarnymi śladami, które są sposobem, w jaki roślina zrzuca stary korek, gdy pień rośnie na zewnątrz. Wokół niej: pas zagrabionego jasnego piasku, ciepłe, wysokie niebo, które wiatr już niemal całkowicie oczyścił, ledwie widoczna linia boi kąpielowych i — w środkowym planie, po prawej — drobna garstka ludzkich sylwetek utrzymanych przez obiektyw na tyle małe, by pozostać filozoficznie anonimowe. To są ci, którzy nie wyszli, gdy plaża opustoszała wcześniej wieczorem; to ci, którzy wyszli tu specjalnie po to, by zobaczyć, jak słońce wchodzi w wodę. To, co obraz argumentuje, nawet nie musząc tego wypowiadać, brzmi tak: pewien szczególny rodzaj polskiego, letniego szczęścia nigdy tak naprawdę nie wymagał żadnego wyposażenia. Brzoza, jezioro, kawałek piasku i gotowość, by poczekać, aż wszyscy inni pójdą sobie, są w tym krajobrazie w zupełności wystarczające. Każdego roku kilka milionów ludzi pokonuje ogromną odległość i płaci ogromne pieniądze, żeby nie osiągnąć tego stanu w miejscu, które obiecało im palmy. Zaletą Okuninki jest to, że niczego im nie obiecuje.",
       "vocab": [
         { "term": "psychological", "ipa_br": "/ˌsaɪkəˈlɒdʒɪkəl/", "pl": "psychologiczny", "new": true },
         { "term": "precision", "ipa_br": "/prɪˈsɪʒən/", "pl": "precyzja, dokładność", "new": true },
@@ -198,10 +198,11 @@
           "items": [
             { "statement": "The tree in the frame is described as tilted permanently to the west by decades of the same summer wind.", "answer": true },
             { "statement": "According to the text, the horizontal black marks on the birch bark are the plant's way of shedding old cork as the trunk grows outward.", "answer": true },
-            { "statement": "The two distant human figures are large enough to be clearly identifiable.", "answer": false },
+            { "statement": "The small handful of human figures in the middle distance are large enough to be clearly identifiable.", "answer": false },
             { "statement": "The picture argues that Polish summer happiness has always required a great deal of equipment.", "answer": false },
             { "statement": "The closing sentence says that the advantage of Okuninka is precisely that it does not promise palm trees.", "answer": true },
-            { "statement": "The photograph was taken at Jezioro Białe in the Łęczna–Włodawa lake district on the fifth of July 2026.", "answer": true }
+            { "statement": "The photograph was taken in the golden hour of the fifth of July 2026 at Jezioro Białe in the Łęczna–Włodawa lake district.", "answer": true },
+            { "statement": "The small figures in the middle distance are the people who did not leave when the beach emptied earlier in the evening.", "answer": true }
           ]
         }
       ]
