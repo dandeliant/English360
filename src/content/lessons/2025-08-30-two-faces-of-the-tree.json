@@ -1,0 +1,212 @@
+{
+  "id": "2025-08-30-two-faces-of-the-tree",
+  "date_assigned": "2025-08-30",
+  "date_alternatives": [],
+  "title_en": "Two Faces of the Tree",
+  "title_pl": "Dwa oblicza drzewa",
+  "location": "Wola Chomejowa, gmina Borki, Poland",
+  "image": "/images/2025-08-30-two-faces-of-the-tree.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "tree", "field", "poland", "resilience", "metaphor", "biology", "summer"],
+  "themes": ["duality", "resilience", "polish-countryside", "living-and-dying", "tree-biology"],
+  "did_you_know": {
+    "en": "Trees do not heal wounds the way animals do. This one biological fact, discovered by the American plant pathologist Alex Shigo in the 1970s, changed how arborists everywhere think about damaged trees. When a tree is injured — by lightning, by a broken branch, by a chainsaw cut, by fungal infection — it does not repair the damaged tissue. It cannot. Instead, it seals the wound off into what Shigo called a 'compartment': a walled-off region of the wood that the tree deliberately isolates from its healthy tissue by producing chemical and physical barriers. New wood then grows around the compartment. The dead section stays there — sometimes for centuries — but the living tree continues to add rings around it, uninterrupted. This process is called CODIT: Compartmentalization Of Decay In Trees. The tree in this photograph has, in effect, done this on a very large scale. Its right half is a compartmentalised region of failure. Its left half is the tree's continued, healthy response. Both are the same tree, and the strategy is millions of years old: contain the damage, do not attempt to fix it, and keep on making leaves everywhere else.",
+    "pl": "Drzewa nie leczą ran w taki sposób, jak zwierzęta. Ten jeden fakt biologiczny, odkryty w latach 70. XX wieku przez amerykańskiego patologa roślin Alexa Shigo, zmienił sposób, w jaki arboryści na całym świecie myślą o uszkodzonych drzewach. Kiedy drzewo zostaje zranione — przez piorun, złamaną gałąź, cięcie piły łańcuchowej, infekcję grzybową — nie naprawia uszkodzonej tkanki. Nie potrafi. Zamiast tego uszczelnia ranę w tym, co Shigo nazwał „przedziałem” (ang. compartment): odgrodzonym regionem drewna, który drzewo świadomie izoluje od zdrowej tkanki, produkując chemiczne i fizyczne bariery. Nowe drewno rośnie potem wokół tego przedziału. Martwa sekcja tam zostaje — czasem przez wieki — ale żywe drzewo dalej dokłada kolejne słoje wokół niej, nieprzerwanie. Ten proces nazywa się CODIT: Compartmentalization Of Decay In Trees (kompartmentalizacja rozpadu w drzewach). Drzewo na tym zdjęciu wykonało to w istocie na dużą skalę. Jego prawa połowa jest skompartmentalizowanym regionem porażki. Lewa jest kontynuowaną, zdrową odpowiedzią drzewa. Obie są tym samym drzewem, a strategia liczy sobie miliony lat: zamknij szkodę, nie próbuj jej naprawiać, i wypuszczaj liście wszędzie indziej."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: drzewo o dwóch obliczach na polu pod Wolą Chomejową — jedna połowa zielona i żywa, druga sucha i ogołocona z liści. Naturalna metafora tego, co w nas wypalone, i tego, co wciąż upiera się, by żyć. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia — plus zaskakujący fakt: drzewa nie leczą ran, tylko je zamykają w „przedziałach” (CODIT). english360",
+    "fb_caption_en": "Today on English 360°: a tree with two faces in a field near Wola Chomejowa — one half green and alive, the other bare and dry. A natural metaphor for the burned-out part of us and the part that still insists on living. Six CEFR levels, vocab with IPA, comprehension tasks — plus a surprising fact: trees do not heal wounds, they seal them off in 'compartments' (CODIT). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Tree", "#Resilience", "#Nature", "#Poland", "#CODIT", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. There is a tree in a field. The tree is special. One side of the tree has green leaves. The other side has no leaves. The sky is blue. The sun is high. It is a warm day. But this tree is not the same on both sides.",
+      "text_pl": "Spójrz na to zdjęcie. Na polu jest drzewo. To drzewo jest szczególne. Jedna strona drzewa ma zielone liście. Druga strona nie ma liści. Niebo jest niebieskie. Słońce jest wysoko. Jest ciepły dzień. Ale to drzewo nie jest takie samo po obu stronach.",
+      "vocab": [
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": false },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": true },
+        { "term": "special", "ipa_br": "/ˈspeʃəl/", "pl": "szczególny", "new": true },
+        { "term": "side", "ipa_br": "/saɪd/", "pl": "strona", "new": true },
+        { "term": "green", "ipa_br": "/ɡriːn/", "pl": "zielony", "new": false },
+        { "term": "leaves", "ipa_br": "/liːvz/", "pl": "liście", "new": true },
+        { "term": "high", "ipa_br": "/haɪ/", "pl": "wysoko, wysoki", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true },
+        { "term": "same", "ipa_br": "/seɪm/", "pl": "ten sam", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "tree", "answer": "A" },
+            { "word": "field", "answer": "B" },
+            { "word": "sun", "answer": "C" },
+            { "word": "leaves", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌳" },
+            { "label": "B", "text": "🌾" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "🍃" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This is a photograph of a very unusual tree in a field near a small Polish village. Look carefully. The tree has two very different sides. On the left, it is full of green leaves — alive and healthy. On the right, its branches are bare and dry, as if that half of the tree is asleep or has died. The sun is high in the sky. Both sides of the tree receive the same light. But only one side answers with life. This is a real tree, not a picture from a book. Sometimes a tree can live like this for many years.",
+      "text_pl": "To zdjęcie bardzo niezwykłego drzewa na polu pod małą polską wsią. Przyjrzyj się uważnie. Drzewo ma dwie zupełnie różne strony. Po lewej jest pełne zielonych liści — żywe i zdrowe. Po prawej jego gałęzie są nagie i suche, jakby ta połowa drzewa spała lub umarła. Słońce stoi wysoko na niebie. Obie strony drzewa otrzymują to samo światło. Ale tylko jedna strona odpowiada życiem. To jest prawdziwe drzewo, a nie zdjęcie z książki. Czasami drzewo może tak żyć przez wiele lat.",
+      "vocab": [
+        { "term": "unusual", "ipa_br": "/ʌnˈjuːʒuəl/", "pl": "niezwykły", "new": true },
+        { "term": "carefully", "ipa_br": "/ˈkeəfəli/", "pl": "uważnie", "new": true },
+        { "term": "different", "ipa_br": "/ˈdɪfrənt/", "pl": "różny", "new": true },
+        { "term": "alive", "ipa_br": "/əˈlaɪv/", "pl": "żywy", "new": true },
+        { "term": "healthy", "ipa_br": "/ˈhelθi/", "pl": "zdrowy", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "dry", "ipa_br": "/draɪ/", "pl": "suchy", "new": true },
+        { "term": "die", "ipa_br": "/daɪ/", "pl": "umierać", "new": true },
+        { "term": "receive", "ipa_br": "/rɪˈsiːv/", "pl": "otrzymywać", "new": true },
+        { "term": "real", "ipa_br": "/rɪəl/", "pl": "prawdziwy", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The tree has two very different ___.", "answer": "sides" },
+            { "sentence": "On the left, it is full of green ___.", "answer": "leaves" },
+            { "sentence": "On the right, its branches are bare and ___.", "answer": "dry" },
+            { "sentence": "Both sides of the tree receive the same ___.", "answer": "light" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the thirtieth of August 2025 in an open field just outside Wola Chomejowa, a small village in the gmina of Borki, in the Radzyń district of eastern Poland. In the middle of the frame stands a single tree that seems to be, in the most literal sense, two different trees at the same time. Its left half is full and green; its right half is stripped down to bare branches. Both halves grow out of the same trunk, into the same summer sun. It is not clear from the picture what happened. Perhaps a lightning strike a few years ago; perhaps a slow disease that reached only one side of the vascular system; perhaps drought stress that killed the more exposed half. What is clear is that the left half of this tree is not confused about what to do. It is still leafing, still catching light, still growing. There is a lesson in this, and the photographer's caption made it explicit: even when one part of a life goes dry, the other part can, and often does, keep on.",
+      "text_pl": "To zdjęcie zostało zrobione trzydziestego sierpnia 2025 roku na otwartym polu tuż pod Wolą Chomejową, niewielką wsią w gminie Borki, w powiecie radzyńskim we wschodniej Polsce. Pośrodku kadru stoi pojedyncze drzewo, które wydaje się być, w najbardziej dosłownym sensie, dwoma różnymi drzewami jednocześnie. Jego lewa połowa jest pełna i zielona; prawa jest ogołocona do nagich gałęzi. Obie połowy wyrastają z tego samego pnia, w to samo letnie słońce. Ze zdjęcia nie da się jednoznacznie stwierdzić, co się stało. Może uderzenie pioruna kilka lat temu; może powolna choroba, która dosięgła tylko jednej strony układu naczyniowego; może stres suszy, który zabił bardziej wystawioną połowę. To, co jest jasne, to fakt, że lewa połowa tego drzewa nie ma wątpliwości, co robić. Wciąż wypuszcza liście, wciąż łapie światło, wciąż rośnie. Jest w tym pewna lekcja, i podpis fotografa uczynił ją jawną: nawet kiedy jakaś część życia wysycha, druga część potrafi — i często to robi — po prostu iść dalej.",
+      "vocab": [
+        { "term": "frame", "ipa_br": "/freɪm/", "pl": "kadr", "new": true },
+        { "term": "literal", "ipa_br": "/ˈlɪtərəl/", "pl": "dosłowny", "new": true },
+        { "term": "half", "ipa_br": "/hɑːf/", "pl": "połowa", "new": true },
+        { "term": "strip", "ipa_br": "/strɪp/", "pl": "ogołocić, obedrzeć", "new": true },
+        { "term": "trunk", "ipa_br": "/trʌŋk/", "pl": "pień", "new": true },
+        { "term": "lightning", "ipa_br": "/ˈlaɪtnɪŋ/", "pl": "piorun, błyskawica", "new": true },
+        { "term": "disease", "ipa_br": "/dɪˈziːz/", "pl": "choroba", "new": true },
+        { "term": "vascular", "ipa_br": "/ˈvæskjələ/", "pl": "naczyniowy", "new": true },
+        { "term": "drought", "ipa_br": "/draʊt/", "pl": "susza", "new": true },
+        { "term": "exposed", "ipa_br": "/ɪkˈspəʊzd/", "pl": "wystawiony, narażony", "new": true },
+        { "term": "caption", "ipa_br": "/ˈkæpʃən/", "pl": "podpis (pod zdjęciem)", "new": true },
+        { "term": "explicit", "ipa_br": "/ɪkˈsplɪsɪt/", "pl": "jawny, wyraźny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 30 August 2025 near Wola Chomejowa, in the gmina of Borki, in the Radzyń district.", "answer": true },
+            { "statement": "The tree in the frame has two halves growing out of two separate trunks.", "answer": false },
+            { "statement": "The author lists lightning, disease and drought stress as possible reasons for one half dying.", "answer": true },
+            { "statement": "The left half of the tree is still leafing, catching light and growing.", "answer": true },
+            { "statement": "According to the photographer's caption, when one part of a life goes dry, the other part usually dies as well.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a specific kind of photograph that requires no editing to feel symbolic: the world simply shows up already carrying the metaphor. This one was taken on 30 August 2025 in an open field just outside Wola Chomejowa, a small village in the gmina of Borki, in the Radzyń district of eastern Poland. In the centre stands a tree that has clearly done something few trees do: died, precisely, on one side. The left half is intact — a rounded canopy of soft green leaves catching the late-summer sun. The right half is a scaffold of bare grey branches, roughly the mirror image of the healthy side. Both halves share a single trunk, a single root system, a single set of atmospheric conditions. Whatever killed the right side did not kill the tree. Trees, in fact, do not think of themselves as one continuous organism the way animals do. They grow modularly, and losing a section is closer, biologically, to us losing a fingernail than to us dying. The photographer saw the metaphor immediately and stated it directly in his caption: some part of a life can dry out, and the rest can carry on. Trees prove this quietly every summer. The one in this photograph proves it particularly clearly.",
+      "text_pl": "Istnieje pewien szczególny rodzaj fotografii, który nie wymaga żadnej obróbki, by wydawać się symboliczny: świat po prostu pojawia się już niosąc ze sobą metaforę. Tę zrobiono trzydziestego sierpnia 2025 roku na otwartym polu tuż pod Wolą Chomejową, niewielką wsią w gminie Borki, w powiecie radzyńskim we wschodniej Polsce. Pośrodku stoi drzewo, które wyraźnie zrobiło coś, czego robi niewiele drzew: umarło, precyzyjnie, po jednej stronie. Lewa połowa jest nienaruszona — zaokrąglona korona miękkich zielonych liści łapiąca późnoletnie słońce. Prawa jest rusztowaniem nagich szarych gałęzi, mniej więcej lustrzanym odbiciem zdrowej strony. Obie połowy dzielą jeden pień, jeden system korzeniowy, jeden zestaw warunków atmosferycznych. Cokolwiek zabiło prawą stronę, nie zabiło drzewa. Drzewa w istocie nie myślą o sobie jako o jednym ciągłym organizmie w taki sposób, jak robią to zwierzęta. Rosną modułowo, a utrata sekcji jest, biologicznie, bliższa naszemu straceniu paznokcia niż naszej śmierci. Fotograf natychmiast dostrzegł metaforę i wypowiedział ją wprost w swoim opisie: jakaś część życia może wyschnąć, a reszta może iść dalej. Drzewa dowodzą tego po cichu każdego lata. To na tym zdjęciu dowodzi tego szczególnie wyraźnie.",
+      "vocab": [
+        { "term": "editing", "ipa_br": "/ˈedɪtɪŋ/", "pl": "edycja, obróbka", "new": true },
+        { "term": "symbolic", "ipa_br": "/sɪmˈbɒlɪk/", "pl": "symboliczny", "new": true },
+        { "term": "metaphor", "ipa_br": "/ˈmetəfə/", "pl": "metafora", "new": true },
+        { "term": "intact", "ipa_br": "/ɪnˈtækt/", "pl": "nienaruszony", "new": true },
+        { "term": "canopy", "ipa_br": "/ˈkænəpi/", "pl": "korona (drzewa)", "new": true },
+        { "term": "scaffold", "ipa_br": "/ˈskæfəʊld/", "pl": "rusztowanie", "new": true },
+        { "term": "mirror image", "ipa_br": "/ˈmɪrə ˈɪmɪdʒ/", "pl": "lustrzane odbicie", "new": true },
+        { "term": "share", "ipa_br": "/ʃeə/", "pl": "dzielić (z kimś)", "new": true },
+        { "term": "continuous", "ipa_br": "/kənˈtɪnjuəs/", "pl": "ciągły, nieprzerwany", "new": true },
+        { "term": "organism", "ipa_br": "/ˈɔːɡənɪzəm/", "pl": "organizm", "new": true },
+        { "term": "modularly", "ipa_br": "/ˈmɒdjuləli/", "pl": "modułowo", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 30 August 2025 near Wola Chomejowa, in the gmina of Borki, in the Radzyń district.", "answer": true },
+            { "statement": "The right half of the tree is a rounded canopy of soft green leaves.", "answer": false },
+            { "statement": "Both halves of the tree share a single trunk, a single root system and a single set of atmospheric conditions.", "answer": true },
+            { "statement": "According to the text, trees think of themselves as one continuous organism just like animals.", "answer": false },
+            { "statement": "Biologically, a tree losing a section is closer to a human losing a fingernail than to a human dying.", "answer": true },
+            { "statement": "The photographer's caption states that some part of a life can dry out, and the rest can carry on.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "A tree that has died on one side is one of the strangest visual objects a walker in the Polish countryside can encounter, and this photograph — taken on the thirtieth of August 2025 in a field just outside Wola Chomejowa, a small village in the gmina of Borki in the Radzyń district of eastern Poland — is an unusually clean example of the phenomenon. The tree in the frame is clearly two things at once. Its left half is a rounded, healthy canopy of leaves; its right half is a bare grey silhouette of dead branches. Both grow out of the same trunk. Both share the same root system, the same soil chemistry, the same rainfall, the same sun. And yet only one of them is currently participating in the ancient business of being a tree. There is a specific biological reason this is possible. Trees, unlike vertebrates, are not centrally organised: they are modular, so a lightning strike, a bark wound, a localised fungal infection or a partial vascular failure can kill one side of the crown without killing the tree. The living side does not, in any real sense, mourn the dead one. It simply keeps on doing what leaves do — photosynthesising, releasing water, drawing minerals up the still-functioning half of the xylem. The metaphor writes itself, and the photographer's caption did not resist it: even when part of a life dries up, another part can insist, quietly and stubbornly, on continuing to leaf.",
+      "text_pl": "Drzewo, które umarło po jednej stronie, jest jednym z najdziwniejszych obiektów, jakie może napotkać spacerowicz na polskiej wsi, a to zdjęcie — zrobione trzydziestego sierpnia 2025 roku na polu tuż pod Wolą Chomejową, niewielką wsią w gminie Borki w powiecie radzyńskim we wschodniej Polsce — jest niezwykle czystym przykładem tego zjawiska. Drzewo w kadrze jest wyraźnie dwoma rzeczami jednocześnie. Jego lewa połowa to zaokrąglona, zdrowa korona liści; prawa to naga, szara sylwetka martwych gałęzi. Obie wyrastają z tego samego pnia. Obie dzielą ten sam system korzeniowy, tę samą chemię gleby, ten sam deszcz, to samo słońce. A jednak tylko jedna z nich uczestniczy obecnie w prastarej sprawie bycia drzewem. Istnieje konkretny powód biologiczny, dla którego jest to możliwe. Drzewa, w przeciwieństwie do kręgowców, nie są centralnie zorganizowane: są modułowe, więc uderzenie pioruna, rana kory, zlokalizowana infekcja grzybowa czy częściowa niewydolność naczyń mogą zabić jedną stronę korony bez zabijania drzewa. Żywa strona nie opłakuje, w żadnym realnym sensie, tej martwej. Po prostu dalej robi to, co robią liście — prowadzi fotosyntezę, uwalnia wodę, wciąga minerały wciąż działającą połową ksylemu. Metafora sama się pisze, a podpis fotografa jej nie oparł: nawet kiedy część życia wysycha, druga część potrafi upierać się — cicho i uparcie — przy dalszym wypuszczaniu liści.",
+      "vocab": [
+        { "term": "countryside", "ipa_br": "/ˈkʌntrisaɪd/", "pl": "wieś, tereny wiejskie", "new": true },
+        { "term": "encounter", "ipa_br": "/ɪnˈkaʊntə/", "pl": "napotkać, spotkać", "new": true },
+        { "term": "phenomenon", "ipa_br": "/fəˈnɒmɪnən/", "pl": "zjawisko", "new": true },
+        { "term": "participate", "ipa_br": "/pɑːˈtɪsɪpeɪt/", "pl": "uczestniczyć", "new": true },
+        { "term": "vertebrate", "ipa_br": "/ˈvɜːtɪbrət/", "pl": "kręgowiec", "new": true },
+        { "term": "modular", "ipa_br": "/ˈmɒdjulə/", "pl": "modułowy", "new": true },
+        { "term": "fungal", "ipa_br": "/ˈfʌŋɡəl/", "pl": "grzybowy", "new": true },
+        { "term": "infection", "ipa_br": "/ɪnˈfekʃən/", "pl": "infekcja", "new": true },
+        { "term": "mourn", "ipa_br": "/mɔːn/", "pl": "opłakiwać", "new": true },
+        { "term": "photosynthesise", "ipa_br": "/ˌfəʊtəʊˈsɪnθəsaɪz/", "pl": "prowadzić fotosyntezę", "new": true },
+        { "term": "xylem", "ipa_br": "/ˈzaɪləm/", "pl": "ksylem (tkanka drzewna)", "new": true },
+        { "term": "stubbornly", "ipa_br": "/ˈstʌbənli/", "pl": "uparcie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The tree in the frame is described as clearly two things at once.", "answer": true },
+            { "statement": "The two halves share the same trunk, root system, soil chemistry, rainfall and sun.", "answer": true },
+            { "statement": "According to the text, trees are centrally organised like vertebrates.", "answer": false },
+            { "statement": "The living side of the tree is described as mourning the dead one.", "answer": false },
+            { "statement": "The living side keeps photosynthesising, releasing water and drawing minerals through the still-functioning half of the xylem.", "answer": true },
+            { "statement": "The photographer's caption expresses the idea that when part of a life dries up, another part can insist on continuing to leaf.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a very specific consolation embedded in a tree that has died on one side and not on the other, and this photograph — taken on the thirtieth of August 2025 in a summer field just outside Wola Chomejowa, a hamlet in the gmina of Borki, in the Radzyń district of eastern Poland — offers it without needing to be interpreted. The tree in the frame is, functionally, two trees. The left half is a rounded canopy of green leaves in full late-summer photosynthesis; the right half is a scaffold of grey dead branches. Both halves share a single trunk. Both share a single root system. Both are exposed to the same atmospheric conditions of the same rural field. And yet only one of them is currently, in any measurable sense, alive. The photograph's implicit consolation is biological, not merely poetic. Trees are, in a sense that vertebrates find hard to fully absorb, modular organisms: they do not have a central nervous system, they do not have a coordinating brain, they compartmentalise damage into walled-off sections rather than heal it, and they can carry a substantial amount of dead wood indefinitely without any degradation of the living tissue that surrounds it. This particular tree has apparently done exactly that for some number of seasons. The photographer's caption makes the human application of this fact explicit: in a life, as in a tree, some sections may go dry, may lose their capacity to leaf, may become permanently unable to participate in the summer. This is not, on either side of the metaphor, the end of the organism. It is a specific structural fact about how living things sometimes continue — unevenly, asymmetrically, insisting on a partial but stubborn kind of ongoing summer.",
+      "text_pl": "Jest pewna bardzo konkretna pociecha wpisana w drzewo, które umarło po jednej stronie i nie po drugiej, a to zdjęcie — zrobione trzydziestego sierpnia 2025 roku na letnim polu tuż pod Wolą Chomejową, wsią w gminie Borki, w powiecie radzyńskim we wschodniej Polsce — oferuje ją bez potrzeby interpretacji. Drzewo w kadrze jest, funkcjonalnie, dwoma drzewami. Lewa połowa to zaokrąglona korona zielonych liści w pełnej późnoletniej fotosyntezie; prawa to rusztowanie szarych, martwych gałęzi. Obie połowy dzielą jeden pień. Obie dzielą jeden system korzeniowy. Obie są wystawione na te same warunki atmosferyczne tego samego wiejskiego pola. A jednak tylko jedna z nich jest obecnie, w jakimkolwiek mierzalnym sensie, żywa. Dorozumiana pociecha tego zdjęcia jest biologiczna, nie tylko poetycka. Drzewa są, w sensie, który kręgowcom trudno jest w pełni przyswoić, organizmami modułowymi: nie mają centralnego układu nerwowego, nie mają koordynującego mózgu, kompartmentalizują szkodę w odgrodzonych sekcjach zamiast ją leczyć, i mogą nieść znaczną ilość martwego drewna w nieskończoność bez żadnej degradacji żywej tkanki, która je otacza. To konkretne drzewo najwyraźniej robi dokładnie to od jakiejś liczby sezonów. Podpis fotografa czyni ludzkie zastosowanie tego faktu jawnym: w życiu, jak w drzewie, jakieś sekcje mogą wysychać, mogą tracić zdolność wypuszczania liści, mogą stawać się trwale niezdolne do uczestniczenia w lecie. Nie jest to, po żadnej stronie metafory, koniec organizmu. Jest to konkretny strukturalny fakt o tym, jak istoty żywe czasami trwają — nierówno, asymetrycznie, upierając się przy częściowym, ale upartym rodzaju trwającego lata.",
+      "vocab": [
+        { "term": "consolation", "ipa_br": "/ˌkɒnsəˈleɪʃən/", "pl": "pocieszenie, pociecha", "new": true },
+        { "term": "embedded", "ipa_br": "/ɪmˈbedɪd/", "pl": "wpisany, osadzony", "new": true },
+        { "term": "interpret", "ipa_br": "/ɪnˈtɜːprət/", "pl": "interpretować", "new": true },
+        { "term": "functionally", "ipa_br": "/ˈfʌŋkʃənəli/", "pl": "funkcjonalnie", "new": true },
+        { "term": "photosynthesis", "ipa_br": "/ˌfəʊtəʊˈsɪnθəsɪs/", "pl": "fotosynteza", "new": true },
+        { "term": "implicit", "ipa_br": "/ɪmˈplɪsɪt/", "pl": "dorozumiany, niewypowiedziany", "new": true },
+        { "term": "absorb", "ipa_br": "/əbˈzɔːb/", "pl": "przyswoić, wchłonąć", "new": true },
+        { "term": "nervous system", "ipa_br": "/ˈnɜːvəs ˈsɪstəm/", "pl": "układ nerwowy", "new": true },
+        { "term": "compartmentalise", "ipa_br": "/kəmˌpɑːtˈmentəlaɪz/", "pl": "dzielić na przedziały", "new": true },
+        { "term": "indefinitely", "ipa_br": "/ɪnˈdefənɪtli/", "pl": "w nieskończoność", "new": true },
+        { "term": "degradation", "ipa_br": "/ˌdeɡrəˈdeɪʃən/", "pl": "degradacja, pogorszenie", "new": true },
+        { "term": "asymmetrical", "ipa_br": "/ˌæsɪˈmetrɪkəl/", "pl": "asymetryczny", "new": true },
+        { "term": "stubborn", "ipa_br": "/ˈstʌbən/", "pl": "uparty", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The tree in the frame is described as functionally two trees, sharing a single trunk and a single root system.", "answer": true },
+            { "statement": "According to the text, trees compartmentalise damage into walled-off sections rather than heal it.", "answer": true },
+            { "statement": "The photograph's implicit consolation is described as merely poetic and not at all biological.", "answer": false },
+            { "statement": "Trees, in the sense described in the text, have a central nervous system and a coordinating brain.", "answer": false },
+            { "statement": "The photographer's caption states that in a life, as in a tree, some sections may go dry and lose their capacity to leaf.", "answer": true },
+            { "statement": "The closing sentence describes how living things sometimes continue — unevenly, asymmetrically, insisting on a partial but stubborn kind of ongoing summer.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
