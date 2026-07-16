@@ -1,0 +1,210 @@
+{
+  "id": "2026-05-03-sunset-warsaw",
+  "date_assigned": "2026-05-03",
+  "date_alternatives": [],
+  "title_en": "The Impossible Skyline",
+  "title_pl": "Niemożliwa panorama",
+  "location": "Siekierki, Warsaw, Poland",
+  "image": "/images/2026-05-03-sunset-warsaw.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "city", "sunset", "warsaw", "poland", "vistula", "skyline", "architecture", "history", "reconstruction"],
+  "themes": ["phoenix-city", "polish-history", "canaletto-bellotto", "post-war-rebuilding", "urban-memory"],
+  "did_you_know": {
+    "en": "The Old Town of Warsaw, which stands about three kilometres north of where this photograph was taken, was almost completely destroyed by German forces in 1944, after the Warsaw Uprising. In the 1950s, Polish reconstruction teams undertook to rebuild it street by street — a project that had almost no precedent in modern European history. Their main visual sources were photographs, memories and, remarkably, the paintings of an eighteenth-century Venetian artist, Bernardo Bellotto, who had lived in Warsaw as court painter to King Stanisław August Poniatowski. Between 1767 and 1780, Bellotto (who often signed himself 'Canaletto', after his uncle Antonio) produced twenty-six large paintings of Warsaw — precise, detailed, almost photographic 'vedute' of streets, palaces and squares. Two hundred years later, his paintings became the working blueprints for the reconstruction. In 1980, UNESCO added Warsaw's Old Town to the World Heritage list under an unusual clause: not for the historic city (which no longer existed), but for the reconstruction itself — 'an outstanding example of a near-total reconstruction of a span of history covering the 13th to the 20th century'. To date, it remains one of the very few UNESCO sites listed primarily for having been rebuilt.",
+    "pl": "Stare Miasto w Warszawie, które stoi około trzech kilometrów na północ od miejsca, z którego zrobiono to zdjęcie, zostało niemal całkowicie zniszczone przez Niemców w 1944 roku, po Powstaniu Warszawskim. W latach 50. XX wieku polskie zespoły rekonstrukcyjne podjęły się jego odbudowy ulica po ulicy — projekt, dla którego niemal nie było precedensu w nowożytnej historii Europy. Głównymi wizualnymi źródłami były fotografie, pamięć i — co niezwykłe — obrazy osiemnastowiecznego weneckiego malarza Bernarda Bellotta, który mieszkał w Warszawie jako nadworny malarz króla Stanisława Augusta Poniatowskiego. W latach 1767–1780 Bellotto (który często podpisywał się „Canaletto”, po swoim wuju Antonio) namalował dwadzieścia sześć dużych obrazów Warszawy — precyzyjnych, drobiazgowych, niemal fotograficznych wedut ulic, pałaców i placów. Dwieście lat później jego obrazy stały się roboczymi rysunkami architektonicznymi dla odbudowy. W 1980 roku UNESCO wpisało warszawskie Stare Miasto na Listę Światowego Dziedzictwa na podstawie nietypowej klauzuli: nie za miasto historyczne (którego już nie było), lecz za samą rekonstrukcję — „wybitny przykład niemal całkowitej rekonstrukcji odcinka historii obejmującego XIII–XX wiek”. Do dziś pozostaje jednym z bardzo nielicznych obiektów UNESCO wpisanych przede wszystkim za to, że został odbudowany."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zachód słońca nad panoramą Warszawy z brzegu Wisły w Siekierkach. Motyw: miasto, którego panorama nie powinna istnieć — 85% Warszawy zniszczonych w 1944, odbudowa w latach 1945–63 głównie z osiemnastowiecznych obrazów Canaletta. UNESCO wpisało Stare Miasto na listę dziedzictwa w 1980 roku — nie za historię, lecz za rekonstrukcję. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: sunset over the Warsaw skyline from the Vistula bank in Siekierki. The theme: a skyline that should not exist — 85% of Warsaw was destroyed in 1944, and the city was rebuilt between 1945 and 1963 largely from the eighteenth-century paintings of Canaletto. UNESCO added the Old Town to the World Heritage list in 1980 — not for its history but for its reconstruction. Six CEFR levels. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Warsaw", "#Sunset", "#PhoenixCity", "#Canaletto", "#UNESCO", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening. The sun is orange. On the water, we can see a bright line — the sun shines on the water. Behind the water, we see a big city. This city is Warsaw. Warsaw is the capital of Poland. The tall building in the middle is very old and very famous.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór. Słońce jest pomarańczowe. Na wodzie widać jasną linię — słońce świeci na wodzie. Za wodą widzimy duże miasto. To miasto to Warszawa. Warszawa jest stolicą Polski. Wysoki budynek w środku jest bardzo stary i bardzo sławny.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": false },
+        { "term": "water", "ipa_br": "/ˈwɔːtə/", "pl": "woda", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "city", "ipa_br": "/ˈsɪti/", "pl": "miasto", "new": true },
+        { "term": "capital", "ipa_br": "/ˈkæpɪtəl/", "pl": "stolica", "new": true },
+        { "term": "famous", "ipa_br": "/ˈfeɪməs/", "pl": "sławny", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "building", "ipa_br": "/ˈbɪldɪŋ/", "pl": "budynek", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "C" },
+            { "word": "city", "answer": "A" },
+            { "word": "water", "answer": "D" },
+            { "word": "building", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🏙️" },
+            { "label": "B", "text": "🏢" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "💧" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows the city of Warsaw at sunset. Warsaw is the capital of Poland. The tall building in the middle is the Palace of Culture and Science. Around it, we can see other tall modern buildings. This picture would surprise many people who lived here eighty years ago. In 1945, at the end of a great war, most of Warsaw was destroyed. Almost nothing was left. Polish people spent many years rebuilding the whole city. What we see today is a new Warsaw — but it stands exactly where the old one was.",
+      "text_pl": "To zdjęcie pokazuje miasto Warszawę o zachodzie słońca. Warszawa jest stolicą Polski. Wysoki budynek w środku to Pałac Kultury i Nauki. Wokół niego widzimy inne wysokie, nowoczesne budynki. To zdjęcie zaskoczyłoby wielu ludzi, którzy mieszkali tu osiemdziesiąt lat temu. W 1945 roku, pod koniec wielkiej wojny, większość Warszawy została zniszczona. Prawie nic nie zostało. Polacy spędzili wiele lat, odbudowując całe miasto. To, co widzimy dzisiaj, to nowa Warszawa — ale stoi dokładnie tam, gdzie była stara.",
+      "vocab": [
+        { "term": "photograph", "ipa_br": "/ˈfəʊtəɡrɑːf/", "pl": "zdjęcie, fotografia", "new": true },
+        { "term": "palace", "ipa_br": "/ˈpæləs/", "pl": "pałac", "new": true },
+        { "term": "culture", "ipa_br": "/ˈkʌltʃə/", "pl": "kultura", "new": true },
+        { "term": "science", "ipa_br": "/ˈsaɪəns/", "pl": "nauka", "new": true },
+        { "term": "modern", "ipa_br": "/ˈmɒdən/", "pl": "nowoczesny", "new": true },
+        { "term": "war", "ipa_br": "/wɔː/", "pl": "wojna", "new": true },
+        { "term": "destroyed", "ipa_br": "/dɪˈstrɔɪd/", "pl": "zniszczony", "new": true },
+        { "term": "rebuild", "ipa_br": "/ˌriːˈbɪld/", "pl": "odbudować", "new": true },
+        { "term": "almost", "ipa_br": "/ˈɔːlməʊst/", "pl": "prawie", "new": true },
+        { "term": "exactly", "ipa_br": "/ɪɡˈzæktli/", "pl": "dokładnie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "Warsaw is the ___ of Poland.", "answer": "capital" },
+            { "sentence": "The tall building in the middle is the ___ of Culture and Science.", "answer": "Palace" },
+            { "sentence": "In 1945, at the end of a great war, most of Warsaw was ___.", "answer": "destroyed" },
+            { "sentence": "Polish people spent many years ___ the whole city.", "answer": "rebuilding" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the third of May 2026, from the eastern bank of the Vistula River in the Siekierki district of southern Warsaw, at the moment when the setting sun stood almost directly above the city's skyline. In the middle of the frame rises the sharp point of the Palace of Culture and Science, still Warsaw's most recognisable building. Around it, a row of much newer glass skyscrapers has grown up over the last twenty years. This is the modern silhouette of the Polish capital — and it is, in a very literal sense, a silhouette that should not exist. At the end of the Second World War, in 1945, about eighty-five per cent of Warsaw's buildings had been destroyed. The Old Town was rubble; the streets no longer had names on any working map. Between 1945 and 1963, Polish people rebuilt the entire city. Not built a new city — rebuilt the old one, brick by brick, using the surviving photographs, memories and, remarkably, the eighteenth-century paintings of an Italian court painter called Bernardo Bellotto (known in Poland as Canaletto). The skyline in this photograph is, from a strict architectural point of view, a memory that decided not to disappear.",
+      "text_pl": "To zdjęcie zostało zrobione trzeciego maja 2026 roku, ze wschodniego brzegu Wisły w dzielnicy Siekierki w południowej Warszawie, w chwili, gdy zachodzące słońce stanęło niemal dokładnie nad panoramą miasta. Pośrodku kadru wznosi się ostra iglica Pałacu Kultury i Nauki, wciąż najbardziej rozpoznawalnego budynku Warszawy. Wokół niego wyrósł w ciągu ostatnich dwudziestu lat rząd znacznie nowszych szklanych wieżowców. To jest nowoczesna sylwetka polskiej stolicy — i jest to, w bardzo dosłownym sensie, sylwetka, która nie powinna istnieć. Pod koniec drugiej wojny światowej, w 1945 roku, około osiemdziesiąt pięć procent budynków Warszawy zostało zniszczonych. Stare Miasto było gruzowiskiem; ulice nie miały już nazw na żadnej działającej mapie. W latach 1945–1963 Polacy odbudowali całe miasto. Nie zbudowali nowego — odbudowali stare, cegła po cegle, korzystając z ocalałych fotografii, pamięci i — co niezwykłe — osiemnastowiecznych obrazów włoskiego malarza nadwornego, Bernarda Bellotta (znanego w Polsce jako Canaletto). Panorama na tym zdjęciu jest, ze ściśle architektonicznego punktu widzenia, pamięcią, która postanowiła nie zniknąć.",
+      "vocab": [
+        { "term": "eastern", "ipa_br": "/ˈiːstən/", "pl": "wschodni", "new": true },
+        { "term": "bank", "ipa_br": "/bæŋk/", "pl": "brzeg (rzeki)", "new": true },
+        { "term": "district", "ipa_br": "/ˈdɪstrɪkt/", "pl": "dzielnica", "new": true },
+        { "term": "skyline", "ipa_br": "/ˈskaɪlaɪn/", "pl": "panorama miasta, linia horyzontu", "new": true },
+        { "term": "recognisable", "ipa_br": "/ˈrekəɡnaɪzəbəl/", "pl": "rozpoznawalny", "new": true },
+        { "term": "silhouette", "ipa_br": "/ˌsɪluˈet/", "pl": "sylwetka", "new": true },
+        { "term": "rubble", "ipa_br": "/ˈrʌbəl/", "pl": "gruz", "new": true },
+        { "term": "brick", "ipa_br": "/brɪk/", "pl": "cegła", "new": true },
+        { "term": "surviving", "ipa_br": "/səˈvaɪvɪŋ/", "pl": "ocalały, zachowany", "new": true },
+        { "term": "court painter", "ipa_br": "/kɔːt ˈpeɪntə/", "pl": "nadworny malarz", "new": true },
+        { "term": "memory", "ipa_br": "/ˈmeməri/", "pl": "pamięć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 3 May 2026 from the eastern bank of the Vistula in the Siekierki district of southern Warsaw.", "answer": true },
+            { "statement": "The tall sharp point in the middle of the frame is the Palace of Culture and Science.", "answer": true },
+            { "statement": "According to the text, about 85% of Warsaw's buildings had been destroyed by the end of World War II.", "answer": true },
+            { "statement": "Polish people spent the years 1945–1963 building a completely new city that did not resemble the old one.", "answer": false },
+            { "statement": "The eighteenth-century paintings of Bernardo Bellotto (Canaletto) were used as sources for the reconstruction of the city.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a category of city that European history has produced only a few times — a city that was completely destroyed by war and then, instead of being replaced by a new one, was deliberately rebuilt to look, as far as possible, exactly like the city it used to be. Warsaw is the largest and most extreme member of that category. This photograph, taken on the third of May 2026 from the eastern shore of the Vistula in the Siekierki district, shows what that decision looks like eight decades later. The tall Palace of Culture and Science in the centre, added in 1955 as a Stalinist gift to Poland, is now surrounded by twenty-first-century glass towers — Varso, Q22, the Warsaw Spire — and by a rebuilt Old Town that has been on the UNESCO World Heritage list since 1980, the first site ever added specifically for the achievement of reconstruction. What the photograph quietly records is the shape of that achievement. There is not, anywhere in the frame, a building that stood in this exact form in the summer of 1944. Everything visible is either a rebuild, a replacement, or a later addition. The city is entirely posthumous. And yet nothing about its skyline says that.",
+      "text_pl": "Istnieje pewna kategoria miast, którą historia Europy wyprodukowała tylko kilka razy — miasto całkowicie zniszczone przez wojnę, które zamiast zostać zastąpione nowym zostało świadomie odbudowane tak, aby wyglądało — w miarę możliwości — dokładnie jak miasto, którym było wcześniej. Warszawa jest największym i najbardziej skrajnym członkiem tej kategorii. To zdjęcie, zrobione trzeciego maja 2026 roku ze wschodniego brzegu Wisły w dzielnicy Siekierki, pokazuje, jak ta decyzja wygląda osiem dekad później. Wysoki Pałac Kultury i Nauki pośrodku, dodany w 1955 roku jako stalinowski prezent dla Polski, jest teraz otoczony dwudziestopierwszowiecznymi szklanymi wieżami — Varso, Q22, Warsaw Spire — oraz odbudowanym Starym Miastem, które od 1980 roku znajduje się na liście Światowego Dziedzictwa UNESCO, jako pierwszy obiekt wpisany specjalnie za osiągnięcie odbudowy. To, co zdjęcie po cichu rejestruje, jest kształtem tego osiągnięcia. Nigdzie w kadrze nie ma budynku, który stałby w tej dokładnej formie latem 1944 roku. Wszystko, co widoczne, jest albo odbudową, albo zastępstwem, albo późniejszym dodatkiem. Miasto jest całkowicie pośmiertne. A jednak nic w jego panoramie tego nie mówi.",
+      "vocab": [
+        { "term": "category", "ipa_br": "/ˈkætəɡəri/", "pl": "kategoria", "new": true },
+        { "term": "deliberately", "ipa_br": "/dɪˈlɪbərətli/", "pl": "świadomie, celowo", "new": true },
+        { "term": "extreme", "ipa_br": "/ɪkˈstriːm/", "pl": "skrajny", "new": true },
+        { "term": "shore", "ipa_br": "/ʃɔː/", "pl": "brzeg", "new": true },
+        { "term": "Stalinist", "ipa_br": "/ˈstɑːlɪnɪst/", "pl": "stalinowski", "new": true },
+        { "term": "gift", "ipa_br": "/ɡɪft/", "pl": "prezent, dar", "new": true },
+        { "term": "surround", "ipa_br": "/səˈraʊnd/", "pl": "otaczać", "new": true },
+        { "term": "heritage", "ipa_br": "/ˈherɪtɪdʒ/", "pl": "dziedzictwo", "new": true },
+        { "term": "achievement", "ipa_br": "/əˈtʃiːvmənt/", "pl": "osiągnięcie", "new": true },
+        { "term": "addition", "ipa_br": "/əˈdɪʃən/", "pl": "dodatek", "new": true },
+        { "term": "posthumous", "ipa_br": "/ˈpɒstjʊməs/", "pl": "pośmiertny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, Warsaw is the largest and most extreme member of the category of European cities completely destroyed and then deliberately rebuilt.", "answer": true },
+            { "statement": "The Palace of Culture and Science was added in 1955 as a Stalinist gift to Poland.", "answer": true },
+            { "statement": "The rebuilt Old Town has been on the UNESCO World Heritage list since 1980.", "answer": true },
+            { "statement": "According to the text, most buildings in the frame stood in their exact current form already in the summer of 1944.", "answer": false },
+            { "statement": "The photograph was taken on 3 May 2026 from the eastern shore of the Vistula in Siekierki.", "answer": true },
+            { "statement": "The text describes the city as 'entirely posthumous', with nothing about its skyline explicitly saying so.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a specific philosophical strangeness in walking through a European city that has been completely destroyed and then completely rebuilt. Warsaw is the most extreme example on the continent. This photograph, taken on the third of May 2026 from the eastern bank of the Vistula in the Siekierki district of the Polish capital, is a portrait of that strangeness at its most beautiful. The sun is setting almost exactly above the skyline; the tallest silhouette in the frame is the Palace of Culture and Science, added in 1955 as a Stalinist gift and still, after seventy years, the reference point every Varsovian mentally uses. To the sides, a wall of twenty-first-century glass skyscrapers rises around it. Behind and beside all this, though not directly visible in the frame, sits the Old Town — a UNESCO World Heritage Site since 1980, added specifically for what UNESCO called 'the extraordinary rebuilding, based on documents held in the museums of the city and abroad'. Chief among those documents were the paintings of Bernardo Bellotto, an eighteenth-century Venetian who worked as court painter to Poland's last king. His views of Warsaw, painted in the 1770s, were literally used as architectural drawings in the 1950s. Reconstruction teams matched the paintings brick by brick, window by window, decoration by decoration. What we see in this photograph is not, strictly speaking, the city of Bellotto's paintings. But without those paintings, this photograph could not have been taken.",
+      "text_pl": "Istnieje pewna szczególna filozoficzna dziwność w chodzeniu po europejskim mieście, które zostało całkowicie zniszczone, a potem całkowicie odbudowane. Warszawa jest najbardziej skrajnym przykładem na kontynencie. To zdjęcie, zrobione trzeciego maja 2026 roku ze wschodniego brzegu Wisły w dzielnicy Siekierki polskiej stolicy, jest portretem tej dziwności w jej najpiękniejszej odsłonie. Słońce zachodzi niemal dokładnie nad panoramą; najwyższą sylwetką w kadrze jest Pałac Kultury i Nauki, dodany w 1955 roku jako stalinowski prezent i wciąż, po siedemdziesięciu latach, punkt odniesienia, którego mentalnie używa każdy warszawianin. Po bokach wznosi się wokół niego ściana dwudziestopierwszowiecznych szklanych wieżowców. Za tym wszystkim i obok, choć niewidoczne bezpośrednio w kadrze, siedzi Stare Miasto — od 1980 roku obiekt Światowego Dziedzictwa UNESCO, wpisany konkretnie za to, co UNESCO nazwało „niezwykłą odbudową, opartą na dokumentach przechowywanych w muzeach miasta i za granicą”. Wśród tych dokumentów najważniejsze były obrazy Bernarda Bellotta, osiemnastowiecznego Wenecjanina, który pracował jako nadworny malarz ostatniego króla Polski. Jego weduty Warszawy, malowane w latach siedemdziesiątych XVIII wieku, były w latach pięćdziesiątych XX wieku dosłownie używane jako rysunki architektoniczne. Zespoły rekonstrukcyjne dopasowywały obrazy cegła po cegle, okno po oknie, ozdoba po ozdobie. To, co widzimy na tym zdjęciu, nie jest, ściśle mówiąc, miastem z obrazów Bellotta. Ale bez tych obrazów tego zdjęcia nie dałoby się zrobić.",
+      "vocab": [
+        { "term": "strangeness", "ipa_br": "/ˈstreɪndʒnəs/", "pl": "dziwność", "new": true },
+        { "term": "continent", "ipa_br": "/ˈkɒntɪnənt/", "pl": "kontynent", "new": true },
+        { "term": "Varsovian", "ipa_br": "/vɑːˈsəʊviən/", "pl": "warszawianin, warszawski", "new": true },
+        { "term": "reference point", "ipa_br": "/ˈrefərəns pɔɪnt/", "pl": "punkt odniesienia", "new": true },
+        { "term": "extraordinary", "ipa_br": "/ɪkˈstrɔːdənəri/", "pl": "nadzwyczajny", "new": true },
+        { "term": "view", "ipa_br": "/vjuː/", "pl": "weduta, widok (miasta)", "new": true },
+        { "term": "decoration", "ipa_br": "/ˌdekəˈreɪʃən/", "pl": "dekoracja, ozdoba", "new": true },
+        { "term": "reconstruction", "ipa_br": "/ˌriːkənˈstrʌkʃən/", "pl": "rekonstrukcja, odbudowa", "new": true },
+        { "term": "team", "ipa_br": "/tiːm/", "pl": "zespół", "new": true },
+        { "term": "literally", "ipa_br": "/ˈlɪtərəli/", "pl": "dosłownie", "new": true },
+        { "term": "Venetian", "ipa_br": "/vəˈniːʃən/", "pl": "Wenecjanin, wenecki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text describes Warsaw as the most extreme European example of a city completely destroyed and then completely rebuilt.", "answer": true },
+            { "statement": "The Palace of Culture and Science was added in 1955 as a Stalinist gift and remains a reference point for every Varsovian.", "answer": true },
+            { "statement": "UNESCO added Warsaw's Old Town to its World Heritage list in 1980 for the 'extraordinary rebuilding' of the city.", "answer": true },
+            { "statement": "According to the text, Bernardo Bellotto was a nineteenth-century French artist.", "answer": false },
+            { "statement": "Bellotto's paintings of Warsaw, made in the 1770s, were literally used as architectural drawings in the 1950s reconstruction.", "answer": true },
+            { "statement": "The author claims the photograph could have been taken without Bellotto's paintings.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a philosophical anomaly implicit in every photograph of Warsaw's contemporary skyline, and this frame — taken on the evening of the third of May 2026, from the eastern bank of the Vistula in Siekierki, at the moment when the setting sun stood almost directly above the point of the Palace of Culture and Science — is unusually clean about it. The city visible against the water is, in an architecturally strict sense, an interpretation of an earlier city rather than the continuation of one. Between the summer of 1944 and the winter of 1945, roughly eighty-five per cent of Warsaw's built fabric was systematically destroyed — first by combat, then by German dynamite squads specifically dispatched to raze what still stood after the Warsaw Uprising had ended. From 1945 onwards, and unusually for a European capital, the decision was made not to replace the lost city with a modern one but to reconstitute the old one from surviving records: photographs, personal memories, technical drawings, and — most famously — the vedute painted in the 1770s by Bernardo Bellotto, a Venetian who had followed the fashion for calling himself 'Canaletto' from his uncle's studio. Bellotto's paintings, executed at the invitation of Stanisław August Poniatowski, showed Warsaw in the last decades before the Partitions. Two centuries later, they became architectural blueprints. In 1980 UNESCO added Warsaw's Old Town to the World Heritage list under a specifically constructed clause: not for the historic city itself, which no longer existed, but for the successful and painstaking reconstruction of a historic city that had been destroyed. It remains one of the most philosophically strange entries on the list. This photograph is a portrait of what that clause means at street level. Everything visible is, from a certain point of view, a memory that a city refused to allow itself to be talked out of.",
+      "text_pl": "W każde zdjęcie współczesnej panoramy Warszawy wpisana jest pewna anomalia filozoficzna, a ten kadr — zrobiony wieczorem trzeciego maja 2026 roku, ze wschodniego brzegu Wisły w Siekierkach, w chwili, gdy zachodzące słońce stanęło niemal dokładnie nad iglicą Pałacu Kultury i Nauki — jest wobec niej niezwykle jasny. Miasto widoczne na tle wody jest, w architektonicznie ścisłym sensie, interpretacją wcześniejszego miasta, a nie jego kontynuacją. Między latem 1944 a zimą 1945 roku około osiemdziesiąt pięć procent zabudowy Warszawy zostało systematycznie zniszczonych — najpierw przez walki, potem przez niemieckie oddziały dynamitowe specjalnie wysłane, by zrównać z ziemią to, co wciąż stało po zakończeniu Powstania Warszawskiego. Od 1945 roku i, jak na europejską stolicę nietypowo, podjęto decyzję, by nie zastąpić utraconego miasta nowoczesnym, lecz odtworzyć stare na podstawie zachowanych zapisów: fotografii, osobistych wspomnień, rysunków technicznych i — najbardziej znanych — wedut namalowanych w latach siedemdziesiątych XVIII wieku przez Bernarda Bellotta, Wenecjanina, który poszedł za modą podpisywania się „Canaletto”, od pracowni swojego wuja. Obrazy Bellotta, wykonane na zaproszenie Stanisława Augusta Poniatowskiego, pokazywały Warszawę w ostatnich dekadach przed Rozbiorami. Dwa wieki później stały się rysunkami architektonicznymi. W 1980 roku UNESCO wpisało warszawskie Stare Miasto na Listę Światowego Dziedzictwa na podstawie specjalnie skonstruowanej klauzuli: nie za samo miasto historyczne, którego już nie było, lecz za udaną i mozolną rekonstrukcję zniszczonego miasta historycznego. Pozostaje jednym z filozoficznie najdziwniejszych wpisów na liście. To zdjęcie jest portretem tego, co ta klauzula oznacza na poziomie ulicy. Wszystko, co widoczne, jest, z pewnego punktu widzenia, pamięcią, której miasto nie dało się wygadać.",
+      "vocab": [
+        { "term": "anomaly", "ipa_br": "/əˈnɒməli/", "pl": "anomalia", "new": true },
+        { "term": "implicit", "ipa_br": "/ɪmˈplɪsɪt/", "pl": "wpisany, dorozumiany", "new": true },
+        { "term": "interpretation", "ipa_br": "/ɪnˌtɜːprəˈteɪʃən/", "pl": "interpretacja", "new": true },
+        { "term": "fabric", "ipa_br": "/ˈfæbrɪk/", "pl": "tkanka (miejska)", "new": true },
+        { "term": "systematically", "ipa_br": "/ˌsɪstəˈmætɪkli/", "pl": "systematycznie", "new": true },
+        { "term": "combat", "ipa_br": "/ˈkɒmbæt/", "pl": "walka", "new": true },
+        { "term": "raze", "ipa_br": "/reɪz/", "pl": "zrównać z ziemią", "new": true },
+        { "term": "reconstitute", "ipa_br": "/riˈkɒnstɪtjuːt/", "pl": "odtworzyć", "new": true },
+        { "term": "veduta", "ipa_br": "/veˈduːtə/", "pl": "weduta", "new": true },
+        { "term": "Partitions", "ipa_br": "/pɑːˈtɪʃənz/", "pl": "Rozbiory (Polski)", "new": true },
+        { "term": "blueprint", "ipa_br": "/ˈbluːprɪnt/", "pl": "projekt architektoniczny, rysunek", "new": true },
+        { "term": "clause", "ipa_br": "/klɔːz/", "pl": "klauzula", "new": true },
+        { "term": "painstaking", "ipa_br": "/ˈpeɪnzteɪkɪŋ/", "pl": "mozolny, drobiazgowy", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "According to the text, roughly eighty-five per cent of Warsaw's built fabric was destroyed between the summer of 1944 and the winter of 1945.", "answer": true },
+            { "statement": "The German dynamite squads, according to the text, were specifically dispatched to raze what still stood after the Warsaw Uprising had ended.", "answer": true },
+            { "statement": "The vedute used as sources for reconstruction were painted by Bernardo Bellotto in the 1770s.", "answer": true },
+            { "statement": "Bellotto's paintings were made at the invitation of Napoleon Bonaparte.", "answer": false },
+            { "statement": "The UNESCO clause of 1980 listed Warsaw's Old Town for the historic city itself.", "answer": false },
+            { "statement": "The closing sentence describes everything visible as 'a memory that a city refused to allow itself to be talked out of'.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
