@@ -1,0 +1,212 @@
+{
+  "id": "2026-07-16-middle-earth-gate",
+  "date_assigned": "2026-07-16",
+  "date_alternatives": [],
+  "title_en": "A Gate to Middle-earth",
+  "title_pl": "Wrota do Środziemia",
+  "location": "Sobole, gmina Ulan-Majorat, Poland",
+  "image": "/images/2026-07-16-middle-earth-gate.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "willow", "art", "poland", "tolkien", "fantasy", "portal", "craft", "wiklina"],
+  "themes": ["fantasy-aesthetics", "polish-folk-craft", "living-willow", "thresholds", "tolkien"],
+  "did_you_know": {
+    "en": "The material this arch is made of is not accidental. Willow (in Polish, wierzba; scientifically, the genus Salix) has an unusual biological property that a small number of trees share and most do not: freshly cut willow branches, stuck vertically into damp soil, will produce roots and grow. Almost no other native European tree will do this reliably. The reason is chemical — willow tissue contains unusually high concentrations of two natural rooting hormones, indolebutyric acid and salicylic acid. Gardeners have known this for centuries and use 'willow water' (made by soaking willow twigs in water) as a rooting stimulant for other plants. This one biological fact is why Polish rural culture has, for at least a millennium, used willow specifically to make baskets, fences, hedges, chairs and, more recently, sculptural arches like the one in this photograph. A well-made willow structure planted in fresh earth is not a dead craft object. It can be, if kept damp and watered, still slowly alive — putting down roots at every point where the woven branches touch the ground.",
+    "pl": "Materiał, z którego zrobiona jest ta brama, nie jest przypadkowy. Wierzba (naukowo: rodzaj Salix) ma niezwykłą właściwość biologiczną, którą dzieli z niewielką liczbą drzew, a większość jej nie posiada: świeżo ścięte gałęzie wierzby wbite pionowo w wilgotną glebę wypuszczą korzenie i będą rosnąć. Niemal żadne inne europejskie drzewo rodzime tego nie zrobi niezawodnie. Powód jest chemiczny — tkanka wierzby zawiera wyjątkowo wysokie stężenia dwóch naturalnych hormonów ukorzeniania: kwasu indolilomasłowego (IBA) i kwasu salicylowego. Ogrodnicy wiedzą o tym od stuleci i używają „wody wierzbowej” (przygotowanej przez namoczenie wierzbowych gałązek w wodzie) jako stymulatora ukorzeniania dla innych roślin. Ten jeden fakt biologiczny jest powodem, dla którego polska kultura ludowa od co najmniej tysiąca lat używa wierzby specjalnie do wyrobu koszy, płotów, żywopłotów, krzeseł i — ostatnio — rzeźbiarskich bram, jak ta na zdjęciu. Dobrze wykonana wierzbowa konstrukcja posadzona w świeżej ziemi nie jest martwym przedmiotem rzemieślniczym. Może być, jeśli jest utrzymywana wilgotna i podlewana, wciąż powoli żywa — wypuszczająca korzenie w każdym miejscu, w którym plecione gałęzie dotykają ziemi."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: brama z plecionej wierzby w Sobolach koło Ulan-Majoratu, wyglądająca dokładnie jak wejście do Śródziemia z Tolkiena. Motyw: dlaczego pewne kształty w świecie rzeczywistym uruchamiają w nas skojarzenie „portal do innego świata”. Did-you-know: dlaczego akurat wierzba nadaje się do takich konstrukcji — jej gałęzie zapuszczają korzenie po wbiciu w ziemię. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: a woven willow arch in the village of Sobole in eastern Poland, looking exactly like the entrance to Tolkien's Middle-earth. The theme: why certain shapes in the real world trigger the response 'this is a gate to another world'. Did-you-know: why willow specifically is the tree used for such structures — its branches root when stuck in the ground. Six CEFR levels. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Tolkien", "#Willow", "#Poland", "#FolkCraft", "#Wiklina", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. There are trees. Between the trees, we can see a big gate. The gate is made of wood. It is round. It is very tall. Behind the gate, we can see a path and a house. The trees are green. Everything looks magical.",
+      "text_pl": "Spójrz na to zdjęcie. Są drzewa. Między drzewami widzimy dużą bramę. Brama jest zrobiona z drewna. Jest okrągła. Jest bardzo wysoka. Za bramą widzimy ścieżkę i dom. Drzewa są zielone. Wszystko wygląda magicznie.",
+      "vocab": [
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": false },
+        { "term": "gate", "ipa_br": "/ɡeɪt/", "pl": "brama", "new": true },
+        { "term": "wood", "ipa_br": "/wʊd/", "pl": "drewno", "new": true },
+        { "term": "round", "ipa_br": "/raʊnd/", "pl": "okrągły", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": false },
+        { "term": "path", "ipa_br": "/pɑːθ/", "pl": "ścieżka", "new": true },
+        { "term": "house", "ipa_br": "/haʊs/", "pl": "dom", "new": true },
+        { "term": "green", "ipa_br": "/ɡriːn/", "pl": "zielony", "new": false },
+        { "term": "magical", "ipa_br": "/ˈmædʒɪkəl/", "pl": "magiczny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "tree", "answer": "C" },
+            { "word": "gate", "answer": "A" },
+            { "word": "house", "answer": "D" },
+            { "word": "wood", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🚪" },
+            { "label": "B", "text": "🪵" },
+            { "label": "C", "text": "🌳" },
+            { "label": "D", "text": "🏠" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture was taken in a small Polish village. In the middle of the frame, we can see a special gate. The gate is made from long thin branches of a tree called a willow. Someone wove the branches together to make two big circles. The circles form a round doorway. When you look through the gate, you can see a path and a small white house. The whole place looks magical — as if it belongs to a story from a book about wizards and elves.",
+      "text_pl": "To zdjęcie zostało zrobione w małej polskiej wsi. Pośrodku kadru widzimy niezwykłą bramę. Brama jest zrobiona z długich, cienkich gałęzi drzewa zwanego wierzbą. Ktoś splótł gałęzie razem, tak żeby powstały dwa duże okręgi. Okręgi tworzą okrągłe przejście. Kiedy patrzysz przez bramę, widzisz ścieżkę i mały biały dom. Całe miejsce wygląda magicznie — jakby należało do opowieści z książki o czarodziejach i elfach.",
+      "vocab": [
+        { "term": "special", "ipa_br": "/ˈspeʃəl/", "pl": "szczególny, niezwykły", "new": true },
+        { "term": "middle", "ipa_br": "/ˈmɪdəl/", "pl": "środek", "new": true },
+        { "term": "branch", "ipa_br": "/brɑːntʃ/", "pl": "gałąź", "new": true },
+        { "term": "willow", "ipa_br": "/ˈwɪləʊ/", "pl": "wierzba", "new": true },
+        { "term": "weave", "ipa_br": "/wiːv/", "pl": "pleść", "new": true },
+        { "term": "circle", "ipa_br": "/ˈsɜːkəl/", "pl": "okrąg, koło", "new": true },
+        { "term": "form", "ipa_br": "/fɔːm/", "pl": "tworzyć, formować", "new": true },
+        { "term": "doorway", "ipa_br": "/ˈdɔːweɪ/", "pl": "przejście, brama", "new": true },
+        { "term": "wizard", "ipa_br": "/ˈwɪzəd/", "pl": "czarodziej", "new": true },
+        { "term": "elf", "ipa_br": "/elf/", "pl": "elf", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The gate is made from long thin branches of a tree called a ___.", "answer": "willow" },
+            { "sentence": "Someone wove the branches together to make two big ___.", "answer": "circles" },
+            { "sentence": "When you look through the gate, you can see a path and a small white ___.", "answer": "house" },
+            { "sentence": "The whole place looks magical — as if it belongs to a story from a book about ___ and elves.", "answer": "wizards" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the sixteenth of July 2026, in the small village of Sobole in the gmina of Ulan-Majorat, eastern Poland. In the frame stands a very unusual object: two enormous circles made from woven willow branches, joined together to form a doorway. Behind the doorway, a path leads through the trees to a small white house. The whole scene looks so unlike ordinary Polish countryside that it is impossible not to think of fantasy stories — of the entrance to Rivendell, of the doors of Bag End, of every 'gate to another world' that the imagination of the past century has produced. The photographer wrote in his own caption that he felt as if he could walk through the arch and meet elves and hobbits and wizards on the other side. The impression is very deliberate. Somebody built this arch specifically to look this way — a piece of contemporary craft rooted in a very old Polish tradition of willow weaving, which Poles call 'wiklina'.",
+      "text_pl": "To zdjęcie zostało zrobione szesnastego lipca 2026 roku, w niewielkiej wsi Sobole w gminie Ulan-Majorat, we wschodniej Polsce. W kadrze stoi bardzo niezwykły obiekt: dwa ogromne okręgi zrobione z plecionych gałęzi wierzby, połączone razem tak, że tworzą przejście. Za tym przejściem ścieżka prowadzi przez drzewa do małego, białego domu. Cała scena tak bardzo nie wygląda na zwyczajną polską wieś, że nie sposób nie pomyśleć o opowieściach fantasy — o wejściu do Rivendell, o drzwiach Bag End, o każdej „bramie do innego świata”, jaką wyprodukowała wyobraźnia ostatniego stulecia. Fotograf napisał we własnym podpisie, że czuł się, jakby mógł przejść przez łuk i spotkać po drugiej stronie elfy, hobbitów i czarodziejów. Wrażenie jest całkowicie zamierzone. Ktoś zbudował ten łuk specjalnie po to, żeby tak wyglądał — jest to element współczesnego rzemiosła zakorzeniony w bardzo starej polskiej tradycji plecionkarstwa wierzbowego, zwanego wikliną.",
+      "vocab": [
+        { "term": "unusual", "ipa_br": "/ʌnˈjuːʒuəl/", "pl": "niezwykły", "new": true },
+        { "term": "enormous", "ipa_br": "/ɪˈnɔːməs/", "pl": "ogromny", "new": true },
+        { "term": "woven", "ipa_br": "/ˈwəʊvən/", "pl": "pleciony", "new": true },
+        { "term": "countryside", "ipa_br": "/ˈkʌntrisaɪd/", "pl": "wieś, tereny wiejskie", "new": true },
+        { "term": "fantasy", "ipa_br": "/ˈfæntəsi/", "pl": "fantazja, fantasy", "new": true },
+        { "term": "entrance", "ipa_br": "/ˈentrəns/", "pl": "wejście", "new": true },
+        { "term": "imagination", "ipa_br": "/ɪˌmædʒɪˈneɪʃən/", "pl": "wyobraźnia", "new": true },
+        { "term": "caption", "ipa_br": "/ˈkæpʃən/", "pl": "podpis (pod zdjęciem)", "new": true },
+        { "term": "arch", "ipa_br": "/ɑːtʃ/", "pl": "łuk, brama łukowa", "new": true },
+        { "term": "craft", "ipa_br": "/krɑːft/", "pl": "rzemiosło", "new": true },
+        { "term": "rooted", "ipa_br": "/ˈruːtɪd/", "pl": "zakorzeniony", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 16 July 2026 in the small village of Sobole in the gmina of Ulan-Majorat, eastern Poland.", "answer": true },
+            { "statement": "The arch is made of two enormous circles woven from willow branches.", "answer": true },
+            { "statement": "According to the text, the photographer wrote in his caption that he wanted to walk through the arch and meet elves, hobbits and wizards.", "answer": true },
+            { "statement": "The text says the arch is a natural formation and no one built it on purpose.", "answer": false },
+            { "statement": "The old Polish tradition of willow weaving is called 'wiklina'.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a specific reason certain shapes in the physical world make us think, without meaning to, of fantasy fiction: they satisfy a compact list of visual cues that the last hundred years of Western imagination has slowly agreed on. A round arch — not pointed, not square — made of natural, organic material — not stone, not metal — placed at the edge between light and dark forest, with a path leading through it into an area of soft warm light. This photograph, taken in the small village of Sobole in the gmina of Ulan-Majorat, eastern Poland, on the sixteenth of July 2026, satisfies every one of those criteria at once. The two enormous woven willow circles that form the arch look, from any angle, like an illustration lifted from J.R.R. Tolkien or Ursula K. Le Guin. The photographer noticed this immediately, and his caption said, in effect, that he wanted to walk through and meet elves. What he could not have known without a bit of botanical research is that the material the arch is made of — willow — is unusually well suited to its symbolic role. Willow, unlike almost any other Polish tree, is capable of putting down roots from a cut branch stuck in the ground. A woven willow structure is not necessarily a dead sculpture. It can be, if kept damp, still quietly alive.",
+      "text_pl": "Istnieje konkretny powód, dla którego pewne kształty w świecie fizycznym każą nam pomyśleć, nie chcąc tego, o literaturze fantasy: spełniają zwartą listę wizualnych sygnałów, na które ostatnie sto lat zachodniej wyobraźni powoli się zgodziło. Okrągły łuk — nie ostry, nie kwadratowy — wykonany z naturalnego, organicznego materiału — nie z kamienia, nie z metalu — postawiony na styku światła i ciemnego lasu, z prowadzącą przez niego ścieżką w obszar miękkiego, ciepłego światła. To zdjęcie, zrobione w małej wsi Sobole w gminie Ulan-Majorat we wschodniej Polsce, szesnastego lipca 2026 roku, spełnia każde z tych kryteriów naraz. Dwa ogromne, plecione okręgi z wierzby, które tworzą łuk, wyglądają, z każdego kąta, jak ilustracja przeniesiona z J.R.R. Tolkiena lub Ursuli K. Le Guin. Fotograf zauważył to natychmiast, a jego podpis mówił, w istocie, że chce przejść i spotkać elfy. Czego nie mógł wiedzieć bez odrobiny badań botanicznych, to że materiał, z którego wykonano łuk — wierzba — jest niezwykle dobrze dobrany do swojej symbolicznej roli. Wierzba, w przeciwieństwie do niemal każdego innego polskiego drzewa, potrafi wypuścić korzenie z odciętej gałęzi wbitej w ziemię. Pleciona konstrukcja z wierzby nie musi być martwą rzeźbą. Może być, jeśli utrzymuje się ją wilgotną, wciąż po cichu żywa.",
+      "vocab": [
+        { "term": "cue", "ipa_br": "/kjuː/", "pl": "wskazówka, sygnał (wizualny)", "new": true },
+        { "term": "compact", "ipa_br": "/ˈkɒmpækt/", "pl": "zwarty, zwięzły", "new": true },
+        { "term": "criteria", "ipa_br": "/kraɪˈtɪəriə/", "pl": "kryteria", "new": true },
+        { "term": "illustration", "ipa_br": "/ˌɪləˈstreɪʃən/", "pl": "ilustracja", "new": true },
+        { "term": "botanical", "ipa_br": "/bəˈtænɪkəl/", "pl": "botaniczny", "new": true },
+        { "term": "unusually", "ipa_br": "/ʌnˈjuːʒʊəli/", "pl": "niezwykle", "new": true },
+        { "term": "suited", "ipa_br": "/ˈsuːtɪd/", "pl": "dobrany, odpowiedni", "new": true },
+        { "term": "symbolic", "ipa_br": "/sɪmˈbɒlɪk/", "pl": "symboliczny", "new": true },
+        { "term": "capable", "ipa_br": "/ˈkeɪpəbəl/", "pl": "zdolny (do)", "new": true },
+        { "term": "damp", "ipa_br": "/dæmp/", "pl": "wilgotny", "new": true },
+        { "term": "sculpture", "ipa_br": "/ˈskʌlptʃə/", "pl": "rzeźba", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, the shape of the arch (round, organic, at the edge of light and forest) matches visual cues that fantasy literature has slowly established over the last century.", "answer": true },
+            { "statement": "The two circles that form the arch are made from stone, not willow.", "answer": false },
+            { "statement": "The photographer's caption said, in effect, that he wanted to walk through and meet elves.", "answer": true },
+            { "statement": "The text says willow, unlike almost any other Polish tree, is capable of putting down roots from a cut branch stuck in the ground.", "answer": true },
+            { "statement": "According to the closing sentence, a woven willow structure is necessarily a dead sculpture.", "answer": false },
+            { "statement": "The author cites Ursula K. Le Guin alongside J.R.R. Tolkien as a source of the illustration-like quality of the composition.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a specific psychological phenomenon that happens when a human being encounters an object whose geometry sits close to the archetypes of fantasy literature — a phenomenon that fantasy authors have understood intuitively for well over a century. Round arch. Organic material. Threshold between two states of light. The eye recognises the composition and produces, without consulting the rational mind, the response: this is a gate to another world. This photograph, taken on the evening of the sixteenth of July 2026 in the small village of Sobole in the gmina of Ulan-Majorat, in the Radzyń district of eastern Poland, is a portrait of that response at its most intense. Someone — an artisan working in the very old Polish craft tradition of willow weaving (wiklina) — has woven two enormous circles of willow branches and joined them into a single arch spanning a path through a country garden. From behind, an old whitewashed farmhouse is dimly visible. The path leads through the arch, into and out of light. J.R.R. Tolkien, who spent the last decades of his life explaining that fantasy is not escapism but a specific kind of moral perception, would have recognised this composition immediately. It is the exact geometry of the entrance to Rivendell in his own hand-drawn illustrations. That the entrance in question is real, and stands in a village in eastern Poland, is a happy accident of contemporary craft.",
+      "text_pl": "Istnieje pewne konkretne zjawisko psychologiczne, które zachodzi, kiedy człowiek napotyka obiekt, którego geometria sytuuje się blisko archetypów literatury fantasy — zjawisko, które autorzy fantasy rozumieli intuicyjnie od dobrze ponad stu lat. Okrągły łuk. Organiczny materiał. Próg między dwoma stanami światła. Oko rozpoznaje kompozycję i produkuje, bez konsultacji z racjonalnym umysłem, odpowiedź: to jest brama do innego świata. To zdjęcie, zrobione wieczorem szesnastego lipca 2026 roku w niewielkiej wsi Sobole w gminie Ulan-Majorat, w powiecie radzyńskim we wschodniej Polsce, jest portretem tej reakcji w jej najintensywniejszej odsłonie. Ktoś — rzemieślnik pracujący w bardzo starej polskiej tradycji plecionkarstwa wierzbowego (wiklina) — splótł dwa ogromne okręgi z gałęzi wierzby i połączył je w jeden łuk, rozciągający się nad ścieżką przez wiejski ogród. Z tyłu, słabo widoczny przez drzewa, stoi stary, pobielony wiejski dom. Ścieżka prowadzi przez łuk, w światło i z powrotem. J.R.R. Tolkien, który ostatnie dekady życia spędził tłumacząc, że fantasy nie jest eskapizmem, lecz konkretnym rodzajem moralnego postrzegania, rozpoznałby tę kompozycję natychmiast. Jest to dokładna geometria wejścia do Rivendell z jego własnych, wykonanych ręcznie ilustracji. Fakt, że to wejście jest prawdziwe i stoi w polskiej wsi we wschodniej Polsce, jest szczęśliwym przypadkiem współczesnego rzemiosła.",
+      "vocab": [
+        { "term": "phenomenon", "ipa_br": "/fəˈnɒmɪnən/", "pl": "zjawisko", "new": true },
+        { "term": "encounter", "ipa_br": "/ɪnˈkaʊntə/", "pl": "napotkać", "new": true },
+        { "term": "geometry", "ipa_br": "/dʒiˈɒmətri/", "pl": "geometria", "new": true },
+        { "term": "archetype", "ipa_br": "/ˈɑːkɪtaɪp/", "pl": "archetyp", "new": true },
+        { "term": "intuitively", "ipa_br": "/ɪnˈtjuːɪtɪvli/", "pl": "intuicyjnie", "new": true },
+        { "term": "consult", "ipa_br": "/kənˈsʌlt/", "pl": "konsultować, radzić się", "new": true },
+        { "term": "rational", "ipa_br": "/ˈræʃənəl/", "pl": "racjonalny", "new": true },
+        { "term": "artisan", "ipa_br": "/ˌɑːtɪˈzæn/", "pl": "rzemieślnik", "new": true },
+        { "term": "span", "ipa_br": "/spæn/", "pl": "rozciągać się (nad)", "new": true },
+        { "term": "whitewashed", "ipa_br": "/ˈwaɪtwɒʃt/", "pl": "pobielony", "new": true },
+        { "term": "escapism", "ipa_br": "/ɪˈskeɪpɪzəm/", "pl": "eskapizm", "new": true },
+        { "term": "perception", "ipa_br": "/pəˈsepʃən/", "pl": "postrzeganie, percepcja", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text describes a psychological phenomenon in which a certain geometry (round arch, organic material, threshold between two states of light) triggers the response 'this is a gate to another world'.", "answer": true },
+            { "statement": "The photograph was taken in the small village of Sobole in the gmina of Ulan-Majorat, in the Radzyń district of eastern Poland.", "answer": true },
+            { "statement": "According to the text, J.R.R. Tolkien argued that fantasy is essentially escapism.", "answer": false },
+            { "statement": "The arch is described as having the exact geometry of the entrance to Rivendell in Tolkien's own hand-drawn illustrations.", "answer": true },
+            { "statement": "The artisan who made the arch worked in the old Polish craft tradition of willow weaving (wiklina).", "answer": true },
+            { "statement": "The author concludes that the fact that this entrance is real and stands in a Polish village is a happy accident of contemporary craft.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a family of visual objects — arches, doorways, framed thresholds — that the last century of Anglophone fantasy literature has slowly turned into a code. The code is not that these objects are portals to elsewhere; the code is that the human eye, having read enough Tolkien and Lewis and Le Guin, now recognises certain compositions as portals whether they are advertised as such or not. This photograph, taken on the evening of the sixteenth of July 2026 in the small village of Sobole in the gmina of Ulan-Majorat, in the Radzyń district of eastern Poland, is one of the cleanest examples of that recognition being triggered by a real, non-literary object. Two enormous circles, woven out of Polish willow by an unnamed local artisan working in the folk tradition known as 'wiklina', stand joined together as an arch across a path in a country garden. Behind them, an old whitewashed farmhouse — the sort of Polish country house that has housed rural families for centuries — is barely visible through the trees. The path underfoot is packed earth; the light at the end of the arch is the specific warm light of a mid-July evening. Tolkien, who devoted an entire lecture in 1939 to distinguishing 'fairy story' from mere escapism, argued that certain shapes and images had the capacity to produce, in a rightly disposed reader, what he called 'recovery' — the sudden sense of seeing an ordinary world as if for the first time. This photograph is a recovery event, delivered by an accidental collaboration between a Polish craftsman, an English professor's theory of literature, and the specific optical quality of willow branches lit by a July horizon. The photographer's caption said he wanted to walk through and meet elves. Tolkien would have said that the elves were, in a sense he considered strictly serious, already there.",
+      "text_pl": "Istnieje rodzina obiektów wizualnych — łuki, przejścia, okadrowane progi — które ostatnie sto lat anglojęzycznej literatury fantasy powoli zamieniło w kod. Kod nie polega na tym, że te obiekty są portalami gdzie indziej; kod polega na tym, że ludzkie oko, mając za sobą wystarczająco dużo Tolkiena, Lewisa i Le Guin, rozpoznaje teraz pewne kompozycje jako portale, niezależnie od tego, czy są jako takie reklamowane, czy nie. To zdjęcie, zrobione wieczorem szesnastego lipca 2026 roku w małej wsi Sobole w gminie Ulan-Majorat, w powiecie radzyńskim we wschodniej Polsce, jest jednym z najczystszych przykładów tego, jak takie rozpoznanie zostaje uruchomione przez rzeczywisty, nieliteracki obiekt. Dwa ogromne okręgi, splecione z polskiej wierzby przez nienazwanego lokalnego rzemieślnika pracującego w ludowej tradycji znanej jako „wiklina”, stoją połączone razem jako łuk nad ścieżką w wiejskim ogrodzie. Za nimi, ledwie widoczny przez drzewa, stoi stary pobielony wiejski dom — ten rodzaj polskiego wiejskiego domu, który przez wieki mieścił rolnicze rodziny. Ścieżka pod stopami to ubita ziemia; światło na końcu łuku to szczególne ciepłe światło lipcowego wieczoru. Tolkien, który w 1939 roku poświęcił cały wykład odróżnianiu „baśni” od zwykłego eskapizmu, argumentował, że pewne kształty i obrazy mają zdolność wywoływania, u odpowiednio nastawionego czytelnika, tego, co nazwał „recovery” — nagłego poczucia oglądania zwyczajnego świata jakby po raz pierwszy. To zdjęcie jest wydarzeniem typu „recovery”, dostarczonym przez przypadkową współpracę między polskim rzemieślnikiem, teorią literatury angielskiego profesora i szczególną optyczną jakością wierzbowych gałęzi oświetlonych przez lipcowy horyzont. Podpis fotografa mówił, że chce przejść i spotkać elfy. Tolkien powiedziałby, że elfy były już tam — w sensie, który uważał za ściśle poważny.",
+      "vocab": [
+        { "term": "Anglophone", "ipa_br": "/ˈæŋɡləʊfəʊn/", "pl": "anglojęzyczny", "new": true },
+        { "term": "portal", "ipa_br": "/ˈpɔːtəl/", "pl": "portal", "new": true },
+        { "term": "advertise", "ipa_br": "/ˈædvətaɪz/", "pl": "reklamować, ogłaszać", "new": true },
+        { "term": "trigger", "ipa_br": "/ˈtrɪɡə/", "pl": "wywoływać, uruchamiać", "new": true },
+        { "term": "folk", "ipa_br": "/fəʊk/", "pl": "ludowy", "new": true },
+        { "term": "barely", "ipa_br": "/ˈbeəli/", "pl": "ledwie", "new": true },
+        { "term": "packed", "ipa_br": "/pækt/", "pl": "ubity, zbity", "new": true },
+        { "term": "devote", "ipa_br": "/dɪˈvəʊt/", "pl": "poświęcić", "new": true },
+        { "term": "distinguish", "ipa_br": "/dɪˈstɪŋɡwɪʃ/", "pl": "odróżniać", "new": true },
+        { "term": "capacity", "ipa_br": "/kəˈpæsəti/", "pl": "zdolność, pojemność", "new": true },
+        { "term": "disposed", "ipa_br": "/dɪˈspəʊzd/", "pl": "nastawiony, usposobiony", "new": true },
+        { "term": "recovery", "ipa_br": "/rɪˈkʌvəri/", "pl": "odzyskanie, powrót (do widzenia)", "new": true },
+        { "term": "collaboration", "ipa_br": "/kəˌlæbəˈreɪʃən/", "pl": "współpraca", "new": true },
+        { "term": "optical", "ipa_br": "/ˈɒptɪkəl/", "pl": "optyczny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text says the human eye, having read enough Tolkien, Lewis and Le Guin, now recognises certain compositions as portals whether they are advertised as such or not.", "answer": true },
+            { "statement": "The arch was woven from Polish willow by an unnamed local artisan working in the folk tradition known as 'wiklina'.", "answer": true },
+            { "statement": "According to the text, Tolkien devoted an entire lecture in 1939 to distinguishing 'fairy story' from mere escapism.", "answer": true },
+            { "statement": "Tolkien's concept of 'recovery' is described as the sudden sense of seeing an ordinary world as if for the first time.", "answer": true },
+            { "statement": "The author claims the photograph is a purely literary object with no connection to real Polish craft.", "answer": false },
+            { "statement": "The closing line notes that Tolkien would have said the elves were, in a sense he considered strictly serious, already there.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
