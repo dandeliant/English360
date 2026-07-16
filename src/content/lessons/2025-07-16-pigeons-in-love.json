@@ -1,0 +1,210 @@
+{
+  "id": "2025-07-16-pigeons-in-love",
+  "date_assigned": "2025-07-16",
+  "date_alternatives": [],
+  "title_en": "Two Pigeons in Love",
+  "title_pl": "Zakochane gołębie",
+  "location": "Łuków, Poland",
+  "image": "/images/2025-07-16-pigeons-in-love.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "birds", "pigeons", "silhouette", "poland", "love", "sky", "wire", "romance"],
+  "themes": ["small-moments", "animal-behaviour", "pair-bonding", "polish-small-town"],
+  "did_you_know": {
+    "en": "Pigeons and doves have a private evolutionary specialty that only two other bird families in the world share: they can produce what biologists call 'crop milk'. It is not real milk — there are no mammary glands involved — but a nutrient-rich, cottage-cheese-textured secretion produced by the crop, a muscular pouch in the throat. Both parents produce it. Both feed the chicks with it, directly beak-to-beak, for the first ten days of life. Nothing else about pigeons quite prepares you for this fact: the same bird you have watched pecking at chips on a city square is quietly running one of the most intimate parenting operations in the animal world. The two other bird families able to do this — flamingos and emperor penguins — are not exactly urban neighbours. Combined with the fact that most pigeon species are socially monogamous and that pairs often stay together across many breeding seasons, the small confession one bird is about to make to the other in this photograph is, from a purely biological angle, the opening of a very serious kind of long-term partnership.",
+    "pl": "Gołębiowate mają prywatną ewolucyjną specjalność, którą dzielą z tylko dwiema innymi rodzinami ptaków na świecie: potrafią wytwarzać coś, co biolodzy nazywają „ptasim mlekiem” (crop milk). To nie jest prawdziwe mleko — nie ma tu żadnych gruczołów mlekowych — lecz bogata w składniki odżywcze, o konsystencji twarożku, wydzielina produkowana przez wole, muskularny woreczek w gardle. Wytwarzają je oboje rodzice. Oboje karmią nim pisklęta, bezpośrednio z dzioba do dzioba, przez pierwsze dziesięć dni życia. Nic w codziennym obrazie gołębia nie przygotowuje na ten fakt: ten sam ptak, którego widziałaś dziobiącego frytki na miejskim rynku, po cichu prowadzi jedną z najbardziej intymnych operacji rodzicielskich w świecie zwierząt. Dwie pozostałe rodziny ptaków, które to potrafią — flamingi i pingwiny cesarskie — nie są dokładnie sąsiadami zza rogu. Do tego dochodzi fakt, że większość gatunków gołębi jest społecznie monogamiczna i pary często zostają ze sobą przez wiele sezonów lęgowych — a drobne wyznanie, które jeden ptak zaraz złoży drugiemu na tym zdjęciu, jest, z czysto biologicznego punktu widzenia, otwarciem bardzo poważnego, długoterminowego partnerstwa."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: dwa gołębie na drucie w Łukowie, cyjanowe letnie niebo, moment tuż przed pierwszym „kocham cię”. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia — plus zaskakująca ciekawostka o „ptasim mleku”, które produkują wyłącznie gołębie, flamingi i pingwiny cesarskie. english360",
+    "fb_caption_en": "Today on English 360°: two pigeons on a wire in Łuków, cyan summer sky, the exact moment before a first shy 'I love you'. Six CEFR levels, vocab with IPA, comprehension tasks — plus a surprising fact about 'crop milk', a nutrient secretion produced only by pigeons, flamingos and emperor penguins. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Pigeons", "#Silhouette", "#Łuków", "#Nature", "#Poland", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. Two birds are on a wire. They are pigeons. The sky is blue. It is evening. The birds are close to each other. One bird moves towards the other bird. Perhaps they are in love.",
+      "text_pl": "Spójrz na to zdjęcie. Dwa ptaki są na kablu. To gołębie. Niebo jest niebieskie. Jest wieczór. Ptaki są blisko siebie. Jeden ptak porusza się w stronę drugiego. Może są zakochane.",
+      "vocab": [
+        { "term": "bird", "ipa_br": "/bɜːd/", "pl": "ptak", "new": true },
+        { "term": "pigeon", "ipa_br": "/ˈpɪdʒɪn/", "pl": "gołąb", "new": true },
+        { "term": "wire", "ipa_br": "/ˈwaɪə/", "pl": "drut, kabel", "new": true },
+        { "term": "blue", "ipa_br": "/bluː/", "pl": "niebieski", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": false },
+        { "term": "close", "ipa_br": "/kləʊs/", "pl": "blisko, bliski", "new": true },
+        { "term": "move", "ipa_br": "/muːv/", "pl": "poruszać się", "new": true },
+        { "term": "love", "ipa_br": "/lʌv/", "pl": "miłość, kochać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "bird", "answer": "A" },
+            { "word": "sky", "answer": "B" },
+            { "word": "love", "answer": "C" },
+            { "word": "wire", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🐦" },
+            { "label": "B", "text": "☁️" },
+            { "label": "C", "text": "❤️" },
+            { "label": "D", "text": "➖" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "In this picture, we can see two pigeons sitting on an electric wire. The sky behind them is a beautiful shade of blue. The pigeon on the right is leaning towards the pigeon on the left, as if it wants to say something quiet and important. Maybe it is saying 'I love you' for the very first time. Pigeons often sit together like this. They usually stay with the same partner for many years. This is a small, romantic moment in a very ordinary Polish evening.",
+      "text_pl": "Na tym zdjęciu widzimy dwa gołębie siedzące na elektrycznym kablu. Niebo za nimi ma piękny odcień niebieskiego. Gołąb po prawej pochyla się w stronę gołębia po lewej, jakby chciał powiedzieć coś cichego i ważnego. Może mówi „kocham cię” po raz pierwszy w życiu. Gołębie często siedzą razem w ten sposób. Zazwyczaj zostają z tym samym partnerem przez wiele lat. To drobny, romantyczny moment w bardzo zwyczajny polski wieczór.",
+      "vocab": [
+        { "term": "picture", "ipa_br": "/ˈpɪktʃə/", "pl": "obraz, zdjęcie", "new": true },
+        { "term": "electric", "ipa_br": "/ɪˈlektrɪk/", "pl": "elektryczny", "new": true },
+        { "term": "shade", "ipa_br": "/ʃeɪd/", "pl": "odcień", "new": true },
+        { "term": "lean", "ipa_br": "/liːn/", "pl": "pochylać się", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪət/", "pl": "cichy, spokojny", "new": true },
+        { "term": "important", "ipa_br": "/ɪmˈpɔːtənt/", "pl": "ważny", "new": true },
+        { "term": "partner", "ipa_br": "/ˈpɑːtnə/", "pl": "partner", "new": true },
+        { "term": "year", "ipa_br": "/jɪə/", "pl": "rok", "new": false },
+        { "term": "romantic", "ipa_br": "/rəʊˈmæntɪk/", "pl": "romantyczny", "new": true },
+        { "term": "ordinary", "ipa_br": "/ˈɔːdənəri/", "pl": "zwyczajny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "We can see two pigeons sitting on an electric ___.", "answer": "wire" },
+            { "sentence": "The sky behind them is a beautiful ___ of blue.", "answer": "shade" },
+            { "sentence": "The pigeon on the right is ___ towards the pigeon on the left.", "answer": "leaning" },
+            { "sentence": "Pigeons usually stay with the same ___ for many years.", "answer": "partner" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the sixteenth of July 2025 in Łuków, a small district town in eastern Poland. In the frame, two pigeons sit on an ordinary electric wire, silhouetted against a clean cyan sky — the kind of blue that summer produces about an hour before sunset. What makes the picture unusual is the body language. The right-hand bird is leaning forwards, almost touching the head of the left-hand bird; the left bird is holding still. In photographs of birds on wires, it is rare to catch a moment as tender as this one — most such pictures show two birds simply sitting side by side. Here, one of them is doing something. It looks, as the photographer noticed, exactly like a small, shy 'I love you' being said for the first time. That reading is more accurate than it might sound: pigeons form long-term pair bonds, and their courtship involves exactly this kind of head-forward, near-touching posture.",
+      "text_pl": "To zdjęcie zostało zrobione szesnastego lipca 2025 roku w Łukowie, niewielkim mieście powiatowym we wschodniej Polsce. W kadrze dwa gołębie siedzą na zwykłym drucie elektrycznym, wpisane jako sylwetki w czyste, cyjanowe niebo — ten rodzaj błękitu, który lato produkuje jakąś godzinę przed zachodem słońca. Tym, co czyni obraz niezwykłym, jest mowa ciała. Ptak po prawej pochyla się do przodu, niemal dotykając głowy ptaka po lewej; lewy ptak stoi nieruchomo. Na zdjęciach ptaków na drutach rzadko udaje się uchwycić moment tak czuły jak ten — większość takich fotografii pokazuje dwa ptaki siedzące po prostu obok siebie. Tutaj jeden z nich coś robi. Wygląda to, jak zauważył fotograf, dokładnie jak drobne, nieśmiałe „kocham cię” wypowiadane po raz pierwszy. Ten odczyt jest bardziej trafny, niż mogłoby się wydawać: gołębie tworzą długoterminowe pary, a ich zaloty polegają dokładnie na takim pochylaniu głowy do przodu, prawie do dotknięcia.",
+      "vocab": [
+        { "term": "silhouetted", "ipa_br": "/ˌsɪluˈetɪd/", "pl": "ukazany jako sylwetka", "new": true },
+        { "term": "cyan", "ipa_br": "/ˈsaɪən/", "pl": "cyjanowy, turkusowo-niebieski", "new": true },
+        { "term": "clean", "ipa_br": "/kliːn/", "pl": "czysty", "new": true },
+        { "term": "unusual", "ipa_br": "/ʌnˈjuːʒuəl/", "pl": "niezwykły", "new": true },
+        { "term": "body language", "ipa_br": "/ˈbɒdi ˌlæŋɡwɪdʒ/", "pl": "mowa ciała", "new": true },
+        { "term": "lean", "ipa_br": "/liːn/", "pl": "pochylać się", "new": false },
+        { "term": "tender", "ipa_br": "/ˈtendə/", "pl": "czuły, delikatny", "new": true },
+        { "term": "rare", "ipa_br": "/reə/", "pl": "rzadki", "new": true },
+        { "term": "shy", "ipa_br": "/ʃaɪ/", "pl": "nieśmiały", "new": true },
+        { "term": "courtship", "ipa_br": "/ˈkɔːtʃɪp/", "pl": "zaloty", "new": true },
+        { "term": "posture", "ipa_br": "/ˈpɒstʃə/", "pl": "postawa", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 16 July 2025 in Łuków, eastern Poland.", "answer": true },
+            { "statement": "The two pigeons are sitting on a tree branch, not on a wire.", "answer": false },
+            { "statement": "The right-hand bird is leaning forwards, almost touching the head of the left-hand bird.", "answer": true },
+            { "statement": "According to the text, most pictures of birds on wires catch a moment as tender as this one.", "answer": false },
+            { "statement": "Pigeons form long-term pair bonds and their courtship involves head-forward, near-touching postures.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a particular kind of photograph that requires nothing but patience: two silhouettes against a clean sky, doing something the photographer notices before the birds themselves do. This one was taken on the sixteenth of July 2025 in Łuków, a small town in the Lublin region of eastern Poland, at roughly the moment when the sunlight had softened enough to turn the sky a saturated cyan. Two pigeons — a species notoriously easy to overlook, notoriously easy to dismiss as pests — sit on an electric wire in the middle of the frame. The right bird has just begun to lean forward. The left bird has not yet moved. Between them, about two centimetres of air, and something the human eye instantly reads as the beginning of a confession. Pigeons are not sentimentalists — they do not know that they look like a Victorian love card — but they do bond for life, they do court by inclining their heads towards each other in almost exactly the way this pair are doing, and they do, in a species-specific sense, choose one partner and stay. The picture caught, precisely, the moment before that choice becomes visible.",
+      "text_pl": "Istnieje pewien szczególny rodzaj fotografii, który nie wymaga niczego poza cierpliwością: dwie sylwetki na tle czystego nieba, robiące coś, co fotograf zauważa, zanim zauważą to same ptaki. Ta powstała szesnastego lipca 2025 roku w Łukowie, niewielkim mieście w regionie lubelskim we wschodniej Polsce, mniej więcej w momencie, kiedy światło słoneczne złagodniało już na tyle, by zabarwić niebo nasyconą cyjanową barwą. Dwa gołębie — gatunek notorycznie łatwy do przeoczenia, notorycznie łatwy do odrzucenia jako szkodnik — siedzą na drucie elektrycznym pośrodku kadru. Prawy ptak dopiero zaczyna pochylać się do przodu. Lewy jeszcze się nie poruszył. Między nimi jakieś dwa centymetry powietrza i coś, co ludzkie oko natychmiast odczytuje jako początek wyznania. Gołębie nie są sentymentalistami — nie wiedzą, że wyglądają jak wiktoriańska pocztówka miłosna — ale rzeczywiście łączą się na całe życie, rzeczywiście zalecają się przez pochylanie głowy w stronę drugiego ptaka niemal dokładnie tak, jak robi to ta para, i rzeczywiście, w sposób właściwy dla gatunku, wybierają jednego partnera i przy nim zostają. Zdjęcie uchwyciło precyzyjnie moment tuż przed tym, jak ten wybór stanie się widoczny.",
+      "vocab": [
+        { "term": "patience", "ipa_br": "/ˈpeɪʃəns/", "pl": "cierpliwość", "new": true },
+        { "term": "saturated", "ipa_br": "/ˈsætʃəreɪtɪd/", "pl": "nasycony", "new": true },
+        { "term": "notoriously", "ipa_br": "/nəʊˈtɔːriəsli/", "pl": "notorycznie, powszechnie znany z", "new": true },
+        { "term": "overlook", "ipa_br": "/ˌəʊvəˈlʊk/", "pl": "przeoczyć, pomijać", "new": true },
+        { "term": "dismiss", "ipa_br": "/dɪsˈmɪs/", "pl": "odrzucać, lekceważyć", "new": true },
+        { "term": "pest", "ipa_br": "/pest/", "pl": "szkodnik", "new": true },
+        { "term": "confession", "ipa_br": "/kənˈfeʃən/", "pl": "wyznanie, spowiedź", "new": true },
+        { "term": "sentimentalist", "ipa_br": "/ˌsentɪˈmentəlɪst/", "pl": "sentymentalista", "new": true },
+        { "term": "Victorian", "ipa_br": "/vɪkˈtɔːriən/", "pl": "wiktoriański", "new": true },
+        { "term": "incline", "ipa_br": "/ɪnˈklaɪn/", "pl": "pochylać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken in Łuków at roughly the moment when the sunlight had turned the sky a saturated cyan.", "answer": true },
+            { "statement": "The right bird has already fully embraced the left bird by the time the photograph is taken.", "answer": false },
+            { "statement": "According to the text, pigeons know they look like a Victorian love card.", "answer": false },
+            { "statement": "Pigeons bond for life and court by inclining their heads towards each other in a very specific way.", "answer": true },
+            { "statement": "The author says the picture caught the moment before the choice of a partner becomes visible.", "answer": true },
+            { "statement": "The text describes pigeons as a species notoriously easy to overlook and easy to dismiss as pests.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is an entire subgenre of photography that does not exist yet as a name, but everyone has seen it: two small silhouettes against a pure sky, doing something so specific that the human eye reads a whole story into two centimetres of air. This picture — taken on the evening of the sixteenth of July 2025 in Łuków, a district town in the Lublin voivodeship of eastern Poland, at what looks like just under an hour before sunset — is a superior example. Two pigeons sit on an electric wire in the middle of an unbroken cyan sky. The right bird is leaning forward with the deliberate softness of a creature that has decided something. The left bird is holding perfectly still, in a way that suggests it knows what is about to happen. Nothing in the frame explicitly says 'love'. And yet the reading is almost impossible to avoid. Ethologists have known for at least a century that Columba livia — the rock dove, ancestor of every city pigeon on Earth — forms socially monogamous pair bonds and initiates them through exactly this kind of quiet, forward-leaning gesture. The picture caught, in effect, the visible surface of a very old evolutionary contract. The romance is not the photographer's imagination. It is the photographer's accurate reading of a bird species whose courtship happens to look, from the human side, exactly like a first confession said aloud.",
+      "text_pl": "Istnieje cały podgatunek fotografii, który nie ma jeszcze własnej nazwy, a mimo to każdy go widział: dwie drobne sylwetki na tle czystego nieba, robiące coś tak konkretnego, że ludzkie oko wczytuje w dwa centymetry powietrza całą historię. To zdjęcie — zrobione wieczorem szesnastego lipca 2025 roku w Łukowie, mieście powiatowym w województwie lubelskim we wschodniej Polsce, mniej więcej niecałą godzinę przed zachodem słońca — jest jego lepszym niż zwykle przykładem. Dwa gołębie siedzą na drucie elektrycznym pośrodku nieprzerwanego cyjanowego nieba. Prawy ptak pochyla się do przodu z zamierzoną miękkością stworzenia, które właśnie coś postanowiło. Lewy ptak stoi doskonale nieruchomo, w sposób sugerujący, że wie, co za chwilę się stanie. Nic w kadrze nie mówi wprost „miłość”. A jednak niemal nie sposób tego odczytu uniknąć. Etolodzy od co najmniej stu lat wiedzą, że Columba livia — gołąb skalny, przodek każdego miejskiego gołębia na Ziemi — tworzy społecznie monogamiczne pary i inicjuje je dokładnie przez taki cichy, pochylający głowę do przodu gest. Zdjęcie uchwyciło w istocie widzialną powierzchnię bardzo starego ewolucyjnego kontraktu. Ta romantyczność nie jest wyobraźnią fotografa. Jest jego trafnym odczytaniem gatunku ptaka, którego zaloty wyglądają, od strony człowieka, dokładnie jak pierwsze wyznanie wypowiedziane na głos.",
+      "vocab": [
+        { "term": "subgenre", "ipa_br": "/ˌsʌbˈʒɒnrə/", "pl": "podgatunek", "new": true },
+        { "term": "pure", "ipa_br": "/pjʊə/", "pl": "czysty", "new": true },
+        { "term": "unbroken", "ipa_br": "/ʌnˈbrəʊkən/", "pl": "nieprzerwany", "new": true },
+        { "term": "deliberate", "ipa_br": "/dɪˈlɪbərət/", "pl": "świadomy, zamierzony", "new": true },
+        { "term": "creature", "ipa_br": "/ˈkriːtʃə/", "pl": "stworzenie", "new": true },
+        { "term": "ethologist", "ipa_br": "/iːˈθɒlədʒɪst/", "pl": "etolog, badacz zachowań zwierząt", "new": true },
+        { "term": "ancestor", "ipa_br": "/ˈænsestə/", "pl": "przodek", "new": true },
+        { "term": "monogamous", "ipa_br": "/məˈnɒɡəməs/", "pl": "monogamiczny", "new": true },
+        { "term": "initiate", "ipa_br": "/ɪˈnɪʃieɪt/", "pl": "inicjować, rozpoczynać", "new": true },
+        { "term": "gesture", "ipa_br": "/ˈdʒestʃə/", "pl": "gest", "new": true },
+        { "term": "contract", "ipa_br": "/ˈkɒntrækt/", "pl": "umowa, kontrakt", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on the evening of 16 July 2025 in Łuków, in the Lublin voivodeship.", "answer": true },
+            { "statement": "The right bird is leaning forwards with the deliberate softness of a creature that has decided something.", "answer": true },
+            { "statement": "According to the text, ethologists have known for at least a century that Columba livia forms socially monogamous pair bonds.", "answer": true },
+            { "statement": "The text says the romantic reading of the picture is entirely the photographer's imagination.", "answer": false },
+            { "statement": "The photograph is described as the visible surface of a very old evolutionary contract.", "answer": true },
+            { "statement": "The author claims nothing in the frame explicitly says 'love'.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is an old visual paradox in wildlife photography, and this frame is one of its cleanest illustrations. The paradox is that human observers can read enormous amounts of emotional information into two small animal silhouettes against a plain background — more, arguably, than into the actual mammalian faces of politicians or family members — and that this reading is not, in general, sentimental error. This photograph, taken on the evening of the sixteenth of July 2025 in Łuków, a small district town in the Lublin voivodeship of eastern Poland, shows two rock doves (Columba livia) sitting on an ordinary electric wire against a summer-cyan sky. The right bird has just begun to incline its head towards the left bird. The left bird is entirely still. To the human observer the composition is unmistakable — a first, shy declaration on the verge of being said. Ethologists would describe the same posture in flatter language: a socially monogamous columbid initiating pair-bonding behaviour. Both readings, importantly, describe the same thing. Rock doves do form long-term pair bonds; both members of the pair do produce crop milk to feed their young — a physiological trait shared with only two other bird families in the world; the pair does typically stay together across many breeding seasons and, in many cases, for life. In other words: the emotional reading of the picture is, from a strictly biological point of view, essentially accurate. The photograph is not projecting human romance onto an indifferent nature. It is recording a small evolutionary fact that happens to be, from the human side, indistinguishable from a first 'I love you' said, as the photographer put it, modestly and innocently, for the very first time.",
+      "text_pl": "Istnieje w fotografii przyrodniczej stary paradoks wizualny, i ten kadr jest jednym z jego najczystszych przykładów. Paradoks polega na tym, że ludzcy obserwatorzy potrafią wyczytać ogromne ilości informacji emocjonalnej z dwóch drobnych zwierzęcych sylwetek na tle jednolitego nieba — arguably więcej niż z faktycznych ssaczych twarzy polityków czy członków rodziny — i że ten odczyt nie jest, ogólnie rzecz biorąc, sentymentalnym błędem. To zdjęcie, zrobione wieczorem szesnastego lipca 2025 roku w Łukowie, niewielkim mieście powiatowym w województwie lubelskim we wschodniej Polsce, pokazuje dwa gołębie skalne (Columba livia) siedzące na zwykłym drucie elektrycznym na tle letniego, cyjanowego nieba. Prawy ptak dopiero zaczyna pochylać głowę w stronę lewego. Lewy stoi zupełnie nieruchomo. Dla ludzkiego obserwatora kompozycja jest jednoznaczna — pierwsze, nieśmiałe wyznanie tuż przed tym, jak zostanie wypowiedziane. Etolodzy opisaliby tę samą postawę bardziej sucho: społecznie monogamiczny gołębiowaty inicjujący zachowanie łączenia się w parę. Oba odczyty, co ważne, opisują to samo. Gołębie skalne rzeczywiście tworzą długoterminowe pary; oboje członkowie pary rzeczywiście wytwarzają „ptasie mleko”, by karmić młode — cecha fizjologiczna, którą dzielą z tylko dwiema innymi rodzinami ptaków na świecie; para rzeczywiście najczęściej pozostaje razem przez wiele sezonów lęgowych i w wielu przypadkach na całe życie. Innymi słowy: emocjonalny odczyt tego zdjęcia jest, z czysto biologicznego punktu widzenia, w zasadzie trafny. Fotografia nie projektuje ludzkiej romantyczności na obojętną naturę. Rejestruje drobny fakt ewolucyjny, który tak się składa, że od strony człowieka jest nie do odróżnienia od pierwszego „kocham cię” wypowiedzianego, jak ujął to fotograf, skromnie i niewinnie, po raz pierwszy w życiu.",
+      "vocab": [
+        { "term": "paradox", "ipa_br": "/ˈpærədɒks/", "pl": "paradoks", "new": true },
+        { "term": "illustration", "ipa_br": "/ˌɪləˈstreɪʃən/", "pl": "ilustracja", "new": true },
+        { "term": "observer", "ipa_br": "/əbˈzɜːvə/", "pl": "obserwator", "new": true },
+        { "term": "mammalian", "ipa_br": "/məˈmeɪliən/", "pl": "ssaczy", "new": true },
+        { "term": "voivodeship", "ipa_br": "/ˈvɔɪvəʊdʃɪp/", "pl": "województwo", "new": true },
+        { "term": "rock dove", "ipa_br": "/rɒk dʌv/", "pl": "gołąb skalny", "new": true },
+        { "term": "unmistakable", "ipa_br": "/ˌʌnmɪˈsteɪkəbəl/", "pl": "jednoznaczny, oczywisty", "new": true },
+        { "term": "declaration", "ipa_br": "/ˌdekləˈreɪʃən/", "pl": "wyznanie, deklaracja", "new": true },
+        { "term": "physiological", "ipa_br": "/ˌfɪziəˈlɒdʒɪkəl/", "pl": "fizjologiczny", "new": true },
+        { "term": "trait", "ipa_br": "/treɪt/", "pl": "cecha", "new": true },
+        { "term": "breeding", "ipa_br": "/ˈbriːdɪŋ/", "pl": "rozrodczy, lęgowy", "new": true },
+        { "term": "project", "ipa_br": "/prəˈdʒekt/", "pl": "rzutować, projektować", "new": true },
+        { "term": "indifferent", "ipa_br": "/ɪnˈdɪfrənt/", "pl": "obojętny", "new": true },
+        { "term": "indistinguishable", "ipa_br": "/ˌɪndɪˈstɪŋɡwɪʃəbəl/", "pl": "nieodróżnialny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The photograph shows two rock doves (Columba livia) sitting on an electric wire against a summer-cyan sky in Łuków.", "answer": true },
+            { "statement": "According to the text, both members of a rock dove pair produce crop milk to feed their young.", "answer": true },
+            { "statement": "The crop-milk trait is shared with every other bird family in the world.", "answer": false },
+            { "statement": "The author claims the emotional reading of the picture is, from a strictly biological point of view, essentially accurate.", "answer": true },
+            { "statement": "The photograph is described as projecting human romance onto an indifferent nature.", "answer": false },
+            { "statement": "The text quotes the photographer as describing the moment as a first 'I love you' said modestly and innocently, for the very first time.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
