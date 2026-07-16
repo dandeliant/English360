@@ -1,0 +1,208 @@
+{
+  "id": "2025-04-12-fullmoon-april",
+  "date_assigned": "2025-04-12",
+  "date_alternatives": [],
+  "title_en": "The Paschal Moon",
+  "title_pl": "Pełnia paschalna",
+  "location": "Paskudy, gmina Ulan-Majorat, Poland",
+  "image": "/images/2025-04-12-fullmoon-april.jpg",
+  "image_orientation": "square",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "moon", "night", "sky", "poland", "astronomy", "easter", "spring", "telescope"],
+  "themes": ["paschal-moon", "sacred-and-natural", "polish-countryside", "lunar-calendar"],
+  "did_you_know": {
+    "en": "The date of Easter is not fixed. It is calculated every year according to a rule that was settled at the First Council of Nicaea in the year 325: Easter is the first Sunday after the first full moon that occurs on or after the vernal equinox (approximately 21 March). This is why Easter Sunday can fall anywhere between 22 March and 25 April in the Western church. The full moon used in the calculation is called the Paschal full moon, from Latin 'Pascha' — itself borrowed from Hebrew 'Pesach', the Jewish Passover. The two holidays were deliberately kept close together: for the earliest Christians, the death and resurrection of Jesus took place during Passover week, and the choice of calendar rule preserved that connection. The moon in this photograph — captured on the night of 12 April 2025 — is the exact astronomical body that decided Easter Sunday 2025 fell on 20 April.",
+    "pl": "Data Wielkanocy nie jest stała. Wyznacza się ją co roku według reguły ustalonej na Soborze Nicejskim w roku 325: Wielkanoc to pierwsza niedziela po pierwszej pełni Księżyca, która następuje w dniu równonocy wiosennej (około 21 marca) lub po niej. Dlatego Niedziela Wielkanocna w Kościele zachodnim może wypadać między 22 marca a 25 kwietnia. Pełnia używana w obliczeniach nazywana jest pełnią paschalną, od łacińskiego „Pascha” — samego zapożyczonego z hebrajskiego „Pesach”, żydowskiego Święta Paschy. Oba święta świadomie utrzymywano blisko siebie: dla pierwszych chrześcijan śmierć i zmartwychwstanie Jezusa miały miejsce w tygodniu Paschy, a wybór reguły kalendarzowej zachował tę więź. Księżyc na tym zdjęciu — uchwycony w nocy 12 kwietnia 2025 roku — jest dokładnie tym ciałem astronomicznym, które zadecydowało, że Niedziela Wielkanocna 2025 wypadła 20 kwietnia."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: pełnia księżyca z 12 kwietnia 2025 sfotografowana teleskopem Seestar S50 z ogrodu w Paskudach. To pełnia paschalna — od jej daty zależy, kiedy w danym roku wypada Wielkanoc. Reguła spisana na Soborze Nicejskim w 325 r. i nadal obowiązująca. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia. english360",
+    "fb_caption_en": "Today on English 360°: the full moon of 12 April 2025, photographed with a Seestar S50 telescope from a garden in Paskudy, eastern Poland. This is the Paschal moon — the astronomical event that determines the date of Easter every year, under a rule settled at the First Council of Nicaea in AD 325. Six CEFR levels, vocab with IPA, comprehension tasks. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Moon", "#PaschalMoon", "#Easter", "#Paskudy", "#Astronomy", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the moon. It is very big. The moon is full. The sky is dark. It is night. The moon is white and grey. It is beautiful.",
+      "text_pl": "Spójrz na księżyc. Jest bardzo duży. Księżyc jest w pełni. Niebo jest ciemne. Jest noc. Księżyc jest biały i szary. Jest piękny.",
+      "vocab": [
+        { "term": "moon", "ipa_br": "/muːn/", "pl": "księżyc", "new": true },
+        { "term": "full", "ipa_br": "/fʊl/", "pl": "pełny; (o księżycu) w pełni", "new": true },
+        { "term": "night", "ipa_br": "/naɪt/", "pl": "noc", "new": false },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "white", "ipa_br": "/waɪt/", "pl": "biały", "new": true },
+        { "term": "grey", "ipa_br": "/ɡreɪ/", "pl": "szary", "new": true },
+        { "term": "beautiful", "ipa_br": "/ˈbjuːtɪfəl/", "pl": "piękny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "moon", "answer": "A" },
+            { "word": "night", "answer": "B" },
+            { "word": "sky", "answer": "C" },
+            { "word": "white", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌕" },
+            { "label": "B", "text": "🌌" },
+            { "label": "C", "text": "☁️" },
+            { "label": "D", "text": "⚪" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This is a photograph of the full moon. It was taken with a small telescope on the twelfth of April 2025. When the moon is full, we can see its whole face — bright white parts, dark grey spots, and many small craters. The dark spots on the moon look a little like a face, and many people call it 'the man in the moon'. Every year, one full moon is special: the first full moon of spring. This full moon tells us the date of Easter. Easter is always the first Sunday after this special moon.",
+      "text_pl": "To zdjęcie pełni księżyca. Zostało zrobione małym teleskopem dwunastego kwietnia 2025 roku. Kiedy księżyc jest w pełni, widzimy całą jego twarz — jasne białe fragmenty, ciemne szare plamy i wiele małych kraterów. Ciemne plamy na księżycu wyglądają trochę jak twarz, i wielu ludzi nazywa je „człowiekiem z księżyca”. Co roku jedna pełnia jest szczególna: pierwsza pełnia wiosny. Ta pełnia mówi nam, kiedy jest Wielkanoc. Wielkanoc to zawsze pierwsza niedziela po tej szczególnej pełni.",
+      "vocab": [
+        { "term": "photograph", "ipa_br": "/ˈfəʊtəɡrɑːf/", "pl": "zdjęcie, fotografia", "new": true },
+        { "term": "telescope", "ipa_br": "/ˈtelɪskəʊp/", "pl": "teleskop", "new": true },
+        { "term": "face", "ipa_br": "/feɪs/", "pl": "twarz; powierzchnia", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "spot", "ipa_br": "/spɒt/", "pl": "plama, punkt", "new": true },
+        { "term": "crater", "ipa_br": "/ˈkreɪtə/", "pl": "krater", "new": true },
+        { "term": "special", "ipa_br": "/ˈspeʃəl/", "pl": "szczególny, wyjątkowy", "new": true },
+        { "term": "spring", "ipa_br": "/sprɪŋ/", "pl": "wiosna", "new": true },
+        { "term": "Easter", "ipa_br": "/ˈiːstə/", "pl": "Wielkanoc", "new": true },
+        { "term": "Sunday", "ipa_br": "/ˈsʌndeɪ/", "pl": "niedziela", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "It was taken with a small ___ on the twelfth of April 2025.", "answer": "telescope" },
+            { "sentence": "When the moon is full, we can see its whole ___.", "answer": "face" },
+            { "sentence": "Every year, one full moon is special: the first full moon of ___.", "answer": "spring" },
+            { "sentence": "Easter is always the first ___ after this special moon.", "answer": "Sunday" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture of the full moon was taken from a small Polish village called Paskudy, in the Ulan-Majorat district of eastern Poland, on the twelfth of April 2025, using a small home telescope (a Seestar S50). It shows the near side of the moon in exceptional detail — the bright highlands, the dark 'seas' (which are actually old lava plains from four billion years ago), and hundreds of visible craters. This particular full moon is not just any full moon: it is the Paschal full moon of 2025, the first full moon of the spring. Every year, the date of Easter depends on it. According to a very old Christian rule, Easter is the first Sunday after the first full moon that falls on or after the twenty-first of March, the vernal equinox. This is why Easter changes date every year, moving between the end of March and the end of April. In 2025 the Paschal moon peaked on Sunday 13 April, and Easter was celebrated the following Sunday, 20 April. The moon in this photograph is the reason.",
+      "text_pl": "To zdjęcie pełni księżyca zostało zrobione ze wsi Paskudy, w gminie Ulan-Majorat we wschodniej Polsce, dwunastego kwietnia 2025 roku, przy pomocy małego, domowego teleskopu (Seestar S50). Pokazuje widoczną stronę księżyca w wyjątkowym szczególe — jasne wyżyny, ciemne „morza” (które w rzeczywistości są starymi równinami lawy sprzed czterech miliardów lat) i setki widocznych kraterów. Ta konkretna pełnia nie jest zwyczajną pełnią: to pełnia paschalna 2025 roku, pierwsza pełnia tej wiosny. Co roku data Wielkanocy zależy właśnie od niej. Zgodnie z bardzo starą regułą chrześcijańską Wielkanoc to pierwsza niedziela po pierwszej pełni Księżyca, która wypada w dniu równonocy wiosennej (21 marca) lub po niej. Dlatego Wielkanoc co roku ma inną datę, przesuwając się między końcem marca a końcem kwietnia. W 2025 roku pełnia paschalna wypadła w niedzielę 13 kwietnia, a Wielkanoc obchodzono tydzień później, w niedzielę 20 kwietnia. Księżyc na tym zdjęciu jest tego przyczyną.",
+      "vocab": [
+        { "term": "exceptional", "ipa_br": "/ɪkˈsepʃənəl/", "pl": "wyjątkowy", "new": true },
+        { "term": "detail", "ipa_br": "/ˈdiːteɪl/", "pl": "szczegół", "new": true },
+        { "term": "highlands", "ipa_br": "/ˈhaɪləndz/", "pl": "wyżyny", "new": true },
+        { "term": "lava", "ipa_br": "/ˈlɑːvə/", "pl": "lawa", "new": true },
+        { "term": "plain", "ipa_br": "/pleɪn/", "pl": "równina", "new": true },
+        { "term": "Paschal", "ipa_br": "/ˈpæskəl/", "pl": "paschalny", "new": true },
+        { "term": "Christian", "ipa_br": "/ˈkrɪstʃən/", "pl": "chrześcijański, chrześcijanin", "new": true },
+        { "term": "vernal", "ipa_br": "/ˈvɜːnəl/", "pl": "wiosenny", "new": true },
+        { "term": "equinox", "ipa_br": "/ˈiːkwɪnɒks/", "pl": "równonoc", "new": true },
+        { "term": "celebrate", "ipa_br": "/ˈselɪbreɪt/", "pl": "świętować, obchodzić", "new": true },
+        { "term": "peak", "ipa_br": "/piːk/", "pl": "osiągać szczyt; szczyt", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken with a small home telescope (a Seestar S50) at Paskudy in eastern Poland.", "answer": true },
+            { "statement": "The dark 'seas' on the moon are actually old lava plains from four billion years ago.", "answer": true },
+            { "statement": "According to the text, Easter can only fall in March.", "answer": false },
+            { "statement": "In 2025 the Paschal moon peaked on Sunday 13 April, and Easter was celebrated on 20 April.", "answer": true },
+            { "statement": "The author says the moon in this photograph is the reason Easter fell on the date it did in 2025.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "This is a portrait of a very specific full moon: the Paschal moon of 2025, photographed on the evening of the twelfth of April from a garden in the small village of Paskudy in the Łuków district of eastern Poland. The image was captured with a Seestar S50, a smart home telescope small enough to sit on a garden table, and the level of detail is genuinely remarkable — the maria (the dark basaltic plains that geologists have known about for four hundred years) and the bright rays radiating out from the Tycho and Copernicus craters are clearly visible. What makes this moon a 'Paschal' one is not its brightness but its calendar position. In the Christian tradition — settled by the First Council of Nicaea in the year 325 — Easter is defined as the first Sunday following the first full moon on or after the vernal equinox (approximately 21 March). In 2025 that specific full moon peaked on Sunday, 13 April, one day after this picture was taken, and Easter was celebrated the following Sunday, 20 April. It is a strange and beautiful side of the Christian calendar: for two thousand years, the date of its central holiday has been decided by an object in the sky that most Christians never even look up at.",
+      "text_pl": "To portret bardzo konkretnej pełni Księżyca: pełni paschalnej 2025 roku, sfotografowanej wieczorem dwunastego kwietnia z ogrodu w niewielkiej wsi Paskudy, w powiecie łukowskim we wschodniej Polsce. Zdjęcie zostało uchwycone przez Seestar S50, inteligentny domowy teleskop dostatecznie mały, by stanąć na ogrodowym stole, a poziom szczegółu jest naprawdę godny uwagi — widoczne są maria (ciemne bazaltowe równiny, znane geologom od czterystu lat) oraz jasne promienie rozchodzące się od kraterów Tycho i Kopernik. To, co czyni tę pełnię paschalną, nie jest jej jasność, lecz jej pozycja w kalendarzu. W tradycji chrześcijańskiej — ustalonej na Soborze Nicejskim w 325 roku — Wielkanoc definiuje się jako pierwszą niedzielę następującą po pierwszej pełni Księżyca w dniu równonocy wiosennej (około 21 marca) lub po niej. W 2025 roku ta konkretna pełnia osiągnęła szczyt w niedzielę 13 kwietnia, jeden dzień po zrobieniu tego zdjęcia, a Wielkanoc obchodzono tydzień później, w niedzielę 20 kwietnia. To dziwna i piękna strona kalendarza chrześcijańskiego: od dwóch tysięcy lat data jego głównego święta rozstrzygana jest przez obiekt na niebie, na który większość chrześcijan nawet nie zerknie w górę.",
+      "vocab": [
+        { "term": "portrait", "ipa_br": "/ˈpɔːtrət/", "pl": "portret", "new": true },
+        { "term": "garden", "ipa_br": "/ˈɡɑːdən/", "pl": "ogród", "new": true },
+        { "term": "capture", "ipa_br": "/ˈkæptʃə/", "pl": "uchwycić, zarejestrować", "new": true },
+        { "term": "remarkable", "ipa_br": "/rɪˈmɑːkəbəl/", "pl": "godny uwagi, niezwykły", "new": true },
+        { "term": "maria", "ipa_br": "/ˈmɑːriə/", "pl": "maria (księżycowe morza)", "new": true },
+        { "term": "basaltic", "ipa_br": "/bəˈsɔːltɪk/", "pl": "bazaltowy", "new": true },
+        { "term": "geologist", "ipa_br": "/dʒiˈɒlədʒɪst/", "pl": "geolog", "new": true },
+        { "term": "ray", "ipa_br": "/reɪ/", "pl": "promień", "new": true },
+        { "term": "radiate", "ipa_br": "/ˈreɪdieɪt/", "pl": "promieniować, rozchodzić się", "new": true },
+        { "term": "settle", "ipa_br": "/ˈsetəl/", "pl": "ustalić, rozstrzygnąć", "new": true },
+        { "term": "council", "ipa_br": "/ˈkaʊnsəl/", "pl": "sobór, rada", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken from a garden in the small village of Paskudy in the Łuków district of eastern Poland.", "answer": true },
+            { "statement": "The image was captured with a Seestar S50 smart home telescope.", "answer": true },
+            { "statement": "According to the text, geologists have known about the maria for only forty years.", "answer": false },
+            { "statement": "The First Council of Nicaea, which defined the Easter rule, took place in the year 325.", "answer": true },
+            { "statement": "In 2025 the Paschal full moon peaked on Sunday 13 April, one day after the picture was taken.", "answer": true },
+            { "statement": "The closing sentence claims that the date of the central Christian holiday has been decided by an object in the sky for two thousand years.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is one full moon each year that is unlike the others, and this photograph — taken on the evening of the twelfth of April 2025, through a Seestar S50 telescope in the garden of a house in Paskudy, a village in the Łuków district of eastern Poland — is a portrait of it. This is the Paschal moon, the moon that decides Easter. The rule, settled at the First Council of Nicaea in the year 325 and still in force in every major branch of Western Christianity, is astonishingly simple: Easter falls on the first Sunday after the first ecclesiastical full moon that occurs on or after the vernal equinox. In 2025 the astronomical full moon peaked on Sunday, 13 April, and Easter was accordingly celebrated a week later, on Sunday, 20 April. But the rule itself is older than Nicaea. The fourth-century bishops were, in effect, formalising a Jewish calendar convention already used by the earliest Christian communities to align Easter with the Passover of the Hebrew Bible. That is why, if you look at any Easter Sunday in any Western country, the odds are excellent that the surrounding Jewish community is celebrating Pesach the same week. The moon in this photograph is, in that sense, older than either religion. It simply does what moons have always done — waxing and waning on a predictable 29.5-day rhythm — while two of the world's largest religious calendars quietly tie their most important dates to its face.",
+      "text_pl": "Jest jedna pełnia w roku, która nie jest podobna do żadnej innej, i to zdjęcie — zrobione wieczorem dwunastego kwietnia 2025 roku, przez teleskop Seestar S50, w ogrodzie domu w Paskudach, wsi w powiecie łukowskim we wschodniej Polsce — jest jej portretem. To pełnia paschalna, pełnia która decyduje o Wielkanocy. Reguła, ustalona na Pierwszym Soborze Nicejskim w 325 roku i wciąż obowiązująca w każdej głównej gałęzi zachodniego chrześcijaństwa, jest zdumiewająco prosta: Wielkanoc wypada w pierwszą niedzielę po pierwszej kościelnej pełni Księżyca, która następuje w dniu równonocy wiosennej lub po niej. W 2025 roku pełnia astronomiczna osiągnęła szczyt w niedzielę 13 kwietnia, a Wielkanoc świętowano zgodnie z regułą tydzień później, w niedzielę 20 kwietnia. Ale sama reguła jest starsza niż Nicea. Biskupi z IV wieku w rzeczywistości formalizowali żydowską konwencję kalendarzową, której używały już najwcześniejsze wspólnoty chrześcijańskie, aby zestrajać Wielkanoc z Paschą z Biblii hebrajskiej. Dlatego, jeśli spojrzysz na jakąkolwiek Niedzielę Wielkanocną w jakimkolwiek zachodnim kraju, jest bardzo prawdopodobne, że okoliczna społeczność żydowska świętuje Pesach w tym samym tygodniu. Księżyc na tym zdjęciu jest, w tym sensie, starszy niż którakolwiek z obu religii. Po prostu robi to, co księżyce robią zawsze — przybywa i ubywa w przewidywalnym 29,5-dniowym rytmie — podczas gdy dwa z największych kalendarzy religijnych świata po cichu przywiązują swoje najważniejsze daty do jego twarzy.",
+      "vocab": [
+        { "term": "ecclesiastical", "ipa_br": "/ɪˌkliːziˈæstɪkəl/", "pl": "kościelny, liturgiczny", "new": true },
+        { "term": "astonishingly", "ipa_br": "/əˈstɒnɪʃɪŋli/", "pl": "zdumiewająco", "new": true },
+        { "term": "convention", "ipa_br": "/kənˈvenʃən/", "pl": "konwencja", "new": true },
+        { "term": "accordingly", "ipa_br": "/əˈkɔːdɪŋli/", "pl": "odpowiednio, zgodnie z tym", "new": true },
+        { "term": "formalise", "ipa_br": "/ˈfɔːməlaɪz/", "pl": "formalizować", "new": true },
+        { "term": "align", "ipa_br": "/əˈlaɪn/", "pl": "zestrajać, ustawiać w linii", "new": true },
+        { "term": "Passover", "ipa_br": "/ˈpɑːsəʊvə/", "pl": "Pesach, Święto Paschy", "new": true },
+        { "term": "Hebrew", "ipa_br": "/ˈhiːbruː/", "pl": "hebrajski", "new": true },
+        { "term": "community", "ipa_br": "/kəˈmjuːnəti/", "pl": "wspólnota, społeczność", "new": true },
+        { "term": "wax", "ipa_br": "/wæks/", "pl": "(o Księżycu) przybywać, rosnąć", "new": true },
+        { "term": "wane", "ipa_br": "/weɪn/", "pl": "(o Księżycu) ubywać, zanikać", "new": true },
+        { "term": "rhythm", "ipa_br": "/ˈrɪðəm/", "pl": "rytm", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The rule defining Easter was settled at the First Council of Nicaea in the year 325.", "answer": true },
+            { "statement": "According to the text, Easter falls on the first Sunday after the first ecclesiastical full moon that occurs on or after the vernal equinox.", "answer": true },
+            { "statement": "The author writes that the rule was invented from scratch by the fourth-century bishops.", "answer": false },
+            { "statement": "The earliest Christian communities used a Jewish calendar convention to align Easter with Passover.", "answer": true },
+            { "statement": "The text says the moon in the photograph waxes and wanes on a predictable 29.5-day rhythm.", "answer": true },
+            { "statement": "The closing sentence claims the moon knows nothing about the two religious calendars that tie their dates to it.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There are few objects a photograph can hold that carry more calendrical weight than this one. The moon captured here, through a Seestar S50 telescope from a garden in Paskudy, a small village in the Łuków district of eastern Poland, on the evening of the twelfth of April 2025, is the Paschal full moon of that year — the astronomical event that, according to a decision taken by roughly three hundred Christian bishops at the First Council of Nicaea in the summer of AD 325, determines the date of Easter across the entire Western church. The rule is: Easter is the first Sunday after the first ecclesiastical full moon on or after the vernal equinox. In 2025 the full moon peaked at 02:22 Central European Summer Time on Sunday, 13 April, and Easter was accordingly celebrated one week later, on 20 April. The philosophical strangeness of the arrangement is easily missed. Two of the world's largest religions — Christianity and Judaism — have deliberately anchored their most important annual observances (Easter and Pesach, respectively) not to a fixed civil date, but to a moving natural body whose motion no ancient calendar-maker fully understood. For two millennia, the moon on a spring night has been telling Rome, Constantinople, Warsaw and Kraków when to celebrate the resurrection, and Jerusalem, New York and Warsaw when to celebrate the exodus. The moon does not know any of this. It only reflects sunlight — about twelve per cent of it, on a good night — and waits for the next Sunday to come.",
+      "text_pl": "Niewiele obiektów, jakie może pomieścić zdjęcie, niesie ze sobą więcej kalendarzowego ciężaru niż ten. Księżyc uchwycony tutaj, przez teleskop Seestar S50 z ogrodu w Paskudach, niewielkiej wsi w powiecie łukowskim we wschodniej Polsce, wieczorem dwunastego kwietnia 2025 roku, jest pełnią paschalną tamtego roku — wydarzeniem astronomicznym, które, zgodnie z decyzją podjętą przez około trzystu chrześcijańskich biskupów na Pierwszym Soborze Nicejskim latem 325 roku, wyznacza datę Wielkanocy w całym Kościele zachodnim. Reguła brzmi: Wielkanoc to pierwsza niedziela po pierwszej kościelnej pełni Księżyca w dniu równonocy wiosennej lub po niej. W 2025 roku pełnia osiągnęła szczyt o 02:22 czasu środkowoeuropejskiego letniego, w niedzielę 13 kwietnia, a Wielkanoc obchodzono zgodnie z regułą tydzień później, 20 kwietnia. Filozoficzna dziwność tego układu łatwo umyka uwadze. Dwie z największych religii świata — chrześcijaństwo i judaizm — świadomie zakotwiczyły swoje najważniejsze doroczne obchody (odpowiednio Wielkanoc i Pesach) nie w stałej dacie kalendarza świeckiego, lecz w ruchomym ciele niebieskim, którego ruchu żaden starożytny twórca kalendarza w pełni nie rozumiał. Przez dwa tysiąclecia księżyc w wiosenną noc mówi Rzymowi, Konstantynopolowi, Warszawie i Krakowowi, kiedy świętować zmartwychwstanie, a Jerozolimie, Nowemu Jorkowi i Warszawie, kiedy świętować wyjście z niewoli. Księżyc nic z tego nie wie. Odbija po prostu światło słoneczne — jakieś dwanaście procent w dobry wieczór — i czeka na kolejną niedzielę.",
+      "vocab": [
+        { "term": "calendrical", "ipa_br": "/kəˈlendrɪkəl/", "pl": "kalendarzowy", "new": true },
+        { "term": "bishop", "ipa_br": "/ˈbɪʃəp/", "pl": "biskup", "new": true },
+        { "term": "determine", "ipa_br": "/dɪˈtɜːmɪn/", "pl": "wyznaczać, ustalać", "new": true },
+        { "term": "strangeness", "ipa_br": "/ˈstreɪndʒnəs/", "pl": "dziwność, obcość", "new": true },
+        { "term": "anchor", "ipa_br": "/ˈæŋkə/", "pl": "zakotwiczyć, zakotwiczać", "new": true },
+        { "term": "observance", "ipa_br": "/əbˈzɜːvəns/", "pl": "obchody (religijne), przestrzeganie", "new": true },
+        { "term": "civil", "ipa_br": "/ˈsɪvəl/", "pl": "świecki, cywilny", "new": true },
+        { "term": "millennium", "ipa_br": "/mɪˈleniəm/", "pl": "tysiąclecie", "new": true },
+        { "term": "resurrection", "ipa_br": "/ˌrezəˈrekʃən/", "pl": "zmartwychwstanie", "new": true },
+        { "term": "exodus", "ipa_br": "/ˈeksədəs/", "pl": "wyjście (z niewoli), Exodus", "new": true },
+        { "term": "reflect", "ipa_br": "/rɪˈflekt/", "pl": "odbijać (światło)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "According to the text, the moon in this photograph is the Paschal full moon of 2025.", "answer": true },
+            { "statement": "The First Council of Nicaea, at which the Easter rule was decided, took place in the summer of AD 325.", "answer": true },
+            { "statement": "The text says the full moon of 2025 peaked at 02:22 CEST on Sunday 13 April.", "answer": true },
+            { "statement": "The author claims that Christianity and Judaism anchored their most important observances to a fixed civil date rather than to a moving natural body.", "answer": false },
+            { "statement": "The closing sentence notes that the moon reflects about twelve per cent of the sunlight it receives on a good night.", "answer": true },
+            { "statement": "According to the text, the ancient calendar-makers fully understood the motion of the moon when they anchored their religious observances to it.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
