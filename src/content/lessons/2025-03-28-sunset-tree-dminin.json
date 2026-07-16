@@ -1,0 +1,208 @@
+{
+  "id": "2025-03-28-sunset-tree-dminin",
+  "date_assigned": "2025-03-28",
+  "date_alternatives": [],
+  "title_en": "Polish Africa",
+  "title_pl": "Polska Afryka",
+  "location": "Dminin, gmina Ulan-Majorat, Poland",
+  "image": "/images/2025-03-28-sunset-tree-dminin.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "sunset", "tree", "silhouette", "poland", "africa", "savanna", "telephoto", "march"],
+  "themes": ["cross-cultural-aesthetics", "polish-countryside", "late-winter", "african-analog"],
+  "did_you_know": {
+    "en": "The sun in this picture looks enormous, but it is not. The sun's angular diameter — the fraction of the sky it actually occupies from Earth — is almost exactly one half of one degree, and it does not change between noon and sunset. If you looked at the noon sun through a properly filtered lens, its disc would be exactly the same size on your camera's sensor as the disc in this photograph. What makes the setting sun 'feel' huge is a very old optical trick called the horizon illusion (or, when applied to the Moon, the Moon illusion). Aristotle noticed it in the fourth century BC and could not explain it. Modern psychology puts it down to the way the brain compares the Sun to nearby foreground objects — a tree, a rooftop, a hill — and to a subtle miscalibration of the sky, which we perceive as a flattened dome rather than a true hemisphere. The illusion is entirely inside the viewer. The Sun itself is doing nothing unusual.",
+    "pl": "Słońce na tym zdjęciu wygląda ogromnie, ale nim nie jest. Kątowa średnica Słońca — ułamek nieba, jaki faktycznie zajmuje z perspektywy Ziemi — wynosi niemal dokładnie pół stopnia i nie zmienia się między południem a zachodem. Gdybyś spojrzała na południowe słońce przez odpowiednio przefiltrowany obiektyw, jego tarcza miałaby na matrycy Twojego aparatu dokładnie ten sam rozmiar co tarcza na tym zdjęciu. To, przez co zachodzące słońce „wydaje się” ogromne, to bardzo stara sztuczka optyczna zwana iluzją horyzontu (a w przypadku Księżyca — iluzją księżycową). Arystoteles zauważył ją w IV wieku p.n.e. i nie potrafił jej wyjaśnić. Współczesna psychologia tłumaczy ją tym, że mózg porównuje Słońce z obiektami pierwszego planu — z drzewem, dachem, wzgórzem — oraz drobnym błędem w tym, jak postrzegamy sam sklep niebieski, który widzimy jako spłaszczoną kopułę, a nie prawdziwą półkulę. Iluzja siedzi całkowicie po stronie patrzącego. Samo Słońce nie robi niczego niezwykłego."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: samotne bezlistne drzewo na tle ogromnego, czerwonego zachodzącego słońca w Dmininie pod Ulanem-Majoratem. Wygląda jak sawanna — a to marzec we wschodniej Polsce. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia rozumienia — plus refleksja o tym, dlaczego mózg widzi „Afrykę” w polskim krajobrazie. english360",
+    "fb_caption_en": "Today on English 360°: a lonely leafless tree against a huge red setting sun at Dminin in the Ulan-Majorat district. Looks like the Serengeti — but it's March in eastern Poland. Six CEFR levels, vocab with IPA, comprehension tasks — plus a reflection on why the mind reads 'Africa' into a Polish landscape. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#PolishAfrica", "#Dminin", "#UlanMajorat", "#Silhouette", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at the sun. It is very big. The sun is red and orange. In front of the sun, there is a tree. The tree is dark. It has no leaves. It is evening. The sky is dark. The sun is going down.",
+      "text_pl": "Spójrz na słońce. Jest bardzo duże. Słońce jest czerwone i pomarańczowe. Przed słońcem jest drzewo. Drzewo jest ciemne. Nie ma liści. Jest wieczór. Niebo jest ciemne. Słońce zachodzi.",
+      "vocab": [
+        { "term": "big", "ipa_br": "/bɪɡ/", "pl": "duży", "new": false },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "leaves", "ipa_br": "/liːvz/", "pl": "liście", "new": true },
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "go down", "ipa_br": "/ɡəʊ daʊn/", "pl": "zachodzić, opadać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "tree", "answer": "B" },
+            { "word": "evening", "answer": "C" },
+            { "word": "red", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "🌳" },
+            { "label": "C", "text": "🌆" },
+            { "label": "D", "text": "🔴" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture looks like an African sunset, but it was taken in Poland. The sun is huge and red. It is going down behind a small forest. In the middle of the picture, we see a single tree with bare branches. The tree has no leaves because the photo was taken in March, when the trees in Poland are still asleep. From a distance, this scene looks like a savanna in Africa. In reality, it is a field in eastern Poland.",
+      "text_pl": "To zdjęcie wygląda jak afrykański zachód słońca, ale zostało zrobione w Polsce. Słońce jest ogromne i czerwone. Zachodzi za małym lasem. W środku zdjęcia widzimy pojedyncze drzewo z nagimi gałęziami. Drzewo nie ma liści, bo zdjęcie zostało zrobione w marcu, kiedy drzewa w Polsce jeszcze śpią. Z daleka scena wygląda jak sawanna w Afryce. W rzeczywistości to pole we wschodniej Polsce.",
+      "vocab": [
+        { "term": "African", "ipa_br": "/ˈæfrɪkən/", "pl": "afrykański", "new": true },
+        { "term": "huge", "ipa_br": "/hjuːdʒ/", "pl": "ogromny", "new": true },
+        { "term": "forest", "ipa_br": "/ˈfɒrɪst/", "pl": "las", "new": true },
+        { "term": "middle", "ipa_br": "/ˈmɪdəl/", "pl": "środek", "new": true },
+        { "term": "single", "ipa_br": "/ˈsɪŋɡəl/", "pl": "pojedynczy", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "branch", "ipa_br": "/brɑːntʃ/", "pl": "gałąź", "new": true },
+        { "term": "March", "ipa_br": "/mɑːtʃ/", "pl": "marzec", "new": true },
+        { "term": "asleep", "ipa_br": "/əˈsliːp/", "pl": "śpiący", "new": true },
+        { "term": "savanna", "ipa_br": "/səˈvænə/", "pl": "sawanna", "new": true },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "This picture looks like an African ___, but it was taken in Poland.", "answer": "sunset" },
+            { "sentence": "The tree has no leaves because the photo was taken in ___.", "answer": "March" },
+            { "sentence": "From a distance, this scene looks like a ___ in Africa.", "answer": "savanna" },
+            { "sentence": "In reality, it is a ___ in eastern Poland.", "answer": "field" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the twenty-eighth of March 2025 at a village called Dminin, in the Ulan-Majorat district of eastern Poland. In the frame, a single leafless tree stands in front of a huge, deep-red sun that is just about to touch the horizon. The trees on either side, far in the distance, are also bare — March in Poland is still a winter month, and the fields have not yet turned green. For anyone who has seen photographs from Africa, the scene will look almost impossibly familiar: it looks exactly like a sunset over the Serengeti or the plains of Tanzania, with a lonely acacia against the sky. In reality, this is a small village in the Lublin region — the same landscape the photographer sees every week, from his own kitchen window. The 'African' feeling is created entirely by the telephoto lens, which flattens the distance between the tree and the sun, and by the specific shade of red the horizon produces on a cold March evening.",
+      "text_pl": "To zdjęcie zostało zrobione dwudziestego ósmego marca 2025 roku we wsi Dminin, w gminie Ulan-Majorat, we wschodniej Polsce. W kadrze samotne, bezlistne drzewo stoi na tle ogromnego, głęboko-czerwonego słońca, które za chwilę dotknie horyzontu. Drzewa po obu stronach, daleko w oddali, także są bez liści — marzec w Polsce to wciąż zimowy miesiąc, a pola jeszcze nie zieleniły się na nowo. Dla każdego, kto widział zdjęcia z Afryki, scena będzie wyglądać niemal nieprawdopodobnie znajomo: wygląda dokładnie jak zachód słońca nad Serengeti czy nad równinami Tanzanii, z samotną akacją na tle nieba. W rzeczywistości to niewielka polska wieś w regionie lubelskim — ten sam krajobraz, który fotograf widzi co tydzień z okna własnej kuchni. Wrażenie „afrykańskości” tworzy w całości teleobiektyw, który spłaszcza odległość między drzewem a słońcem, oraz szczególny odcień czerwieni, jaki horyzont produkuje w chłodny marcowy wieczór.",
+      "vocab": [
+        { "term": "leafless", "ipa_br": "/ˈliːfləs/", "pl": "bezlistny, bez liści", "new": true },
+        { "term": "district", "ipa_br": "/ˈdɪstrɪkt/", "pl": "gmina, powiat, region", "new": true },
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": true },
+        { "term": "either", "ipa_br": "/ˈaɪðə/", "pl": "każdy z dwóch, obu", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": false },
+        { "term": "plain", "ipa_br": "/pleɪn/", "pl": "równina", "new": true },
+        { "term": "acacia", "ipa_br": "/əˈkeɪʃə/", "pl": "akacja", "new": true },
+        { "term": "lonely", "ipa_br": "/ˈləʊnli/", "pl": "samotny", "new": true },
+        { "term": "flatten", "ipa_br": "/ˈflætən/", "pl": "spłaszczać", "new": true },
+        { "term": "shade", "ipa_br": "/ʃeɪd/", "pl": "odcień, cień", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 28 March 2025 at Dminin in the Ulan-Majorat district.", "answer": true },
+            { "statement": "The trees in the frame are covered in green leaves.", "answer": false },
+            { "statement": "According to the text, the picture looks like a sunset over the Serengeti or the plains of Tanzania.", "answer": true },
+            { "statement": "The 'African' feeling is created entirely by the telephoto lens and the specific red shade of the horizon.", "answer": true },
+            { "statement": "The author says the photographer travels to Africa every week to take pictures like this one.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a specific kind of photograph — mostly landscape, always telephoto — that Poland produces reliably every March, and this frame is one of the best examples. It was taken on 28 March 2025 at the village of Dminin, in the gmina of Ulan-Majorat, roughly halfway between Radzyń Podlaski and Łuków in eastern Poland. In the centre of the frame stands a single, bare deciduous tree, silhouetted against a huge, low sun. At first glance, the photograph looks exactly like a National Geographic image of the Serengeti in Tanzania or the Masai Mara in Kenya — an acacia against a red disc, the whole thing pared down to two colours. In fact, everything about this scene is Polish. It is not a savanna and there are no big cattle in the frame — only a bare oak or hornbeam, an ordinary field, and about three degrees of atmosphere between the photographer and the horizon. What produces the 'African' effect is entirely optical: a telephoto lens compresses the distance so that the sun appears to sit right behind the tree, and the reduced palette (silhouette + one colour) triggers a mental category we have inherited from every wildlife documentary we have ever watched. The photograph is a small, elegant reminder that landscape is never entirely local — the eye reads every landscape against every other landscape it has ever been shown.",
+      "text_pl": "Istnieje pewien szczególny rodzaj zdjęcia — najczęściej pejzażowego, zawsze zrobionego teleobiektywem — który Polska produkuje niezawodnie każdego marca, i ten kadr jest jednym z najlepszych przykładów. Powstał 28 marca 2025 roku we wsi Dminin, w gminie Ulan-Majorat, mniej więcej w połowie drogi między Radzyniem Podlaskim a Łukowem, we wschodniej Polsce. Pośrodku kadru stoi pojedyncze, nagie drzewo liściaste, wpisane jako sylwetka w ogromne, nisko wiszące słońce. Na pierwszy rzut oka zdjęcie wygląda dokładnie jak fotografia z „National Geographic” zrobiona na Serengeti w Tanzanii albo w Masai Mara w Kenii — akacja na tle czerwonej tarczy, całość sprowadzona do dwóch barw. W rzeczywistości wszystko w tej scenie jest polskie. Nie ma tu żadnej sawanny ani wielkiego bydła w kadrze — jedynie nagi dąb albo grab, zwyczajne pole i jakieś trzy stopnie atmosfery między fotografem a horyzontem. To, co produkuje efekt „afrykański”, jest wyłącznie optyczne: teleobiektyw ściska odległość tak, że słońce wydaje się siedzieć tuż za drzewem, a zredukowana paleta (sylwetka + jedna barwa) uruchamia kategorię umysłową, którą odziedziczyliśmy po wszystkich filmach przyrodniczych, jakie kiedykolwiek oglądaliśmy. Fotografia jest drobnym, eleganckim przypomnieniem, że krajobraz nigdy nie jest wyłącznie lokalny — oko odczytuje każdy krajobraz na tle każdego innego, jaki mu kiedykolwiek pokazano.",
+      "vocab": [
+        { "term": "reliably", "ipa_br": "/rɪˈlaɪəbli/", "pl": "niezawodnie", "new": true },
+        { "term": "deciduous", "ipa_br": "/dɪˈsɪdjuəs/", "pl": "liściasty (drzewo)", "new": true },
+        { "term": "glance", "ipa_br": "/ɡlɑːns/", "pl": "spojrzenie, rzut oka", "new": true },
+        { "term": "pare down", "ipa_br": "/peə daʊn/", "pl": "redukować, obcinać do minimum", "new": true },
+        { "term": "cattle", "ipa_br": "/ˈkætəl/", "pl": "bydło", "new": true },
+        { "term": "documentary", "ipa_br": "/ˌdɒkjuˈmentəri/", "pl": "film dokumentalny", "new": true },
+        { "term": "palette", "ipa_br": "/ˈpælət/", "pl": "paleta (barw)", "new": true },
+        { "term": "trigger", "ipa_br": "/ˈtrɪɡə/", "pl": "wywoływać, uruchamiać", "new": true },
+        { "term": "category", "ipa_br": "/ˈkætɪɡəri/", "pl": "kategoria", "new": true },
+        { "term": "inherit", "ipa_br": "/ɪnˈherɪt/", "pl": "dziedziczyć", "new": true },
+        { "term": "elegant", "ipa_br": "/ˈelɪɡənt/", "pl": "elegancki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The village of Dminin lies roughly halfway between Radzyń Podlaski and Łuków.", "answer": true },
+            { "statement": "The photograph is a real image of the Serengeti in Tanzania.", "answer": false },
+            { "statement": "The 'African' effect is described as entirely optical, produced by the telephoto lens and the reduced two-colour palette.", "answer": true },
+            { "statement": "The author says the picture shows big cattle typical of the savanna.", "answer": false },
+            { "statement": "According to the text, the mental category we read into the picture comes from wildlife documentaries we have watched.", "answer": true },
+            { "statement": "The closing sentence claims that landscape is always entirely local and never depends on other landscapes we have seen.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a well-known cross-cultural pattern in the way people photograph a bare tree against a very low, very red sun: whether the picture is taken in Kenya or in Kansas or, in this case, in Dminin — a village in the Ulan-Majorat district of eastern Poland, on the evening of the twenty-eighth of March 2025 — the viewer's first reaction is almost always 'Africa'. What produces that reaction is not the tree, or the sun, or the ecosystem in which either of them stands. It is the reduced visual grammar of the image: a two-tone silhouette against a saturated warm circle. Every wildlife documentary, every travel poster, every save-the-elephants billboard trades on the same visual shorthand, and after a few decades of exposure we begin to read that shorthand as 'African' even when we know perfectly well that it is not. This photograph is, quietly, an argument for that observation. It shows a single leafless Central-European tree — probably a hornbeam or a young oak, given the branching pattern — pared down by a telephoto lens and a March horizon to the exact silhouette we already recognise from other sunsets. The trick is not that Poland looks like Africa. The trick is that a red circle behind a bare tree, taken from far enough away, has stopped belonging to any one continent at all.",
+      "text_pl": "Istnieje dobrze znany wzorzec kulturowy w sposobie, w jaki ludzie fotografują nagie drzewo na tle bardzo nisko wiszącego, bardzo czerwonego słońca: niezależnie od tego, czy zdjęcie zostało zrobione w Kenii, w Kansas, czy — jak tutaj — w Dmininie, wsi w gminie Ulan-Majorat we wschodniej Polsce, wieczorem dwudziestego ósmego marca 2025 roku, pierwsza reakcja widza to niemal zawsze „Afryka”. Tym, co tę reakcję wywołuje, nie jest ani drzewo, ani słońce, ani ekosystem, w którym któreś z nich stoi. Jest to zredukowana gramatyka wizualna obrazu: dwutonowa sylwetka na tle nasyconego, ciepłego okręgu. Każdy film przyrodniczy, każdy plakat podróżniczy, każdy billboard „ratujmy słonie” korzysta z tego samego skrótu wizualnego, a po kilku dekadach ekspozycji zaczynamy odczytywać ten skrót jako „afrykański”, nawet gdy doskonale wiemy, że nim nie jest. To zdjęcie jest po cichu argumentem na rzecz tej obserwacji. Pokazuje pojedyncze, bezlistne drzewo środkowoeuropejskie — prawdopodobnie grab albo młody dąb, sądząc po układzie gałęzi — sprowadzone przez teleobiektyw i marcowy horyzont do dokładnie tej sylwetki, którą już rozpoznajemy z innych zachodów słońca. Sztuczka nie polega na tym, że Polska wygląda jak Afryka. Polega na tym, że czerwony okrąg za nagim drzewem, zrobiony z dostatecznie daleka, przestał należeć do jakiegokolwiek konkretnego kontynentu.",
+      "vocab": [
+        { "term": "pattern", "ipa_br": "/ˈpætən/", "pl": "wzór, wzorzec", "new": true },
+        { "term": "reaction", "ipa_br": "/riˈækʃən/", "pl": "reakcja", "new": true },
+        { "term": "ecosystem", "ipa_br": "/ˈiːkəʊsɪstəm/", "pl": "ekosystem", "new": true },
+        { "term": "grammar", "ipa_br": "/ˈɡræmə/", "pl": "gramatyka", "new": true },
+        { "term": "saturated", "ipa_br": "/ˈsætʃəreɪtɪd/", "pl": "nasycony", "new": true },
+        { "term": "billboard", "ipa_br": "/ˈbɪlbɔːd/", "pl": "billboard", "new": true },
+        { "term": "shorthand", "ipa_br": "/ˈʃɔːthænd/", "pl": "skrót (myślowy, wizualny)", "new": true },
+        { "term": "decade", "ipa_br": "/ˈdekeɪd/", "pl": "dekada, dziesięciolecie", "new": true },
+        { "term": "hornbeam", "ipa_br": "/ˈhɔːnbiːm/", "pl": "grab (drzewo)", "new": true },
+        { "term": "oak", "ipa_br": "/əʊk/", "pl": "dąb", "new": true },
+        { "term": "continent", "ipa_br": "/ˈkɒntɪnənt/", "pl": "kontynent", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The author writes that the viewer's first reaction to such a photograph is almost always 'Africa'.", "answer": true },
+            { "statement": "According to the text, the 'African' reaction is caused by the ecosystem the tree grows in.", "answer": false },
+            { "statement": "The tree in the photograph is probably a hornbeam or a young oak, based on its branching pattern.", "answer": true },
+            { "statement": "The photograph was taken on the evening of the twenty-eighth of March 2025 in Dminin.", "answer": true },
+            { "statement": "The author claims that Poland genuinely looks like Africa in this landscape.", "answer": false },
+            { "statement": "The closing sentence says that a red circle behind a bare tree, taken from far enough away, has stopped belonging to any one continent.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is an old visual joke that anyone who has watched enough nature documentaries eventually notices: the sunset silhouette of a lone tree against a red sky, taken almost anywhere in the world, will produce the same response in an audience — the word 'Africa' surfaces automatically, before conscious thought. This photograph, taken on the evening of the twenty-eighth of March 2025 at Dminin — a small village in the Ulan-Majorat district of eastern Poland — is a particularly clean instance of the phenomenon, and a particularly clean refutation of it. There is nothing African in the frame. The tree is a Central-European deciduous, still bare because in Poland March is a late-winter month; the horizon is a Polish country horizon at just under seven degrees below the ecliptic; the photographer was standing in a Polish field. What the picture reveals is not a landscape, but a habit of looking. The visual language of 'silhouette + huge red disc + wide-open horizon' has been so thoroughly attached, in the collective Western imagination, to a single continent that we no longer see it neutrally. The Serengeti has quietly annexed our sunsets. This photograph, without ever raising its voice, gives one back — while also demonstrating how difficult it has become to look at even the sky above one's own house without the world's cinematography looking back.",
+      "text_pl": "Istnieje pewien stary żart wizualny, który dostrzega w końcu każdy, kto obejrzał dostatecznie wiele filmów przyrodniczych: sylwetka samotnego drzewa na tle czerwonego zachodu słońca, zrobiona niemal gdziekolwiek na świecie, wywoła u widowni tę samą reakcję — słowo „Afryka” wyskakuje samo, przed świadomą myślą. To zdjęcie, zrobione wieczorem dwudziestego ósmego marca 2025 roku w Dmininie — niewielkiej wsi w gminie Ulan-Majorat we wschodniej Polsce — jest szczególnie czystym przypadkiem tego zjawiska i równie czystym jego obaleniem. W kadrze nie ma niczego afrykańskiego. Drzewo jest środkowoeuropejskim liściastym, wciąż nagim, bo marzec w Polsce to późnozimowy miesiąc; horyzont jest polskim wiejskim horyzontem, tuż poniżej siedmiu stopni pod ekliptyką; fotograf stał na polskim polu. To, co obraz ujawnia, nie jest krajobrazem, lecz nawykiem patrzenia. Wizualny język „sylwetki + ogromnej czerwonej tarczy + otwartego horyzontu” został tak głęboko przywiązany w zbiorowej zachodniej wyobraźni do jednego kontynentu, że nie widzimy go już neutralnie. Serengeti po cichu zawłaszczyło nasze zachody słońca. To zdjęcie, nawet nie podnosząc głosu, jeden z nich oddaje — pokazując przy okazji, jak trudno stało się patrzeć na niebo nad własnym domem tak, by nie odpatrywała nam z powrotem światowa kinematografia.",
+      "vocab": [
+        { "term": "refutation", "ipa_br": "/ˌrefjuˈteɪʃən/", "pl": "obalenie, refutacja", "new": true },
+        { "term": "instance", "ipa_br": "/ˈɪnstəns/", "pl": "przypadek, przykład", "new": true },
+        { "term": "ecliptic", "ipa_br": "/ɪˈklɪptɪk/", "pl": "ekliptyka", "new": true },
+        { "term": "reveal", "ipa_br": "/rɪˈviːl/", "pl": "ujawniać, odsłaniać", "new": true },
+        { "term": "habit", "ipa_br": "/ˈhæbɪt/", "pl": "nawyk", "new": true },
+        { "term": "attach", "ipa_br": "/əˈtætʃ/", "pl": "przywiązywać, dołączać", "new": true },
+        { "term": "collective", "ipa_br": "/kəˈlektɪv/", "pl": "zbiorowy", "new": true },
+        { "term": "imagination", "ipa_br": "/ɪˌmædʒɪˈneɪʃən/", "pl": "wyobraźnia", "new": true },
+        { "term": "neutrally", "ipa_br": "/ˈnjuːtrəli/", "pl": "neutralnie", "new": true },
+        { "term": "annex", "ipa_br": "/əˈneks/", "pl": "zawłaszczać, anektować", "new": true },
+        { "term": "cinematography", "ipa_br": "/ˌsɪnɪməˈtɒɡrəfi/", "pl": "kinematografia", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The photograph was taken on the evening of the twenty-eighth of March 2025 at Dminin in the Ulan-Majorat district of eastern Poland.", "answer": true },
+            { "statement": "The tree in the frame is described as an African acacia.", "answer": false },
+            { "statement": "The text says the photograph reveals not a landscape but a habit of looking.", "answer": true },
+            { "statement": "According to the closing sentences, the Serengeti has quietly annexed our sunsets in the collective Western imagination.", "answer": true },
+            { "statement": "The author claims that the photographer was standing in a Kenyan field when the picture was taken.", "answer": false },
+            { "statement": "The text argues that it has become difficult to look at the sky above one's own house without the world's cinematography looking back.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
