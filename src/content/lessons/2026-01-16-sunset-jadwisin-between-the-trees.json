@@ -1,0 +1,217 @@
+{
+  "id": "2026-01-16-sunset-jadwisin-between-the-trees",
+  "date_assigned": "2026-01-16",
+  "date_alternatives": [],
+  "title_en": "Janus's Gate",
+  "title_pl": "Brama Janusa",
+  "location": "Jadwisin, gmina Łuków, Poland",
+  "image": "/images/2026-01-16-sunset-jadwisin-between-the-trees.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "winter", "sunset", "trees", "poland", "january", "threshold", "roman-mythology", "philosophy"],
+  "themes": ["thresholds", "liminality", "roman-heritage", "polish-winter", "in-between-moments"],
+  "did_you_know": {
+    "en": "The month of January takes its name from an unusual Roman god. Ianus (Janus in English) had no Greek equivalent — he was purely Roman, and his job was to govern every kind of doorway, gate, bridge and beginning. He was depicted with two faces, one looking backward and one looking forward, because that is what a threshold does: it faces both directions at once. Romans invoked Janus at the start of every new undertaking. The first hour of any day belonged to him, the first day of any month belonged to him, and the first month of every year was named after him — Ianuarius. His temple in the Roman Forum had one particularly strange feature: its doors were kept open in wartime and closed in peacetime. The historian Livy records that between the founding of Rome and the reign of Augustus — over seven centuries — the doors of the temple of Janus were closed only twice. A photograph taken in January, of a sun setting inside the doorway between two lines of trees, is, without knowing it, quoting all of this. The month was designed to be a doorway. The photograph makes the design visible.",
+    "pl": "Miesiąc styczeń bierze swoją nazwę od pewnego niezwykłego rzymskiego boga. Ianus (po angielsku Janus) nie miał greckiego odpowiednika — był w pełni rzymski, a jego zadaniem było zarządzać każdym rodzajem drzwi, bramy, mostu i początku. Przedstawiano go z dwiema twarzami — jedną patrzącą wstecz, drugą naprzód — bo taki jest właśnie próg: patrzy w obie strony jednocześnie. Rzymianie wzywali Janusa na początku każdego nowego przedsięwzięcia. Pierwsza godzina każdego dnia należała do niego, pierwszy dzień każdego miesiąca należał do niego, a pierwszy miesiąc każdego roku został po nim nazwany — Ianuarius. Jego świątynia na Forum Rzymskim miała jedną szczególnie osobliwą cechę: jej drzwi trzymano otwarte w czasie wojny, a zamknięte w czasie pokoju. Historyk Liwiusz odnotował, że między założeniem Rzymu a panowaniem Augusta — przez ponad siedem stuleci — drzwi świątyni Janusa zostały zamknięte tylko dwa razy. Zdjęcie zrobione w styczniu, przedstawiające słońce zachodzące w bramie między dwoma rzędami drzew, cytuje to wszystko, nie wiedząc o tym. Miesiąc został zaprojektowany jako brama. Fotografia czyni ten projekt widocznym."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zimowy zachód słońca dokładnie w bramie między dwoma rzędami bezlistnych drzew pod Jadwisinem. Zdjęcie zrobione w styczniu — miesiącu nazwanym po Janusie, rzymskim bogu progów. Sześć poziomów (A1–C2), słownictwo z IPA, ćwiczenia — plus etymologia stycznia i osobliwość świątyni Janusa (drzwi otwarte podczas wojny, zamknięte w pokoju). english360",
+    "fb_caption_en": "Today on English 360°: a winter sunset caught exactly in the doorway between two lines of leafless trees near Jadwisin. Taken in January — the month named after Janus, the Roman god of thresholds. Six CEFR levels, vocab with IPA, comprehension tasks — plus the etymology of January and the strange feature of Janus's temple (its doors were open in war and closed in peace). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#Janus", "#January", "#Jadwisin", "#WinterLight", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is winter. There is snow on the ground. It is very cold. In the middle, we can see the sun. The sun is orange. Around the sun, there are two big trees. The trees have no leaves. The sun is between the trees, like it is in a door.",
+      "text_pl": "Spójrz na to zdjęcie. Jest zima. Na ziemi jest śnieg. Jest bardzo zimno. W środku widzimy słońce. Słońce jest pomarańczowe. Wokół słońca są dwa duże drzewa. Drzewa nie mają liści. Słońce jest między drzewami, jakby było w drzwiach.",
+      "vocab": [
+        { "term": "winter", "ipa_br": "/ˈwɪntə/", "pl": "zima", "new": true },
+        { "term": "snow", "ipa_br": "/snəʊ/", "pl": "śnieg", "new": true },
+        { "term": "ground", "ipa_br": "/ɡraʊnd/", "pl": "ziemia, grunt", "new": true },
+        { "term": "cold", "ipa_br": "/kəʊld/", "pl": "zimno, zimny", "new": true },
+        { "term": "middle", "ipa_br": "/ˈmɪdəl/", "pl": "środek", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": false },
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": false },
+        { "term": "between", "ipa_br": "/bɪˈtwiːn/", "pl": "między", "new": true },
+        { "term": "door", "ipa_br": "/dɔː/", "pl": "drzwi", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "A" },
+            { "word": "snow", "answer": "B" },
+            { "word": "tree", "answer": "C" },
+            { "word": "door", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☀️" },
+            { "label": "B", "text": "❄️" },
+            { "label": "C", "text": "🌳" },
+            { "label": "D", "text": "🚪" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture was taken on a cold winter afternoon in January 2026, in a Polish village. In the frame, the sun is setting between two groups of tall trees. Their branches are bare because it is winter. The setting sun looks like it is passing through a doorway made of trees. It is a beautiful moment — and also a very old one. In fact, the month of January is named after Janus, an old Roman god of doorways. The photographer did not plan this. The sun did the planning by itself.",
+      "text_pl": "To zdjęcie zostało zrobione w mroźne zimowe popołudnie w styczniu 2026 roku, w polskiej wsi. W kadrze słońce zachodzi między dwiema grupami wysokich drzew. Ich gałęzie są nagie, bo jest zima. Zachodzące słońce wygląda, jakby przechodziło przez bramę zrobioną z drzew. To piękny moment — i jednocześnie bardzo stary. Miesiąc styczeń nosi bowiem nazwę od Janusa, starego rzymskiego boga drzwi. Fotograf tego nie zaplanował. Zaplanowało to samo słońce.",
+      "vocab": [
+        { "term": "afternoon", "ipa_br": "/ˌɑːftəˈnuːn/", "pl": "popołudnie", "new": true },
+        { "term": "January", "ipa_br": "/ˈdʒænjuəri/", "pl": "styczeń", "new": true },
+        { "term": "village", "ipa_br": "/ˈvɪlɪdʒ/", "pl": "wieś", "new": true },
+        { "term": "setting", "ipa_br": "/ˈsetɪŋ/", "pl": "zachodzący", "new": true },
+        { "term": "group", "ipa_br": "/ɡruːp/", "pl": "grupa", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "branch", "ipa_br": "/brɑːntʃ/", "pl": "gałąź", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "doorway", "ipa_br": "/ˈdɔːweɪ/", "pl": "przejście, brama, drzwi (otwór)", "new": true },
+        { "term": "god", "ipa_br": "/ɡɒd/", "pl": "bóg", "new": true },
+        { "term": "Roman", "ipa_br": "/ˈrəʊmən/", "pl": "rzymski", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "This picture was taken on a cold winter ___ in January 2026.", "answer": "afternoon" },
+            { "sentence": "The sun is setting between two groups of ___ trees.", "answer": "tall" },
+            { "sentence": "The setting sun looks like it is passing through a ___ made of trees.", "answer": "doorway" },
+            { "sentence": "The month of January is named after Janus, an old ___ god of doorways.", "answer": "Roman" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture was taken on the sixteenth of January 2026, just outside Jadwisin, a small village in the Łuków district of eastern Poland. It shows a very quiet winter scene: snow on the ground, bare trees in a line on both sides, and — right in the middle — the setting sun framed exactly by the gap between two groups of trees. Nothing about this composition is accidental. The photographer waited for the sun to move into that exact position; a few minutes earlier or later, and the frame would look completely different. The gap between the trees behaves like a doorway. The image is a doorway. The whole month, in a very old way, is a doorway. In the Roman calendar, the first month of the year was named Ianuarius, after Ianus (Janus), the god of doorways, of endings and beginnings, of every kind of passage from one thing to another. Janus was always depicted with two faces — one looking back at the year that had ended, the other looking forward into the year just starting. This photograph, quietly and probably without meaning to, is a portrait of exactly that god.",
+      "text_pl": "To zdjęcie zostało zrobione szesnastego stycznia 2026 roku, tuż pod Jadwisinem, niewielką wsią w powiecie łukowskim we wschodniej Polsce. Pokazuje bardzo cichą zimową scenę: śnieg na ziemi, nagie drzewa w rzędzie po obu stronach kadru i — dokładnie pośrodku — zachodzące słońce, ujęte precyzyjnie w prześwit między dwiema grupami drzew. Nic w tej kompozycji nie jest przypadkowe. Fotograf czekał, aż słońce wejdzie w tę dokładną pozycję; kilka minut wcześniej lub później i kadr wyglądałby zupełnie inaczej. Luka między drzewami zachowuje się jak brama. Obraz jest bramą. Cały miesiąc, w bardzo stary sposób, jest bramą. W kalendarzu rzymskim pierwszy miesiąc roku nazywał się Ianuarius, od Ianusa (Janusa), boga bram, końców i początków, każdego rodzaju przejścia z jednej rzeczy w drugą. Janusa zawsze przedstawiano z dwiema twarzami — jedną patrzącą wstecz na rok, który się skończył, drugą patrzącą naprzód na rok, który się właśnie zaczyna. To zdjęcie, po cichu i prawdopodobnie nieumyślnie, jest portretem właśnie tego boga.",
+      "vocab": [
+        { "term": "scene", "ipa_br": "/siːn/", "pl": "scena", "new": true },
+        { "term": "accidental", "ipa_br": "/ˌæksɪˈdentəl/", "pl": "przypadkowy", "new": true },
+        { "term": "exact", "ipa_br": "/ɪɡˈzækt/", "pl": "dokładny", "new": true },
+        { "term": "position", "ipa_br": "/pəˈzɪʃən/", "pl": "pozycja", "new": true },
+        { "term": "gap", "ipa_br": "/ɡæp/", "pl": "luka, prześwit", "new": true },
+        { "term": "calendar", "ipa_br": "/ˈkælɪndə/", "pl": "kalendarz", "new": true },
+        { "term": "name after", "ipa_br": "/neɪm ˈɑːftə/", "pl": "nazwać po (kimś)", "new": true },
+        { "term": "ending", "ipa_br": "/ˈendɪŋ/", "pl": "koniec, zakończenie", "new": true },
+        { "term": "beginning", "ipa_br": "/bɪˈɡɪnɪŋ/", "pl": "początek", "new": true },
+        { "term": "passage", "ipa_br": "/ˈpæsɪdʒ/", "pl": "przejście", "new": true },
+        { "term": "depict", "ipa_br": "/dɪˈpɪkt/", "pl": "przedstawiać", "new": true },
+        { "term": "portrait", "ipa_br": "/ˈpɔːtrət/", "pl": "portret", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 16 January 2026 just outside Jadwisin in the Łuków district.", "answer": true },
+            { "statement": "According to the text, nothing about the composition is accidental — the photographer waited for the sun to move into that exact position.", "answer": true },
+            { "statement": "The Roman god Janus was depicted with a single face, looking only forwards.", "answer": false },
+            { "statement": "The first month of the Roman calendar was named Ianuarius, after the god Ianus (Janus).", "answer": true },
+            { "statement": "The author says the photograph is, quietly and probably without meaning to, a portrait of exactly that god.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a subtle argument built into every winter sunset photographed between two groups of bare trees, and this one — taken on the sixteenth of January 2026 in Jadwisin, a small village in the Łuków district of eastern Poland — makes the argument unusually clearly. The scene is technically simple: snow on the ground, a line of leafless trees on each side of the frame, and, framed precisely between them, the last direct light of a January day. What is less simple is the calendrical accident. The photograph was taken in the month named after Janus — the Roman god who governed every kind of threshold, doorway, gate and transition, the deity Romans invoked at the start of any new undertaking, in the middle of any journey, at every ceremony of transformation. Janus is depicted with two faces because a threshold, by definition, faces two ways: back into what has been and forward into what has not yet begun. This photograph, whatever the photographer intended, is a portrait of exactly that principle. The trees form the frame of a doorway; the sun is caught precisely in the doorway; the year, from within the doorway, faces both ways. Romans understood that certain moments — the beginning of a month, the beginning of a war, the beginning of a marriage — deserved their own god. This picture is a small argument that they were right.",
+      "text_pl": "W każdy zimowy zachód słońca sfotografowany między dwiema grupami nagich drzew wpisany jest subtelny argument, a to zdjęcie — zrobione szesnastego stycznia 2026 roku w Jadwisinie, niewielkiej wsi w powiecie łukowskim we wschodniej Polsce — czyni ten argument szczególnie jasnym. Scena jest technicznie prosta: śnieg na ziemi, rząd bezlistnych drzew po obu stronach kadru, a między nimi, ujęte precyzyjnie, ostatnie bezpośrednie światło styczniowego dnia. Mniej proste jest to, co dzieje się w kalendarzu. Zdjęcie powstało w miesiącu nazwanym po Janusie — rzymskim bogu, który zarządzał każdym rodzajem progu, drzwi, bramy i przejścia, bóstwie, które Rzymianie wzywali na początku każdego nowego przedsięwzięcia, w środku każdej podróży, przy każdej ceremonii transformacji. Janusa przedstawia się z dwiema twarzami, bo próg z definicji patrzy w dwie strony: wstecz w to, co było, i naprzód w to, co jeszcze się nie zaczęło. To zdjęcie, cokolwiek zamierzył fotograf, jest portretem właśnie tej zasady. Drzewa tworzą ramę drzwi; słońce jest złapane precyzyjnie w drzwiach; rok, patrząc z wnętrza tych drzwi, patrzy w obie strony. Rzymianie rozumieli, że pewne momenty — początek miesiąca, początek wojny, początek małżeństwa — zasługują na własnego boga. To zdjęcie jest drobnym argumentem na rzecz tego, że mieli rację.",
+      "vocab": [
+        { "term": "subtle", "ipa_br": "/ˈsʌtəl/", "pl": "subtelny", "new": true },
+        { "term": "argument", "ipa_br": "/ˈɑːɡjumənt/", "pl": "argument", "new": true },
+        { "term": "technically", "ipa_br": "/ˈteknɪkli/", "pl": "technicznie", "new": true },
+        { "term": "calendrical", "ipa_br": "/kəˈlendrɪkəl/", "pl": "kalendarzowy", "new": true },
+        { "term": "govern", "ipa_br": "/ˈɡʌvən/", "pl": "rządzić, zarządzać", "new": true },
+        { "term": "threshold", "ipa_br": "/ˈθreʃhəʊld/", "pl": "próg", "new": true },
+        { "term": "deity", "ipa_br": "/ˈdeɪəti/", "pl": "bóstwo", "new": true },
+        { "term": "invoke", "ipa_br": "/ɪnˈvəʊk/", "pl": "wzywać", "new": true },
+        { "term": "undertaking", "ipa_br": "/ˌʌndəˈteɪkɪŋ/", "pl": "przedsięwzięcie", "new": true },
+        { "term": "ceremony", "ipa_br": "/ˈserɪməni/", "pl": "ceremonia", "new": true },
+        { "term": "transformation", "ipa_br": "/ˌtrænsfəˈmeɪʃən/", "pl": "transformacja, przemiana", "new": true },
+        { "term": "principle", "ipa_br": "/ˈprɪnsəpəl/", "pl": "zasada", "new": true },
+        { "term": "deserve", "ipa_br": "/dɪˈzɜːv/", "pl": "zasługiwać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 16 January 2026 in Jadwisin, in the Łuków district of eastern Poland.", "answer": true },
+            { "statement": "According to the text, Janus governed only doorways and no other kind of threshold or transition.", "answer": false },
+            { "statement": "Janus is depicted with two faces because a threshold, by definition, faces two ways.", "answer": true },
+            { "statement": "The trees in the picture form the frame of a doorway, with the sun caught precisely inside it.", "answer": true },
+            { "statement": "The author writes that Romans understood certain moments deserved their own god.", "answer": true },
+            { "statement": "The photographer explicitly intended the picture to be a portrait of the Roman principle of the threshold.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "The Roman gods, unlike their Greek predecessors, did not have neat one-to-one biographies; they governed functions. Janus governed thresholds. He was the god of doors, gates, bridges and crossroads, the god of the first hour of any day, the god of the first day of any month, the god of the first month of any year — the month, in fact, that took his name. Ianuarius (January) is a linguistic monument to a Roman intuition that has quietly outlived the empire that produced it: that some moments do not belong wholly to what came before or wholly to what comes after, but occupy a category of their own — the category of the threshold, the frontier, the doorway. This photograph, taken on the evening of the sixteenth of January 2026 near the village of Jadwisin in the Łuków district of eastern Poland, is a portrait of that category. The trees, bare and near-identical on either side of the frame, function as the jambs of a door. The last light of a winter day is caught precisely inside the door. The month — named for the god of doors — is itself a door: a January afternoon looks backward into the year that has ended and forward into the year that has begun, and knows perfectly well that it is neither. Romans built their calendar with this idea baked into it. Poland's countryside, once every few years, hands us the same idea for free.",
+      "text_pl": "Bogowie rzymscy, w przeciwieństwie do swoich greckich poprzedników, nie mieli precyzyjnych, jeden-do-jednego biografii; zarządzali funkcjami. Janus zarządzał progami. Był bogiem drzwi, bram, mostów i skrzyżowań, bogiem pierwszej godziny każdego dnia, bogiem pierwszego dnia każdego miesiąca, bogiem pierwszego miesiąca każdego roku — miesiąca, który, jak wiadomo, przyjął jego imię. Ianuarius (styczeń) jest językowym pomnikiem rzymskiej intuicji, która po cichu przeżyła imperium, jakie ją wyprodukowało: że pewne momenty nie należą całkowicie do tego, co było, ani całkowicie do tego, co ma dopiero nastąpić, lecz zajmują własną kategorię — kategorię progu, granicy, drzwi. To zdjęcie, zrobione wieczorem szesnastego stycznia 2026 roku pod wsią Jadwisin w powiecie łukowskim we wschodniej Polsce, jest portretem tej kategorii. Drzewa, nagie i niemal identyczne po obu stronach kadru, funkcjonują jak ościeża drzwi. Ostatnie światło zimowego dnia jest złapane precyzyjnie w środku tych drzwi. Miesiąc — nazwany od boga drzwi — sam jest drzwiami: styczniowe popołudnie patrzy wstecz w rok, który się skończył, i naprzód w rok, który się zaczął, doskonale wiedząc, że nie jest ani jednym, ani drugim. Rzymianie zbudowali swój kalendarz z tą ideą wpisaną w jego strukturę. Polska wieś, raz na kilka lat, wręcza nam tę samą ideę za darmo.",
+      "vocab": [
+        { "term": "predecessor", "ipa_br": "/ˈpriːdɪsesə/", "pl": "poprzednik", "new": true },
+        { "term": "neat", "ipa_br": "/niːt/", "pl": "schludny, precyzyjny", "new": true },
+        { "term": "biography", "ipa_br": "/baɪˈɒɡrəfi/", "pl": "biografia", "new": true },
+        { "term": "function", "ipa_br": "/ˈfʌŋkʃən/", "pl": "funkcja", "new": true },
+        { "term": "crossroads", "ipa_br": "/ˈkrɒsrəʊdz/", "pl": "skrzyżowanie", "new": true },
+        { "term": "linguistic", "ipa_br": "/lɪŋˈɡwɪstɪk/", "pl": "językowy", "new": true },
+        { "term": "monument", "ipa_br": "/ˈmɒnjumənt/", "pl": "pomnik, świadectwo", "new": true },
+        { "term": "intuition", "ipa_br": "/ˌɪntjuˈɪʃən/", "pl": "intuicja", "new": true },
+        { "term": "outlive", "ipa_br": "/ˌaʊtˈlɪv/", "pl": "przeżyć", "new": true },
+        { "term": "empire", "ipa_br": "/ˈempaɪə/", "pl": "imperium", "new": true },
+        { "term": "occupy", "ipa_br": "/ˈɒkjupaɪ/", "pl": "zajmować", "new": true },
+        { "term": "frontier", "ipa_br": "/ˈfrʌntɪə/", "pl": "granica", "new": true },
+        { "term": "jamb", "ipa_br": "/dʒæm/", "pl": "ościeże (drzwi)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, Roman gods governed functions rather than having neat one-to-one biographies like their Greek predecessors.", "answer": true },
+            { "statement": "Janus was the god of doors, gates, bridges and crossroads, and of first hours, first days and first months.", "answer": true },
+            { "statement": "The text calls Ianuarius (January) a linguistic monument to a Roman intuition that has outlived the empire.", "answer": true },
+            { "statement": "The author describes the bare trees on either side of the frame as functioning like the jambs of a door.", "answer": true },
+            { "statement": "According to the closing sentence, Poland's countryside offers the same threshold-idea only at great expense.", "answer": false },
+            { "statement": "The Roman intuition captured by January, in the text's reading, is that some moments belong entirely to the past or entirely to the future.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a category of experience the Latin language had a specific word for — limen, the threshold — and a specific god assigned to govern: Janus, the two-faced deity of doorways, of the beginnings and endings of anything worth beginning or ending. The Romans took the category seriously enough that they named the first month of their calendar after him. Ianuarius, our January, is a philosophical claim in disguise: that a specific stretch of time near the year's boundary belongs neither to the departing year nor to the arriving one, but has its own distinct ontological status — the status of the threshold. This photograph — taken on the sixteenth of January 2026 near Jadwisin in the Łuków district of eastern Poland, at a moment when the sun of a winter afternoon had descended precisely into the gap between two lines of bare deciduous trees — is a small piece of accidental Roman philosophy. The composition literalises the concept. The sun is inside a doorway. The doorway is inside the month of doors. The month of doors is inside a calendar the Romans deliberately designed so that its first month would be a portrait of transition itself. A twentieth-century anthropologist, Arnold van Gennep, coined a technical term for this category — 'liminality', from the same Latin limen — to describe the strange psychological reality of being between social states. Van Gennep would have understood this photograph immediately. So would any Roman consul walking through the Forum on the first of January of any year, past the temple of Janus with its two-faced statue looking backward and forward at the same time. The concept is older than the language, and the photograph is older than any of it. It is only the light on a Polish January field that has arrived, entirely on time, to remind us that some ideas do not need to be invented — they only need to be photographed.",
+      "text_pl": "Istnieje kategoria doświadczenia, dla której łacina miała konkretne słowo — limen, próg — i konkretnego boga do zarządzania nią: Janusa, dwutwarzowe bóstwo drzwi, początków i końców wszystkiego, co warte jest rozpoczęcia lub zakończenia. Rzymianie traktowali tę kategorię dostatecznie poważnie, by nazwać jego imieniem pierwszy miesiąc swojego kalendarza. Ianuarius, nasz styczeń, jest tezą filozoficzną w przebraniu: że pewien konkretny odcinek czasu w pobliżu granicy roku nie należy ani do roku odchodzącego, ani do przychodzącego, lecz ma własny odrębny status ontologiczny — status progu. To zdjęcie — zrobione szesnastego stycznia 2026 roku pod Jadwisinem w powiecie łukowskim we wschodniej Polsce, w chwili, gdy słońce zimowego popołudnia opadło precyzyjnie w prześwit między dwoma rzędami nagich drzew liściastych — jest drobnym kawałkiem przypadkowej rzymskiej filozofii. Kompozycja czyni pojęcie dosłownym. Słońce jest w drzwiach. Drzwi są w miesiącu drzwi. Miesiąc drzwi jest w kalendarzu, który Rzymianie świadomie zaprojektowali tak, by jego pierwszy miesiąc był portretem samej transformacji. Dwudziestowieczny antropolog Arnold van Gennep ukuł techniczne pojęcie dla tej kategorii — „liminalność” (od tego samego łacińskiego limen) — aby opisać osobliwą psychologiczną rzeczywistość bycia pomiędzy stanami społecznymi. Van Gennep zrozumiałby to zdjęcie od razu. Zrozumiałby je też każdy rzymski konsul idący przez Forum pierwszego stycznia dowolnego roku, mijając świątynię Janusa z dwutwarzowym posągiem patrzącym wstecz i naprzód jednocześnie. Pojęcie jest starsze niż język, a fotografia jest starsza niż którekolwiek z nich. To tylko światło na polskim styczniowym polu przybyło, dokładnie na czas, by przypomnieć, że pewnych idei nie trzeba wynajdywać — trzeba je tylko sfotografować.",
+      "vocab": [
+        { "term": "limen", "ipa_br": "/ˈlaɪmən/", "pl": "próg (łac.), granica", "new": true },
+        { "term": "deity", "ipa_br": "/ˈdeɪəti/", "pl": "bóstwo", "new": true },
+        { "term": "philosophical", "ipa_br": "/ˌfɪləˈsɒfɪkəl/", "pl": "filozoficzny", "new": true },
+        { "term": "disguise", "ipa_br": "/dɪsˈɡaɪz/", "pl": "przebranie", "new": true },
+        { "term": "ontological", "ipa_br": "/ˌɒntəˈlɒdʒɪkəl/", "pl": "ontologiczny", "new": true },
+        { "term": "descend", "ipa_br": "/dɪˈsend/", "pl": "opadać, schodzić", "new": true },
+        { "term": "deciduous", "ipa_br": "/dɪˈsɪdjuəs/", "pl": "liściasty", "new": true },
+        { "term": "concept", "ipa_br": "/ˈkɒnsept/", "pl": "pojęcie", "new": true },
+        { "term": "anthropologist", "ipa_br": "/ˌænθrəˈpɒlədʒɪst/", "pl": "antropolog", "new": true },
+        { "term": "coin (a term)", "ipa_br": "/kɔɪn/", "pl": "ukuć (termin)", "new": true },
+        { "term": "liminality", "ipa_br": "/ˌlɪmɪˈnæləti/", "pl": "liminalność, stan pośredni", "new": true },
+        { "term": "consul", "ipa_br": "/ˈkɒnsəl/", "pl": "konsul", "new": true },
+        { "term": "statue", "ipa_br": "/ˈstætʃuː/", "pl": "posąg", "new": true },
+        { "term": "invent", "ipa_br": "/ɪnˈvent/", "pl": "wynaleźć, wymyślić", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The Latin word 'limen' is described as meaning 'threshold'.", "answer": true },
+            { "statement": "According to the text, Ianuarius (January) is a philosophical claim in disguise, about time that belongs neither to the departing year nor to the arriving one.", "answer": true },
+            { "statement": "The photograph was taken on 16 January 2026 near Jadwisin in the Łuków district of eastern Poland.", "answer": true },
+            { "statement": "Arnold van Gennep coined the term 'liminality' to describe being between social states, from the same Latin word limen.", "answer": true },
+            { "statement": "The closing sentence claims that some ideas need to be invented rather than photographed.", "answer": false },
+            { "statement": "According to the text, the Roman calendar's first month was designed so that it would be a portrait of transition itself.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
