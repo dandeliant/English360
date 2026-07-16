@@ -1,0 +1,213 @@
+{
+  "id": "2026-02-20-cristo-rei-down",
+  "date_assigned": "2026-02-20",
+  "date_alternatives": [],
+  "title_en": "Christ Above the Tagus",
+  "title_pl": "Chrystus nad Tagiem",
+  "location": "Almada, near Lisbon, Portugal",
+  "image": "/images/2026-02-20-cristo-rei-down.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["architecture", "monument", "portugal", "lisbon", "religion", "history", "concrete", "cristo-rei", "vow"],
+  "themes": ["votive-monuments", "twentieth-century-architecture", "portuguese-history", "wartime-neutrality"],
+  "did_you_know": {
+    "en": "Almost every large twentieth-century religious monument in Europe was built for one of two reasons: pure devotion, or a specific vow — a promise made in circumstances of extreme danger and fulfilled once the danger had passed. Cristo Rei is the clearest example of the second type still standing on the continent. In April 1940, as German troops were preparing to invade France and Portugal appeared to be in real danger of being drawn into the Second World War, the country's Catholic bishops met at Fátima — the Marian pilgrimage site where the famous 1917 apparitions had taken place — and publicly promised, in the name of the Portuguese Church, that if Portugal was spared involvement in the war, they would build a monumental statue of Christ 'with his arms open over the country'. Portugal did remain neutral throughout the war — one of only a handful of European states that managed to — and construction of the monument began in 1949, nine years after the vow. The 82-metre concrete pedestal was completed in the late 1950s, and the 28-metre statue on top of it was inaugurated by the Cardinal Patriarch of Lisbon on the seventeenth of May 1959. Almost the entire project was funded not by the state but by a national collection organised by Portuguese women, who saw the monument as their specific act of collective thanks.",
+    "pl": "Niemal każdy duży dwudziestowieczny pomnik religijny w Europie został zbudowany z jednego z dwóch powodów: czystego oddania albo konkretnego ślubowania — obietnicy złożonej w okolicznościach skrajnego niebezpieczeństwa i spełnionej, gdy niebezpieczeństwo minęło. Cristo Rei jest najwyraźniejszym przykładem drugiego typu, jaki wciąż stoi na kontynencie. W kwietniu 1940 roku, gdy niemieckie wojska szykowały się do inwazji na Francję, a Portugalia zdawała się być realnie zagrożona wciągnięciem w drugą wojnę światową, biskupi katoliccy tego kraju spotkali się w Fatimie — miejscu maryjnych pielgrzymek, w którym miały miejsce słynne objawienia z 1917 roku — i publicznie ślubowali, w imieniu Kościoła portugalskiego, że jeśli Portugalia zostanie oszczędzona od udziału w wojnie, zbudują monumentalny posąg Chrystusa „z ramionami otwartymi nad krajem”. Portugalia rzeczywiście pozostała neutralna przez całą wojnę — jako jeden z zaledwie kilku europejskich krajów, którym się to udało — a budowa pomnika rozpoczęła się w 1949 roku, dziewięć lat po ślubowaniu. 82-metrowy betonowy cokół ukończono pod koniec lat 50., a 28-metrowy posąg na jego szczycie został poświęcony przez Kardynała Patriarchę Lizbony siedemnastego maja 1959 roku. Niemal cały projekt został sfinansowany nie przez państwo, lecz przez ogólnokrajową zbiórkę zorganizowaną przez portugalskie kobiety, które postrzegały pomnik jako swój konkretny akt wspólnotowego dziękczynienia."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: pomnik Chrystusa Króla (Cristo Rei) na klifie w Almadzie po drugiej stronie Tagu, naprzeciw Lizbony. Motyw: pomnik jako wotum — obietnica portugalskich biskupów z Fatimy w kwietniu 1940 („jeśli Portugalia zostanie oszczędzona od wojny, zbudujemy Chrystusa z ramionami otwartymi nad krajem”), spełniona 17 maja 1959. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: the Cristo Rei monument on the cliff of Almada across the Tagus from Lisbon. The theme: a monument as a vow — a promise made by Portuguese bishops at Fátima in April 1940 ('if Portugal is spared from the war, we will build a Christ with his arms open over the country'), kept on 17 May 1959. Six CEFR levels. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#CristoRei", "#Lisbon", "#Portugal", "#Almada", "#Architecture", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It shows a very tall monument. On top of it, there is a big statue. The statue is of Jesus Christ. His arms are open. Below him, we can see a tall tower. The tower is made of concrete. The sky is blue. There are green trees at the bottom. The monument is very high.",
+      "text_pl": "Spójrz na to zdjęcie. Pokazuje bardzo wysoki pomnik. Na jego szczycie stoi duży posąg. Posąg przedstawia Jezusa Chrystusa. Jego ramiona są otwarte. Pod nim widzimy wysoką wieżę. Wieża jest zrobiona z betonu. Niebo jest niebieskie. Na dole są zielone drzewa. Pomnik jest bardzo wysoki.",
+      "vocab": [
+        { "term": "photo", "ipa_br": "/ˈfəʊtəʊ/", "pl": "zdjęcie", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "monument", "ipa_br": "/ˈmɒnjumənt/", "pl": "pomnik", "new": true },
+        { "term": "statue", "ipa_br": "/ˈstætʃuː/", "pl": "posąg", "new": true },
+        { "term": "arm", "ipa_br": "/ɑːm/", "pl": "ramię", "new": true },
+        { "term": "open", "ipa_br": "/ˈəʊpən/", "pl": "otwarty", "new": true },
+        { "term": "tower", "ipa_br": "/ˈtaʊə/", "pl": "wieża", "new": true },
+        { "term": "concrete", "ipa_br": "/ˈkɒŋkriːt/", "pl": "beton", "new": true },
+        { "term": "blue", "ipa_br": "/bluː/", "pl": "niebieski", "new": false },
+        { "term": "high", "ipa_br": "/haɪ/", "pl": "wysoko, wysoki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "statue", "answer": "D" },
+            { "word": "sky", "answer": "A" },
+            { "word": "tree", "answer": "C" },
+            { "word": "cross", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☁️" },
+            { "label": "B", "text": "✝️" },
+            { "label": "C", "text": "🌳" },
+            { "label": "D", "text": "🗽" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture shows the Cristo Rei monument in Almada, a Portuguese town just across the river from Lisbon. The monument was finished in 1959. It is 110 metres high in total — one of the tallest statues of Christ in Europe. On the top, we can see a large statue of Jesus with open arms. Below him is a very tall concrete tower. Many people visit the monument every day. Some go up inside the tower to enjoy the beautiful view of Lisbon and the ocean.",
+      "text_pl": "To zdjęcie pokazuje pomnik Cristo Rei w Almadzie, portugalskim mieście po drugiej stronie rzeki, naprzeciw Lizbony. Pomnik został ukończony w 1959 roku. Ma 110 metrów wysokości — jest jednym z najwyższych posągów Chrystusa w Europie. Na szczycie widzimy dużą figurę Jezusa z otwartymi ramionami. Pod nim stoi bardzo wysoka betonowa wieża. Wielu ludzi odwiedza pomnik każdego dnia. Niektórzy wjeżdżają do środka wieży, by cieszyć się pięknym widokiem na Lizbonę i ocean.",
+      "vocab": [
+        { "term": "Portuguese", "ipa_br": "/ˌpɔːtʃuˈɡiːz/", "pl": "portugalski", "new": true },
+        { "term": "town", "ipa_br": "/taʊn/", "pl": "miasto", "new": true },
+        { "term": "river", "ipa_br": "/ˈrɪvə/", "pl": "rzeka", "new": true },
+        { "term": "across", "ipa_br": "/əˈkrɒs/", "pl": "po drugiej stronie", "new": true },
+        { "term": "metre", "ipa_br": "/ˈmiːtə/", "pl": "metr", "new": true },
+        { "term": "statue", "ipa_br": "/ˈstætʃuː/", "pl": "posąg", "new": false },
+        { "term": "arm", "ipa_br": "/ɑːm/", "pl": "ramię", "new": false },
+        { "term": "view", "ipa_br": "/vjuː/", "pl": "widok", "new": true },
+        { "term": "ocean", "ipa_br": "/ˈəʊʃən/", "pl": "ocean", "new": true },
+        { "term": "visit", "ipa_br": "/ˈvɪzɪt/", "pl": "odwiedzać", "new": true },
+        { "term": "beautiful", "ipa_br": "/ˈbjuːtɪfəl/", "pl": "piękny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The Cristo Rei monument stands in Almada, a Portuguese town across the ___ from Lisbon.", "answer": "river" },
+            { "sentence": "The monument is 110 ___ high in total.", "answer": "metres", "alts": ["meters"] },
+            { "sentence": "On the top, we can see a large statue of Jesus with open ___.", "answer": "arms" },
+            { "sentence": "Some visitors go up inside the tower to enjoy the beautiful ___ of Lisbon and the ocean.", "answer": "view" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This picture shows the Cristo Rei monument on the cliff at Almada, on the southern bank of the Tagus River across from Lisbon, in Portugal. The photograph was taken on the twentieth of February 2026. The monument is 110 metres tall in total — an 82-metre concrete pedestal supporting a 28-metre statue of Christ with his arms held out over the city and the river. The design is not accidental. Cristo Rei is almost a direct copy of the older and more famous Christ the Redeemer statue in Rio de Janeiro, built in 1931. A Portuguese cardinal visited Rio in 1934, was impressed by that statue, and returned to Portugal with the idea of building one just like it in Lisbon. What made the project possible was a very specific historical promise. In 1940, Portuguese bishops publicly promised that if Portugal was spared from the Second World War, they would build a monumental Christ. Portugal did remain neutral throughout the war — one of only a few European countries that did — and the monument was built between 1949 and 1959 as, quite literally, the country's fulfilment of that promise.",
+      "text_pl": "To zdjęcie pokazuje pomnik Cristo Rei na klifie w Almadzie, na południowym brzegu rzeki Tag naprzeciw Lizbony, w Portugalii. Zdjęcie zostało zrobione dwudziestego lutego 2026 roku. Pomnik ma 110 metrów wysokości — 82-metrowy betonowy cokół podtrzymuje 28-metrową figurę Chrystusa z ramionami wyciągniętymi nad miastem i rzeką. Projekt nie jest przypadkowy. Cristo Rei jest niemal bezpośrednią kopią starszego i słynniejszego posągu Chrystusa Odkupiciela w Rio de Janeiro, zbudowanego w 1931 roku. Portugalski kardynał odwiedził Rio w 1934 roku, był pod wrażeniem tamtejszego posągu i wrócił do Portugalii z pomysłem zbudowania podobnego pod Lizboną. Tym, co umożliwiło projekt, była bardzo konkretna historyczna obietnica. W 1940 roku portugalscy biskupi publicznie ślubowali, że jeśli Portugalia zostanie oszczędzona od drugiej wojny światowej, zbudują monumentalną figurę Chrystusa. Portugalia rzeczywiście pozostała neutralna przez całą wojnę — jako jeden z zaledwie kilku europejskich krajów, którym się to udało — a pomnik został zbudowany między 1949 a 1959 rokiem jako, dosłownie, wypełnienie tej obietnicy przez kraj.",
+      "vocab": [
+        { "term": "cliff", "ipa_br": "/klɪf/", "pl": "klif", "new": true },
+        { "term": "southern", "ipa_br": "/ˈsʌðən/", "pl": "południowy", "new": true },
+        { "term": "bank", "ipa_br": "/bæŋk/", "pl": "brzeg (rzeki)", "new": true },
+        { "term": "pedestal", "ipa_br": "/ˈpedɪstəl/", "pl": "cokół", "new": true },
+        { "term": "support", "ipa_br": "/səˈpɔːt/", "pl": "podpierać", "new": true },
+        { "term": "accidental", "ipa_br": "/ˌæksɪˈdentəl/", "pl": "przypadkowy", "new": true },
+        { "term": "cardinal", "ipa_br": "/ˈkɑːdɪnəl/", "pl": "kardynał", "new": true },
+        { "term": "impressed", "ipa_br": "/ɪmˈprest/", "pl": "pod wrażeniem", "new": true },
+        { "term": "bishop", "ipa_br": "/ˈbɪʃəp/", "pl": "biskup", "new": true },
+        { "term": "spare", "ipa_br": "/speə/", "pl": "oszczędzić, ocalić", "new": true },
+        { "term": "neutral", "ipa_br": "/ˈnjuːtrəl/", "pl": "neutralny", "new": true },
+        { "term": "fulfilment", "ipa_br": "/fʊlˈfɪlmənt/", "pl": "spełnienie, wypełnienie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "Cristo Rei stands on the cliff at Almada, on the southern bank of the Tagus opposite Lisbon.", "answer": true },
+            { "statement": "The monument is 82 metres tall in total, with no separate statue on top.", "answer": false },
+            { "statement": "According to the text, Cristo Rei is almost a direct copy of the older Christ the Redeemer statue in Rio de Janeiro.", "answer": true },
+            { "statement": "In 1940, Portuguese bishops publicly promised to build a monumental Christ if Portugal was spared from the Second World War.", "answer": true },
+            { "statement": "Portugal joined the Second World War in 1941 and the monument was built to commemorate the country's role in the war.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a very specific twentieth-century architectural genre to which this monument belongs: the giant statue of Christ, raised on a concrete pedestal, placed on a hill or a cliff so as to be visible from a whole city and its river. The genre begins with Christ the Redeemer above Rio de Janeiro in 1931; it continues with Cristo Rei above Lisbon — this photograph, taken on the twentieth of February 2026, is of that monument — inaugurated in 1959; and it reaches its extreme in Świebodzin, Poland, where a Christ statue thirty-six metres tall, currently the largest of its kind in the world, was built in 2010. Cristo Rei was born, uniquely among these monuments, out of an explicit religious vow. In 1940, faced with the possibility of Portuguese involvement in the Second World War, the country's Catholic bishops publicly promised that if Portugal was spared, they would build a monumental statue of Christ as a national gesture of gratitude. Portugal, unlike almost every other European country, was in fact spared. The monument was built between 1949 and 1959, funded in large part by a national collection organised by Portuguese women's associations, and inaugurated by the Cardinal Patriarch of Lisbon on the seventeenth of May 1959. What we see in this photograph is, quite literally, a promise kept in concrete.",
+      "text_pl": "Istnieje bardzo konkretny dwudziestowieczny gatunek architektoniczny, do którego należy ten pomnik: gigantyczna figura Chrystusa, wzniesiona na betonowym cokole, umieszczona na wzgórzu lub klifie tak, by była widoczna z całego miasta i jego rzeki. Gatunek zaczyna się od Chrystusa Odkupiciela nad Rio de Janeiro w 1931 roku; jest kontynuowany w Cristo Rei nad Lizboną — to zdjęcie, zrobione dwudziestego lutego 2026 roku, przedstawia właśnie ten pomnik — poświęconym w 1959 roku; i osiąga skrajność w Świebodzinie w Polsce, gdzie w 2010 roku wzniesiono trzydziestosześciometrową figurę Chrystusa, obecnie największą tego rodzaju na świecie. Cristo Rei narodził się, unikalnie wśród tych pomników, z jawnego ślubowania religijnego. W 1940 roku, w obliczu możliwości portugalskiego zaangażowania w drugą wojnę światową, katoliccy biskupi kraju publicznie ślubowali, że jeśli Portugalia zostanie oszczędzona, zbudują monumentalną figurę Chrystusa jako narodowy gest wdzięczności. Portugalia, w przeciwieństwie do niemal każdego innego europejskiego kraju, rzeczywiście została oszczędzona. Pomnik został zbudowany między 1949 a 1959 rokiem, sfinansowany w dużej mierze przez ogólnokrajową zbiórkę zorganizowaną przez portugalskie stowarzyszenia kobiece, i poświęcony przez Kardynała Patriarchę Lizbony siedemnastego maja 1959 roku. To, co widzimy na tym zdjęciu, jest, dosłownie, obietnicą spełnioną w betonie.",
+      "vocab": [
+        { "term": "genre", "ipa_br": "/ˈʒɒnrə/", "pl": "gatunek", "new": true },
+        { "term": "raised", "ipa_br": "/reɪzd/", "pl": "wzniesiony", "new": true },
+        { "term": "visible", "ipa_br": "/ˈvɪzəbəl/", "pl": "widoczny", "new": true },
+        { "term": "inaugurate", "ipa_br": "/ɪˈnɔːɡjureɪt/", "pl": "inaugurować, poświęcać (nowy budynek)", "new": true },
+        { "term": "extreme", "ipa_br": "/ɪkˈstriːm/", "pl": "skrajność, ekstremum", "new": true },
+        { "term": "explicit", "ipa_br": "/ɪkˈsplɪsɪt/", "pl": "jawny, wyraźny", "new": true },
+        { "term": "vow", "ipa_br": "/vaʊ/", "pl": "ślubowanie, ślub", "new": true },
+        { "term": "gratitude", "ipa_br": "/ˈɡrætɪtjuːd/", "pl": "wdzięczność", "new": true },
+        { "term": "fund", "ipa_br": "/fʌnd/", "pl": "finansować", "new": true },
+        { "term": "association", "ipa_br": "/əˌsəʊʃiˈeɪʃən/", "pl": "stowarzyszenie", "new": true },
+        { "term": "gesture", "ipa_br": "/ˈdʒestʃə/", "pl": "gest", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text describes a twentieth-century architectural genre of giant Christ statues raised on concrete pedestals on hills or cliffs.", "answer": true },
+            { "statement": "According to the text, Christ the Redeemer above Rio de Janeiro was built in 1931.", "answer": true },
+            { "statement": "The largest of its kind statue described in the text stands in Świebodzin, Poland, built in 2010, and is thirty-six metres tall.", "answer": true },
+            { "statement": "Cristo Rei was funded entirely by the Portuguese state and had no connection to a religious vow.", "answer": false },
+            { "statement": "The monument was inaugurated by the Cardinal Patriarch of Lisbon on the seventeenth of May 1959.", "answer": true },
+            { "statement": "According to the text, the national collection that funded most of the project was organised by Portuguese women's associations.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a small and specific category of twentieth-century monuments that could not exist without a particular set of circumstances: a religious infrastructure with the theological vocabulary of the votive offering, an engineering culture capable of pouring extremely tall concrete pedestals, and, most importantly, a specific historical moment when a nation felt itself to have been supernaturally spared from disaster. Cristo Rei — photographed here on the twentieth of February 2026, standing on the cliff above the southern bank of the Tagus opposite Lisbon — is perhaps the cleanest example of the category on the European continent. In 1940, as the Second World War closed around Portugal from every direction, the country's Catholic bishops met and made an explicit public vow: if the country were spared involvement in the war, they would build a national monument of Christ. Portugal remained neutral through 1945 in a way that many contemporaries considered improbable. Between 1949 and 1959, and largely through a national fundraising campaign organised by Portuguese women, the promised monument was built. The composition itself — eighty-two metres of concrete pedestal supporting twenty-eight metres of Christ with his arms open over the river — is a direct architectural quotation of Christ the Redeemer above Rio de Janeiro, which had been built in 1931 after a similar Brazilian religious campaign. Cristo Rei is that older monument's Portuguese daughter. The historical strangeness of the object is that it exists at all: it is a piece of concrete that specifically records a country's belief that its own historical safety had been divinely arranged, and that a corresponding thanks was owed.",
+      "text_pl": "Istnieje niewielka i bardzo konkretna kategoria dwudziestowiecznych pomników, które nie mogłyby istnieć bez pewnego szczególnego zestawu okoliczności: religijnej infrastruktury z teologicznym słownictwem daru wotywnego, kultury inżynieryjnej zdolnej wylewać niezwykle wysokie betonowe cokoły i — co najważniejsze — konkretnego momentu historycznego, w którym naród poczuł, że został nadprzyrodzenie oszczędzony od katastrofy. Cristo Rei — sfotografowany tu dwudziestego lutego 2026 roku, stojący na klifie nad południowym brzegiem Tagu naprzeciw Lizbony — jest być może najczystszym przykładem tej kategorii na kontynencie europejskim. W 1940 roku, gdy druga wojna światowa zamykała się wokół Portugalii z każdej strony, biskupi katoliccy kraju spotkali się i złożyli jawne publiczne ślubowanie: jeśli kraj zostanie oszczędzony od udziału w wojnie, zbudują narodowy pomnik Chrystusa. Portugalia pozostała neutralna aż do 1945 roku w sposób, który wielu ówczesnych uważało za mało prawdopodobny. Między 1949 a 1959 rokiem, w dużej mierze dzięki ogólnokrajowej zbiórce funduszy zorganizowanej przez portugalskie kobiety, obiecany pomnik został zbudowany. Sama kompozycja — osiemdziesiąt dwa metry betonowego cokołu podtrzymującego dwadzieścia osiem metrów Chrystusa z ramionami otwartymi nad rzeką — jest bezpośrednim architektonicznym cytatem z Chrystusa Odkupiciela nad Rio de Janeiro, który został zbudowany w 1931 roku po podobnej brazylijskiej kampanii religijnej. Cristo Rei jest portugalską córką tego starszego pomnika. Historyczna dziwność tego obiektu polega na tym, że w ogóle istnieje: jest kawałkiem betonu, który konkretnie zapisuje wiarę kraju, że jego własne historyczne bezpieczeństwo zostało zaaranżowane przez siłę wyższą i że należało za to złożyć odpowiednie podziękowanie.",
+      "vocab": [
+        { "term": "infrastructure", "ipa_br": "/ˈɪnfrəstrʌktʃə/", "pl": "infrastruktura", "new": true },
+        { "term": "theological", "ipa_br": "/ˌθiəˈlɒdʒɪkəl/", "pl": "teologiczny", "new": true },
+        { "term": "vocabulary", "ipa_br": "/vəˈkæbjulri/", "pl": "słownictwo", "new": true },
+        { "term": "votive", "ipa_br": "/ˈvəʊtɪv/", "pl": "wotywny", "new": true },
+        { "term": "offering", "ipa_br": "/ˈɒfərɪŋ/", "pl": "ofiara, dar", "new": true },
+        { "term": "pour", "ipa_br": "/pɔː/", "pl": "wylewać (beton)", "new": true },
+        { "term": "supernaturally", "ipa_br": "/ˌsuːpəˈnætʃrəli/", "pl": "nadprzyrodzenie", "new": true },
+        { "term": "contemporary", "ipa_br": "/kənˈtempərəri/", "pl": "współczesny (danej epoce)", "new": true },
+        { "term": "improbable", "ipa_br": "/ɪmˈprɒbəbəl/", "pl": "mało prawdopodobny", "new": true },
+        { "term": "fundraising", "ipa_br": "/ˈfʌndreɪzɪŋ/", "pl": "zbiórka funduszy", "new": true },
+        { "term": "quotation", "ipa_br": "/kwəʊˈteɪʃən/", "pl": "cytat", "new": true },
+        { "term": "correspond", "ipa_br": "/ˌkɒrɪˈspɒnd/", "pl": "odpowiadać (czemuś)", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, this category of monument requires a religious infrastructure with the theological vocabulary of the votive offering.", "answer": true },
+            { "statement": "The photograph was taken on 20 February 2026, from the cliff above the southern bank of the Tagus opposite Lisbon.", "answer": true },
+            { "statement": "In 1940, Portuguese Catholic bishops made an explicit public vow that they would build a national monument of Christ if the country were spared involvement in the war.", "answer": true },
+            { "statement": "According to the text, Portugal joined the Second World War openly in 1943.", "answer": false },
+            { "statement": "The composition of Cristo Rei — 82 metres of pedestal plus 28 metres of Christ — is described as a direct architectural quotation of Christ the Redeemer in Rio de Janeiro.", "answer": true },
+            { "statement": "The closing sentence describes the monument as recording a country's belief that its own historical safety had been divinely arranged.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a philosophically strange class of buildings — the votive monument, built in fulfilment of an explicit vow made under specific historical duress — and this photograph, taken on the twentieth of February 2026, is a portrait of one of the largest and best-known examples in modern Europe. The monument in the frame is Cristo Rei (Christ the King), one hundred and ten metres tall in total, standing on the cliff of Almada on the southern bank of the Tagus, opposite the historic centre of Lisbon. It is the direct architectural descendant of Christ the Redeemer, which had been raised above Rio de Janeiro in 1931 as a Brazilian thanksgiving, and it exists because in 1940 the Catholic bishops of Portugal made a specific public promise: if the country were spared involvement in the Second World War, they would build a monumental statue of Christ as a national act of thanks. Portugal did remain neutral, in circumstances that in retrospect look considerably more contingent than they may have felt at the time. Between 1949 and 1959, the promise was fulfilled: an 82-metre concrete pedestal was raised, a 28-metre statue was placed on top of it, and the whole thing was inaugurated by the Cardinal Patriarch of Lisbon on the seventeenth of May 1959. Historians of religion sometimes point to Cristo Rei as one of the last unambiguously votive monuments built by a European nation. It is a rather specific philosophical claim in concrete: that a country's twentieth-century history was, at least in part, the result of an intervention that a country's population was capable of noticing, and that the correct response to such an intervention was to build a very tall thing on a cliff and point it at the sea.",
+      "text_pl": "Istnieje filozoficznie osobliwa klasa budowli — pomnik wotywny, zbudowany w spełnieniu jawnego ślubowania złożonego pod konkretnym historycznym przymusem — a to zdjęcie, zrobione dwudziestego lutego 2026 roku, jest portretem jednego z największych i najbardziej znanych przykładów tej klasy we współczesnej Europie. Pomnik w kadrze to Cristo Rei (Chrystus Król), sto dziesięć metrów wysokości w sumie, stojący na klifie Almady na południowym brzegu Tagu, naprzeciw historycznego centrum Lizbony. Jest bezpośrednim architektonicznym potomkiem Chrystusa Odkupiciela, który został wzniesiony nad Rio de Janeiro w 1931 roku jako brazylijskie dziękczynienie, i istnieje, ponieważ w 1940 roku biskupi katoliccy Portugalii złożyli konkretną publiczną obietnicę: jeśli kraj zostanie oszczędzony od udziału w drugiej wojnie światowej, zbudują monumentalną figurę Chrystusa jako narodowy akt dziękczynienia. Portugalia rzeczywiście pozostała neutralna, w okolicznościach, które z perspektywy czasu wyglądają na znacznie bardziej warunkowe, niż mogło się to wydawać wtedy. Między 1949 a 1959 rokiem obietnica została spełniona: wzniesiono 82-metrowy betonowy cokół, umieszczono na nim 28-metrową figurę, a całość została poświęcona przez Kardynała Patriarchę Lizbony siedemnastego maja 1959 roku. Historycy religii wskazują niekiedy na Cristo Rei jako na jeden z ostatnich jednoznacznie wotywnych pomników zbudowanych przez europejski naród. Jest to dość konkretna filozoficzna teza w betonie: że dwudziestowieczna historia kraju była, przynajmniej częściowo, wynikiem interwencji, którą ludność kraju była w stanie zauważyć, i że właściwą odpowiedzią na taką interwencję było zbudować bardzo wysoką rzecz na klifie i skierować ją ku morzu.",
+      "vocab": [
+        { "term": "votive", "ipa_br": "/ˈvəʊtɪv/", "pl": "wotywny", "new": true },
+        { "term": "duress", "ipa_br": "/djʊˈres/", "pl": "przymus, presja", "new": true },
+        { "term": "descendant", "ipa_br": "/dɪˈsendənt/", "pl": "potomek", "new": true },
+        { "term": "thanksgiving", "ipa_br": "/ˌθæŋksˈɡɪvɪŋ/", "pl": "dziękczynienie", "new": true },
+        { "term": "retrospect", "ipa_br": "/ˈretrəspekt/", "pl": "retrospektywa, spojrzenie wstecz", "new": true },
+        { "term": "contingent", "ipa_br": "/kənˈtɪndʒənt/", "pl": "warunkowy, zależny od okoliczności", "new": true },
+        { "term": "fulfil", "ipa_br": "/fʊlˈfɪl/", "pl": "spełnić", "new": true },
+        { "term": "unambiguously", "ipa_br": "/ˌʌnæmˈbɪɡjuəsli/", "pl": "jednoznacznie", "new": true },
+        { "term": "intervention", "ipa_br": "/ˌɪntəˈvenʃən/", "pl": "interwencja", "new": true },
+        { "term": "population", "ipa_br": "/ˌpɒpjuˈleɪʃən/", "pl": "ludność, populacja", "new": true },
+        { "term": "capable", "ipa_br": "/ˈkeɪpəbəl/", "pl": "zdolny (do)", "new": true },
+        { "term": "claim", "ipa_br": "/kleɪm/", "pl": "twierdzenie, teza", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text defines a votive monument as one built in fulfilment of an explicit vow made under specific historical duress.", "answer": true },
+            { "statement": "Cristo Rei is 110 metres tall in total, standing on the cliff of Almada on the southern bank of the Tagus opposite the historic centre of Lisbon.", "answer": true },
+            { "statement": "According to the text, Cristo Rei is the direct architectural descendant of Christ the Redeemer in Rio de Janeiro, built in 1931.", "answer": true },
+            { "statement": "The Portuguese Catholic bishops made their vow in 1940, promising to build a Christ monument if the country was drawn into the Second World War.", "answer": false },
+            { "statement": "Historians of religion sometimes point to Cristo Rei as one of the last unambiguously votive monuments built by a European nation.", "answer": true },
+            { "statement": "The closing sentence describes the monument as, in effect, a philosophical claim in concrete about supernatural intervention and the correct national response to it.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
