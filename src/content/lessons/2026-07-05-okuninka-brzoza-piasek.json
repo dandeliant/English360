@@ -40,10 +40,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "sun", "answer": "A" },
+            { "word": "sun", "answer": "C" },
             { "word": "tree", "answer": "B" },
-            { "word": "beach", "answer": "C" },
-            { "word": "water", "answer": "D" }
+            { "word": "beach", "answer": "D" },
+            { "word": "water", "answer": "A" }
           ],
           "choices": [
             { "label": "A", "text": "☀️" },

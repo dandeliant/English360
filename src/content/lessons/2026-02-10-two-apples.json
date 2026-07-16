@@ -38,10 +38,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "apple", "answer": "A" },
-            { "word": "phone", "answer": "B" },
-            { "word": "leaf", "answer": "C" },
-            { "word": "dark", "answer": "D" }
+            { "word": "apple", "answer": "B" },
+            { "word": "phone", "answer": "D" },
+            { "word": "leaf", "answer": "A" },
+            { "word": "dark", "answer": "C" }
           ],
           "choices": [
             { "label": "A", "text": "🍎" },

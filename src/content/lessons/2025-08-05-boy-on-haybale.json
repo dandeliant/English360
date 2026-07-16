@@ -37,9 +37,9 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "boy", "answer": "A" },
-            { "word": "sunflower", "answer": "B" },
-            { "word": "sun", "answer": "C" },
+            { "word": "boy", "answer": "B" },
+            { "word": "sunflower", "answer": "C" },
+            { "word": "sun", "answer": "A" },
             { "word": "sky", "answer": "D" }
           ],
           "choices": [

@@ -37,10 +37,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "aurora", "answer": "A" },
-            { "word": "snow", "answer": "B" },
-            { "word": "man", "answer": "C" },
-            { "word": "sky", "answer": "D" }
+            { "word": "aurora", "answer": "C" },
+            { "word": "snow", "answer": "A" },
+            { "word": "man", "answer": "D" },
+            { "word": "sky", "answer": "B" }
           ],
           "choices": [
             { "label": "A", "text": "🌌" },

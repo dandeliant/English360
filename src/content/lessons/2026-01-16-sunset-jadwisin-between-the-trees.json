@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "sun", "answer": "A" },
-            { "word": "snow", "answer": "B" },
+            { "word": "sun", "answer": "B" },
+            { "word": "snow", "answer": "D" },
             { "word": "tree", "answer": "C" },
-            { "word": "door", "answer": "D" }
+            { "word": "door", "answer": "A" }
           ],
           "choices": [
             { "label": "A", "text": "☀️" },

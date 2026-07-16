@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "sun", "answer": "A" },
+            { "word": "sun", "answer": "D" },
             { "word": "church", "answer": "B" },
-            { "word": "cross", "answer": "C" },
-            { "word": "evening", "answer": "D" }
+            { "word": "cross", "answer": "A" },
+            { "word": "evening", "answer": "C" }
           ],
           "choices": [
             { "label": "A", "text": "☀️" },

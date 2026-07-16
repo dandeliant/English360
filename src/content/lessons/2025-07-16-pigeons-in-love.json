@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "bird", "answer": "A" },
-            { "word": "sky", "answer": "B" },
-            { "word": "love", "answer": "C" },
-            { "word": "wire", "answer": "D" }
+            { "word": "bird", "answer": "C" },
+            { "word": "sky", "answer": "A" },
+            { "word": "love", "answer": "D" },
+            { "word": "wire", "answer": "B" }
           ],
           "choices": [
             { "label": "A", "text": "🐦" },

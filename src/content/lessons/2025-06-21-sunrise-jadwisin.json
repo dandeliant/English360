@@ -38,9 +38,9 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "road", "answer": "A" },
-            { "word": "sun", "answer": "B" },
-            { "word": "field", "answer": "C" },
+            { "word": "road", "answer": "C" },
+            { "word": "sun", "answer": "A" },
+            { "word": "field", "answer": "B" },
             { "word": "summer", "answer": "D" }
           ],
           "choices": [

@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "tree", "answer": "A" },
-            { "word": "sun", "answer": "B" },
-            { "word": "water", "answer": "C" },
-            { "word": "night", "answer": "D" }
+            { "word": "tree", "answer": "C" },
+            { "word": "sun", "answer": "D" },
+            { "word": "water", "answer": "A" },
+            { "word": "night", "answer": "B" }
           ],
           "choices": [
             { "label": "A", "text": "🌳" },

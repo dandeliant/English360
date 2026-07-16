@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "tree", "answer": "A" },
-            { "word": "field", "answer": "B" },
-            { "word": "sun", "answer": "C" },
-            { "word": "leaves", "answer": "D" }
+            { "word": "tree", "answer": "C" },
+            { "word": "field", "answer": "D" },
+            { "word": "sun", "answer": "A" },
+            { "word": "leaves", "answer": "B" }
           ],
           "choices": [
             { "label": "A", "text": "🌳" },

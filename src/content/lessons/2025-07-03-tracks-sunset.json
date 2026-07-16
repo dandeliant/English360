@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "train", "answer": "A" },
+            { "word": "train", "answer": "C" },
             { "word": "sun", "answer": "B" },
-            { "word": "track", "answer": "C" },
-            { "word": "tree", "answer": "D" }
+            { "word": "track", "answer": "D" },
+            { "word": "tree", "answer": "A" }
           ],
           "choices": [
             { "label": "A", "text": "🚂" },

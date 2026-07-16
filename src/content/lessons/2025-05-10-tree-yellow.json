@@ -37,9 +37,9 @@
           "type": "match",
           "prompt": "Match each word to the picture.",
           "items": [
-            { "word": "tree", "answer": "A" },
-            { "word": "flower", "answer": "B" },
-            { "word": "bird", "answer": "C" },
+            { "word": "tree", "answer": "B" },
+            { "word": "flower", "answer": "C" },
+            { "word": "bird", "answer": "A" },
             { "word": "cloud", "answer": "D" }
           ],
           "choices": [

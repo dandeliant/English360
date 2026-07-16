@@ -36,10 +36,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "stork", "answer": "A" },
-            { "word": "sun", "answer": "B" },
-            { "word": "roof", "answer": "C" },
-            { "word": "sunset", "answer": "D" }
+            { "word": "stork", "answer": "C" },
+            { "word": "sun", "answer": "A" },
+            { "word": "roof", "answer": "D" },
+            { "word": "sunset", "answer": "B" }
           ],
           "choices": [
             { "label": "A", "text": "🦩" },

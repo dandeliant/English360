@@ -37,10 +37,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "bird", "answer": "A" },
-            { "word": "flower", "answer": "B" },
-            { "word": "yellow", "answer": "C" },
-            { "word": "spring", "answer": "D" }
+            { "word": "bird", "answer": "D" },
+            { "word": "flower", "answer": "A" },
+            { "word": "yellow", "answer": "B" },
+            { "word": "spring", "answer": "C" }
           ],
           "choices": [
             { "label": "A", "text": "🐦" },

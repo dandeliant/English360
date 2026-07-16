@@ -39,10 +39,10 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "sun", "answer": "A" },
-            { "word": "water", "answer": "B" },
-            { "word": "pier", "answer": "C" },
-            { "word": "evening", "answer": "D" }
+            { "word": "sun", "answer": "D" },
+            { "word": "water", "answer": "A" },
+            { "word": "pier", "answer": "B" },
+            { "word": "evening", "answer": "C" }
           ],
           "choices": [
             { "label": "A", "text": "☀️" },

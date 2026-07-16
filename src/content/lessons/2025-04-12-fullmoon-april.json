@@ -39,8 +39,8 @@
           "prompt": "Match the word to the picture.",
           "items": [
             { "word": "moon", "answer": "A" },
-            { "word": "night", "answer": "B" },
-            { "word": "sky", "answer": "C" },
+            { "word": "night", "answer": "C" },
+            { "word": "sky", "answer": "B" },
             { "word": "white", "answer": "D" }
           ],
           "choices": [

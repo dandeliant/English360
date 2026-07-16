@@ -39,9 +39,9 @@
           "type": "match",
           "prompt": "Match the word to the picture.",
           "items": [
-            { "word": "sun", "answer": "A" },
-            { "word": "water", "answer": "B" },
-            { "word": "tree", "answer": "C" },
+            { "word": "sun", "answer": "B" },
+            { "word": "water", "answer": "C" },
+            { "word": "tree", "answer": "A" },
             { "word": "night", "answer": "D" }
           ],
           "choices": [

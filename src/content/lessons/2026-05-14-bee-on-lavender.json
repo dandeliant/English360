@@ -87,15 +87,15 @@
           "items": [
             {
               "word": "bee",
-              "answer": "A"
+              "answer": "C"
             },
             {
               "word": "flower",
-              "answer": "B"
+              "answer": "A"
             },
             {
               "word": "sun",
-              "answer": "C"
+              "answer": "B"
             }
           ],
           "choices": [
