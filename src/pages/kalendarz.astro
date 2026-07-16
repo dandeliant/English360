@@ -185,6 +185,48 @@ const totalLessonsThisYear = [...calendar.values()].length;
   </div>
 </BaseLayout>
 
+<script>
+  // On touch devices (no hover), tapping a multi-lesson day cell opens
+  // the preview list instead of navigating straight to the primary
+  // lesson. Second tap on the same day-link then navigates to primary;
+  // a tap on any thumbnail navigates to that specific lesson; a tap
+  // anywhere else on the page closes the open preview.
+  //
+  // On hover-capable devices this whole block is a no-op — the CSS
+  // :hover behaviour is unchanged.
+  if (window.matchMedia('(hover: none)').matches) {
+    const cells = document.querySelectorAll<HTMLElement>('.day--multi');
+    cells.forEach((cell) => {
+      const link = cell.querySelector<HTMLAnchorElement>('.day__link');
+      if (!link) return;
+      link.addEventListener('click', (event) => {
+        const isOpen = cell.classList.contains('day--preview-open');
+        if (!isOpen) {
+          event.preventDefault();
+          // Close any other open preview first — only one at a time.
+          document.querySelectorAll('.day--preview-open').forEach((el) => {
+            if (el !== cell) el.classList.remove('day--preview-open');
+          });
+          cell.classList.add('day--preview-open');
+        } else {
+          // Second tap on the day-link: close the preview and let the
+          // default navigation to the primary lesson happen.
+          cell.classList.remove('day--preview-open');
+        }
+      });
+    });
+
+    document.addEventListener('click', (event) => {
+      const openCell = document.querySelector<HTMLElement>('.day--preview-open');
+      if (!openCell) return;
+      const target = event.target;
+      if (target instanceof Node && !openCell.contains(target)) {
+        openCell.classList.remove('day--preview-open');
+      }
+    });
+  }
+</script>
+
 <style>
   .calendar-page {
     max-inline-size: 84rem;
@@ -608,6 +650,16 @@ const totalLessonsThisYear = [...calendar.values()].length;
       transform: translateX(-50%) translateY(0);
       pointer-events: auto;
     }
+  }
+
+  /* Touch devices: same visible state, toggled by a JS-set class rather
+   * than by :hover. First tap opens; a tap outside closes; a tap on a
+   * preview item navigates to that specific lesson. */
+  .day--preview-open .day__preview {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
   }
 
   /* Preview anchoring: cells in the first row of a month would show
