@@ -20,6 +20,11 @@ export type Occurrence = {
   lessonDate: string;
   level: CefrLevel;
   sentence: string;
+  /** Same-index sentence from the level's `text_pl`, if both sides split
+   *  into the same number of sentences. Missing when EN and PL sentence
+   *  counts diverge — e.g. a translation that merges two English
+   *  sentences into one Polish one. */
+  sentencePl?: string;
 };
 
 export type DictEntry = {
@@ -95,10 +100,13 @@ function splitVocabPl(raw: string): string[] {
 let _cache: Map<string, DictEntry> | null = null;
 
 /** Split a paragraph into sentences. Good-enough heuristic for prose:
- *  break on .!? followed by whitespace + an opener (uppercase or quote). */
+ *  break on .!? followed by whitespace + an opener (any Unicode
+ *  uppercase letter or a quote). `\p{Lu}` covers Polish uppercase
+ *  Ą Ę Ó Ś Ł Ć Ń Ż Ź in addition to Latin A-Z, so the same splitter
+ *  works for text_pl. */
 export function splitSentences(text: string): string[] {
   return text
-    .split(/(?<=[.!?])\s+(?=[A-Z"„'(])/u)
+    .split(/(?<=[.!?])\s+(?=[\p{Lu}"„'(])/u)
     .map((s) => s.trim())
     .filter(Boolean);
 }
@@ -162,7 +170,13 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
       const lv = data.levels[level];
       if (!lv?.text) continue;
       const sentences = splitSentences(lv.text);
-      for (const sentence of sentences) {
+      // Split the Polish translation as well; sentencePl is aligned by
+      // index and only used when EN and PL split into the same count.
+      const sentencesPl = lv.text_pl ? splitSentences(lv.text_pl) : [];
+      const alignPl = sentencesPl.length === sentences.length;
+      for (let i = 0; i < sentences.length; i++) {
+        const sentence = sentences[i];
+        const sentencePl = alignPl ? sentencesPl[i] : undefined;
         const seen = new Set<string>();
         // Skip the first word of every sentence when judging proper-noun
         // capitalisation — sentence-start always capitalises so it carries
@@ -182,6 +196,7 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
             lessonDate: data.date_assigned,
             level,
             sentence,
+            sentencePl,
           });
         }
       }

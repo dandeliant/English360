@@ -132,6 +132,9 @@ const wordIndex = await buildWordIndex();
                 );
               })}
             </p>
+            {occ.sentencePl && (
+              <p class="occurrence__sentence-pl" lang="pl">{occ.sentencePl}</p>
+            )}
             <p class="occurrence__source">
               <a href={withBase(`/lekcja/${occ.lessonId}`)}>{occ.lessonTitlePl}</a>
               <span class="occurrence__sep" aria-hidden="true">·</span>
@@ -294,8 +297,18 @@ const wordIndex = await buildWordIndex();
     font-family: var(--font-serif);
     font-size: var(--text-lg);
     line-height: var(--leading-relaxed);
+    margin-block-end: var(--space-2);
+    display: block;
+  }
+
+  .occurrence__sentence-pl {
+    font-family: var(--font-serif);
+    font-size: var(--text-base);
+    line-height: var(--leading-relaxed);
+    color: var(--text-muted);
+    font-style: italic;
     margin-block-end: var(--space-3);
-    display: inline;
+    display: block;
   }
 
   .occurrence__match {
