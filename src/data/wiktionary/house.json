@@ -48,6 +48,9 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "dom",
+    "mieścić"
+  ],
   "fetchedAt": "2026-05-19T18:27:42.292Z"
 }

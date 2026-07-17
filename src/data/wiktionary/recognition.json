@@ -26,6 +26,8 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "rozpoznanie"
+  ],
   "fetchedAt": "2026-05-19T20:33:40.624Z"
 }
