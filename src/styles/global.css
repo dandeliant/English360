@@ -342,22 +342,31 @@ html[data-text-lang='parallel'] .lesson-panel__text-block {
 }
 
 /* ── Print / PDF ─────────────────────────────────────────────────
- * Strip the site chrome, expand all six CEFR levels and both
- * language columns, drop interactive controls. The result is a
- * teacher-friendly handout: title, photo, text EN + PL, vocab,
- * exercise questions (without the Check / Reveal buttons).
+ * Ecofriendly, minimal handout. White background, black text.
+ * Prints only what the reader has actually chosen on screen:
+ *   - the currently selected CEFR level (other panels stay hidden)
+ *   - the chosen language mode (EN / PL / parallel — including the
+ *     did-you-know box)
+ * Everything decorative (tags/hashtags, streak flame, TTS, Star,
+ * level tabs, lang toggle, theme toggle, site header/footer) is
+ * removed. Spacing is tightened so the sheet is compact.
  */
 @media print {
   html, body {
     background: #fff !important;
     color: #000 !important;
     font-size: 11pt;
-    line-height: 1.45;
+    line-height: 1.4;
   }
 
+  /* Site chrome + generic interactive controls. */
   .site-header,
   .site-footer,
   .skip-link,
+  .site-nav,
+  .site-admin-link,
+  .streak-badge,
+  .theme-toggle,
   .word-tooltip,
   .word-page__edit-link,
   .calendar-month-nav,
@@ -367,51 +376,37 @@ html[data-text-lang='parallel'] .lesson-panel__text-block {
     display: none !important;
   }
 
-  /* Lesson chrome that doesn't help in print. */
+  /* Lesson interactive controls that only make sense on screen. */
   .lang-toggle,
   .level-tabs,
   .level-tabs__hint,
-  .lesson-panel__text-actions [data-tts],
-  .theme-toggle,
-  .site-nav,
+  .lesson-panel__text-actions,
   .exercise__actions,
-  .exercise__placeholder {
+  .exercise__placeholder,
+  .star-button,
+  [data-star-button],
+  .vocab__tts,
+  .lesson-card__meta-actions {
     display: none !important;
   }
 
-  /* Expand all collapsible level panels regardless of active state. */
-  .lesson-panel[hidden] { display: block !important; }
-  .lesson-panel { break-inside: avoid; page-break-inside: avoid; }
-  .lesson-panel + .lesson-panel { break-before: page; page-break-before: always; }
-
-  /* Show BOTH languages, regardless of the on-screen toggle setting. */
-  [data-text-lang-content='en'],
-  [data-text-lang-content='pl'] { display: block !important; }
-  [data-text-lang-content='en']::before {
-    content: 'EN';
-    display: block;
-    font-size: 8pt;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: #666;
-    margin-block-end: 2pt;
-  }
-  [data-text-lang-content='pl']::before {
-    content: 'PL';
-    display: block;
-    font-size: 8pt;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    color: #666;
-    margin-block-end: 2pt;
-  }
-  [data-text-lang-content='pl'] {
-    margin-block-start: 8pt;
-    padding-block-start: 6pt;
-    border-block-start: 1px dashed #ccc;
+  /* Hashtags / tags: gone. */
+  .lesson-card__tags {
+    display: none !important;
   }
 
-  /* Drop word-link styling — readers don't click paper. */
+  /* Only the visible CEFR panel prints — respect the [hidden] state
+   * that the on-screen tab picker maintains. */
+  .lesson-panel[hidden] { display: none !important; }
+  .lesson-panel { break-inside: avoid; page-break-inside: avoid; padding: 0 !important; }
+
+  /* Respect the on-screen language choice for the lesson body too.
+   * en/pl hide the other side; parallel shows both (base CSS already
+   * handles the parallel case). */
+  html[data-text-lang='en'] .did-you-know__pl { display: none !important; }
+  html[data-text-lang='pl'] .did-you-know__en { display: none !important; }
+
+  /* Word links: plain text, no styling. */
   .word-link {
     color: inherit !important;
     border-block-end: none !important;
@@ -419,18 +414,67 @@ html[data-text-lang='parallel'] .lesson-panel__text-block {
   }
   .tts-word.is-active { background: none !important; color: inherit !important; }
 
-  /* Vocab: compact rows. */
-  .vocab__row { font-size: 10pt; padding-block: 4pt; }
-  .vocab__tts { display: none !important; }
-
-  /* Exercise: still visible, but as quiet block. */
-  .exercise {
-    border: 1px solid #ccc !important;
-    padding: 8pt 10pt !important;
+  /* Card shell: no borders, shadows or coloured backgrounds. */
+  .lesson-card {
+    background: #fff !important;
+    border: none !important;
     box-shadow: none !important;
+    overflow: visible !important;
+  }
+  .lesson-card__header { gap: 8pt !important; }
+  .lesson-card__figure { background: #fff !important; margin-block-end: 4pt !important; }
+  .lesson-card__figure img { max-height: 6cm; object-fit: contain; }
+  .lesson-card__credit { background: #fff !important; border: none !important; padding: 2pt 0 !important; }
+  .lesson-card__titles { padding: 0 !important; }
+  .lesson-card__location { font-size: 10pt; color: #000 !important; margin-block-end: 0 !important; }
+  .lesson-card__photo-date { font-size: 10pt; color: #000 !important; margin-block-end: 4pt !important; }
+  .lesson-card__title-en { font-size: 20pt !important; line-height: 1.15 !important; margin-block-end: 1pt !important; }
+  .lesson-card__title-pl { font-size: 12pt !important; color: #000 !important; margin-block-end: 6pt !important; }
+
+  /* CEFR level pill: keep as a small black-on-white label. */
+  .lesson-panel__strip {
+    background: #fff !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    border: 1px solid #000;
+    padding: 1pt 6pt !important;
+    margin-block-end: 6pt !important;
   }
 
-  @page { margin: 1.5cm; }
+  /* Body text: compact. */
+  .lesson-panel__text { font-size: 11pt !important; line-height: 1.4 !important; }
+  .lesson-panel__text p + p { margin-block-start: 4pt !important; }
+  .lesson-panel__text-block { margin-block: 4pt !important; }
+
+  /* Vocab: compact rows. */
+  .vocab { border-color: #000 !important; }
+  .vocab__row { font-size: 10pt; padding-block: 3pt; }
+
+  /* Exercise: quiet block. */
+  .exercise {
+    background: #fff !important;
+    border: 1px solid #000 !important;
+    padding: 6pt 8pt !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    margin-block: 6pt !important;
+  }
+
+  /* Did-you-know: quiet block, no gradient. */
+  .did-you-know {
+    background: #fff !important;
+    border: 1px solid #000 !important;
+    padding: 6pt 8pt !important;
+    margin: 8pt 0 !important;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  .did-you-know__heading { color: #000 !important; }
+  .did-you-know__en { color: #000 !important; }
+  .did-you-know__pl { color: #000 !important; font-style: normal !important; }
+
+  @page { margin: 1.2cm; }
 
   h1, h2, h3, h4 { break-after: avoid; page-break-after: avoid; }
 }
