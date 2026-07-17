@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import LessonCard from '../../components/LessonCard.astro';
+import { withBase } from '../../lib/paths.js';
+import { buildCalendarIndex } from '../../utils/calendar-index.ts';
+
+const MONTH_NAMES_PL = [
+  'stycznia', 'lutego', 'marca', 'kwietnia', 'maja', 'czerwca',
+  'lipca', 'sierpnia', 'września', 'października', 'listopada', 'grudnia',
+];
+
+export async function getStaticPaths() {
+  const calendar = await buildCalendarIndex();
+  return [...calendar.entries()].map(([md, lessons]) => ({
+    params: { md },
+    props: { md, lessons },
+  }));
+}
+
+interface Props {
+  md: string;
+  lessons: Awaited<ReturnType<typeof buildCalendarIndex>>[typeof Symbol.iterator] extends unknown
+    ? Awaited<ReturnType<typeof buildCalendarIndex>> extends Map<string, infer V> ? V : never
+    : never;
+}
+
+const { md, lessons } = Astro.props as Props;
+const [mm, dd] = md.split('-');
+const monthName = MONTH_NAMES_PL[Number(mm) - 1];
+const dateLabel = `${Number(dd)} ${monthName}`;
+
+const multi = lessons.length > 1;
+const primary = lessons[0];
+---
+<BaseLayout
+  title={`${dateLabel} — English 360°`}
+  description={multi
+    ? `${lessons.length} lekcje przypisane do ${dateLabel}: ${lessons.map((l) => l.data.title_pl).join(' · ')}.`
+    : `Lekcja przypisana do ${dateLabel}: ${primary.data.title_pl}.`}
+  ogImage={withBase(primary.data.image)}
+>
+  <div class="page">
+    <header class="day-header">
+      <p class="day-header__breadcrumb">
+        <a href={withBase('/kalendarz')}>← Kalendarz</a>
+      </p>
+      <h1 class="day-header__title">{dateLabel}</h1>
+      {multi ? (
+        <p class="day-header__meta">
+          <strong>{lessons.length}</strong> {lessons.length < 5 ? 'lekcje' : 'lekcji'} przypisane do tego dnia
+          — każda z osobnym zdjęciem i osobnym słownictwem.
+        </p>
+      ) : (
+        <p class="day-header__meta">Jedna lekcja przypisana do tego dnia.</p>
+      )}
+    </header>
+
+    <div class="lessons-stack">
+      {lessons.map((lesson) => (
+        <LessonCard lesson={lesson} />
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .day-header {
+    margin-block-end: var(--space-5);
+  }
+
+  .day-header__breadcrumb {
+    font-size: var(--text-sm);
+    margin-block-end: var(--space-3);
+  }
+
+  .day-header__breadcrumb a {
+    color: var(--accent);
+  }
+
+  .day-header__title {
+    font-family: var(--font-serif);
+    font-size: var(--text-3xl);
+    letter-spacing: -0.015em;
+    margin-block-end: var(--space-2);
+  }
+
+  @media (min-width: 48rem) {
+    .day-header__title { font-size: var(--text-4xl); }
+  }
+
+  .day-header__meta {
+    color: var(--text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .lessons-stack {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-6);
+  }
+</style>

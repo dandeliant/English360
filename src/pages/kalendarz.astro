@@ -142,16 +142,21 @@ const totalLessonsThisYear = [...calendar.values()].length;
                 const primary = cell.lessons[0];
                 const date = `${cell.md.slice(0, 2)}.${cell.md.slice(3)}`;
                 const multi = cell.lessons.length > 1;
+                // Single-lesson cells go straight to the lesson; multi-
+                // lesson cells go to the day view listing all of them.
+                const cellHref = multi
+                  ? withBase(`/dzien/${cell.md}`)
+                  : withBase(`/lekcja/${primary.id}`);
                 return (
                   <li
                     class:list={['day', 'day--has-lesson', cell.isToday && 'day--today', multi && 'day--multi']}
                     style={`--day-bg-image: url('${withBase(primary.data.image)}')`}
                   >
                     <a
-                      href={withBase(`/lekcja/${primary.id}`)}
+                      href={cellHref}
                       class="day__link"
                       aria-label={multi
-                        ? `${date} — ${primary.data.title_pl} (i ${cell.lessons.length - 1} więcej)`
+                        ? `${date} — ${cell.lessons.length} lekcji tego dnia`
                         : `${date} — ${primary.data.title_pl}`}
                     >
                       <span class="day__num">{cell.day}</span>

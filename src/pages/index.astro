@@ -1,47 +1,39 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import LessonCard from '../components/LessonCard.astro';
 import { withBase } from '../lib/paths.js';
+import { buildCalendarIndex } from '../utils/calendar-index.ts';
 
 // "Today" at build time. (Static generation: this is frozen until the next
 // build. The GitHub Pages workflow runs a monthly cron so the calendar year
 // rolls over even without content commits.)
-const today = new Date().toISOString().slice(0, 10);
+const today = new Date();
+const todayIso = today.toISOString().slice(0, 10);
+const todayMd = todayIso.slice(5);
 
-const lessons = await getCollection('lessons');
+// Use the calendar index (MM-DD → Lesson[]) so cross-year siblings are
+// grouped together — the calendar's premise is that lessons belong to a
+// day-of-year, not to a specific year. If today has any lessons, all of
+// them show; if not, we walk backwards day by day looking for the nearest
+// past MM-DD that has lessons.
+const calendar = await buildCalendarIndex();
 
-// All lessons that legitimately claim today, newest-first. date_assigned
-// entries take priority over date_alternatives; dedup by id in case a
-// lesson lists today in both channels.
-const exactMatches = lessons
-  .filter((l) => l.data.date_assigned === today)
-  .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
-const altMatches = lessons
-  .filter((l) => l.data.date_alternatives.includes(today))
-  .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
-
-const seen = new Set<string>();
-const todaysLessons: typeof lessons = [];
-for (const l of [...exactMatches, ...altMatches]) {
-  if (!seen.has(l.id)) {
-    seen.add(l.id);
-    todaysLessons.push(l);
-  }
-}
-
-// Fallback: most recent lesson on or before today. Only one — the fallback
-// path is for "no lesson today, show the freshest thing that exists" and
-// stacking a couple of yesterday's lessons under that banner would be
-// misleading.
+let todaysLessons = calendar.get(todayMd) ?? [];
 let isFallback = false;
+let fallbackMd: string | null = null;
+
 if (todaysLessons.length === 0) {
-  const sorted = [...lessons]
-    .filter((l) => l.data.date_assigned <= today)
-    .sort((a, b) => b.data.date_assigned.localeCompare(a.data.date_assigned));
-  if (sorted[0]) {
-    todaysLessons.push(sorted[0]);
-    isFallback = true;
+  const cursor = new Date(today);
+  for (let i = 0; i < 366; i++) {
+    cursor.setDate(cursor.getDate() - 1);
+    const md = `${String(cursor.getMonth() + 1).padStart(2, '0')}-${String(cursor.getDate()).padStart(2, '0')}`;
+    const found = calendar.get(md);
+    if (found && found.length > 0) {
+      todaysLessons = found;
+      isFallback = true;
+      fallbackMd = md;
+      break;
+    }
   }
 }
 
@@ -52,9 +44,13 @@ if (todaysLessons.length === 0) {
 const primary = todaysLessons[0];
 const multi = todaysLessons.length > 1;
 
+const fallbackDateLabel = fallbackMd
+  ? `${fallbackMd.slice(3)}.${fallbackMd.slice(0, 2)}` // MM-DD → DD.MM
+  : null;
+
 const description = multi
-  ? `English 360° — ${todaysLessons.length} lekcje na ${today}: ${todaysLessons.map((l) => l.data.title_pl).join(' · ')}.`
-  : `English 360° — lekcja na ${today}: ${primary.data.title_pl}.`;
+  ? `English 360° — ${todaysLessons.length} lekcje na ${todayIso}: ${todaysLessons.map((l) => l.data.title_pl).join(' · ')}.`
+  : `English 360° — lekcja na ${todayIso}: ${primary.data.title_pl}.`;
 ---
 <BaseLayout
   title="Lekcja dnia"
@@ -65,17 +61,24 @@ const description = multi
     {isFallback && (
       <div class="today-banner" role="status">
         <p>
-          <strong>Dziś nie ma nowej lekcji.</strong> Oto ostatnia dostępna,
-          z dnia {primary.data.date_assigned}.
+          <strong>Dziś nie ma nowej lekcji.</strong> Poniżej {multi ? 'lekcje' : 'lekcja'} z najbliższego dnia z zawartością{fallbackDateLabel ? `: ${fallbackDateLabel}` : ''}.
         </p>
       </div>
     )}
 
-    {multi && (
+    {multi && !isFallback && (
       <div class="today-multi" role="status">
         <p>
           Na dziś przypada <strong>{todaysLessons.length}</strong> {todaysLessons.length < 5 ? 'lekcje' : 'lekcji'} —
           każda z osobnym zdjęciem i osobnym słownictwem. Przewiń w dół, by zobaczyć kolejną.
+        </p>
+      </div>
+    )}
+
+    {multi && isFallback && (
+      <div class="today-multi" role="status">
+        <p>
+          W tym dniu jest <strong>{todaysLessons.length}</strong> {todaysLessons.length < 5 ? 'lekcje' : 'lekcji'} — wszystkie poniżej.
         </p>
       </div>
     )}
