@@ -149,7 +149,9 @@ const photoDate = dateMatch
                             class="word-link tts-word"
                             href={withBase(`/slownik/${tok.slug}`)}
                             data-lemma={tok.lemma}
+                            data-slug={tok.slug}
                             data-pl={pl || undefined}
+                            data-ipa={entry?.ipaBr || undefined}
                           >{tok.text}</a>
                         );
                       })}
@@ -196,7 +198,9 @@ const photoDate = dateMatch
               class="word-link"
               href={withBase(`/slownik/${tok.slug}`)}
               data-lemma={tok.lemma}
+              data-slug={tok.slug}
               data-pl={pl || undefined}
+              data-ipa={entry?.ipaBr || undefined}
             >{tok.text}</a>
           );
         })}

@@ -35,6 +35,11 @@ export type WiktionaryCache = {
    *  (e.g. `Polish` rather than `polish`) so we hit the right page. */
   fetchTerm?: string;
   fetchedAt: string;
+  /** British IPA pronunciation, e.g. `/ðə, ðiː/`. Optional, hand-authored
+   *  in the cache file for words that never appear in a lesson's vocab (so
+   *  no `ipa_br` flows in from there). Lifted onto `DictEntry.ipaBr` by the
+   *  word index when no lesson vocab already supplied one. */
+  ipaBr?: string;
   en: WiktionaryEnEntry[] | null;
   pl: WiktionaryPlSummary | null;
   /** Polish translations harvested from the EN Wiktionary page's

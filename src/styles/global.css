@@ -186,13 +186,99 @@ a:hover { text-decoration-thickness: 2px; }
   font-size: var(--text-sm);
   font-weight: 500;
   line-height: 1.3;
-  pointer-events: none;
+  /* Interactive: the pointer must be able to travel onto the tooltip to
+   * click the speaker. A hide delay in the script bridges the word→tooltip
+   * gap so it does not vanish mid-travel. */
+  pointer-events: auto;
   opacity: 0;
   visibility: hidden;
   transform: translateY(-4px);
   transition: opacity 120ms ease, visibility 120ms ease, transform 120ms ease;
   box-shadow: var(--shadow-lg);
   --arrow-x: 50%;
+}
+
+.word-tooltip__row {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.word-tooltip__speak {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 1.6rem;
+  block-size: 1.6rem;
+  padding: 0;
+  background: color-mix(in srgb, var(--bg) 18%, transparent);
+  border: 1px solid color-mix(in srgb, var(--bg) 30%, transparent);
+  border-radius: 999px;
+  color: inherit;
+  font-size: 0.85rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.word-tooltip__speak:hover {
+  background: color-mix(in srgb, var(--bg) 30%, transparent);
+}
+
+.word-tooltip__speak:focus-visible,
+.word-tooltip__star:focus-visible {
+  outline: 2px solid var(--bg);
+  outline-offset: 2px;
+}
+
+.word-tooltip__speak[data-tts-playing='true'] {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.word-tooltip__star {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 1.6rem;
+  block-size: 1.6rem;
+  padding: 0;
+  background: color-mix(in srgb, var(--bg) 18%, transparent);
+  border: 1px solid color-mix(in srgb, var(--bg) 30%, transparent);
+  border-radius: 999px;
+  color: inherit;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.word-tooltip__star:hover {
+  background: color-mix(in srgb, var(--bg) 30%, transparent);
+  color: #f5b300;
+}
+
+.word-tooltip__star[data-on='true'] {
+  color: #f5b300;
+}
+
+.word-tooltip__ipa {
+  font-family: var(--font-mono);
+  font-weight: 400;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+.word-tooltip__pl {
+  display: block;
+  margin-block-start: var(--space-1);
+}
+
+/* When a word carries no IPA or no gloss the script hides that slot; a
+ * lone speaker row stays centred with no empty gap below it. */
+.word-tooltip__ipa[hidden],
+.word-tooltip__pl[hidden] {
+  display: none;
 }
 
 .word-tooltip[data-visible='true'] {

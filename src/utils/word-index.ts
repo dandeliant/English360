@@ -214,9 +214,14 @@ export async function buildWordIndex(): Promise<Map<string, DictEntry>> {
   // `Translations` section. User-authored vocab translations (from pass 1)
   // come first; Wiktionary appends additional senses that the author may
   // not have spelled out. Deduplication preserves order.
+  //
+  // Also lift a hand-authored `ipaBr` from the cache as a fallback: function
+  // words like "the" never appear in a lesson's vocab, so no `ipa_br` reaches
+  // pass 1 — the cache file is their only source of pronunciation.
   await Promise.all(
     [...index.values()].map(async (entry) => {
       const wikt = await loadWiktionary(entry.slug);
+      if (!entry.ipaBr && wikt?.ipaBr) entry.ipaBr = wikt.ipaBr;
       if (wikt?.translations && wikt.translations.length > 0) {
         mergeTranslations(entry, wikt.translations);
       }

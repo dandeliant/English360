@@ -1,34 +1,162 @@
-// Floating Polish-translation tooltip for clickable words.
+// Floating tooltip for clickable words: British TTS speaker, a star to add
+// the word to favourites, IPA and the Polish translation.
 //
 // Architecture: ONE tooltip DOM node, document-level delegation. Hover (or
-// keyboard focus) on any `.word-link[data-pl]` reveals the tooltip; moving
-// away or scrolling hides it. Positioning flips below the word if there is
-// no space above and clamps horizontally so the tooltip never overflows
-// the viewport. Touch devices (no hover) trigger only on focus.
+// keyboard focus) on any `.word-link` reveals the tooltip. It carries a real
+// 🔊 button that speaks the hovered word via the shared TTS engine (which
+// already prefers a British "Google UK English" voice), a ☆/★ button that
+// toggles the word in the personal vocab journal, plus the word's IPA and
+// Polish gloss when the dictionary has them.
+//
+// The tooltip is interactive (`pointer-events: auto`) so the buttons are
+// clickable. A short hide delay bridges the gap between the word and the
+// tooltip so the pointer can travel onto it without it vanishing. Positioning
+// flips below the word when there is no room above and clamps horizontally so
+// the tooltip never overflows the viewport. Touch devices (no hover) trigger
+// only on focus.
+//
+// Keyboard/AA note: focusing a word shows the same IPA + PL info. Keyboard-
+// operable per-word audio and starring live on the word's own dictionary page
+// (the in-flow `[data-tts]` 🔊 button and the `[data-star-btn]` star in the
+// header), both in the tab order; the tooltip's buttons are pointer
+// enhancements that duplicate them.
+
+import { speak } from './tts.js';
+import { toggleStar, isStarred, onChange } from './vocab-state.js';
+
+const STAR_LABEL_OFF = 'Dodaj do ulubionych słówek';
+const STAR_LABEL_ON = 'Usuń z ulubionych słówek';
 
 let tooltip = null;
+let speakBtn = null;
+let starBtn = null;
+let ipaEl = null;
+let plEl = null;
 let lastTarget = null;
+let currentWord = '';
+let currentSlug = '';
+let currentLessonId = '';
+let hideTimer = null;
 
 function ensureTooltip() {
   if (tooltip) return tooltip;
+
   tooltip = document.createElement('div');
   tooltip.className = 'word-tooltip';
   tooltip.setAttribute('role', 'tooltip');
   tooltip.setAttribute('aria-hidden', 'true');
+
+  const row = document.createElement('div');
+  row.className = 'word-tooltip__row';
+
+  speakBtn = document.createElement('button');
+  speakBtn.type = 'button';
+  speakBtn.className = 'word-tooltip__speak';
+  speakBtn.setAttribute('aria-label', 'Odsłuchaj wymowę');
+  speakBtn.textContent = '🔊';
+  speakBtn.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    if (currentWord) speak(currentWord, { lang: 'en' });
+  });
+
+  starBtn = document.createElement('button');
+  starBtn.type = 'button';
+  starBtn.className = 'word-tooltip__star';
+  starBtn.setAttribute('aria-pressed', 'false');
+  starBtn.setAttribute('aria-label', STAR_LABEL_OFF);
+  starBtn.textContent = '☆';
+  starBtn.addEventListener('click', (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+    if (!currentSlug) return;
+    toggleStar(currentSlug, currentLessonId ? { lessonId: currentLessonId } : {});
+    reflectStar();
+  });
+
+  ipaEl = document.createElement('span');
+  ipaEl.className = 'word-tooltip__ipa';
+
+  plEl = document.createElement('span');
+  plEl.className = 'word-tooltip__pl';
+
+  row.append(speakBtn, starBtn, ipaEl);
+  tooltip.append(row, plEl);
   document.body.appendChild(tooltip);
+
+  // Keep the tooltip alive while the pointer is over it.
+  tooltip.addEventListener('mouseover', cancelHide);
+  tooltip.addEventListener('mouseleave', scheduleHide);
+
+  // Reflect starred-state changes made elsewhere (word page, vocab table)
+  // while the tooltip is open for the same word.
+  onChange(() => {
+    if (lastTarget) reflectStar();
+  });
+
   return tooltip;
 }
 
-function show(target) {
-  const pl = target.dataset.pl;
-  if (!pl) return;
-  if (target === lastTarget) {
-    position(target);
-    return;
+function reflectStar() {
+  if (!starBtn) return;
+  const on = Boolean(currentSlug) && isStarred(currentSlug);
+  starBtn.textContent = on ? '★' : '☆';
+  starBtn.setAttribute('aria-pressed', on ? 'true' : 'false');
+  starBtn.setAttribute('aria-label', on ? STAR_LABEL_ON : STAR_LABEL_OFF);
+  starBtn.dataset.on = on ? 'true' : 'false';
+}
+
+function cancelHide() {
+  if (hideTimer) {
+    clearTimeout(hideTimer);
+    hideTimer = null;
   }
+}
+
+function scheduleHide() {
+  cancelHide();
+  // Delay long enough to cross the small gap between word and tooltip.
+  hideTimer = setTimeout(hide, 150);
+}
+
+function slugOfLink(target) {
+  if (target.dataset.slug) return target.dataset.slug;
+  // Fallback: last path segment of the /slownik/<slug> href.
+  try {
+    return new URL(target.href).pathname.split('/').filter(Boolean).pop() || '';
+  } catch {
+    return '';
+  }
+}
+
+function show(target) {
+  cancelHide();
+  const pl = target.dataset.pl || '';
+  const ipa = target.dataset.ipa || '';
+  currentWord = (target.textContent || '').trim();
+  currentSlug = slugOfLink(target);
+  currentLessonId = target.dataset.lessonId || '';
+
   const tip = ensureTooltip();
-  tip.textContent = pl;
-  // Make it measurable first (off-screen), then position.
+  reflectStar();
+
+  if (ipa) {
+    ipaEl.textContent = ipa;
+    ipaEl.hidden = false;
+  } else {
+    ipaEl.textContent = '';
+    ipaEl.hidden = true;
+  }
+
+  if (pl) {
+    plEl.textContent = pl;
+    plEl.hidden = false;
+  } else {
+    plEl.textContent = '';
+    plEl.hidden = true;
+  }
+
+  // Make it measurable first, then position.
   tip.dataset.visible = 'true';
   tip.setAttribute('aria-hidden', 'false');
   lastTarget = target;
@@ -36,6 +164,7 @@ function show(target) {
 }
 
 function hide() {
+  cancelHide();
   if (!tooltip || !lastTarget) return;
   tooltip.dataset.visible = 'false';
   tooltip.setAttribute('aria-hidden', 'true');
@@ -78,31 +207,29 @@ function position(target) {
 
 function onMouseOver(event) {
   const link = event.target.closest && event.target.closest('.word-link');
-  if (link && link.dataset.pl) {
-    show(link);
-  }
+  if (link) show(link);
 }
 
 function onMouseOut(event) {
   if (!event.target.closest) return;
   const link = event.target.closest('.word-link');
   if (!link) return;
-  // Don't hide if we're crossing into another word-link.
   const next =
     event.relatedTarget &&
     event.relatedTarget.closest &&
-    event.relatedTarget.closest('.word-link');
-  if (next && next.dataset.pl) return;
-  hide();
+    event.relatedTarget.closest('.word-link, .word-tooltip');
+  // Moving into another word or onto the tooltip itself keeps it open.
+  if (next) return;
+  scheduleHide();
 }
 
 function onFocusIn(event) {
   const link = event.target.closest && event.target.closest('.word-link');
-  if (link && link.dataset.pl) show(link);
+  if (link) show(link);
 }
 
 function onFocusOut() {
-  hide();
+  scheduleHide();
 }
 
 function init() {
