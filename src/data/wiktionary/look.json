@@ -68,11 +68,11 @@
   ],
   "pl": null,
   "translations": [
+    "spojrzeć",
     "patrzeć",
-    "popatrzeć",
     "wyglądać",
-    "słuchaj",
-    "pogląd"
+    "spojrzeć na (look at)",
+    "patrzeć na (look at)"
   ],
   "fetchTerm": "look"
 }

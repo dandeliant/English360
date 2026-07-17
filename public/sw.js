@@ -16,7 +16,7 @@
 // manifest/icon change, precache list change, or a manual "spring clean".
 // Format: v0.NNN with a leading zero so string comparison stays sane until
 // we ever ship a "real" v1. Increment by 0.001 per bump.
-const VERSION = 'v0.001';
+const VERSION = 'v0.002';
 const PRECACHE = `en360-precache-${VERSION}`;
 const RUNTIME = `en360-runtime-${VERSION}`;
 

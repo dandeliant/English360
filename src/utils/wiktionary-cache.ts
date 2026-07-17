@@ -4,11 +4,14 @@
 // the page renders without the Wiktionary section.
 
 import { readFile, access } from 'node:fs/promises';
-import { fileURLToPath } from 'node:url';
-import { dirname, join } from 'node:path';
+import { join } from 'node:path';
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const CACHE_DIR = join(__dirname, '../data/wiktionary');
+// Resolve from the project root (Astro invokes both `dev` and `build`
+// from there). Using __dirname/import.meta.url gets bundled into the
+// dist/ chunk path at build time and points at dist/data/wiktionary,
+// which does not exist — that broke Wiktionary loading during SSG for
+// the entire history of the project until this fix.
+const CACHE_DIR = join(process.cwd(), 'src', 'data', 'wiktionary');
 
 export type WiktionaryEnEntry = {
   partOfSpeech: string;
