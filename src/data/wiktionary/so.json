@@ -143,6 +143,9 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "więc",
+    "tak"
+  ],
   "fetchTerm": "so"
 }

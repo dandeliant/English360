@@ -98,11 +98,9 @@
   ],
   "pl": null,
   "translations": [
-    "-ać",
-    "-eć",
-    "-ić",
-    "-ć",
-    "-ąć"
+    "żeby",
+    "do (przyimek)",
+    "aby"
   ],
   "fetchTerm": "to"
 }

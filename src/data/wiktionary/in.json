@@ -130,6 +130,9 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "w",
+    "we"
+  ],
   "fetchTerm": "in"
 }
