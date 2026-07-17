@@ -1,0 +1,210 @@
+{
+  "id": "2026-07-16-sunset-ciezkie",
+  "date_assigned": "2026-07-16",
+  "date_alternatives": [],
+  "title_en": "Permission to Rest",
+  "title_pl": "Prawo do odpoczynku",
+  "location": "Ciężkie, gmina Wojcieszków, Poland",
+  "image": "/images/2026-07-16-sunset-ciezkie.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "sunset", "field", "poland", "silence", "rest", "telegraph-pole", "evening"],
+  "themes": ["rest", "evening-hour", "sunset-traditions", "polish-countryside", "small-permissions"],
+  "did_you_know": {
+    "en": "An unusually large fraction of world religion has independently attached formal practices to the hour of sunset. In Islam, Salat al-Maghrib is one of the five daily obligatory prayers, and its timing is defined by direct observation of the sun's upper limb passing below the horizon. In Judaism, the Ma'ariv (or Arvit) service marks the transition to the halakhic day at the same moment. In Christianity, at least since the fourth century, the office of Vespers has been attached to the sunset hour — Ambrose of Milan and Augustine of Hippo already assumed it as a stable practice. In Hinduism, Sandhya (literally 'junction') is prescribed at each of the three daily transitions, and the sunset Sandhya is often considered the most important. Together, these traditions represent a rough three-thousand-year human agreement that the moment when the sun touches the horizon deserves a specific human response — a pause, a prayer, a change of activity. The photographer's caption, which said in effect that a tired person is entitled to a few minutes of orange sky and silence, is a Polish version of exactly that agreement. The four traditions would recognise the intuition immediately, even if the vocabulary has been secularised.",
+    "pl": "Nadzwyczaj duża część światowych religii niezależnie od siebie dołączyła do godziny zachodu słońca formalne praktyki. W islamie Salat al-Maghrib jest jedną z pięciu obowiązkowych modlitw dziennych, a jej czas określa bezpośrednia obserwacja górnej krawędzi tarczy słonecznej przechodzącej poniżej horyzontu. W judaizmie modlitwa Ma'ariv (lub Arwit) oznacza w tym samym momencie przejście do halachicznego dnia. W chrześcijaństwie, co najmniej od IV wieku, godzinie zachodu słońca przypisano oficjum Nieszporów — Ambroży z Mediolanu i Augustyn z Hippony już zakładali je jako stabilną praktykę. W hinduizmie Sandhya (dosłownie „złącze”) jest przepisana o każdym z trzech dziennych przejść, a Sandhya o zachodzie słońca jest często uważana za najważniejszą. Razem te tradycje reprezentują z grubsza trzytysiącletnią zgodę ludzkości, że moment, w którym słońce dotyka horyzontu, zasługuje na konkretną ludzką odpowiedź — pauzę, modlitwę, zmianę zajęcia. Podpis fotografa, który mówił w istocie, że osoba zmęczona ma prawo do kilku minut pomarańczowego nieba i ciszy, jest polską wersją dokładnie tej zgody. Te cztery tradycje rozpoznałyby intuicję natychmiast, nawet jeśli słownictwo zostało zsekularyzowane."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zachód słońca nad polem w Ciężkim koło Wojcieszkowa. Motyw: podpis fotografa — „jeśli dzisiaj czujesz zmęczenie, daj sobie prawo do resetu”. Wyższe poziomy pokazują, że ta intuicja nie jest ani prywatna, ani nowa — cztery największe tradycje religijne świata (islam, judaizm, chrześcijaństwo, hinduizm) mają formalną modlitwę lub praktykę przypisaną dokładnie do tej godziny. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: a sunset over a field in Ciężkie near Wojcieszków, eastern Poland. Theme: the photographer's caption — 'if you feel tired today, give yourself permission to reset'. Higher levels show that this intuition is neither private nor new — four of the world's largest religious traditions (Islam, Judaism, Christianity, Hinduism) attach a formal prayer or practice to exactly this hour. Six CEFR levels. english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Sunset", "#Rest", "#Poland", "#Ciężkie", "#EveningHour", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening. The sun is orange. It is very big and very low. The sky is orange too. In the field, we can see a tall pole. This pole is for electric wires. Everything is quiet. This is a good time to rest.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór. Słońce jest pomarańczowe. Jest bardzo duże i bardzo nisko. Niebo też jest pomarańczowe. Na polu widzimy wysoki słup. Ten słup jest do elektrycznych kabli. Wszystko jest ciche. To dobry czas na odpoczynek.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": false },
+        { "term": "big", "ipa_br": "/bɪɡ/", "pl": "duży", "new": false },
+        { "term": "low", "ipa_br": "/ləʊ/", "pl": "nisko", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": false },
+        { "term": "field", "ipa_br": "/fiːld/", "pl": "pole", "new": true },
+        { "term": "pole", "ipa_br": "/pəʊl/", "pl": "słup", "new": true },
+        { "term": "quiet", "ipa_br": "/ˈkwaɪət/", "pl": "cichy", "new": true },
+        { "term": "rest", "ipa_br": "/rest/", "pl": "odpoczynek, odpoczywać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "C" },
+            { "word": "sky", "answer": "A" },
+            { "word": "field", "answer": "D" },
+            { "word": "rest", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☁️" },
+            { "label": "B", "text": "😌" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "🌾" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This picture was taken at the end of a summer day in eastern Poland, on the sixteenth of July 2026. The sun is very low, almost touching the horizon. The whole sky is a deep, warm orange. In the middle of the frame, we can see a tall telegraph pole with electric wires. The photographer wrote that it is a good moment to stop and rest. When we are tired, it is important to give ourselves permission to be quiet — just for a few minutes. A summer evening like this is one of the best times to do that.",
+      "text_pl": "To zdjęcie zostało zrobione pod koniec letniego dnia we wschodniej Polsce, szesnastego lipca 2026 roku. Słońce jest bardzo nisko, niemal dotyka horyzontu. Całe niebo jest głębokim, ciepłym pomarańczem. Pośrodku kadru widzimy wysoki słup telegraficzny z elektrycznymi kablami. Fotograf napisał, że to dobra chwila, żeby się zatrzymać i odpocząć. Kiedy jesteśmy zmęczeni, ważne jest, żeby dać sobie prawo do bycia cicho — chociażby na kilka minut. Taki letni wieczór jest jednym z najlepszych czasów, żeby to zrobić.",
+      "vocab": [
+        { "term": "summer", "ipa_br": "/ˈsʌmə/", "pl": "lato", "new": false },
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": true },
+        { "term": "deep", "ipa_br": "/diːp/", "pl": "głęboki", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true },
+        { "term": "telegraph pole", "ipa_br": "/ˈtelɪɡrɑːf pəʊl/", "pl": "słup telegraficzny", "new": true },
+        { "term": "electric", "ipa_br": "/ɪˈlektrɪk/", "pl": "elektryczny", "new": true },
+        { "term": "wire", "ipa_br": "/ˈwaɪə/", "pl": "kabel, drut", "new": true },
+        { "term": "moment", "ipa_br": "/ˈməʊmənt/", "pl": "chwila, moment", "new": true },
+        { "term": "tired", "ipa_br": "/ˈtaɪəd/", "pl": "zmęczony", "new": true },
+        { "term": "permission", "ipa_br": "/pəˈmɪʃən/", "pl": "pozwolenie, prawo", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The sun is very low, almost touching the ___.", "answer": "horizon" },
+            { "sentence": "The whole sky is a deep, warm ___.", "answer": "orange" },
+            { "sentence": "In the middle of the frame, we can see a tall telegraph ___ with electric wires.", "answer": "pole" },
+            { "sentence": "When we are tired, it is important to give ourselves ___ to be quiet.", "answer": "permission" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the sixteenth of July 2026 in the small village of Ciężkie, in the gmina of Wojcieszków, in the Łuków district of eastern Poland. It is a very simple picture. The sun is low over the horizon. The whole sky is a deep warm orange. In the middle of the frame there is a tall telegraph pole with electric wires stretching left and right. In the foreground, a dark field of long grass moves gently in the last light of the day. The photographer's caption is unusually direct: 'if you feel tired today, give yourself permission to reset — a moment of silence, an orange sky, and this incredible calm.' It is not, in the strict sense, a photograph of an important place. It is a photograph of a moment when it is easier than usual to stop. Many cultures have noticed that the hour of sunset does this for people, and many have built formal practices around it — a specific evening prayer, a specific meal, a specific pause at exactly this time of day. This picture is a quiet Polish version of the same idea.",
+      "text_pl": "To zdjęcie zostało zrobione szesnastego lipca 2026 roku w niewielkiej wsi Ciężkie, w gminie Wojcieszków, w powiecie łukowskim we wschodniej Polsce. To bardzo prosty obraz. Słońce jest nisko nad horyzontem. Całe niebo jest głębokim, ciepłym pomarańczem. Pośrodku kadru stoi wysoki słup telegraficzny z elektrycznymi kablami rozciągającymi się w lewo i w prawo. Na pierwszym planie ciemne pole długich traw porusza się delikatnie w ostatnim świetle dnia. Podpis fotografa jest nietypowo bezpośredni: „jeśli dzisiaj czujesz zmęczenie, daj sobie prawo do resetu — chwila ciszy, pomarańczowe niebo i ten niesamowity spokój”. To nie jest, ściśle rzecz biorąc, zdjęcie ważnego miejsca. To zdjęcie momentu, w którym łatwiej niż zwykle jest się zatrzymać. Wiele kultur zauważyło, że godzina zachodu słońca to robi z ludźmi, i wiele zbudowało wokół niej formalne praktyki — konkretną modlitwę wieczorną, konkretny posiłek, konkretną pauzę dokładnie o tej porze dnia. To zdjęcie jest cichą polską wersją tej samej idei.",
+      "vocab": [
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": false },
+        { "term": "telegraph pole", "ipa_br": "/ˈtelɪɡrɑːf pəʊl/", "pl": "słup telegraficzny", "new": true },
+        { "term": "stretch", "ipa_br": "/stretʃ/", "pl": "rozciągać się", "new": true },
+        { "term": "foreground", "ipa_br": "/ˈfɔːɡraʊnd/", "pl": "pierwszy plan", "new": true },
+        { "term": "gently", "ipa_br": "/ˈdʒentli/", "pl": "delikatnie, łagodnie", "new": true },
+        { "term": "unusually", "ipa_br": "/ʌnˈjuːʒʊəli/", "pl": "nietypowo, niezwykle", "new": true },
+        { "term": "direct", "ipa_br": "/dɪˈrekt/", "pl": "bezpośredni", "new": true },
+        { "term": "caption", "ipa_br": "/ˈkæpʃən/", "pl": "podpis (pod zdjęciem)", "new": true },
+        { "term": "incredible", "ipa_br": "/ɪnˈkredəbəl/", "pl": "niesamowity", "new": true },
+        { "term": "practice", "ipa_br": "/ˈpræktɪs/", "pl": "praktyka", "new": true },
+        { "term": "pause", "ipa_br": "/pɔːz/", "pl": "pauza, przerwa", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 16 July 2026 in the village of Ciężkie, in the gmina of Wojcieszków.", "answer": true },
+            { "statement": "The picture is described as very simple, with the sun low over the horizon and a telegraph pole in the middle of the frame.", "answer": true },
+            { "statement": "According to the text, the photographer's caption gives the reader explicit permission to stop and rest at the end of a tired day.", "answer": true },
+            { "statement": "The author says this photograph is of an important historical place rather than of a specific quiet moment.", "answer": false },
+            { "statement": "Many cultures have built formal practices around the hour of sunset — a specific prayer, a specific meal or a specific pause.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a specific psychological weight to a summer sunset, and this photograph — taken on the evening of the sixteenth of July 2026 in the small village of Ciężkie in the gmina of Wojcieszków, in the Łuków district of eastern Poland — is a very clean example of a photographer noticing it. The composition is deliberately simple: an enormous low orange sun; a tall telegraph pole silhouetted almost dead centre; a dark field of grasses in the foreground catching the last horizontal light. The photographer's caption is direct — an explicit permission to rest, a note that silence and an orange sky are enough. What is philosophically interesting about the caption is that its intuition is not, at all, private or modern. Four of the world's largest religious traditions — Islam, Judaism, Christianity and Hinduism — have specific formal prayers or contemplative practices attached to the moment of sunset, and have had them for between one and three thousand years. The idea that the hour when the sun touches the horizon deserves a specific human response is one of the older cross-cultural agreements on the planet. A Polish photographer noticing, in July 2026, that it is a good time to rest is standing in an extremely well-established tradition.",
+      "text_pl": "Jest pewien konkretny ciężar psychologiczny letniego zachodu słońca, a to zdjęcie — zrobione wieczorem szesnastego lipca 2026 roku w niewielkiej wsi Ciężkie w gminie Wojcieszków, w powiecie łukowskim we wschodniej Polsce — jest bardzo czystym przykładem tego, jak fotograf go zauważa. Kompozycja jest świadomie prosta: ogromne, niskie pomarańczowe słońce; wysoki słup telegraficzny wpisany jako sylwetka niemal dokładnie na środku; ciemne pole traw na pierwszym planie łapiące ostatnie poziome światło. Podpis fotografa jest bezpośredni — jawne prawo do odpoczynku, notatka, że cisza i pomarańczowe niebo wystarczą. To, co jest filozoficznie ciekawe w tym podpisie, to fakt, że jego intuicja wcale nie jest prywatna ani nowoczesna. Cztery z największych światowych tradycji religijnych — islam, judaizm, chrześcijaństwo i hinduizm — mają konkretne formalne modlitwy lub praktyki kontemplacyjne przypisane do momentu zachodu słońca, i mają je od jednego do trzech tysięcy lat. Idea, że godzina, w której słońce dotyka horyzontu, zasługuje na konkretną ludzką odpowiedź, jest jedną ze starszych międzykulturowych zgód na tej planecie. Polski fotograf zauważający w lipcu 2026 roku, że to dobry czas na odpoczynek, stoi w niezwykle dobrze ugruntowanej tradycji.",
+      "vocab": [
+        { "term": "weight", "ipa_br": "/weɪt/", "pl": "ciężar, waga", "new": true },
+        { "term": "deliberately", "ipa_br": "/dɪˈlɪbərətli/", "pl": "świadomie, celowo", "new": true },
+        { "term": "silhouetted", "ipa_br": "/ˌsɪluˈetɪd/", "pl": "wpisany jako sylwetka", "new": true },
+        { "term": "foreground", "ipa_br": "/ˈfɔːɡraʊnd/", "pl": "pierwszy plan", "new": true },
+        { "term": "explicit", "ipa_br": "/ɪkˈsplɪsɪt/", "pl": "jawny, wyraźny", "new": true },
+        { "term": "intuition", "ipa_br": "/ˌɪntjuˈɪʃən/", "pl": "intuicja", "new": true },
+        { "term": "contemplative", "ipa_br": "/kənˈtemplətɪv/", "pl": "kontemplacyjny", "new": true },
+        { "term": "attach", "ipa_br": "/əˈtætʃ/", "pl": "przypisywać, dołączać", "new": true },
+        { "term": "cross-cultural", "ipa_br": "/ˌkrɒs ˈkʌltʃərəl/", "pl": "międzykulturowy", "new": true },
+        { "term": "agreement", "ipa_br": "/əˈɡriːmənt/", "pl": "zgoda, umowa", "new": true },
+        { "term": "established", "ipa_br": "/ɪˈstæblɪʃt/", "pl": "ugruntowany, ustalony", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The composition of the photograph is described as deliberately simple, with a low orange sun, a telegraph pole almost dead centre, and a dark grass foreground.", "answer": true },
+            { "statement": "According to the text, the photographer's intuition about resting at sunset is a private and modern idea.", "answer": false },
+            { "statement": "The text names Islam, Judaism, Christianity and Hinduism as four traditions that attach a formal prayer or contemplative practice to sunset.", "answer": true },
+            { "statement": "The author calls the sunset-response idea one of the older cross-cultural agreements on the planet.", "answer": true },
+            { "statement": "The photograph was taken on 16 July 2026 in Ciężkie in the gmina of Wojcieszków, in the Łuków district.", "answer": true },
+            { "statement": "The closing sentence claims that a Polish photographer of 2026 is standing in a newly invented tradition with no historical depth.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a very specific hour of the day around which a surprisingly large fraction of world religion has independently organised itself: the moment when the sun touches the horizon. Islam prescribes at that moment the fourth of its five daily prayers, Salat al-Maghrib, whose timing is defined by direct astronomical observation of the sun's disc disappearing. Judaism marks it with the Ma'ariv (or Arvit) service, and with the beginning of the halakhic day. Christianity has, since late antiquity, attached to it the office of Vespers, one of the most consistently celebrated hours of the liturgical day. Hinduism prescribes Sandhya, twilight prayer, at sunrise and sunset. This photograph — taken on the evening of the sixteenth of July 2026 in the small village of Ciężkie, in the gmina of Wojcieszków, in the Łuków district of eastern Poland — is a portrait of that hour in an entirely secular Polish field. A tall wooden telegraph pole rises from the ground almost exactly at the centre of the frame; a low sun sits above the horizon; a dark foreground of grasses catches the last direct light. The photographer's caption was, in effect, a Polish translation of the same underlying observation: that this is an hour when a human being has a specific right to stop. The observation is not original to the photographer, but it does not have to be. The hour is that consistent.",
+      "text_pl": "Istnieje pewna bardzo konkretna godzina dnia, wokół której niespodziewanie duża część światowej religii niezależnie zorganizowała się: moment, w którym słońce dotyka horyzontu. Islam przepisuje w tym momencie czwartą z pięciu swoich modlitw dziennych, Salat al-Maghrib, której czas jest zdefiniowany przez bezpośrednią astronomiczną obserwację znikającej tarczy słonecznej. Judaizm oznacza ją modlitwą Ma'ariv (lub Arwit) i początkiem halachicznego dnia. Chrześcijaństwo od późnej starożytności przypisało jej oficjum Nieszporów, jedną z najbardziej konsekwentnie odprawianych godzin dnia liturgicznego. Hinduizm przepisuje Sandhya, modlitwę zmierzchu, o wschodzie i o zachodzie słońca. To zdjęcie — zrobione wieczorem szesnastego lipca 2026 roku w niewielkiej wsi Ciężkie w gminie Wojcieszków, w powiecie łukowskim we wschodniej Polsce — jest portretem tej godziny w całkowicie świeckim polskim polu. Wysoki drewniany słup telegraficzny wyrasta z ziemi niemal dokładnie w środku kadru; nisko wiszące słońce siedzi nad horyzontem; ciemny pierwszy plan traw łapie ostatnie bezpośrednie światło. Podpis fotografa był, w istocie, polskim tłumaczeniem tej samej podstawowej obserwacji: że jest to godzina, w której człowiek ma konkretne prawo się zatrzymać. Obserwacja nie jest oryginalnym pomysłem fotografa, ale nie musi być. Ta godzina jest tak konsekwentna.",
+      "vocab": [
+        { "term": "fraction", "ipa_br": "/ˈfrækʃən/", "pl": "część, ułamek", "new": true },
+        { "term": "independently", "ipa_br": "/ˌɪndɪˈpendəntli/", "pl": "niezależnie", "new": true },
+        { "term": "prescribe", "ipa_br": "/prɪˈskraɪb/", "pl": "przepisywać, nakazywać", "new": true },
+        { "term": "astronomical", "ipa_br": "/ˌæstrəˈnɒmɪkəl/", "pl": "astronomiczny", "new": true },
+        { "term": "antiquity", "ipa_br": "/ænˈtɪkwəti/", "pl": "starożytność", "new": true },
+        { "term": "office", "ipa_br": "/ˈɒfɪs/", "pl": "oficjum (godzina liturgiczna)", "new": true },
+        { "term": "liturgical", "ipa_br": "/lɪˈtɜːdʒɪkəl/", "pl": "liturgiczny", "new": true },
+        { "term": "twilight", "ipa_br": "/ˈtwaɪlaɪt/", "pl": "zmierzch", "new": true },
+        { "term": "secular", "ipa_br": "/ˈsekjulə/", "pl": "świecki", "new": true },
+        { "term": "underlying", "ipa_br": "/ˌʌndəˈlaɪɪŋ/", "pl": "podstawowy, leżący u podstaw", "new": true },
+        { "term": "consistent", "ipa_br": "/kənˈsɪstənt/", "pl": "konsekwentny, spójny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, Islam prescribes Salat al-Maghrib at the moment when the sun touches the horizon.", "answer": true },
+            { "statement": "The text says Judaism marks the same moment with the Ma'ariv or Arvit service and with the beginning of the halakhic day.", "answer": true },
+            { "statement": "According to the text, Christianity attached the office of Vespers to sunset only in the twentieth century.", "answer": false },
+            { "statement": "Hinduism, according to the text, prescribes Sandhya, twilight prayer, at both sunrise and sunset.", "answer": true },
+            { "statement": "The author describes the photograph as a portrait of the sunset hour in an entirely secular Polish field.", "answer": true },
+            { "statement": "The closing sentences say the underlying observation about stopping at sunset is original to the photographer.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a curious pattern in the historical record of the world's religions: the specific hour at which the sun completes its descent into the horizon has been picked out, independently and repeatedly, as a moment that deserves a formal human response. Islamic law prescribes Salat al-Maghrib — the sunset prayer — as one of five daily obligations, its timing set by astronomical observation of the sun's upper limb touching the horizon. Judaism traces the beginning of the halakhic day to the same moment and marks the transition with the Ma'ariv service. Christianity, since at least the fourth century, has attached the office of Vespers to the same hour of the liturgical day, and treats it as one of the two major daily hours (the other being Lauds at dawn). Hindu practice prescribes Sandhya at each of the three daily junctures, and the sunset Sandhya is often considered the most important of the three. This photograph — taken on the evening of the sixteenth of July 2026 in the small village of Ciężkie, in the gmina of Wojcieszków, in the Łuków district of eastern Poland — is a portrait of that hour in an entirely private and unforced form. The composition is austere: a low orange sun sits above a horizon of quiet fields; a wooden telegraph pole rises almost dead centre; a dark foreground of grasses catches the last horizontal light. The photographer's caption, which said in effect that a tired person is entitled to a few minutes of orange sky and silence, is a very lightly secular rendition of what four major religious traditions have said, in more elaborate terms, for something between fifteen hundred and three thousand years. That the same intuition arrives at a Polish rural field in July 2026 is not surprising. The intuition was there long before any of us.",
+      "text_pl": "Jest pewien osobliwy wzorzec w historycznym zapisie religii świata: konkretna godzina, w której słońce kończy swoje zejście za horyzont, została niezależnie i wielokrotnie wybrana jako moment zasługujący na formalną ludzką odpowiedź. Prawo islamu przepisuje Salat al-Maghrib — modlitwę o zachodzie słońca — jako jedno z pięciu dziennych zobowiązań, a jej czas jest ustalony astronomiczną obserwacją górnej krawędzi tarczy słonecznej dotykającej horyzontu. Judaizm śledzi początek halachicznego dnia do tego samego momentu i oznacza przejście modlitwą Ma'ariv. Chrześcijaństwo od co najmniej IV wieku przypisało oficjum Nieszporów do tej samej godziny dnia liturgicznego i traktuje ją jako jedną z dwóch głównych godzin dziennych (drugą są Laudesy o świcie). Praktyka hinduistyczna przepisuje Sandhya na każdym z trzech dziennych złączeń, a Sandhya o zachodzie słońca jest często uważana za najważniejszą z trzech. To zdjęcie — zrobione wieczorem szesnastego lipca 2026 roku w niewielkiej wsi Ciężkie, w gminie Wojcieszków, w powiecie łukowskim we wschodniej Polsce — jest portretem tej godziny w całkowicie prywatnej i nieprzymuszonej formie. Kompozycja jest surowa: nisko wiszące pomarańczowe słońce siedzi nad horyzontem cichych pól; drewniany słup telegraficzny wznosi się niemal dokładnie w środku; ciemny pierwszy plan traw łapie ostatnie poziome światło. Podpis fotografa, który mówił w istocie, że osoba zmęczona ma prawo do kilku minut pomarańczowego nieba i ciszy, jest bardzo lekko świeckim tłumaczeniem tego, co cztery główne tradycje religijne mówiły — w bardziej rozbudowanych terminach — od jakichś tysiąca pięciuset do trzech tysięcy lat. Fakt, że ta sama intuicja przybywa na polskie wiejskie pole w lipcu 2026 roku, nie jest zaskakujący. Intuicja była tam znacznie wcześniej niż którekolwiek z nas.",
+      "vocab": [
+        { "term": "pattern", "ipa_br": "/ˈpætən/", "pl": "wzorzec, wzór", "new": true },
+        { "term": "descent", "ipa_br": "/dɪˈsent/", "pl": "zejście, zstępowanie", "new": true },
+        { "term": "obligation", "ipa_br": "/ˌɒblɪˈɡeɪʃən/", "pl": "zobowiązanie, obowiązek", "new": true },
+        { "term": "astronomical", "ipa_br": "/ˌæstrəˈnɒmɪkəl/", "pl": "astronomiczny", "new": true },
+        { "term": "limb", "ipa_br": "/lɪm/", "pl": "krawędź (tarczy słońca); kończyna", "new": true },
+        { "term": "transition", "ipa_br": "/trænˈzɪʃən/", "pl": "przejście, transformacja", "new": true },
+        { "term": "liturgical", "ipa_br": "/lɪˈtɜːdʒɪkəl/", "pl": "liturgiczny", "new": true },
+        { "term": "juncture", "ipa_br": "/ˈdʒʌŋktʃə/", "pl": "złączenie, przejście", "new": true },
+        { "term": "austere", "ipa_br": "/ɔːˈstɪə/", "pl": "surowy, ascetyczny", "new": true },
+        { "term": "entitled", "ipa_br": "/ɪnˈtaɪtəld/", "pl": "uprawniony, mający prawo", "new": true },
+        { "term": "rendition", "ipa_br": "/renˈdɪʃən/", "pl": "wersja, wykonanie, tłumaczenie", "new": true },
+        { "term": "elaborate", "ipa_br": "/ɪˈlæbərət/", "pl": "rozbudowany, wyszukany", "new": true },
+        { "term": "intuition", "ipa_br": "/ˌɪntjuˈɪʃən/", "pl": "intuicja", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "According to the text, Islamic law prescribes Salat al-Maghrib — the sunset prayer — as one of five daily obligations, its timing set by astronomical observation of the sun's upper limb touching the horizon.", "answer": true },
+            { "statement": "Judaism, according to the text, traces the beginning of the halakhic day to the sunset moment and marks the transition with the Ma'ariv service.", "answer": true },
+            { "statement": "The text says Christianity has attached the office of Vespers to the sunset hour since at least the fourth century.", "answer": true },
+            { "statement": "According to the text, Hindu practice prescribes Sandhya at each of the three daily junctures, and the sunset Sandhya is often considered the least important.", "answer": false },
+            { "statement": "The photograph's composition is described as austere: a low orange sun above a horizon of quiet fields, a wooden telegraph pole almost dead centre, and a dark grass foreground.", "answer": true },
+            { "statement": "The closing sentence claims that the sunset-rest intuition was invented by the photographer in July 2026.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
