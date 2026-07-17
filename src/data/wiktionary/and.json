@@ -65,6 +65,9 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "i",
+    "oraz"
+  ],
   "fetchTerm": "and"
 }
