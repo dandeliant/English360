@@ -165,11 +165,9 @@
   ],
   "pl": null,
   "translations": [
-    "ktoś",
-    "jedynka",
-    "jednodolarówka",
-    "pewien",
-    "jedyny"
+    "jeden",
+    "jedna",
+    "jedno"
   ],
   "fetchTerm": "one"
 }

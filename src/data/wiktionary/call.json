@@ -53,11 +53,9 @@
   ],
   "pl": null,
   "translations": [
-    "wzywać",
-    "wezwać",
-    "wołać",
-    "zawołać",
-    "dzwonić"
+    "dzwonić",
+    "nazywać",
+    "zwać"
   ],
   "fetchTerm": "call"
 }

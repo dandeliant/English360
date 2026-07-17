@@ -121,6 +121,8 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "długi"
+  ],
   "fetchTerm": "long"
 }
