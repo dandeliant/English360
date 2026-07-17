@@ -42,6 +42,8 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "życie"
+  ],
   "fetchTerm": "life"
 }

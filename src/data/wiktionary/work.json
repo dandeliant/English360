@@ -54,6 +54,9 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "pracować",
+    "praca"
+  ],
   "fetchTerm": "work"
 }

@@ -1,0 +1,14 @@
+{
+  "lemma": "farmhouse",
+  "slug": "farmhouse",
+  "fetchedAt": null,
+  "en": null,
+  "pl": null,
+  "translations": [
+    "dom",
+    "domek",
+    "zagroda",
+    "dom w gospodarstwie"
+  ],
+  "fetchTerm": "farmhouse"
+}
