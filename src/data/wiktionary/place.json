@@ -53,7 +53,9 @@
   ],
   "pl": null,
   "translations": [
-    "miejsce"
+    "miejsce",
+    "umiejscawiać",
+    "postawić"
   ],
   "fetchTerm": "place"
 }
