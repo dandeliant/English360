@@ -57,6 +57,10 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "być",
+    "II forma: was / were",
+    "III forma: been"
+  ],
   "fetchTerm": "be"
 }

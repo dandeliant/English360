@@ -1,0 +1,12 @@
+{
+  "lemma": "book",
+  "slug": "book",
+  "fetchedAt": null,
+  "en": null,
+  "pl": null,
+  "translations": [
+    "książka",
+    "rezerwować"
+  ],
+  "fetchTerm": "book"
+}

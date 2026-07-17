@@ -53,11 +53,7 @@
   ],
   "pl": null,
   "translations": [
-    "miejsce",
-    "plac",
-    "siedzenie",
-    "kłaść",
-    "położyć"
+    "miejsce"
   ],
   "fetchTerm": "place"
 }
