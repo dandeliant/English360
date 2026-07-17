@@ -133,6 +133,11 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "jak",
+    "ponieważ",
+    "gdy",
+    "as if / as though - tak jakby, jak gdyby"
+  ],
   "fetchTerm": "as"
 }
