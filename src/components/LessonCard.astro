@@ -182,11 +182,25 @@ const photoDate = dateMatch
   })}
 
   {data.did_you_know && (
-    <aside class="did-you-know" aria-labelledby="dyk-heading">
-      <h2 class="did-you-know__heading" id="dyk-heading">
+    <aside class="did-you-know" aria-labelledby={`${lesson.id}-dyk-heading`}>
+      <h2 class="did-you-know__heading" id={`${lesson.id}-dyk-heading`}>
         <span aria-hidden="true">💡</span> Czy wiesz, że…
       </h2>
-      <p class="did-you-know__en">{data.did_you_know.en}</p>
+      <p class="did-you-know__en">
+        {tokenize(data.did_you_know.en).map((tok) => {
+          if (tok.type !== 'word' || !tok.slug) return tok.text;
+          const entry = wordIndex.get(tok.slug);
+          const pl = entry?.translationsPl?.join(', ');
+          return (
+            <a
+              class="word-link"
+              href={withBase(`/slownik/${tok.slug}`)}
+              data-lemma={tok.lemma}
+              data-pl={pl || undefined}
+            >{tok.text}</a>
+          );
+        })}
+      </p>
       <p class="did-you-know__pl">{data.did_you_know.pl}</p>
     </aside>
   )}

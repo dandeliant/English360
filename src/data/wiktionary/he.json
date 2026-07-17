@@ -85,6 +85,8 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "on"
+  ],
   "fetchedAt": "2026-05-17T22:13:22.744Z"
 }

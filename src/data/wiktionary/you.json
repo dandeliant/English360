@@ -64,6 +64,15 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "ty",
+    "wy",
+    "cię",
+    "ciebie",
+    "was",
+    "tobie",
+    "tobą",
+    "wami"
+  ],
   "fetchTerm": "you"
 }

@@ -70,10 +70,7 @@
   "pl": null,
   "translations": [
     "widzieć",
-    "zobaczyć",
-    "dostrzegać",
-    "rozumieć",
-    "zrozumieć"
+    "rozumieć"
   ],
   "fetchTerm": "see"
 }
