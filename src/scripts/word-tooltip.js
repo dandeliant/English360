@@ -12,14 +12,18 @@
 // clickable. A short hide delay bridges the gap between the word and the
 // tooltip so the pointer can travel onto it without it vanishing. Positioning
 // flips below the word when there is no room above and clamps horizontally so
-// the tooltip never overflows the viewport. Touch devices (no hover) trigger
-// only on focus.
+// the tooltip never overflows the viewport.
 //
-// Keyboard/AA note: focusing a word shows the same IPA + PL info. Keyboard-
-// operable per-word audio and starring live on the word's own dictionary page
-// (the in-flow `[data-tts]` 🔊 button and the `[data-star-btn]` star in the
-// header), both in the tab order; the tooltip's buttons are pointer
-// enhancements that duplicate them.
+// Touch behaviour: on a no-hover device the FIRST tap on a word reveals the
+// tooltip instead of navigating straight to the dictionary — otherwise the tap
+// fires the link and the reader never gets a chance to hit 🔊 or ★. Navigation
+// then happens through the explicit "przejdź do hasła →" link inside the
+// tooltip. On hover devices nothing changes: hover reveals the tooltip and a
+// plain click on the word still opens its dictionary entry.
+//
+// Keyboard/AA note: focusing a word shows the same IPA + PL info and the
+// tooltip stays open while its own controls hold focus, so 🔊 / ★ / the entry
+// link are all keyboard-operable. The word page header duplicates them too.
 
 import { speak } from './tts.js';
 import { toggleStar, isStarred, onChange } from './vocab-state.js';
@@ -32,11 +36,22 @@ let speakBtn = null;
 let starBtn = null;
 let ipaEl = null;
 let plEl = null;
+let navLink = null;
 let lastTarget = null;
 let currentWord = '';
 let currentSlug = '';
 let currentLessonId = '';
 let hideTimer = null;
+
+/** True when the primary pointer cannot hover — i.e. a touchscreen phone/
+ *  tablet. Evaluated live so hybrid devices behave per their current input. */
+function isTouchPrimary() {
+  return (
+    typeof window !== 'undefined' &&
+    typeof window.matchMedia === 'function' &&
+    window.matchMedia('(hover: none)').matches
+  );
+}
 
 function ensureTooltip() {
   if (tooltip) return tooltip;
@@ -80,8 +95,16 @@ function ensureTooltip() {
   plEl = document.createElement('span');
   plEl.className = 'word-tooltip__pl';
 
+  // Explicit link to the dictionary entry. On touch this is the deliberate
+  // way to navigate (the word tap itself just reveals the tooltip); on hover
+  // it is a helpful affordance next to the word's own click target. A real
+  // <a> so it is keyboard- and screen-reader-operable.
+  navLink = document.createElement('a');
+  navLink.className = 'word-tooltip__link';
+  navLink.textContent = 'przejdź do hasła →';
+
   row.append(speakBtn, starBtn, ipaEl);
-  tooltip.append(row, plEl);
+  tooltip.append(row, plEl, navLink);
   document.body.appendChild(tooltip);
 
   // Keep the tooltip alive while the pointer is over it.
@@ -139,6 +162,7 @@ function show(target) {
 
   const tip = ensureTooltip();
   reflectStar();
+  navLink.href = target.href;
 
   if (ipa) {
     ipaEl.textContent = ipa;
@@ -224,12 +248,39 @@ function onMouseOut(event) {
 }
 
 function onFocusIn(event) {
-  const link = event.target.closest && event.target.closest('.word-link');
-  if (link) show(link);
+  const t = event.target;
+  const link = t.closest && t.closest('.word-link');
+  if (link) {
+    show(link);
+    return;
+  }
+  // Focus landed on a control inside the tooltip (🔊 / ★ / entry link) — keep
+  // it open so the control can be used.
+  if (t.closest && t.closest('.word-tooltip')) cancelHide();
 }
 
-function onFocusOut() {
+function onFocusOut(event) {
+  // Don't hide when focus is merely moving into the tooltip or to another word.
+  const next = event.relatedTarget;
+  if (next && next.closest && next.closest('.word-link, .word-tooltip')) return;
   scheduleHide();
+}
+
+// Single click/tap handler. On touch, a tap on a word reveals the tooltip
+// instead of following the link; a tap anywhere outside a word or the tooltip
+// dismisses it.
+function onDocClick(event) {
+  const t = event.target;
+  const link = t.closest && t.closest('.word-link');
+  if (link) {
+    if (isTouchPrimary()) {
+      event.preventDefault();
+      show(link);
+    }
+    return;
+  }
+  if (t.closest && t.closest('.word-tooltip')) return;
+  if (tooltip && tooltip.dataset.visible === 'true') hide();
 }
 
 function init() {
@@ -237,6 +288,7 @@ function init() {
   document.addEventListener('mouseout', onMouseOut);
   document.addEventListener('focusin', onFocusIn);
   document.addEventListener('focusout', onFocusOut);
+  document.addEventListener('click', onDocClick);
   window.addEventListener('scroll', hide, { passive: true });
   window.addEventListener('resize', hide);
   document.addEventListener('keydown', (e) => {
