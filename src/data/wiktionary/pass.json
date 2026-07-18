@@ -2,9 +2,72 @@
   "lemma": "pass",
   "slug": "pass",
   "fetchTerm": "pass",
+  "en": [
+    {
+      "partOfSpeech": "Verb",
+      "definitions": [
+        {
+          "text": "To change place. To move or be moved from one place to another.",
+          "examples": [
+            "They passed from room to room.",
+            "You will pass a house on your right."
+          ]
+        },
+        {
+          "text": "To move or be moved from one place to another.",
+          "examples": [
+            "They passed from room to room."
+          ]
+        },
+        {
+          "text": "To go past, by, over, or through; to proceed from one side to the other of; to move past.",
+          "examples": [
+            "You will pass a house on your right."
+          ]
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "An opening, road, or track, available for passing; especially, one through or over some dangerous or otherwise impracticable barrier such as a mountain range; a passageway; a defile; a ford.",
+          "examples": [
+            "mountain pass"
+          ]
+        },
+        {
+          "text": "A channel connecting a river or body of water to the sea, for example at the mouth (delta) of a river.",
+          "examples": [
+            "the passes of the Mississippi"
+          ]
+        },
+        {
+          "text": "A single movement, especially of a hand, at, over, or along anything.",
+          "examples": []
+        }
+      ]
+    },
+    {
+      "partOfSpeech": "Noun",
+      "definitions": [
+        {
+          "text": "A password (especially one for a restricted-access website).",
+          "examples": [
+            "Anyone want to trade passes?"
+          ]
+        }
+      ]
+    }
+  ],
+  "pl": null,
   "translations": [
     "podawać",
+    "podać",
+    "umrzeć",
+    "umierać",
+    "odejść",
     "pass through — przechodzić przez"
   ],
-  "fetchedAt": "2026-07-18T00:00:00.000Z"
+  "fetchedAt": "2026-05-17T21:28:59.023Z"
 }
