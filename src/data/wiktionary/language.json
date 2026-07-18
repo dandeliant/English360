@@ -50,6 +50,8 @@
     }
   ],
   "pl": null,
-  "translations": [],
+  "translations": [
+    "język"
+  ],
   "fetchedAt": "2026-05-17T22:03:14.434Z"
 }
