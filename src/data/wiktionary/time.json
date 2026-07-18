@@ -65,6 +65,18 @@
   ],
   "pl": null,
   "translations": [
+    "czas",
+    "godzina",
+    "raz",
+    "chwila",
+    "moment",
+    "okres życia",
+    "strefa czasowa",
+    "koniec meczu",
+    "takt",
+    "rytm",
+    "zaplanować godzinę",
+    "mierzyć czas",
     "chronometrować"
   ],
   "fetchTerm": "time"
