@@ -54,9 +54,12 @@
   ],
   "pl": null,
   "translations": [
+    "brać",
+    "wziąć",
     "branie",
     "wzięcie",
-    "ujęcie"
+    "ujęcie",
+    "took — II forma (past tense) od „take”"
   ],
   "fetchTerm": "take"
 }
