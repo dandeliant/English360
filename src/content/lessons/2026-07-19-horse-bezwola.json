@@ -1,0 +1,209 @@
+{
+  "id": "2026-07-19-horse-bezwola",
+  "date_assigned": "2026-07-19",
+  "date_alternatives": [],
+  "title_en": "Cinematic Grace",
+  "title_pl": "Filmowa gracja",
+  "location": "Bezwola, Radzyń County, Lublin Voivodeship, Poland",
+  "image": "/images/2026-07-19-horse-bezwola.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["animal", "horse", "countryside", "poland", "lublin", "bezwola", "portrait", "summer", "nature", "mane"],
+  "themes": ["horse-portrait", "animal-gaze", "equine-vision", "rural-poland", "cinematic-grace"],
+  "did_you_know": {
+    "en": "The calm, all-seeing look in this photograph is backed by some remarkable biology. A horse has the largest eyes of any land mammal — larger even than an elephant's — and, crucially, they are set high on the sides of its head rather than at the front. This gives a horse a field of view of almost three hundred and sixty degrees: it can see nearly all the way around its own body at once, with only two small blind spots, one directly in front of its nose and one directly behind its tail. It also has excellent night vision and can pick up the smallest movement at the very edge of its sight. All of this is the equipment of a prey animal — a creature that survived, over millions of years, by noticing danger before danger noticed it, and by being ready to run in an instant. Its ears add to the picture: each one can swivel through about one hundred and eighty degrees on its own, so a horse can point one ear forward and one back and listen in two directions at the same time. Seen in that light, the steadiness of the animal in this portrait is not emptiness but its opposite — a powerful, highly alert creature that has simply, for a moment, decided there is nothing here worth running from. (As it happens, the Lublin region where the photo was taken is one of the great horse-breeding areas of Poland, home to Janów Podlaski, the country's most famous Arabian stud — though this sturdy fellow is clearly of humbler, more hard-working stock.)",
+    "pl": "Spokojne, wszystkowidzące spojrzenie z tego zdjęcia poparte jest niezwykłą biologią. Koń ma największe oczy spośród wszystkich lądowych ssaków — większe nawet niż słoń — i, co kluczowe, osadzone są one wysoko po bokach głowy, a nie z przodu. Daje to koniowi pole widzenia bliskie trzystu sześćdziesięciu stopni: widzi niemal dookoła własnego ciała naraz, z zaledwie dwoma małymi martwymi polami — jednym tuż przed nosem i jednym tuż za ogonem. Ma też doskonały wzrok nocny i wychwytuje najmniejszy ruch na samym skraju pola widzenia. To wszystko jest wyposażeniem zwierzęcia będącego zdobyczą — stworzenia, które przez miliony lat przetrwało dzięki temu, że dostrzegało niebezpieczeństwo, zanim ono dostrzegło je, i było gotowe uciec w jednej chwili. Uszy dopełniają obrazu: każde może obrócić się samodzielnie o jakieś sto osiemdziesiąt stopni, więc koń może skierować jedno ucho do przodu, a drugie do tyłu i słuchać w dwóch kierunkach jednocześnie. W tym świetle bezruch zwierzęcia z tego portretu nie jest pustką, lecz jej przeciwieństwem — to potężne, wysoce czujne stworzenie, które po prostu na chwilę uznało, że nie ma tu przed czym uciekać. (Tak się składa, że Lubelszczyzna, gdzie zrobiono zdjęcie, jest jednym z wielkich regionów hodowli koni w Polsce, z Janowem Podlaskim, najsłynniejszą polską stadniną koni arabskich — choć ten krzepki jegomość jest wyraźnie ze skromniejszej, bardziej pracowitej linii.)"
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: portret konia spod Bezwoli na Lubelszczyźnie (fot. Daniel Ostrowski). „Kiedy wiatr układa twoją grzywę, a ty po prostu stoisz i błyszczysz filmową gracją.” Motyw: spojrzenie konia — największe oczy wśród lądowych ssaków i pole widzenia niemal 360°. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: a portrait of a horse near Bezwola in eastern Poland (photo: Daniel Ostrowski). 'When the wind styles your mane, and you just stand there, shining with cinematic grace.' The theme: the horse's gaze — the largest eyes of any land mammal and a field of view of almost 360°. Six CEFR levels (A1–C2). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Horse", "#Poland", "#Lublin", "#Portrait", "#Nature", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. This is a horse. The horse is brown. It has a long, dark mane. The wind moves its mane. The horse looks straight at us. It has big, dark eyes. Behind the horse there are green trees and tall grass. It is summer. The horse is calm and very beautiful.",
+      "text_pl": "Spójrz na to zdjęcie. To jest koń. Koń jest brązowy. Ma długą, ciemną grzywę. Wiatr porusza jego grzywą. Koń patrzy prosto na nas. Ma duże, ciemne oczy. Za koniem są zielone drzewa i wysoka trawa. Jest lato. Koń jest spokojny i bardzo piękny.",
+      "vocab": [
+        { "term": "horse", "ipa_br": "/hɔːs/", "pl": "koń", "new": true },
+        { "term": "brown", "ipa_br": "/braʊn/", "pl": "brązowy", "new": true },
+        { "term": "mane", "ipa_br": "/meɪn/", "pl": "grzywa", "new": true },
+        { "term": "wind", "ipa_br": "/wɪnd/", "pl": "wiatr", "new": true },
+        { "term": "look", "ipa_br": "/lʊk/", "pl": "patrzeć", "new": true },
+        { "term": "eye", "ipa_br": "/aɪ/", "pl": "oko", "new": true },
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": true },
+        { "term": "grass", "ipa_br": "/ɡrɑːs/", "pl": "trawa", "new": true },
+        { "term": "summer", "ipa_br": "/ˈsʌmə/", "pl": "lato", "new": true },
+        { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "horse", "answer": "C" },
+            { "word": "tree", "answer": "A" },
+            { "word": "grass", "answer": "D" },
+            { "word": "eye", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌳" },
+            { "label": "B", "text": "👁️" },
+            { "label": "C", "text": "🐴" },
+            { "label": "D", "text": "🌿" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows a brown horse in the countryside of eastern Poland, near the village of Bezwola. The photo was taken in summer, in soft evening light. The horse has a thick, dark mane, and the wind is blowing it to one side. It wears a simple halter on its head. It stands behind a thin wire fence, among tall summer grass. The horse looks straight into the camera with big, calm eyes. Horses can see almost all around their bodies, so they always know what is happening near them. This one does not move. It just stands and shines in the light, like a star in a film.",
+      "text_pl": "To zdjęcie pokazuje brązowego konia na wsi we wschodniej Polsce, koło wsi Bezwola. Zdjęcie zrobiono latem, w miękkim, wieczornym świetle. Koń ma gęstą, ciemną grzywę, a wiatr zwiewa ją na jedną stronę. Na głowie ma prosty kantar. Stoi za cienkim, drucianym płotem, wśród wysokiej, letniej trawy. Koń patrzy prosto w aparat dużymi, spokojnymi oczami. Konie widzą niemal dookoła swojego ciała, więc zawsze wiedzą, co dzieje się w pobliżu. Ten się nie rusza. Po prostu stoi i błyszczy w świetle, jak gwiazda w filmie.",
+      "vocab": [
+        { "term": "countryside", "ipa_br": "/ˈkʌntrisaɪd/", "pl": "wieś, tereny wiejskie", "new": true },
+        { "term": "village", "ipa_br": "/ˈvɪlɪdʒ/", "pl": "wieś, wioska", "new": true },
+        { "term": "thick", "ipa_br": "/θɪk/", "pl": "gęsty, gruby", "new": true },
+        { "term": "blow", "ipa_br": "/bləʊ/", "pl": "wiać, zwiewać", "new": true },
+        { "term": "halter", "ipa_br": "/ˈhɔːltə/", "pl": "kantar", "new": true },
+        { "term": "fence", "ipa_br": "/fens/", "pl": "płot, ogrodzenie", "new": true },
+        { "term": "wire", "ipa_br": "/ˈwaɪə/", "pl": "drut", "new": true },
+        { "term": "straight", "ipa_br": "/streɪt/", "pl": "prosto", "new": true },
+        { "term": "shine", "ipa_br": "/ʃaɪn/", "pl": "błyszczeć, świecić", "new": true },
+        { "term": "film", "ipa_br": "/fɪlm/", "pl": "film", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The photo was taken near the ___ of Bezwola.", "answer": "village" },
+            { "sentence": "It wears a simple ___ on its head.", "answer": "halter" },
+            { "sentence": "It stands behind a thin wire ___, among tall summer grass.", "answer": "fence" },
+            { "sentence": "Horses can see almost all ___ their bodies.", "answer": "around" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the nineteenth of July 2026, near the village of Bezwola in the Lublin region of eastern Poland. It is a close portrait of a bay horse — brown in the body, with a black mane and tail. The wind has caught its long, thick mane and swept it across one side of its face, and the horse simply stands in the tall summer grass and looks straight down the lens. It wears a simple rope halter, and a thin wire fence runs across the front of the frame, between the animal and the camera. What makes the picture work is the calm. Horses are large, powerful animals, but this one shows no fear and no hurry; it meets our eyes with a steady, gentle gaze. Because their eyes are set on the sides of the head, horses can see almost the whole way around themselves at once, so very little escapes their attention. Here, all of that attention is turned, quietly, on us.",
+      "text_pl": "To zdjęcie zostało zrobione dziewiętnastego lipca 2026 roku, koło wsi Bezwola w regionie lubelskim we wschodniej Polsce. To bliski portret gniadego konia — brązowego na ciele, z czarną grzywą i ogonem. Wiatr chwycił jego długą, gęstą grzywę i przerzucił ją na jedną stronę pyska, a koń po prostu stoi w wysokiej, letniej trawie i patrzy prosto w obiektyw. Ma prosty, sznurowy kantar, a przez przód kadru, między zwierzęciem a aparatem, biegnie cienki, druciany płot. Tym, co sprawia, że zdjęcie działa, jest spokój. Konie to duże, silne zwierzęta, ale ten nie okazuje ani strachu, ani pośpiechu; spotyka nasze oczy pewnym, łagodnym spojrzeniem. Ponieważ ich oczy osadzone są po bokach głowy, konie widzą niemal całą drogę wokół siebie naraz, więc niewiele umyka ich uwadze. Tutaj cała ta uwaga skierowana jest, po cichu, na nas.",
+      "vocab": [
+        { "term": "portrait", "ipa_br": "/ˈpɔːtrɪt/", "pl": "portret", "new": true },
+        { "term": "bay", "ipa_br": "/beɪ/", "pl": "gniady (o maści konia)", "new": true },
+        { "term": "tail", "ipa_br": "/teɪl/", "pl": "ogon", "new": true },
+        { "term": "sweep", "ipa_br": "/swiːp/", "pl": "zamiatać, przerzucać", "new": true },
+        { "term": "lens", "ipa_br": "/lenz/", "pl": "obiektyw, soczewka", "new": true },
+        { "term": "rope", "ipa_br": "/rəʊp/", "pl": "sznur, lina", "new": true },
+        { "term": "steady", "ipa_br": "/ˈstedi/", "pl": "pewny, spokojny, stały", "new": true },
+        { "term": "gaze", "ipa_br": "/ɡeɪz/", "pl": "spojrzenie, wzrok", "new": true },
+        { "term": "powerful", "ipa_br": "/ˈpaʊəfəl/", "pl": "potężny, silny", "new": true },
+        { "term": "hurry", "ipa_br": "/ˈhʌri/", "pl": "pośpiech", "new": true },
+        { "term": "attention", "ipa_br": "/əˈtenʃən/", "pl": "uwaga", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 19 July 2026 near the village of Bezwola in eastern Poland.", "answer": true },
+            { "statement": "The horse is a bay: brown in the body, with a black mane and tail.", "answer": true },
+            { "statement": "According to the text, the horse shows a lot of fear and tries to run away.", "answer": false },
+            { "statement": "A thin wire fence runs across the front of the frame, between the animal and the camera.", "answer": true },
+            { "statement": "Because their eyes are on the sides of the head, horses can see almost all the way around themselves at once.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is something disarming about being looked at, calmly and directly, by a large animal. This photograph, taken near the village of Bezwola in eastern Poland on the nineteenth of July 2026, is built entirely around that feeling. A bay horse — a rich brown body under a heavy black mane — stands in tall summer grass behind a single strand of wire and gazes straight into the lens. The wind has styled its mane into a loose, dramatic sweep across its forehead, and the low evening light picks out the warm chestnut tones of its coat. But the real subject is the eyes. Set wide on the sides of the skull, a horse's eyes give it a field of view of almost three hundred and sixty degrees, so that even while it faces us it stays quietly aware of everything around it. Horses are prey animals, built to notice the smallest movement and to run from it; and yet this one has chosen not to. It holds perfectly still, meeting the camera with an expression that reads, unmistakably, as composure. The photographer's caption puts it best: it just stands there, shining with cinematic grace.",
+      "text_pl": "Jest coś rozbrajającego w tym, że patrzy na nas — spokojnie i wprost — duże zwierzę. To zdjęcie, zrobione koło wsi Bezwola we wschodniej Polsce dziewiętnastego lipca 2026 roku, zbudowane jest w całości wokół tego uczucia. Gniady koń — soczyście brązowe ciało pod ciężką, czarną grzywą — stoi w wysokiej, letniej trawie za pojedynczym pasmem drutu i patrzy prosto w obiektyw. Wiatr ułożył jego grzywę w luźny, dramatyczny zamach w poprzek czoła, a niskie, wieczorne światło wydobywa ciepłe, kasztanowe tony jego sierści. Ale prawdziwym tematem są oczy. Osadzone szeroko po bokach czaszki, oczy konia dają mu pole widzenia bliskie trzystu sześćdziesięciu stopni, tak że nawet zwrócony ku nam pozostaje po cichu świadomy wszystkiego dookoła. Konie to zwierzęta będące zdobyczą, stworzone, by dostrzegać najmniejszy ruch i przed nim uciekać; a jednak ten postanowił tego nie robić. Trwa w bezruchu, spotykając aparat wyrazem, który czyta się bez wątpienia jako opanowanie. Podpis fotografa ujmuje to najlepiej: po prostu stoi i błyszczy filmową gracją.",
+      "vocab": [
+        { "term": "disarming", "ipa_br": "/dɪsˈɑːmɪŋ/", "pl": "rozbrajający", "new": true },
+        { "term": "strand", "ipa_br": "/strænd/", "pl": "pasmo, nitka", "new": true },
+        { "term": "forehead", "ipa_br": "/ˈfɒrɪd/", "pl": "czoło", "new": true },
+        { "term": "chestnut", "ipa_br": "/ˈtʃesnʌt/", "pl": "kasztanowy", "new": true },
+        { "term": "coat", "ipa_br": "/kəʊt/", "pl": "sierść, okrywa", "new": true },
+        { "term": "skull", "ipa_br": "/skʌl/", "pl": "czaszka", "new": true },
+        { "term": "prey", "ipa_br": "/preɪ/", "pl": "zdobycz, ofiara", "new": true },
+        { "term": "composure", "ipa_br": "/kəmˈpəʊʒə/", "pl": "opanowanie, spokój", "new": true },
+        { "term": "grace", "ipa_br": "/ɡreɪs/", "pl": "gracja, wdzięk", "new": true },
+        { "term": "unmistakably", "ipa_br": "/ˌʌnmɪˈsteɪkəbli/", "pl": "bez wątpienia, niewątpliwie", "new": true },
+        { "term": "aware", "ipa_br": "/əˈweə/", "pl": "świadomy", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says there is something disarming about being looked at, calmly and directly, by a large animal.", "answer": true },
+            { "statement": "The wind has styled the horse's mane into a loose, dramatic sweep across its forehead.", "answer": true },
+            { "statement": "According to the text, the real subject of the picture is the wire fence.", "answer": false },
+            { "statement": "A horse's eyes give it a field of view of almost three hundred and sixty degrees.", "answer": true },
+            { "statement": "Horses are predators, built to hunt and chase smaller animals.", "answer": false },
+            { "statement": "The horse holds perfectly still and meets the camera with an expression that reads as composure.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "A horse's face, seen up close, is one of the more expressive surfaces in the animal world, and this photograph — made near the village of Bezwola in the Lublin region of eastern Poland on the nineteenth of July 2026 — makes the most of it. The subject is a bay: a deep chestnut-brown body carried under a thick, near-black mane that the wind has arranged into a loose, theatrical sweep across the brow. The animal stands in tall, seeding summer grass, behind a single taut wire, and looks directly into the lens with an ease that is almost unsettling. The eyes do most of the work. Because they sit high and wide on the sides of the head, a horse commands a field of vision approaching a full circle, with only narrow blind spots directly in front of the nose and directly behind the tail; it can watch a threat on either flank without turning its head. That panoramic awareness is the inheritance of a prey animal — a creature shaped by millions of years of needing to see danger first. And yet what the photograph captures is the opposite of alarm: a large, powerful creature choosing, for a moment, simply to stand and be looked at, and returning our gaze with what can only be called poise.",
+      "text_pl": "Pysk konia, widziany z bliska, to jedna z bardziej wyrazistych powierzchni w świecie zwierząt, a to zdjęcie — zrobione koło wsi Bezwola w regionie lubelskim we wschodniej Polsce dziewiętnastego lipca 2026 roku — wykorzystuje to w pełni. Bohaterem jest gniady: głęboko kasztanowo-brązowe ciało niesione pod gęstą, niemal czarną grzywą, którą wiatr ułożył w luźny, teatralny zamach w poprzek czoła. Zwierzę stoi w wysokiej, kłoszącej się letniej trawie, za pojedynczym, napiętym drutem, i patrzy wprost w obiektyw ze swobodą niemal niepokojącą. Oczy robią najwięcej. Ponieważ osadzone są wysoko i szeroko po bokach głowy, koń dysponuje polem widzenia bliskim pełnego okręgu, z zaledwie wąskimi martwymi polami tuż przed nosem i tuż za ogonem; może obserwować zagrożenie po obu flankach, nie odwracając głowy. Ta panoramiczna czujność to dziedzictwo zwierzęcia będącego zdobyczą — stworzenia ukształtowanego przez miliony lat potrzeby dostrzeżenia niebezpieczeństwa jako pierwsze. A jednak to, co zdjęcie chwyta, jest przeciwieństwem trwogi: duże, potężne stworzenie, które na chwilę wybiera, by po prostu stać i dać się oglądać, i odwzajemnia nasze spojrzenie czymś, co można nazwać jedynie opanowaniem.",
+      "vocab": [
+        { "term": "expressive", "ipa_br": "/ɪkˈspresɪv/", "pl": "wyrazisty", "new": true },
+        { "term": "brow", "ipa_br": "/braʊ/", "pl": "czoło, brew", "new": true },
+        { "term": "seeding", "ipa_br": "/ˈsiːdɪŋ/", "pl": "kłoszący się, wydający nasiona", "new": true },
+        { "term": "taut", "ipa_br": "/tɔːt/", "pl": "napięty, naprężony", "new": true },
+        { "term": "unsettling", "ipa_br": "/ʌnˈsetəlɪŋ/", "pl": "niepokojący", "new": true },
+        { "term": "command", "ipa_br": "/kəˈmɑːnd/", "pl": "dysponować, panować nad", "new": true },
+        { "term": "flank", "ipa_br": "/flæŋk/", "pl": "flanka, bok", "new": true },
+        { "term": "inheritance", "ipa_br": "/ɪnˈherɪtəns/", "pl": "dziedzictwo, spadek", "new": true },
+        { "term": "panoramic", "ipa_br": "/ˌpænəˈræmɪk/", "pl": "panoramiczny", "new": true },
+        { "term": "alarm", "ipa_br": "/əˈlɑːm/", "pl": "trwoga, popłoch", "new": true },
+        { "term": "poise", "ipa_br": "/pɔɪz/", "pl": "opanowanie, równowaga", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text calls a horse's face, seen up close, one of the more expressive surfaces in the animal world.", "answer": true },
+            { "statement": "The subject is described as a bay, with a chestnut-brown body under a thick, near-black mane.", "answer": true },
+            { "statement": "According to the text, a horse must turn its head to watch a threat on either flank.", "answer": false },
+            { "statement": "A horse's panoramic awareness is described as the inheritance of a prey animal.", "answer": true },
+            { "statement": "The photograph captures the horse in a state of alarm, about to bolt.", "answer": false },
+            { "statement": "The animal returns the viewer's gaze with what the text calls poise.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "To be regarded by a horse at close range is a quietly humbling experience, and this photograph — taken near the village of Bezwola, in the Radzyń district of Poland's Lublin region, on the nineteenth of July 2026 — turns that experience into an image. The animal is a bay of the heavier, working sort: a warm, chestnut-brown body beneath a dense black mane that the evening wind has lifted and draped across its forehead in a single extravagant curve. It stands in a meadow gone to seed, behind one nearly invisible strand of fence wire, and directs at the camera a gaze of total, unhurried attention. The physiology behind that gaze is remarkable. A horse has the largest eyes of any land mammal, set so high and so far to the sides of the skull that its visual field approaches three hundred and sixty degrees; it sees, more or less continuously, almost everything around it, and it does so as a prey animal — the inheritor of an ancient bargain in which survival was traded for vigilance. What is disarming here is precisely the suspension of that vigilance. For the length of one exposure, an animal engineered to flee elects instead to hold still — mane theatrically arranged, eyes steady, entirely composed — and to let itself be seen. The caption, half a joke, turns out to be exactly right: it just stands there, shining with cinematic grace.",
+      "text_pl": "Być obiektem spojrzenia konia z bliska to doświadczenie cicho pokorne, a to zdjęcie — zrobione koło wsi Bezwola, w powiecie radzyńskim polskiego regionu lubelskiego, dziewiętnastego lipca 2026 roku — zamienia to doświadczenie w obraz. Zwierzę to gniady cięższego, roboczego typu: ciepłe, kasztanowo-brązowe ciało pod gęstą, czarną grzywą, którą wieczorny wiatr uniósł i przerzucił w poprzek czoła jednym wystawnym łukiem. Stoi na łące, która wydała nasiona, za jednym niemal niewidocznym pasmem drutu ogrodzenia, i kieruje w aparat spojrzenie pełnej, niespiesznej uwagi. Fizjologia stojąca za tym spojrzeniem jest niezwykła. Koń ma największe oczy spośród wszystkich lądowych ssaków, osadzone tak wysoko i tak daleko po bokach czaszki, że jego pole widzenia zbliża się do trzystu sześćdziesięciu stopni; widzi, mniej lub bardziej nieprzerwanie, niemal wszystko dookoła, a robi to jako zwierzę będące zdobyczą — spadkobierca pradawnego układu, w którym przetrwanie wymieniono na czujność. Tym, co tu rozbraja, jest właśnie zawieszenie owej czujności. Przez czas jednej ekspozycji zwierzę stworzone do ucieczki wybiera zamiast tego trwanie w bezruchu — grzywa teatralnie ułożona, oczy pewne, całkowicie opanowane — i pozwala się oglądać. Podpis, na wpół żartobliwy, okazuje się dokładnie trafny: po prostu stoi i błyszczy filmową gracją.",
+      "vocab": [
+        { "term": "regard", "ipa_br": "/rɪˈɡɑːd/", "pl": "patrzeć na, przyglądać się", "new": true },
+        { "term": "humbling", "ipa_br": "/ˈhʌmblɪŋ/", "pl": "dający pokorę, uczący pokory", "new": true },
+        { "term": "dense", "ipa_br": "/dens/", "pl": "gęsty", "new": true },
+        { "term": "extravagant", "ipa_br": "/ɪkˈstrævəɡənt/", "pl": "wystawny, ekstrawagancki", "new": true },
+        { "term": "meadow", "ipa_br": "/ˈmedəʊ/", "pl": "łąka", "new": true },
+        { "term": "physiology", "ipa_br": "/ˌfɪziˈɒlədʒi/", "pl": "fizjologia", "new": true },
+        { "term": "inheritor", "ipa_br": "/ɪnˈherɪtə/", "pl": "spadkobierca", "new": true },
+        { "term": "vigilance", "ipa_br": "/ˈvɪdʒɪləns/", "pl": "czujność", "new": true },
+        { "term": "suspension", "ipa_br": "/səˈspenʃən/", "pl": "zawieszenie", "new": true },
+        { "term": "exposure", "ipa_br": "/ɪkˈspəʊʒə/", "pl": "ekspozycja, naświetlenie", "new": true },
+        { "term": "composed", "ipa_br": "/kəmˈpəʊzd/", "pl": "opanowany", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text calls being regarded by a horse at close range a quietly humbling experience.", "answer": true },
+            { "statement": "The animal is described as a bay of the heavier, working sort.", "answer": true },
+            { "statement": "According to the text, a horse has the largest eyes of any land mammal.", "answer": true },
+            { "statement": "The text says the horse's wide vision is unrelated to it being a prey animal.", "answer": false },
+            { "statement": "For the length of one exposure, an animal engineered to flee elects instead to hold still and let itself be seen.", "answer": true },
+            { "statement": "The text dismisses the photographer's caption as completely wrong.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
