@@ -1,0 +1,209 @@
+{
+  "id": "2026-02-19-lizbona-centrum-kultury",
+  "date_assigned": "2026-02-19",
+  "date_alternatives": [],
+  "title_en": "The Corridor of Light",
+  "title_pl": "Korytarz światła",
+  "location": "Centro Cultural de Belém, Lisbon, Portugal",
+  "image": "/images/2026-02-19-lizbona-centrum-kultury.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["architecture", "city", "lisbon", "portugal", "belem", "blue-hour", "modernism", "culture", "limestone", "light"],
+  "themes": ["ccb-belem", "gregotti-salgado", "rationalist-architecture", "blue-hour", "fortress-like-modernism"],
+  "did_you_know": {
+    "en": "The Centro Cultural de Belém — the building in this photograph — was built in a hurry for a single occasion. In the first half of 1992, Portugal held the rotating presidency of the European Community (the forerunner of today's European Union), and the country needed a large, modern venue for the meetings and cultural events that came with it. The complex was designed by the Italian architect Vittorio Gregotti and the Portuguese architect Manuel Salgado, and it went up beside the Jerónimos Monastery in the historic Belém district — the same waterfront quarter from which Portuguese ships had once set out on the voyages of the Age of Discovery. Rather than compete with that spectacular late-Gothic monument, the architects chose restraint: they clad the new building in the same pale local limestone and shaped it into plain, repeating rectangular blocks, so that it would read as a calm background rather than a rival. After the presidency ended, the centre stayed open as one of the largest cultural complexes in Portugal, housing exhibition halls, concert and conference spaces, and, later, a major museum of modern and contemporary art. It is admired — and endlessly photographed — for exactly the quality on display here: the way its severe stone surfaces catch warm artificial light after dark, turning a plain modern building into something that looks, for an hour, like an ancient fortress lit from within.",
+    "pl": "Centro Cultural de Belém — budynek z tego zdjęcia — powstało w pośpiechu, na jedną okazję. W pierwszej połowie 1992 roku Portugalia sprawowała rotacyjną prezydencję we Wspólnocie Europejskiej (poprzedniczce dzisiejszej Unii Europejskiej) i kraj potrzebował dużego, nowoczesnego obiektu na spotkania i wydarzenia kulturalne, które się z nią wiązały. Kompleks zaprojektowali włoski architekt Vittorio Gregotti i portugalski architekt Manuel Salgado, a wzniesiono go obok klasztoru Hieronimitów w historycznej dzielnicy Belém — tej samej nadrzecznej części miasta, z której portugalskie statki niegdyś wyruszały w rejsy epoki wielkich odkryć geograficznych. Zamiast rywalizować z tym spektakularnym późnogotyckim zabytkiem, architekci wybrali powściągliwość: obłożyli nowy budynek tym samym jasnym, miejscowym wapieniem i uformowali go w proste, powtarzalne prostokątne bryły, tak by czytał się jako spokojne tło, a nie konkurent. Po zakończeniu prezydencji centrum pozostało otwarte jako jeden z największych kompleksów kulturalnych w Portugalii, mieszcząc sale wystawowe, przestrzenie koncertowe i konferencyjne, a później również duże muzeum sztuki nowoczesnej i współczesnej. Podziwiane — i bez końca fotografowane — jest właśnie za cechę widoczną tutaj: za to, jak jego surowe kamienne powierzchnie chwytają po zmroku ciepłe, sztuczne światło, zamieniając prosty, nowoczesny budynek w coś, co przez godzinę wygląda jak starożytna forteca rozświetlona od środka."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: Centro Cultural de Belém w Lizbonie o niebieskiej godzinie (fot. Daniel Ostrowski). Motyw: architektura, która ma nie krzyczeć — „kamienna forteca kultury” Gregottiego i Salgada z 1992 roku, i to, jak zimny błękit nieba spotyka się z ciepłym światłem korytarza. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: the Centro Cultural de Belém in Lisbon at the blue hour (photo: Daniel Ostrowski). The theme: architecture that tries not to shout — Gregotti and Salgado's 1992 'stone fortress of culture', and the meeting of a cold blue sky with the warm light of a corridor. Six CEFR levels (A1–C2). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Lisbon", "#Belem", "#Architecture", "#BlueHour", "#Portugal", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening in Lisbon. Lisbon is the capital of Portugal. We stand in a narrow path between two big buildings. The buildings are made of stone. The walls are very high. The sky is dark blue. At the end of the path there is warm yellow light. This place is a centre for art and music. Its name is the Belém Cultural Centre.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór w Lizbonie. Lizbona jest stolicą Portugalii. Stoimy na wąskiej ścieżce między dwoma dużymi budynkami. Budynki są z kamienia. Ściany są bardzo wysokie. Niebo jest ciemnoniebieskie. Na końcu ścieżki jest ciepłe żółte światło. To miejsce to centrum sztuki i muzyki. Nazywa się Centrum Kultury Belém.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "narrow", "ipa_br": "/ˈnærəʊ/", "pl": "wąski", "new": true },
+        { "term": "path", "ipa_br": "/pɑːθ/", "pl": "ścieżka", "new": true },
+        { "term": "building", "ipa_br": "/ˈbɪldɪŋ/", "pl": "budynek", "new": true },
+        { "term": "stone", "ipa_br": "/stəʊn/", "pl": "kamień", "new": true },
+        { "term": "wall", "ipa_br": "/wɔːl/", "pl": "ściana, mur", "new": true },
+        { "term": "high", "ipa_br": "/haɪ/", "pl": "wysoki", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "light", "ipa_br": "/laɪt/", "pl": "światło", "new": true },
+        { "term": "art", "ipa_br": "/ɑːt/", "pl": "sztuka", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "building", "answer": "C" },
+            { "word": "stone", "answer": "A" },
+            { "word": "light", "answer": "B" },
+            { "word": "tree", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🪨" },
+            { "label": "B", "text": "💡" },
+            { "label": "C", "text": "🏛️" },
+            { "label": "D", "text": "🌳" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows a building in Lisbon, the capital of Portugal. It is the Belém Cultural Centre, one of the largest cultural centres in the country. The photo was taken in the evening, during the 'blue hour', when the sky turns deep blue. We are standing in a narrow passage between two large blocks of stone. The walls are tall and simple, and they look like the walls of a fortress. At the end of the passage, warm yellow lights lead the eye forward. The building was opened in 1992. Two architects designed it: Vittorio Gregotti from Italy and Manuel Salgado from Portugal. They wanted it to look strong and simple, like old stone.",
+      "text_pl": "To zdjęcie pokazuje budynek w Lizbonie, stolicy Portugalii. To Centrum Kultury Belém, jedno z największych centrów kultury w kraju. Zdjęcie zrobiono wieczorem, podczas „niebieskiej godziny”, gdy niebo staje się głęboko niebieskie. Stoimy w wąskim przejściu między dwiema dużymi kamiennymi bryłami. Ściany są wysokie i proste i wyglądają jak mury fortecy. Na końcu przejścia ciepłe żółte światła prowadzą wzrok naprzód. Budynek otwarto w 1992 roku. Zaprojektowało go dwóch architektów: Vittorio Gregotti z Włoch i Manuel Salgado z Portugalii. Chcieli, by wyglądał mocno i prosto, jak stary kamień.",
+      "vocab": [
+        { "term": "passage", "ipa_br": "/ˈpæsɪdʒ/", "pl": "przejście, korytarz", "new": true },
+        { "term": "block", "ipa_br": "/blɒk/", "pl": "bryła, blok", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "fortress", "ipa_br": "/ˈfɔːtrəs/", "pl": "forteca, twierdza", "new": true },
+        { "term": "forward", "ipa_br": "/ˈfɔːwəd/", "pl": "naprzód, do przodu", "new": true },
+        { "term": "open", "ipa_br": "/ˈəʊpən/", "pl": "otworzyć", "new": false },
+        { "term": "architect", "ipa_br": "/ˈɑːkɪtekt/", "pl": "architekt", "new": true },
+        { "term": "design", "ipa_br": "/dɪˈzaɪn/", "pl": "projektować", "new": true },
+        { "term": "strong", "ipa_br": "/strɒŋ/", "pl": "mocny, silny", "new": true },
+        { "term": "simple", "ipa_br": "/ˈsɪmpəl/", "pl": "prosty", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "Lisbon is the ___ of Portugal.", "answer": "capital" },
+            { "sentence": "The photo was taken during the ___ hour, when the sky turns deep blue.", "answer": "blue" },
+            { "sentence": "The walls are tall and simple, and they look like the walls of a ___.", "answer": "fortress" },
+            { "sentence": "The building was opened in ___.", "answer": "1992" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the nineteenth of February 2026, in the Belém district of Lisbon, in front of the Belém Cultural Centre (Centro Cultural de Belém). It is one of the largest cultural complexes in Portugal, and this narrow view shows only a small part of it. The camera looks straight down a long, straight passage between two massive blocks of pale limestone. High above, the sky is a deep, cold blue — the colour of the 'blue hour', the short time after sunset when the sky is still bright but the sun has already gone. Along the ground and the lower walls, warm artificial light glows, and it pulls the eye towards a bright point far in the distance. The building was designed by the Italian architect Vittorio Gregotti and the Portuguese architect Manuel Salgado, and opened in 1992. They gave it plain, heavy walls, so that from the outside it looks less like a modern museum and more like a quiet stone fortress.",
+      "text_pl": "To zdjęcie zostało zrobione dziewiętnastego lutego 2026 roku, w dzielnicy Belém w Lizbonie, przed Centrum Kultury Belém (Centro Cultural de Belém). To jeden z największych kompleksów kulturalnych w Portugalii, a ten wąski widok pokazuje tylko jego niewielką część. Aparat patrzy prosto w głąb długiego, prostego przejścia między dwiema potężnymi bryłami jasnego wapienia. Wysoko w górze niebo jest głęboko, chłodno niebieskie — to barwa „niebieskiej godziny”, krótkiego czasu po zachodzie słońca, gdy niebo jest jeszcze jasne, ale słońce już zniknęło. Wzdłuż ziemi i dolnych ścian jarzy się ciepłe, sztuczne światło, które przyciąga wzrok ku jasnemu punktowi daleko w oddali. Budynek zaprojektowali włoski architekt Vittorio Gregotti i portugalski architekt Manuel Salgado, a otwarto go w 1992 roku. Nadali mu proste, ciężkie ściany, tak że z zewnątrz wygląda mniej jak nowoczesne muzeum, a bardziej jak cicha, kamienna forteca.",
+      "vocab": [
+        { "term": "district", "ipa_br": "/ˈdɪstrɪkt/", "pl": "dzielnica", "new": true },
+        { "term": "complex", "ipa_br": "/ˈkɒmpleks/", "pl": "kompleks (budynków)", "new": true },
+        { "term": "massive", "ipa_br": "/ˈmæsɪv/", "pl": "potężny, masywny", "new": true },
+        { "term": "limestone", "ipa_br": "/ˈlaɪmstəʊn/", "pl": "wapień", "new": true },
+        { "term": "pale", "ipa_br": "/peɪl/", "pl": "jasny, blady", "new": true },
+        { "term": "glow", "ipa_br": "/ɡləʊ/", "pl": "jarzyć się, żarzyć", "new": true },
+        { "term": "artificial", "ipa_br": "/ˌɑːtɪˈfɪʃəl/", "pl": "sztuczny", "new": true },
+        { "term": "plain", "ipa_br": "/pleɪn/", "pl": "prosty, surowy", "new": true },
+        { "term": "heavy", "ipa_br": "/ˈhevi/", "pl": "ciężki", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość, oddal", "new": true },
+        { "term": "museum", "ipa_br": "/mjuˈziːəm/", "pl": "muzeum", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 19 February 2026 in the Belém district of Lisbon.", "answer": true },
+            { "statement": "The narrow view in the photograph shows the whole of the Belém Cultural Centre.", "answer": false },
+            { "statement": "The 'blue hour' is the short time after sunset when the sky is still bright but the sun has already gone.", "answer": true },
+            { "statement": "The building was designed by Vittorio Gregotti and Manuel Salgado and opened in 1992.", "answer": true },
+            { "statement": "From the outside, the building looks more like a modern glass museum than like a stone fortress.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a kind of modern architecture that tries not to shout, and the Belém Cultural Centre, photographed here on the evening of the nineteenth of February 2026, is a good example of it. Standing in the Belém district of Lisbon, only a short walk from the great Jerónimos Monastery, it is one of the largest cultural complexes in Portugal — and yet, from this narrow passage, it reveals almost nothing of what it contains. The camera looks down a long corridor between two enormous blocks of pale limestone, the same warm stone from which Belém's older monuments are built. Above, the sky holds the deep blue of the hour after sunset; below, a line of soft artificial light runs along the walls and floor and draws the eye to a single bright point in the distance. The building was designed by Vittorio Gregotti and Manuel Salgado and opened in 1992. Its architects deliberately avoided drama on the outside, giving it plain, fortress-like walls that seem to belong to the old city rather than to the new one. The theatre, in other words, has been kept for the light.",
+      "text_pl": "Istnieje pewien rodzaj nowoczesnej architektury, który stara się nie krzyczeć, a Centrum Kultury Belém, sfotografowane tutaj wieczorem dziewiętnastego lutego 2026 roku, jest jego dobrym przykładem. Stojące w dzielnicy Belém w Lizbonie, ledwie o krótki spacer od wielkiego klasztoru Hieronimitów, jest jednym z największych kompleksów kulturalnych w Portugalii — a mimo to, z tego wąskiego przejścia, nie zdradza niemal nic z tego, co mieści. Aparat patrzy w głąb długiego korytarza między dwiema ogromnymi bryłami jasnego wapienia, tego samego ciepłego kamienia, z którego zbudowane są starsze zabytki Belém. W górze niebo trzyma głęboki błękit godziny po zachodzie słońca; na dole linia miękkiego, sztucznego światła biegnie wzdłuż ścian i podłogi i prowadzi wzrok do jednego jasnego punktu w oddali. Budynek zaprojektowali Vittorio Gregotti i Manuel Salgado, a otwarto go w 1992 roku. Jego architekci świadomie unikali dramatyzmu na zewnątrz, nadając mu proste, forteczne ściany, które zdają się należeć raczej do starego miasta niż do nowego. Teatr, innymi słowy, zachowano dla światła.",
+      "vocab": [
+        { "term": "shout", "ipa_br": "/ʃaʊt/", "pl": "krzyczeć", "new": true },
+        { "term": "monastery", "ipa_br": "/ˈmɒnəstri/", "pl": "klasztor", "new": true },
+        { "term": "reveal", "ipa_br": "/rɪˈviːl/", "pl": "ujawniać, zdradzać", "new": true },
+        { "term": "corridor", "ipa_br": "/ˈkɒrɪdɔː/", "pl": "korytarz", "new": true },
+        { "term": "enormous", "ipa_br": "/ɪˈnɔːməs/", "pl": "ogromny", "new": true },
+        { "term": "monument", "ipa_br": "/ˈmɒnjumənt/", "pl": "zabytek, pomnik", "new": true },
+        { "term": "deliberately", "ipa_br": "/dɪˈlɪbərətli/", "pl": "świadomie, celowo", "new": true },
+        { "term": "drama", "ipa_br": "/ˈdrɑːmə/", "pl": "dramatyzm, dramat", "new": true },
+        { "term": "belong", "ipa_br": "/bɪˈlɒŋ/", "pl": "należeć", "new": true },
+        { "term": "theatre", "ipa_br": "/ˈθɪətə/", "pl": "teatr, teatralność", "new": true },
+        { "term": "contain", "ipa_br": "/kənˈteɪn/", "pl": "mieścić, zawierać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text presents the Belém Cultural Centre as an example of modern architecture that tries not to shout.", "answer": true },
+            { "statement": "The building stands only a short walk from the great Jerónimos Monastery.", "answer": true },
+            { "statement": "From this narrow passage, the building reveals almost everything it contains.", "answer": false },
+            { "statement": "The blocks are made of pale limestone, the same warm stone from which Belém's older monuments are built.", "answer": true },
+            { "statement": "The architects filled the outside of the building with dramatic, showy detail.", "answer": false },
+            { "statement": "According to the closing line, the 'theatre' has been kept for the light.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Some buildings are designed to be looked at; others are designed to disappear into the place around them. The Belém Cultural Centre, caught here on the evening of the nineteenth of February 2026, belongs firmly to the second kind. Its architects — the Italian Vittorio Gregotti and the Portuguese Manuel Salgado — placed it a few hundred metres from the Jerónimos Monastery, one of Lisbon's most ornate historic monuments, and then did the opposite of competing with it. Opened in 1992 to mark Portugal's presidency of the European Community, the complex is clad almost entirely in pale limestone and organised into severe, rectangular blocks, so that from the street it reads less as a museum of modern art than as a low, calm fortress. This photograph finds it at the blue hour. The camera looks straight down one of the narrow passages that run between the blocks; overhead, the sky has cooled to a deep, even blue, while a run of warm artificial light gathers along the stone and pulls the perspective to a single glowing point. What the image is really about is not the building at all, but the meeting of two lights — the cold, fading daylight above and the warm, human light below — held apart by a corridor of stone.",
+      "text_pl": "Niektóre budynki projektuje się po to, by na nie patrzeć; inne po to, by wtopiły się w miejsce wokół. Centrum Kultury Belém, uchwycone tutaj wieczorem dziewiętnastego lutego 2026 roku, należy zdecydowanie do tego drugiego rodzaju. Jego architekci — Włoch Vittorio Gregotti i Portugalczyk Manuel Salgado — umieścili je kilkaset metrów od klasztoru Hieronimitów, jednego z najbardziej ozdobnych historycznych zabytków Lizbony, a następnie zrobili coś przeciwnego do rywalizacji z nim. Otwarty w 1992 roku, by uczcić portugalską prezydencję we Wspólnocie Europejskiej, kompleks obłożony jest niemal w całości jasnym wapieniem i uporządkowany w surowe, prostokątne bryły, tak że z ulicy czyta się nie tyle jako muzeum sztuki nowoczesnej, ile jako niska, spokojna forteca. To zdjęcie zastaje go o niebieskiej godzinie. Aparat patrzy prosto w głąb jednego z wąskich przejść, które biegną między bryłami; nad głową niebo ostygło do głębokiego, równego błękitu, podczas gdy pas ciepłego, sztucznego światła zbiera się wzdłuż kamienia i ściąga perspektywę do jednego rozjarzonego punktu. To, o czym naprawdę jest ten obraz, to wcale nie budynek, lecz spotkanie dwóch świateł — zimnego, gasnącego światła dnia w górze i ciepłego, ludzkiego światła na dole — rozdzielonych korytarzem z kamienia.",
+      "vocab": [
+        { "term": "ornate", "ipa_br": "/ɔːˈneɪt/", "pl": "ozdobny, bogato zdobiony", "new": true },
+        { "term": "compete", "ipa_br": "/kəmˈpiːt/", "pl": "rywalizować, konkurować", "new": true },
+        { "term": "presidency", "ipa_br": "/ˈprezɪdənsi/", "pl": "prezydencja", "new": true },
+        { "term": "clad", "ipa_br": "/klæd/", "pl": "obłożony, okładzinowy", "new": true },
+        { "term": "severe", "ipa_br": "/sɪˈvɪə/", "pl": "surowy, oszczędny", "new": true },
+        { "term": "rectangular", "ipa_br": "/rekˈtæŋɡjələ/", "pl": "prostokątny", "new": true },
+        { "term": "perspective", "ipa_br": "/pəˈspektɪv/", "pl": "perspektywa", "new": true },
+        { "term": "gather", "ipa_br": "/ˈɡæðə/", "pl": "zbierać (się)", "new": true },
+        { "term": "fading", "ipa_br": "/ˈfeɪdɪŋ/", "pl": "gasnący, zanikający", "new": true },
+        { "term": "even", "ipa_br": "/ˈiːvən/", "pl": "równy, jednolity", "new": true },
+        { "term": "glowing", "ipa_br": "/ˈɡləʊɪŋ/", "pl": "rozjarzony, żarzący się", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text places the Belém Cultural Centre among buildings designed to disappear into the place around them.", "answer": true },
+            { "statement": "The building stands a few hundred metres from the Jerónimos Monastery, one of Lisbon's most ornate historic monuments.", "answer": true },
+            { "statement": "According to the text, the architects tried hard to compete with and outshine the monastery.", "answer": false },
+            { "statement": "The centre opened in 1992 to mark Portugal's presidency of the European Community.", "answer": true },
+            { "statement": "In the photograph, the sky overhead has cooled to a deep, even blue.", "answer": true },
+            { "statement": "The text says the image is really about the building itself rather than the meeting of two lights.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a strain of late-twentieth-century architecture, sometimes called rationalist, that treats restraint as the highest form of respect, and the Belém Cultural Centre is one of its largest and most disciplined monuments. Designed by Vittorio Gregotti and Manuel Salgado, and opened in 1992 to coincide with Portugal's presidency of the European Community, it sits in Belém only a few hundred metres from the flamboyant late-Gothic stonework of the Jerónimos Monastery — and answers that flamboyance with almost total silence. Clad throughout in the same pale limestone as its illustrious neighbour, but cut into severe, repeating rectangular volumes, it presents to the street the blank, patient face of a fortress rather than the open invitation of a museum. This photograph, made on the evening of the nineteenth of February 2026, catches the building at the one moment when that austerity turns into theatre. It is the blue hour: the sun has set, but the sky still holds a deep, saturated blue, and along the floor of a narrow passage a line of warm artificial light has been switched on, running away from the camera in almost perfect one-point perspective towards a single incandescent point on the horizon. The image is, in the end, a study in opposites — cool against warm, natural against artificial, the vast stillness of the stone against the small, insistent pull of the light — and, like the blue hour itself, it records a balance that lasts only a few minutes before the sky goes black.",
+      "text_pl": "Istnieje nurt architektury końca dwudziestego wieku, nazywany czasem racjonalistycznym, który traktuje powściągliwość jako najwyższą formę szacunku, a Centrum Kultury Belém jest jednym z jego największych i najbardziej zdyscyplinowanych pomników. Zaprojektowane przez Vittoria Gregottiego i Manuela Salgada, otwarte w 1992 roku, by zbiec się w czasie z portugalską prezydencją we Wspólnocie Europejskiej, stoi w Belém ledwie kilkaset metrów od barokowo bujnej, późnogotyckiej kamieniarki klasztoru Hieronimitów — i odpowiada na tę bujność niemal całkowitą ciszą. Obłożone w całości tym samym jasnym wapieniem co jego znamienity sąsiad, lecz pocięte w surowe, powtarzalne prostokątne bryły, zwraca ku ulicy pustą, cierpliwą twarz fortecy, a nie otwarte zaproszenie muzeum. To zdjęcie, zrobione wieczorem dziewiętnastego lutego 2026 roku, chwyta budynek w jednym momencie, w którym owa surowość zamienia się w teatr. Jest niebieska godzina: słońce zaszło, lecz niebo wciąż trzyma głęboki, nasycony błękit, a wzdłuż podłogi wąskiego przejścia zapalono linię ciepłego, sztucznego światła, która ucieka od aparatu w niemal idealnej perspektywie zbieżnej ku jednemu rozżarzonemu punktowi na horyzoncie. Obraz jest ostatecznie studium przeciwieństw — chłód wobec ciepła, natura wobec sztuczności, ogromny bezruch kamienia wobec drobnego, natarczywego przyciągania światła — i, jak sama niebieska godzina, zapisuje równowagę, która trwa zaledwie kilka minut, zanim niebo pociemnieje.",
+      "vocab": [
+        { "term": "strain", "ipa_br": "/streɪn/", "pl": "nurt, odmiana", "new": true },
+        { "term": "rationalist", "ipa_br": "/ˈræʃənəlɪst/", "pl": "racjonalistyczny", "new": true },
+        { "term": "restraint", "ipa_br": "/rɪˈstreɪnt/", "pl": "powściągliwość, umiar", "new": true },
+        { "term": "disciplined", "ipa_br": "/ˈdɪsɪplɪnd/", "pl": "zdyscyplinowany", "new": true },
+        { "term": "coincide", "ipa_br": "/ˌkəʊɪnˈsaɪd/", "pl": "zbiegać się (w czasie)", "new": true },
+        { "term": "flamboyant", "ipa_br": "/flæmˈbɔɪənt/", "pl": "bujny, wyszukany, barwny", "new": true },
+        { "term": "illustrious", "ipa_br": "/ɪˈlʌstriəs/", "pl": "znamienity, sławny", "new": true },
+        { "term": "volume", "ipa_br": "/ˈvɒljuːm/", "pl": "bryła, kubatura", "new": true },
+        { "term": "saturated", "ipa_br": "/ˈsætʃəreɪtɪd/", "pl": "nasycony", "new": true },
+        { "term": "incandescent", "ipa_br": "/ˌɪnkænˈdesənt/", "pl": "rozżarzony, żarzący się", "new": true },
+        { "term": "insistent", "ipa_br": "/ɪnˈsɪstənt/", "pl": "natarczywy, uporczywy", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text links the building to a strain of late-twentieth-century architecture, sometimes called rationalist, that treats restraint as the highest form of respect.", "answer": true },
+            { "statement": "The centre was opened in 1992 to coincide with Portugal's presidency of the European Community.", "answer": true },
+            { "statement": "According to the text, the building answers the flamboyance of the Jerónimos Monastery with loud, competing ornament of its own.", "answer": false },
+            { "statement": "It is clad in the same pale limestone as its illustrious neighbour, but cut into severe, repeating rectangular volumes.", "answer": true },
+            { "statement": "The warm line of light runs away from the camera in almost perfect one-point perspective towards a single incandescent point.", "answer": true },
+            { "statement": "The text claims the balance it records lasts for many hours before the sky goes black.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
