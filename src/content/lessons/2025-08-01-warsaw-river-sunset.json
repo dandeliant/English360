@@ -1,0 +1,209 @@
+{
+  "id": "2025-08-01-warsaw-river-sunset",
+  "date_assigned": "2025-08-01",
+  "date_alternatives": [],
+  "title_en": "The Golden Hour",
+  "title_pl": "Złota godzina",
+  "location": "Vistula River, Warsaw, Poland",
+  "image": "/images/2025-08-01-warsaw-river-sunset.jpg",
+  "image_orientation": "landscape",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "city", "sunset", "warsaw", "poland", "vistula", "river", "golden-hour", "light", "old-town"],
+  "themes": ["golden-hour", "light-and-atmosphere", "rayleigh-scattering", "vistula-evening", "ephemeral-light"],
+  "did_you_know": {
+    "en": "The warm colours in this photograph are not a trick of the camera but a predictable piece of physics. Sunlight looks white because it is a mixture of all the colours of the rainbow, but as it passes through the air, the tiny molecules of the atmosphere scatter the shorter, bluer wavelengths far more strongly than the longer, redder ones — an effect named after the British physicist Lord Rayleigh, who described it in the 1870s. During the day, when the sun is high, its light travels through relatively little atmosphere; only a small amount of blue is scattered across the whole sky, and the sun itself still looks white or pale yellow. But near sunset the sun sits low on the horizon, and its light has to travel through a much thicker slice of air to reach us — at the horizon, roughly forty times more than when the sun is directly overhead. Along that long path almost all of the blue and violet is scattered away, and what finally reaches the eye is dominated by red, orange and gold. Photographers call the short period around this time the 'golden hour', and prize it because the low sun is soft, warm and directional: it casts long shadows, lengthens every reflection, and flatters almost everything it touches. It is also, by its very nature, fleeting — the same slow turning of the Earth that produces it carries it away again within minutes.",
+    "pl": "Ciepłe barwy na tym zdjęciu nie są sztuczką aparatu, lecz przewidywalnym kawałkiem fizyki. Światło słoneczne wydaje się białe, ponieważ jest mieszaniną wszystkich barw tęczy, ale przechodząc przez powietrze, drobne cząsteczki atmosfery rozpraszają krótsze, bardziej niebieskie fale znacznie silniej niż dłuższe, bardziej czerwone — efekt nazwany na cześć brytyjskiego fizyka lorda Rayleigha, który opisał go w latach 70. XIX wieku. W ciągu dnia, gdy słońce stoi wysoko, jego światło przechodzi przez stosunkowo niewiele atmosfery; po całym niebie rozprasza się jedynie odrobina błękitu, a samo słońce wciąż wygląda biało lub bladożółto. Jednak w pobliżu zachodu słońce znajduje się nisko nad horyzontem i jego światło musi przebyć znacznie grubszą warstwę powietrza, by do nas dotrzeć — przy horyzoncie mniej więcej czterdzieści razy więcej niż wtedy, gdy słońce jest dokładnie nad głową. Na tej długiej drodze rozprasza się niemal cały błękit i fiolet, a to, co ostatecznie dociera do oka, zdominowane jest przez czerwień, pomarańcz i złoto. Fotografowie nazywają krótki czas w tych okolicach „złotą godziną” i cenią go, bo niskie słońce jest miękkie, ciepłe i kierunkowe: rzuca długie cienie, wydłuża każde odbicie i upiększa niemal wszystko, czego dotknie. Jest też, z samej swojej natury, ulotny — ten sam powolny obrót Ziemi, który je tworzy, po kilku minutach znów je zabiera."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zachód słońca nad Wisłą w Warszawie, ze Starym Miastem w tle. Motyw: „złota godzina” — dlaczego niskie słońce zamienia rzekę w płynące złoto. Trochę fizyki (rozpraszanie Rayleigha) i dużo światła. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: sunset over the Vistula in Warsaw, with the Old Town in the distance. The theme: the 'golden hour' — why a low sun turns a river into moving gold. A little physics (Rayleigh scattering) and a lot of light. Six CEFR levels (A1–C2). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Warsaw", "#Sunset", "#GoldenHour", "#Vistula", "#Photography", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening in Warsaw. Warsaw is the capital of Poland. In front of us there is a big river. The river is the Vistula. The sun is very low. The sun is orange and gold. The sky has orange clouds and blue sky. On the water we can see a line of gold light. Far away, on the left, we can see the old town and a bridge. Warsaw is beautiful in the evening.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór w Warszawie. Warszawa jest stolicą Polski. Przed nami jest duża rzeka. Ta rzeka to Wisła. Słońce jest bardzo nisko. Słońce jest pomarańczowe i złote. Na niebie są pomarańczowe chmury i błękitne niebo. Na wodzie widać linię złotego światła. Daleko, po lewej, widzimy stare miasto i most. Warszawa jest piękna wieczorem.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "river", "ipa_br": "/ˈrɪvə/", "pl": "rzeka", "new": true },
+        { "term": "low", "ipa_br": "/ləʊ/", "pl": "niski, nisko", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": false },
+        { "term": "gold", "ipa_br": "/ɡəʊld/", "pl": "złoto, złoty", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": true },
+        { "term": "cloud", "ipa_br": "/klaʊd/", "pl": "chmura", "new": true },
+        { "term": "bridge", "ipa_br": "/brɪdʒ/", "pl": "most", "new": true },
+        { "term": "beautiful", "ipa_br": "/ˈbjuːtɪfəl/", "pl": "piękny", "new": true },
+        { "term": "capital", "ipa_br": "/ˈkæpɪtəl/", "pl": "stolica", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "C" },
+            { "word": "river", "answer": "D" },
+            { "word": "bridge", "answer": "A" },
+            { "word": "cloud", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🌉" },
+            { "label": "B", "text": "☁️" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "🌊" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows the city of Warsaw on a summer evening. Warsaw is the capital of Poland, and the wide river in the picture is the Vistula. The photo was taken from low on the water, close to the surface of the river. The sun is setting on the right, just next to a modern bridge. Its light is warm and gold, and it makes a bright line across the water. In the distance, on the left, we can see the Old Town of Warsaw. Half of the sky is full of orange clouds; the other half is still blue. This time of day, just before the sun goes down, is often called the 'golden hour'. For a few minutes, everything looks soft and warm.",
+      "text_pl": "To zdjęcie pokazuje Warszawę letnim wieczorem. Warszawa jest stolicą Polski, a szeroka rzeka na zdjęciu to Wisła. Zdjęcie zrobiono nisko nad wodą, blisko powierzchni rzeki. Słońce zachodzi po prawej, tuż obok nowoczesnego mostu. Jego światło jest ciepłe i złote i tworzy jasną linię w poprzek wody. W oddali, po lewej, widzimy Stare Miasto w Warszawie. Połowa nieba jest pełna pomarańczowych chmur; druga połowa jest jeszcze błękitna. Tę porę dnia, tuż przed zachodem słońca, często nazywa się „złotą godziną”. Przez kilka minut wszystko wygląda miękko i ciepło.",
+      "vocab": [
+        { "term": "photograph", "ipa_br": "/ˈfəʊtəɡrɑːf/", "pl": "zdjęcie, fotografia", "new": true },
+        { "term": "summer", "ipa_br": "/ˈsʌmə/", "pl": "lato, letni", "new": true },
+        { "term": "wide", "ipa_br": "/waɪd/", "pl": "szeroki", "new": true },
+        { "term": "surface", "ipa_br": "/ˈsɜːfɪs/", "pl": "powierzchnia", "new": true },
+        { "term": "set", "ipa_br": "/set/", "pl": "zachodzić (o słońcu)", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "distance", "ipa_br": "/ˈdɪstəns/", "pl": "odległość, oddal", "new": true },
+        { "term": "golden", "ipa_br": "/ˈɡəʊldən/", "pl": "złoty", "new": true },
+        { "term": "soft", "ipa_br": "/sɒft/", "pl": "miękki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "Warsaw is the ___ of Poland.", "answer": "capital" },
+            { "sentence": "The wide river in the picture is the ___.", "answer": "Vistula" },
+            { "sentence": "The sun is setting on the right, just next to a modern ___.", "answer": "bridge" },
+            { "sentence": "This time of day, just before the sun goes down, is often called the ___ hour.", "answer": "golden" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the first of August 2025, on the Vistula River in the centre of Warsaw, a little before the sun went down. The camera is very low, almost on the surface of the water, and this gives the whole picture a calm, floating feeling. On the right, the sun is setting just beside the pylon of a modern bridge, and its light lies across the river in a long golden line. In the distance, on the left bank, rises the silhouette of Warsaw's Old Town, with its towers and rooftops dark against the bright sky. Half of the sky is filled with warm orange clouds, while the other half stays a cool evening blue. Photographers call this time of day the 'golden hour' — the short period just after sunrise or just before sunset, when the sun is low and its light turns soft, warm and gold. For about twenty minutes, an ordinary river becomes a sheet of moving light.",
+      "text_pl": "To zdjęcie zostało zrobione pierwszego sierpnia 2025 roku, na Wiśle w centrum Warszawy, nieco przed zachodem słońca. Aparat jest bardzo nisko, niemal na powierzchni wody, i to nadaje całemu obrazowi spokojne, unoszące się wrażenie. Po prawej słońce zachodzi tuż obok pylonu nowoczesnego mostu, a jego światło kładzie się na rzece długą złotą linią. W oddali, na lewym brzegu, wznosi się sylwetka warszawskiego Starego Miasta, z wieżami i dachami ciemnymi na tle jasnego nieba. Połowa nieba wypełniona jest ciepłymi, pomarańczowymi chmurami, podczas gdy druga połowa pozostaje chłodnym, wieczornym błękitem. Fotografowie nazywają tę porę dnia „złotą godziną” — krótkim okresem tuż po wschodzie lub tuż przed zachodem słońca, gdy słońce jest nisko, a jego światło staje się miękkie, ciepłe i złote. Przez jakieś dwadzieścia minut zwykła rzeka zamienia się w taflę ruchomego światła.",
+      "vocab": [
+        { "term": "pylon", "ipa_br": "/ˈpaɪlɒn/", "pl": "pylon, słup (mostu)", "new": true },
+        { "term": "silhouette", "ipa_br": "/ˌsɪluˈet/", "pl": "sylwetka", "new": true },
+        { "term": "bank", "ipa_br": "/bæŋk/", "pl": "brzeg (rzeki)", "new": true },
+        { "term": "rooftop", "ipa_br": "/ˈruːftɒp/", "pl": "dach, szczyt dachu", "new": true },
+        { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true },
+        { "term": "floating", "ipa_br": "/ˈfləʊtɪŋ/", "pl": "unoszący się na wodzie", "new": true },
+        { "term": "ordinary", "ipa_br": "/ˈɔːdɪnəri/", "pl": "zwykły, zwyczajny", "new": true },
+        { "term": "sheet", "ipa_br": "/ʃiːt/", "pl": "tafla, arkusz", "new": true },
+        { "term": "sunrise", "ipa_br": "/ˈsʌnraɪz/", "pl": "wschód słońca", "new": true },
+        { "term": "sunset", "ipa_br": "/ˈsʌnset/", "pl": "zachód słońca", "new": true },
+        { "term": "period", "ipa_br": "/ˈpɪəriəd/", "pl": "okres, czas", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 1 August 2025 on the Vistula River in the centre of Warsaw.", "answer": true },
+            { "statement": "The camera is high above the city, looking down from a tall building.", "answer": false },
+            { "statement": "On the left bank, in the distance, rises the silhouette of Warsaw's Old Town.", "answer": true },
+            { "statement": "The whole sky is filled with orange clouds, with no blue left.", "answer": false },
+            { "statement": "The 'golden hour' is the short period just after sunrise or just before sunset.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "Every city has an hour when it looks better than it really is, and for Warsaw that hour arrives in the last minutes before the summer sun drops below the western horizon. This photograph, taken from low on the surface of the Vistula on the first of August 2025, catches exactly that moment. The sun sits low on the right, next to the cables of a modern bridge, and pours a long band of gold across the water towards the camera. On the far bank, the Old Town stands in silhouette, its towers reduced to simple dark shapes against a sky that is burning orange on one side and cooling to blue on the other. What makes the scene work is not the buildings but the light. During the so-called golden hour, the sun's rays travel through far more of the atmosphere than at midday, and most of the blue is scattered away before the light reaches us. What is left is warm, low and directional — the kind of light that softens edges, lengthens reflections, and makes even an ordinary evening on the river look, for a few minutes, unforgettable.",
+      "text_pl": "Każde miasto ma godzinę, w której wygląda lepiej, niż jest w rzeczywistości, a dla Warszawy ta godzina przychodzi w ostatnich minutach, zanim letnie słońce opadnie pod zachodni horyzont. To zdjęcie, zrobione nisko, z powierzchni Wisły, pierwszego sierpnia 2025 roku, chwyta dokładnie ten moment. Słońce siedzi nisko po prawej, obok lin nowoczesnego mostu, i wylewa na wodę, w stronę aparatu, długą wstęgę złota. Na drugim brzegu Stare Miasto stoi w kontrze, a jego wieże sprowadzone są do prostych, ciemnych kształtów na tle nieba, które z jednej strony płonie pomarańczem, a z drugiej stygnie do błękitu. To, co sprawia, że scena działa, to nie budynki, lecz światło. Podczas tak zwanej złotej godziny promienie słońca przechodzą przez znacznie więcej atmosfery niż w południe, a większość błękitu zostaje rozproszona, zanim światło do nas dotrze. To, co pozostaje, jest ciepłe, niskie i kierunkowe — takie światło, które zmiękcza krawędzie, wydłuża odbicia i sprawia, że nawet zwykły wieczór nad rzeką wygląda przez kilka minut niezapomnianie.",
+      "vocab": [
+        { "term": "horizon", "ipa_br": "/həˈraɪzən/", "pl": "horyzont", "new": true },
+        { "term": "drop", "ipa_br": "/drɒp/", "pl": "opadać, spadać", "new": true },
+        { "term": "pour", "ipa_br": "/pɔː/", "pl": "wylewać, lać", "new": true },
+        { "term": "band", "ipa_br": "/bænd/", "pl": "pas, wstęga", "new": true },
+        { "term": "cable", "ipa_br": "/ˈkeɪbəl/", "pl": "lina, kabel", "new": true },
+        { "term": "scatter", "ipa_br": "/ˈskætə/", "pl": "rozpraszać", "new": true },
+        { "term": "atmosphere", "ipa_br": "/ˈætməsfɪə/", "pl": "atmosfera", "new": true },
+        { "term": "directional", "ipa_br": "/dɪˈrekʃənəl/", "pl": "kierunkowy", "new": true },
+        { "term": "reflection", "ipa_br": "/rɪˈflekʃən/", "pl": "odbicie", "new": true },
+        { "term": "edge", "ipa_br": "/edʒ/", "pl": "krawędź", "new": true },
+        { "term": "unforgettable", "ipa_br": "/ˌʌnfəˈɡetəbəl/", "pl": "niezapomniany", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "According to the text, Warsaw's best hour arrives in the last minutes before the summer sun drops below the western horizon.", "answer": true },
+            { "statement": "The photograph was taken from low on the surface of the Vistula on 1 August 2025.", "answer": true },
+            { "statement": "The text says that what makes the scene work is the buildings rather than the light.", "answer": false },
+            { "statement": "During the golden hour, the sun's rays travel through far more of the atmosphere than at midday.", "answer": true },
+            { "statement": "Most of the blue light is scattered away before the light reaches us.", "answer": true },
+            { "statement": "The remaining light is described as cold, high and scattered in every direction.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a particular kind of light that photographers wait for and physicists can explain, and this photograph — taken from low on the surface of the Vistula in central Warsaw on the evening of the first of August 2025 — is built almost entirely out of it. The sun hangs low on the right, a small intense disc beside the pylon of a modern cable-stayed bridge, and lays a shifting column of gold across the water towards the camera. On the opposite bank, the Old Town has been reduced to a silhouette: towers, spires and rooftops flattened into a single dark line beneath a sky that divides, almost down the middle, between molten orange cloud and cool residual blue. This is the golden hour, and its warmth is not an accident of mood but a matter of geometry. When the sun is near the horizon, its light passes through a far greater thickness of atmosphere than at noon; the shorter blue wavelengths are scattered out of the direct beam, and what survives to reach the river is dominated by reds, oranges and ambers. The city itself does not change during the golden hour. Only the light does — and for twenty minutes, that turns out to be enough.",
+      "text_pl": "Istnieje szczególny rodzaj światła, na który fotografowie czekają, a fizycy potrafią je wyjaśnić, i to zdjęcie — zrobione nisko, z powierzchni Wisły w centrum Warszawy, wieczorem pierwszego sierpnia 2025 roku — zbudowane jest niemal wyłącznie z niego. Słońce wisi nisko po prawej, mała, intensywna tarcza obok pylonu nowoczesnego mostu wantowego, i kładzie na wodzie, w stronę aparatu, ruchomą kolumnę złota. Na przeciwległym brzegu Stare Miasto sprowadzone zostało do sylwetki: wieże, iglice i dachy spłaszczone w jedną ciemną linię pod niebem, które dzieli się, niemal na pół, między rozżarzoną pomarańczową chmurę a chłodny, resztkowy błękit. To jest złota godzina, a jej ciepło nie jest przypadkiem nastroju, lecz kwestią geometrii. Gdy słońce jest blisko horyzontu, jego światło przechodzi przez znacznie większą grubość atmosfery niż w południe; krótsze, niebieskie fale zostają rozproszone poza wiązkę bezpośrednią, a to, co dociera do rzeki, zdominowane jest przez czerwienie, pomarańcze i bursztyny. Samo miasto nie zmienia się podczas złotej godziny. Zmienia się tylko światło — i przez dwadzieścia minut okazuje się, że to wystarczy.",
+      "vocab": [
+        { "term": "disc", "ipa_br": "/dɪsk/", "pl": "tarcza, krążek", "new": true },
+        { "term": "cable-stayed", "ipa_br": "/ˈkeɪbəl steɪd/", "pl": "wantowy (o moście)", "new": true },
+        { "term": "column", "ipa_br": "/ˈkɒləm/", "pl": "kolumna, słup", "new": true },
+        { "term": "spire", "ipa_br": "/ˈspaɪə/", "pl": "iglica", "new": true },
+        { "term": "flatten", "ipa_br": "/ˈflætən/", "pl": "spłaszczać", "new": true },
+        { "term": "molten", "ipa_br": "/ˈməʊltən/", "pl": "rozżarzony, roztopiony", "new": true },
+        { "term": "residual", "ipa_br": "/rɪˈzɪdjuəl/", "pl": "resztkowy, pozostały", "new": true },
+        { "term": "geometry", "ipa_br": "/dʒiˈɒmətri/", "pl": "geometria", "new": true },
+        { "term": "wavelength", "ipa_br": "/ˈweɪvleŋθ/", "pl": "długość fali", "new": true },
+        { "term": "amber", "ipa_br": "/ˈæmbə/", "pl": "bursztyn, bursztynowy", "new": true },
+        { "term": "beam", "ipa_br": "/biːm/", "pl": "wiązka, promień", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text describes a kind of light that photographers wait for and physicists can explain.", "answer": true },
+            { "statement": "The sun is described as a small intense disc beside the pylon of a modern cable-stayed bridge.", "answer": true },
+            { "statement": "On the opposite bank, the Old Town appears in full colour and rich detail rather than as a silhouette.", "answer": false },
+            { "statement": "According to the text, the warmth of the golden hour is a matter of geometry rather than an accident of mood.", "answer": true },
+            { "statement": "When the sun is near the horizon, its light passes through less atmosphere than at noon.", "answer": false },
+            { "statement": "The text says the city itself does not change during the golden hour — only the light does.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a well-worn photographic cliché that the best light is free, and this frame — made from low on the surface of the Vistula in the heart of Warsaw on the evening of the first of August 2025 — is both an example of the cliché and a quiet argument for why it endures. The composition is almost elemental: a low sun burning beside the pylon of a cable-stayed bridge on the right; the flattened silhouette of the Old Town on the left; and, between them, a river turned briefly into a single moving sheet of gold. What the eye reads as atmosphere the atmosphere quite literally provides. Near the horizon, sunlight is forced through a far longer path of air than at midday, and Rayleigh scattering — which acts far more strongly on short wavelengths than on long ones — strips most of the blue and violet from the direct beam long before it reaches the water. What remains is the warm, low, raking light that photographers have agreed to call the golden hour: soft enough to forgive almost any subject, brief enough to feel like a small event, and, because the Earth will not stop turning, entirely impossible to keep. A minute after this shutter closed, the colour had already begun to drain from the sky.",
+      "text_pl": "Istnieje wytarty fotograficzny frazes, że najlepsze światło jest za darmo, a ten kadr — zrobiony nisko, z powierzchni Wisły w sercu Warszawy, wieczorem pierwszego sierpnia 2025 roku — jest zarazem przykładem tego frazesu i cichym argumentem za tym, dlaczego się on utrzymuje. Kompozycja jest niemal żywiołowa: nisko płonące słońce obok pylonu mostu wantowego po prawej; spłaszczona sylwetka Starego Miasta po lewej; a między nimi rzeka zamieniona na chwilę w jedną ruchomą taflę złota. To, co oko odczytuje jako atmosferę, atmosfera całkiem dosłownie dostarcza. W pobliżu horyzontu światło słoneczne przeciskane jest przez znacznie dłuższą drogę w powietrzu niż w południe, a rozpraszanie Rayleigha — które działa znacznie silniej na krótkie fale niż na długie — usuwa większość błękitu i fioletu z bezpośredniej wiązki na długo, zanim dotrze ona do wody. To, co pozostaje, to ciepłe, niskie, muskające światło, które fotografowie zgodzili się nazywać złotą godziną: dość miękkie, by wybaczyć niemal każdy temat, dość krótkie, by wydawać się małym wydarzeniem, i — ponieważ Ziemia nie przestanie się obracać — całkowicie niemożliwe do zatrzymania. Minutę po tym, jak zamknęła się ta migawka, barwa zaczęła już spływać z nieba.",
+      "vocab": [
+        { "term": "cliché", "ipa_br": "/ˈkliːʃeɪ/", "pl": "frazes, banał", "new": true },
+        { "term": "endure", "ipa_br": "/ɪnˈdjʊə/", "pl": "trwać, utrzymywać się", "new": true },
+        { "term": "elemental", "ipa_br": "/ˌelɪˈmentəl/", "pl": "żywiołowy, podstawowy", "new": true },
+        { "term": "composition", "ipa_br": "/ˌkɒmpəˈzɪʃən/", "pl": "kompozycja", "new": true },
+        { "term": "raking", "ipa_br": "/ˈreɪkɪŋ/", "pl": "muskający (o świetle bocznym)", "new": true },
+        { "term": "Rayleigh scattering", "ipa_br": "/ˈreɪli ˌskætərɪŋ/", "pl": "rozpraszanie Rayleigha", "new": true },
+        { "term": "wavelength", "ipa_br": "/ˈweɪvleŋθ/", "pl": "długość fali", "new": false },
+        { "term": "violet", "ipa_br": "/ˈvaɪələt/", "pl": "fiolet, fioletowy", "new": true },
+        { "term": "strip", "ipa_br": "/strɪp/", "pl": "zdzierać, usuwać", "new": true },
+        { "term": "shutter", "ipa_br": "/ˈʃʌtə/", "pl": "migawka", "new": true },
+        { "term": "drain", "ipa_br": "/dreɪn/", "pl": "spływać, odpływać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text opens with the photographic cliché that the best light is free.", "answer": true },
+            { "statement": "The composition is described as almost elemental: a low sun by the bridge, the Old Town's silhouette, and a river turned to gold between them.", "answer": true },
+            { "statement": "According to the text, Rayleigh scattering acts more strongly on long wavelengths than on short ones.", "answer": false },
+            { "statement": "Near the horizon, sunlight is forced through a far longer path of air than at midday.", "answer": true },
+            { "statement": "The golden hour is described as impossible to keep, because the Earth will not stop turning.", "answer": true },
+            { "statement": "The text says the colours in the sky stayed exactly the same for hours after the photograph was taken.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
