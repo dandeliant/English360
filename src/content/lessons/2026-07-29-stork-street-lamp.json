@@ -1,0 +1,209 @@
+{
+  "id": "2026-07-29-stork-street-lamp",
+  "date_assigned": "2026-07-29",
+  "date_alternatives": [],
+  "title_en": "A Second Sun",
+  "title_pl": "Drugie słońce",
+  "location": "Łuków, Lublin Voivodeship, Poland",
+  "image": "/images/2026-07-29-stork-street-lamp.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["birds", "white-stork", "sunset", "silhouette", "poland", "lublin", "lukow", "street-lamp", "minimalism", "summer"],
+  "themes": ["sunset-silhouette", "second-sun", "one-legged-rest", "thermoregulation", "storks-and-people"],
+  "did_you_know": {
+    "en": "Look closely at the silhouette and you will see that the stork is standing on a single leg — a posture so common in storks, herons and flamingos that people rarely stop to ask why. For a long time it was a small mystery. The best-supported answer is heat. A bird's legs and feet are bare, thin and full of blood vessels, which makes them very good at losing warmth; on a cool evening, that loss adds up. By drawing one leg up into the dense, insulating feathers of its belly, a resting bird roughly halves the surface it is losing heat from. The legs themselves are cleverly built to help: the arteries carrying warm blood down run right beside the veins carrying cool blood back up, so that heat passes from one to the other and is recycled into the body instead of escaping into the air — an arrangement engineers call a countercurrent heat exchanger. Standing on one leg is also simply restful, and many birds doze or even sleep that way, letting one half of the brain rest while the other stays lightly awake. The choice of perch says something too. The white stork is one of the most comfortably urban of all large wild birds — as happy on a chimney, a power pole or, here, a street lamp as in any tree — which is why a photographer in a Polish town can look up at sunset and find one standing guard, on one leg, over a glowing light that for a moment looks just like a small, captive sun.",
+    "pl": "Przyjrzyj się sylwetce, a zobaczysz, że bocian stoi na jednej nodze — postawie tak częstej u bocianów, czapli i flamingów, że ludzie rzadko zatrzymują się, by zapytać dlaczego. Przez długi czas była to mała zagadka. Najlepiej poparta odpowiedź to ciepło. Nogi i stopy ptaka są nagie, cienkie i pełne naczyń krwionośnych, co czyni je bardzo dobrymi w oddawaniu ciepła; chłodnym wieczorem ta strata się sumuje. Podciągając jedną nogę w gęste, izolujące pióra brzucha, odpoczywający ptak z grubsza o połowę zmniejsza powierzchnię, z której traci ciepło. Same nogi są sprytnie zbudowane, by mu w tym pomóc: tętnice niosące ciepłą krew w dół biegną tuż obok żył niosących chłodną krew w górę, tak że ciepło przechodzi z jednych do drugich i wraca do ciała, zamiast uciekać w powietrze — układ, który inżynierowie nazywają wymiennikiem przeciwprądowym. Stanie na jednej nodze jest też po prostu wypoczynkiem, a wiele ptaków w ten sposób drzemie, a nawet śpi, pozwalając jednej połowie mózgu odpocząć, podczas gdy druga pozostaje lekko czuwająca. Wybór grzędy również coś mówi. Bocian biały należy do najbardziej „miejskich” spośród wszystkich dużych dzikich ptaków — równie chętnie siada na kominie, słupie energetycznym czy, jak tutaj, na latarni, co na dowolnym drzewie — i dlatego fotograf w polskim mieście może o zachodzie spojrzeć w górę i znaleźć jednego, jak stoi na warcie, na jednej nodze, nad świecącą lampą, która przez chwilę wygląda dokładnie jak małe, uwięzione słońce."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: bocian na latarni o zachodzie słońca w Łukowie (fot. Daniel Ostrowski). „Wygląda, jakby latarnia postanowiła zastąpić słońce, a bocian pilnuje, żeby nie zgasło.” Motyw: sylwetka i wizualny żart oraz mała zagadka biologii — dlaczego bocian stoi na jednej nodze. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: a stork on a street lamp at sunset in Łuków (photo: Daniel Ostrowski). 'It looks as if the street lamp decided to replace the sun, and the stork is making sure it doesn't go out.' The theme: silhouette and a visual joke, plus a small biological puzzle — why a stork stands on one leg. Six CEFR levels (A1–C2). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#WhiteStork", "#Sunset", "#Silhouette", "#Poland", "#Lublin", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. The sky is orange and red. It is sunset. In the middle there is a street lamp. The lamp is on. It is bright and yellow, like a small sun. On top of the lamp there is a bird. The bird is a stork. It stands on one leg. It is black, like a shadow. It looks very calm.",
+      "text_pl": "Spójrz na to zdjęcie. Niebo jest pomarańczowe i czerwone. Jest zachód słońca. Pośrodku stoi uliczna latarnia. Latarnia jest włączona. Jest jasna i żółta, jak małe słońce. Na szczycie latarni jest ptak. Ten ptak to bocian. Stoi na jednej nodze. Jest czarny, jak cień. Wygląda bardzo spokojnie.",
+      "vocab": [
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "sunset", "ipa_br": "/ˈsʌnset/", "pl": "zachód słońca", "new": true },
+        { "term": "lamp", "ipa_br": "/læmp/", "pl": "latarnia, lampa", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": true },
+        { "term": "bird", "ipa_br": "/bɜːd/", "pl": "ptak", "new": true },
+        { "term": "stork", "ipa_br": "/stɔːk/", "pl": "bocian", "new": true },
+        { "term": "leg", "ipa_br": "/leɡ/", "pl": "noga", "new": true },
+        { "term": "shadow", "ipa_br": "/ˈʃædəʊ/", "pl": "cień", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "B" },
+            { "word": "lamp", "answer": "D" },
+            { "word": "bird", "answer": "A" },
+            { "word": "leg", "answer": "C" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🐦" },
+            { "label": "B", "text": "☀️" },
+            { "label": "C", "text": "🦵" },
+            { "label": "D", "text": "💡" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph was taken in the town of Łuków in eastern Poland, at sunset. The whole sky is a warm orange and red. In the centre of the picture there is a tall street lamp, and its light is on. The lamp glows bright yellow and white, so it looks almost like a second, small sun. On top of the lamp stands a white stork — but here we only see its black shape against the bright sky. The stork is resting on one leg, with its head tucked in. The photographer made a little joke about it: it looks as if the street lamp wants to be the sun, and the stork is there to guard it, so the light does not go out.",
+      "text_pl": "To zdjęcie zostało zrobione w mieście Łuków we wschodniej Polsce, o zachodzie słońca. Całe niebo jest ciepło pomarańczowe i czerwone. Pośrodku zdjęcia stoi wysoka uliczna latarnia, a jej światło jest włączone. Latarnia świeci jasno na żółto i biało, więc wygląda niemal jak drugie, małe słońce. Na szczycie latarni stoi bocian biały — ale tutaj widzimy tylko jego czarny kształt na tle jasnego nieba. Bocian odpoczywa na jednej nodze, z głową schowaną. Fotograf zrobił z tego mały żart: wygląda, jakby uliczna latarnia chciała być słońcem, a bocian był tam po to, by jej pilnować, żeby światło nie zgasło.",
+      "vocab": [
+        { "term": "town", "ipa_br": "/taʊn/", "pl": "miasto, miasteczko", "new": true },
+        { "term": "centre", "ipa_br": "/ˈsentə/", "pl": "środek, centrum", "new": true },
+        { "term": "glow", "ipa_br": "/ɡləʊ/", "pl": "świecić, jarzyć się", "new": true },
+        { "term": "second", "ipa_br": "/ˈsekənd/", "pl": "drugi", "new": true },
+        { "term": "shape", "ipa_br": "/ʃeɪp/", "pl": "kształt", "new": true },
+        { "term": "rest", "ipa_br": "/rest/", "pl": "odpoczywać", "new": true },
+        { "term": "tuck", "ipa_br": "/tʌk/", "pl": "chować, wtulać", "new": true },
+        { "term": "joke", "ipa_br": "/dʒəʊk/", "pl": "żart", "new": true },
+        { "term": "guard", "ipa_br": "/ɡɑːd/", "pl": "pilnować, strzec", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The photograph was taken in the ___ of Łuków in eastern Poland.", "answer": "town" },
+            { "sentence": "The lamp glows so brightly that it looks almost like a second, small ___.", "answer": "sun" },
+            { "sentence": "The stork is resting on one ___, with its head tucked in.", "answer": "leg" },
+            { "sentence": "The stork is there to ___ the lamp, so the light does not go out.", "answer": "guard" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the twenty-ninth of July 2026, in the town of Łuków in eastern Poland, just as the sun was going down. The sky has turned into a smooth wall of orange and red, with no clouds at all. Against it, everything is reduced to a simple black silhouette: a tall, curved street lamp and, on top of it, a white stork. The lamp is switched on, and its glowing bulb sits in the frame almost exactly where the sun would be — a bright little globe of yellow light. The bird stands on one thin leg, its neck folded down and its head resting on its back. Storks often rest like this, on a single leg, and there is a good reason for it: a bird loses a lot of heat through its bare legs, so pulling one leg up into its warm feathers helps it stay warm. The photographer saw a story in the scene. The lamp, he wrote, seems to want to replace the sun, and the stork seems to be standing guard over the little light, making sure it never goes out.",
+      "text_pl": "To zdjęcie zostało zrobione dwudziestego dziewiątego lipca 2026 roku, w mieście Łuków we wschodniej Polsce, dokładnie gdy słońce zachodziło. Niebo zamieniło się w gładką ścianę pomarańczu i czerwieni, zupełnie bez chmur. Na jej tle wszystko zredukowane jest do prostej czarnej sylwetki: wysoka, wygięta uliczna latarnia i, na jej szczycie, bocian biały. Latarnia jest włączona, a jej świecąca żarówka tkwi w kadrze niemal dokładnie tam, gdzie byłoby słońce — jasny mały glob żółtego światła. Ptak stoi na jednej cienkiej nodze, z szyją złożoną w dół i głową opartą na grzbiecie. Bociany często tak odpoczywają, na jednej nodze, i jest ku temu dobry powód: ptak traci dużo ciepła przez nagie nogi, więc podciągnięcie jednej nogi w ciepłe pióra pomaga mu utrzymać ciepło. Fotograf zobaczył w tej scenie opowieść. Latarnia, napisał, zdaje się chcieć zastąpić słońce, a bocian zdaje się stać na warcie nad tym małym światłem, pilnując, by nigdy nie zgasło.",
+      "vocab": [
+        { "term": "silhouette", "ipa_br": "/ˌsɪluˈet/", "pl": "sylwetka, kontur", "new": true },
+        { "term": "curved", "ipa_br": "/kɜːvd/", "pl": "wygięty, zakrzywiony", "new": true },
+        { "term": "smooth", "ipa_br": "/smuːð/", "pl": "gładki", "new": true },
+        { "term": "switch on", "ipa_br": "/swɪtʃ ɒn/", "pl": "włączyć", "new": true },
+        { "term": "bulb", "ipa_br": "/bʌlb/", "pl": "żarówka", "new": true },
+        { "term": "globe", "ipa_br": "/ɡləʊb/", "pl": "kula, glob", "new": true },
+        { "term": "fold", "ipa_br": "/fəʊld/", "pl": "składać, zginać", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "heat", "ipa_br": "/hiːt/", "pl": "ciepło", "new": true },
+        { "term": "feather", "ipa_br": "/ˈfeðə/", "pl": "pióro", "new": true },
+        { "term": "neck", "ipa_br": "/nek/", "pl": "szyja", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 29 July 2026 in the town of Łuków, just as the sun was going down.", "answer": true },
+            { "statement": "The sky is full of grey clouds and rain.", "answer": false },
+            { "statement": "The lamp's glowing bulb sits in the frame almost exactly where the sun would be.", "answer": true },
+            { "statement": "According to the text, a stork pulls one leg up into its warm feathers to help it stay warm.", "answer": true },
+            { "statement": "The photographer wrote that the stork seems to be standing guard over the little light.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "A good silhouette works by taking almost everything away. This photograph, made in the town of Łuków in eastern Poland at sunset on the twenty-ninth of July 2026, keeps only three things: a cloudless sky burning from red at the top to gold at the bottom, the black outline of a street lamp, and a white stork perched on top of it. Because the light is behind them, the lamp and the bird lose all their colour and detail and become pure shape — and that is exactly what makes the picture work. The glowing bulb of the lamp sits where the sun should be, like a small artificial sun the town has switched on for the evening. The stork, resting on a single leg with its head tucked away, seems to be keeping it company, or keeping watch. There is real biology under the joke. Storks tuck up one leg to save heat, since their long, bare legs would otherwise carry warmth away from the body. And their willingness to stand on a lamp at all is part of a wider story: few large wild birds have made themselves as at home among human poles, roofs and wires as the white stork has. The photographer read the scene as a little fable — the lamp trying to be the sun, the stork on guard so the light will not go out — and, for the length of a sunset, it almost is one.",
+      "text_pl": "Dobra sylwetka działa, odbierając niemal wszystko. To zdjęcie, zrobione w mieście Łuków we wschodniej Polsce o zachodzie słońca dwudziestego dziewiątego lipca 2026 roku, zachowuje tylko trzy rzeczy: bezchmurne niebo płonące od czerwieni u góry do złota na dole, czarny kontur ulicznej latarni i bociana białego siedzącego na jej szczycie. Ponieważ światło jest za nimi, latarnia i ptak tracą cały kolor i szczegół i stają się czystym kształtem — i to właśnie sprawia, że zdjęcie działa. Świecąca żarówka latarni tkwi tam, gdzie powinno być słońce, niczym małe sztuczne słońce, które miasto włączyło na wieczór. Bocian, odpoczywający na jednej nodze z głową schowaną, zdaje się dotrzymywać mu towarzystwa albo trzymać wartę. Pod żartem kryje się prawdziwa biologia. Bociany podciągają jedną nogę, by oszczędzać ciepło, bo ich długie, nagie nogi w przeciwnym razie odprowadzałyby ciepło od ciała. A ich gotowość, by w ogóle stanąć na latarni, jest częścią szerszej opowieści: niewiele dużych dzikich ptaków zadomowiło się wśród ludzkich słupów, dachów i przewodów tak jak bocian biały. Fotograf odczytał tę scenę jako małą bajkę — latarnia próbująca być słońcem, bocian na warcie, by światło nie zgasło — i przez czas jednego zachodu niemal nią jest.",
+      "vocab": [
+        { "term": "outline", "ipa_br": "/ˈaʊtlaɪn/", "pl": "kontur, zarys", "new": true },
+        { "term": "cloudless", "ipa_br": "/ˈklaʊdləs/", "pl": "bezchmurny", "new": true },
+        { "term": "detail", "ipa_br": "/ˈdiːteɪl/", "pl": "szczegół", "new": true },
+        { "term": "artificial", "ipa_br": "/ˌɑːtɪˈfɪʃəl/", "pl": "sztuczny", "new": true },
+        { "term": "company", "ipa_br": "/ˈkʌmpəni/", "pl": "towarzystwo", "new": true },
+        { "term": "warmth", "ipa_br": "/wɔːmθ/", "pl": "ciepło", "new": true },
+        { "term": "willingness", "ipa_br": "/ˈwɪlɪŋnəs/", "pl": "gotowość, chęć", "new": true },
+        { "term": "wire", "ipa_br": "/ˈwaɪə/", "pl": "przewód, drut", "new": true },
+        { "term": "fable", "ipa_br": "/ˈfeɪbəl/", "pl": "bajka, przypowieść", "new": true },
+        { "term": "perch", "ipa_br": "/pɜːtʃ/", "pl": "siadać (o ptaku), grzęda", "new": true },
+        { "term": "keep watch", "ipa_br": "/kiːp wɒtʃ/", "pl": "trzymać wartę, czuwać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says a good silhouette works by taking almost everything away.", "answer": true },
+            { "statement": "Because the light is behind them, the lamp and the bird become pure shape, with no colour or detail.", "answer": true },
+            { "statement": "According to the text, storks tuck up one leg in order to lose heat more quickly.", "answer": false },
+            { "statement": "Few large wild birds have made themselves as at home among human poles, roofs and wires as the white stork.", "answer": true },
+            { "statement": "The photographer read the scene as a little fable about the lamp trying to be the sun.", "answer": true },
+            { "statement": "The text says the lamp and the bird keep all their colour and fine detail against the sky.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Reduce a scene to a silhouette and you force the eye to read shapes as symbols. This photograph, taken at sunset in the town of Łuków in eastern Poland on the twenty-ninth of July 2026, is a clean demonstration. The sky has been burned down to a single field of colour, orange deepening to red, with not one cloud to break it; and against that field only two black forms remain — the elegant hook of a street lamp and, standing on it, the unmistakable shape of a white stork. Stripped of all detail by the backlight, the lamp's lit bulb becomes a small, private sun, hanging in the frame just below the real one; the bird, balanced on one leg with its head folded onto its back, becomes a character in a story the photographer cannot help telling. That posture, though, is not sentiment but physiology. A bird's bare legs are efficient radiators of heat, so a resting stork tucks one of them up into the insulation of its belly feathers, roughly halving the surface it loses warmth from, while the legs themselves run on a countercurrent system that recovers heat from the outgoing blood. The choice of perch is telling too. The white stork is among the most thoroughly urban of large wild birds, as content on a chimney, a pole or a lamp as on any tree. What the picture finally offers is a small, warm illusion: an artificial sun, and a tall bird apparently appointed to guard it until morning.",
+      "text_pl": "Zredukuj scenę do sylwetki, a zmusisz oko, by odczytywało kształty jak symbole. To zdjęcie, zrobione o zachodzie słońca w mieście Łuków we wschodniej Polsce dwudziestego dziewiątego lipca 2026 roku, jest tego czystą demonstracją. Niebo zostało wypalone do jednego pola barwy, pomarańczu ciemniejącego do czerwieni, bez ani jednej chmury, która by je przełamała; a na tym polu pozostają tylko dwie czarne formy — elegancki hak ulicznej latarni i, stojący na nim, niewątpliwy kształt bociana białego. Pozbawiona wszelkiego szczegółu przez światło od tyłu, zapalona żarówka latarni staje się małym, prywatnym słońcem, wiszącym w kadrze tuż pod tym prawdziwym; ptak, wyważony na jednej nodze z głową złożoną na grzbiecie, staje się postacią w opowieści, której fotograf nie potrafi nie snuć. Ta postawa nie jest jednak sentymentem, lecz fizjologią. Nagie nogi ptaka to sprawne grzejniki ciepła, więc odpoczywający bocian podciąga jedną z nich w izolację piór brzucha, z grubsza o połowę zmniejszając powierzchnię, z której traci ciepło, podczas gdy same nogi działają na zasadzie układu przeciwprądowego, który odzyskuje ciepło z odpływającej krwi. Wybór grzędy również jest wymowny. Bocian biały należy do najbardziej „miejskich” dużych dzikich ptaków, równie zadowolony na kominie, słupie czy latarni, co na dowolnym drzewie. To, co obraz ostatecznie oferuje, to mała, ciepła iluzja: sztuczne słońce i wysoki ptak najwyraźniej wyznaczony, by go strzec do rana.",
+      "vocab": [
+        { "term": "symbol", "ipa_br": "/ˈsɪmbəl/", "pl": "symbol", "new": true },
+        { "term": "demonstration", "ipa_br": "/ˌdemənˈstreɪʃən/", "pl": "demonstracja, pokaz", "new": true },
+        { "term": "backlight", "ipa_br": "/ˈbæklaɪt/", "pl": "światło od tyłu, kontra", "new": true },
+        { "term": "stripped", "ipa_br": "/strɪpt/", "pl": "pozbawiony, obnażony", "new": true },
+        { "term": "posture", "ipa_br": "/ˈpɒstʃə/", "pl": "postawa, pozycja ciała", "new": true },
+        { "term": "physiology", "ipa_br": "/ˌfɪziˈɒlədʒi/", "pl": "fizjologia", "new": true },
+        { "term": "radiator", "ipa_br": "/ˈreɪdieɪtə/", "pl": "grzejnik, radiator", "new": true },
+        { "term": "insulation", "ipa_br": "/ˌɪnsjəˈleɪʃən/", "pl": "izolacja", "new": true },
+        { "term": "countercurrent", "ipa_br": "/ˈkaʊntəkʌrənt/", "pl": "przeciwprądowy", "new": true },
+        { "term": "content", "ipa_br": "/kənˈtent/", "pl": "zadowolony", "new": true },
+        { "term": "illusion", "ipa_br": "/ɪˈluːʒən/", "pl": "iluzja, złudzenie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text argues that reducing a scene to a silhouette forces the eye to read shapes as symbols.", "answer": true },
+            { "statement": "Against the sky, only two black forms remain: a street lamp and a white stork standing on it.", "answer": true },
+            { "statement": "According to the text, the stork's one-legged posture is pure sentiment rather than physiology.", "answer": false },
+            { "statement": "A resting stork tucks one leg into its belly feathers, roughly halving the surface it loses warmth from.", "answer": true },
+            { "statement": "The white stork is described as among the most thoroughly urban of large wild birds.", "answer": true },
+            { "statement": "The text says the stork's legs waste heat, with no system to recover it.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a reason sunset silhouettes are among the most reliably affecting of all photographs: by deleting colour, texture and detail, they leave the mind almost nothing to do except assign meaning. This image, made in the small eastern-Polish town of Łuków at sundown on the twenty-ninth of July 2026, exploits that machinery with great economy. A cloudless sky, graded from a hot red overhead to molten gold at the horizon, serves as a blank screen; upon it fall just two shapes, both wholly black — the cantilevered arm of a municipal street lamp and, poised on its summit, the archetypal outline of a white stork. The lamp has come on, and its glowing lens, robbed by the backlight of everything but brightness, reads irresistibly as a second, smaller sun, hung in the frame a little below the first. The stork, drawn up onto a single leg with its head laid back along its shoulders, invites the anthropomorphism the photographer duly supplies: the lamp has resolved to stand in for the sun, and the bird has been posted to see that its flame is not allowed to die. The truth beneath the fancy is quieter and, in its way, just as elegant. Standing on one leg is thermoregulation: a stork's long, unfeathered legs shed heat readily, so tucking one into the warm plumage of the body cuts that loss substantially, while a countercurrent exchange between the outgoing and returning blood keeps the working leg from bleeding warmth into the cold. And the perch is no accident either, for no large wild bird in Europe has thrown in its lot with human structures as completely as this one. What survives, when the analysis is done, is the photograph's first and best reading — a warm, ridiculous, entirely convincing little myth, good for exactly as long as the light lasts.",
+      "text_pl": "Jest powód, dla którego zachodowe sylwetki należą do najniezawodniej poruszających ze wszystkich fotografii: usuwając kolor, fakturę i szczegół, zostawiają umysłowi niemal nic do roboty poza przypisywaniem znaczenia. Ten obraz, zrobiony w małym wschodniopolskim mieście Łuków o zmierzchu dwudziestego dziewiątego lipca 2026 roku, wykorzystuje ten mechanizm z wielką oszczędnością. Bezchmurne niebo, przechodzące od gorącej czerwieni nad głową do roztopionego złota na horyzoncie, służy za pusty ekran; padają na nie tylko dwa kształty, oba całkowicie czarne — wspornikowe ramię miejskiej latarni i, wyważony na jej szczycie, archetypiczny zarys bociana białego. Latarnia się zapaliła, a jej świecący klosz, pozbawiony przez światło od tyłu wszystkiego prócz jasności, czyta się nieodparcie jak drugie, mniejsze słońce, zawieszone w kadrze nieco poniżej tego pierwszego. Bocian, podciągnięty na jedną nogę z głową złożoną wzdłuż barków, zaprasza do antropomorfizmu, którego fotograf należycie dostarcza: latarnia postanowiła zastąpić słońce, a ptaka postawiono, by dopilnował, że jej płomieniowi nie pozwoli się zgasnąć. Prawda pod tą fantazją jest cichsza i, na swój sposób, równie elegancka. Stanie na jednej nodze to termoregulacja: długie, nieopierzone nogi bociana łatwo oddają ciepło, więc wtulenie jednej w ciepłe upierzenie ciała znacznie tnie tę stratę, podczas gdy przeciwprądowa wymiana między odpływającą a powracającą krwią chroni pracującą nogę przed wykrwawianiem ciepła w chłód. I grzęda też nie jest przypadkiem, bo żaden duży dziki ptak w Europie nie związał swojego losu z ludzkimi budowlami tak całkowicie jak ten. To, co przetrwa, gdy analiza dobiegnie końca, to pierwszy i najlepszy odczyt zdjęcia — ciepły, absurdalny, całkowicie przekonujący mały mit, dobry dokładnie tak długo, jak trwa światło.",
+      "vocab": [
+        { "term": "affecting", "ipa_br": "/əˈfektɪŋ/", "pl": "poruszający, wzruszający", "new": true },
+        { "term": "delete", "ipa_br": "/dɪˈliːt/", "pl": "usuwać, kasować", "new": true },
+        { "term": "exploit", "ipa_br": "/ɪkˈsplɔɪt/", "pl": "wykorzystywać", "new": true },
+        { "term": "economy", "ipa_br": "/ɪˈkɒnəmi/", "pl": "oszczędność, ekonomia (środków)", "new": true },
+        { "term": "cantilevered", "ipa_br": "/ˈkæntɪliːvəd/", "pl": "wspornikowy", "new": true },
+        { "term": "archetypal", "ipa_br": "/ˌɑːkɪˈtaɪpəl/", "pl": "archetypiczny, wzorcowy", "new": true },
+        { "term": "anthropomorphism", "ipa_br": "/ˌænθrəpəˈmɔːfɪzəm/", "pl": "antropomorfizm", "new": true },
+        { "term": "thermoregulation", "ipa_br": "/ˌθɜːməʊreɡjəˈleɪʃən/", "pl": "termoregulacja", "new": true },
+        { "term": "plumage", "ipa_br": "/ˈpluːmɪdʒ/", "pl": "upierzenie", "new": true },
+        { "term": "molten", "ipa_br": "/ˈməʊltən/", "pl": "roztopiony", "new": true },
+        { "term": "myth", "ipa_br": "/mɪθ/", "pl": "mit", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text says sunset silhouettes are affecting because, by deleting colour and detail, they leave the mind almost nothing to do except assign meaning.", "answer": true },
+            { "statement": "Against the sky fall just two wholly black shapes: the arm of a street lamp and a white stork on its summit.", "answer": true },
+            { "statement": "According to the text, the lamp's glowing lens reads as a second, smaller sun hung a little below the real one.", "answer": true },
+            { "statement": "The text explains standing on one leg as thermoregulation, helped by a countercurrent exchange of heat in the blood.", "answer": true },
+            { "statement": "The text concludes that, after analysis, the playful reading of the image collapses and is worthless.", "answer": false },
+            { "statement": "The text claims no large wild bird in Europe has kept its distance from human structures as strictly as the white stork.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
