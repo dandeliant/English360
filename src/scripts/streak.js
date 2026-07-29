@@ -1,6 +1,6 @@
 // Daily streak + lesson-progress tracking — pure client-side, localStorage only.
 //
-// Schema in localStorage `english365.streak`:
+// Schema in localStorage `english360.streak`:
 //   {
 //     lastVisit: "YYYY-MM-DD",       // last day the user opened any page
 //     days: 5,                        // current consecutive-day streak
@@ -17,7 +17,7 @@
 // The badge stays hidden until days ≥ 2 so a first-time visitor isn't
 // greeted with "🔥 1" on landing — that reads as silly.
 
-const KEY = 'english365.streak';
+const KEY = 'english360.streak';
 
 function isoDate(d = new Date()) {
   const y = d.getFullYear();

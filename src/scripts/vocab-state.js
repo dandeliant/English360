@@ -1,37 +1,47 @@
-// Personal vocab journal + Spaced Repetition (SM-2) state.
+// Personal vocab journal + spaced repetition (FSRS).
 //
-// Everything lives in localStorage under `english365.vocab` so it is
+// Everything lives in localStorage under `english360.vocab` so it is
 // purely client-side — no account, no sync across devices. The state
 // keys words by their dictionary slug (lowercase, alphanumeric), which
-// matches the URL slug on /slownik/<word>.
+// matches the URL slug on /slownik/<word>. (The storage key keeps the
+// historical `english360.` namespace so existing users don't lose data
+// across the English 365 rebrand.)
+//
+// Scheduling uses FSRS — the memory-model scheduler modern Anki uses. See
+// ./fsrs.js. Review grades are the four Anki buttons:
+//   1 = "Jeszcze raz" (Again)  — forgot; also re-queued within the session
+//   2 = "Trudne"      (Hard)
+//   3 = "Dobrze"      (Good)
+//   4 = "Łatwe"       (Easy)
 //
 // Schema:
 //   {
-//     starred: {
-//       <slug>: { addedAt: ISO, lessonId?: string }
-//     },
+//     starred: { <slug>: { addedAt: ISO, lessonId?: string } },
 //     srs: {
 //       <slug>: {
-//         ease: 2.5,        // SM-2 ease factor (>=1.3)
-//         interval: 1,       // days until next review
-//         reps: 3,           // successful repetitions in a row
-//         due: "YYYY-MM-DD", // when next review is due
-//         lastReview: ISO    // when last reviewed
+//         stability: number,     // FSRS S (days)
+//         difficulty: number,    // FSRS D (1..10)
+//         reps: number,          // total reviews
+//         lapses: number,        // times answered "Again"
+//         interval: number,      // last scheduled interval (days)
+//         due: "YYYY-MM-DD",      // when next review is due
+//         last_review: ISO|null, // when last reviewed
+//         state: "new"|"review"
 //       }
 //     }
 //   }
 //
-// Review quality scale (passed to reviewSrs):
-//   0 = "Nie wiem"  → reset, treat as new
-//   3 = "Trudne"    → barely passed
-//   4 = "Dobre"     → solid recall
-//   5 = "Łatwe"     → instant recall, larger interval boost
+// Legacy SM-2 entries (ease/interval/reps) are migrated lazily: the first
+// FSRS review of such a word starts it fresh from that grade.
 
-const KEY = 'english365.vocab';
+import { schedule, AGAIN, EASY } from './fsrs.js';
+
+const KEY = 'english360.vocab';
 const CHANGE_EVENT = 'english365-vocab-changed';
 
-const DEFAULT_EASE = 2.5;
-const MIN_EASE = 1.3;
+/** Stability (days) at or above which a word counts as "mastered". */
+const MASTERED_STABILITY = 21;
+const DAY_MS = 86400000;
 
 function isoDate(d = new Date()) {
   const y = d.getFullYear();
@@ -86,14 +96,18 @@ export function star(slug, opts = {}) {
     addedAt: new Date().toISOString(),
     ...(opts.lessonId ? { lessonId: opts.lessonId } : {}),
   };
-  // Initialise SRS state — due immediately so the word enters the next session.
+  // Initialise a fresh FSRS card — due immediately so the word enters the
+  // next session. stability 0 marks it as not-yet-scheduled.
   if (!s.srs[slug]) {
     s.srs[slug] = {
-      ease: DEFAULT_EASE,
-      interval: 0,
+      stability: 0,
+      difficulty: 0,
       reps: 0,
+      lapses: 0,
+      interval: 0,
       due: todayIso(),
-      lastReview: null,
+      last_review: null,
+      state: 'new',
     };
   }
   writeState(s);
@@ -104,7 +118,7 @@ export function unstar(slug) {
   const s = readState();
   if (!s.starred[slug] && !s.srs[slug]) return;
   delete s.starred[slug];
-  // Keep srs state? Better drop it — if the user unstars they meant it.
+  // Drop srs state too — if the user unstars, they meant it.
   delete s.srs[slug];
   writeState(s);
 }
@@ -118,52 +132,47 @@ export function toggleStar(slug, opts = {}) {
   return true;
 }
 
-// ── SRS (SM-2) ─────────────────────────────────────────────────────────────
+// ── SRS (FSRS) ─────────────────────────────────────────────────────────────
 
-/** SM-2 update. Returns the new entry; caller writes it. */
-function nextSrsEntry(prev, quality) {
-  const ease = clampEase(
-    (prev?.ease ?? DEFAULT_EASE) + 0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02),
-  );
-  let reps = prev?.reps ?? 0;
-  let interval;
+function elapsedDaysSince(lastReviewIso) {
+  if (!lastReviewIso) return 0;
+  const then = new Date(lastReviewIso).getTime();
+  if (Number.isNaN(then)) return 0;
+  return Math.max(0, Math.floor((Date.now() - then) / DAY_MS));
+}
 
-  if (quality < 3) {
-    // Failure — back to step 1.
-    reps = 0;
-    interval = 1;
-  } else {
-    reps += 1;
-    if (reps === 1) interval = 1;
-    else if (reps === 2) interval = 6;
-    else interval = Math.max(1, Math.round((prev?.interval ?? 1) * ease));
-  }
+/**
+ * Record a review and reschedule the word with FSRS.
+ * @param slug  dictionary slug.
+ * @param grade 1 Again | 2 Hard | 3 Good | 4 Easy.
+ * @returns the new srs entry, or null on bad input.
+ */
+export function review(slug, grade) {
+  if (!slug) return null;
+  if (![AGAIN, 2, 3, EASY].includes(grade)) return null;
+  const s = readState();
+  const prev = s.srs[slug];
+  // A legacy SM-2 entry (has `ease`, no `stability`) is treated as a first
+  // FSRS review — schedule() re-initialises it from this grade.
+  const fsrsPrev = prev && typeof prev.stability === 'number' && prev.stability > 0 ? prev : null;
+  const res = schedule(fsrsPrev, grade, elapsedDaysSince(prev && prev.last_review));
 
   const due = new Date();
-  due.setDate(due.getDate() + interval);
+  due.setDate(due.getDate() + res.interval);
 
-  return {
-    ease,
-    interval,
-    reps,
+  const entry = {
+    stability: res.stability,
+    difficulty: res.difficulty,
+    reps: res.reps,
+    lapses: res.lapses,
+    interval: res.interval,
     due: isoDate(due),
-    lastReview: new Date().toISOString(),
+    last_review: new Date().toISOString(),
+    state: 'review',
   };
-}
-
-function clampEase(value) {
-  if (Number.isNaN(value)) return MIN_EASE;
-  return Math.max(MIN_EASE, Math.min(3.5, value));
-}
-
-export function review(slug, quality) {
-  if (!slug) return null;
-  if (![0, 3, 4, 5].includes(quality)) return null;
-  const s = readState();
-  const next = nextSrsEntry(s.srs[slug], quality);
-  s.srs[slug] = next;
+  s.srs[slug] = entry;
   writeState(s);
-  return next;
+  return entry;
 }
 
 // ── Queries ────────────────────────────────────────────────────────────────
@@ -192,8 +201,9 @@ export function getCounts(date = todayIso()) {
     starred += 1;
     const e = s.srs[slug];
     if (!e || (e.due && e.due <= date)) due += 1;
-    if (e && (e.reps ?? 0) >= 5) mastered += 1;
-    else if (e && (e.reps ?? 0) > 0) learning += 1;
+    const reviewed = e && (e.reps ?? 0) > 0;
+    if (reviewed && (e.stability ?? 0) >= MASTERED_STABILITY) mastered += 1;
+    else if (reviewed) learning += 1;
   }
   return { starred, due, learning, mastered };
 }

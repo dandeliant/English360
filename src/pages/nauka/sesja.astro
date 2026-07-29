@@ -66,19 +66,19 @@ for (const [slug, entry] of index.entries()) {
         <div class="sesja__examples" data-card-examples></div>
 
         <div class="sesja__rate" role="group" aria-label="Oceń swoją odpowiedź">
-          <button type="button" class="rate rate--fail" data-rate="0">
-            <span class="rate__label">Nie wiem</span>
+          <button type="button" class="rate rate--again" data-rate="1">
+            <span class="rate__label">Jeszcze raz</span>
             <kbd>1</kbd>
           </button>
-          <button type="button" class="rate rate--hard" data-rate="3">
+          <button type="button" class="rate rate--hard" data-rate="2">
             <span class="rate__label">Trudne</span>
             <kbd>2</kbd>
           </button>
-          <button type="button" class="rate rate--good" data-rate="4">
-            <span class="rate__label">Dobre</span>
+          <button type="button" class="rate rate--good" data-rate="3">
+            <span class="rate__label">Dobrze</span>
             <kbd>3</kbd>
           </button>
-          <button type="button" class="rate rate--easy" data-rate="5">
+          <button type="button" class="rate rate--easy" data-rate="4">
             <span class="rate__label">Łatwe</span>
             <kbd>4</kbd>
           </button>
@@ -221,12 +221,19 @@ for (const [slug, entry] of index.entries()) {
       `Przerobiłeś ${reviewed} ${reviewed === 1 ? 'słówko' : reviewed < 5 ? 'słówka' : 'słówek'}. Świetna robota.`;
   }
 
-  function handleRate(quality: number) {
+  function handleRate(grade: number) {
     if (!revealed) return;
     const slug = queue[index];
     if (!slug) return;
-    review(slug, quality);
-    reviewed++;
+    review(slug, grade);
+    if (grade === 1) {
+      // "Jeszcze raz" — bring the word back within this session, a couple of
+      // cards later, so it is practised again before the session ends.
+      const insertAt = Math.min(index + 2, queue.length);
+      queue.splice(insertAt, 0, slug);
+    } else {
+      reviewed++;
+    }
     next();
   }
 
@@ -253,7 +260,7 @@ for (const [slug, entry] of index.entries()) {
         return;
       }
       if (revealed) {
-        const map: Record<string, number> = { '1': 0, '2': 3, '3': 4, '4': 5 };
+        const map: Record<string, number> = { '1': 1, '2': 2, '3': 3, '4': 4 };
         if (map[event.key] !== undefined) {
           event.preventDefault();
           handleRate(map[event.key]);
@@ -466,12 +473,12 @@ for (const [slug, entry] of index.entries()) {
     font-size: var(--text-sm);
   }
 
-  .rate--fail { color: var(--error); border-color: color-mix(in srgb, var(--error) 40%, var(--border)); }
+  .rate--again { color: var(--error); border-color: color-mix(in srgb, var(--error) 40%, var(--border)); }
   .rate--hard { color: #b45309; border-color: color-mix(in srgb, #b45309 40%, var(--border)); }
   .rate--good { color: var(--success); border-color: color-mix(in srgb, var(--success) 40%, var(--border)); }
   .rate--easy { color: var(--accent); border-color: color-mix(in srgb, var(--accent) 40%, var(--border)); }
 
-  .rate--fail:hover { background: var(--error-bg); }
+  .rate--again:hover { background: var(--error-bg); }
   .rate--hard:hover { background: color-mix(in srgb, #b45309 8%, var(--surface)); }
   .rate--good:hover { background: var(--success-bg); }
   .rate--easy:hover { background: color-mix(in srgb, var(--accent) 8%, var(--surface)); }

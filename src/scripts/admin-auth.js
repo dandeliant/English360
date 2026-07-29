@@ -7,7 +7,7 @@
 // can't change anything. This gate just prevents casual visitors from
 // stumbling into the admin form on the deployed site.
 
-const STORAGE_KEY = 'english365.admin_session';
+const STORAGE_KEY = 'english360.admin_session';
 const SESSION_MS = 4 * 60 * 60 * 1000; // 4 hours
 
 const EXPECTED_USERNAME = 'Daniel';

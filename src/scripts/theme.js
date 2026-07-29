@@ -4,7 +4,7 @@
 // BEFORE CSS parses, so there is no flash of incorrect theme. This module
 // only handles user toggling after first paint and keeps button state in sync.
 
-const STORAGE_KEY = 'english365.theme';
+const STORAGE_KEY = 'english360.theme';
 
 export function getTheme() {
   return document.documentElement.dataset.theme === 'dark' ? 'dark' : 'light';

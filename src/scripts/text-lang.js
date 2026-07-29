@@ -2,7 +2,7 @@
 //
 // - State lives on <html data-text-lang="en|pl"> (set early by an inline
 //   script in BaseLayout to avoid flash of wrong language).
-// - Persisted in localStorage as `english365.text_lang`.
+// - Persisted in localStorage as `english360.text_lang`.
 // - CSS in global.css hides the inactive language container based on the
 //   <html> attribute, and hides the main TTS button when PL is active
 //   (English voices read Polish poorly).
@@ -11,7 +11,7 @@
 
 import { cancel as cancelTts } from './tts.js';
 
-const STORAGE_KEY = 'english365.text_lang';
+const STORAGE_KEY = 'english360.text_lang';
 const VALID = new Set(['en', 'pl', 'parallel']);
 
 export function getTextLang() {
