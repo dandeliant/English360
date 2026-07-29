@@ -1,6 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 
-// English 360° — lesson content schema (Zod).
+// English 365 — lesson content schema (Zod).
 //
 // Each lesson is a single JSON file in src/content/lessons/.
 // All level entries (A1..C2) are individually optional so partial

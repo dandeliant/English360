@@ -1,9 +1,9 @@
 {
-  "name": "English 360°",
-  "short_name": "EN 360°",
+  "name": "English 365",
+  "short_name": "EN 365",
   "description": "Codzienna lekcja angielskiego oparta na zdjęciu, na sześciu poziomach CEFR (A1–C2).",
-  "start_url": "/English360/",
-  "scope": "/English360/",
+  "start_url": "/English365/",
+  "scope": "/English365/",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#6a1b9a",
@@ -13,7 +13,7 @@
   "categories": ["education", "books"],
   "icons": [
     {
-      "src": "/English360/icons/icon.svg",
+      "src": "/English365/icons/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

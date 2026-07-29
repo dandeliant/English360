@@ -1,6 +1,6 @@
 // Personal vocab journal + Spaced Repetition (SM-2) state.
 //
-// Everything lives in localStorage under `english360.vocab` so it is
+// Everything lives in localStorage under `english365.vocab` so it is
 // purely client-side — no account, no sync across devices. The state
 // keys words by their dictionary slug (lowercase, alphanumeric), which
 // matches the URL slug on /slownik/<word>.
@@ -27,8 +27,8 @@
 //   4 = "Dobre"     → solid recall
 //   5 = "Łatwe"     → instant recall, larger interval boost
 
-const KEY = 'english360.vocab';
-const CHANGE_EVENT = 'english360-vocab-changed';
+const KEY = 'english365.vocab';
+const CHANGE_EVENT = 'english365-vocab-changed';
 
 const DEFAULT_EASE = 2.5;
 const MIN_EASE = 1.3;

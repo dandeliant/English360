@@ -1,4 +1,4 @@
-// English 360° — service worker.
+// English 365 — service worker.
 //
 // Strategy:
 //   - Precache (install): "/", "/nauka", "/kalendarz", "/slownik" + icon
@@ -10,13 +10,13 @@
 // navigation. Users get updated content silently on the next visit.
 //
 // BASE is derived from the SW's own path so the same file works both in dev
-// (served at /sw.js) and in prod under GitHub Pages (/English360/sw.js).
+// (served at /sw.js) and in prod under GitHub Pages (/English365/sw.js).
 
 // Bump this whenever the shell needs to be invalidated: SW logic change,
 // manifest/icon change, precache list change, or a manual "spring clean".
 // Format: v0.NNN with a leading zero so string comparison stays sane until
 // we ever ship a "real" v1. Increment by 0.001 per bump.
-const VERSION = 'v0.024';
+const VERSION = 'v0.025';
 const PRECACHE = `en360-precache-${VERSION}`;
 const RUNTIME = `en360-runtime-${VERSION}`;
 

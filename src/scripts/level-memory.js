@@ -10,7 +10,7 @@
 //     ...
 //   </article>
 
-const STORAGE_KEY = 'english360.preferred_level';
+const STORAGE_KEY = 'english365.preferred_level';
 const DEFAULT_LEVEL = 'B1';
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 

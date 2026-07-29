@@ -218,8 +218,8 @@ const photoDate = dateMatch
   // Print trigger — kept inline here because it's a one-line concern
   // local to LessonCard. Wired with event delegation so HMR re-renders
   // don't multiply listeners.
-  if (!window.__english360PrintBound) {
-    window.__english360PrintBound = true;
+  if (!window.__english365PrintBound) {
+    window.__english365PrintBound = true;
     document.addEventListener('click', (event) => {
       const btn = event.target.closest && event.target.closest('[data-print-trigger]');
       if (btn) window.print();
