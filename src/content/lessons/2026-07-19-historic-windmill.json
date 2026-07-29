@@ -1,0 +1,209 @@
+{
+  "id": "2026-07-19-historic-windmill",
+  "date_assigned": "2026-07-19",
+  "date_alternatives": [],
+  "title_en": "The Windmill at Dusk",
+  "title_pl": "Wiatrak o zmierzchu",
+  "location": "Masovian Voivodeship, Poland",
+  "image": "/images/2026-07-19-historic-windmill.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["heritage", "countryside", "poland", "mazovia", "windmill", "wooden-architecture", "blue-hour", "history", "folk", "evening"],
+  "themes": ["wooden-heritage", "post-mill-kozlak", "vanishing-countryside", "blue-hour", "preservation"],
+  "did_you_know": {
+    "en": "The windmill in this photograph belongs to a world that has almost disappeared. For several centuries, wooden windmills were one of the most common sights in the Polish countryside: in the nineteenth century there were thousands of them, standing on low hills and open fields wherever there was grain to grind and wind to turn the sails. The classic Polish type is the koźlak, or post mill — one of the oldest windmill designs in Europe, in use here since the late Middle Ages. Its cleverness is hidden in the base: the entire wooden body of the mill, together with its sails and heavy grinding stones, rests on a single massive vertical post, and the miller could rotate the whole building by pushing on a long beam at the back, turning the sails to face the wind whatever direction it came from. In the twentieth century, steam mills, then electric ones, made these wind-powered mills slowly obsolete; wars, fires and simple neglect did the rest. Of the thousands that once turned above the fields, only a few hundred survive today, and many of those have been moved to open-air heritage museums to be protected. A working — or even a well-kept — wooden windmill still standing in the countryside, like this one, is now a genuinely rare thing, and a quiet monument to several hundred years of rural craft.",
+    "pl": "Wiatrak z tego zdjęcia należy do świata, który niemal zniknął. Przez kilka stuleci drewniane wiatraki były jednym z najczęstszych widoków polskiej wsi: w XIX wieku były ich tysiące, stojących na niskich wzgórzach i otwartych polach wszędzie tam, gdzie było ziarno do zmielenia i wiatr, by obracać skrzydła. Klasycznym polskim typem jest koźlak — jeden z najstarszych projektów wiatraka w Europie, używany tutaj od późnego średniowiecza. Jego przemyślność ukryta jest w podstawie: cały drewniany korpus wiatraka, wraz ze skrzydłami i ciężkimi kamieniami młyńskimi, spoczywa na jednym potężnym pionowym słupie, a młynarz mógł obrócić całą budowlę, pchając długą belkę z tyłu, tak by ustawić skrzydła do wiatru, z którejkolwiek strony wiał. W XX wieku młyny parowe, a potem elektryczne, powoli uczyniły te napędzane wiatrem młyny przestarzałymi; wojny, pożary i zwykłe zaniedbanie dokończyły dzieła. Z tysięcy, które niegdyś obracały się nad polami, do dziś przetrwało zaledwie kilkaset, a wiele z nich przeniesiono do skansenów, by je chronić. Zadbany drewniany wiatrak, wciąż stojący na wsi jak ten, jest dziś rzeczą naprawdę rzadką i cichym pomnikiem kilkuset lat wiejskiego rzemiosła."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 360°: zabytkowy drewniany wiatrak na Mazowszu, sfotografowany o niebieskiej godzinie (fot. Daniel Ostrowski). Motyw: znikające dziedzictwo polskiej wsi — koźlak, którego cały korpus obracał się do wiatru, i to, jak niewiele takich wiatraków już zostało. Sześć poziomów (A1–C2). english360",
+    "fb_caption_en": "Today on English 360°: a historic wooden windmill in Mazovia, photographed at the blue hour (photo: Daniel Ostrowski). The theme: the vanishing heritage of the Polish countryside — the koźlak post mill, whose whole body turned to face the wind, and how few of them are left. Six CEFR levels (A1–C2). english360",
+    "hashtags": ["#English360", "#LearnEnglish", "#Poland", "#Windmill", "#Heritage", "#BlueHour", "#Mazovia", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is evening in the countryside. This is Poland. We can see an old windmill. The windmill is made of wood. It is very tall. It has four big arms. Long ago, the wind turned the arms. Under the arms there is a small roof. In the small house there is a warm light. The sky is dark blue with grey clouds. The grass is green. It is a quiet, beautiful place.",
+      "text_pl": "Spójrz na to zdjęcie. Jest wieczór na wsi. To jest Polska. Widzimy stary wiatrak. Wiatrak jest zrobiony z drewna. Jest bardzo wysoki. Ma cztery duże ramiona. Dawno temu wiatr obracał te ramiona. Pod ramionami jest mały dach. W małym domku pali się ciepłe światło. Niebo jest ciemnoniebieskie z szarymi chmurami. Trawa jest zielona. To ciche, piękne miejsce.",
+      "vocab": [
+        { "term": "evening", "ipa_br": "/ˈiːvnɪŋ/", "pl": "wieczór", "new": true },
+        { "term": "windmill", "ipa_br": "/ˈwɪndmɪl/", "pl": "wiatrak", "new": true },
+        { "term": "wood", "ipa_br": "/wʊd/", "pl": "drewno", "new": true },
+        { "term": "tall", "ipa_br": "/tɔːl/", "pl": "wysoki", "new": true },
+        { "term": "arm", "ipa_br": "/ɑːm/", "pl": "ramię", "new": true },
+        { "term": "wind", "ipa_br": "/wɪnd/", "pl": "wiatr", "new": true },
+        { "term": "turn", "ipa_br": "/tɜːn/", "pl": "obracać (się)", "new": true },
+        { "term": "roof", "ipa_br": "/ruːf/", "pl": "dach", "new": true },
+        { "term": "light", "ipa_br": "/laɪt/", "pl": "światło", "new": true },
+        { "term": "grass", "ipa_br": "/ɡrɑːs/", "pl": "trawa", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "wood", "answer": "C" },
+            { "word": "cloud", "answer": "A" },
+            { "word": "light", "answer": "B" },
+            { "word": "tree", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "☁️" },
+            { "label": "B", "text": "💡" },
+            { "label": "C", "text": "🪵" },
+            { "label": "D", "text": "🌳" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows an old wooden windmill in the Polish countryside, in the Masovian region of central Poland. It was taken in the evening, during the 'blue hour', just after the sun went down. The windmill is very tall and completely made of wood. Its four long sails once caught the wind and turned. Inside, heavy round stones turned too, and they ground grain into flour for bread. Windmills like this were once everywhere in Poland. Today only a few of them are left. In the small room at the bottom, a warm light is on. Above, the sky is deep blue with soft grey clouds. It is a calm and simple picture of the old countryside.",
+      "text_pl": "To zdjęcie pokazuje stary drewniany wiatrak na polskiej wsi, w regionie mazowieckim w centralnej Polsce. Zrobiono je wieczorem, podczas „niebieskiej godziny”, tuż po zachodzie słońca. Wiatrak jest bardzo wysoki i w całości zrobiony z drewna. Jego cztery długie skrzydła kiedyś łapały wiatr i się obracały. W środku obracały się też ciężkie, okrągłe kamienie, które mieliły ziarno na mąkę na chleb. Wiatraki takie jak ten były kiedyś w Polsce wszędzie. Dziś zostało ich tylko kilka. W małym pomieszczeniu na dole pali się ciepłe światło. W górze niebo jest głęboko niebieskie z miękkimi, szarymi chmurami. To spokojny i prosty obraz dawnej wsi.",
+      "vocab": [
+        { "term": "wooden", "ipa_br": "/ˈwʊdən/", "pl": "drewniany", "new": true },
+        { "term": "countryside", "ipa_br": "/ˈkʌntrisaɪd/", "pl": "wieś, tereny wiejskie", "new": true },
+        { "term": "sail", "ipa_br": "/seɪl/", "pl": "skrzydło (wiatraka), żagiel", "new": true },
+        { "term": "catch", "ipa_br": "/kætʃ/", "pl": "łapać, chwytać", "new": true },
+        { "term": "stone", "ipa_br": "/stəʊn/", "pl": "kamień", "new": true },
+        { "term": "grind", "ipa_br": "/ɡraɪnd/", "pl": "mleć, mielić", "new": true },
+        { "term": "grain", "ipa_br": "/ɡreɪn/", "pl": "ziarno, zboże", "new": true },
+        { "term": "flour", "ipa_br": "/ˈflaʊə/", "pl": "mąka", "new": true },
+        { "term": "few", "ipa_br": "/fjuː/", "pl": "niewiele, kilka", "new": true },
+        { "term": "calm", "ipa_br": "/kɑːm/", "pl": "spokojny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The windmill is very tall and completely made of ___.", "answer": "wood" },
+            { "sentence": "Its four long ___ once caught the wind and turned.", "answer": "sails" },
+            { "sentence": "Heavy round stones ground grain into ___ for bread.", "answer": "flour" },
+            { "sentence": "The photo was taken during the ___ hour, just after the sun went down.", "answer": "blue" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the nineteenth of July 2026, at dusk, somewhere in the Masovian countryside of central Poland. It shows a historic wooden windmill of a kind that was once common all over the country. The mill stands alone on the grass, its tall body and four long sails dark against a deep blue evening sky full of soft, heavy clouds. At the base, under a small thatched roof, a warm orange light glows in the doorway — the only warm colour in an otherwise cool, blue scene. For hundreds of years, windmills like this ground the grain that fed Polish villages. The wind pushed the sails, the sails turned a shaft, and inside the mill heavy round stones crushed wheat and rye into flour. In the nineteenth century there were thousands of them across the Polish plains. Then came steam and electric mills, and one by one the old wooden windmills fell silent. Today only a few hundred are left, and a well-kept one like this, still standing in an open field, has become a small, quiet monument to a vanished way of life.",
+      "text_pl": "To zdjęcie zostało zrobione dziewiętnastego lipca 2026 roku, o zmierzchu, gdzieś na mazowieckiej wsi w centralnej Polsce. Pokazuje zabytkowy drewniany wiatrak, jakich niegdyś było pełno w całym kraju. Wiatrak stoi samotnie na trawie, jego wysoki korpus i cztery długie skrzydła ciemnieją na tle głęboko niebieskiego, wieczornego nieba pełnego miękkich, ciężkich chmur. U podstawy, pod małym strzechowym daszkiem, w drzwiach żarzy się ciepłe, pomarańczowe światło — jedyna ciepła barwa w chłodnej, niebieskiej scenie. Przez setki lat takie wiatraki mieliły ziarno, które żywiło polskie wsie. Wiatr pchał skrzydła, skrzydła obracały wał, a wewnątrz wiatraka ciężkie, okrągłe kamienie gniotły pszenicę i żyto na mąkę. W XIX wieku było ich na polskich równinach tysiące. Potem przyszły młyny parowe i elektryczne, i jeden po drugim stare drewniane wiatraki milkły. Dziś zostało ich tylko kilkaset, a zadbany egzemplarz jak ten, wciąż stojący na otwartym polu, stał się małym, cichym pomnikiem zaginionego sposobu życia.",
+      "vocab": [
+        { "term": "dusk", "ipa_br": "/dʌsk/", "pl": "zmierzch", "new": true },
+        { "term": "historic", "ipa_br": "/hɪˈstɒrɪk/", "pl": "zabytkowy, historyczny", "new": true },
+        { "term": "alone", "ipa_br": "/əˈləʊn/", "pl": "sam, samotnie", "new": true },
+        { "term": "thatched", "ipa_br": "/θætʃt/", "pl": "kryty strzechą", "new": true },
+        { "term": "doorway", "ipa_br": "/ˈdɔːweɪ/", "pl": "wejście, drzwi", "new": true },
+        { "term": "shaft", "ipa_br": "/ʃɑːft/", "pl": "wał", "new": true },
+        { "term": "crush", "ipa_br": "/krʌʃ/", "pl": "gnieść, kruszyć", "new": true },
+        { "term": "plain", "ipa_br": "/pleɪn/", "pl": "równina", "new": true },
+        { "term": "silent", "ipa_br": "/ˈsaɪlənt/", "pl": "cichy, milczący", "new": true },
+        { "term": "monument", "ipa_br": "/ˈmɒnjumənt/", "pl": "pomnik, zabytek", "new": true },
+        { "term": "vanished", "ipa_br": "/ˈvænɪʃt/", "pl": "zaginiony, znikły", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken at dusk on 19 July 2026, in the Masovian countryside of central Poland.", "answer": true },
+            { "statement": "The warm orange light in the doorway is the only warm colour in an otherwise cool, blue scene.", "answer": true },
+            { "statement": "According to the text, windmills like this were always rare in Poland.", "answer": false },
+            { "statement": "The wind turned the sails, which turned a shaft, and inside the mill heavy stones crushed wheat and rye into flour.", "answer": true },
+            { "statement": "Today, thousands of these wooden windmills are still working across the Polish plains.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "A wooden windmill standing alone in a field is one of those images that feels older than it can explain. This one, photographed at dusk on the nineteenth of July 2026 somewhere in the Masovian countryside, is a good example: a tall, plain tower of dark timber, four bare sails held still against a heavy blue sky, and a single warm light burning in a low doorway at its foot. What the picture does not show is how clever the machine behind that plain face once was. The traditional Polish windmill is the koźlak, or post mill — one of the oldest designs in Europe. Its whole body, sails and grinding stones included, was balanced on a single great vertical post, so that the miller could turn the entire building by leaning on a long beam at the back and swinging the sails round to meet the wind. For centuries these mills ground the flour that fed the countryside, and in the nineteenth century Poland had thousands of them. The arrival of steam and electricity made them slowly useless, and war and neglect thinned their numbers further. Only a few hundred survive now, most of them silent. A windmill like this, still whole and cared for in an open field, is less a working machine than a piece of preserved memory.",
+      "text_pl": "Drewniany wiatrak stojący samotnie na polu to jeden z tych obrazów, które wydają się starsze, niż potrafią to wyjaśnić. Ten, sfotografowany o zmierzchu dziewiętnastego lipca 2026 roku gdzieś na mazowieckiej wsi, jest dobrym przykładem: wysoka, prosta wieża z ciemnego drewna, cztery nagie skrzydła zastygłe na tle ciężkiego, niebieskiego nieba i jedno ciepłe światło palące się w niskich drzwiach u jej stóp. Czego zdjęcie nie pokazuje, to jak przemyślną maszyną była niegdyś ta prosta z pozoru budowla. Tradycyjny polski wiatrak to koźlak — jeden z najstarszych projektów w Europie. Cały jego korpus, wraz ze skrzydłami i kamieniami młyńskimi, wsparty był na jednym wielkim, pionowym słupie, tak że młynarz mógł obrócić całą budowlę, napierając na długą belkę z tyłu i obracając skrzydła ku wiatrowi. Przez stulecia te wiatraki mieliły mąkę, która żywiła wieś, a w XIX wieku Polska miała ich tysiące. Nadejście pary i elektryczności powoli uczyniło je bezużytecznymi, a wojna i zaniedbanie jeszcze przerzedziły ich liczbę. Dziś przetrwało tylko kilkaset, w większości milczących. Wiatrak taki jak ten, wciąż cały i zadbany na otwartym polu, jest mniej działającą maszyną, a bardziej kawałkiem zachowanej pamięci.",
+      "vocab": [
+        { "term": "timber", "ipa_br": "/ˈtɪmbə/", "pl": "drewno (budulcowe)", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "post mill", "ipa_br": "/ˈpəʊst mɪl/", "pl": "koźlak (wiatrak kozłowy)", "new": true },
+        { "term": "balance", "ipa_br": "/ˈbæləns/", "pl": "równoważyć, wspierać", "new": true },
+        { "term": "vertical", "ipa_br": "/ˈvɜːtɪkəl/", "pl": "pionowy", "new": true },
+        { "term": "beam", "ipa_br": "/biːm/", "pl": "belka", "new": true },
+        { "term": "neglect", "ipa_br": "/nɪˈɡlekt/", "pl": "zaniedbanie", "new": true },
+        { "term": "thin", "ipa_br": "/θɪn/", "pl": "przerzedzać", "new": true },
+        { "term": "survive", "ipa_br": "/səˈvaɪv/", "pl": "przetrwać, ocaleć", "new": true },
+        { "term": "preserved", "ipa_br": "/prɪˈzɜːvd/", "pl": "zachowany", "new": true },
+        { "term": "memory", "ipa_br": "/ˈmeməri/", "pl": "pamięć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken at dusk on 19 July 2026 somewhere in the Masovian countryside.", "answer": true },
+            { "statement": "The traditional Polish windmill described in the text is the koźlak, or post mill.", "answer": true },
+            { "statement": "According to the text, only the sails of the mill could be turned, while the body stayed fixed.", "answer": false },
+            { "statement": "The miller could turn the whole building by leaning on a long beam at the back to swing the sails to meet the wind.", "answer": true },
+            { "statement": "The text says steam and electricity made the wooden windmills more useful than before.", "answer": false },
+            { "statement": "The text calls a surviving windmill like this less a working machine than a piece of preserved memory.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a particular melancholy to a piece of technology that has outlived its purpose but not its dignity, and the wooden windmill in this photograph — taken at dusk on the nineteenth of July 2026, somewhere in the Masovian countryside of central Poland — has it in full. The mill is a koźlak, the classic Polish post mill: a tall box of dark timber whose entire body, sails and millstones together, once balanced on a single vertical oak post, so that the miller could rotate the whole structure by hand to catch the wind from any quarter. It is an idea both ancient and ingenious, in continuous use across the Polish plains since the late Middle Ages. In the photograph, though, nothing turns. The four sails are bare frames, held motionless against a bank of heavy blue cloud; the only sign of life is a warm, low light burning in the doorway of the thatched porch at the mill's foot, as if someone had just stepped inside. For most of the last two hundred years, this was among the most ordinary sights in rural Poland — there were once thousands of these mills. Industrial flour, rural depopulation, two world wars and simple time reduced them to a few hundred survivors, many now sheltered in open-air museums. To find one still standing whole in a field, cared for rather than collapsing, is to catch the last of a landscape that is quietly disappearing.",
+      "text_pl": "Jest szczególna melancholia w kawałku techniki, który przeżył swoje przeznaczenie, lecz nie swoją godność, a drewniany wiatrak z tego zdjęcia — zrobionego o zmierzchu dziewiętnastego lipca 2026 roku, gdzieś na mazowieckiej wsi w centralnej Polsce — ma jej pełnię. Wiatrak to koźlak, klasyczny polski wiatrak kozłowy: wysoka skrzynia z ciemnego drewna, której cały korpus, skrzydła i kamienie młyńskie razem, wsparty był niegdyś na jednym pionowym dębowym słupie, tak że młynarz mógł ręcznie obrócić całą budowlę, by łapać wiatr z każdej strony. To pomysł zarazem starożytny i pomysłowy, w ciągłym użyciu na polskich równinach od późnego średniowiecza. Na zdjęciu jednak nic się nie obraca. Cztery skrzydła to nagie ramy, zastygłe na tle ławicy ciężkich, niebieskich chmur; jedynym znakiem życia jest ciepłe, niskie światło palące się w drzwiach strzechowego przedsionka u stóp wiatraka, jak gdyby ktoś właśnie wszedł do środka. Przez większość ostatnich dwustu lat był to jeden z najzwyklejszych widoków polskiej wsi — takich wiatraków były kiedyś tysiące. Przemysłowa mąka, wyludnienie wsi, dwie wojny światowe i zwykły czas sprowadziły je do kilkuset ocalałych, z których wiele znalazło dziś schronienie w skansenach. Znaleźć jeden wciąż stojący w całości na polu, zadbany, a nie walący się, to uchwycić resztkę krajobrazu, który po cichu znika.",
+      "vocab": [
+        { "term": "melancholy", "ipa_br": "/ˈmelənkəli/", "pl": "melancholia", "new": true },
+        { "term": "outlive", "ipa_br": "/ˌaʊtˈlɪv/", "pl": "przeżyć (coś), przetrwać", "new": true },
+        { "term": "dignity", "ipa_br": "/ˈdɪɡnəti/", "pl": "godność", "new": true },
+        { "term": "millstone", "ipa_br": "/ˈmɪlstəʊn/", "pl": "kamień młyński", "new": true },
+        { "term": "oak", "ipa_br": "/əʊk/", "pl": "dąb, dębowy", "new": true },
+        { "term": "ingenious", "ipa_br": "/ɪnˈdʒiːniəs/", "pl": "pomysłowy, przemyślny", "new": true },
+        { "term": "motionless", "ipa_br": "/ˈməʊʃənləs/", "pl": "nieruchomy", "new": true },
+        { "term": "porch", "ipa_br": "/pɔːtʃ/", "pl": "przedsionek, ganek", "new": true },
+        { "term": "depopulation", "ipa_br": "/ˌdiːpɒpjuˈleɪʃən/", "pl": "wyludnienie", "new": true },
+        { "term": "shelter", "ipa_br": "/ˈʃeltə/", "pl": "chronić, dawać schronienie", "new": true },
+        { "term": "collapse", "ipa_br": "/kəˈlæps/", "pl": "walić się, zawalać się", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text opens on the melancholy of a technology that has outlived its purpose but not its dignity.", "answer": true },
+            { "statement": "In the koźlak, the entire body, sails and millstones together, once balanced on a single vertical oak post.", "answer": true },
+            { "statement": "In the photograph, the four sails are turning steadily in a strong wind.", "answer": false },
+            { "statement": "The only sign of life is a warm, low light burning in the doorway of the thatched porch at the mill's foot.", "answer": true },
+            { "statement": "According to the text, wooden windmills have always been rare in rural Poland.", "answer": false },
+            { "statement": "Industrial flour, rural depopulation, two world wars and time reduced the mills to a few hundred survivors.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "Every landscape keeps a few objects that were once utterly ordinary and have become, almost without anyone deciding it, precious. The wooden windmill in this photograph — caught at dusk on the nineteenth of July 2026, somewhere in the Masovian countryside, its exact location deliberately unrecorded at the request of the owner on whose land it now stands — is one of them. Formally it is a koźlak, the Polish post mill: a design in which the entire mill, a tall timber box containing sails, gears and grinding stones, is balanced on one enormous vertical post and can be swung bodily round by a single miller so that its sails always meet the wind. It is among the oldest mechanical structures in Europe still recognisable in the field, and for something like six hundred years it was the beating heart of the rural economy, turning the grain of one harvest into the bread of the following winter. What the photograph records is the long silence after that usefulness ended. The sails hang motionless and bare against a low, weighted sky of deep blue cloud; a single warm lamp glows in the thatched porch, domesticating the great dark machine above it; and the whole scene sits in the held, colourless calm of the blue hour, that brief interval after sunset when the light is even and shadowless and everything looks slightly out of time. Once there were thousands of these mills across Poland; now there are a few hundred, and fewer still that stand whole in the open rather than rescued into a museum. To photograph one, quietly, at dusk, and to withhold its location so that it may be left in peace, is itself a small act of preservation.",
+      "text_pl": "Każdy krajobraz przechowuje kilka przedmiotów, które niegdyś były całkiem zwyczajne, a stały się, niemal bez niczyjej decyzji, cenne. Drewniany wiatrak z tego zdjęcia — uchwycony o zmierzchu dziewiętnastego lipca 2026 roku, gdzieś na mazowieckiej wsi, którego dokładna lokalizacja została celowo nieujawniona na prośbę właściciela, na którego ziemi teraz stoi — jest jednym z nich. Formalnie to koźlak, polski wiatrak kozłowy: konstrukcja, w której cały wiatrak, wysoka drewniana skrzynia mieszcząca skrzydła, przekładnie i kamienie młyńskie, wsparty jest na jednym ogromnym pionowym słupie i może być w całości obrócony przez jednego młynarza, tak by skrzydła zawsze spotykały wiatr. Należy do najstarszych konstrukcji mechanicznych w Europie wciąż rozpoznawalnych w polu, a przez jakieś sześćset lat był bijącym sercem wiejskiej gospodarki, zamieniając ziarno jednych żniw w chleb następnej zimy. To, co zdjęcie rejestruje, to długa cisza po końcu owej użyteczności. Skrzydła zwisają nieruchomo i nago na tle niskiego, przygniecionego nieba z głęboko niebieskich chmur; pojedyncza ciepła lampa jarzy się w strzechowym przedsionku, oswajając wielką, ciemną maszynę nad sobą; a cała scena tkwi w zawieszonym, bezbarwnym spokoju niebieskiej godziny, tej krótkiej chwili po zachodzie słońca, gdy światło jest równe i bezcieniowe, a wszystko wygląda nieco poza czasem. Kiedyś takich wiatraków były w Polsce tysiące; dziś jest ich kilkaset, a jeszcze mniej takich, które stoją w całości pod otwartym niebem, a nie ocalone do muzeum. Sfotografować jeden, po cichu, o zmierzchu, i zataić jego lokalizację, by mógł zostać w spokoju, to samo w sobie mały akt ochrony.",
+      "vocab": [
+        { "term": "utterly", "ipa_br": "/ˈʌtəli/", "pl": "całkowicie, zupełnie", "new": true },
+        { "term": "precious", "ipa_br": "/ˈpreʃəs/", "pl": "cenny", "new": true },
+        { "term": "deliberately", "ipa_br": "/dɪˈlɪbərətli/", "pl": "celowo, świadomie", "new": true },
+        { "term": "gear", "ipa_br": "/ɡɪə/", "pl": "przekładnia, tryb", "new": true },
+        { "term": "harvest", "ipa_br": "/ˈhɑːvɪst/", "pl": "żniwa, zbiory", "new": true },
+        { "term": "weighted", "ipa_br": "/ˈweɪtɪd/", "pl": "obciążony, przygnieciony", "new": true },
+        { "term": "domesticate", "ipa_br": "/dəˈmestɪkeɪt/", "pl": "oswajać", "new": true },
+        { "term": "shadowless", "ipa_br": "/ˈʃædəʊləs/", "pl": "bezcieniowy", "new": true },
+        { "term": "interval", "ipa_br": "/ˈɪntəvəl/", "pl": "przerwa, odstęp", "new": true },
+        { "term": "withhold", "ipa_br": "/wɪðˈhəʊld/", "pl": "zataić, wstrzymać", "new": true },
+        { "term": "preservation", "ipa_br": "/ˌprezəˈveɪʃən/", "pl": "ochrona, zachowanie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text says the windmill's exact location was deliberately unrecorded at the request of the owner on whose land it now stands.", "answer": true },
+            { "statement": "In the koźlak, the entire mill is balanced on one enormous vertical post and can be swung round so its sails always meet the wind.", "answer": true },
+            { "statement": "According to the text, the mill has never had any practical usefulness.", "answer": false },
+            { "statement": "The scene sits in the calm of the blue hour, the brief interval after sunset when the light is even and shadowless.", "answer": true },
+            { "statement": "The text states that most surviving windmills still stand whole in the open rather than being moved into museums.", "answer": false },
+            { "statement": "The closing line frames photographing the mill and withholding its location as a small act of preservation.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
