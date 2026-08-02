@@ -1,0 +1,209 @@
+{
+  "id": "2026-08-01-fighting-poland-emblem",
+  "date_assigned": "2026-08-01",
+  "date_alternatives": [],
+  "title_en": "The Anchor",
+  "title_pl": "Kotwica",
+  "location": "Warsaw Uprising Mound, Warsaw, Poland",
+  "image": "/images/2026-08-01-fighting-poland-emblem.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["history", "warsaw", "poland", "monument", "warsaw-uprising", "kotwica", "memory", "wwii", "resistance", "sunset"],
+  "themes": ["warsaw-uprising", "fighting-poland-symbol", "rubble-mound", "memory-and-materiality", "1-august-1944"],
+  "did_you_know": {
+    "en": "Three separate memories are folded into this one monument. The first is the symbol itself. The 'Kotwica' — Polish for 'anchor' — is not really an anchor at all but a monogram: the letter 'P' set above the letter 'W', standing for 'Polska Walcząca', Fighting Poland. It was chosen in a secret competition in 1942 (the winning design is usually credited to a young scout, Anna Smoleńska, who later died in Auschwitz), and through the years of German occupation it was painted and chalked onto walls all over Warsaw as a small, defiant sign that the nation had not surrendered. The second memory is the event. On the first of August 1944 — the date this photograph was taken, eighty-two years later — the Home Army, the military arm of the Polish underground, began an open uprising to free the city. Expected to last days, the Warsaw Uprising lasted sixty-three, and it ended in defeat: tens of thousands of fighters and as many as two hundred thousand civilians were killed, and afterwards German troops systematically burned and dynamited what remained, leaving most of Warsaw in ruins. The third memory is underfoot. The monument stands on the Warsaw Uprising Mound, an artificial hill in the south of the city, raised over the decades after the war from the rubble of the destroyed capital — so that the emblem of the fight is carried, quite literally, on the broken body of the city it was fought for.",
+    "pl": "W tym jednym pomniku splecione są trzy odrębne pamięci. Pierwsza to sam symbol. „Kotwica” wcale nie jest kotwicą, lecz monogramem: litera „P” ustawiona nad literą „W”, oznaczająca „Polska Walcząca”. Została wybrana w tajnym konkursie w 1942 roku (zwycięski projekt przypisuje się zwykle młodej harcerce, Annie Smoleńskiej, która później zginęła w Auschwitz), a przez lata niemieckiej okupacji malowano ją i kreślono kredą na murach całej Warszawy jako mały, buntowniczy znak, że naród się nie poddał. Druga pamięć to wydarzenie. Pierwszego sierpnia 1944 roku — w dniu, w którym osiemdziesiąt dwa lata później zrobiono to zdjęcie — Armia Krajowa, zbrojne ramię polskiego państwa podziemnego, rozpoczęła otwarte powstanie, by wyzwolić miasto. Spodziewane, że potrwa dni, Powstanie Warszawskie trwało sześćdziesiąt trzy i zakończyło się klęską: zginęły dziesiątki tysięcy powstańców i nawet dwieście tysięcy cywilów, a potem niemieckie oddziały systematycznie paliły i wysadzały to, co pozostało, zostawiając większość Warszawy w gruzach. Trzecia pamięć jest pod stopami. Pomnik stoi na Kopcu Powstania Warszawskiego — sztucznym wzgórzu na południu miasta, usypanym przez dziesięciolecia po wojnie z gruzu zniszczonej stolicy — tak że godło walki niesione jest, całkiem dosłownie, na potrzaskanym ciele miasta, o które walczono."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 365: Pomnik Polski Walczącej — „Kotwica” — na Kopcu Powstania Warszawskiego (fot. Daniel Ostrowski). Data nieprzypadkowa: 1 sierpnia, rocznica wybuchu Powstania Warszawskiego (1944). Motyw: symbol PW „Polska Walcząca”, stalowe pręty jako ruiny i kopiec usypany z gruzu zburzonej stolicy. Sześć poziomów (A1–C2). english365",
+    "fb_caption_en": "Today on English 365: the Monument to Fighting Poland — the 'Kotwica' (Anchor) — on the Warsaw Uprising Mound (photo: Daniel Ostrowski). The date is deliberate: 1 August, the anniversary of the Warsaw Uprising (1944). The theme: the 'PW' emblem of Fighting Poland, steel bars standing for the ruins, and a mound raised from the rubble of the destroyed capital. Six CEFR levels (A1–C2). english365",
+    "hashtags": ["#English365", "#LearnEnglish", "#Warsaw", "#WarsawUprising", "#Kotwica", "#Poland", "#History", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. This is a big metal sign. It stands high against the blue sky. The sun is behind it. The sign is a special Polish symbol. It looks like an anchor. It is a monument in Warsaw, the capital of Poland. It remembers a war a long time ago. It stands on a hill. People come here to remember brave people.",
+      "text_pl": "Spójrz na to zdjęcie. To jest duży metalowy znak. Stoi wysoko na tle niebieskiego nieba. Słońce jest za nim. Ten znak to szczególny polski symbol. Wygląda jak kotwica. To pomnik w Warszawie, stolicy Polski. Upamiętnia wojnę sprzed wielu lat. Stoi na wzgórzu. Ludzie przychodzą tu, by pamiętać o odważnych ludziach.",
+      "vocab": [
+        { "term": "metal", "ipa_br": "/ˈmetəl/", "pl": "metal, metalowy", "new": true },
+        { "term": "sign", "ipa_br": "/saɪn/", "pl": "znak", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": true },
+        { "term": "sun", "ipa_br": "/sʌn/", "pl": "słońce", "new": true },
+        { "term": "symbol", "ipa_br": "/ˈsɪmbəl/", "pl": "symbol", "new": true },
+        { "term": "anchor", "ipa_br": "/ˈæŋkə/", "pl": "kotwica", "new": true },
+        { "term": "monument", "ipa_br": "/ˈmɒnjumənt/", "pl": "pomnik", "new": true },
+        { "term": "war", "ipa_br": "/wɔː/", "pl": "wojna", "new": true },
+        { "term": "hill", "ipa_br": "/hɪl/", "pl": "wzgórze", "new": true },
+        { "term": "remember", "ipa_br": "/rɪˈmembə/", "pl": "pamiętać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "sun", "answer": "C" },
+            { "word": "anchor", "answer": "A" },
+            { "word": "hill", "answer": "D" },
+            { "word": "flag", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "⚓" },
+            { "label": "B", "text": "🇵🇱" },
+            { "label": "C", "text": "☀️" },
+            { "label": "D", "text": "⛰️" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows a monument in Warsaw, the capital of Poland. It is the Monument to Fighting Poland. People often call it 'the Anchor' — in Polish, 'Kotwica'. It is a large metal symbol made from the letters 'P' and 'W' joined together, in the form of an anchor. This was the secret sign of Polish people who fought against the German army in the Second World War. The monument stands on top of a hill. The hill is special: it is made from the broken stones and bricks of Warsaw, the city that was destroyed in the war. The metal bars under the symbol remember that destruction. The sun sets behind it.",
+      "text_pl": "To zdjęcie pokazuje pomnik w Warszawie, stolicy Polski. To Pomnik Polski Walczącej. Ludzie często nazywają go „Kotwicą”. To duży metalowy symbol złożony z liter „P” i „W” połączonych razem, w kształcie kotwicy. Był to tajny znak Polaków, którzy walczyli z niemiecką armią w drugiej wojnie światowej. Pomnik stoi na szczycie wzgórza. Wzgórze jest wyjątkowe: usypano je z potłuczonych kamieni i cegieł Warszawy, miasta, które zostało zniszczone w czasie wojny. Metalowe pręty pod symbolem przypominają o tym zniszczeniu. Słońce zachodzi za nim.",
+      "vocab": [
+        { "term": "capital", "ipa_br": "/ˈkæpɪtəl/", "pl": "stolica", "new": true },
+        { "term": "join", "ipa_br": "/dʒɔɪn/", "pl": "łączyć", "new": true },
+        { "term": "secret", "ipa_br": "/ˈsiːkrət/", "pl": "tajny, sekretny", "new": true },
+        { "term": "fight", "ipa_br": "/faɪt/", "pl": "walczyć", "new": true },
+        { "term": "army", "ipa_br": "/ˈɑːmi/", "pl": "armia, wojsko", "new": true },
+        { "term": "destroy", "ipa_br": "/dɪˈstrɔɪ/", "pl": "niszczyć", "new": true },
+        { "term": "brick", "ipa_br": "/brɪk/", "pl": "cegła", "new": true },
+        { "term": "bar", "ipa_br": "/bɑː/", "pl": "pręt", "new": true },
+        { "term": "shape", "ipa_br": "/ʃeɪp/", "pl": "kształt", "new": true },
+        { "term": "sunset", "ipa_br": "/ˈsʌnset/", "pl": "zachód słońca", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The monument stands in Warsaw, the ___ of Poland.", "answer": "capital" },
+            { "sentence": "People often call the monument the ___.", "answer": "Anchor" },
+            { "sentence": "It was the secret sign of Polish people who fought in the Second World ___.", "answer": "War" },
+            { "sentence": "The hill is made from the broken stones and ___ of Warsaw.", "answer": "bricks" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the first of August 2026, in Warsaw, the capital of Poland — and the date matters. On the first of August 1944, the people of Warsaw rose up against the German army that had occupied their city for almost five years. The Warsaw Uprising, as it is called, was meant to last a few days; it lasted sixty-three. When it ended, the Germans destroyed what was left of the city almost completely. The monument in the photograph remembers all of this. Its main shape is the 'Kotwica', or Anchor — the wartime symbol of 'Fighting Poland', made from the letters 'P' and 'W' combined. It stands on a thicket of steel bars that stand for the ruins of the city. And the whole monument sits on top of an artificial hill, the Warsaw Uprising Mound, which was built, over many years, out of the rubble of the destroyed city itself.",
+      "text_pl": "To zdjęcie zostało zrobione pierwszego sierpnia 2026 roku, w Warszawie, stolicy Polski — i data ma znaczenie. Pierwszego sierpnia 1944 roku mieszkańcy Warszawy powstali przeciwko niemieckiej armii, która okupowała ich miasto od prawie pięciu lat. Powstanie Warszawskie, bo tak się je nazywa, miało trwać kilka dni; trwało sześćdziesiąt trzy. Gdy się skończyło, Niemcy niemal całkowicie zniszczyli to, co zostało z miasta. Pomnik ze zdjęcia upamiętnia to wszystko. Jego główny kształt to „Kotwica” — wojenny symbol „Polski Walczącej”, złożony z połączonych liter „P” i „W”. Stoi na gąszczu stalowych prętów, które symbolizują ruiny miasta. A cały pomnik stoi na szczycie sztucznego wzgórza, Kopca Powstania Warszawskiego, który usypano przez wiele lat z gruzu samego zniszczonego miasta.",
+      "vocab": [
+        { "term": "date", "ipa_br": "/deɪt/", "pl": "data", "new": true },
+        { "term": "occupy", "ipa_br": "/ˈɒkjupaɪ/", "pl": "okupować, zajmować", "new": true },
+        { "term": "uprising", "ipa_br": "/ˈʌpraɪzɪŋ/", "pl": "powstanie", "new": true },
+        { "term": "last", "ipa_br": "/lɑːst/", "pl": "trwać", "new": true },
+        { "term": "combine", "ipa_br": "/kəmˈbaɪn/", "pl": "łączyć, zestawiać", "new": true },
+        { "term": "steel", "ipa_br": "/stiːl/", "pl": "stal", "new": true },
+        { "term": "ruins", "ipa_br": "/ˈruːɪnz/", "pl": "ruiny", "new": true },
+        { "term": "rubble", "ipa_br": "/ˈrʌbəl/", "pl": "gruz", "new": true },
+        { "term": "artificial", "ipa_br": "/ˌɑːtɪˈfɪʃəl/", "pl": "sztuczny", "new": true },
+        { "term": "mound", "ipa_br": "/maʊnd/", "pl": "kopiec, wzniesienie", "new": true },
+        { "term": "wartime", "ipa_br": "/ˈwɔːtaɪm/", "pl": "wojenny, z czasów wojny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 1 August 2026, and the text says the date matters.", "answer": true },
+            { "statement": "The Warsaw Uprising began on 1 August 1944 against the German army occupying the city.", "answer": true },
+            { "statement": "The uprising was meant to last a few days, but it lasted sixty-three.", "answer": true },
+            { "statement": "The 'Kotwica' is made from the letters 'P' and 'W' combined.", "answer": true },
+            { "statement": "According to the text, the mound was built from new bricks brought from other cities.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "Some monuments simply mark a place; a few are made of the very thing they commemorate. The Monument to Fighting Poland, photographed here against a Warsaw sunset on the first of August 2026, is one of the second kind. Its subject is the Warsaw Uprising, the sixty-three-day battle that began on this date in 1944, when the Polish underground Home Army rose against the German occupation. The uprising failed at terrible cost — tens of thousands of fighters and as many as two hundred thousand civilians died — and the Germans then razed most of what remained of the city. The great steel emblem at the top is the 'Kotwica', the Anchor: the letters 'P' and 'W', for 'Polska Walcząca', Fighting Poland, joined into a single mark that resistance members painted on walls across the occupied city. Beneath it, a thicket of raw reinforcing bars stands deliberately for rubble and ruin. And the entire structure crowns the Warsaw Uprising Mound — a hill raised, load by load, from the broken bricks and concrete of the destroyed capital. The city's own remains, in other words, have been lifted up to carry the sign of its resistance.",
+      "text_pl": "Niektóre pomniki po prostu znaczą jakieś miejsce; nieliczne są zrobione z tego samego, co upamiętniają. Pomnik Polski Walczącej, sfotografowany tutaj na tle warszawskiego zachodu słońca pierwszego sierpnia 2026 roku, należy do tych drugich. Jego tematem jest Powstanie Warszawskie, sześćdziesięciotrzydniowa bitwa, która zaczęła się tego dnia w 1944 roku, gdy polska podziemna Armia Krajowa powstała przeciwko niemieckiej okupacji. Powstanie upadło straszliwym kosztem — zginęły dziesiątki tysięcy powstańców i nawet dwieście tysięcy cywilów — a Niemcy zrównali z ziemią większość tego, co pozostało z miasta. Wielkie stalowe godło na szczycie to „Kotwica”: litery „P” i „W”, od „Polska Walcząca”, połączone w jeden znak, który członkowie ruchu oporu malowali na murach całego okupowanego miasta. Pod nim gąszcz surowych prętów zbrojeniowych stoi celowo za gruz i ruinę. A cała konstrukcja wieńczy Kopiec Powstania Warszawskiego — wzgórze usypane, ładunek po ładunku, z potłuczonych cegieł i betonu zniszczonej stolicy. Innymi słowy, własne szczątki miasta zostały wzniesione, by nieść znak jego oporu.",
+      "vocab": [
+        { "term": "commemorate", "ipa_br": "/kəˈmeməreɪt/", "pl": "upamiętniać", "new": true },
+        { "term": "subject", "ipa_br": "/ˈsʌbdʒɪkt/", "pl": "temat", "new": true },
+        { "term": "underground", "ipa_br": "/ˈʌndəɡraʊnd/", "pl": "podziemny, podziemie", "new": true },
+        { "term": "occupation", "ipa_br": "/ˌɒkjuˈpeɪʃən/", "pl": "okupacja", "new": true },
+        { "term": "civilian", "ipa_br": "/sɪˈvɪliən/", "pl": "cywil", "new": true },
+        { "term": "raze", "ipa_br": "/reɪz/", "pl": "zrównać z ziemią", "new": true },
+        { "term": "emblem", "ipa_br": "/ˈembləm/", "pl": "godło, emblemat", "new": true },
+        { "term": "resistance", "ipa_br": "/rɪˈzɪstəns/", "pl": "ruch oporu, opór", "new": true },
+        { "term": "reinforcing bar", "ipa_br": "/ˌriːɪnˈfɔːsɪŋ bɑː/", "pl": "pręt zbrojeniowy", "new": true },
+        { "term": "crown", "ipa_br": "/kraʊn/", "pl": "wieńczyć", "new": true },
+        { "term": "remains", "ipa_br": "/rɪˈmeɪnz/", "pl": "szczątki, pozostałości", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says the monument is one of the few that are made of the very thing they commemorate.", "answer": true },
+            { "statement": "The Warsaw Uprising began on 1 August 1944 and was led by the Polish underground Home Army.", "answer": true },
+            { "statement": "According to the text, the uprising succeeded with very few losses.", "answer": false },
+            { "statement": "The 'Kotwica' joins the letters 'P' and 'W', for 'Polska Walcząca', Fighting Poland.", "answer": true },
+            { "statement": "The thicket of raw reinforcing bars beneath the emblem stands deliberately for rubble and ruin.", "answer": true },
+            { "statement": "The Warsaw Uprising Mound was raised from the broken bricks and concrete of the destroyed capital.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There are places where history is not described but physically present, and the summit of the Warsaw Uprising Mound is one of them. This photograph, made against a low sun on the first of August 2026 — the eighty-second anniversary of the day the Warsaw Uprising began — looks up at the Monument to Fighting Poland, silhouetted and gleaming at once. The great form at the top is the 'Kotwica', the Anchor: a graphic sign, devised in 1942, in which the letter 'P' rides above a 'W' to spell 'Polska Walcząca', Fighting Poland. Scrawled in chalk and paint on walls throughout the occupied city, it became the single most recognisable emblem of Polish resistance. Here it is rendered in polished steel and set on a dense stand of exposed reinforcing bars — the skeletal steel of destroyed buildings — so that the symbol of defiance rises directly out of an image of ruin. And ruin is not only depicted but underfoot: the mound itself was heaped up, across the post-war decades, from the rubble of a city that had been deliberately reduced to fragments. To stand here is to stand on the physical remains of Warsaw, beneath the sign under which it fought.",
+      "text_pl": "Są miejsca, w których historia nie jest opisana, lecz fizycznie obecna, a szczyt Kopca Powstania Warszawskiego jest jednym z nich. To zdjęcie, zrobione pod niskim słońcem pierwszego sierpnia 2026 roku — w osiemdziesiątą drugą rocznicę dnia, w którym wybuchło Powstanie Warszawskie — patrzy w górę na Pomnik Polski Walczącej, zarazem osylwetkowany i lśniący. Wielki kształt na szczycie to „Kotwica”: graficzny znak, zaprojektowany w 1942 roku, w którym litera „P” wznosi się nad „W”, by złożyć się na „Polska Walcząca”. Kreślona kredą i farbą na murach całego okupowanego miasta, stała się najbardziej rozpoznawalnym godłem polskiego oporu. Tutaj oddana jest w polerowanej stali i osadzona na gęstym zespole odsłoniętych prętów zbrojeniowych — szkieletowej stali zniszczonych budynków — tak że symbol nieugiętości wznosi się wprost z obrazu ruiny. A ruina jest nie tylko przedstawiona, lecz i pod stopami: sam kopiec usypano przez powojenne dziesięciolecia z gruzu miasta, które celowo obrócono w drobne kawałki. Stać tutaj to stać na fizycznych szczątkach Warszawy, pod znakiem, pod którym walczyła.",
+      "vocab": [
+        { "term": "summit", "ipa_br": "/ˈsʌmɪt/", "pl": "szczyt", "new": true },
+        { "term": "silhouetted", "ipa_br": "/ˌsɪluˈetɪd/", "pl": "osylwetkowany, w kontrze", "new": true },
+        { "term": "gleaming", "ipa_br": "/ˈɡliːmɪŋ/", "pl": "lśniący", "new": true },
+        { "term": "devise", "ipa_br": "/dɪˈvaɪz/", "pl": "zaprojektować, obmyślić", "new": true },
+        { "term": "scrawl", "ipa_br": "/skrɔːl/", "pl": "kreślić, bazgrać", "new": true },
+        { "term": "occupied", "ipa_br": "/ˈɒkjupaɪd/", "pl": "okupowany", "new": true },
+        { "term": "recognisable", "ipa_br": "/ˈrekəɡnaɪzəbəl/", "pl": "rozpoznawalny", "new": true },
+        { "term": "rendered", "ipa_br": "/ˈrendəd/", "pl": "oddany, przedstawiony", "new": true },
+        { "term": "exposed", "ipa_br": "/ɪkˈspəʊzd/", "pl": "odsłonięty", "new": true },
+        { "term": "defiance", "ipa_br": "/dɪˈfaɪəns/", "pl": "nieugiętość, bunt, opór", "new": true },
+        { "term": "heap", "ipa_br": "/hiːp/", "pl": "usypywać, gromadzić", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text calls the summit of the Warsaw Uprising Mound a place where history is physically present, not merely described.", "answer": true },
+            { "statement": "The photograph marks the eighty-second anniversary of the day the Warsaw Uprising began.", "answer": true },
+            { "statement": "In the 'Kotwica', the letter 'P' rides above a 'W' to spell 'Polska Walcząca', Fighting Poland.", "answer": true },
+            { "statement": "According to the text, the emblem was a little-known sign that almost no one recognised.", "answer": false },
+            { "statement": "The reinforcing bars are described as the skeletal steel of destroyed buildings.", "answer": true },
+            { "statement": "The mound was heaped up from the rubble of a city deliberately reduced to fragments.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is a particular power in a monument built from the substance of the event it commemorates, and the Monument to Fighting Poland — caught here against a sinking sun on the first of August 2026, the eighty-second anniversary of the Warsaw Uprising — is among the most complete examples of it. The date is exact: it was at five o'clock on the afternoon of the first of August 1944 that the Home Army, the armed wing of the Polish underground state, launched an open revolt against the German forces occupying Warsaw. Planned as a rising of days, it held for sixty-three, and its defeat was catastrophic — the greater part of the civilian population killed or expelled, tens of thousands of insurgents dead, and, in the months that followed, a methodical German demolition that left perhaps eighty-five per cent of the city in ruins. The sculpture answers all of this in a single, legible image. Its crowning form is the 'Kotwica' — the anchor-shaped monogram of 'P' over 'W', for 'Polska Walcząca', Fighting Poland, a wartime sign of resistance now cast at monumental scale in gleaming steel. It stands on a bristling field of raw reinforcing rods, the bared bones of bombed buildings; and the whole assembly is set upon the Warsaw Uprising Mound, an artificial hill accreted, decade by decade, from the pulverised brick and stone of the destroyed capital. The result is a memorial with almost no separation between symbol and evidence: the emblem of the fight lifted up on, and made of, the wreckage of the city that fought.",
+      "text_pl": "Jest szczególna siła w pomniku zbudowanym z substancji wydarzenia, które upamiętnia, a Pomnik Polski Walczącej — uchwycony tutaj na tle zachodzącego słońca pierwszego sierpnia 2026 roku, w osiemdziesiątą drugą rocznicę Powstania Warszawskiego — należy do najpełniejszych tego przykładów. Data jest dokładna: to o piątej po południu pierwszego sierpnia 1944 roku Armia Krajowa, zbrojne ramię polskiego państwa podziemnego, rozpoczęła otwarty zryw przeciwko niemieckim siłom okupującym Warszawę. Zaplanowane jako powstanie na dni, trwało sześćdziesiąt trzy, a jego klęska była katastrofalna — większość ludności cywilnej zabita lub wypędzona, dziesiątki tysięcy powstańców poległych, a w kolejnych miesiącach metodyczne niemieckie wyburzanie, które zostawiło może osiemdziesiąt pięć procent miasta w gruzach. Rzeźba odpowiada na to wszystko jednym, czytelnym obrazem. Jej wieńczącym kształtem jest „Kotwica” — monogram w kształcie kotwicy, „P” nad „W”, od „Polska Walcząca”, wojenny znak oporu, dziś odlany w monumentalnej skali z lśniącej stali. Stoi na najeżonym polu surowych prętów zbrojeniowych, obnażonych kościach zbombardowanych budynków; a całość osadzona jest na Kopcu Powstania Warszawskiego, sztucznym wzgórzu narastającym, dekada po dekadzie, ze sproszkowanej cegły i kamienia zniszczonej stolicy. Rezultatem jest pomnik niemal bez rozdziału między symbolem a dowodem: godło walki wzniesione na — i zrobione z — gruzowisku miasta, które walczyło.",
+      "vocab": [
+        { "term": "substance", "ipa_br": "/ˈsʌbstəns/", "pl": "substancja, tworzywo", "new": true },
+        { "term": "revolt", "ipa_br": "/rɪˈvəʊlt/", "pl": "zryw, bunt", "new": true },
+        { "term": "catastrophic", "ipa_br": "/ˌkætəˈstrɒfɪk/", "pl": "katastrofalny", "new": true },
+        { "term": "expel", "ipa_br": "/ɪkˈspel/", "pl": "wypędzać, wysiedlać", "new": true },
+        { "term": "insurgent", "ipa_br": "/ɪnˈsɜːdʒənt/", "pl": "powstaniec", "new": true },
+        { "term": "methodical", "ipa_br": "/məˈθɒdɪkəl/", "pl": "metodyczny, systematyczny", "new": true },
+        { "term": "demolition", "ipa_br": "/ˌdeməˈlɪʃən/", "pl": "wyburzanie, rozbiórka", "new": true },
+        { "term": "legible", "ipa_br": "/ˈledʒɪbəl/", "pl": "czytelny", "new": true },
+        { "term": "monogram", "ipa_br": "/ˈmɒnəɡræm/", "pl": "monogram", "new": true },
+        { "term": "accrete", "ipa_br": "/əˈkriːt/", "pl": "narastać", "new": true },
+        { "term": "pulverise", "ipa_br": "/ˈpʌlvəraɪz/", "pl": "proszkować, kruszyć na pył", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text notes the exact time — five o'clock in the afternoon of 1 August 1944 — that the Home Army launched the revolt.", "answer": true },
+            { "statement": "The uprising was planned to last months and, according to the text, ended in a clear victory.", "answer": false },
+            { "statement": "The 'Kotwica' is described as an anchor-shaped monogram of 'P' over 'W', for 'Polska Walcząca'.", "answer": true },
+            { "statement": "The reinforcing rods beneath the emblem are described as the bared bones of bombed buildings.", "answer": true },
+            { "statement": "The Warsaw Uprising Mound is an artificial hill accreted from the pulverised brick and stone of the destroyed capital.", "answer": true },
+            { "statement": "The text concludes that there is a sharp separation between the symbol and the evidence in this memorial.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
