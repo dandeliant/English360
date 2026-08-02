@@ -1,0 +1,209 @@
+{
+  "id": "2026-07-29-fullmoon-krynka",
+  "date_assigned": "2026-07-29",
+  "date_alternatives": [],
+  "title_en": "A Face, or a Rabbit",
+  "title_pl": "Twarz albo królik",
+  "location": "Krynka, Łuków County, Lublin Voivodeship, Poland",
+  "image": "/images/2026-07-29-fullmoon-krynka.jpg",
+  "image_orientation": "square",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["moon", "astronomy", "night", "poland", "lublin", "maria", "full-moon", "science", "space", "pareidolia"],
+  "themes": ["lunar-maria", "basalt-plains", "tidal-locking", "man-in-the-moon", "moon-rabbit"],
+  "did_you_know": {
+    "en": "The dark patches that make the Moon's 'face' have a surprising history. They are called maria — Latin for 'seas' — because the astronomers who named them in the seventeenth century wondered whether they were bodies of water. They are not: each is a plain of basalt, a dark volcanic rock. Between about three and four billion years ago, huge asteroids struck the young Moon and blasted out enormous basins; long afterwards, molten lava seeped up from inside and flooded them, then cooled into these flat, dark sheets. Basalt reflects less light than the pale, mountainous highlands around it, which is why the maria look grey against the brighter crust. Two things make this pattern feel eternal. Almost all the maria lie on the side of the Moon that faces us — the far side has hardly any — and the Moon is 'tidally locked', spinning exactly once for each trip around the Earth, so it always shows us the same hemisphere. The result is that every person who has ever lived has seen the identical arrangement of light and dark — and, being human, has tried to read a picture in it. In Europe the favourite reading is a face, the 'Man in the Moon'; across China, Japan and Korea it is a rabbit, often shown pounding rice or the elixir of life. And there is a final twist: those 'seas' are solid ground. In July 1969, the first astronauts to land on the Moon set down on one of them, the Sea of Tranquility — so the dark shape people had gazed at for thousands of years turned out to be a place you could actually stand.",
+    "pl": "Ciemne plamy tworzące „twarz” Księżyca mają zaskakującą historię. Nazywa się je maria — po łacinie „morza” — ponieważ astronomowie, którzy nazwali je w XVII wieku, zastanawiali się, czy nie są zbiornikami wody. Nie są: każde to równina bazaltu, ciemnej skały wulkanicznej. Między mniej więcej trzema a czterema miliardami lat temu ogromne planetoidy uderzyły w młody Księżyc i wybiły w nim wielkie baseny; długo później stopiona lawa przesączyła się z wnętrza i zalała je, a potem ostygła w te płaskie, ciemne arkusze. Bazalt odbija mniej światła niż jasne, górzyste wyżyny wokół niego — dlatego maria wyglądają na szare na tle jaśniejszej skorupy. Dwie rzeczy sprawiają, że ten wzór wydaje się wieczny. Niemal wszystkie maria leżą po tej stronie Księżyca, która jest zwrócona ku nam — druga strona nie ma ich prawie wcale — a Księżyc jest „związany pływowo”, obracając się dokładnie raz na każde okrążenie Ziemi, więc zawsze pokazuje nam tę samą półkulę. W rezultacie każdy człowiek, który kiedykolwiek żył, widział identyczny układ światła i cienia — i, będąc człowiekiem, próbował odczytać w nim jakiś obraz. W Europie ulubionym odczytem jest twarz, „człowiek na Księżycu”; w Chinach, Japonii i Korei — królik, często przedstawiany, jak ubija ryż lub eliksir życia. I na koniec niespodzianka: te „morza” to twardy grunt. W lipcu 1969 roku pierwsi astronauci, którzy wylądowali na Księżycu, osiedli na jednym z nich, Morzu Spokoju — więc ciemny kształt, w który ludzie wpatrywali się od tysięcy lat, okazał się miejscem, na którym naprawdę można stanąć."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 365: pełnia Księżyca sfotografowana w Krynce na Lubelszczyźnie (fot. Daniel Ostrowski). Motyw: ciemne plamy to morza księżycowe (maria) — równiny zastygłej bazaltowej lawy; zawsze widzimy tę samą stronę, więc jedni widzą w niej twarz, a inni królika. Sześć poziomów (A1–C2). english365",
+    "fb_caption_en": "Today on English 365: the full Moon photographed from Krynka in eastern Poland (photo: Daniel Ostrowski). The theme: the dark patches are the lunar seas (maria) — plains of solidified basaltic lava; we always see the same side, so some read a face into it and others a rabbit. Six CEFR levels (A1–C2). english365",
+    "hashtags": ["#English365", "#LearnEnglish", "#Moon", "#Astronomy", "#Maria", "#Poland", "#Science", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. This is the Moon. It is a full moon. The Moon is round and grey. It is night. The sky is black. On the Moon we can see dark spots. The dark spots are very old and flat. Many people look at the Moon. Some people see a face in it. Other people see a rabbit! What can you see?",
+      "text_pl": "Spójrz na to zdjęcie. To jest Księżyc. To pełnia. Księżyc jest okrągły i szary. Jest noc. Niebo jest czarne. Na Księżycu widzimy ciemne plamy. Ciemne plamy są bardzo stare i płaskie. Wielu ludzi patrzy na Księżyc. Niektórzy widzą w nim twarz. Inni widzą królika! A ty co widzisz?",
+      "vocab": [
+        { "term": "moon", "ipa_br": "/muːn/", "pl": "księżyc", "new": true },
+        { "term": "full", "ipa_br": "/fʊl/", "pl": "pełny (pełnia)", "new": true },
+        { "term": "round", "ipa_br": "/raʊnd/", "pl": "okrągły", "new": true },
+        { "term": "grey", "ipa_br": "/ɡreɪ/", "pl": "szary", "new": true },
+        { "term": "night", "ipa_br": "/naɪt/", "pl": "noc", "new": true },
+        { "term": "black", "ipa_br": "/blæk/", "pl": "czarny", "new": true },
+        { "term": "dark", "ipa_br": "/dɑːk/", "pl": "ciemny", "new": true },
+        { "term": "spot", "ipa_br": "/spɒt/", "pl": "plama, kropka", "new": true },
+        { "term": "face", "ipa_br": "/feɪs/", "pl": "twarz", "new": true },
+        { "term": "rabbit", "ipa_br": "/ˈræbɪt/", "pl": "królik", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "moon", "answer": "C" },
+            { "word": "face", "answer": "A" },
+            { "word": "rabbit", "answer": "D" },
+            { "word": "night", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🙂" },
+            { "label": "B", "text": "🌙" },
+            { "label": "C", "text": "🌕" },
+            { "label": "D", "text": "🐰" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows the full Moon on a clear July night, taken from the village of Krynka in eastern Poland. The Moon looks round, bright and grey. Look carefully and you will see darker patches on it. These dark areas are called 'seas', or in Latin 'maria' — but there is no water in them at all. Long, long ago, hot liquid rock came up from inside the Moon and filled huge flat spaces. Then it grew cold and hard and dark. Together, these dark patches make a pattern. For thousands of years, people have looked at this pattern and seen a picture in it. In Europe, many people see a face — the 'Man in the Moon'. In China and Japan, people often see a rabbit.",
+      "text_pl": "To zdjęcie pokazuje pełnię Księżyca w pogodną, lipcową noc, zrobione we wsi Krynka we wschodniej Polsce. Księżyc wygląda na okrągły, jasny i szary. Przyjrzyj się uważnie, a zobaczysz na nim ciemniejsze plamy. Te ciemne obszary nazywa się „morzami”, po łacinie „maria” — ale nie ma w nich wcale wody. Dawno, dawno temu gorąca, płynna skała wydostała się z wnętrza Księżyca i wypełniła ogromne, płaskie przestrzenie. Potem stała się zimna, twarda i ciemna. Razem te ciemne plamy tworzą wzór. Od tysięcy lat ludzie patrzą na ten wzór i widzą w nim obraz. W Europie wielu ludzi widzi twarz — „człowieka na Księżycu”. W Chinach i Japonii ludzie często widzą królika.",
+      "vocab": [
+        { "term": "clear", "ipa_br": "/klɪə/", "pl": "pogodny, czysty", "new": true },
+        { "term": "bright", "ipa_br": "/braɪt/", "pl": "jasny", "new": true },
+        { "term": "patch", "ipa_br": "/pætʃ/", "pl": "plama, łata", "new": true },
+        { "term": "sea", "ipa_br": "/siː/", "pl": "morze", "new": true },
+        { "term": "water", "ipa_br": "/ˈwɔːtə/", "pl": "woda", "new": true },
+        { "term": "liquid", "ipa_br": "/ˈlɪkwɪd/", "pl": "płynny, ciecz", "new": true },
+        { "term": "rock", "ipa_br": "/rɒk/", "pl": "skała", "new": true },
+        { "term": "fill", "ipa_br": "/fɪl/", "pl": "wypełniać", "new": true },
+        { "term": "pattern", "ipa_br": "/ˈpætən/", "pl": "wzór", "new": true },
+        { "term": "cold", "ipa_br": "/kəʊld/", "pl": "zimny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The photo was taken from the village of ___ in eastern Poland.", "answer": "Krynka" },
+            { "sentence": "The dark areas are called 'seas', or in Latin '___'.", "answer": "maria" },
+            { "sentence": "There is no ___ in the lunar seas at all.", "answer": "water" },
+            { "sentence": "In China and Japan, people often see a ___ in the Moon.", "answer": "rabbit" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph of the full Moon was taken on the night of the twenty-ninth of July 2026, from the village of Krynka in eastern Poland. On the bright grey disc you can clearly see several large, darker patches. These are the lunar 'seas', known by their Latin name, 'maria'. The name is misleading: there has never been any water in them. They are, in fact, vast plains of dark volcanic rock. Billions of years ago, giant space rocks smashed into the young Moon and left enormous craters; later, dark lava rose from below and flooded those craters, then cooled into the flat basalt we see today. Because the Moon always keeps the same side turned towards us, this pattern of dark seas never changes. Every human being who has ever lived has seen exactly the same face of the Moon — which is why, all over the world, people have found familiar shapes in it. Many Europeans see a face; across much of Asia, people see a rabbit.",
+      "text_pl": "To zdjęcie pełni Księżyca zostało zrobione w nocy dwudziestego dziewiątego lipca 2026 roku, we wsi Krynka we wschodniej Polsce. Na jasnoszarej tarczy wyraźnie widać kilka dużych, ciemniejszych plam. To księżycowe „morza”, znane pod łacińską nazwą „maria”. Nazwa jest myląca: nigdy nie było w nich żadnej wody. W rzeczywistości są to rozległe równiny ciemnej skały wulkanicznej. Miliardy lat temu wielkie kosmiczne skały uderzyły w młody Księżyc i zostawiły ogromne kratery; później ciemna lawa wzniosła się z dołu i zalała te kratery, a potem ostygła w płaski bazalt, który widzimy dziś. Ponieważ Księżyc zawsze zwraca ku nam tę samą stronę, ten wzór ciemnych mórz nigdy się nie zmienia. Każdy człowiek, który kiedykolwiek żył, widział dokładnie to samo oblicze Księżyca — i dlatego na całym świecie ludzie odnajdywali w nim znajome kształty. Wielu Europejczyków widzi twarz; na dużej części Azji ludzie widzą królika.",
+      "vocab": [
+        { "term": "disc", "ipa_br": "/dɪsk/", "pl": "tarcza, krążek", "new": true },
+        { "term": "misleading", "ipa_br": "/ˌmɪsˈliːdɪŋ/", "pl": "mylący", "new": true },
+        { "term": "plain", "ipa_br": "/pleɪn/", "pl": "równina", "new": true },
+        { "term": "volcanic", "ipa_br": "/vɒlˈkænɪk/", "pl": "wulkaniczny", "new": true },
+        { "term": "crater", "ipa_br": "/ˈkreɪtə/", "pl": "krater", "new": true },
+        { "term": "lava", "ipa_br": "/ˈlɑːvə/", "pl": "lawa", "new": true },
+        { "term": "flood", "ipa_br": "/flʌd/", "pl": "zalewać, zatapiać", "new": true },
+        { "term": "basalt", "ipa_br": "/ˈbæsɔːlt/", "pl": "bazalt", "new": true },
+        { "term": "cool", "ipa_br": "/kuːl/", "pl": "stygnąć, chłodzić", "new": true },
+        { "term": "familiar", "ipa_br": "/fəˈmɪliə/", "pl": "znajomy", "new": true },
+        { "term": "shape", "ipa_br": "/ʃeɪp/", "pl": "kształt", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on the night of 29 July 2026 from the village of Krynka in eastern Poland.", "answer": true },
+            { "statement": "The lunar 'seas' (maria) are full of water.", "answer": false },
+            { "statement": "The maria are vast plains of dark volcanic rock that formed when lava flooded ancient craters and cooled.", "answer": true },
+            { "statement": "Because the Moon always keeps the same side turned towards us, the pattern of dark seas never changes.", "answer": true },
+            { "statement": "According to the text, only Europeans have ever found a shape in the Moon's pattern.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "The full Moon in this photograph, taken from the village of Krynka in eastern Poland on the twenty-ninth of July 2026, is a surface most of us know by heart without ever having thought about why. The pale ground is the Moon's ancient highland crust; the darker blotches spread across it are the 'maria', or 'seas' — a hopeful name given by early astronomers who wondered whether they might be water. They are nothing of the kind. Each mare is a plain of solidified basalt, a dark volcanic rock, formed when molten lava welled up more than three billion years ago and filled the giant basins left by early asteroid impacts. Basalt is darker than the surrounding highlands, which is why the seas stand out. And because the Moon is 'tidally locked' — it turns once on its axis in exactly the time it takes to orbit the Earth — it always shows us the same hemisphere. The pattern is therefore fixed and shared: every culture has looked up at these identical markings and read something into them. Western tradition sees a face, the 'Man in the Moon'; much of East Asia sees a rabbit. And on one of these dark plains, the Sea of Tranquility, human beings first walked, in 1969.",
+      "text_pl": "Pełnia Księżyca z tego zdjęcia, zrobionego we wsi Krynka we wschodniej Polsce dwudziestego dziewiątego lipca 2026 roku, to powierzchnia, którą większość z nas zna na pamięć, nigdy nie zastanawiając się dlaczego. Jasne podłoże to prastara wyżynna skorupa Księżyca; ciemniejsze plamy rozlane po niej to „maria”, czyli „morza” — pełna nadziei nazwa nadana przez wczesnych astronomów, którzy zastanawiali się, czy nie są wodą. Nie są niczym takim. Każde mare to równina zastygłego bazaltu, ciemnej skały wulkanicznej, powstała, gdy stopiona lawa wezbrała ponad trzy miliardy lat temu i wypełniła ogromne baseny pozostawione przez dawne uderzenia planetoid. Bazalt jest ciemniejszy od otaczających wyżyn — dlatego morza się wyróżniają. A ponieważ Księżyc jest „związany pływowo” — obraca się wokół osi dokładnie w czasie, w jakim okrąża Ziemię — zawsze pokazuje nam tę samą półkulę. Wzór jest więc utrwalony i wspólny: każda kultura patrzyła w górę na te identyczne znamiona i coś w nie wczytywała. Tradycja zachodnia widzi twarz, „człowieka na Księżycu”; duża część Azji Wschodniej widzi królika. A na jednej z tych ciemnych równin, Morzu Spokoju, ludzie stanęli po raz pierwszy w 1969 roku.",
+      "vocab": [
+        { "term": "crust", "ipa_br": "/krʌst/", "pl": "skorupa", "new": true },
+        { "term": "blotch", "ipa_br": "/blɒtʃ/", "pl": "plama, kleks", "new": true },
+        { "term": "astronomer", "ipa_br": "/əˈstrɒnəmə/", "pl": "astronom", "new": true },
+        { "term": "solidified", "ipa_br": "/səˈlɪdɪfaɪd/", "pl": "zastygły, stwardniały", "new": true },
+        { "term": "molten", "ipa_br": "/ˈməʊltən/", "pl": "stopiony, roztopiony", "new": true },
+        { "term": "well up", "ipa_br": "/wel ʌp/", "pl": "wzbierać, wypływać", "new": true },
+        { "term": "basin", "ipa_br": "/ˈbeɪsən/", "pl": "basen, niecka", "new": true },
+        { "term": "asteroid", "ipa_br": "/ˈæstərɔɪd/", "pl": "planetoida, asteroida", "new": true },
+        { "term": "tidally locked", "ipa_br": "/ˈtaɪdəli lɒkt/", "pl": "związany pływowo", "new": true },
+        { "term": "hemisphere", "ipa_br": "/ˈhemɪsfɪə/", "pl": "półkula", "new": true },
+        { "term": "tradition", "ipa_br": "/trəˈdɪʃən/", "pl": "tradycja", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The pale ground of the Moon is its ancient highland crust, and the darker blotches are the 'maria'.", "answer": true },
+            { "statement": "Each mare is a plain of solidified basalt formed when molten lava filled giant impact basins.", "answer": true },
+            { "statement": "According to the text, basalt is lighter than the surrounding highlands.", "answer": false },
+            { "statement": "The Moon is tidally locked, turning once on its axis in exactly the time it takes to orbit the Earth.", "answer": true },
+            { "statement": "Western tradition sees a rabbit, while East Asia sees a face.", "answer": false },
+            { "statement": "Human beings first walked on the Sea of Tranquility in 1969.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "There is a quiet strangeness in the fact that the face of the full Moon — this one photographed from the village of Krynka in eastern Poland on the twenty-ninth of July 2026 — is a picture that has never changed in all of human history. The bright, cratered background is the Moon's original crust, nearly as old as the Solar System. The dark shapes laid across it are the 'maria', the 'seas': not water, but sheets of frozen basalt, poured out as lava between roughly three and four billion years ago to flood the vast craters gouged by early impacts. Two things make them a permanent portrait. First, they are almost all on the side that faces us — the far side, for reasons still debated, has very few — so the near side carries a distinctive, lopsided design. Second, the Moon is tidally locked to the Earth, rotating once for every orbit, so that same design is turned towards us forever. Given an unchanging pattern of light and dark, the human mind does what it always does: it finds a figure. Europeans have long seen a man's face; Chinese, Japanese and Korean traditions see a rabbit, sometimes pounding rice or the elixir of immortality. It is worth remembering, looking at those dark plains, that they are not only mythology's canvas but real ground: in July 1969, the first people to leave the Earth set their feet on one of them.",
+      "text_pl": "Jest cicha dziwność w tym, że oblicze pełni Księżyca — to sfotografowane we wsi Krynka we wschodniej Polsce dwudziestego dziewiątego lipca 2026 roku — jest obrazem, który nie zmienił się przez całą ludzką historię. Jasne, pokryte kraterami tło to pierwotna skorupa Księżyca, niemal tak stara jak Układ Słoneczny. Ciemne kształty rozłożone na niej to „maria”, „morza”: nie woda, lecz arkusze zamarzniętego bazaltu, wylane jako lawa między mniej więcej trzema a czterema miliardami lat temu, by zalać rozległe kratery wyżłobione przez dawne uderzenia. Dwie rzeczy czynią z nich trwały portret. Po pierwsze, niemal wszystkie są po stronie zwróconej ku nam — druga strona, z powodów wciąż spornych, ma ich bardzo niewiele — więc bliska strona nosi charakterystyczny, niesymetryczny wzór. Po drugie, Księżyc jest związany pływowo z Ziemią, obracając się raz na każde okrążenie, tak że ten sam wzór jest zwrócony ku nam na zawsze. Wobec niezmiennego układu światła i cienia ludzki umysł robi to, co zawsze: znajduje postać. Europejczycy od dawna widzą męską twarz; tradycje chińska, japońska i koreańska widzą królika, czasem ubijającego ryż lub eliksir nieśmiertelności. Patrząc na te ciemne równiny, warto pamiętać, że są nie tylko płótnem mitologii, lecz i prawdziwym gruntem: w lipcu 1969 roku pierwsi ludzie, którzy opuścili Ziemię, postawili stopy na jednej z nich.",
+      "vocab": [
+        { "term": "strangeness", "ipa_br": "/ˈstreɪndʒnəs/", "pl": "dziwność", "new": true },
+        { "term": "cratered", "ipa_br": "/ˈkreɪtəd/", "pl": "pokryty kraterami", "new": true },
+        { "term": "gouge", "ipa_br": "/ɡaʊdʒ/", "pl": "wyżłabiać, wydrążać", "new": true },
+        { "term": "permanent", "ipa_br": "/ˈpɜːmənənt/", "pl": "trwały, stały", "new": true },
+        { "term": "lopsided", "ipa_br": "/ˌlɒpˈsaɪdɪd/", "pl": "niesymetryczny, przechylony", "new": true },
+        { "term": "orbit", "ipa_br": "/ˈɔːbɪt/", "pl": "orbita, okrążać", "new": true },
+        { "term": "figure", "ipa_br": "/ˈfɪɡə/", "pl": "postać, figura", "new": true },
+        { "term": "elixir", "ipa_br": "/ɪˈlɪksə/", "pl": "eliksir", "new": true },
+        { "term": "canvas", "ipa_br": "/ˈkænvəs/", "pl": "płótno", "new": true },
+        { "term": "mythology", "ipa_br": "/mɪˈθɒlədʒi/", "pl": "mitologia", "new": true },
+        { "term": "debated", "ipa_br": "/dɪˈbeɪtɪd/", "pl": "sporny, dyskutowany", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says the face of the full Moon is a picture that has never changed in all of human history.", "answer": true },
+            { "statement": "The maria are sheets of frozen basalt, poured out as lava to flood craters gouged by early impacts.", "answer": true },
+            { "statement": "According to the text, the maria are spread evenly over both the near and far sides of the Moon.", "answer": false },
+            { "statement": "The Moon is tidally locked, rotating once for every orbit, so the same design faces us forever.", "answer": true },
+            { "statement": "Chinese, Japanese and Korean traditions see a rabbit, sometimes pounding rice or the elixir of immortality.", "answer": true },
+            { "statement": "The text notes that in July 1969 the first people to leave the Earth set foot on one of the maria.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "Almost everything about the full Moon in this photograph — taken from the village of Krynka in eastern Poland late on the twenty-ninth of July 2026 — is, in the most literal sense, ancient history, and yet the image it makes is one no human generation has ever failed to recognise. The luminous, densely cratered terrain is the lunar highlands, primordial crust that solidified not long after the Moon itself formed. The darker regions spilled across it are the maria, the 'seas' of a seventeenth-century imagination that took them for water; in truth each is a congealed flood of basalt, dark iron-rich lava that rose through fractures and filled the enormous impact basins between roughly three and 3.9 billion years ago before freezing into the plains we see. Two accidents fix this as a portrait rather than a passing view. The maria are overwhelmingly concentrated on the nearside hemisphere — the crust there is thinner, and the far side, glimpsed only by spacecraft, is almost bare of them — and the Moon's rotation is locked to its orbit, so that lopsided nearside is turned toward the Earth in perpetuity. Presented with the same fixed arrangement of tone night after night, century after century, the pattern-hungry human eye supplies a subject: a broad face across much of Europe, a rabbit across much of East Asia, in some tellings crouched over a mortar, pounding the elixir of immortality. What no telling imagined until recently is that the 'seas' are places one can stand: in the summer of 1969, on the basalt of the Sea of Tranquility, they became the first ground beyond the Earth to hold a human footprint.",
+      "text_pl": "Niemal wszystko w pełni Księżyca z tego zdjęcia — zrobionego we wsi Krynka we wschodniej Polsce późną nocą dwudziestego dziewiątego lipca 2026 roku — jest, w najbardziej dosłownym sensie, prastarą historią, a jednak obraz, który tworzy, jest jednym z tych, których żadne pokolenie ludzi nie omieszkało rozpoznać. Świetlisty, gęsto pokryty kraterami teren to księżycowe wyżyny, pierwotna skorupa, która zastygła niedługo po tym, jak sam Księżyc powstał. Ciemniejsze obszary rozlane po niej to maria, „morza” siedemnastowiecznej wyobraźni, która brała je za wodę; w istocie każde to zakrzepła powódź bazaltu, ciemnej, bogatej w żelazo lawy, która wzniosła się przez szczeliny i wypełniła ogromne baseny uderzeniowe między mniej więcej trzema a 3,9 miliarda lat temu, zanim zamarzła w równiny, które widzimy. Dwa przypadki utrwalają to jako portret, a nie przelotny widok. Maria skupione są w przeważającej części na bliskiej półkuli — skorupa jest tam cieńsza, a druga strona, oglądana tylko przez statki kosmiczne, jest ich niemal pozbawiona — a obrót Księżyca jest związany z jego orbitą, tak że ta niesymetryczna bliska strona zwrócona jest ku Ziemi na wieczność. Wobec tego samego, utrwalonego układu tonów, noc po nocy, wiek po wieku, głodne wzorów ludzkie oko dostarcza tematu: szeroka twarz w dużej części Europy, królik w dużej części Azji Wschodniej, w niektórych opowieściach skulony nad moździerzem, ubijający eliksir nieśmiertelności. Czego żadna opowieść nie wyobrażała sobie aż do niedawna, to że „morza” to miejsca, na których można stanąć: latem 1969 roku, na bazalcie Morza Spokoju, stały się pierwszym gruntem poza Ziemią, który przyjął ludzki ślad stopy.",
+      "vocab": [
+        { "term": "luminous", "ipa_br": "/ˈluːmɪnəs/", "pl": "świetlisty, jasny", "new": true },
+        { "term": "primordial", "ipa_br": "/praɪˈmɔːdiəl/", "pl": "pierwotny, prastary", "new": true },
+        { "term": "congealed", "ipa_br": "/kənˈdʒiːld/", "pl": "zakrzepły, zastygły", "new": true },
+        { "term": "fracture", "ipa_br": "/ˈfræktʃə/", "pl": "szczelina, pęknięcie", "new": true },
+        { "term": "perpetuity", "ipa_br": "/ˌpɜːpɪˈtjuːəti/", "pl": "wieczność, na zawsze", "new": true },
+        { "term": "mortar", "ipa_br": "/ˈmɔːtə/", "pl": "moździerz", "new": true },
+        { "term": "terrain", "ipa_br": "/təˈreɪn/", "pl": "teren, ukształtowanie", "new": true },
+        { "term": "footprint", "ipa_br": "/ˈfʊtprɪnt/", "pl": "ślad stopy", "new": true },
+        { "term": "spacecraft", "ipa_br": "/ˈspeɪskrɑːft/", "pl": "statek kosmiczny", "new": true },
+        { "term": "freeze", "ipa_br": "/friːz/", "pl": "zamarzać, tężeć", "new": true },
+        { "term": "arrangement", "ipa_br": "/əˈreɪndʒmənt/", "pl": "układ, ułożenie", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text describes the luminous, densely cratered terrain as the lunar highlands — primordial crust that solidified soon after the Moon formed.", "answer": true },
+            { "statement": "Each mare is described as a congealed flood of basalt that filled enormous impact basins before freezing into plains.", "answer": true },
+            { "statement": "According to the text, the maria are just as common on the far side as on the nearside.", "answer": false },
+            { "statement": "The Moon's rotation is locked to its orbit, keeping the lopsided nearside turned toward the Earth in perpetuity.", "answer": true },
+            { "statement": "In some East Asian tellings, the figure in the Moon is a rabbit crouched over a mortar, pounding the elixir of immortality.", "answer": true },
+            { "statement": "The text says it has always been obvious to every culture that the lunar 'seas' are solid ground one could stand on.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
