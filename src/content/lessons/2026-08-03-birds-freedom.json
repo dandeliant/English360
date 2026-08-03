@@ -1,0 +1,210 @@
+{
+  "id": "2026-08-03-birds-freedom",
+  "date_assigned": "2026-08-03",
+  "date_alternatives": [],
+  "title_en": "The Courage to Fly",
+  "title_pl": "Odwaga, by odlecieć",
+  "location": "Purzec, Poland",
+  "image": "https://i.ytimg.com/vi/Jf8XGwXcuVc/hqdefault.jpg",
+  "image_orientation": "portrait",
+  "video": "Jf8XGwXcuVc",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["birds", "video", "freedom", "migration", "nature", "poland", "reflection", "flight", "change", "short"],
+  "themes": ["birds-as-freedom", "courage-to-change", "zugunruhe", "migratory-instinct", "reflection"],
+  "did_you_know": {
+    "en": "When we watch birds fly away, we imagine they are choosing to be free — but for a migratory bird, leaving is less a decision than a command from within. There is even a name for the sign of it, taken from German: Zugunruhe, which means 'migratory restlessness'. In the weeks before migration, a bird that would normally rest at night grows agitated: it flutters, hops and flaps for hours, over and over, always trying to move in the direction it would fly if it were free. The remarkable thing is that this happens even to birds kept in cages, warm and safe and with all the food they could want. In a classic experiment, migratory birds were placed in a funnel-shaped cage lined with paper; as they fluttered upward and fell back, they left marks showing which way they were trying to go — and the marks pointed the right way for the season, autumn or spring. The urge is not triggered by hunger or cold. It runs on an internal calendar, tuned mainly by the changing length of the day, that every migratory bird inherits at birth. So the freedom we envy in a departing flock is real, but it is not bravery in the human sense. It is an ancient certainty, written into the animal, that the season has turned and it is time to go.",
+    "pl": "Gdy patrzymy, jak ptaki odlatują, wyobrażamy sobie, że wybierają wolność — ale dla ptaka wędrownego odlot jest mniej decyzją, a bardziej rozkazem z wewnątrz. Istnieje nawet nazwa jego oznaki, wzięta z niemieckiego: Zugunruhe, co znaczy „niepokój wędrówkowy”. W tygodniach przed migracją ptak, który normalnie odpoczywałby w nocy, staje się pobudzony: trzepocze, podskakuje i macha skrzydłami godzinami, wciąż od nowa, zawsze próbując poruszać się w kierunku, w którym poleciałby, gdyby był wolny. Niezwykłe jest to, że dzieje się tak nawet z ptakami trzymanymi w klatkach — ciepłymi, bezpiecznymi i z całym pokarmem, jakiego mogłyby chcieć. W klasycznym eksperymencie ptaki wędrowne umieszczano w klatce w kształcie lejka, wyłożonej papierem; gdy trzepotały w górę i opadały, zostawiały ślady pokazujące, w którą stronę próbowały się udać — a ślady wskazywały właściwy kierunek dla pory roku, jesieni lub wiosny. Ta potrzeba nie jest wyzwalana przez głód ani chłód. Działa na wewnętrznym kalendarzu, nastrojonym głównie zmieniającą się długością dnia, który każdy ptak wędrowny dziedziczy w chwili narodzin. Wolność, której zazdrościmy odlatującemu stadu, jest więc prawdziwa, ale nie jest odwagą w ludzkim sensie. To pradawna pewność, wpisana w zwierzę, że pora się zmieniła i czas ruszać."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 365 — tym razem z filmem (short, fot./wideo: Daniel Ostrowski). „Ptaki uczą nas, że czasem największą wolnością jest odwaga, by odlecieć.” Motyw: ptaki jako symbol wolności i odwagi zmiany — oraz Zugunruhe, wrodzony niepokój, który każe im ruszać w drogę. Sześć poziomów (A1–C2). english365",
+    "fb_caption_en": "Today on English 365 — with a video this time (a short; footage: Daniel Ostrowski). 'Birds teach us that sometimes the greatest freedom is having the courage to fly toward a better tomorrow.' The theme: birds as a symbol of freedom and the courage to change — and Zugunruhe, the inborn restlessness that tells them to go. Six CEFR levels (A1–C2). english365",
+    "hashtags": ["#English365", "#LearnEnglish", "#Birds", "#Freedom", "#Migration", "#Poland", "#Nature", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this short video. In the video you can see birds. The birds are flying in the sky. They fly free and high. Birds do not stay in one place. In autumn, many birds fly far away to a warm place. In spring, they come back. People love to watch birds fly. When we see them, we feel free too.",
+      "text_pl": "Zobacz ten krótki film. Na filmie widać ptaki. Ptaki lecą po niebie. Lecą wolne i wysoko. Ptaki nie zostają w jednym miejscu. Jesienią wiele ptaków odlatuje daleko, w ciepłe miejsce. Wiosną wracają. Ludzie uwielbiają patrzeć, jak ptaki latają. Kiedy je widzimy, my też czujemy się wolni.",
+      "vocab": [
+        { "term": "video", "ipa_br": "/ˈvɪdiəʊ/", "pl": "film, nagranie", "new": true },
+        { "term": "bird", "ipa_br": "/bɜːd/", "pl": "ptak", "new": true },
+        { "term": "fly", "ipa_br": "/flaɪ/", "pl": "latać, lecieć", "new": true },
+        { "term": "sky", "ipa_br": "/skaɪ/", "pl": "niebo", "new": true },
+        { "term": "free", "ipa_br": "/friː/", "pl": "wolny", "new": true },
+        { "term": "high", "ipa_br": "/haɪ/", "pl": "wysoko", "new": true },
+        { "term": "place", "ipa_br": "/pleɪs/", "pl": "miejsce", "new": true },
+        { "term": "autumn", "ipa_br": "/ˈɔːtəm/", "pl": "jesień", "new": true },
+        { "term": "spring", "ipa_br": "/sprɪŋ/", "pl": "wiosna", "new": true },
+        { "term": "watch", "ipa_br": "/wɒtʃ/", "pl": "oglądać, patrzeć", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "bird", "answer": "C" },
+            { "word": "wing", "answer": "A" },
+            { "word": "fly", "answer": "D" },
+            { "word": "free", "answer": "B" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🪽" },
+            { "label": "B", "text": "🕊️" },
+            { "label": "C", "text": "🐦" },
+            { "label": "D", "text": "✈️" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This short film shows birds flying freely across the sky, filmed near the village of Purzec in eastern Poland. Birds are a wonderful symbol of freedom. They do not hold on to one place. When the season changes, they simply leave and fly to a better one, thousands of kilometres away. Then, months later, they come back. Perhaps this is why we love watching birds so much — and why we are sometimes a little jealous of them. They are not afraid of change. They leave the past behind and fly, without fear, towards something new. Watching them, we remember that the world is big and beautiful.",
+      "text_pl": "Ten krótki film pokazuje ptaki lecące swobodnie po niebie, nakręcony koło wsi Purzec we wschodniej Polsce. Ptaki są cudownym symbolem wolności. Nie trzymają się jednego miejsca. Gdy zmienia się pora roku, po prostu odlatują i lecą do lepszego, tysiące kilometrów dalej. Potem, po miesiącach, wracają. Może właśnie dlatego tak bardzo lubimy patrzeć na ptaki — i dlatego czasem trochę im zazdrościmy. Nie boją się zmiany. Zostawiają za sobą przeszłość i lecą, bez lęku, ku czemuś nowemu. Patrząc na nie, przypominamy sobie, że świat jest wielki i piękny.",
+      "vocab": [
+        { "term": "film", "ipa_br": "/fɪlm/", "pl": "film", "new": true },
+        { "term": "freely", "ipa_br": "/ˈfriːli/", "pl": "swobodnie", "new": true },
+        { "term": "symbol", "ipa_br": "/ˈsɪmbəl/", "pl": "symbol", "new": true },
+        { "term": "freedom", "ipa_br": "/ˈfriːdəm/", "pl": "wolność", "new": true },
+        { "term": "season", "ipa_br": "/ˈsiːzən/", "pl": "pora roku", "new": true },
+        { "term": "leave", "ipa_br": "/liːv/", "pl": "odlatywać, opuszczać", "new": true },
+        { "term": "jealous", "ipa_br": "/ˈdʒeləs/", "pl": "zazdrosny", "new": true },
+        { "term": "afraid", "ipa_br": "/əˈfreɪd/", "pl": "przestraszony, bać się", "new": true },
+        { "term": "change", "ipa_br": "/tʃeɪndʒ/", "pl": "zmiana", "new": true },
+        { "term": "fear", "ipa_br": "/fɪə/", "pl": "lęk, strach", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "The film was made near the village of ___ in eastern Poland.", "answer": "Purzec" },
+            { "sentence": "Birds are a wonderful symbol of ___.", "answer": "freedom" },
+            { "sentence": "When the ___ changes, birds simply leave and fly to a better place.", "answer": "season" },
+            { "sentence": "They leave the past behind and fly, without ___, towards something new.", "answer": "fear" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This short video, filmed near the village of Purzec in eastern Poland, shows birds moving freely through an open sky. For as long as people have watched them, birds have been a symbol of freedom — and perhaps of courage. Twice a year, migratory birds do something that looks almost brave: they give up the place they know and set off on a journey of thousands of kilometres, towards a distant land they cannot see. They do not cling to one home. They leave the summer behind and fly towards a better tomorrow, and months later they return. It is easy to envy them. We human beings often hold tightly to what is familiar, even when it no longer makes us happy, because change frightens us. Birds seem to feel no such fear. Watching them cross the sky, we are reminded that the world is far too wide and beautiful to be afraid of leaving one small part of it.",
+      "text_pl": "Ten krótki film, nakręcony koło wsi Purzec we wschodniej Polsce, pokazuje ptaki poruszające się swobodnie po otwartym niebie. Odkąd tylko ludzie na nie patrzą, ptaki są symbolem wolności — i być może odwagi. Dwa razy w roku ptaki wędrowne robią coś, co wygląda niemal na odwagę: porzucają miejsce, które znają, i wyruszają w podróż liczącą tysiące kilometrów, ku odległej krainie, której nie widzą. Nie trzymają się kurczowo jednego domu. Zostawiają za sobą lato i lecą ku lepszemu jutru, a po miesiącach wracają. Łatwo im zazdrościć. My, ludzie, często mocno trzymamy się tego, co znajome, nawet gdy już nas nie cieszy, bo zmiana nas przeraża. Ptaki zdają się nie czuć takiego lęku. Patrząc, jak przecinają niebo, przypominamy sobie, że świat jest zbyt szeroki i piękny, by bać się opuszczenia jednej jego małej części.",
+      "vocab": [
+        { "term": "migratory", "ipa_br": "/ˈmaɪɡrətəri/", "pl": "wędrowny, migrujący", "new": true },
+        { "term": "courage", "ipa_br": "/ˈkʌrɪdʒ/", "pl": "odwaga", "new": true },
+        { "term": "brave", "ipa_br": "/breɪv/", "pl": "odważny", "new": true },
+        { "term": "journey", "ipa_br": "/ˈdʒɜːni/", "pl": "podróż", "new": true },
+        { "term": "distant", "ipa_br": "/ˈdɪstənt/", "pl": "odległy", "new": true },
+        { "term": "cling", "ipa_br": "/klɪŋ/", "pl": "trzymać się kurczowo", "new": true },
+        { "term": "envy", "ipa_br": "/ˈenvi/", "pl": "zazdrościć", "new": true },
+        { "term": "familiar", "ipa_br": "/fəˈmɪliə/", "pl": "znajomy", "new": true },
+        { "term": "frighten", "ipa_br": "/ˈfraɪtən/", "pl": "przerażać, straszyć", "new": true },
+        { "term": "remind", "ipa_br": "/rɪˈmaɪnd/", "pl": "przypominać", "new": true },
+        { "term": "wide", "ipa_br": "/waɪd/", "pl": "szeroki", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The video was filmed near the village of Purzec in eastern Poland.", "answer": true },
+            { "statement": "According to the text, birds have long been seen as a symbol of freedom and perhaps of courage.", "answer": true },
+            { "statement": "The text says migratory birds cling to one home and never leave it.", "answer": false },
+            { "statement": "The text suggests that we humans often hold tightly to what is familiar because change frightens us.", "answer": true },
+            { "statement": "Watching the birds reminds us that the world is too wide and beautiful to fear leaving one small part of it.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a reason the sight of migrating birds stirs something in almost everyone, and this short film, made near the village of Purzec in eastern Poland, captures it: freedom, and the courage to move on. It is tempting to think of the birds' great journeys as a kind of bravery — a decision to leave the familiar behind and fly towards a better future. The truth is stranger and, in its way, more beautiful. The urge to go is not a choice at all but something written into the bird itself. Biologists even have a word for it, borrowed from German: Zugunruhe, or 'migratory restlessness'. As the season turns, migratory birds — even ones kept in cages, with plenty of food and no reason to leave — grow visibly restless and try again and again to head in exactly the direction they would fly if they were free. The call to leave, in other words, comes from inside. Perhaps that is what we recognise, and quietly envy, when we watch them: not a brave decision, but a deep and fearless certainty that it is time to go.",
+      "text_pl": "Jest powód, dla którego widok wędrujących ptaków porusza w niemal każdym coś głęboko, a ten krótki film, nakręcony koło wsi Purzec we wschodniej Polsce, to chwyta: wolność i odwagę, by ruszyć dalej. Kuszące jest myśleć o wielkich podróżach ptaków jako o pewnym rodzaju odwagi — decyzji, by zostawić za sobą to, co znane, i lecieć ku lepszej przyszłości. Prawda jest dziwniejsza i, na swój sposób, piękniejsza. Potrzeba ruszenia w drogę wcale nie jest wyborem, lecz czymś wpisanym w samego ptaka. Biolodzy mają na to nawet słowo, zapożyczone z niemieckiego: Zugunruhe, czyli „niepokój wędrówkowy”. Gdy zmienia się pora roku, ptaki wędrowne — nawet te trzymane w klatkach, z mnóstwem pokarmu i bez powodu do odlotu — stają się widocznie niespokojne i wciąż od nowa próbują skierować się dokładnie w tę stronę, w którą poleciałyby, gdyby były wolne. Wołanie, by ruszać, innymi słowy, przychodzi z wewnątrz. Może to właśnie rozpoznajemy i po cichu tego zazdrościmy, gdy na nie patrzymy: nie odważnej decyzji, lecz głębokiej, pozbawionej lęku pewności, że nadszedł czas.",
+      "vocab": [
+        { "term": "stir", "ipa_br": "/stɜː/", "pl": "poruszać (emocje)", "new": true },
+        { "term": "tempting", "ipa_br": "/ˈtemptɪŋ/", "pl": "kuszący", "new": true },
+        { "term": "bravery", "ipa_br": "/ˈbreɪvəri/", "pl": "odwaga, męstwo", "new": true },
+        { "term": "urge", "ipa_br": "/ɜːdʒ/", "pl": "potrzeba, popęd", "new": true },
+        { "term": "restlessness", "ipa_br": "/ˈrestləsnəs/", "pl": "niepokój, niespokojność", "new": true },
+        { "term": "cage", "ipa_br": "/keɪdʒ/", "pl": "klatka", "new": true },
+        { "term": "visibly", "ipa_br": "/ˈvɪzəbli/", "pl": "widocznie", "new": true },
+        { "term": "direction", "ipa_br": "/dɪˈrekʃən/", "pl": "kierunek", "new": true },
+        { "term": "certainty", "ipa_br": "/ˈsɜːtnti/", "pl": "pewność", "new": true },
+        { "term": "recognise", "ipa_br": "/ˈrekəɡnaɪz/", "pl": "rozpoznawać", "new": true },
+        { "term": "fearless", "ipa_br": "/ˈfɪələs/", "pl": "nieustraszony, bez lęku", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says it is tempting to think of the birds' journeys as a kind of bravery.", "answer": true },
+            { "statement": "According to the text, the urge to migrate is a free choice the bird makes each year.", "answer": false },
+            { "statement": "'Zugunruhe' is a German word meaning 'migratory restlessness'.", "answer": true },
+            { "statement": "Even caged birds with plenty of food grow restless and try to head in the direction they would migrate.", "answer": true },
+            { "statement": "The text concludes that the 'call to leave' comes from outside the bird, from the weather.", "answer": false },
+            { "statement": "The text suggests we quietly envy the birds' deep, fearless certainty that it is time to go.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "Few natural events carry as much emotional weight as the departure of migrating birds, and this short film, shot near the village of Purzec in eastern Poland, leans into all of it — the open sky, the freedom, the wistful sense of being left behind. We tend to read the migration as a story about courage: the willingness to abandon a familiar place and strike out, without any guarantee, towards a better one. Science tells a subtler tale. The impulse is not summoned in the moment but inherited, an ancient programme that runs on an internal calendar. Ornithologists call its outward sign Zugunruhe — 'migratory restlessness' — the state into which migratory birds fall as their season approaches. Kept in a cage, well fed and safe, such a bird will nonetheless flutter and hop for hours, night after night, and orient its efforts towards the very compass bearing it would take in the wild; the drive is timed by day length and by a clock the bird is born with. So the freedom we envy is real, but it is not defiance of fear. It is something closer to trust — an unquestioned, bone-deep knowledge that the world is wide, that the season has turned, and that it is time, once again, to go.",
+      "text_pl": "Niewiele naturalnych wydarzeń niesie tyle emocjonalnego ciężaru, co odlot wędrujących ptaków, a ten krótki film, nakręcony koło wsi Purzec we wschodniej Polsce, wchodzi w to wszystko — otwarte niebo, wolność, tęskne poczucie pozostania w tyle. Skłonni jesteśmy odczytywać migrację jako opowieść o odwadze: gotowości, by porzucić znajome miejsce i wyruszyć, bez żadnej gwarancji, ku lepszemu. Nauka opowiada subtelniejszą historię. Ten impuls nie jest przywoływany w danej chwili, lecz dziedziczony — pradawny program działający na wewnętrznym kalendarzu. Ornitolodzy nazywają jego zewnętrzną oznakę Zugunruhe — „niepokojem wędrówkowym” — stanem, w jaki ptaki wędrowne popadają, gdy zbliża się ich pora. Trzymany w klatce, dobrze karmiony i bezpieczny, taki ptak mimo to trzepocze i podskakuje godzinami, noc po nocy, i kieruje swoje wysiłki dokładnie ku temu namiarowi kompasowemu, który obrałby na wolności; ten popęd odmierzany jest długością dnia i zegarem, z którym ptak się rodzi. Wolność, której zazdrościmy, jest więc prawdziwa, lecz nie jest przeciwstawieniem się lękowi. To coś bliższego zaufaniu — niekwestionowanej, sięgającej szpiku wiedzy, że świat jest szeroki, że pora się zmieniła i że znów nadszedł czas, by ruszać.",
+      "vocab": [
+        { "term": "wistful", "ipa_br": "/ˈwɪstfəl/", "pl": "tęskny, rzewny", "new": true },
+        { "term": "willingness", "ipa_br": "/ˈwɪlɪŋnəs/", "pl": "gotowość, chęć", "new": true },
+        { "term": "abandon", "ipa_br": "/əˈbændən/", "pl": "porzucać", "new": true },
+        { "term": "subtle", "ipa_br": "/ˈsʌtəl/", "pl": "subtelny", "new": true },
+        { "term": "impulse", "ipa_br": "/ˈɪmpʌls/", "pl": "impuls, popęd", "new": true },
+        { "term": "inherited", "ipa_br": "/ɪnˈherɪtɪd/", "pl": "dziedziczony, wrodzony", "new": true },
+        { "term": "ornithologist", "ipa_br": "/ˌɔːnɪˈθɒlədʒɪst/", "pl": "ornitolog", "new": true },
+        { "term": "flutter", "ipa_br": "/ˈflʌtə/", "pl": "trzepotać", "new": true },
+        { "term": "orient", "ipa_br": "/ˈɔːrient/", "pl": "orientować, kierować się", "new": true },
+        { "term": "bearing", "ipa_br": "/ˈbeərɪŋ/", "pl": "namiar, kierunek", "new": true },
+        { "term": "defiance", "ipa_br": "/dɪˈfaɪəns/", "pl": "przeciwstawienie się, bunt", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says few natural events carry as much emotional weight as the departure of migrating birds.", "answer": true },
+            { "statement": "According to the text, the impulse to migrate is summoned in the moment rather than inherited.", "answer": false },
+            { "statement": "Ornithologists call the outward sign of the urge Zugunruhe, or 'migratory restlessness'.", "answer": true },
+            { "statement": "A caged migratory bird will orient its efforts towards the compass bearing it would take in the wild.", "answer": true },
+            { "statement": "The drive is described as timed by day length and by an internal clock the bird is born with.", "answer": true },
+            { "statement": "The text concludes that the freedom we envy is really a brave defiance of fear.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "There is an old and slightly painful pleasure in watching birds leave. This short film, made near the village of Purzec in eastern Poland, offers it in miniature: a few birds loosed against an open sky, and with them the whole cluster of feelings — freedom, longing, a faint envy — that the sight has always provoked. We reach instinctively for the language of courage, and read into the departing flock a brave refusal to cling, a readiness to trade the known for the merely possible. It is a lovely reading, and mostly a projection. What actually moves the birds is not resolve but inheritance. Biology names its visible trace with a borrowed German word, Zugunruhe, 'migratory restlessness': the mounting agitation that grips a migratory bird as its season comes round, so reliable that a caged individual, safe and well fed and going nowhere, will still spend its nights beating towards the exact bearing of a journey it cannot make — on a schedule set by the lengthening or shortening of the day, and by a calendar it was hatched already knowing. The freedom we ascribe to birds, then, is not the freedom of a decision bravely taken against fear; it is the older, stranger freedom of a creature entirely at one with what it is meant to do. And perhaps that, in the end, is what we envy most — not that birds are unafraid to leave, but that they never had to be afraid at all.",
+      "text_pl": "Jest stara i odrobinę bolesna przyjemność w patrzeniu, jak ptaki odlatują. Ten krótki film, nakręcony koło wsi Purzec we wschodniej Polsce, oferuje ją w miniaturze: kilka ptaków wypuszczonych na tle otwartego nieba, a z nimi cały splot uczuć — wolność, tęsknota, lekka zazdrość — który ten widok zawsze wywoływał. Sięgamy instynktownie po język odwagi i wczytujemy w odlatujące stado dzielną odmowę trzymania się kurczowo, gotowość, by wymienić to, co znane, na to, co jedynie możliwe. To piękny odczyt i w większości projekcja. Tym, co naprawdę porusza ptaki, nie jest postanowienie, lecz dziedzictwo. Biologia nazywa jego widoczny ślad zapożyczonym niemieckim słowem, Zugunruhe, „niepokojem wędrówkowym”: narastającym pobudzeniem, które chwyta ptaka wędrownego, gdy nadchodzi jego pora, tak niezawodnym, że osobnik w klatce — bezpieczny, dobrze karmiony i nigdzie się nie wybierający — i tak spędzi noce, bijąc skrzydłami ku dokładnemu namiarowi podróży, której nie może odbyć — według harmonogramu wyznaczonego wydłużaniem lub skracaniem dnia i kalendarzem, który znał już w chwili wyklucia. Wolność, którą przypisujemy ptakom, nie jest więc wolnością decyzji dzielnie podjętej wbrew lękowi; to starsza, dziwniejsza wolność stworzenia całkowicie zestrojonego z tym, co ma czynić. I może to właśnie, ostatecznie, jest tym, czego najbardziej zazdrościmy — nie tego, że ptaki nie boją się odlecieć, lecz tego, że nigdy nie musiały się bać.",
+      "vocab": [
+        { "term": "loosed", "ipa_br": "/luːst/", "pl": "wypuszczony, uwolniony", "new": true },
+        { "term": "longing", "ipa_br": "/ˈlɒŋɪŋ/", "pl": "tęsknota", "new": true },
+        { "term": "provoke", "ipa_br": "/prəˈvəʊk/", "pl": "wywoływać, prowokować", "new": true },
+        { "term": "resolve", "ipa_br": "/rɪˈzɒlv/", "pl": "postanowienie, determinacja", "new": true },
+        { "term": "projection", "ipa_br": "/prəˈdʒekʃən/", "pl": "projekcja, rzutowanie", "new": true },
+        { "term": "inheritance", "ipa_br": "/ɪnˈherɪtəns/", "pl": "dziedzictwo", "new": true },
+        { "term": "agitation", "ipa_br": "/ˌædʒɪˈteɪʃən/", "pl": "pobudzenie, niepokój", "new": true },
+        { "term": "reliable", "ipa_br": "/rɪˈlaɪəbəl/", "pl": "niezawodny", "new": true },
+        { "term": "ascribe", "ipa_br": "/əˈskraɪb/", "pl": "przypisywać", "new": true },
+        { "term": "hatched", "ipa_br": "/hætʃt/", "pl": "wykluty", "new": true },
+        { "term": "at one with", "ipa_br": "/ət ˈwʌn wɪð/", "pl": "zestrojony z, w jedności z", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text admits that reading the departing flock as brave is 'mostly a projection'.", "answer": true },
+            { "statement": "According to the text, what actually moves the birds is resolve rather than inheritance.", "answer": false },
+            { "statement": "Zugunruhe is described as so reliable that a caged bird will beat towards the exact bearing of a journey it cannot make.", "answer": true },
+            { "statement": "The migratory drive runs on a schedule set by day length and a calendar the bird was hatched already knowing.", "answer": true },
+            { "statement": "The closing line says what we envy most is that birds are unafraid to leave.", "answer": false },
+            { "statement": "The text describes the birds' freedom as that of a creature entirely at one with what it is meant to do.", "answer": true }
+          ]
+        }
+      ]
+    }
+  }
+}
