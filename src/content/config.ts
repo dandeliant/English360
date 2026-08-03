@@ -146,8 +146,13 @@ const lessonsCollection = defineCollection({
     title_en: z.string().min(1),
     title_pl: z.string().min(1),
     location: z.string().optional(),
-    image: z.string().min(1).describe('Path under /public, e.g. /images/2026-05-14-bee.jpg'),
+    image: z.string().min(1).describe('Path under /public, e.g. /images/2026-05-14-bee.jpg. May be an absolute URL (e.g. a YouTube thumbnail) — used as the poster/thumbnail in the calendar and social cards.'),
     image_orientation: z.enum(['landscape', 'portrait', 'square']).default('landscape'),
+    /** Optional embedded video. Accepts a YouTube video/Short ID or any
+     *  YouTube URL. When set, the lesson header shows the embedded video in
+     *  place of the photo; `image` is still used as the poster/thumbnail
+     *  elsewhere (calendar, social). */
+    video: z.string().optional(),
     /** Photographer's name (and optional licence note) shown as a small
      *  figcaption under the image. Single string keeps the schema simple;
      *  if licences ever matter, switch to an object later. */

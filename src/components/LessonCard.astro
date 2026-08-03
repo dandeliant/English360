@@ -42,6 +42,16 @@ const dateMatch = imgFile.match(/^(\d{4})-(\d{2})-(\d{2})/);
 const photoDate = dateMatch
   ? { iso: `${dateMatch[1]}-${dateMatch[2]}-${dateMatch[3]}`, display: `${dateMatch[3]}.${dateMatch[2]}.${dateMatch[1]}` }
   : null;
+
+// Optional embedded video: accept a bare YouTube ID or any YouTube URL
+// (watch, youtu.be, shorts, embed) and reduce it to the 11-char video id.
+function youTubeId(v?: string): string | null {
+  if (!v) return null;
+  const m = v.match(/(?:shorts\/|watch\?v=|youtu\.be\/|embed\/|v=)([A-Za-z0-9_-]{11})/);
+  if (m) return m[1];
+  return /^[A-Za-z0-9_-]{11}$/.test(v) ? v : null;
+}
+const videoId = youTubeId(data.video);
 ---
 <article
   class="lesson-card"
@@ -51,15 +61,28 @@ const photoDate = dateMatch
 >
   <header class="lesson-card__header">
     <figure class="lesson-card__figure">
-      <img
-        src={withBase(data.image)}
-        alt={data.title_en}
-        class:list={['lesson-card__image', `lesson-card__image--${data.image_orientation}`]}
-        loading="eager"
-        decoding="async"
-        width={data.image_orientation === 'portrait' ? 800 : 1500}
-        height={data.image_orientation === 'portrait' ? 1200 : 1000}
-      />
+      {videoId ? (
+        <div class:list={['lesson-card__video', `lesson-card__video--${data.image_orientation}`]}>
+          <iframe
+            src={`https://www.youtube.com/embed/${videoId}`}
+            title={data.title_en}
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+          ></iframe>
+        </div>
+      ) : (
+        <img
+          src={withBase(data.image)}
+          alt={data.title_en}
+          class:list={['lesson-card__image', `lesson-card__image--${data.image_orientation}`]}
+          loading="eager"
+          decoding="async"
+          width={data.image_orientation === 'portrait' ? 800 : 1500}
+          height={data.image_orientation === 'portrait' ? 1200 : 1000}
+        />
+      )}
       {data.photo_credit && (
         <figcaption class="lesson-card__credit">
           <span class="lesson-card__credit-label">Fot.</span> {data.photo_credit}
@@ -264,6 +287,31 @@ const photoDate = dateMatch
 
   .lesson-card__image--portrait { aspect-ratio: 2 / 3; }
   .lesson-card__image--square { aspect-ratio: 1; }
+
+  /* Embedded video (YouTube). The container fixes the aspect ratio; the
+   * iframe fills it. Portrait (a vertical Short) is capped in width so it
+   * does not tower over the layout. */
+  .lesson-card__video {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    background: #000;
+    overflow: hidden;
+  }
+
+  .lesson-card__video--portrait {
+    aspect-ratio: 9 / 16;
+    max-inline-size: 24rem;
+    margin-inline: auto;
+  }
+
+  .lesson-card__video--square { aspect-ratio: 1; }
+
+  .lesson-card__video iframe {
+    inline-size: 100%;
+    block-size: 100%;
+    display: block;
+    border: 0;
+  }
 
   .lesson-card__credit {
     padding: var(--space-2) var(--space-4);
