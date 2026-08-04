@@ -1,0 +1,209 @@
+{
+  "id": "2025-10-12-autumn-tree-colourful",
+  "date_assigned": "2025-10-12",
+  "date_alternatives": [],
+  "title_en": "Be the Colour",
+  "title_pl": "Bądź kolorem",
+  "location": "Ethnographic Park, Tokarnia, Świętokrzyskie Voivodeship, Poland",
+  "image": "/images/2025-10-12-autumn-tree-colourful.jpg",
+  "image_orientation": "portrait",
+  "photo_credit": "Daniel Ostrowski",
+  "tags": ["nature", "autumn", "tree", "maple", "poland", "swietokrzyskie", "selective-colour", "reflection", "colour", "leaves"],
+  "themes": ["be-the-colour", "selective-colour", "autumn-leaf-pigments", "one-good-soul", "reflection"],
+  "did_you_know": {
+    "en": "The one thing with colour in this photograph — the tree — is a fitting choice for a picture about hidden brightness, because that is exactly how autumn colour works. For most of the year a leaf is green, and it is green for a reason: it is full of chlorophyll, the pigment that captures sunlight and turns it, with water and air, into the sugars that feed the tree. But chlorophyll is not the only colour in the leaf. Alongside it, all summer long, sit the carotenoids — the same family of pigments that make carrots orange and egg yolks yellow. They are there the whole time; we simply cannot see them, because the intense green of the chlorophyll drowns them out. In autumn, as the days grow shorter and cooler, the tree prepares to drop its leaves. It stops making new chlorophyll and breaks the old chlorophyll down, pulling the valuable parts back into its branches for the winter. As the green fades, the yellows and oranges that were hidden all along are finally revealed. The fiery reds and purples are a slightly different story: many trees, maples especially, actually manufacture fresh red pigments — anthocyanins — in the autumn, from sugars trapped in the dying leaf, and scientists still debate exactly why. So the blaze of an autumn tree is not the leaf being painted a new colour. It is the leaf letting go of the green that had been covering the colours it held all along — which is, more or less, the very thing the photographer is asking us to do.",
+    "pl": "Jedyna rzecz z kolorem na tym zdjęciu — drzewo — to trafny wybór do obrazu o ukrytej jasności, bo dokładnie tak działa barwa jesieni. Przez większość roku liść jest zielony, i jest zielony nie bez powodu: pełen jest chlorofilu, barwnika, który chwyta światło słoneczne i zamienia je, z wodą i powietrzem, w cukry żywiące drzewo. Ale chlorofil nie jest jedynym kolorem w liściu. Obok niego, przez całe lato, tkwią karotenoidy — ta sama rodzina barwników, która czyni marchewki pomarańczowymi, a żółtka jaj żółtymi. Są tam przez cały czas; po prostu ich nie widzimy, bo intensywna zieleń chlorofilu je zagłusza. Jesienią, gdy dni stają się krótsze i chłodniejsze, drzewo przygotowuje się do zrzucenia liści. Przestaje wytwarzać nowy chlorofil i rozkłada stary, wciągając cenne części z powrotem do gałęzi na zimę. Gdy zieleń blednie, żółcie i pomarańcze, ukryte przez cały czas, w końcu się odsłaniają. Ogniste czerwienie i fiolety to nieco inna historia: wiele drzew, zwłaszcza klony, faktycznie wytwarza jesienią świeże czerwone barwniki — antocyjany — z cukrów uwięzionych w umierającym liściu, a naukowcy wciąż spierają się dlaczego. Zatem pożoga jesiennego drzewa nie jest malowaniem liścia nowym kolorem. To liść puszczający zieleń, która zakrywała barwy, jakie nosił w sobie przez cały czas — co jest, mniej więcej, dokładnie tym, o co prosi nas fotograf."
+  },
+  "social": {
+    "fb_caption_pl": "Dzisiejsza lekcja English 365: kolorowy klon w skansenie w Tokarni (fot. Daniel Ostrowski). „Nie czekaj, aż świat się zmieni — to Ty możesz być jego kolorem.” Motyw: technika selective colour (tylko drzewo w kolorze) + prosta prawda, że jedno drzewo (albo jedna dobra dusza) rozświetla całe otoczenie — i nauka o tym, dlaczego liście zmieniają barwę. Sześć poziomów (A1–C2). english365",
+    "fb_caption_en": "Today on English 365: a colourful maple at the open-air museum in Tokarnia (photo: Daniel Ostrowski). 'Don't wait for the world to change — you can be its colour.' The theme: the selective-colour technique (only the tree keeps its colour), the idea that one tree — or one good soul — can light up everything around it, and the science of why leaves change colour. Six CEFR levels (A1–C2). english365",
+    "hashtags": ["#English365", "#LearnEnglish", "#Autumn", "#Tree", "#Poland", "#Świętokrzyskie", "#Nature", "#CEFR"]
+  },
+  "levels": {
+    "A1": {
+      "text": "Look at this photo. It is autumn. In the middle there is a big tree. The tree has orange, red, yellow and green leaves. It is very beautiful. Around the tree, everything is grey. The sky is grey. The grass is grey. Only the tree has colour. One colourful tree makes the whole photo happy. You can be a colour too.",
+      "text_pl": "Spójrz na to zdjęcie. Jest jesień. Pośrodku stoi duże drzewo. Drzewo ma pomarańczowe, czerwone, żółte i zielone liście. Jest bardzo piękne. Wokół drzewa wszystko jest szare. Niebo jest szare. Trawa jest szara. Tylko drzewo ma kolor. Jedno kolorowe drzewo sprawia, że całe zdjęcie jest radosne. Ty też możesz być kolorem.",
+      "vocab": [
+        { "term": "autumn", "ipa_br": "/ˈɔːtəm/", "pl": "jesień", "new": true },
+        { "term": "tree", "ipa_br": "/triː/", "pl": "drzewo", "new": true },
+        { "term": "orange", "ipa_br": "/ˈɒrɪndʒ/", "pl": "pomarańczowy", "new": true },
+        { "term": "red", "ipa_br": "/red/", "pl": "czerwony", "new": true },
+        { "term": "yellow", "ipa_br": "/ˈjeləʊ/", "pl": "żółty", "new": true },
+        { "term": "green", "ipa_br": "/ɡriːn/", "pl": "zielony", "new": true },
+        { "term": "leaf", "ipa_br": "/liːf/", "pl": "liść", "new": true },
+        { "term": "grey", "ipa_br": "/ɡreɪ/", "pl": "szary", "new": true },
+        { "term": "colour", "ipa_br": "/ˈkʌlə/", "pl": "kolor, barwa", "new": true },
+        { "term": "beautiful", "ipa_br": "/ˈbjuːtɪfəl/", "pl": "piękny", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Match the word to the picture.",
+          "items": [
+            { "word": "tree", "answer": "C" },
+            { "word": "leaf", "answer": "A" },
+            { "word": "colour", "answer": "B" },
+            { "word": "cloud", "answer": "D" }
+          ],
+          "choices": [
+            { "label": "A", "text": "🍁" },
+            { "label": "B", "text": "🌈" },
+            { "label": "C", "text": "🌳" },
+            { "label": "D", "text": "☁️" }
+          ]
+        }
+      ]
+    },
+    "A2": {
+      "text": "This photograph shows a single tree in autumn, at an open-air museum in southern Poland. The tree is full of warm autumn colours — orange, red, yellow and a little green. But look at the rest of the picture: the sky, the grass, the old wooden fence and the other trees are all grey, like an old black-and-white photo. The photographer used a special trick: he kept the colour only on the one tree, and made everything else grey. This makes the tree seem to glow. There is a nice message in the picture. You do not have to wait for the world to change. Sometimes one tree, or one kind person, is enough to bring colour to everything around it.",
+      "text_pl": "To zdjęcie pokazuje pojedyncze drzewo jesienią, w skansenie na południu Polski. Drzewo jest pełne ciepłych, jesiennych barw — pomarańczowej, czerwonej, żółtej i odrobiny zieleni. Ale spójrz na resztę zdjęcia: niebo, trawa, stary drewniany płot i inne drzewa są całkiem szare, jak stare czarno-białe zdjęcie. Fotograf użył specjalnej sztuczki: zostawił kolor tylko na tym jednym drzewie, a całą resztę uczynił szarą. Sprawia to, że drzewo zdaje się jarzyć. W zdjęciu jest miła myśl. Nie musisz czekać, aż świat się zmieni. Czasem jedno drzewo albo jedna dobra osoba wystarczą, by wnieść kolor we wszystko dookoła.",
+      "vocab": [
+        { "term": "single", "ipa_br": "/ˈsɪŋɡəl/", "pl": "pojedynczy", "new": true },
+        { "term": "museum", "ipa_br": "/mjuˈziːəm/", "pl": "muzeum", "new": true },
+        { "term": "warm", "ipa_br": "/wɔːm/", "pl": "ciepły", "new": true },
+        { "term": "fence", "ipa_br": "/fens/", "pl": "płot, ogrodzenie", "new": true },
+        { "term": "wooden", "ipa_br": "/ˈwʊdən/", "pl": "drewniany", "new": true },
+        { "term": "trick", "ipa_br": "/trɪk/", "pl": "sztuczka, trik", "new": true },
+        { "term": "glow", "ipa_br": "/ɡləʊ/", "pl": "jarzyć się, świecić", "new": true },
+        { "term": "message", "ipa_br": "/ˈmesɪdʒ/", "pl": "przesłanie, wiadomość", "new": true },
+        { "term": "wait", "ipa_br": "/weɪt/", "pl": "czekać", "new": true },
+        { "term": "kind", "ipa_br": "/kaɪnd/", "pl": "miły, życzliwy", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "gap",
+          "prompt": "Uzupełnij zdania jednym słowem na podstawie tekstu.",
+          "items": [
+            { "sentence": "This photograph shows a single tree in ___.", "answer": "autumn" },
+            { "sentence": "The sky, the grass and the fence are all ___.", "answer": "grey" },
+            { "sentence": "The photographer kept the colour on the tree, which makes it seem to ___.", "answer": "glow" },
+            { "sentence": "Sometimes one tree, or one ___ person, is enough to bring colour to everything.", "answer": "kind" }
+          ]
+        }
+      ]
+    },
+    "B1": {
+      "text": "This photograph was taken on the twelfth of October 2025, at the open-air ethnographic museum in Tokarnia, in the Świętokrzyskie region of southern Poland. At its centre stands a single tree in the full blaze of autumn — leaves of orange, red, gold and green, packed together like a fire that does not burn. Everything else in the frame has been drained of colour: the grey sky, the grey grass, the dark wooden fence and the bare branches around it. This is a photographic technique called 'selective colour', and it turns an ordinary autumn tree into the one bright thing in a grey world. The photographer added a simple thought to the image. Do not wait for the world to become brighter, he suggests; you can be its colour. One tree can light up a whole landscape — and, in the same way, one good person can bring warmth and colour to a whole life.",
+      "text_pl": "To zdjęcie zostało zrobione dwunastego października 2025 roku, w skansenie (parku etnograficznym) w Tokarni, w regionie świętokrzyskim na południu Polski. Pośrodku stoi pojedyncze drzewo w pełnej pożodze jesieni — liście pomarańczowe, czerwone, złote i zielone, ściśnięte razem jak ogień, który nie parzy. Wszystko inne w kadrze zostało pozbawione koloru: szare niebo, szara trawa, ciemny drewniany płot i nagie gałęzie dookoła. To technika fotograficzna zwana „selective colour” (wybiórczy kolor), i zamienia zwyczajne jesienne drzewo w jedyną jasną rzecz w szarym świecie. Fotograf dodał do obrazu prostą myśl. Nie czekaj, aż świat stanie się jaśniejszy, sugeruje; to Ty możesz być jego kolorem. Jedno drzewo potrafi rozświetlić cały krajobraz — i tak samo jedna dobra osoba może wnieść ciepło i barwę w całe życie.",
+      "vocab": [
+        { "term": "ethnographic", "ipa_br": "/ˌeθnəˈɡræfɪk/", "pl": "etnograficzny", "new": true },
+        { "term": "blaze", "ipa_br": "/bleɪz/", "pl": "pożoga, płomień", "new": true },
+        { "term": "packed", "ipa_br": "/pækt/", "pl": "ściśnięty, upchany", "new": true },
+        { "term": "drain", "ipa_br": "/dreɪn/", "pl": "pozbawiać, odsączać", "new": true },
+        { "term": "bare", "ipa_br": "/beə/", "pl": "nagi, goły", "new": true },
+        { "term": "branch", "ipa_br": "/brɑːntʃ/", "pl": "gałąź", "new": true },
+        { "term": "technique", "ipa_br": "/tekˈniːk/", "pl": "technika", "new": true },
+        { "term": "ordinary", "ipa_br": "/ˈɔːdɪnəri/", "pl": "zwyczajny", "new": true },
+        { "term": "landscape", "ipa_br": "/ˈlændskeɪp/", "pl": "krajobraz", "new": true },
+        { "term": "suggest", "ipa_br": "/səˈdʒest/", "pl": "sugerować", "new": true },
+        { "term": "warmth", "ipa_br": "/wɔːmθ/", "pl": "ciepło", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The photograph was taken on 12 October 2025 at the open-air museum in Tokarnia, in southern Poland.", "answer": true },
+            { "statement": "Everything in the frame is in full colour, including the sky and the grass.", "answer": false },
+            { "statement": "The technique of keeping colour on only part of the picture is called 'selective colour'.", "answer": true },
+            { "statement": "The photographer suggests that you must wait for the world to become brighter.", "answer": false },
+            { "statement": "The text compares one colourful tree lighting a landscape to one good person bringing colour to a whole life.", "answer": true }
+          ]
+        }
+      ]
+    },
+    "B2": {
+      "text": "There is a small photographic trick at work in this image, and a large idea. The trick is called 'selective colour': the photographer has removed the colour from almost the entire frame — the overcast sky, the mown grass, the weathered fence of a country museum in Tokarnia, in southern Poland — leaving only a single maple in the full colour of autumn. The eye has nowhere else to go. The tree, orange and scarlet and gold, seems to burn against the grey. The idea is the one the photographer writes beneath it: you do not have to wait for the world to turn brighter, because you can be the brightness in it. One tree lights a whole landscape; one kind soul can light a whole life. And there is a quiet aptness in choosing autumn for such a picture, because autumn colour is itself a kind of revelation — the warm tones were hidden inside the leaf all summer, and only appear when the green finally lets them show.",
+      "text_pl": "W tym obrazie działa mała fotograficzna sztuczka i wielka myśl. Sztuczka zwie się „selective colour” (wybiórczy kolor): fotograf usunął barwę z niemal całego kadru — z zachmurzonego nieba, skoszonej trawy, zwietrzałego płotu wiejskiego muzeum w Tokarni na południu Polski — zostawiając tylko jeden klon w pełnej barwie jesieni. Oko nie ma dokąd uciec. Drzewo, pomarańczowe, szkarłatne i złote, zdaje się płonąć na tle szarości. Myśl jest ta, którą fotograf pisze pod spodem: nie musisz czekać, aż świat stanie się jaśniejszy, bo to Ty możesz być w nim jasnością. Jedno drzewo rozświetla cały krajobraz; jedna dobra dusza może rozświetlić całe życie. I jest cicha trafność w wybraniu jesieni do takiego obrazu, bo jesienna barwa sama w sobie jest rodzajem objawienia — ciepłe tony były ukryte we wnętrzu liścia przez całe lato i pojawiają się dopiero, gdy zieleń w końcu pozwoli im się pokazać.",
+      "vocab": [
+        { "term": "overcast", "ipa_br": "/ˈəʊvəkɑːst/", "pl": "zachmurzony, pochmurny", "new": true },
+        { "term": "mown", "ipa_br": "/məʊn/", "pl": "skoszony", "new": true },
+        { "term": "weathered", "ipa_br": "/ˈweðəd/", "pl": "zwietrzały, nadgryziony przez czas", "new": true },
+        { "term": "maple", "ipa_br": "/ˈmeɪpəl/", "pl": "klon", "new": true },
+        { "term": "scarlet", "ipa_br": "/ˈskɑːlət/", "pl": "szkarłatny", "new": true },
+        { "term": "aptness", "ipa_br": "/ˈæptnəs/", "pl": "trafność, stosowność", "new": true },
+        { "term": "revelation", "ipa_br": "/ˌrevəˈleɪʃən/", "pl": "objawienie, odsłonięcie", "new": true },
+        { "term": "tone", "ipa_br": "/təʊn/", "pl": "ton, odcień", "new": true },
+        { "term": "hidden", "ipa_br": "/ˈhɪdən/", "pl": "ukryty", "new": true },
+        { "term": "reveal", "ipa_br": "/rɪˈviːl/", "pl": "odsłaniać, ujawniać", "new": true },
+        { "term": "soul", "ipa_br": "/səʊl/", "pl": "dusza", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "In 'selective colour', the photographer has removed the colour from almost the entire frame, leaving only the maple.", "answer": true },
+            { "statement": "According to the text, the eye is drawn to many colourful objects across the picture.", "answer": false },
+            { "statement": "The photographer's message is that you can be the brightness in the world rather than waiting for it.", "answer": true },
+            { "statement": "The text says autumn colour is a kind of revelation, because the warm tones were hidden in the leaf all summer.", "answer": true },
+            { "statement": "The warm autumn tones only appear when the green of the leaf lets them show.", "answer": true },
+            { "statement": "The text claims the autumn colours are painted onto the leaf from outside.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C1": {
+      "text": "A grey day, a country museum, an ordinary maple: on their own, none of these would stop anyone. Yet this photograph, made on the twelfth of October 2025 at the open-air ethnographic park in Tokarnia, in Poland's Świętokrzyskie region, is hard to look away from — and the reason is a decision, not a scene. Using the technique known as selective colour, the photographer has bled the colour out of everything except one tree, so that a single crown of orange, red and gold hangs like a lit lantern in a monochrome world. The composition makes an argument. 'Do not wait for the world to change,' the caption runs; 'you can be its colour.' It is a sentiment, but a true one: a single vivid thing — a tree, a kindness, a person — can transform the whole field around it. What deepens the picture is that its subject was chosen well. The colours of an autumn leaf are not painted on in October; the yellows and oranges sit inside the leaf all year, masked by the green of chlorophyll, and are simply uncovered when the tree, sensing the shortening days, stops repairing that green and lets it fade. The tree, in other words, does exactly what the caption asks of us: it stops waiting, and shows the colour it had all along.",
+      "text_pl": "Szary dzień, wiejskie muzeum, zwyczajny klon: same z siebie żadne z nich by nikogo nie zatrzymały. A jednak od tego zdjęcia, zrobionego dwunastego października 2025 roku w parku etnograficznym w Tokarni, w polskim regionie świętokrzyskim, trudno oderwać wzrok — a powodem jest decyzja, nie scena. Za pomocą techniki zwanej selective colour fotograf wypuścił barwę ze wszystkiego prócz jednego drzewa, tak że pojedyncza korona pomarańczy, czerwieni i złota wisi jak zapalona latarnia w monochromatycznym świecie. Kompozycja stawia tezę. „Nie czekaj, aż świat się zmieni”, głosi podpis; „to Ty możesz być jego kolorem”. To sentyment, ale prawdziwy: pojedyncza żywa rzecz — drzewo, życzliwość, człowiek — potrafi przemienić całe pole wokół siebie. Tym, co pogłębia obraz, jest to, że jego temat wybrano dobrze. Kolory jesiennego liścia nie są namalowane w październiku; żółcie i pomarańcze tkwią w liściu przez cały rok, zamaskowane zielenią chlorofilu, i po prostu się odsłaniają, gdy drzewo, wyczuwając skracające się dni, przestaje naprawiać tę zieleń i pozwala jej zblednąć. Drzewo, innymi słowy, robi dokładnie to, o co prosi nas podpis: przestaje czekać i pokazuje kolor, który miało przez cały czas.",
+      "vocab": [
+        { "term": "monochrome", "ipa_br": "/ˈmɒnəkrəʊm/", "pl": "monochromatyczny, jednobarwny", "new": true },
+        { "term": "bleed", "ipa_br": "/bliːd/", "pl": "wypuszczać (barwę), zlewać się", "new": true },
+        { "term": "crown", "ipa_br": "/kraʊn/", "pl": "korona (drzewa)", "new": true },
+        { "term": "lantern", "ipa_br": "/ˈlæntən/", "pl": "latarnia, lampion", "new": true },
+        { "term": "composition", "ipa_br": "/ˌkɒmpəˈzɪʃən/", "pl": "kompozycja", "new": true },
+        { "term": "sentiment", "ipa_br": "/ˈsentɪmənt/", "pl": "sentyment, myśl uczuciowa", "new": true },
+        { "term": "vivid", "ipa_br": "/ˈvɪvɪd/", "pl": "żywy, jaskrawy", "new": true },
+        { "term": "transform", "ipa_br": "/trænsˈfɔːm/", "pl": "przemieniać", "new": true },
+        { "term": "mask", "ipa_br": "/mɑːsk/", "pl": "maskować, zasłaniać", "new": true },
+        { "term": "chlorophyll", "ipa_br": "/ˈklɒrəfɪl/", "pl": "chlorofil", "new": true },
+        { "term": "fade", "ipa_br": "/feɪd/", "pl": "blednąć, zanikać", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide if each statement is true or false based on the text.",
+          "items": [
+            { "statement": "The text says what makes the photograph hard to look away from is a decision, not the scene itself.", "answer": true },
+            { "statement": "Selective colour here leaves a single crown of orange, red and gold in an otherwise monochrome world.", "answer": true },
+            { "statement": "According to the text, the yellows and oranges are painted onto the leaf in October.", "answer": false },
+            { "statement": "The yellows and oranges sit inside the leaf all year, masked by the green of chlorophyll.", "answer": true },
+            { "statement": "The tree shows its colour when it stops repairing the green and lets it fade.", "answer": true },
+            { "statement": "The text concludes that the tree keeps waiting rather than showing the colour it always had.", "answer": false }
+          ]
+        }
+      ]
+    },
+    "C2": {
+      "text": "It takes almost nothing to make this photograph work, and that economy is the point. Taken on the twelfth of October 2025 at the open-air ethnographic museum in Tokarnia, in the Świętokrzyskie hills of southern Poland, it shows a single maple in autumn dress standing against a low fence and a flat grey sky. By the technique called selective colour, every hue but the tree's has been stripped away, so that a crown of orange, vermilion and gold blazes out of a photograph that is otherwise pure charcoal and ash. The composition is a small parable, and the photographer supplies its moral: do not wait for the world to grow brighter — be the brightness. One tree can colour an entire landscape; one generous soul can colour an entire life. The choice of subject gives the parable a second, biological layer. The fire in an autumn leaf is not applied from outside but released from within. All summer the yellows and oranges — carotenoids — are present in the leaf, invisible beneath the dominant green of chlorophyll; the reds are brewed fresh in autumn from the leaf's own trapped sugars. As the days shorten, the tree dismantles its chlorophyll and reclaims its nutrients, and the hidden colours, no longer overpowered, finally appear. The maple is therefore a perfect emblem for the caption's message: it does not acquire its colour by waiting for better conditions; it reveals a brilliance it had been carrying, unseen, the whole time.",
+      "text_pl": "Niemal nic nie trzeba, by to zdjęcie zadziałało, i właśnie ta oszczędność jest sednem. Zrobione dwunastego października 2025 roku w parku etnograficznym w Tokarni, na świętokrzyskich wzgórzach południowej Polski, pokazuje pojedynczy klon w jesiennej szacie, stojący na tle niskiego płotu i płaskiego, szarego nieba. Za pomocą techniki zwanej selective colour zdarto każdą barwę prócz barwy drzewa, tak że korona pomarańczy, cynobru i złota wybucha ze zdjęcia, które poza tym jest czystym węglem drzewnym i popiołem. Kompozycja jest małą przypowieścią, a fotograf dostarcza jej morału: nie czekaj, aż świat pojaśnieje — bądź jasnością. Jedno drzewo potrafi zabarwić cały krajobraz; jedna hojna dusza potrafi zabarwić całe życie. Wybór tematu nadaje przypowieści drugą, biologiczną warstwę. Ogień w jesiennym liściu nie jest nakładany z zewnątrz, lecz uwalniany z wnętrza. Przez całe lato żółcie i pomarańcze — karotenoidy — są obecne w liściu, niewidoczne pod dominującą zielenią chlorofilu; czerwienie warzone są świeżo jesienią z własnych, uwięzionych cukrów liścia. Gdy dni się skracają, drzewo rozbiera swój chlorofil i odzyskuje składniki odżywcze, a ukryte kolory, już nieprzytłoczone, w końcu się pojawiają. Klon jest więc doskonałym godłem dla przesłania podpisu: nie zyskuje koloru, czekając na lepsze warunki; odsłania blask, który nosił w sobie, niewidoczny, przez cały czas.",
+      "vocab": [
+        { "term": "economy", "ipa_br": "/ɪˈkɒnəmi/", "pl": "oszczędność (środków)", "new": true },
+        { "term": "hue", "ipa_br": "/hjuː/", "pl": "barwa, odcień", "new": true },
+        { "term": "vermilion", "ipa_br": "/vəˈmɪliən/", "pl": "cynober, jaskrawa czerwień", "new": true },
+        { "term": "charcoal", "ipa_br": "/ˈtʃɑːkəʊl/", "pl": "węgiel drzewny", "new": true },
+        { "term": "parable", "ipa_br": "/ˈpærəbəl/", "pl": "przypowieść", "new": true },
+        { "term": "moral", "ipa_br": "/ˈmɒrəl/", "pl": "morał", "new": true },
+        { "term": "generous", "ipa_br": "/ˈdʒenərəs/", "pl": "hojny, wielkoduszny", "new": true },
+        { "term": "carotenoid", "ipa_br": "/kəˈrɒtɪnɔɪd/", "pl": "karotenoid", "new": true },
+        { "term": "dismantle", "ipa_br": "/dɪsˈmæntəl/", "pl": "rozbierać, demontować", "new": true },
+        { "term": "reclaim", "ipa_br": "/rɪˈkleɪm/", "pl": "odzyskiwać", "new": true },
+        { "term": "emblem", "ipa_br": "/ˈembləm/", "pl": "godło, symbol", "new": true }
+      ],
+      "exercises": [
+        {
+          "type": "tf",
+          "prompt": "Reading comprehension. Decide whether each statement is true or false, paying close attention to nuance.",
+          "items": [
+            { "statement": "The text says it takes almost nothing to make the photograph work, and that economy is the point.", "answer": true },
+            { "statement": "Selective colour has stripped away every hue except the tree's, so the crown blazes out of an otherwise charcoal-and-ash image.", "answer": true },
+            { "statement": "According to the text, the fire in an autumn leaf is applied from outside rather than released from within.", "answer": false },
+            { "statement": "The carotenoids are present in the leaf all summer, invisible beneath the dominant green of chlorophyll.", "answer": true },
+            { "statement": "As the days shorten, the tree dismantles its chlorophyll and reclaims its nutrients, and the hidden colours finally appear.", "answer": true },
+            { "statement": "The text says the maple acquires its colour by waiting for better conditions.", "answer": false }
+          ]
+        }
+      ]
+    }
+  }
+}
