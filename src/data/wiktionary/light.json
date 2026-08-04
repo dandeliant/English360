@@ -140,7 +140,22 @@
   ],
   "pl": null,
   "translations": [
-    "światło"
+    "światło",
+    "światełko",
+    "lampka",
+    "ognik",
+    "znicz",
+    "ogień",
+    "jasny",
+    "widny",
+    "lekki",
+    "delikatny",
+    "łagodny",
+    "cichy",
+    "lekkostrawny",
+    "zapalać",
+    "oświetlać",
+    "widno"
   ],
   "fetchTerm": "light"
 }
